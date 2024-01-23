@@ -1,0 +1,28 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_verdandi_.loc		
+character_skills_localised_name_innate_hkrul_verdandi	Maiden of the New World	true
+character_skills_localised_description_innate_hkrul_verdandi	The ominous rivers and mysterious tree's are no rare sight for the exploring Sea-Maiden of the Graeling.	true
+character_skills_localised_name_hkrul_verdandi_special_1_0	Graeling Heritage	true
+character_skills_localised_name_hkrul_verdandi_special_1_1	Unusual Allegiances	true
+character_skills_localised_name_hkrul_verdandi_special_1_2	Expert Survivalist	true
+character_skills_localised_name_hkrul_verdandi_special_1_3	Inked Arrows	true
+character_skills_localised_name_hkrul_verdandi_special_1_4	Maiden of the Seas	true
+character_skills_localised_name_hkrul_verdandi_special_1_5	Harald's Valkyre	true
+character_skills_localised_name_hkrul_verdandi_special_1_6	Monster Hunt	true
+character_skills_localised_description_hkrul_verdandi_special_1_0	The Graeling are known for their ruthless raids and pillages, usually launched from their impressive fleet of longships.	true
+character_skills_localised_description_hkrul_verdandi_special_1_1	Verdandi's skill to traverse difficult jungle terrain has proven her a valueable asset for many of explorer, be it Norscan or Dwarven.	true
+character_skills_localised_description_hkrul_verdandi_special_1_2	A keen sight is both helpful when exploring as it is when taking aim.	true
+character_skills_localised_description_hkrul_verdandi_special_1_3	Inked with the poisonous blood of slain skinks, Verdandi's arrows are as colourful as they are deadly.	true
+character_skills_localised_description_hkrul_verdandi_special_1_4	Few know they're way around a mast and oar as Verdandi, Sea-Maiden of the Graeling.	true
+character_skills_localised_description_hkrul_verdandi_special_1_5	There are not many who have Harald Whyrlas's ear, yet Verdandi is considered champion among Graeling.	true
+character_skills_localised_description_hkrul_verdandi_special_1_6	The Sea-Maiden harnesses her skill and can bring down any monster, no matter the terrain.	true
+unit_abilities_onscreen_name_hkrul_verdandi_hunt	Monster Hunt	false
+unit_abilities_tooltip_text_hkrul_verdandi_hunt	As she blows the Graeling horn hunters gather for their feast: The Hunt.	false
+agent_subtypes_onscreen_name_override_hkrul_verdandi	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_verdandi	Legendary Hero	false
+unit_description_short_texts_text_hkrul_verdandi	Verdandi Sea-Maiden is a sight to behold, the Graeling Champion is known for sailing distant corners hoping to challenge worthy beasts and foes.	false
+names_name_7411711831	Verdandi	false
+names_name_7411711830	Sea-Maiden	false
+land_units_onscreen_name_hkrul_verdandi	Verdandi Sea-Maiden	true
+effects_description_hkrul_verdandi_hunt	Ability: "Monster Hunt"	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_verdandi		false

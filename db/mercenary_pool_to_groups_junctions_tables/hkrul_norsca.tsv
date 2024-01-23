@@ -1,0 +1,4 @@
+key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tech_requirement
+#mercenary_pool_to_groups_junctions_tables;1;db/mercenary_pool_to_groups_junctions_tables/hkrul_norsca						
+1052539220	hkrul_skeggi_giant_ror	1	wh_dlc08_nor_units_of_renown_pool			
+1052539221	hkrul_sarl_hunters_ror	1	wh_dlc08_nor_units_of_renown_pool			

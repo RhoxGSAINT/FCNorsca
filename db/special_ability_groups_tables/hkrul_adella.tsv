@@ -1,0 +1,4 @@
+ability_group	icon_path	special_edition_mask	sort_order	is_naval	button_name	sound_event	is_composite_group	unique_id	sound_switch	show_lore_icon	colour_hex
+#special_ability_groups_tables;11;db/special_ability_groups_tables/hkrul_adella											
+hkrul_adella_lore	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	0	false	lore_tzeentch	Play_WH_UI_Ability_Click_Generic_Death	true	885493080	Tzeentch	true	2370FF
+hkrul_soren_lore	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	0	false	lore_dark_magic	Play_WH_UI_Ability_Click_Generic_Death	true	885493081	Dark	true	555500

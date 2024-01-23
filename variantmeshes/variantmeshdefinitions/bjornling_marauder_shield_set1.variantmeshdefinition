@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="shield" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/shield_01/thm_bjorn_marauder_shield_01.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/shield_02/thm_bjorn_marauder_shield_02.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/shield_03/thm_bjorn_marauder_shield_01_copy.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/shield_04/thm_bjorn_marauder_shield_04_copy.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_shield_type:metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

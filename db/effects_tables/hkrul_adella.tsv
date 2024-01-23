@@ -1,0 +1,18 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_adella					
+hkrul_enable_immortality		0		campaign	true
+hkrul_soren_sack	item_ability.png	300	item_ability.png	battle	true
+hkrul_soren_sack_2	item_ability.png	300	item_ability.png	battle	true
+hkrul_adella_sword	item_ability.png	300	item_ability.png	battle	true
+hkrul_adella_skeggi_ws	weapon_damage.png	97	weapon_damage.png	battle	true
+hkrul_adella_mount	mount.png	50	mount.png	both	true
+hkrul_adella_mount_2	mount.png	50	mount.png	both	true
+hkrul_adella_mount_3	mount.png	50	mount.png	both	true
+hkrul_soren_sack_uses	general_ability.png	705	general_ability.png	battle	true
+hkrul_soren_disable_sack	general_ability.png	705	general_ability.png	battle	true
+hkrul_adella_skeggi_recruit_rank	experience.png	120	experience.png	campaign	true
+hkrul_adella_skeggi_charge	charge.png	120	charge.png	battle	true
+hkrul_adella_skeggi_md	defence.png	120	defence.png	battle	true
+hkrul_adella_skeggi_leadership	morale.png	120	morale.png	battle	true
+rhox_adella_monster_direct_dummy	effect_bundle_whispers.png	2	effect_bundle_whispers.png	campaign	true
+rhox_adella_corruption_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true

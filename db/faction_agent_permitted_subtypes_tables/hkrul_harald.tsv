@@ -1,0 +1,21 @@
+agent	faction	subtype
+#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_harald		
+general	wh_dlc08_nor_norsca	hkrul_harald
+general	wh2_main_nor_aghol	hkrul_harald
+general	wh2_main_nor_skeggi	hkrul_harald
+general	wh3_dlc20_nor_dolgan	hkrul_harald
+general	wh3_dlc20_nor_kuj	hkrul_harald
+general	wh3_dlc20_nor_kul	hkrul_harald
+general	wh3_dlc20_nor_tong	hkrul_harald
+general	wh3_dlc20_nor_yusak	hkrul_harald
+general	wh3_dlc21_nor_wyrmkins	hkrul_harald
+general	wh_dlc08_nor_naglfarlings	hkrul_harald
+general	wh_dlc08_nor_vanaheimlings	hkrul_harald
+general	wh_dlc08_nor_wintertooth	hkrul_harald
+general	wh_main_nor_aesling	hkrul_harald
+general	wh_main_nor_baersonling	hkrul_harald
+general	wh_main_nor_bjornling	hkrul_harald
+general	wh_main_nor_graeling	hkrul_harald
+general	wh_main_nor_sarl	hkrul_harald
+general	wh_main_nor_skaeling	hkrul_harald
+general	wh_main_nor_varg	hkrul_harald

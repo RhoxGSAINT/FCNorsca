@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hr1\skg\skg_adella_horse\skg_adella_horse_01.wsmodel" >
+			<META_DATA>audio_armour_type:leather</META_DATA>			<META_DATA>audio_entity_type:wh_horse_normal</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

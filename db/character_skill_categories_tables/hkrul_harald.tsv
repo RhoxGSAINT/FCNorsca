@@ -1,0 +1,4 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_harald					
+hkrul_harald_line1	0	0	1	hkrul_harald	005500
+hkrul_harald_line2	1	1	1	hkrul_harald	242424

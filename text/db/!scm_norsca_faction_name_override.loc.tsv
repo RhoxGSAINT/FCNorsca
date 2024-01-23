@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/!scm_norsca_faction_name_override.loc		
+factions_attack_desc_wh_dlc08_nor_vanaheimlings	You are attacking the Icefang Tribe!	false
+factions_defend_desc_wh_dlc08_nor_vanaheimlings	You are defending against the Icefang Tribe!	false
+factions_screen_adjective_wh_dlc08_nor_vanaheimlings		false
+factions_screen_name_wh_dlc08_nor_vanaheimlings	Icefang Tribe	false
+factions_screen_name_when_rebels_wh_dlc08_nor_vanaheimlings	Icefang Tribe Rebels	false
+factions_attack_desc_mixer_nor_fjordlings	You are attacking the Fjordlings!	false
+factions_defend_desc_mixer_nor_fjordlings	You are defending against the Fjordlings!	false
+factions_screen_adjective_mixer_nor_fjordlings		false
+factions_screen_name_mixer_nor_fjordlings	Fjordlings	false
+factions_screen_name_when_rebels_mixer_nor_fjordlings	Fjordlings Rebels	false

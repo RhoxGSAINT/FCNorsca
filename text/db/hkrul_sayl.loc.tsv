@@ -1,0 +1,46 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_sayl.loc		
+character_skills_localised_name_innate_hkrul_sayl	Master of Deceit	true
+character_skills_localised_description_innate_hkrul_sayl	The master of betrayal, guile and treachery leads his Dolgan Tribe in to realms unknown.	true
+character_skills_localised_description_hkrul_sayl_special_0_1	Few dare to attempt trickery and deceit when faced with various Chaos Gods, yet Sayl masterfully attempts to decieve them.	true
+character_skills_localised_name_hkrul_sayl_special_0_1	The Faithless	true
+character_skills_localised_description_hkrul_sayl_special_1_1	Merges with the very essence of Chaos, enhancing strength and resilience. Sayl becomes a conduit for unrestrained power.	true
+character_skills_localised_name_hkrul_sayl_special_1_1	Chaos Infusion	true
+character_skills_localised_description_hkrul_sayl_special_1_2	Ethereal entities born from the chaotic maelstrom. These creatures serve Sayl in battle, embodying the essence of unpredictability.	true
+character_skills_localised_name_hkrul_sayl_special_1_2	Ephemeral Conjuration	true
+character_skills_localised_description_hkrul_sayl_special_1_5	Strengthens the bonds with allies who share the faith in Chaos Undivided. Sayl's presence unifies the disparate forces, creating a formidable, chaotic alliance.	true
+character_skills_localised_name_hkrul_sayl_special_1_5	Deceit and Treachery	true
+character_skills_localised_name_hkrul_sayl_special_1_0	Distorted Echoes	true
+character_skills_localised_description_hkrul_sayl_special_1_3	Commands the raw power of Chaos-infused Mammoths, unleashing them upon the battlefield. Sayl rides the tide of colossal fury.	true
+character_skills_localised_description_hkrul_sayl_special_1_0	Manipulates time and space, creating echoes of chaos. Sayl's presence becomes disorienting, disrupting enemy coordination.	true
+character_skills_localised_name_hkrul_sayl_special_1_3	Mammoth's Wrath Unleashed	true
+character_skills_localised_description_hkrul_sayl_special_0_2	Placeholder Text Placeholder Text Placeholder Text Placeholder Text	true
+character_skills_localised_name_hkrul_sayl_special_0_2	The Dolgan Tribe	true
+character_skills_localised_description_hkrul_sayl_special_1_4	Harnesses the chaotic energies of the Warp to amplify spells. Sayl's magical prowess becomes an unpredictable force, defying conventional counters.	true
+character_skills_localised_name_hkrul_sayl_special_1_4	Warp Conduit Mastery	true
+agent_subtypes_onscreen_name_override_hkrul_sayl	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_sayl		false
+effects_description_hkrul_sayl_mist	Ability: "Traitor’s Mist''	true
+effects_description_hkrul_sayl_staff	Ability: "Viperous Staff''	true
+effects_description_hkrul_summon_nightmaw	Ability: "Summon Nightmaw''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_sayl	The Ultimate Deceit	true
+character_trait_levels_colour_text_hkrul_defeated_trait_sayl	I wonder how you will bargain your way out of this one, Sayl..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_sayl	Defeated Sayl the Faithless	true
+ancillaries_colour_text_hkrul_sayl_staff	Twisted and serpentine, the Viperous Staff is the malevolent artifact wielded by Sayl the Faithless. Its dark coils writhe with venomous enchantments, embodying the treacherous essence of its master. Crafted in the shadows of forbidden sorceries, the staff is both a conduit and a weapon, its bite carrying the deadly poison of chaos. In Sayl's hands, the Viperous Staff becomes an instrument of damnation, striking with the insidious force that befits a servant of the ever-shifting tides of Chaos.	true
+ancillaries_onscreen_name_hkrul_sayl_staff	Viperous Staff	true
+land_units_onscreen_name_hkrul_sayl	Sayl the Faithless	true
+land_units_onscreen_name_hkrul_nightmav	Nightmaw	true
+names_name_5670700450	the Faithless	false
+names_name_5670700451	Sayl	false
+unit_description_short_texts_text_hkrul_sayl	Sayl is an utterly self-serving egotist, expert sorcerer and practiced murderer. His road to power lies in his total mastery of betrayal, guile and treachery.	false
+unit_description_short_texts_text_hkrul_nightmav	A hellspawn with three ghastly faces enslaved to the will of Sayl. This creature is some form of shadow-kin as it bleeds darkness and is surrounded by a swirling vortex of dark and shadowed forms	false
+unit_abilities_tooltip_text_hkrul_sayl_mist	Sayl can transform his armoured warriors into intangible mist, allowing them to drift unhindered through the enemy’s battlelines.	true
+unit_abilities_onscreen_name_hkrul_sayl_mist	Traitor’s Mist	true
+unit_abilities_onscreen_name_hkrul_summon_nightmaw	Nightmaw	false
+unit_abilities_tooltip_text_hkrul_summon_nightmaw	Using chaotic magic Sayl betrayed nine wizards and bound them together, forming a disfigured monstrosity destined to serve Sayl: Nightmaw.	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_summon_nightmaw	Spawns Nightmaw at the start of the battle	false
+unit_abilities_tooltip_text_hkrul_sayl_staff	The Viperous Staff is a foul heirloom of the Dolgan tribe. This dark-iron staff is entwined with serpents which come alive at the wielder's command	true
+unit_abilities_onscreen_name_hkrul_sayl_staff	Viperous Staff	true
+ancillaries_colour_text_hkrul_sayl_teeth	This corpse-skin bag contains numerous, sigil-etched teeth and fangs Sayl has torn from the skulls of the various wizards he has defeated in his unholy career, not least of all those of his first master, Schalkain. Should his magic go awry, Sayl may hurl a handful of the teeth as part of a treacherous curse against an ally to divert the wrath of the Winds of Magic.	true
+ancillaries_onscreen_name_hkrul_sayl_teeth	Schalkain's Teeth	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_sayl		false

@@ -1,0 +1,127 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_adella.loc		
+character_skills_localised_name_innate_hkrul_adella	King of the Jungle	true
+character_skills_localised_description_innate_hkrul_adella	The leader of Skeggi is one, if not the most powerful human on the Lustrian continent.	true
+character_skills_localised_description_hkrul_adella_special_0_1	A Skeggi loyal to one leader would surely shift the tides of destiny in the New World.	true
+character_skills_localised_name_hkrul_adella_special_0_1	A United Skeggi	true
+character_skills_localised_description_hkrul_adella_special_1_1	They smell horrid, yet the Jarl's of Skeggi swear by Soren's potions and blessings.	true
+character_skills_localised_name_hkrul_adella_special_1_1	Soren's Concoctions	true
+character_skills_localised_description_hkrul_adella_special_1_2	It is said even her blades and daggers whisper the names of those they are destined to kill.	true
+character_skills_localised_name_hkrul_adella_special_1_2	Blades of Whispers	true
+character_skills_localised_description_hkrul_adella_special_1_5	Jarl Sammi strangled Losteriksson and took over Skeggi centuries ago, he declared the Jungle the enemy and was expertly skilled in slaying Lizardmen.	true
+character_skills_localised_name_hkrul_adella_special_1_5	Sammi's Journal	true
+character_skills_localised_description_hkrul_adella_special_1_0	The jungle raids have taught the Skeggi all there is about the feral beasts that stalk these lands.	true
+character_skills_localised_name_hkrul_adella_special_1_0	Stripped Scales	true
+character_skills_localised_description_hkrul_adella_special_1_3	Not to be underestimated as both a sorceress and a warrior, Adella's totem is one of many faces.	true
+character_skills_localised_name_hkrul_adella_special_1_3	Adella's Totem	true
+character_skills_localised_description_hkrul_adella_special_0_2	What the Skeggi marauders lack in intelligence they make up in sheer ruthlessness.	true
+character_skills_localised_name_hkrul_adella_special_0_2	Skeggi Marauders	true
+character_skills_localised_description_hkrul_adella_mount	Blóm, which means flower - is Adella's pet and steed. She fed it poisonous continously as part of her experiments which caused it to deform and mutate.	true
+character_skills_localised_name_hkrul_adella_mount	Blóm	true
+character_skills_localised_name_hkrul_adella_mount_2	Placeholder	false
+character_skills_localised_description_hkrul_adella_mount_2	Placeholder Text Placeholder Text	false
+character_skills_localised_name_hkrul_adella_mount_3	Placeholder	false
+character_skills_localised_description_hkrul_adella_mount_3	Placeholder Text Placeholder Text	false
+character_skills_localised_description_hkrul_adella_special_1_4	Trinkets blessed by Tzeentch seemingly appear at random on the trails set out for her by her many mouths.	true
+character_skills_localised_name_hkrul_adella_special_1_4	Blessed Trinkets	true
+character_skills_localised_name_innate_hkrul_soren	The Flatulent Hoarder	true
+character_skills_localised_description_innate_hkrul_soren	None as flatulent as the Legendary Vitki of Skeggi, Soren. His sack holds many gifts and blessings.	true
+character_skills_localised_description_hkrul_soren_special_0_1	Soren is the only Vitki that has King Adella's ear, it is said because he holds a rock Adella believes to be bestowed upon him by Tzeentch. In truth, it's just a rock.	true
+character_skills_localised_name_hkrul_soren_special_0_1	Rock of Whispers	true
+character_skills_localised_description_hkrul_soren_special_1_1	No ordinary hatchlings are the beasts that emerge from Soren's eggs.	true
+character_skills_localised_name_hkrul_soren_special_1_1	Corrupted Eggs	true
+character_skills_localised_description_hkrul_soren_special_1_2	A true Vitki knows how to use the local flora to craft potions, incantations and spells a like.	true
+character_skills_localised_name_hkrul_soren_special_1_2	Local Flora	true
+character_skills_localised_description_hkrul_soren_special_1_5	What Soren lacks in mobility the legendary seer makes up in sheer strength.	true
+character_skills_localised_name_hkrul_soren_special_1_5	Soren's Might	true
+character_skills_localised_description_hkrul_soren_special_1_0	Soren's Sack is filled with enchanted items, artifacts, trinkets and plain junk. You never know what he digs up next.	true
+character_skills_localised_name_hkrul_soren_special_1_0	Sack of Gifts	true
+character_skills_localised_description_hkrul_soren_special_1_3	The most talented and powerful Seer of the Lustrian continent, Soren holds a special place among the Skeggi.	true
+character_skills_localised_name_hkrul_soren_special_1_3	Vitki of the Jungle	true
+character_skills_localised_description_hkrul_soren_special_1_4	Erik Fishbrain was the first raider that set foot on Lustria, Soren claims he carries his Horn in his sack - this in no way to be verified however.	true
+character_skills_localised_name_hkrul_soren_special_1_4	Fishbrain's Horn	true
+character_skills_localised_description_hkrul_adella_special_0_3	She who follows the ways of Tzeentch may recieve his fruitful boons.	true
+character_skills_localised_name_hkrul_adella_special_0_3	Ways of the Changer	true
+agent_subtypes_onscreen_name_override_hkrul_adella	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_adella		false
+agent_subtypes_onscreen_name_override_hkrul_soren	Legendary Hero	false
+effects_description_hkrul_adella_skeggi_ws	Weapon Strength: %+n% for Skeggi units	true
+effects_description_hkrul_adella_skeggi_recruit_rank	Recruit rank: %+n for Skeggi units	true
+effects_description_hkrul_adella_sword	Ability: "Sword of Warping''	true
+effects_description_hkrul_soren_sack	Ability: "Soren's Sack''	true
+effects_description_hkrul_soren_sack_2	Ability: "Soren's Finest''	true
+effects_description_hkrul_adella_mount	Mount: "Blóm''	true
+effects_description_hkrul_adella_mount_2	Mount: "Placeholder''	true
+effects_description_hkrul_adella_mount_3	Mount: "Placeholder''	true
+effects_description_hkrul_soren_sack_uses	Ability number of uses: %+n for "Soren's Sack"	false
+effects_description_hkrul_adella_skeggi_md	Melee defence: %+n for Skeggi units	true
+effects_description_hkrul_adella_skeggi_charge	Charge bonus: %+n for Skeggi units	true
+effects_description_hkrul_adella_skeggi_leadership	Leadership: %+n for Skeggi units	true
+effects_description_rhox_adella_monster_direct_dummy	Thousand Whispers: Adella may directly face monsters within the arcanum	false
+effects_description_hkrul_soren_disable_sack	Replaces: "{{tr:unit_abilities_onscreen_name_hkrul_soren_sack}}"	false
+effects_description_rhox_adella_corruption_dummy	High Mono God Corruption in Provinces increases your cap to special units	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_adella	Whispers no more	true
+character_trait_levels_colour_text_hkrul_defeated_trait_adella	Lots of talks and whispers yet little to show for it..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_adella	Defeated ''King'' Adella of the Thousand Mouths	true
+ancillaries_colour_text_hkrul_adella_sword	A magic sword which ignores both armour and the protective scaly skin of the Lizardmen when it strikes. It is said the vitkis of Skeggi chanted unholy incantations for seven days straight without the slightest interruption before it was deemed satisfactory by King Adella.	true
+ancillaries_onscreen_name_hkrul_adella_sword	Sword of Warping	true
+ancillaries_colour_text_hkrul_adella_mount	Placeholder Text Placeholder Text	true
+ancillaries_onscreen_name_hkrul_adella_mount	Blóm	true
+ancillaries_colour_text_hkrul_adella_mount_2	Placeholder Text Placeholder Text	true
+ancillaries_onscreen_name_hkrul_adella_mount_2	Imperial Pegasus	true
+ancillaries_colour_text_hkrul_adella_mount_3	Placeholder Text Placeholder Text	true
+ancillaries_onscreen_name_hkrul_adella_mount_3	Imperial Griffon	true
+missions_localised_description_hkrul_skeggi_adella_sword_final	Placeholder Text Placeholder Text Placeholder Text Placeholder Text	false
+missions_localised_title_hkrul_skeggi_adella_sword_final	Sword of Warping	false
+land_units_onscreen_name_hkrul_adella	Adella of the Thousand Mouths	true
+land_units_onscreen_name_hkrul_adella_mount	Adella of the Thousand Mouths	true
+land_units_onscreen_name_hkrul_adella_mount_2	Adella of the Thousand Mouths	true
+land_units_onscreen_name_hkrul_adella_mount_3	Adella of the Thousand Mouths	true
+land_units_onscreen_name_hkrul_skeggi_inf_marauder_berserkers_0	Skeggi Berserkers	false
+land_units_onscreen_name_hkrul_skeggi_inf_marauder_champions_0	Skeggi Champions	false
+land_units_onscreen_name_hkrul_skeggi_inf_marauder_champions_1	Skeggi Champions (Great Weapons)	false
+land_units_onscreen_name_hkrul_skeggi_inf_marauder_hunters_1	Skeggi Hunters (Javelins)	false
+land_units_onscreen_name_hkrul_skeggi_inf_marauder_hunters_0	Skeggi Hunters (Throwing Axes)	false
+land_units_onscreen_name_hkrul_skeggi_inf_marauder_spearman_0	Skeggi Spearmen	false
+land_units_onscreen_name_hkrul_skeggi_giant	Skeggi Giant	false
+land_units_onscreen_name_hkrul_skeggi_giant_ror	Fishbrain's Monolith (Norscan Giant)	false
+land_units_onscreen_name_hkrul_skeggi_inf_chaos_marauders_0	Skeggi Marauders	false
+land_units_onscreen_name_hkrul_skeggi_inf_chaos_marauders_1	Skeggi Marauders (Great Weapons)	false
+ui_unit_groupings_onscreen_hkrul_norsca_spear	Spear Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_beast	Monster	false
+ui_unit_groupings_onscreen_hkrul_norsca_missile	Javelin Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_axe	Axe Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_axe_duel	Duel Axe Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_axe_great	Great Axe Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_axe_throwing	Close-Quarters Infantry	false
+ui_unit_groupings_onscreen_hkrul_soren	Wizard	false
+ui_unit_group_parents_onscreen_name_hkrul_nor_norsca	Norscan Tribes	false
+land_units_onscreen_name_hkrul_soren	Soren Hoarder	true
+loading_screen_quotes_description_hkrul_adella	Adella of the Thousand Mouths is the ''King'' of Skeggi and devote servant of Tzeentch. The thousand holes across her body whisper her Masters sinister plans - which she tries to bring to fruition.	false
+loading_screen_quotes_title_hkrul_adella	Adella of the Thousand Mouths	false
+loading_screen_quotes_bulletpoints_hkrul_adella	[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry||Spellcaster	false
+frontend_faction_leaders_frontend_description_mixer_ime_nor_skeggi	Adella of the Thousand Mouths, ''King'' of Skeggi, plots and schemes in Tzeentch's name as her mouths whisper sinister plans to dominate all of Lustria.	false
+loading_screen_quotes_description_hkrul_soren	Soren Hoarder is the most esteemed Norscan vitki in Skeggi. He carries an enormous sack with him as he lumbers across the city, full of totems and gifts people have given him for his insight and blessings. But Soren can seemingly see the future with terrifying accuracy and has powerful command of Chaos Sorcery and Dark Magic. 	false
+loading_screen_quotes_title_hkrul_soren	Soren Hoarder	false
+loading_screen_quotes_bulletpoints_hkrul_soren	[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-Large||Spellcaster	false
+names_name_5670500337	of the Thousand Mouths	false
+names_name_5670500338	Adella	false
+names_name_5670500340	Hoarder	false
+names_name_5670500341	Soren	false
+unit_abilities_tooltip_text_hkrul_adella_sword	A magical sword crafted from the essence of slain Cold Ones with the power to cut through any armour or scaled skin.	true
+unit_abilities_onscreen_name_hkrul_adella_sword	Sword of Warping	true
+unit_abilities_tooltip_text_hkrul_soren_sack	Soren carries his enormous sack full of long forgotten totems and gifts people have given him for his blessings. Their effects unknown even to him.	false
+unit_abilities_onscreen_name_hkrul_soren_sack	Soren's Sack	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_1	[[img:hkrul_soren_gift_1]][[/img]]Blessed Sapphire	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2	[[img:hkrul_soren_gift_2]][[/img]]Spoiled Leftovers	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_3	[[img:hkrul_soren_gift_3]][[/img]]Jarl Fishbrain's Horn	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_4	[[img:hkrul_soren_gift_4]][[/img]]Rotten Giant's Toe	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_1	[[img:hkrul_soren_gift_2_1]][[/img]]Losteriksson's Pauldron	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_2	[[img:hkrul_soren_gift_2_2]][[/img]]Painted Amazon Head	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_3	[[img:hkrul_soren_gift_2_3]][[/img]]Enchanted Coatl Feathers	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_4	[[img:hkrul_soren_gift_2_4]][[/img]]Cursed Slann Blood	false
+unit_abilities_tooltip_text_hkrul_soren_sack_2	As his sack slowly depletes so Soren finds better and better treasures, with more powerful boons and effects to boot.	false
+unit_abilities_onscreen_name_hkrul_soren_sack_2	Soren's Finest	false
+unit_description_short_texts_text_hkrul_adella	"King" Adella of Skeggi is blessed by Tzeentch with thousands of half-inch holes which feed her with sinister plans and whispers.	false
+unit_description_short_texts_text_hkrul_soren	Soren is the most esteemed Vitki in Skeggi and can see the future with terrifying accuracy. His sack is filled with gifts and offerings for his services.	false
+unit_description_short_texts_text_hkrul_skeggi_giant_ror	An astonishingly large Giant, the people of Skeggi where quick to name him after Jarl Fishbrain the Red - seeing his strength as a resemblence. The only, one might add.	false

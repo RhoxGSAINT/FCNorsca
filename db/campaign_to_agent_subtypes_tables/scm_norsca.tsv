@@ -1,0 +1,20 @@
+agent_subtype	campaign_type
+#campaign_to_agent_subtypes_tables;0;db/campaign_to_agent_subtypes_tables/scm_norsca	
+hkrul_adella	wh3_main_combi
+hkrul_soren	wh3_main_combi
+hkrul_akkorak	wh3_main_combi
+hkrul_birna	wh3_main_combi
+hkrul_drenok	wh3_main_combi
+hkrul_einar	wh3_main_combi
+hkrul_harald	wh3_main_combi
+hkrul_sayl	wh3_main_combi
+hkrul_ulfric	wh3_main_combi
+hkrul_adella	cr_combi_expanded
+hkrul_soren	cr_combi_expanded
+hkrul_akkorak	cr_combi_expanded
+hkrul_birna	cr_combi_expanded
+hkrul_drenok	cr_combi_expanded
+hkrul_einar	cr_combi_expanded
+hkrul_harald	cr_combi_expanded
+hkrul_sayl	cr_combi_expanded
+hkrul_ulfric	cr_combi_expanded

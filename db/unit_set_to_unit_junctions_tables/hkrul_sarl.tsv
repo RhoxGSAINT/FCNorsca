@@ -1,0 +1,21 @@
+unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
+#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_sarl					
+			hkrul_sarl_hunters	all_non_chs	true
+			hkrul_sarl_hunters	dlc08_nor_marauders_all	false
+			hkrul_sarl_hunters	dlc08_nor_marauders_hunters	false
+			hkrul_sarl_hunters	dlc08_nor_marauders_inf	false
+			hkrul_sarl_hunters	dlc08_nor_marauders_mis	false
+			hkrul_sarl_hunters	mp_cap_unit_nor_inf_marauder_hunters_0	false
+			hkrul_sarl_hunters	nor_all	false
+			hkrul_sarl_hunters	chs_marauders	false
+			hkrul_sarl_hunters	merc_set_chs_marauders_inf_und	false
+			hkrul_sarl_hunters	mp_cap_unit_chs_inf_chaos_marauders_greatweapons	false
+			hkrul_sarl_hunters	wh2_dlc16_chs_marauders_rank7	false
+			hkrul_sarl_hunters	wh3_dlc20_chs_marauders_inf_only_rank7	false
+			hkrul_sarl_hunters	wh3_dlc20_chs_marauders_inf_only	false
+			hkrul_sarl_hunters	wh3_dlc20_chs_und_all	false
+			hkrul_sarl_hunters	wh3_dlc20_chs_unmarked_units	false
+			hkrul_sarl_hunters	wh2_dlc11_nor_marauder_hunters_marauder_horsemen	false
+			hkrul_sarl_hunters	wh2_dlc11_nor_vets_marauder_hunters_marauder_horsemen	false
+			hkrul_sarl_hunters	wh2_dlc17_wulfrik_focus_units	false
+			hkrul_sarl_hunters	wh2_main_ror_units_all	false

@@ -1,0 +1,10 @@
+key	no_going_back_level	hidden	precedence	icon	ui_priority	pre_battle_speech_parameter	remove_on_skill_reset
+#character_traits_tables;3;db/character_traits_tables/scm_norsca							
+hkrul_defeated_trait_adella	1	false	1	hkrul_adella	1		false
+hkrul_defeated_trait_akkorak	1	false	1	hkrul_akkorak	1		false
+hkrul_defeated_trait_birna	1	false	1	hkrul_birna	1		false
+hkrul_defeated_trait_drenok	1	false	1	hkrul_drenok	1		false
+hkrul_defeated_trait_einar	1	false	1	hkrul_einar	1		false
+hkrul_defeated_trait_harald	1	false	1	hkrul_harald	1		false
+hkrul_defeated_trait_sayl	1	false	1	hkrul_sayl	1		false
+hkrul_defeated_trait_ulfric	1	false	1	hkrul_ulfric	1		false

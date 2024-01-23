@@ -1,0 +1,6 @@
+key	tech_category_tab	tech_category_position	chain_category	in_encyclopedia	building_superchain	optional_tier_icon	optional_sort_order	optional_required_horde_commander	can_be_dismantled
+#building_chains_tables;9;db/building_chains_tables/rhox_adella									
+rhox_adella_dae_temple_kho			happiness	false	wh2_main_sch_infrastructure1_farm		15		true
+rhox_adella_dae_temple_nur			happiness	false	wh2_main_sch_infrastructure1_farm		16		true
+rhox_adella_dae_temple_sla			happiness	false	wh2_main_sch_infrastructure1_farm		17		true
+rhox_adella_dae_temple_tze			happiness	false	wh2_main_sch_infrastructure1_farm		18		true

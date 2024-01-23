@@ -1,0 +1,4 @@
+ability	effect
+#unit_abilities_to_additional_ui_effects_juncs_tables;0;db/unit_abilities_to_additional_ui_effects_juncs_tables/hkrul_sayl	
+hkrul_summon_nightmaw	wh_main_all_summoned_unit_single_use
+hkrul_summon_nightmaw	hkrul_summon_nightmaw

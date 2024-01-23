@@ -1,0 +1,6 @@
+effect	bonus_value_id	unit_ability
+#effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_adella		
+hkrul_adella_sword	enable	hkrul_adella_sword
+hkrul_soren_sack	enable	hkrul_soren_sack
+hkrul_soren_sack_uses	uses_mod	hkrul_soren_sack
+hkrul_soren_sack_2	enable	hkrul_soren_sack_2

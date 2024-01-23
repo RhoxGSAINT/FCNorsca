@@ -1,0 +1,12 @@
+agent_subtype	clan_name	forename	other_name	surname	agent_type	spawn_behaviour	spawn_via_ui
+#unique_agents_tables;3;db/unique_agents_tables/scm_norsca							
+hkrul_adella		5670500337		5670500338	general	FACTION_LEADER	false
+hkrul_soren		5670500341		5670500340	wizard	CAPITAL_CITY_OR_PRIMARY_FORCE	false
+hkrul_akkorak		3670700351		3670700350	general	FACTION_LEADER	false
+hkrul_birna		5682700361		5682700360	general	FACTION_LEADER	false
+hkrul_drenok		5680700356		5680700355	general	FACTION_LEADER	false
+hkrul_einar		5670700356		5670700355	general	FACTION_LEADER	false
+hkrul_harald		5670700351		5670700350	general	FACTION_LEADER	false
+hkrul_sayl		5670700451		5670700450	general	FACTION_LEADER	false
+hkrul_ulfric		5270700351		5270700350	general	FACTION_LEADER	false
+hkrul_verdandi		7411711831		7411711830	champion	FACTION_LEADER	false

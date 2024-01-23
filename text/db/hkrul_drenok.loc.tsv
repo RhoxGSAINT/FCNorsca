@@ -1,0 +1,35 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_drenok.loc		
+character_skills_localised_name_innate_hkrul_drenok	Wielder of the Great Axe	true
+character_skills_localised_description_innate_hkrul_drenok	The mighty Chieftain of the Icefang Tribe has deep frozen ice running through his chaos infused veins.	true
+character_skills_localised_description_hkrul_drenok_special_0_1	Mastering the Tundra Tracking skill, Drenok's armies gain heightened visibility in snowy landscapes, allowing for better strategic positioning and ambushing opportunities.	true
+character_skills_localised_name_hkrul_drenok_special_0_1	Monolith of Frost	true
+character_skills_localised_description_hkrul_drenok_special_1_1	As a master recruiter, Drenok's Glacial Recruitment Prowess reduces the recruitment cost and time for Icefang-specific units, ensuring a formidable army loyal to the Icefang tribe.	true
+character_skills_localised_name_hkrul_drenok_special_1_1	Glacial Riders	true
+character_skills_localised_description_hkrul_drenok_special_1_2	Drenok's Frozen Ambitions accelerate the growth and development of the Icefang territories, transforming them into economic powerhouses and bastions of Norscan strength	true
+character_skills_localised_name_hkrul_drenok_special_1_2	Cry of the Axe	true
+character_skills_localised_description_hkrul_drenok_special_1_5	Drenok leaves a lasting legacy as the Greataxemaster, improving the recruitment capacity and effectiveness of Greataxe units within the Icefang tribe, ensuring a formidable and loyal force for generations to come.	true
+character_skills_localised_name_hkrul_drenok_special_1_5	Icefang's Fury	true
+character_skills_localised_description_hkrul_drenok_special_1_0	Drenok's Arctic Resilience enhances the hardiness of his forces, reducing attrition and increasing resistance to cold-related hardships during prolonged campaigns in the frozen North.	true
+character_skills_localised_name_hkrul_drenok_special_1_0	Feats and Trophies	true
+character_skills_localised_description_hkrul_drenok_special_1_3	Drenok unleashes Polar Raider Raids, enabling his armies to conduct swift and devastating raids on coastal settlements, crippling enemy economies and bolstering the Icefang treasury	true
+character_skills_localised_name_hkrul_drenok_special_1_3	Icefang Marauders	true
+character_skills_localised_description_hkrul_drenok_special_0_2	Drenok's Icy Conquest Tactics provide strategic advantages in frozen battlefields, granting his armies enhanced movement and effectiveness in snowy terrains.	true
+character_skills_localised_name_hkrul_drenok_special_0_2	Icefang Tribe	true
+character_skills_localised_description_hkrul_drenok_special_1_4	Drenok Johansen extends his influence over the icy lands of the Icefang tribe, increasing economic productivity and public order in the frozen territories under his dominion.	true
+character_skills_localised_name_hkrul_drenok_special_1_4	Icebane Bite	true
+agent_subtypes_onscreen_name_override_hkrul_drenok	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_drenok		false
+effects_description_hkrul_drenok_axe	Ability: "Axe of the Icefang''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_drenok	Ice-Ice Baby	true
+character_trait_levels_colour_text_hkrul_defeated_trait_drenok	Finally a place where that cold grip of yours comes in handy, Drenok..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_drenok	Defeated Drenok Johansen	true
+ancillaries_colour_text_hkrul_drenok_axe	Forged in the heart of legend, the Great Axe of the Icefang is a colossal double-handed weapon, a relic passed down through the esteemed ancestors of the Icefang tribe. Its mighty blade bears the weight of centuries, a testament to the valor of a revered ancestor who, with unyielding determination, used the axe to slay a great, white dragon that cast its shadow across the annals of history. The weapon, etched with the frost-kissed tales of that legendary battle, now serves as a symbol of the Icefang tribe's enduring strength and the indomitable spirit of their forebears.	true
+ancillaries_onscreen_name_hkrul_drenok_axe	Great Axe of the Icefang	true
+land_units_onscreen_name_hkrul_drenok	Drenok Johansen	true
+names_name_5680700355	Johansen	false
+names_name_5680700356	Drenok	false
+unit_description_short_texts_text_hkrul_drenok	The great sagas of the Norscan tribes tell of a mighty Icefang warrior known as the "Wielder of the Great Axe".	false
+unit_abilities_tooltip_text_hkrul_drenok_axe	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	true
+unit_abilities_onscreen_name_hkrul_drenok_axe	Axe of the Icefang	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_drenok		false

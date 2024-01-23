@@ -1,0 +1,5 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_birna					
+hkrul_enable_immortality		0		campaign	true
+hkrul_birna_sword	item_ability.png	300	item_ability.png	battle	true
+hkrul_birna_bow	item_ability.png	300	item_ability.png	battle	true

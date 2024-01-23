@@ -1,0 +1,20 @@
+agent	faction	subtype
+#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_ulfric		
+general	wh_dlc08_nor_norsca	hkrul_ulfric
+general	wh2_main_nor_aghol	hkrul_ulfric
+general	wh_main_nor_bjornling	hkrul_ulfric
+general	wh3_dlc20_nor_dolgan	hkrul_ulfric
+general	wh3_dlc20_nor_kuj	hkrul_ulfric
+general	wh3_dlc20_nor_kul	hkrul_ulfric
+general	wh3_dlc20_nor_tong	hkrul_ulfric
+general	wh3_dlc20_nor_yusak	hkrul_ulfric
+general	wh3_dlc21_nor_wyrmkins	hkrul_ulfric
+general	wh_dlc08_nor_naglfarlings	hkrul_ulfric
+general	wh_dlc08_nor_vanaheimlings	hkrul_ulfric
+general	wh_dlc08_nor_wintertooth	hkrul_ulfric
+general	wh_main_nor_aesling	hkrul_ulfric
+general	wh_main_nor_baersonling	hkrul_ulfric
+general	wh_main_nor_graeling	hkrul_ulfric
+general	wh_main_nor_sarl	hkrul_ulfric
+general	wh_main_nor_skaeling	hkrul_ulfric
+general	wh_main_nor_varg	hkrul_ulfric

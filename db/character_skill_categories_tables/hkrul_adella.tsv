@@ -1,0 +1,6 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_adella					
+hkrul_adella_line1	0	0	1	hkrul_adella	00557F
+hkrul_adella_line2	1	1	1	hkrul_adella	FFFF7F
+hkrul_soren_line1	0	0	1	hkrul_soren	55557F
+hkrul_soren_line2	1	1	1	hkrul_soren	AAAA00

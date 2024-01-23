@@ -1,0 +1,35 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_akkorak.loc		
+character_skills_localised_name_innate_hkrul_akkorak	Reaver of the Nine Wastes	true
+character_skills_localised_description_innate_hkrul_akkorak	The mighty Zar of the Kul Tribe traverses the Nine Wastes eagerly searching for his next victim.	true
+character_skills_localised_description_hkrul_akkorak_special_0_1	The warriors of the Kul Tribe are known for cutting out any tooth, bone or limb for their victims to carry as prizes.	true
+character_skills_localised_name_hkrul_akkorak_special_0_1	Trophy Collectors	true
+character_skills_localised_description_hkrul_akkorak_special_1_1	The Kurgans of the Kul worship not only the Chaos Gods, but a variety of sinister lesser daemons - each with their own vile ambitions.	true
+character_skills_localised_name_hkrul_akkorak_special_1_1	Dark Faith	true
+character_skills_localised_description_hkrul_akkorak_special_1_2	The Horn of the Kul is made out of twisted concrete metal, carrying it is a feat in it's own right.	true
+character_skills_localised_name_hkrul_akkorak_special_1_2	Horn of the Kul	true
+character_skills_localised_description_hkrul_akkorak_special_1_5	Unusual amongst the hordes of Chaos are those who master the spear, the Kul however operate these long weapons if they were daggers.	true
+character_skills_localised_name_hkrul_akkorak_special_1_5	Spear's Fury	true
+character_skills_localised_description_hkrul_akkorak_special_1_0	For the Kul, Chaos Spawns are considered those worthy enough to have been touch by the Gods.	true
+character_skills_localised_name_hkrul_akkorak_special_1_0	Touch of Embrace	true
+character_skills_localised_description_hkrul_akkorak_special_1_3	To recieve mutations is to have been deemed worthy in the eyes of the ever watching Chaos Gods.	true
+character_skills_localised_name_hkrul_akkorak_special_1_3	Welcome Mutations	true
+character_skills_localised_description_hkrul_akkorak_special_0_2	The Kul Tribe are the most verocious of all the Northern Tribes, murdering and pillaging wherever they travel.	true
+character_skills_localised_name_hkrul_akkorak_special_0_2	The Kul Tribe	true
+character_skills_localised_description_hkrul_akkorak_special_1_4	The Kurgan collect ancient runestones who have withstood men's mere existence. They are said to carry vile and chaotic magic.	true
+character_skills_localised_name_hkrul_akkorak_special_1_4	Kurgan Runestones	true
+agent_subtypes_onscreen_name_override_hkrul_akkorak	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_akkorak		false
+effects_description_hkrul_akkorak_spear	Ability: "Spear of the Wastes''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_akkorak	The Crashed Crow	true
+character_trait_levels_colour_text_hkrul_defeated_trait_akkorak	No nay never will he play the reaving crow no more..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_akkorak	Defeated Akkorak the Crow	true
+ancillaries_colour_text_hkrul_akkorak_spear	Amidst the desolation of the Eastern Steppes, Kurgan lord Akkorak the Crow wielded the Spear of the Wastes. Forged from the bones of ancient behemoths, its sharp tip sang the haunting melody of forgotten empires. As Akkorak charged, the spear cleaved through the air like the wings of carrion crows, rewriting the annals of the desolate steppes with each relentless strike. Legends spoke of the nomadic lord, a silhouette against the vast expanse, carrying the echoes of conquest on the Spear of the Wastes.	true
+ancillaries_onscreen_name_hkrul_akkorak_spear	Spear of the Wastes	true
+land_units_onscreen_name_hkrul_akkorak	Akkorak the Crow	true
+names_name_3670700350	the Crow	false
+names_name_3670700351	Akkorak	false
+unit_description_short_texts_text_hkrul_akkorak	Arguably the most ruthless tribes amongst the Northern people, the Zar of the Kul must proof his standing by performing despicable acts.	false
+unit_abilities_tooltip_text_hkrul_akkorak_spear	The Spear of the Wastes has soaked the blood of warriors hailing from all Northern tribes.	true
+unit_abilities_onscreen_name_hkrul_akkorak_spear	Spear of the Wastes	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_akkorak		false

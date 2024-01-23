@@ -1,0 +1,6 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_sayl					
+hkrul_enable_immortality		0		campaign	true
+hkrul_sayl_staff	item_ability.png	300	item_ability.png	battle	true
+hkrul_sayl_mist	item_ability.png	300	item_ability.png	battle	true
+hkrul_summon_nightmaw	general_ability.png	300	general_ability.png	battle	true

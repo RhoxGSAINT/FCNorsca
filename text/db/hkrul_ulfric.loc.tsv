@@ -1,0 +1,43 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_ulfric.loc		
+character_skills_localised_name_innate_hkrul_ulfric	Skjold's Bastion	true
+character_skills_localised_description_innate_hkrul_ulfric	The High King of the Bjornlings sets his sight on the realms of men, not for war - but for commerce.	true
+character_skills_localised_description_hkrul_ulfric_special_0_1	Forged in the harsh crucible of the Norse lands, Ulfric's resilience grants him enhanced defense, making him a stalwart bulwark against the onslaught of foes.	true
+character_skills_localised_name_hkrul_ulfric_special_0_1	Huskarls of Skjold	true
+character_skills_localised_description_hkrul_ulfric_special_1_1	Known for his diplomatic finesse, Ulfric's interactions with other factions yield improved relations, making alliances and trade agreements more attainable.	true
+character_skills_localised_name_hkrul_ulfric_special_1_1	The High King	true
+character_skills_localised_description_hkrul_ulfric_special_1_2	As the Frostbound Leader, Ulfric inspires his troops with unyielding determination. Under his command, the Bjornlings fight with enhanced morale and fervor.	true
+character_skills_localised_name_hkrul_ulfric_special_1_2	The Great Hall	true
+character_skills_localised_description_hkrul_ulfric_special_1_5	Ulfric channels the power of the storm, unleashing a mighty roar that instills fear in his enemies. Those who stand before him falter in the face of the coming tempest.	true
+character_skills_localised_name_hkrul_ulfric_special_1_5	Warrior King	true
+character_skills_localised_description_hkrul_ulfric_special_1_0	Harnessing the primal rage within, Ulfric unleashes Bjorn's Fury, a devastating melee attack that sends shockwaves through the ranks of his enemies.	true
+character_skills_localised_name_hkrul_ulfric_special_1_0	Bjornling Marauders	true
+character_skills_localised_description_hkrul_ulfric_special_1_3	The Boreal Wrath of Ulfric summons the bitter chill of the northern winds, freezing foes in their tracks and leaving them vulnerable to the wrath of the Bjornlings.	true
+character_skills_localised_name_hkrul_ulfric_special_1_3	Excellent Seafarers	true
+character_skills_localised_description_hkrul_ulfric_special_0_2	Ulfric's deep connection to the Bjornling heritage grants him the ability to recruit specialized units unique to his tribe, instilling a sense of cultural pride in his forces	true
+character_skills_localised_name_hkrul_ulfric_special_0_2	The Bjornling Tribe	true
+character_skills_localised_description_hkrul_ulfric_special_1_4	High King Ulfric leaves a lasting legacy, enhancing the growth and development of settlements under his rule. His people prosper and flourish in the shadow of Bjorn's Legacy.	true
+character_skills_localised_name_hkrul_ulfric_special_1_4	Aspirations of Commerce	true
+agent_subtypes_onscreen_name_override_hkrul_ulfric	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_ulfric		false
+effects_description_hkrul_ulfric_axe	Ability: "Bjornheart Waraxe''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_ulfric	The Downed King	true
+character_trait_levels_colour_text_hkrul_defeated_trait_ulfric	Aranessa must have gotten her capabilities from her mother's side..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_ulfric	Defeated High King Ulfric Grondal	true
+ancillaries_colour_text_hkrul_ulfric_axe	In the hands of King Ulfric Grondal, the Bjornheart Waraxe stands as a testament to the Bjornling tribe's unyielding spirit. Unlike many Norscan tribes, the Bjornlings favor the old Norse traditions over the chaos-tainted path. The mighty greataxe, forged in the heart of their frost-kissed lands, channels the raw power of the storm-laden winds that sweep across their domain. With each swing, King Ulfric wields the Stormrend Greataxe, cleaving through foes with the primal might that echoes the thunderous legacy of the Bjornling tribe, a beacon of Norse strength in the midst of the chaotic tempest	true
+ancillaries_onscreen_name_hkrul_ulfric_axe	Bjornheart Waraxe	true
+land_units_onscreen_name_hkrul_ulfric	Ulfric Grondal	true
+names_name_5270700350	Grondal	false
+names_name_5270700351	High King Ulfric	false
+unit_description_short_texts_text_hkrul_ulfric	The enigmatic High King of the Bjornling does not embrace chaos, but rather seeks the ways of Dazh and Tor.	false
+unit_abilities_tooltip_text_hkrul_ulfric_axe	The Waraxe forged by Hafkael is the pinnacle of Skjold's might as proud bastion of the Bjornling.	true
+unit_abilities_onscreen_name_hkrul_ulfric_axe	Bjornheart Waraxe	true
+land_units_onscreen_name_hkrul_bjornling_inf_marauder_berserkers_0	Bjornling Berserkers	false
+land_units_onscreen_name_hkrul_bjornling_inf_marauder_champions_0	Bjornling Champions	false
+land_units_onscreen_name_hkrul_bjornling_inf_marauder_champions_1	Bjornling Champions (Great Weapons)	false
+land_units_onscreen_name_hkrul_bjornling_inf_marauder_hunters_1	Bjornling Hunters (Javelins)	false
+land_units_onscreen_name_hkrul_bjornling_inf_marauder_hunters_0	Bjornling Hunters (Throwing Axes)	false
+land_units_onscreen_name_hkrul_bjornling_inf_marauder_spearman_0	Bjornling Spearmen	false
+land_units_onscreen_name_hkrul_bjornling_inf_chaos_marauders_0	Bjornling Marauders	false
+land_units_onscreen_name_hkrul_bjornling_inf_chaos_marauders_1	Bjornling Marauders (Great Weapons)	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_ulfric		false

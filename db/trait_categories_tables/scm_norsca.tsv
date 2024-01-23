@@ -1,0 +1,10 @@
+category	icon_path
+#trait_categories_tables;0;db/trait_categories_tables/scm_norsca	
+hkrul_adella	ui/campaign ui/skills/innate_hkrul_skeggi.png
+hkrul_akkorak	ui/campaign ui/skills/innate_hkrul_akkorak.png
+hkrul_birna	ui/campaign ui/skills/innate_hkrul_birna.png
+hkrul_drenok	ui/campaign ui/skills/innate_hkrul_drenok.png
+hkrul_einar	ui/campaign ui/skills/innate_hkrul_einar.png
+hkrul_harald	ui/campaign ui/skills/innate_hkrul_graeling.png
+hkrul_sayl	ui/campaign ui/skills/innate_hkrul_sayl.png
+hkrul_ulfric	ui/campaign ui/skills/innate_hkrul_ulfric.png

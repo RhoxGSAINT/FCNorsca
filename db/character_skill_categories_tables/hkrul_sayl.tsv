@@ -1,0 +1,4 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_sayl					
+hkrul_sayl_line1	0	0	1	hkrul_sayl	AA0000
+hkrul_sayl_line2	1	1	1	hkrul_sayl	242424

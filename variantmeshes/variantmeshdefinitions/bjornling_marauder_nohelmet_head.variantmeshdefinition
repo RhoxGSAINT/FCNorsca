@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="head">
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1c\chs\chs_marauders\head\chs_marauder_head_01.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>

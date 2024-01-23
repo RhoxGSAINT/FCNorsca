@@ -1,0 +1,41 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_birna.loc		
+character_skills_localised_name_innate_hkrul_birna	The Black-Tongued Maiden	true
+character_skills_localised_description_innate_hkrul_birna	She is lean, supple and sinuous - yet her tongue is only one thing: A swift death.	true
+character_skills_localised_description_hkrul_birna_special_0_1	Known for her exceptional hunting skills, Birna's precision in battle increases the accuracy and damage output of ranged units under her command.	true
+character_skills_localised_name_hkrul_birna_special_0_1	Hunters Prowess	true
+character_skills_localised_description_hkrul_birna_special_1_1	Birna fosters unity within the Sarl tribe, reducing the likelihood of internal conflicts and rebellions. Her leadership ensures a cohesive and loyal community.	true
+character_skills_localised_name_hkrul_birna_special_1_1	Sarl Marauders	true
+character_skills_localised_description_hkrul_birna_special_1_2	As the Longship Artisan, Birna accelerates the construction of formidable longships, enhancing naval capabilities for both trade and raiding in coastal regions.	true
+character_skills_localised_name_hkrul_birna_special_1_2	Pelt Specialists	true
+character_skills_localised_description_hkrul_birna_special_1_5	Birna's Mutant Tracking Expertise allows her armies to navigate mutant-infested territories with ease, reducing attrition and gaining strategic advantages in mutant-rich environments.	true
+character_skills_localised_name_hkrul_birna_special_1_5	Mutant's Gaze	true
+character_skills_localised_description_hkrul_birna_special_1_0	As a shieldmaiden of the Sarl tribe, Birna imparts her combat expertise to aspiring warriors, reducing the recruitment cost and improving the effectiveness of Sarl Shieldmaiden units.	true
+character_skills_localised_name_hkrul_birna_special_1_0	Birna's Call	true
+character_skills_localised_description_hkrul_birna_special_1_3	Birna's mastery over timbercraft fuels the growth of Sarl settlements, improving economic output and fortifications in the tribe's territories	true
+character_skills_localised_name_hkrul_birna_special_1_3	Timber Mastery	true
+character_skills_localised_description_hkrul_birna_special_0_2	Birna's Mutantbane Legacy improves the resilience of Sarl settlements against mutant incursions, ensuring the tribe remains protected from the dangers of the chaotic wilderness.	true
+character_skills_localised_name_hkrul_birna_special_0_2	Tribe of the Sarl	true
+character_skills_localised_description_hkrul_birna_special_1_4	Known for her exceptional hunting skills, Birna's precision in battle increases the accuracy and damage output of ranged units under her command.	true
+character_skills_localised_name_hkrul_birna_special_1_4	Feathers of the Huntress	true
+agent_subtypes_onscreen_name_override_hkrul_birna	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_birna		false
+effects_description_hkrul_birna_sword	Ability: "Whalesong's Bane''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_birna	The Hunted Huntress	true
+character_trait_levels_colour_text_hkrul_defeated_trait_birna	What's the matter? Somebody cut out your tongue?	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_birna	Defeated Birna the Huntress	true
+ancillaries_colour_text_hkrul_birna_sword	In the ancient days when the seas roared with mythical beasts, a legendary blacksmith forged the Cetacean Cleaver. With a flat blade that mirrored the majesty of leviathans, the sword's hilt cradled a whale tooth, harnessing the power of the ocean's might. Tales sang of a hero who wielded the Cleaver, carving through the tempests with the strength of the deep, leaving behind a legacy etched in the salt-soaked winds.	true
+ancillaries_onscreen_name_hkrul_birna_sword	Whalesong's Bane	true
+land_units_onscreen_name_hkrul_birna	Birna the Huntress	true
+names_name_5682700360	the Huntress	false
+names_name_5682700361	Birna	false
+unit_description_short_texts_text_hkrul_birna	A mutant, but mostly akin to a shieldmaiden of the old sagas, a woman who seizes her own glories by her own hand.	false
+unit_abilities_tooltip_text_hkrul_birna_sword	Forged from the teeth of a slain Chaos Whale, the blade hungers for blood and battle and roars like the sea.	true
+unit_abilities_onscreen_name_hkrul_birna_sword	Whalesong's Bane	true
+ancillaries_colour_text_hkrul_birna_bow	Amid the frozen tundra, a skilled bowyer crafted the Frostfang Longbow from the colossal tusks of ancient mammoths. Bound in ivory and whispered to by the spirits of the ice, the bow channeled the frigid essence of the arctic wilderness. As the Northern hunters drew its string, arrows soared like winter gusts, seeking prey with the precision of a glacial breeze. Legends echoed through the frozen wastes of a silent archer whose arrows sang the lullabies of the eternal frost	true
+ancillaries_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
+unit_abilities_tooltip_text_hkrul_birna_bow	The Ivory-bound Tuskweave Longbow shoots arrows guided by Birna's whispers.	true
+unit_abilities_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
+effects_description_hkrul_birna_bow	Ability: "Tuskweave Longbow''	true
+land_units_onscreen_name_hkrul_sarl_hunters	Hunters of the Kalti Delta	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_birna	PLACEHOLDER	false

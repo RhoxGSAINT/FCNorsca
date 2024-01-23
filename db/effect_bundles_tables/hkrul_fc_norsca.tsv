@@ -1,0 +1,14 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/hkrul_fc_norsca								
+hkrul_adella_faction_trait			faction	1	effect_bundle_skeggi.png	true	false	true
+rhox_adella_corruption_khorne_91-100_rhox_adella_kho_khorne			province	1	corruption_khorne.png	true	false	true
+rhox_adella_corruption_nurgle_91-100_rhox_adella_nur_nurgle			province	1	corruption_nurgle.png	true	false	true
+rhox_adella_corruption_slaanesh_91-100_rhox_adella_sla_slaanesh			province	1	corruption_slaanesh.png	true	false	true
+rhox_adella_corruption_tzeentch_91-100_rhox_adella_tze_tzeentch			province	1	corruption_tzeentch.png	true	false	true
+hkrul_sayl_faction_trait			faction	1	effect_bundle_dolgan.png	true	false	true
+hkrul_birna_faction_trait			faction	1	effect_bundle_sarl.png	true	false	true
+hkrul_akkorak_faction_trait			faction	1	effect_bundle_kul.png	true	false	true
+hkrul_harald_faction_trait			faction	1	effect_bundle_graeling.png	true	false	true
+hkrul_einar_faction_trait			faction	1	effect_bundle_baersonling.png	true	false	true
+hkrul_drenok_faction_trait			faction	1	effect_bundle_icefang.png	true	false	true
+hkrul_ulfric_faction_trait			faction	1	effect_bundle_icefang.png	true	false	true

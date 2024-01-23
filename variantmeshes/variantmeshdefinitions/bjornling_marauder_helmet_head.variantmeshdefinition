@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="head">
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/helmet_01/bjorn_marauder_helm_01.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="beard">
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/beard_01/bjorn_marauder_beard_01.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/beard_02/bjorn_marauder_beard_02.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/beard_03/bjorn_marauder_beard_03.rigid_model_v2" />
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/nor/bjornling_marauder/beard_04/bjorn_marauder_beard_04.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

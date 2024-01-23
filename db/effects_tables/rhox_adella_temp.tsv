@@ -1,0 +1,6 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/rhox_adella_temp					
+rhox_adella_lzd_mon_carnosaur_kho	unit_capacity.png	1	unit_capacity.png	campaign	true
+rhox_adella_lzd_mon_carnosaur_nur	unit_capacity.png	1	unit_capacity.png	campaign	true
+rhox_adella_lzd_mon_carnosaur_sla	unit_capacity.png	1	unit_capacity.png	campaign	true
+rhox_adella_lzd_mon_carnosaur_tze	unit_capacity.png	1	unit_capacity.png	campaign	true

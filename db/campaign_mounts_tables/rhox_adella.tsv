@@ -1,0 +1,3 @@
+model	animation_set	variant	scale	actor	ignore_rider_variant_scale	vfx_filter	banner_relative_to_mount
+#campaign_mounts_tables;8;db/campaign_mounts_tables/rhox_adella							
+rhox_adella_cam_mnt_adella_horse	cam_hr1_warhorse	rhox_adella_cam_mnt_adella_horse_campaign	1.0000	wh_main_vo_culture_Horse	true	0	false

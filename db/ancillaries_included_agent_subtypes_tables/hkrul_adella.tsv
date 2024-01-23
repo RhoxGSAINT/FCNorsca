@@ -1,0 +1,5 @@
+agent_subtype	ancillary
+#ancillaries_included_agent_subtypes_tables;0;db/ancillaries_included_agent_subtypes_tables/hkrul_adella	
+hkrul_adella	hkrul_adella_mount
+hkrul_adella	hkrul_adella_mount_3
+hkrul_adella	hkrul_adella_mount_2

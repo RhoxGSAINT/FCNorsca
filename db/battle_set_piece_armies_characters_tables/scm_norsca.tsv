@@ -1,0 +1,12 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/scm_norsca												
+hkrul_adella	1	2147343937		100	2147343940	hkrul_adella	general	hkrul_adella	ui/portraits/portholes/no_culture/hkrul_adella.png	203871720		true
+hkrul_soren	1	2147343937		100	2147343940	hkrul_soren	general	hkrul_soren	ui/portraits/portholes/no_culture/hkrul_soren.png	203871721		true
+hkrul_akkorak	1	2147343937		100	2147343940	hkrul_akkorak	general	hkrul_akkorak	ui/portraits/portholes/no_culture/hkrul_akkorak.png	203871722		true
+hkrul_birna	1	2147343937		100	2147343940	hkrul_birna	general	hkrul_birna	ui/portraits/portholes/no_culture/hkrul_birna.png	203871723		true
+hkrul_drenok	1	2147343937		100	2147343940	hkrul_drenok	general	hkrul_drenok	ui/portraits/portholes/no_culture/hkrul_drenok.png	203871724		true
+hkrul_einar	1	2147343937		100	2147343940	hkrul_einar	general	hkrul_einar	ui/portraits/portholes/no_culture/hkrul_einar.png	203871725		true
+hkrul_harald	1	2147343937		100	2147343940	hkrul_harald	general	hkrul_harald	ui/portraits/portholes/no_culture/hkrul_harald.png	203871726		true
+hkrul_sayl	1	2147343937		100	2147343940	hkrul_sayl	general	hkrul_sayl	ui/portraits/portholes/no_culture/hkrul_sayl.png	203871727		true
+hkrul_ulfric	1	2147343937		100	2147343940	hkrul_ulfric	general	hkrul_ulfric	ui/portraits/portholes/no_culture/hkrul_ulfric.png	203871728		true
+hkrul_verdandi	1	2147343937		100	2147343940	hkrul_verdandi	champion	hkrul_verdandi	ui/portraits/portholes/wh_main_emp_empire/hkrul_verdandi.png	203871729		true

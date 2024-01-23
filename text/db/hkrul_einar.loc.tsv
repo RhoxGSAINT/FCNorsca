@@ -1,0 +1,35 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_einar.loc		
+character_skills_localised_name_innate_hkrul_einar	Steelfist of Vinnskor	true
+character_skills_localised_description_innate_hkrul_einar	The Steelfist of the Baersonling is as gigantic as he is mighty, a warrior of rarely seen quality.	true
+character_skills_localised_description_hkrul_einar_special_0_1	As the Northern Warlord, Einarr's authority on the battlefield is unmatched. His presence inspires troops to fight with heightened morale and effectiveness during campaigns and battles.	true
+character_skills_localised_name_hkrul_einar_special_0_1	Corrupted Furs	true
+character_skills_localised_description_hkrul_einar_special_1_1	Einarr's Norse Diplomatic Acumen improves diplomatic relations with other Norscan tribes, making alliances and trade agreements more attainable.	true
+character_skills_localised_name_hkrul_einar_special_1_1	Feathers of the Raven	true
+character_skills_localised_description_hkrul_einar_special_1_2	Known for his resilience in the harsh North, Einarr's Northern Resilience reduces attrition and enhances the survival capabilities of his armies in cold climates.	true
+character_skills_localised_name_hkrul_einar_special_1_2	Einarr's Horn	true
+character_skills_localised_description_hkrul_einar_special_1_5	Einarr enters the Berserker's Frenzy, an unstoppable melee rampage where his attacks become more ferocious and deadly. In this state, he disregards defense, focusing solely on dealing devastating blows to his adversaries.	true
+character_skills_localised_name_hkrul_einar_special_1_5	Chaotic Runes	true
+character_skills_localised_description_hkrul_einar_special_1_0	Einarr taps into his Berserker Rage during battle, increasing his own combat prowess and that of nearby allies, turning the tide in close-quarters engagements.	true
+character_skills_localised_name_hkrul_einar_special_1_0	Mutated Bites	true
+character_skills_localised_description_hkrul_einar_special_1_3	Einarr employs Viking Raider Tactics, allowing his armies to conduct swift and devastating raids on coastal settlements, disrupting enemy economies and bolstering his own treasury.	true
+character_skills_localised_name_hkrul_einar_special_1_3	Steelfist	true
+character_skills_localised_description_hkrul_einar_special_0_2	Einarr's Baersonling heritage unlocks unique recruitment options for Norscan units, instilling a sense of cultural pride and loyalty within his army.	true
+character_skills_localised_name_hkrul_einar_special_0_2	Baersonling Tribe	true
+character_skills_localised_description_hkrul_einar_special_1_4	Einarr's Glacial Battlefield Tactician skill provides strategic advantages in frozen landscapes, granting his armies enhanced movement and effectiveness in icy terrains.	true
+character_skills_localised_name_hkrul_einar_special_1_4	Baersonling Marauders	true
+agent_subtypes_onscreen_name_override_hkrul_einar	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_einar		false
+effects_description_hkrul_einar_sword	Ability: "Fangwyrm''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_einar	Champion No-More	true
+character_trait_levels_colour_text_hkrul_defeated_trait_einar	You should have known antagonists never end up well..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_einar	Defeated Einarr Sigdansson	true
+ancillaries_colour_text_hkrul_einar_sword	Wielding the honor-laden title of Jarl of Vinnskor and standing proudly among the Baersonlings, Tulkir bears the weight of three decades of relentless battle on his broad shoulders. At his side, a once-magnificent blade known as Fangwyrm, now halved in valor, narrates tales of the Jarl's unyielding resilience. This magnificent weapon, snapped to less than half its former glory in the clash against the bloodbeast of the Aeslings, found renewed purpose as Einarr Sigdansson, a mighty Champion among the Baersonlings, reforged it. Despite its fracture, Fangwyrm remains a symbol of Tulkir's enduring strength and the sacrifices made in the relentless pursuit of honor and victory.	true
+ancillaries_onscreen_name_hkrul_einar_sword	Fangwyrm	true
+land_units_onscreen_name_hkrul_einar	Einarr Sigdansson	true
+names_name_5670700355	Sigdansson	false
+names_name_5670700356	Einarr	false
+unit_description_short_texts_text_hkrul_einar	A fierce Baersonling of the fallen village of Vinnskor and a mighty Champion of Tzeentch, Einarr Steelfist was marked by the Raven God when he slew a mighty Bloodbeast.	false
+unit_abilities_tooltip_text_hkrul_einar_sword	Placeholder Text Placeholder Text Placeholder Text Placeholder Text	true
+unit_abilities_onscreen_name_hkrul_einar_sword	Fangwyrm	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_einar		false

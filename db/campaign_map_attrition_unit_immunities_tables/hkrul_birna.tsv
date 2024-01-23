@@ -1,0 +1,13 @@
+attrition	unit
+#campaign_map_attrition_unit_immunities_tables;0;db/campaign_map_attrition_unit_immunities_tables/hkrul_birna	
+chaos_territory	hkrul_birna
+chaos_wastes	hkrul_birna
+mountain	hkrul_birna
+non_vampire_territory	hkrul_birna
+nurgle_plague	hkrul_birna
+snow	hkrul_birna
+chaos_territory	hkrul_sarl_hunters
+mountain	hkrul_sarl_hunters
+non_vampire_territory	hkrul_sarl_hunters
+nurgle_plague	hkrul_sarl_hunters
+snow	hkrul_sarl_hunters

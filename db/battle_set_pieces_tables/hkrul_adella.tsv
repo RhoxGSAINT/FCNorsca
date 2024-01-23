@@ -1,0 +1,2 @@
+battle_name	battle_duration	battle_environment	battle_script	battle_type	is_player_attacker	bmd_layer_type	use_large_armies	battlefield_folder	teleport_cost	catchment_area	campaign_pre_battle_intro_movie	intro_movie	outro_movie_lose	outro_movie_win	screenshot_path	battle_environment_audio	culture	can_retreat	can_retreat_multiplayer	can_autoresolve_in_campaign	difficulty	campaign_loot_multiplier
+#battle_set_pieces_tables;0;db/battle_set_pieces_tables/hkrul_adella																						

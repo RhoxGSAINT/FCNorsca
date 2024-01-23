@@ -1,0 +1,6 @@
+chain	set	super_chain	remove
+#building_chain_set_items_tables;0;db/building_chain_set_items_tables/rhox_adella			
+rhox_adella_dae_temple_kho	wh3_main_secondary_core_generic_minor		false
+rhox_adella_dae_temple_nur	wh3_main_secondary_core_generic_minor		false
+rhox_adella_dae_temple_sla	wh3_main_secondary_core_generic_minor		false
+rhox_adella_dae_temple_tze	wh3_main_secondary_core_generic_minor		false

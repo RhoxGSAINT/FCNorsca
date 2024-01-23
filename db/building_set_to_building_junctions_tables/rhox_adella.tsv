@@ -1,0 +1,6 @@
+building_chain	building_level	building_set	exclude
+#building_set_to_building_junctions_tables;0;db/building_set_to_building_junctions_tables/rhox_adella			
+rhox_adella_dae_temple_kho		wh_main_set_norsca_economy	false
+rhox_adella_dae_temple_nur		wh_main_set_norsca_economy	false
+rhox_adella_dae_temple_sla		wh_main_set_norsca_economy	false
+rhox_adella_dae_temple_tze		wh_main_set_norsca_economy	false
