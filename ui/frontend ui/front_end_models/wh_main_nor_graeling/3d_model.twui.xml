@@ -87,7 +87,7 @@
 				directional_light_m_light_direction="11.35,-0.44,0.00"
 				directional_light_m_light_colour="0.98,0.95,0.86"
 				camera_target="0.00,1.85,0.00"
-				camera_dist="7.81400013"
+				camera_dist="10.81400013"
 				camera_fov="0.52359879"
 				num_models="1">
                 <model_list>
@@ -97,7 +97,7 @@
                         num_anims="1"
                         skeleton_type="humanoid13">
                         <animation_paths>
-                            <path value="animations/battle/humanoid13/ogre_maneater/2handed_hammer/attacks/hu13_maneater_2hh_attack_01.anim"/>
+                            <path value="animations/battle/humanoid13/ogre/2handed_sword/attacks/hu13_ogre_2hsw_attack_03.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>

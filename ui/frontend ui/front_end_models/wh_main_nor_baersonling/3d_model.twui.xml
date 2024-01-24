@@ -87,7 +87,7 @@
 				directional_light_m_light_direction="11.35,-0.44,0.00"
 				directional_light_m_light_colour="0.98,0.95,0.86"
 				camera_target="0.00,1.85,0.00"
-				camera_dist="7.81400013"
+				camera_dist="8.81400013"
 				camera_fov="0.52359879"
 				num_models="1">
                 <model_list>
