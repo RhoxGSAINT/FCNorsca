@@ -1,0 +1,15 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/scm_norsca_characters				
+	hkrul_adella	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_adella_mount	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_adella_mount_2	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_adella_mount_3	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_soren	hkrul_soren	hkrul_soren	hkrul_soren
+	hkrul_akkorak	hkrul_akkorak	hkrul_akkorak	hkrul_akkorak
+	hkrul_birna	hkrul_birna	hkrul_birna	hkrul_birna
+	hkrul_drenok	hkrul_drenok	hkrul_drenok	hkrul_drenok
+	hkrul_einar	hkrul_einar	hkrul_einar	hkrul_einar
+	hkrul_harald	hkrul_harald	hkrul_harald	hkrul_harald
+	hkrul_sayl	hkrul_sayl	hkrul_sayl	hkrul_sayl
+	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric
+	hkrul_verdandi	hkrul_verdandi	hkrul_verdandi	hkrul_verdandi

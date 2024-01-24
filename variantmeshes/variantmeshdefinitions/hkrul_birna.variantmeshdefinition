@@ -1,0 +1,25 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\character\hbirna\birna.wsmodel" >
+                    <META_DATA>audio_armour_type:leather</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\character\hbirna\kitsword.wsmodel" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT name="weapon_3" attach_point="be_prop_3" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\character\hbirna\kitbow.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="weapon_4" attach_point="be_prop_4" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu6b/bst/bst_props/bst_ungor_arrow_01_rigid.rigid_model_v2" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_5" attach_point="be_prop_5" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\character\hbirna\kitsword2.wsmodel" >
+			<META_DATA>equipment</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="quiver" >
+	</SLOT>
+</VARIANT_MESH>

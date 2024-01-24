@@ -256,7 +256,6 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
-    --[[--in development
     wh_main_nor_sarl ={
         leader={
             subtype="hkrul_birna",
@@ -283,7 +282,6 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
-    --]]
 }
 
 
