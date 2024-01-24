@@ -1,7 +1,5 @@
 faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
 #units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/hkrul_adella										
-wh2_main_nor_skeggi	true	hkrul_adella	true	true	ui/portraits/portholes/no_culture/hkrul_adella.png	hkrul_adella	hkrul_adella	false		false
-wh2_main_nor_skeggi	true	hkrul_adella_mount	true	true	ui/portraits/portholes/no_culture/hkrul_adella.png	hkrul_adella	hkrul_adella	false		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_inf_marauder_berserkers_0	true	true				false		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_inf_marauder_champions_0	true	true				false		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_inf_marauder_champions_1	true	true				false		false
@@ -12,4 +10,3 @@ wh2_main_nor_skeggi	false	hkrul_skeggi_giant_ror	true	true				false		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_inf_chaos_marauders_0	true	true				false		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_inf_chaos_marauders_1	true	true				false		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_inf_marauder_hunters_0	true	true				false		false
-wh2_main_nor_skeggi	false	hkrul_soren	true	true	ui/portraits/portholes/no_culture/hkrul_soren.png	hkrul_soren	hkrul_soren	false		false
