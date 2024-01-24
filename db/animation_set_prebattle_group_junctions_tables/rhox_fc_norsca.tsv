@@ -1,3 +1,4 @@
 anim_set	group
 #animation_set_prebattle_group_junctions_tables;0;db/animation_set_prebattle_group_junctions_tables/rhox_fc_norsca	
 cam_hu13_rhox_irongut	big_characters
+cam_hu13_rhox_norsca_ogre_2handed_hammer	big_characters

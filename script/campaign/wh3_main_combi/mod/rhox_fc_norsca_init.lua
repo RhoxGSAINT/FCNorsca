@@ -24,7 +24,7 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 		    --cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_soren", true)
-		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_soren",faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_soren", faction:faction_leader():command_queue_index(), true)
 		    
 		    if faction:is_human() then
                 local target_region = cm:get_region("wh3_main_combi_region_skeggi")
@@ -230,10 +230,12 @@ local rhox_faction_list={
             forename ="names_name_5670700351",
             familiyname ="names_name_5670700350",
         },	
+        --[[
         agent={
             type="wizard",
             subtype="wh_dlc08_nor_shaman_sorcerer_metal"
         },
+        --]]
         region="wh3_main_combi_region_graeling_moot",
         how_they_play="rhox_fc_norsca_graeling_how_they_play",
         pic=800,
@@ -251,7 +253,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_verdandi", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end
