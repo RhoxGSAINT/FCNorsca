@@ -190,8 +190,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_ulfric",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=430,
-            y=791,
+            x=390,
+            y=792,
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
@@ -203,7 +203,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_bjornling_how_they_play",
         pic=800,
         faction_trait="hkrul_ulfric_faction_trait",
-        kill_previous_leader=true,--they're first enemy of the Wulfric, so needs to be careful
+        kill_previous_leader=false,--they're first enemy of the Wulfric, so needs to be careful
         --[[
         enemy={
             key="wh2_main_def_ssildra_tor",
@@ -325,8 +325,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_kolsveinn",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=640,
-            y=875,
+            x=612,
+            y=850,
             forename ="names_name_516997750",
             familiyname ="names_name_516997749",
         },
@@ -334,11 +334,11 @@ local rhox_faction_list={
             type="dignitary",
             subtype="wh_dlc08_nor_fimir_balefiend_fire"
         },
-        region="wh3_main_combi_region_troll_fjord",
+        region="wh3_main_combi_region_the_forbidden_citadel",
         how_they_play="rhox_fc_norsca_wh_main_nor_aesling_how_they_play",
         pic=800,
         faction_trait="hkrul_kolsveinn_faction_trait",
-        kill_previous_leader=true,--they're first target of Throgg, so needs to be careful
+        kill_previous_leader=false,--they're first target of Throgg, so needs to be careful
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -348,19 +348,6 @@ local rhox_faction_list={
         end
     },
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
