@@ -106,7 +106,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_kul_how_they_play",
         pic=800,
         faction_trait="hkrul_akkorak_faction_trait",
-        kill_previous_leader=false,
+        kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -275,7 +275,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_wh_main_nor_sarl_how_they_play",
         pic=800,
         faction_trait="hkrul_birna_faction_trait",
-        kill_previous_leader=false,
+        kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 

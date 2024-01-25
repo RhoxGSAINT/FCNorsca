@@ -1,3 +1,4 @@
 key	man_animations_table	variant	battle_entity	battle_entity_stats	autonomous_rider_hero	autonomous_rider_can_shoot_in_melee	can_only_be_used_by_draught
-#battle_personalities_tables;12;db/battle_personalities_tables/phy_verdandi							
+#battle_personalities_tables;12;db/battle_personalities_tables/scm_norsca							
 hkrul_verdandi	hu1_phy_verdandi_01	hkrul_verdandi	wh3_dlc23_ulrika_standard_blood		false	true	false
+hkrul_ulfric_mammoth_rider	hu1c_wulfrik_hq3_wb_sword_and_shield	hkrul_ulfric	wh_main_infantry_rider		true	true	false

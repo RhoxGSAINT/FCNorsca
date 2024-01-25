@@ -1,0 +1,4 @@
+base_unit	mounted_unit	icon_name
+#units_custom_battle_mounts_tables;1;db/units_custom_battle_mounts_tables/scm_norsca		
+hkrul_adella	hkrul_adella_mount	ui/campaign ui/mounts/mount_warhorse.png
+hkrul_ulfric	hkrul_ulfric_mammoth	ui/campaign ui/mounts/mount_mammoth.png
