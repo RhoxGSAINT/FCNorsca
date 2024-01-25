@@ -1,3 +1,17 @@
 key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
 #character_skill_nodes_tables;6;db/character_skill_nodes_tables/hkrul_kolsveinn									
 skill_node_hkrul_kolsveinn_innate		innate_hkrul_kolsveinn		6	0		1	0	false
+rhox_kolsveinn_self_01		wh_main_skill_all_all_self_blade_master_starter		2	0		0	0	true
+rhox_kolsveinn_self_02		wh_main_skill_all_all_self_devastating_charge		2	1		0	0	true
+rhox_kolsveinn_self_03		wh_main_skill_all_all_self_thick-skinned_2		2	2		0	0	true
+rhox_kolsveinn_self_04		wh_main_skill_all_all_self_hard_to_hit		2	3		0	0	true
+rhox_kolsveinn_self_05		wh_main_skill_all_all_self_deadly_blade		2	4		0	0	true
+rhox_kolsveinn_self_06		wh_main_skill_all_all_self_foe-seeker		2	5		0	4	true
+rhox_kolsveinn_self_07		wh_main_skill_all_all_self_wound-maker		2	6		0	0	true
+rhox_kolsveinn_self_08		wh_main_skill_all_all_self_scarred_veteran_2		2	7		0	0	true
+rhox_kolsveinn_self_09		wh_main_skill_all_all_self_indomitable		2	8		0	0	true
+rhox_kolsveinn_self_10		wh_main_skill_all_all_self_blade_shield		2	9		0	0	true
+rhox_kolsveinn_self_11		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
+rhox_kolsveinn_shared_01		wh3_dlc20_skill_shared_chs_cha_exalted_hero_duelist		3	0		0	0	true
+rhox_kolsveinn_shared_02		wh3_dlc20_skill_shared_chs_cha_exalted_hero_tactician		3	1		0	0	true
+rhox_kolsveinn_shared_03		wh3_dlc20_skills_shared_khorne_scorch		3	2		0	0	true
