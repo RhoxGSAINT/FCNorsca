@@ -1,0 +1,9 @@
+attrition	faction
+#campaign_map_attrition_faction_immunities_tables;0;db/campaign_map_attrition_faction_immunities_tables/rhox_fc_norsca	
+chaos_territory	mixer_nor_fjordlings
+chaos_wastes	mixer_nor_fjordlings
+disease	mixer_nor_fjordlings
+mountain	mixer_nor_fjordlings
+non_vampire_territory	mixer_nor_fjordlings
+nurgle_plague	mixer_nor_fjordlings
+snow	mixer_nor_fjordlings
