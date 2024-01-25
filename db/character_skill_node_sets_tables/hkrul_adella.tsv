@@ -1,4 +1,0 @@
-key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
-#character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/hkrul_adella							
-skill_node_set_hkrul_adella	general	false	false				hkrul_adella
-skill_node_set_hkrul_soren	wizard	false	false				hkrul_soren

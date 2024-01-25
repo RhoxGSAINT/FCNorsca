@@ -8,4 +8,5 @@ hkrul_einar	false	false		hkrul_einar	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	
 hkrul_harald	false	false		hkrul_harald	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_sayl	false	true	ui/campaign ui/agents/wh_main_lore_heavens.png	hkrul_sayl	wh_dlc01_vo_actor_Chaos_SorcererLord	true	-1	false	true	false	false	legendary_lords	hkrul_sayl_lore		false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_ulfric	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100
+hkrul_kolsveinn	false	false		hkrul_kolsveinn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_dummy	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100

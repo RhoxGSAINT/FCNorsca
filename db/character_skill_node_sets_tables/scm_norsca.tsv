@@ -1,0 +1,13 @@
+key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
+#character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/scm_norsca							
+skill_node_set_hkrul_adella	general	false	false				hkrul_adella
+skill_node_set_hkrul_soren	wizard	false	false				hkrul_soren
+skill_node_set_hkrul_akkorak	general	false	false				hkrul_akkorak
+skill_node_set_hkrul_birna	general	false	false				hkrul_birna
+skill_node_set_hkrul_drenok	general	false	false				hkrul_drenok
+skill_node_set_hkrul_einar	general	false	false				hkrul_einar
+skill_node_set_hkrul_harald	general	false	false				hkrul_harald
+skill_node_set_hkrul_sayl	general	false	false				hkrul_sayl
+skill_node_set_hkrul_ulfric	general	false	false				hkrul_ulfric
+skill_node_set_hkrul_verdandi	champion	false	false				hkrul_verdandi
+skill_node_set_hkrul_kolsveinn	general	false	false				hkrul_kolsveinn

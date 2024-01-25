@@ -1,0 +1,15 @@
+key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/scm_norsca_self									
+scm_norsca_unique_non_blocking_self_a_01		wh_dlc08_skill_nor_lord_self_drinker_of_blood		2	0		0	0	true
+scm_norsca_unique_non_blocking_self_a_02		wh_dlc08_skill_nor_lord_self_chrons_wrath		2	1		0	0	true
+scm_norsca_unique_non_blocking_self_a_03		wh_dlc08_skill_nor_lord_self_fury_of_the_hound		2	2		0	4	true
+scm_norsca_unique_non_blocking_self_a_04		wh_dlc08_skill_nor_lord_self_carrier_of_death		2	3		0	0	true
+scm_norsca_unique_non_blocking_self_a_05		wh_dlc08_skill_nor_lord_self_putrefying_ooze		2	4		0	0	true
+scm_norsca_unique_non_blocking_self_a_06		wh_dlc08_skill_nor_lord_self_plague_of_the_crow		2	5		0	4	true
+scm_norsca_unique_non_blocking_self_b_01		wh_dlc08_skill_nor_lord_self_indulger_of_the_exotic		3	0		0	0	true
+scm_norsca_unique_non_blocking_self_b_02		wh_dlc08_skill_nor_lord_self_intoxicating_visions		3	1		0	0	true
+scm_norsca_unique_non_blocking_self_b_03		wh_dlc08_skill_nor_lord_self_seduction_of_the_serpent		3	2		0	4	true
+scm_norsca_unique_non_blocking_self_b_04		wh_dlc08_skill_nor_lord_self_spirit_wanderer		3	3		0	0	true
+scm_norsca_unique_non_blocking_self_b_05		wh_dlc08_skill_nor_lord_self_dark_deceiver		3	4		0	0	true
+scm_norsca_unique_non_blocking_self_b_06		wh_dlc08_skill_nor_lord_self_sorcery_of_the_eagle		3	5		0	4	true
+scm_norsca_scaling		wh3_main_skill_agent_action_success_scaling		99	0		0	0	false

@@ -27,9 +27,6 @@ hkrul_skill_node_akkorak_battle_11		wh2_dlc11_skill_nor_army_buff_icy_wrath		4	1
 hkrul_skill_node_akkorak_battle_12		wh2_dlc11_skill_nor_army_buff_hulks_of_death		4	11		0	0	true
 hkrul_skill_node_akkorak_battle_13		wh_dlc08_skill_nor_lord_battle_stand_or_die		4	12		0	1	true
 hkrul_skill_node_akkorak_battle_14		wh_dlc08_skill_nor_lords_battle_fight_or_die		4	13		0	1	true
-hkrul_skill_node_akkorak_self_b_04		wh_dlc08_skill_nor_lord_self_spirit_wanderer		3	3		0	0	true
-hkrul_skill_node_akkorak_self_b_05		wh_dlc08_skill_nor_lord_self_dark_deceiver		3	4		0	0	true
-hkrul_skill_node_akkorak_self_b_06		wh_dlc08_skill_nor_lord_self_sorcery_of_the_eagle		3	5		0	4	true
 hkrul_skill_node_akkorak_innate		innate_hkrul_akkorak		6	0		1	0	false
 hkrul_skill_node_akkorak_misc_07		hkrul_akkorak_special_1_5		1	5		0	0	true
 hkrul_skill_node_akkorak_misc_06		hkrul_akkorak_special_1_4		1	6		0	3	true
