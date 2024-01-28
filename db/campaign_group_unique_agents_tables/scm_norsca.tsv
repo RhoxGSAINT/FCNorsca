@@ -1,0 +1,14 @@
+campaign_group	unique_agent	base_charges
+#campaign_group_unique_agents_tables;0;db/campaign_group_unique_agents_tables/scm_norsca		
+wh_dlc08_feature_norsca	hkrul_adella	1
+wh_dlc08_feature_norsca	hkrul_soren	1
+wh_dlc08_feature_norsca	hkrul_akkorak	1
+wh_dlc08_feature_norsca	hkrul_birna	1
+wh_dlc08_feature_norsca	hkrul_drenok	1
+wh_dlc08_feature_norsca	hkrul_einar	1
+wh_dlc08_feature_norsca	hkrul_harald	1
+wh_dlc08_feature_norsca	hkrul_sayl	1
+wh_dlc08_feature_norsca	hkrul_ulfric	1
+wh_dlc08_feature_norsca	hkrul_verdandi	1
+wh_dlc08_feature_norsca	hkrul_kolsveinn	0
+wh_dlc08_feature_norsca	hkrul_swyrd	0
