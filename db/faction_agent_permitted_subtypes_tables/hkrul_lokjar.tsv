@@ -1,0 +1,19 @@
+agent	faction	subtype
+#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_lokjar		
+champion	wh_main_nor_aesling	hkrul_lokjar
+champion	wh_dlc08_nor_norsca	hkrul_lokjar
+champion	wh_dlc08_nor_wintertooth	hkrul_lokjar
+champion	wh_main_nor_skaeling	hkrul_lokjar
+champion	wh_main_nor_varg	hkrul_lokjar
+champion	wh_main_nor_sarl	hkrul_lokjar
+champion	wh_main_nor_graeling	hkrul_lokjar
+champion	wh_main_nor_bjornling	hkrul_lokjar
+champion	wh_main_nor_baersonling	hkrul_lokjar
+champion	wh2_main_nor_skeggi	hkrul_lokjar
+champion	wh2_main_nor_mung	hkrul_lokjar
+champion	wh2_main_nor_aghol	hkrul_lokjar
+champion	wh3_dlc20_nor_yusak	hkrul_lokjar
+champion	wh3_dlc20_nor_kuj	hkrul_lokjar
+champion	wh3_dlc20_nor_kul	hkrul_lokjar
+champion	wh3_dlc20_nor_dolgan	hkrul_lokjar
+champion	wh3_dlc20_nor_tong	hkrul_lokjar

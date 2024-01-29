@@ -1,6 +1,5 @@
 unit	military_group
 #units_to_groupings_military_permissions_tables;0;db/units_to_groupings_military_permissions_tables/hkrul_birna	
-hkrul_birna	wh_main_group_norsca
 hkrul_sarl_hunters	wh3_dlc20_group_chs_azazel
 hkrul_sarl_hunters	wh3_dlc20_group_chs_festus
 hkrul_sarl_hunters	wh3_dlc20_group_chs_valkia

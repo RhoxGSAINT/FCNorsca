@@ -3,3 +3,4 @@ key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_
 hkrul_soren	false	true	ui/campaign ui/agents/wh_main_lore_death.png	hkrul_soren	vo_actor_Empire_dlc03_AmberWizard	true	-1	false	true	false	false		hkrul_soren_lore		false	true	cannot_be_loaded_in_campaign		false	true	900
 hkrul_verdandi	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_verdandi	wh2_dlc10_vo_actor_Dark_Elves_Supreme_Sorceress	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_swyrd	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_swyrd	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100
+hkrul_lokjar	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_lokjar	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100
