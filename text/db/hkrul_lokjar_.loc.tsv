@@ -1,0 +1,27 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_lokjar_.loc		
+character_skills_localised_name_innate_hkrul_lokjar	Beserker of Legend	true
+character_skills_localised_description_innate_hkrul_lokjar	With eery vigour Lokjar wades across the front lines of any daring enemy warband.	true
+character_skills_localised_name_hkrul_lokjar_special_1_0	Stalwart Fury	true
+character_skills_localised_name_hkrul_lokjar_special_1_1	Norse Pauldron	true
+character_skills_localised_name_hkrul_lokjar_special_1_2	Unnatural Hunters	true
+character_skills_localised_name_hkrul_lokjar_special_1_3	Smödir's Marauders	true
+character_skills_localised_name_hkrul_lokjar_special_1_4	Eery Monolith	true
+character_skills_localised_name_hkrul_lokjar_special_1_5	White Dragon Slayers	true
+character_skills_localised_name_hkrul_lokjar_special_1_6	Tjodalf's Cry	true
+character_skills_localised_description_hkrul_lokjar_special_1_0	Few swing and hack tirelessly as Lokjar Bjoergir, scourge of the frozen tundra.	true
+character_skills_localised_description_hkrul_lokjar_special_1_1	Stolen from a Norse dwarfish blacksmith, Lokjar's retinue dresses in sturdy and stalwart armour.	true
+character_skills_localised_description_hkrul_lokjar_special_1_2	The band formelry led by Tjodalf was known for hunting unnatural chaotic beasts in tedious and long monster hunts.	true
+character_skills_localised_description_hkrul_lokjar_special_1_3	The group of marauders led by Chieftain Tjodalf Smödir once was revered and famed throughout the frozen wastes.	true
+character_skills_localised_description_hkrul_lokjar_special_1_4	As time progresses the strange monolith Lokjar's men crossed appears in their increasingly disturbing dreams.	true
+character_skills_localised_description_hkrul_lokjar_special_1_5	Not many marauders may claim to have slain a White Dragon, yet the retinue of Tjodalf achieved the impossible.	true
+character_skills_localised_description_hkrul_lokjar_special_1_6	The uncanning cry bellowed by Tjodalf as Lokjar betrayed him is both a warning and an inspiration for marauders following Bjoergir's footsteps.	true
+unit_abilities_onscreen_name_hkrul_lokjar_cry	Tjodalf's Cry	false
+unit_abilities_tooltip_text_hkrul_lokjar_cry	As she blows the Graeling horn hunters gather for their feast: The Hunt.	false
+agent_subtypes_onscreen_name_override_hkrul_lokjar	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_lokjar	Legendary Hero	false
+unit_description_short_texts_text_hkrul_lokjar	A mighty champion of the frozen mountains who once betrayed his chieftain to achieve eternal glory.	false
+names_name_3311711831	Lokjar	false
+names_name_3311711830	Bjoergir	false
+land_units_onscreen_name_hkrul_lokjar	Lokjar Bjoergir	true
+effects_description_hkrul_lokjar_cry	Ability: "Tjodalf's Cry"	false
