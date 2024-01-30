@@ -6,14 +6,14 @@ hkrul_soren		hkrul_soren		1.0000	1.1600	0.0000
 hkrul_soren_campaign		hkrul_soren_campaign		1.0000	1.1600	0.0000	
 hkrul_akkorak		hkrul_akkorak		1.0000	1.1000	0.0000	
 hkrul_drenok		hkrul_drenok		1.0000	1.1000	0.0000	
-hkrul_einar		phy_einar		1.0000	1.0000	0.0000	
-hkrul_harald		phy_harald		1.0000	1.0000	0.0000	
+hkrul_einar		phy_einar		1.0000	0.9200	0.0000	
+hkrul_harald		phy_harald		1.0000	0.9200	0.0000	
 hkrul_ulfric		thm_ulfric		1.0000	1.1400	0.0000	
 hkrul_ulfric_mammoth	VariantMeshes/wh_variantmodels/hq3/nor/nor_war_mammoth/tech	bjornling_war_mammoth_howdah_lord		1.0000	1.0000	0.0000	
 hkrul_verdandi		phy_verdandi		1.0000	1.1600	0.0000	
 hkrul_birna		hkrul_birna		1.0000	1.0500	0.0000	
 hkrul_sayl		hkrul_sayl		1.0000	1.2000	0.0000	
-hkrul_kolsveinn		airborne_kolsveinn		1.0000	1.2200	0.0000	
+hkrul_kolsveinn		airborne_kolsveinn		1.0000	1.3000	0.0000	
 hkrul_swyrd		hkrul_swyrd		1.0000	1.2000	0.0000	
 hkrul_swyrd_camp		hkrul_swyrd_camp		1.0000	1.2000	0.0000	
 hkrul_lokjar		phy_lokjar		1.0000	1.1600	0.0000	

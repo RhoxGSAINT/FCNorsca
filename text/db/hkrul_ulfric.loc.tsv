@@ -27,9 +27,11 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_ulfric	Defeated Hig
 ancillaries_colour_text_hkrul_ulfric_axe	In the hands of King Ulfric Grondal, the Bjornheart Waraxe stands as a testament to the Bjornling tribe's unyielding spirit. Unlike many Norscan tribes, the Bjornlings favor the old Norse traditions over the chaos-tainted path. The mighty greataxe, forged in the heart of their frost-kissed lands, channels the raw power of the storm-laden winds that sweep across their domain. With each swing, King Ulfric wields the Stormrend Greataxe, cleaving through foes with the primal might that echoes the thunderous legacy of the Bjornling tribe, a beacon of Norse strength in the midst of the chaotic tempest	true
 ancillaries_onscreen_name_hkrul_ulfric_axe	Bjornheart Waraxe	true
 land_units_onscreen_name_hkrul_ulfric	Ulfric Grondal	true
+land_units_onscreen_name_hkrul_bjornling_ogg	Ogg Halfheart	true
 names_name_5270700350	Grondal	false
 names_name_5270700351	High King Ulfric	false
 unit_description_short_texts_text_hkrul_ulfric	The enigmatic High King of the Bjornling does not embrace chaos, but rather seeks the ways of Dazh, Olric and Tor.	false
+unit_description_short_texts_text_hkrul_bjornling_ogg	First mate of the Swordfysh and first lieutenant of Aranessa, Ogg is both a fierce sailor and warrior.	false
 unit_abilities_tooltip_text_hkrul_ulfric_axe	The Waraxe forged by Hafkael is the pinnacle of Skjold's might as proud bastion of the Bjornling.	true
 unit_abilities_onscreen_name_hkrul_ulfric_axe	Bjornheart Waraxe	true
 land_units_onscreen_name_hkrul_bjornling_inf_marauder_berserkers_0	Bjornling Berserkers	false

@@ -1,0 +1,15 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_norsca_quest_battle_skeggi.loc		
+battle_set_pieces_localised_name_hkrul_skeggi_adella_sword_final_battle	Sword of Warping	false
+battle_set_pieces_localised_description_hkrul_skeggi_adella_sword_final_battle	In the heart of Lustria's dense jungle, Adella of the Thousand Mouths, a Norscan Queen gifted with chaotic whispers, seeks the legendary "Sword of Warping" to unleash chaos against the Lizardmen. With a cadre of loyal marauders, she ventures inland for the final quest battle, the jungle humming with anticipation as Adella prepares to seize the Sword and face the cold-blooded defenders in a decisive struggle that will echo through the ancient jungle.	false
+scripted_objectives_localised_text_Hkrul_adella_player_objective	Kill the feral beasts and claim the Sword of Warping!	false
+scripted_objectives_localised_text_Hkrul_player_ally_attack	The Sea-Maiden Verdandi of the Graeling - expertly known to the Jungle terrain - has come to our aid! Keep her hunters alive!	false
+scripted_objectives_localised_text_Hkrul_enemy_army_attack	The Lizardmen are trying to obscure the Sword of Warping!	false
+scripted_objectives_localised_text_Hkrul_enemy_army_casulaties	We shall only retrieve the blade after it is soaked in the cold blood of the Lizards defending it!	false
+scripted_objectives_localised_text_Hkrul_enemy_rein_arrived	More cold-blooded have arrived! Charge them, for Chaos! For Skeggi!	false
+scripted_subtitles_localised_text_hkrul_adella_lustria_qb_pt_01	The Lizardmen are trying to obscure the Sword of Warping!	false
+scripted_subtitles_localised_text_hkrul_adella_lustria_qb_pt_02	Kill the feral beasts and claim the Sword of Warping!	false
+scripted_subtitles_localised_text_hkrul_adella_lustria_qb_pt_03	More feral beasts arrive.. My mouths whispered their arrival long ago.. CHARGE!	false
+scripted_objectives_localised_text_Hkrul_enemy_rein_2_arrived	More feral beasts arrive.. My mouths whispered their arrival long ago.. CHARGE!	false
+loading_screen_quotes_description_hkrul_skeggi_adella_sword_final_battle	Fit for a ruler who bridges the realms of men and Bjornlings, the Crown of Skjold bears imperial grace. Adorned with engraved jewels, this regal artifact exudes authority. Yet, beneath its refined exterior lies a formidable power — the wearer commands unwavering loyalty from all Bjornling tribes, a testament to the unity forged in the icy crucible of Skjold's unforgiving lands	false
+loading_screen_quotes_title_hkrul_skeggi_adella_sword_final_battle	The Sword of Warping	false

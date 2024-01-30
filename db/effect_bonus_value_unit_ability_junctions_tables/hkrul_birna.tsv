@@ -1,3 +1,4 @@
 effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_birna		
 hkrul_birna_sword	enable	hkrul_birna_sword
+hkrul_birna_bow	enable	hkrul_birna_bow

@@ -97,7 +97,7 @@
                         num_anims="1"
                         skeleton_type="humanoid01">
                         <animation_paths>
-                            <path value="animations/battle/humanoid01/staff_and_crystal_ball/spell_casting/hu1_sfcb_cast_spell_warmachine_fire_01.anim"/>
+                            <path value="animations/battle/humanoid01/staff_and_sword/stand/hu1_sfsw_stand_01.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>

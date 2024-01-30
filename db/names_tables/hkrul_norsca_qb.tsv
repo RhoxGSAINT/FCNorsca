@@ -1,0 +1,6 @@
+id	names_group	type	gender	frequency
+#names_tables;0;db/names_tables/hkrul_norsca_qb				
+9984250101	names_ogr_ogre_kingdom	forename	m	1
+9984250100	names_ogr_ogre_kingdom	family_name	m	1
+9984250103	names_nor_norsca	forename	m	1
+9984250102	names_nor_norsca	family_name	m	1

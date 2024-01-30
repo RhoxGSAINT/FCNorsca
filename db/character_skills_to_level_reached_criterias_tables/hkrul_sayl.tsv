@@ -1,2 +1,3 @@
 character_skill	character_level	upgrade_to_skill_level
 #character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/hkrul_sayl		
+hkrul_sayl_staff	13	1
