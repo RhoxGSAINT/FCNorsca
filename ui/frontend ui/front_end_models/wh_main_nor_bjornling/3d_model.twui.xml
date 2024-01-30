@@ -97,7 +97,7 @@
                         num_anims="1"
                         skeleton_type="humanoid01c">
                         <animation_paths>
-                            <path value="animations/battle/humanoid01c/2handed_axe/attacks/hu1c_2ha_attack_03.anim"/>
+                            <path value="animations/battle/humanoid01c/2handed_axe/stand/hu1c_2ha_stand_01.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>

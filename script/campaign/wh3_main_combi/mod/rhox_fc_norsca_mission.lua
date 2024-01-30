@@ -15,8 +15,12 @@ core:add_listener(
 
 local agent_subtype_to_level_and_mission={
     hkrul_ulfric={
-        level= 15,
-        mission= "mixer_lzd_generic_lord_kroak"
+        level= 14,
+        mission= "hkrul_bjornling_ulfric_crown_final_battle"
+    },
+    hkrul_adella={
+        level= 7,
+        mission= "hkrul_skeggi_adella_sword_final"
     },
     --[[
       hkrul_ulfric={ --lefthand value should be agent_subtype key

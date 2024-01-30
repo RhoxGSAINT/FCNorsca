@@ -20,7 +20,7 @@ unit_abilities_onscreen_name_hkrul_verdandi_hunt	Monster Hunt	false
 unit_abilities_tooltip_text_hkrul_verdandi_hunt	As she blows the Graeling horn hunters gather for their feast: The Hunt.	false
 agent_subtypes_onscreen_name_override_hkrul_verdandi	Legendary Hero	false
 agent_subtypes_description_text_override_hkrul_verdandi	Legendary Hero	false
-unit_description_short_texts_text_hkrul_verdandi	Verdandi Sea-Maiden is a sight to behold, the Graeling Champion is known for sailing distant corners hoping to challenge worthy beasts and foes.	false
+unit_description_short_texts_text_hkrul_verdandi	Verdandi is a sight to behold, the Graeling Champion is known for sailing distant corners hoping to challenge worthy beasts and foes.	false
 names_name_7411711831	Verdandi	false
 names_name_7411711830	Sea-Maiden	false
 land_units_onscreen_name_hkrul_verdandi	Verdandi Sea-Maiden	true

@@ -71,7 +71,7 @@ ancillaries_colour_text_hkrul_adella_mount_2	Placeholder Text Placeholder Text	t
 ancillaries_onscreen_name_hkrul_adella_mount_2	Imperial Pegasus	true
 ancillaries_colour_text_hkrul_adella_mount_3	Placeholder Text Placeholder Text	true
 ancillaries_onscreen_name_hkrul_adella_mount_3	Imperial Griffon	true
-missions_localised_description_hkrul_skeggi_adella_sword_final	Placeholder Text Placeholder Text Placeholder Text Placeholder Text	false
+missions_localised_description_hkrul_skeggi_adella_sword_final	In the heart of Lustria's dense jungle, Adella of the Thousand Mouths, a Norscan Queen gifted with chaotic whispers, seeks the legendary "Sword of Warping" to unleash chaos against the Lizardmen. With a cadre of loyal marauders, she ventures inland for the final quest battle, the jungle humming with anticipation as Adella prepares to seize the Sword and face the cold-blooded defenders in a decisive struggle that will echo through the ancient jungle.	false
 missions_localised_title_hkrul_skeggi_adella_sword_final	Sword of Warping	false
 land_units_onscreen_name_hkrul_adella	Adella of the Thousand Mouths	true
 land_units_onscreen_name_hkrul_adella_mount	Adella of the Thousand Mouths	true
@@ -90,6 +90,9 @@ land_units_onscreen_name_hkrul_skeggi_inf_chaos_marauders_1	Skeggi Marauders (Gr
 ui_unit_groupings_onscreen_hkrul_norsca_spear	Spear Infantry	false
 ui_unit_groupings_onscreen_hkrul_norsca_beast	Monster	false
 ui_unit_groupings_onscreen_hkrul_norsca_missile	Javelin Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_missile_bow	Archer Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_missile_bow_lord	Hybrid-Weapon Infantry	false
+ui_unit_groupings_onscreen_hkrul_norsca_missile_bow_hero	Hybrid-Weapon Infantry	false
 ui_unit_groupings_onscreen_hkrul_norsca_axe	Axe Infantry	false
 ui_unit_groupings_onscreen_hkrul_norsca_axe_duel	Duel Axe Infantry	false
 ui_unit_groupings_onscreen_hkrul_norsca_axe_great	Great Axe Infantry	false

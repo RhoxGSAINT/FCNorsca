@@ -97,7 +97,7 @@
                         num_anims="1"
                         skeleton_type="humanoid13">
                         <animation_paths>
-                            <path value="animations/battle/humanoid13/ogre/2handed_sword/attacks/hu13_ogre_2hsw_attack_02.anim"/>
+                            <path value="animations/battle/humanoid13/ogre/2handed_sword/stand/hu13_ogre_2hsw_stand_01.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>

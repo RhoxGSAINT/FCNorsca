@@ -1,0 +1,8 @@
+id	mission_key	payload_key	status_key	value	target_key
+#cdir_events_mission_payloads_tables;2;db/cdir_events_mission_payloads_tables/hkrul_norsca_qb					
+75545030009	hkrul_skeggi_adella_sword_final	TREASURY	SUCCESS	AMOUNT[3500]	default
+75545030010	hkrul_skeggi_adella_sword_final	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[hkrul_adella_sword]	default
+75545030011	hkrul_skeggi_adella_sword_final	EFFECT_BUNDLE	SUCCESS	KEY[wh3_dlc20_payload_effect_casualty_replenishment];DURATION[2]	default
+75545030012	hkrul_bjornling_ulfric_crown_final_battle	TREASURY	SUCCESS	AMOUNT[7500]	default
+75545030014	hkrul_bjornling_ulfric_crown_final_battle	EFFECT_BUNDLE	SUCCESS	KEY[wh3_dlc20_payload_effect_casualty_replenishment];DURATION[2]	default
+75545030013	hkrul_bjornling_ulfric_crown_final_battle	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[hkrul_ulfric_crown]	default

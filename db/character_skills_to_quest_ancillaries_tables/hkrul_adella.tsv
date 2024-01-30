@@ -1,3 +1,5 @@
 ancillary	skill	use_quest_for_prefix
 #character_skills_to_quest_ancillaries_tables;1;db/character_skills_to_quest_ancillaries_tables/hkrul_adella		
 hkrul_adella_sword	hkrul_adella_sword	true
+hkrul_lokjar_gorger	hkrul_lokjar_gorger	true
+hkrul_lokjar_amulet	hkrul_lokjar_amulet	true

@@ -1,0 +1,21 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_norsca_quest_battle_bjornling.loc		
+scripted_subtitles_localised_text_hkrul_ulfric_qb_crown_of_skjold_pt_01	My one mistake was not cutting off your head before casting you off that cliff.. 	false
+scripted_subtitles_localised_text_hkrul_ulfric_qb_crown_of_skjold_pt_02	A mistake I shall not make again.. As no mutant may call themselves bloodkin of High King Ulfric Grondal..	false
+scripted_subtitles_localised_text_hkrul_ulfric_qb_crown_of_skjold_pt_03	MARAUDERS! Abolish the mutant filth, for Skjold! for the Bjornling!	false
+scripted_objectives_localised_description_hkrul_ulfric_crown_of_skjold_stage_5_hints_flankers		false
+scripted_objectives_localised_description_hkrul_ulfric_crown_of_skjold_stage_5_hints_main_objective		false
+scripted_objectives_localised_description_hkrul_ulfric_crown_of_skjold_stage_5_hints_reinforcements		false
+scripted_objectives_localised_description_hkrul_ulfric_crown_of_skjold_stage_5_hints_start_battle		false
+scripted_objectives_localised_text_hkrul_ulfric_crown_of_skjold_stage_5_hints_flankers	It's a cowardice trap! Scouts report Aranessa Saltspite has been spotted in the woods, she is sure to charge! Protect your flanks	false
+scripted_objectives_localised_text_hkrul_ulfric_crown_of_skjold_stage_5_hints_main_objective	Destroy the Pirate Raiders and claim the Crown of Skjold	false
+scripted_objectives_localised_text_hkrul_ulfric_crown_of_skjold_stage_5_hints_reinforcements	Hrothgar Olveksan, one of the Bjornling Jarls has arrived! Hail the Bloodwolf! CHARGE!	false
+scripted_objectives_localised_text_hkrul_ulfric_crown_of_skjold_stage_5_hints_start_battle	They charge head on, yet your bloodddaughter is no where to be found! Saltspite's first mate Ogg Halfheart leads the lines. brace yourself and hold your ground!	false
+battle_set_pieces_localised_name_hkrul_bjornling_ulfric_crown_final_battle	Bitter Reunion	false
+battle_set_pieces_localised_description_hkrul_bjornling_ulfric_crown_final_battle	Upon Skjold's icy expanse, High King Ulfric Grondal confronts an encroaching peril – the notorious pirate queen, Aranessa Saltspite, once his own flesh and blood. With doubt shadowing his rule, Ulfric mounts a desperate defense to reaffirm his kingship and sever the familial ties turned tumultuous. The clash becomes a crucible, where Ulfric strives to erase the stain of the past and reassert himself as the unyielding High King of the Bjornling Tribe, choosing the icy battlefield as the stage for a bitter reunion.	false
+names_name_9984250101	Ogg	false
+names_name_9984250100	Halfheart	false
+names_name_9984250103	Hrothgar	false
+names_name_9984250102	Olveksan	false
+loading_screen_quotes_description_hkrul_bjornling_ulfric_crown_final_battle	Fit for a ruler who bridges the realms of men and Bjornlings, the Crown of Skjold bears imperial grace. Adorned with engraved jewels, this regal artifact exudes authority. Yet, beneath its refined exterior lies a formidable power — the wearer commands unwavering loyalty from all Bjornling tribes, a testament to the unity forged in the icy crucible of Skjold's unforgiving lands	false
+loading_screen_quotes_title_hkrul_bjornling_ulfric_crown_final_battle	The Crown of Skjold	false

@@ -97,7 +97,7 @@
                         num_anims="1"
                         skeleton_type="humanoid06">
                         <animation_paths>
-                            <path value="animations/battle/humanoid06/dual_axe/attacks/hu6_da_attack_01.anim"/>
+                            <path value="animations/battle/humanoid06/axe_and_shield/stand/hu6_axs_stand_01.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>
