@@ -1,3 +1,5 @@
 unit_record	height_offset	campaign_height_offset
 #unit_banner_unit_height_offsets_tables;2;db/unit_banner_unit_height_offsets_tables/scm_norsca		
 hkrul_ulfric_mammoth	1.0000	0.0000
+hkrul_lokjar_horse	1.0000	0.0000
+hkrul_lokjar_chariot	1.5000	0.0000

@@ -2,3 +2,7 @@ bullet_point	unit_key
 #ui_unit_bullet_point_unit_overrides_tables;0;db/ui_unit_bullet_point_unit_overrides_tables/hkrul_lokjar	
 shielded	hkrul_lokjar
 armour_piercing	hkrul_lokjar
+melee_expert	hkrul_lokjar_horse
+shielded	hkrul_lokjar_horse
+anti_infantry	hkrul_lokjar_chariot
+melee_expert	hkrul_lokjar_chariot

@@ -1,0 +1,6 @@
+agent_subtype	ancillary
+#ancillaries_included_agent_subtypes_tables;0;db/ancillaries_included_agent_subtypes_tables/hkrul_lokjar	
+hkrul_lokjar	hkrul_lokjar_gorger
+hkrul_lokjar	hkrul_lokjar_amulet
+hkrul_lokjar	hkrul_lokjar_horse
+hkrul_lokjar	hkrul_lokjar_chariot

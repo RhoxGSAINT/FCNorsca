@@ -2,3 +2,5 @@ key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	s
 #ancillaries_tables;0;db/ancillaries_tables/hkrul_lokjar																												
 hkrul_lokjar_gorger	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_lokjar_amulet	wh_main_anc_talisman	.	false	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			200	0		false	false	true	all
+hkrul_lokjar_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_lokjar_horse		1	0		false	false	true	all
+hkrul_lokjar_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_lokjar_chariot		1	0		false	false	true	all
