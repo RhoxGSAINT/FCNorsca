@@ -22,8 +22,8 @@ gb:set_cutscene_during_deployment(true);
 -------ARMY SETUP----------
 ga_player_army = gb:get_army(gb:get_player_alliance_num(), 0, "");
 ga_player_rein = gb:get_army(gb:get_player_alliance_num(), "hkrul_adella_qb_1_army_player_reinforcement");
-ga_enemy_army = gb:get_army(gb:get_non_player_alliance_num(2),"hkrul_adella_qb_1_army_enemy");
-ga_enemy_rein = gb:get_army(gb:get_non_player_alliance_num(2),"hkrul_adella_qb_1_army_enemy_reinforcement");
+ga_enemy_army = gb:get_army(gb:get_non_player_alliance_num(),"hkrul_adella_qb_1_army_enemy");
+ga_enemy_rein = gb:get_army(gb:get_non_player_alliance_num(),"hkrul_adella_qb_1_army_enemy_reinforcement");
 
 -------ORDERS----------
 gb:message_on_time_offset("release", 30000,"01_intro_cutscene_end");
