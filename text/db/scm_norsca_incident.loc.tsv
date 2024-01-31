@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/scm_norsca_incident.loc		
+incidents_localised_description_rhox_fc_norsca_swyrd_incident	Your faction leader recently suffered a defeat. In this darkest hour, Ravenswyrd has appeared and come for our rescue\\n\\n[[col:red]]Warning: This legendary hero will return to the wild and seek other dire Norscans when he becomes wounded[[/col]]	false
+incidents_localised_title_rhox_fc_norsca_swyrd_incident	Ravenswyrd on the rescue	false

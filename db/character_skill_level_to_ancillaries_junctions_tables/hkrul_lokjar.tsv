@@ -1,0 +1,6 @@
+granted_ancillary	skill	level
+#character_skill_level_to_ancillaries_junctions_tables;1;db/character_skill_level_to_ancillaries_junctions_tables/hkrul_lokjar		
+hkrul_lokjar_horse	hkrul_lokjar_horse	1
+hkrul_lokjar_chariot	hkrul_lokjar_chariot	1
+hkrul_lokjar_gorger	hkrul_lokjar_gorger	1
+hkrul_lokjar_amulet	hkrul_lokjar_amulet	1

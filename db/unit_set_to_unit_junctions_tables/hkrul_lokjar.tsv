@@ -2,3 +2,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_lokjar					
 			hkrul_lokjar	mp_cap_group_heroes	false
 			hkrul_lokjar	nor_all	false
+			hkrul_lokjar_horse	mp_cap_group_heroes	false
+			hkrul_lokjar_horse	nor_all	false
+			hkrul_lokjar_chariot	mp_cap_group_heroes	false
+			hkrul_lokjar_chariot	nor_all	false
