@@ -1,0 +1,20 @@
+key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
+#unit_abilities_tables;17;db/unit_abilities_tables/scm_norsca											
+hkrul_adella_sword	true	hkrul_adella_sword		wh_type_augment		wh_main_anc_group_unique	true	false	active		false
+hkrul_soren_sack	true	hkrul_soren_sack		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_soren_sack_2	true	hkrul_soren_sack_alt		wh_type_augment		wh_main_anc_group_unique	true	false	active	hkrul_soren_sack_ability_set	false
+hkrul_akkorak_spear	true	hkrul_akkorak_spear		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_birna_sword	true	hkrul_birna_sword		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_birna_bow	false	hkrul_birna_bow		wh_type_magic_missiles		wh_main_anc_group_rare	true	false	active		false
+hkrul_drenok_axe	true	hkrul_drenok_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_einar_sword	true	hkrul_einar_sword		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_harald_sword	true	hkrul_harald_sword		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_lokjar_cry	true	hkrul_lokjar_cry		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
+hkrul_lokjar_gorger	true	hkrul_lokjar_gorger		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
+hkrul_sayl_mist	true	hkrul_sayl_mist		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_summon_nightmaw	true	hkrul_sayl_nightmaw		wh_type_augment		wh_main_anc_group_unique	true	false	unit		false
+hkrul_summon_nightmaw_dummy	true	hkrul_sayl_nightmaw		wh_type_augment		wh_main_anc_group_unique	false	true	unit		true
+hkrul_ulfric_axe	true	hkrul_ulfric_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_verdandi_hunt	true	hkrul_verdandi_hunt		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
+rhox_fc_norsca_summon_raven	false	calm_fc_norsca_raven		wh_type_augment		wh_main_anc_group_unique	false	false	unit		false
+rhox_fc_norsca_raven	false	calm_fc_norsca_raven		wh_type_area_of_ward_save		wh_main_anc_group_unique	false	false	passive		false

@@ -1,0 +1,26 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/scm_norsca	
+hide_forest	hkrul_akkorak
+encourages	hkrul_akkorak
+hide_forest	hkrul_birna
+encourages	hkrul_birna
+mounted_fire_move	hkrul_birna
+hide_forest	hkrul_drenok
+encourages	hkrul_drenok
+hide_forest	hkrul_einar
+ogre_charge	hkrul_einar
+encourages	hkrul_einar
+hide_forest	hkrul_harald
+encourages	hkrul_harald
+ogre_charge	hkrul_harald
+hide_forest	hkrul_lokjar
+encourages	hkrul_lokjar
+hide_forest	hkrul_sayl
+encourages	hkrul_sayl
+hide_forest	hkrul_ulfric
+encourages	hkrul_ulfric
+hide_forest	hkrul_verdandi
+mounted_fire_move	hkrul_verdandi
+causes_fear	calm_fc_norsca_raven
+flying	calm_fc_norsca_raven
+guerrilla_deploy	calm_fc_norsca_raven
