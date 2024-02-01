@@ -10,3 +10,15 @@ agent_subtypes_description_text_override_hkrul_swyrd	Legendary Beserker	false
 agent_subtypes_onscreen_name_override_hkrul_swyrd	Legendary Beserker	false
 land_units_onscreen_name_hkrul_swyrd	The Ravenswyrd	false
 unit_description_historical_texts_text_hkrul_swyrd	A famed and mysterious Beserker who shows during the Norse's darkest hour.	false
+unit_description_historical_texts_text_calm_fc_norsca_raven	The Raven	false
+unit_description_short_texts_text_calm_fc_norsca_raven	The Raven	false
+land_units_onscreen_name_calm_fc_norsca_raven	The Raven	false
+ui_unit_bullet_point_enums_onscreen_name_rhox_fc_norsca_undying_character	The Raven	false
+ui_unit_bullet_point_enums_tooltip_rhox_fc_norsca_undying_character	As long as this unit retains its presence, characters within this unit's ability radius will not die.	false
+ui_unit_bullet_point_enums_onscreen_name_rhox_fc_norsca_dying	The Raven	false
+ui_unit_bullet_point_enums_tooltip_rhox_fc_norsca_dying	Characters within this unit's radius will take damage when this unit dies	false
+unit_abilities_onscreen_name_rhox_fc_norsca_summon_raven	The Raven	false
+unit_abilities_tooltip_text_rhox_fc_norsca_summon_raven	As the battle starts, Raven will join the Ravenswyrd. As long as Raven is alive and is around the Ravenswyrd without flying, Ravenswyrd won't die	false
+unit_abilities_onscreen_name_rhox_fc_norsca_raven	The Raven	false
+unit_abilities_tooltip_text_rhox_fc_norsca_raven	As long as this unit retains its presence, characters within this unit's ability radius will not die.	false
+special_ability_phases_onscreen_name_rhox_fc_norsca_raven	The Raven	false

@@ -1,0 +1,4 @@
+key	state	sort_order	icon_path
+#ui_unit_bullet_point_enums_tables;4;db/ui_unit_bullet_point_enums_tables/scm_norsca			
+rhox_fc_norsca_undying_character	positive	74	
+rhox_fc_norsca_dying	negative	132	
