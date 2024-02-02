@@ -5,5 +5,5 @@ hkrul_soren	1	5670500341		100	5670500340	hkrul_soren	general	hkrul_soren	ui/port
 hkrul_adella_sword_kroxigor_ancient	1	1887488726		100	2147360514	wh2_dlc13_lzd_cha_kroxigor_ancient_0	general	wh2_dlc13_lzd_kroxigor_ancient	ui/portraits/portholes/wh2_main_lzd_lizardmen/lzd_kroxigor_ancient_campaign_02_0.png	1976504333		true
 hkrul_adella_verdandi	1	7411711831		100	7411711830	hkrul_verdandi	champion	hkrul_verdandi	ui/portraits/portholes/no_culture/hkrul_verdandi.png	203871729		true
 hkrul_ulfric	1	5270700351		100	5270700350	hkrul_ulfric_mammoth	general	hkrul_ulfric	ui/portraits/portholes/no_culture/hkrul_ulfric.png	203871728		true
-hkrul_ulfric_crown_ogg	1	9984250101		100	9984250100	wh3_main_ogr_cha_tyrant_0	general	wh3_main_ogr_tyrant	ui/portraits/portholes/wh3_main_ogr_ogre_kingdoms/ogr_tyrant_campaign_01_0.png	472888573		true
+hkrul_ulfric_crown_ogg	1	9984250101		100	9984250100	hkrul_bjornling_ogg	general	hkrul_bjornling_ogg	ui/portraits/portholes/no_culture/hkrul_bjornling_ogg.png	201735972		true
 hkrul_ulfric_crown_aranessa	1	1340289195		100	250811476	wh2_dlc11_cst_cha_aranessa_0	general	wh2_dlc11_cst_aranessa	UI\Portraits\Portholes\wh2_dlc11_cst_vampire_coast\cst_cha_aranessa_saltspite_0.png	1702132749		true

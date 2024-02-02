@@ -26,8 +26,6 @@ hkrul_skill_node_adella_battle_12		wh2_dlc11_skill_nor_army_buff_hulks_of_death	
 hkrul_skill_node_adella_battle_13		wh_dlc08_skill_nor_lord_battle_stand_or_die		4	12		0	1	true
 hkrul_skill_node_adella_battle_14		wh_dlc08_skill_nor_lords_battle_fight_or_die		4	13		0	1	true
 hkrul_skill_node_adella_unique_01		hkrul_adella_mount		0	1		0	0	true
-hkrul_skill_node_adella_unique_02		hkrul_adella_mount_2		0	2		0	0	true
-hkrul_skill_node_adella_unique_03		hkrul_adella_mount_3		0	3		0	0	true
 hkrul_skill_node_adella_unique_04		wh_dlc08_skill_nor_lords_unique_eye_of_the_gods		0	4		0	0	true
 hkrul_skill_node_adella_unique_05		wh_main_skill_chs_lord_battle_voice_of_the_dark_gods		0	5		0	0	true
 hkrul_skill_node_adella_special_01		hkrul_adella_special_1_0		1	1		0	0	true
