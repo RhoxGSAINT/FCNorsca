@@ -6,8 +6,6 @@ hkrul_soren_sack_2	item_ability.png	300	item_ability.png	battle	true
 hkrul_adella_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_adella_skeggi_ws	weapon_damage.png	97	weapon_damage.png	battle	true
 hkrul_adella_mount	mount.png	50	mount.png	both	true
-hkrul_adella_mount_2	mount.png	50	mount.png	both	true
-hkrul_adella_mount_3	mount.png	50	mount.png	both	true
 hkrul_soren_sack_uses	general_ability.png	705	general_ability.png	battle	true
 hkrul_soren_disable_sack	general_ability.png	705	general_ability.png	battle	true
 hkrul_adella_skeggi_recruit_rank	experience.png	120	experience.png	campaign	true

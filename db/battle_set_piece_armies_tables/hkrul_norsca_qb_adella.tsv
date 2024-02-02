@@ -4,4 +4,3 @@ hkrul_adella_qb_1_army_player	FALSE	0	test_emblem_army_01	203871720	0	wh2_main_n
 hkrul_adella_qb_1_army_player_reinforcement		60	test_emblem_army_01	203871729	0	wh_main_nor_graeling	true	false	false	false	false	true	true	false	000000	000000	000000	false	000000	000000	000000		false
 hkrul_adella_qb_1_army_enemy		0	test_emblem_army_01	1976504333	0	wh2_main_lzd_lizardmen_qb1	false	false	false	false	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
 hkrul_adella_qb_1_army_enemy_reinforcement		90	test_emblem_army_01	975266983	0	wh2_main_lzd_lizardmen_qb2	false	true	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
-hkrul_adella_qb_1_army_enemy_reinforcement_2		0	test_emblem_army_01	975266983	0	wh2_main_lzd_lizardmen_qb3	false	true	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000		false
