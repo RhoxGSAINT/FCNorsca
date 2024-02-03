@@ -1,3 +1,4 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_birna			
-hkrul_birna_sword	stat_melee_damage_base	1.2500	mult
+hkrul_birna_sword	stat_melee_damage_ap	1.4000	mult
+hkrul_birna_sword	stat_bonus_vs_infantry	20.0000	add

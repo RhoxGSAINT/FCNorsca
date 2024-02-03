@@ -53,9 +53,11 @@ units_custom_battle_mounts_mount_name_hkrul_ulfrichkrul_ulfric_mammoth	Skjold's 
 effects_description_hkrul_ulfric_mammoth	Mount: Skjold's Bulwark	false
 ancillaries_colour_text_hkrul_ulfric_mammoth	A mammoth so large it hardly fits through Skjold's gates, a true sight to be hold and devastating on the battlefield.	false
 ancillaries_onscreen_name_hkrul_ulfric_mammoth	Skjold's Bulwark	false
-effects_description_hkrul_ulfric_crown	Ability: "Skjold's Crown''	false
+effects_description_hkrul_ulfric_crown	Army Ability: "Skjold's Crown"	false
 ancillaries_colour_text_hkrul_ulfric_crown	Fit for a ruler who bridges the realms of men and Bjornlings, the Crown of Skjold bears imperial grace. Adorned with engraved jewels, this regal artifact exudes authority. Yet, beneath its refined exterior lies a formidable power — the wearer commands unwavering loyalty from all Bjornling tribes, a testament to the unity forged in the icy crucible of Skjold's unforgiving lands.	false
 ancillaries_onscreen_name_hkrul_ulfric_crown	Crown of Skjold	false
 character_trait_levels_onscreen_name_hkrul_defeated_trait_ogg	The Last Mate	true
 character_trait_levels_colour_text_hkrul_defeated_trait_ogg	You know what they say, the first shall be the last..	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_ogg	Defeated First Mate Ogg Halfheart	true
+unit_abilities_tooltip_text_hkrul_ulfric_crown	The High King of the Eldagrimm Gulf and ruler of the Bjornling invigorates his tribal warriors to push beyond the limits of the flesh.	false
+unit_abilities_onscreen_name_hkrul_ulfric_crown	Crown of Skjold	false
