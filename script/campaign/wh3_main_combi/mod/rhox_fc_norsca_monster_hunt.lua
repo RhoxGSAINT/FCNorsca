@@ -285,7 +285,7 @@ local rhox_fc_norsca_monster_hunt_factions={
 
 
 core:add_listener(
-	"rhox_adellia_MonsterHuntMissionSucceeded",
+	"rhox_fc_norsca_MonsterHuntMissionSucceeded",
 	"MissionSucceeded",
 	function(context)
 		local faction_key = context:faction():name();

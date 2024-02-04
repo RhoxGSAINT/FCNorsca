@@ -3,3 +3,7 @@ effect	icon	priority	icon_negative	category	is_positive_value_good
 hkrul_enable_immortality		0		campaign	true
 hkrul_birna_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_birna_bow	item_ability.png	300	item_ability.png	battle	true
+hkrul_birna_gaze	item_ability.png	300	item_ability.png	battle	true
+hkrul_birna_flock	item_ability.png	300	item_ability.png	battle	true
+hkrul_birna_ws_hunt_dummy	ranged_damage.png	300	ranged_damage.png	battle	true
+hkrul_birna_diplo_world_walkers	diplomacy.png	800	diplomacy.png	campaign	true

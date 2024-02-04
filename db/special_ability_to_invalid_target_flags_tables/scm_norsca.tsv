@@ -5,3 +5,4 @@ unit_is_not_commander_class	hkrul_soren_sack_2
 is_not_missile_unit	hkrul_lokjar_cry
 is_not_missile_unit	hkrul_verdandi_hunt
 unit_is_not_commander_class	rhox_fc_norsca_raven
+unit_is_not_single_entity	hkrul_birna_gaze

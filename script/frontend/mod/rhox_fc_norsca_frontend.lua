@@ -28,7 +28,7 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh_main_nor_graeling")
 			
 			mixer_change_lord_name("383940030", "hkrul_birna")
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_sarl", {"wh_main_nor_inf_chaos_marauders_0","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_sarl", {"wh_dlc08_nor_feral_manticore","wh_main_nor_mon_chaos_trolls","wh_main_nor_inf_chaos_marauders_1"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_sarl")
 			
 			

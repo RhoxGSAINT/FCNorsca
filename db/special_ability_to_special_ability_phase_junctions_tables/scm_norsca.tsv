@@ -20,4 +20,6 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_verdandi_hunt	true	true	false	hkrul_verdandi_hunt
 1	rhox_fc_norsca_raven	false	true	false	rhox_fc_norsca_raven
 1	hkrul_ulfric_crown	false	true	false	hkrul_ulfric_crown
-1	hkrul_hakka_sword	true	false	false	hkrul_hakka_sword
+1	hkrul_hakka_axe	true	false	false	hkrul_hakka_axe
+1	hkrul_birna_gaze	false	false	true	hkrul_birna_gaze
+1	hkrul_birna_flock	false	false	true	hkrul_birna_flock

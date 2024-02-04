@@ -20,16 +20,17 @@ character_skills_localised_description_hkrul_hakka_special_1_4	Hakka's indomitab
 character_skills_localised_name_hkrul_hakka_special_1_4	Skull Gatherer	true
 agent_subtypes_onscreen_name_override_hkrul_hakka	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_hakka		false
-effects_description_hkrul_hakka_sword	Ability: "Bloodreavers''	true
+effects_description_hkrul_hakka_axe	Ability: "Bloodreavers''	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_hakka	Hakkad and Sliced	true
 character_trait_levels_colour_text_hkrul_defeated_trait_hakka	It seems somebodies hack'n slashing days are numbered..	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_hakka	Defeated Hakka the Aesling	true
-ancillaries_colour_text_hkrul_hakka_sword	Forged amidst the frigid chaos of Norsca, the Bloodreavers, twin axes once grasped by Hakka the Aesling, bear the malevolent runes of Khorne's favor. These savage blades, steeped in the lore of northern storms, anticipate the fury of a yet-unfought battle on Zanbaijin's ancient grounds. As Hakka's grim shadow looms, the Bloodreavers thirst for the blood of future adversaries, becoming the embodiment of the Aesling warlord's unrestrained might and the impending tempest that shall echo through the annals of Chaos.	true
-ancillaries_onscreen_name_hkrul_hakka_sword	Bloodreavers	true
+ancillaries_colour_text_hkrul_hakka_axe	Forged amidst the frigid chaos of Norsca, the Bloodreavers, twin axes once grasped by Hakka the Aesling, bear the malevolent runes of Khorne's favor. These savage blades, steeped in the lore of northern storms, anticipate the fury of a yet-unfought battle on Zanbaijin's ancient grounds. As Hakka's grim shadow looms, the Bloodreavers thirst for the blood of future adversaries, becoming the embodiment of the Aesling warlord's unrestrained might and the impending tempest that shall echo through the annals of Chaos.	true
+ancillaries_onscreen_name_hkrul_hakka_axe	Bloodreavers	true
 land_units_onscreen_name_hkrul_hakka	Hakka the Aesling	true
 names_name_2570700350	the Aesling	false
 names_name_2570700351	Hakka	false
 unit_description_short_texts_text_hkrul_hakka	A frenzied berserker by reputation, many foes fall to the whirlwind fury of Hakka's twin battle-axes, their skulls made to garland the Throne of Khorne.	false
-unit_abilities_tooltip_text_hkrul_hakka_sword	Hakka wields his twin battle-axes with deadly precision, cleaving through armor and flesh alike.	true
-unit_abilities_onscreen_name_hkrul_hakka_sword	Bloodreavers	true
-PLACEHOLDER	Hakka the Aesling, Warrior King of the Aesling tribe, faces a dire threat in Throgg the Troll King and his monstrous horde. Determined to usurp the Aesling tribe, Throgg's vile ambitions plunge the Northern Wastes into chaos. Hakka, wielding his twin battle-axes, leads his warriors to confront this monstrous menace, knowing that the fate of his tribe hangs in the balance. As the clash of steel and roar of beasts echo across the frozen landscape, Hakka stands resolute, ready to unleash the fury of Khorne upon the encroaching darkness and preserve the honor of his tribe.	false
+unit_abilities_tooltip_text_hkrul_hakka_axe	Hakka wields his twin battle-axes with deadly precision, cleaving through armor and flesh alike.	true
+unit_abilities_onscreen_name_hkrul_hakka_axe	Bloodreavers	true
+unit_description_historical_texts_text_hkrul_hakka	Hakka the Aesling, Warrior King of the Aesling tribe, faces a dire threat in Throgg the Troll King and his monstrous horde. Determined to usurp the Aesling tribe, Throgg's vile ambitions plunge the Northern Wastes into chaos. Hakka, wielding his twin battle-axes, leads his warriors to confront this monstrous menace, knowing that the fate of his tribe hangs in the balance. As the clash of steel and roar of beasts echo across the frozen landscape, Hakka stands resolute, ready to unleash the fury of Khorne upon the encroaching darkness and preserve the honor of his tribe.	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_hakka	Legendary Lord	false
