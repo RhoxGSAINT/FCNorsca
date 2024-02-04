@@ -1,0 +1,15 @@
+agent_subtype	ancillary	rank	instant	is_quest_battle
+#character_ancillary_quest_ui_details_tables;2;db/character_ancillary_quest_ui_details_tables/scm_norsca				
+hkrul_adella	hkrul_adella_sword	8	false	true
+hkrul_lokjar	hkrul_lokjar_gorger	5	false	true
+hkrul_lokjar	hkrul_lokjar_amulet	10	false	true
+hkrul_akkorak	hkrul_akkorak_spear	13	true	false
+hkrul_birna	hkrul_birna_sword	7	true	false
+hkrul_birna	hkrul_birna_bow	11	true	false
+hkrul_drenok	hkrul_drenok_axe	7	true	false
+hkrul_einar	hkrul_einar_sword	8	true	false
+hkrul_hakka	hkrul_hakka_sword	8	true	false
+hkrul_harald	hkrul_harald_sword	10	true	false
+hkrul_sayl	hkrul_sayl_staff	10	true	false
+hkrul_ulfric	hkrul_ulfric_axe	7	true	false
+hkrul_ulfric	hkrul_ulfric_crown	14	false	true

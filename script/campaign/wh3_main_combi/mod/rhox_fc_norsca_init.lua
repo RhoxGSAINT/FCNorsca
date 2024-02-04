@@ -323,12 +323,12 @@ local rhox_faction_list={
     },
     wh_main_nor_aesling ={
         leader={
-            subtype="hkrul_kolsveinn",
+            subtype="hkrul_hakka",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
             x=612,
             y=850,
-            forename ="names_name_516997750",
-            familiyname ="names_name_516997749",
+            forename ="names_name_2570700351",
+            familiyname ="names_name_2570700350",
         },
         agent={
             type="dignitary",
@@ -337,7 +337,7 @@ local rhox_faction_list={
         region="wh3_main_combi_region_the_forbidden_citadel",
         how_they_play="rhox_fc_norsca_wh_main_nor_aesling_how_they_play",
         pic=800,
-        faction_trait="hkrul_kolsveinn_faction_trait",
+        faction_trait="hkrul_hakka_faction_trait",
         kill_previous_leader=false,--they're first target of Throgg, so needs to be careful
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")

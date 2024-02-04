@@ -1,0 +1,15 @@
+ancillary	skill	use_quest_for_prefix
+#character_skills_to_quest_ancillaries_tables;1;db/character_skills_to_quest_ancillaries_tables/scm_norsca		
+hkrul_adella_sword	hkrul_adella_sword	true
+hkrul_lokjar_gorger	hkrul_lokjar_gorger	true
+hkrul_lokjar_amulet	hkrul_lokjar_amulet	true
+hkrul_akkorak_spear	hkrul_akkorak_spear	true
+hkrul_birna_sword	hkrul_birna_sword	true
+hkrul_birna_bow	hkrul_birna_bow	true
+hkrul_drenok_axe	hkrul_drenok_axe	true
+hkrul_einar_sword	hkrul_einar_sword	true
+hkrul_hakka_sword	hkrul_hakka_sword	true
+hkrul_harald_sword	hkrul_harald_sword	true
+hkrul_sayl_staff	hkrul_sayl_staff	true
+hkrul_ulfric_axe	hkrul_ulfric_axe	true
+hkrul_ulfric_crown	hkrul_ulfric_crown	true
