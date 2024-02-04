@@ -36,7 +36,7 @@ hkrul_skill_node_hakka_misc_03		hkrul_hakka_special_1_1		1	2		0	0	true
 hkrul_skill_node_hakka_misc_02		hkrul_hakka_special_1_0		1	1		0	0	true
 hkrul_skill_node_hakka_misc_01		hkrul_hakka_special_0_1		0	11		0	0	true
 hkrul_skill_node_hakka_misc_08		hkrul_hakka_special_0_2		0	12		0	0	true
-hkrul_skill_node_hakka_misc_09		hkrul_hakka_sword		6	20		0	0	true
+hkrul_skill_node_hakka_misc_09		hkrul_hakka_axe		6	20		0	0	true
 rhox_hakka_self_01		wh_main_skill_all_all_self_blade_master_starter		2	0		0	0	true
 rhox_hakka_self_02		wh_main_skill_all_all_self_devastating_charge		2	1		0	0	true
 rhox_hakka_self_03		wh_main_skill_all_all_self_thick-skinned_2		2	2		0	0	true

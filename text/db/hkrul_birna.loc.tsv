@@ -8,8 +8,8 @@ character_skills_localised_description_hkrul_birna_special_1_1	Birna fosters uni
 character_skills_localised_name_hkrul_birna_special_1_1	Sarl Marauders	true
 character_skills_localised_description_hkrul_birna_special_1_2	As the Longship Artisan, Birna accelerates the construction of formidable longships, enhancing naval capabilities for both trade and raiding in coastal regions.	true
 character_skills_localised_name_hkrul_birna_special_1_2	Pelt Specialists	true
-character_skills_localised_description_hkrul_birna_special_1_5	Birna's Mutant Tracking Expertise allows her armies to navigate mutant-infested territories with ease, reducing attrition and gaining strategic advantages in mutant-rich environments.	true
-character_skills_localised_name_hkrul_birna_special_1_5	Mutant's Gaze	true
+character_skills_localised_description_hkrul_birna_special_1_5	As she cries out unnatural echoes her pitch black tongue vibrates and calls a flock of murderous crows as they hail down on her enemy.	true
+character_skills_localised_name_hkrul_birna_special_1_5	Flock of Torment	true
 character_skills_localised_description_hkrul_birna_special_1_0	As a shieldmaiden of the Sarl tribe, Birna imparts her combat expertise to aspiring warriors, reducing the recruitment cost and improving the effectiveness of Sarl Shieldmaiden units.	true
 character_skills_localised_name_hkrul_birna_special_1_0	Birna's Call	true
 character_skills_localised_description_hkrul_birna_special_1_3	Birna's mastery over timbercraft fuels the growth of Sarl settlements, improving economic output and fortifications in the tribe's territories	true
@@ -39,3 +39,15 @@ unit_abilities_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
 effects_description_hkrul_birna_bow	Ability: "Tuskweave Longbow''	true
 land_units_onscreen_name_hkrul_sarl_hunters	Hunters of the Kalti Delta (Marauder Hunters)	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_birna	PLACEHOLDER	false
+unit_abilities_tooltip_text_hkrul_birna_gaze	Her tongue black as night whispers ill curses as those caught by her gaze freeze and wither.	true
+unit_abilities_onscreen_name_hkrul_birna_gaze	Mutant's Gaze	true
+effects_description_hkrul_birna_diplo_world_walkers	Relationship: %+n to [[img:ui/flags/wh_dlc08_nor_norsca/mon_24.png]][[/img]] World Walkers	true
+effects_description_hkrul_birna_gaze	Ability: "Mutant's Gaze"	true
+unit_abilities_tooltip_text_hkrul_birna_flock	Her tongue releases a trilling note that creatures of the sky can understand, calling a murderous flock of crows to unlease fury on her foes.	true
+unit_abilities_onscreen_name_hkrul_birna_flock	Call of Crows	true
+effects_description_hkrul_birna_ws_hunt_dummy	Missile strength: %+n% for each completed Monster Hunt	true
+effects_description_hkrul_birna_flock	Ability: "Call of Crows"	true
+ancillary_sets_name_hkrul_birna_set	Mutant Champion of the Kali Delta	false
+ancillary_sets_description_hkrul_birna_set	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - they're ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
+effect_bundles_localised_description_rhox_birna_ws_hunt	Birna gains more bonuses as the her faction completes more monster hunts	false
+effect_bundles_localised_title_rhox_birna_ws_hunt	Monster Hunts	false
