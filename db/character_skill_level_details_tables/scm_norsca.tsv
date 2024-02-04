@@ -43,3 +43,7 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_harald_sword		x	10
 		1	hkrul_sayl_staff		x	10
 		1	hkrul_ulfric_axe		x	7
+		1	hkrul_hakka_special_0_1		x	9
+		1	hkrul_hakka_special_1_0		x	9
+		1	hkrul_hakka_special_0_2		x	15
+		1	hkrul_hakka_sword		x	7

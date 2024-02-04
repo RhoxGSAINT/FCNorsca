@@ -27,3 +27,7 @@ guerrilla_deploy	calm_fc_norsca_raven
 ogre_charge	hkrul_bjornling_ogg
 encourages	hkrul_bjornling_ogg
 mounted_fire_move	hkrul_bjornling_ogg
+hide_forest	hkrul_hakka
+encourages	hkrul_hakka
+immune_to_psychology	hkrul_hakka
+mark_khorne	hkrul_hakka

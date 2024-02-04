@@ -5,3 +5,4 @@ hkrul_verdandi	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_
 hkrul_swyrd	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_swyrd	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_lokjar	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_lokjar	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_bjornling_ogg	false	false		hkrul_bjornling_ogg	wh3_main_vo_actor_Ogres_Tyrant	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign	wh3_main_vo_culture_Ogres	false	true	1350
+hkrul_kolsveinn	false	false		hkrul_kolsveinn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100

@@ -92,12 +92,12 @@
 				num_models="1">
                 <model_list>
                     <ComponentModel
-                        filepath="VariantMeshes/VariantMeshDefinitions/airborne_kolsveinn.VariantMeshDefinition"
+                        filepath="VariantMeshes/VariantMeshDefinitions/hkrul_hakka.VariantMeshDefinition"
                         id="model_0"
                         num_anims="1"
-                        skeleton_type="humanoid06">
+                        skeleton_type="humanoid01c">
                         <animation_paths>
-                            <path value="animations/battle/humanoid06/axe_and_shield/stand/hu6_axs_stand_01.anim"/>
+                            <path value="animations/battle/humanoid01c/dual_axe/attacks/hu1c_da_attack_01.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>
