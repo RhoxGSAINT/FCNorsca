@@ -23,3 +23,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_hakka_axe	true	false	false	hkrul_hakka_axe
 1	hkrul_birna_gaze	false	false	true	hkrul_birna_gaze
 1	hkrul_birna_flock	false	false	true	hkrul_birna_flock
+1	hkrul_ulfric_raiders	true	false	false	hkrul_ulfric_raiders
