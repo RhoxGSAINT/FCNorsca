@@ -1,22 +1,22 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_harald.loc		
-character_skills_localised_name_innate_hkrul_harald	The Great Uniter	true
+character_skills_localised_name_innate_hkrul_harald	Unifier and Subduer	true
 character_skills_localised_description_innate_hkrul_harald	Not many would even consider to unite the warmongering ambigious tribes of the North, yet Harald is confident he will be crowned the Ever-King.	true
 character_skills_localised_description_hkrul_harald_special_0_1	Known as a Northern Strategist, Harald excels in planning campaigns in frigid climates. His armies move efficiently through icy terrains, gaining advantages in Norscan territories.	true
 character_skills_localised_name_hkrul_harald_special_0_1	Hunters and Gatherers	true
-character_skills_localised_description_hkrul_harald_special_1_1	Harald's ambition fuels the expansion of the Graeling Dominion. Newly conquered territories under his rule experience accelerated growth and swift assimilation into the burgeoning kingdom	true
+character_skills_localised_description_hkrul_harald_special_1_1	With unnatural strength Harald requires nothing but his bear hands to snap the spines of even the fiercest of foes. A sight but few manage to stomach.	true
 character_skills_localised_name_hkrul_harald_special_1_1	Spinal Displacement	true
 character_skills_localised_description_hkrul_harald_special_1_2	Known for his ruthless governance, Harald imposes an Iron Fist Rule that quells dissent and reduces the chance of rebellions in his expanding domain.	true
 character_skills_localised_name_hkrul_harald_special_1_2	Pawlike Grip	true
 character_skills_localised_description_hkrul_harald_special_1_5	Harald leaves an indelible mark on the legacy of Graeling conquest. This skill accelerates the process of assimilating conquered provinces into the Graeling Kingdom, ensuring swift integration and stability.	true
 character_skills_localised_name_hkrul_harald_special_1_5	Whyrlas's Diet	true
-character_skills_localised_description_hkrul_harald_special_1_0	Harald's quest to become the Kingmaker of Norsca enhances the development of his capital, turning it into a beacon of power and influence that attracts aspiring warriors to join the Graeling cause.	true
+character_skills_localised_description_hkrul_harald_special_1_0	As the Warlord of the Graelings, Harald's authority on the battlefield is unmatched. His presence inspires troops to fight with heightened morale and effectiveness during campaigns and battles.	true
 character_skills_localised_name_hkrul_harald_special_1_0	The Great Uniter	true
-character_skills_localised_description_hkrul_harald_special_1_3	As the Warlord of the Graelings, Harald's authority on the battlefield is unmatched. His presence inspires troops to fight with heightened morale and effectiveness during campaigns and battles.	true
+character_skills_localised_description_hkrul_harald_special_1_3	Harald's ambition fuels the expansion of the Graeling Dominion. Newly conquered territories under his rule experience accelerated growth and swift assimilation into the burgeoning kingdom	true
 character_skills_localised_name_hkrul_harald_special_1_3	Northern Slavers	true
 character_skills_localised_description_hkrul_harald_special_0_2	Harald Whyrlas aspires to unite all Norscan tribes under the banner of the Graeling Kingdom. His diplomatic prowess and vision for a united Norscan realm improve relations with neighboring faction	true
 character_skills_localised_name_hkrul_harald_special_0_2	The Graeling Tribe	true
-character_skills_localised_description_hkrul_harald_special_1_4	Harald's quest to become the Kingmaker of Norsca enhances the development of his capital, turning it into a beacon of power and influence that attracts aspiring warriors to join the Graeling cause	true
+character_skills_localised_description_hkrul_harald_special_1_4	Graeling beserkers welcome mutations with open arms, considering nothing shy but the greatest gift to recieve from their patrons.	true
 character_skills_localised_name_hkrul_harald_special_1_4	Graeling Beserkers	true
 agent_subtypes_onscreen_name_override_hkrul_harald	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_harald		false
@@ -33,3 +33,7 @@ unit_abilities_onscreen_name_hkrul_harald_sword	Frostrend Cleaver	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_harald		false
 names_name_5670700350	Whyrlas	false
 names_name_5670700351	Harald	false
+effects_description_hkrul_harald_leadership_dummy	Leadership: %+n for each confederated Norscan Tribe	true
+effects_description_hkrul_harald_fear_vs_norsca	Attribute: Causes Fear when fighting against Norscan factions	true
+effects_description_hkrul_harald_skin_wolves_bonus_vs_large	Bonus vs Large: %+n for Skin Wolf units	true
+effects_description_hkrul_harald_beserker_melee_damage	Weapon strength: %+n% for Marauder Berserker units	true

@@ -190,8 +190,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_ulfric",
             unit_list="hkrul_bjornling_inf_marauder_spearman_0,hkrul_bjornling_inf_marauder_spearman_0,hkrul_bjornling_inf_chaos_marauders_0,wh_dlc08_nor_mon_norscan_giant_0,hkrul_bjornling_inf_marauder_champions_0",
-            x=390,
-            y=792,
+            x=434,
+            y=858,
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
@@ -204,15 +204,13 @@ local rhox_faction_list={
         pic=800,
         faction_trait="hkrul_ulfric_faction_trait",
         kill_previous_leader=false,--they're first enemy of the Wulfric, so needs to be careful
-        --[[
-        enemy={
-            key="wh2_main_def_ssildra_tor",
-            subtype="wh2_main_def_dreadlord",
-            unit_list="wh2_main_def_inf_bleakswords_0,wh2_main_def_inf_darkshards_1",
-            x=107,
-            y=512
+        human_only_enemy={
+            key="wh_main_nor_varg",
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            x=430,
+            y=853
         },
-        --]]
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -224,9 +222,9 @@ local rhox_faction_list={
     wh_main_nor_graeling ={
         leader={
             subtype="hkrul_harald",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=473,
-            y=822,
+            unit_list="wh_dlc08_nor_inf_marauder_berserkers_0,wh_dlc08_nor_inf_marauder_berserkers_0,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_mon_skinwolves_1,wh_main_nor_mon_chaos_warhounds_1,wh_dlc08_nor_mon_skinwolves_0",
+            x=488,
+            y=827,
             forename ="names_name_5670700351",
             familiyname ="names_name_5670700350",
         },	
@@ -241,15 +239,13 @@ local rhox_faction_list={
         pic=800,
         faction_trait="hkrul_harald_faction_trait",
         kill_previous_leader=true,
-        --[[
-        enemy={
-            key="wh2_main_def_ssildra_tor",
-            subtype="wh2_main_def_dreadlord",
-            unit_list="wh2_main_def_inf_bleakswords_0,wh2_main_def_inf_darkshards_1",
-            x=107,
-            y=512
+        human_only_enemy={
+            key="wh_dlc08_nor_naglfarlings",
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            x=495,
+            y=827
         },
-        --]]
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -261,9 +257,9 @@ local rhox_faction_list={
     wh_main_nor_sarl ={
         leader={
             subtype="hkrul_birna",
-            unit_list="wh_dlc08_nor_feral_manticore,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_mon_chaos_trolls,wh_main_nor_inf_chaos_marauders_1",
-            x=576,
-            y=850,
+            unit_list="wh_dlc08_nor_feral_manticore,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_mon_chaos_trolls,wh_main_nor_inf_chaos_marauders_1",
+            x=569,
+            y=844,
             forename ="names_name_5682700361",
             familiyname ="names_name_5682700360",
         },
@@ -272,6 +268,13 @@ local rhox_faction_list={
             subtype="wh_dlc08_nor_shaman_sorcerer_death"
         },
         region="wh3_main_combi_region_sarl_encampment",
+        human_only_enemy={
+            key="wh_dlc08_nor_naglfarlings",
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            x=565,
+            y=843
+        },
         how_they_play="rhox_fc_norsca_wh_main_nor_sarl_how_they_play",
         pic=800,
         faction_trait="hkrul_birna_faction_trait",
@@ -280,43 +283,6 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 
-        end,
-        first_tick = function(faction, faction_key) 
-        end
-    },
-    wh_main_nor_graeling ={
-        leader={
-            subtype="hkrul_harald",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=473,
-            y=822,
-            forename ="names_name_5670700351",
-            familiyname ="names_name_5670700350",
-        },	
-        --[[
-        agent={
-            type="wizard",
-            subtype="wh_dlc08_nor_shaman_sorcerer_metal"
-        },
-        --]]
-        region="wh3_main_combi_region_graeling_moot",
-        how_they_play="rhox_fc_norsca_graeling_how_they_play",
-        pic=800,
-        faction_trait="hkrul_harald_faction_trait",
-        kill_previous_leader=true,
-        --[[
-        enemy={
-            key="wh2_main_def_ssildra_tor",
-            subtype="wh2_main_def_dreadlord",
-            unit_list="wh2_main_def_inf_bleakswords_0,wh2_main_def_inf_darkshards_1",
-            x=107,
-            y=512
-        },
-        --]]
-        additional = function(faction, faction_key)
-            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
-		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_verdandi", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -428,6 +394,47 @@ cm:add_first_tick_callback_new(
                     y2,
                     "general",
                     faction_info.enemy.subtype,
+                    "",
+                    "",
+                    "",
+                    "",
+                    false,
+                    function(cqi)
+                    end);
+                end
+            end
+            if faction:is_human() and faction_info.human_only_enemy then
+                cm:disable_event_feed_events(true, "wh_event_category_diplomacy", "", "")
+                cm:force_declare_war(faction_key, faction_info.human_only_enemy.key, false, false)
+                cm:callback(function() cm:disable_event_feed_events(false, "wh_event_category_diplomacy", "", "") end, 0.5)
+                
+                
+                if faction_info.human_only_enemy.subtype and cm:get_faction(faction_info.human_only_enemy.key):is_human() == false then
+                    local x2=nil
+                    local y2=nil
+                    if faction_info.human_only_enemy.x and faction_info.human_only_enemy.y then
+                        x2= faction_info.human_only_enemy.x
+                        y2 = faction_info.human_only_enemy.y
+                    else
+                        x2,y2 = cm:find_valid_spawn_location_for_character_from_settlement(
+                            faction_info.human_only_enemy.key,
+                            faction_info.region,
+                            false,
+                            true,
+                            20
+                        )
+                    end
+                    
+                    
+                    cm:create_force_with_general(
+                    -- faction_key, unit_list, region_key, x, y, agent_type, agent_subtype, forename, clan_name, family_name, other_name, id, make_faction_leader, success_callback
+                    faction_info.human_only_enemy.key,
+                    faction_info.human_only_enemy.unit_list,
+                    faction_info.region,
+                    x2,
+                    y2,
+                    "general",
+                    faction_info.human_only_enemy.subtype,
                     "",
                     "",
                     "",

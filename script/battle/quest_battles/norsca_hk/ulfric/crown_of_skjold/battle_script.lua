@@ -43,12 +43,12 @@ bm:cindy_preload(intro_cinematic_file);
 -------------------------------------------------------------------------------------------------
 ------------------------------------------ ARMY SETUP -------------------------------------------
 -------------------------------------------------------------------------------------------------
-ga_player = gb:get_army(gb:get_player_alliance_num(), 1);
-ga_defender_1 = gb:get_army(gb:get_player_alliance_num(), 2, "ulfric_reinforcements");
+ga_player = gb:get_player_army()
+ga_defender_1 = gb:get_army(gb:get_player_alliance_num(), "ulfric_reinforcements")
 
-ga_attacker_1 = gb:get_army(gb:get_non_player_alliance_num(), 2,"saltspite_main");
-ga_attacker_2 = gb:get_army(gb:get_non_player_alliance_num(), 2,"saltspite_vanguard");
-ga_attacker_3 = gb:get_army(gb:get_non_player_alliance_num(), 1,"ogg_flankers");
+ga_attacker_1 = gb:get_army(gb:get_non_player_alliance_num(), "saltspite_main")
+ga_attacker_2 = gb:get_army(gb:get_non_player_alliance_num(), "saltspite_vanguard")
+ga_attacker_3 = gb:get_army(gb:get_non_player_alliance_num(), "ogg_flankers")
 
 -------------------------------------------------------------------------------------------------
 ----------------------------------------- ARMY TELEPORT -----------------------------------------

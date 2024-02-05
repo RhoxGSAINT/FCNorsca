@@ -4,3 +4,4 @@ hkrul_ulfric_axe	stat_melee_damage_base	1.4000	mult
 hkrul_ulfric_axe	stat_charge_bonus	1.4000	mult
 hkrul_ulfric_crown	stat_bonus_vs_infantry	10.0000	add
 hkrul_ulfric_crown	stat_resistance_physical	25.0000	add
+hkrul_ulfric_raiders	scalar_bracing	1.2000	mult
