@@ -1,0 +1,13 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/scm_norsca_confedaration_effect					
+rhox_adella_confederation_effect	magic_character.png	66	magic_character.png	battle	true
+rhox_sayl_confederation_effect	magic_campaign.png	3	magic_campaign.png	campaign	true
+rhox_birna_confederation_effect	ranged_damage.png	540	ranged_damage.png	battle	true
+rhox_akkorak_confederation_effect	armour.png	400	armour.png	battle	true
+rhox_harald_confederation_effect	morale.png	410	morale.png	battle	true
+rhox_einar_confederation_effect	melee.png	430	melee.png	battle	true
+rhox_drenok_confederation_effect	battle_movement.png	420	battle_movement.png	battle	true
+rhox_ulfric_confederation_effect	defence.png	450	defence.png	battle	true
+rhox_hakka_confederation_effect	charge.png	500	charge.png	battle	true
+rhox_wulfric_confederation_effect	bonus_vs_small_character.png	180	bonus_vs_small_character.png	both	true
+rhox_throgg_confederation_effect	bonus_vs_large_character.png	190	bonus_vs_large_character.png	both	true

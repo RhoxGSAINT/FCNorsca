@@ -25,7 +25,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 	hkrul_harald={
 		effect="wh_main_effect_force_stat_leadership",
 		scope="character_to_force_own",
-		value="2",
+		value="3",
 	},
 	hkrul_sayl={
 		effect="wh3_main_effect_winds_of_magic_pool_cap",
