@@ -1,3 +1,4 @@
 bonus_value_id	effect	faction
 #effect_bonus_value_faction_junctions_tables;0;db/effect_bonus_value_faction_junctions_tables/scm_norsca		
 diplomatic_mod	hkrul_birna_diplo_world_walkers	wh_dlc08_nor_norsca
+diplomatic_mod	hkrul_ulfric_diplo_nordland	wh_main_emp_nordland

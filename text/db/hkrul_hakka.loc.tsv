@@ -3,7 +3,7 @@ key	text	tooltip
 character_skills_localised_name_innate_hkrul_hakka	Brazen Armoured Beserker	true
 character_skills_localised_description_innate_hkrul_hakka	The Brazen Armoured Beserker is Tribal Chieftain of the Aesling and devote follower of the God of Slaughter.	true
 character_skills_localised_description_hkrul_hakka_special_0_1	Driven by his devotion to Khorne, Hakka seeks to claim the skulls of his fallen foes as trophies of war. This skill grants bonuses to Hakka's leadership and combat effectiveness for each enemy unit he slays in battle.	true
-character_skills_localised_name_hkrul_hakka_special_0_1	Thone Abiders	true
+character_skills_localised_name_hkrul_hakka_special_0_1	Throne Abiders	true
 character_skills_localised_description_hkrul_hakka_special_1_1	Hakka commands the beasts of the Northern Wastes, bending them to his will and unleashing them upon his enemies. This skill allows for the recruitment of powerful monstrous units unique to the Aesling tribe	true
 character_skills_localised_name_hkrul_hakka_special_1_1	Mutated Kin	true
 character_skills_localised_description_hkrul_hakka_special_1_2	Hakka is tormented by visions placing him amidst slaughter and battle on what appears to be holy ground among those who worship Chaos..	true
@@ -34,3 +34,12 @@ unit_abilities_tooltip_text_hkrul_hakka_axe	Hakka wields his twin battle-axes wi
 unit_abilities_onscreen_name_hkrul_hakka_axe	Bloodreavers	true
 unit_description_historical_texts_text_hkrul_hakka	Hakka the Aesling, Warrior King of the Aesling tribe, faces a dire threat in Throgg the Troll King and his monstrous horde. Determined to usurp the Aesling tribe, Throgg's vile ambitions plunge the Northern Wastes into chaos. Hakka, wielding his twin battle-axes, leads his warriors to confront this monstrous menace, knowing that the fate of his tribe hangs in the balance. As the clash of steel and roar of beasts echo across the frozen landscape, Hakka stands resolute, ready to unleash the fury of Khorne upon the encroaching darkness and preserve the honor of his tribe.	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_hakka	Legendary Lord	false
+effects_description_hkrul_hakka_gaze	Ability: "Khorne's Gaze"	true
+unit_abilities_tooltip_text_hkrul_hakka_gaze	As defeat draws near Khorne's wrathful gaze invigorates Hakka to unravel into a ravaging fury.	true
+unit_abilities_onscreen_name_hkrul_hakka_gaze	Khorne's Gaze	true
+effects_description_hkrul_hakka_berserker_speed	Speed: %+n% for Marauder Berserker units	true
+effects_description_rhox_aesling_khorne_dedicated_dummy	Dedicated to Khorne: May only devote himself to Khorne	false
+effects_description_rhox_kho_skull_feature_dummy	Can send a tribute of [[img:icon_skulls]][[/img]]Skulls to the Blood God	false
+effect_bundles_localised_description_hkrul_hakka_faction_trait	Aesling marauders willingly dedicate themselves to their own true lord, the God of Slaughter, carnage incarnate - Khorne.	false
+effect_bundles_localised_title_hkrul_hakka_faction_trait	The Devoted Aesling	false
+effects_description_rhox_kho_armies_will_spawn_dummy	{{tr:khorne_spawned_armies}} will be spawned upon razing settlement for hound	false

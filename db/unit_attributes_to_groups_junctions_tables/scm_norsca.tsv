@@ -31,3 +31,10 @@ hide_forest	hkrul_hakka
 encourages	hkrul_hakka
 immune_to_psychology	hkrul_hakka
 mark_khorne	hkrul_hakka
+hide_forest	hkrul_oda
+mounted_fire_move	hkrul_oda
+encourages	hkrul_oda
+causes_fear	hkrul_drenok_wolf
+hide_forest	hkrul_drenok_wolf
+strider	hkrul_drenok_wolf
+devastating_flanker	hkrul_drenok_wolf

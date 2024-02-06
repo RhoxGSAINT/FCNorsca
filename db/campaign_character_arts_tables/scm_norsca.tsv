@@ -15,3 +15,4 @@ id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_unifo
 201735971	hkrul_lokjar	0	0		none	hkrul_lokjar			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_chaos_axe_and_shield	cam_agent_ship_03	cam_agent_ship_03	0	0	0
 201735972	hkrul_bjornling_ogg	0	0		none	hkrul_bjornling_ogg			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu13_wh3_ogre_handblade_and_ironfist	cam_agent_ship_03	cam_agent_ship_03	0	0	0
 201735973	hkrul_hakka	0	0		none	hkrul_hakka			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu1c_wh3_kislev_dual_axe	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+201735974	hkrul_oda	0	0		none	hkrul_oda			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hero_hu1_dlc23_ulrika_dual_swords_bow	cam_transport_ship_05	cam_transport_ship_05	0	0	0

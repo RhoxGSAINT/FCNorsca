@@ -119,9 +119,9 @@ local rhox_faction_list={
     wh_dlc08_nor_vanaheimlings ={
         leader={
             subtype="hkrul_drenok",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=356,
-            y=722,
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_mon_frost_wyrm_0,wh_dlc08_nor_cav_marauder_warwolves_chariot_0,wh3_main_monster_feral_ice_bears,wh_dlc08_nor_mon_warwolves_0",
+            x=352,
+            y=733,
             forename ="names_name_5680700356",
             familiyname ="names_name_5680700355",
         },
@@ -134,19 +134,17 @@ local rhox_faction_list={
         pic=800,
         faction_trait="hkrul_drenok_faction_trait",
         kill_previous_leader=true,
-        --[[
         enemy={
-            key="wh2_main_def_ssildra_tor",
-            subtype="wh2_main_def_dreadlord",
-            unit_list="wh2_main_def_inf_bleakswords_0,wh2_main_def_inf_darkshards_1",
-            x=107,
-            y=512
+            key="wh3_dlc20_tze_the_sightless",
+            subtype="wh3_dlc20_chs_sorcerer_lord_metal_mtze",
+            unit_list="wh3_main_pro_tze_inf_blue_horrors_0,wh3_main_pro_tze_inf_blue_horrors_0",
+            x=348,
+            y=736
         },
-        --]]
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-
+        
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -195,10 +193,6 @@ local rhox_faction_list={
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
-        agent={
-            type="wizard",
-            subtype="wh_dlc08_nor_shaman_sorcerer_fire"
-        },
         region="wh3_main_combi_region_troll_fjord",
         how_they_play="rhox_fc_norsca_bjornling_how_they_play",
         pic=800,
@@ -214,7 +208,9 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_oda", faction:faction_leader():command_queue_index(), true)
+            cm:make_diplomacy_available(faction_key, "wh_main_emp_nordland")
+            cm:force_make_trade_agreement(faction_key, "wh_main_emp_nordland")
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -228,12 +224,6 @@ local rhox_faction_list={
             forename ="names_name_5670700351",
             familiyname ="names_name_5670700350",
         },	
-        --[[
-        agent={
-            type="wizard",
-            subtype="wh_dlc08_nor_shaman_sorcerer_metal"
-        },
-        --]]
         region="wh3_main_combi_region_graeling_moot",
         how_they_play="rhox_fc_norsca_graeling_how_they_play",
         pic=800,
@@ -242,7 +232,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_dlc08_nor_naglfarlings",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_feral_manticore,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_inf_chaos_marauders_1",
             x=495,
             y=827
         },
@@ -290,15 +280,18 @@ local rhox_faction_list={
     wh_main_nor_aesling ={
         leader={
             subtype="hkrul_hakka",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=612,
-            y=850,
+            unit_list="wh_dlc08_nor_inf_marauder_champions_1,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_mon_war_mammoth_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
+            x=638,
+            y=858,
             forename ="names_name_2570700351",
             familiyname ="names_name_2570700350",
         },
-        agent={
-            type="dignitary",
-            subtype="wh_dlc08_nor_fimir_balefiend_fire"
+        human_only_enemy={
+            key="wh_dlc08_nor_wintertooth",
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            x=645,
+            y=863
         },
         region="wh3_main_combi_region_the_forbidden_citadel",
         how_they_play="rhox_fc_norsca_wh_main_nor_aesling_how_they_play",
@@ -308,6 +301,13 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_kolsveinn", faction:faction_leader():command_queue_index(), true)
+		    if faction:is_human() then                
+                cm:transfer_region_to_faction("wh3_main_combi_region_altar_of_spawns","wh_dlc08_nor_wintertooth")
+                local transferred_region = cm:get_region("wh3_main_combi_region_altar_of_spawns")
+                local transferred_region_cqi = transferred_region:cqi()
+                cm:heal_garrison(transferred_region_cqi)
+            end
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -321,6 +321,13 @@ cm:add_first_tick_callback_new(
         if cm:is_multiplayer() then
             mixer_disable_starting_zoom = true
         end
+        
+        
+        if vfs.exists("script/frontend/mod/ovn_albion_frontend.lua") then --have to make initial enemy for him
+            rhox_faction_list["wh_dlc08_nor_vanaheimlings"].enemy=nil
+
+		end
+        
 
 
         for faction_key, faction_info in pairs(rhox_faction_list) do

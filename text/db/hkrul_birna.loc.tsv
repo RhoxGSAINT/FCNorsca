@@ -42,6 +42,7 @@ character_skill_node_sets_enc_title_skill_node_set_hkrul_birna	PLACEHOLDER	false
 unit_abilities_tooltip_text_hkrul_birna_gaze	Her tongue black as night whispers ill curses as those caught by her gaze freeze and wither.	true
 unit_abilities_onscreen_name_hkrul_birna_gaze	Mutant's Gaze	true
 effects_description_hkrul_birna_diplo_world_walkers	Relationship: %+n to [[img:ui/flags/wh_dlc08_nor_norsca/mon_24.png]][[/img]] World Walkers	true
+effects_description_hkrul_ulfric_diplo_nordland	Relationship: %+n to [[img:ui/flags/wh_main_emp_nordland/mon_24.png]][[/img]] Nordland	true
 effects_description_hkrul_birna_gaze	Ability: "Mutant's Gaze"	true
 unit_abilities_tooltip_text_hkrul_birna_flock	Her tongue releases a trilling note that creatures of the sky can understand, calling a murderous flock of crows to unlease fury on her foes.	true
 unit_abilities_onscreen_name_hkrul_birna_flock	Call of Crows	true

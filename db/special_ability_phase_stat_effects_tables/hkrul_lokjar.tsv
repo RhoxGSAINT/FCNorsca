@@ -1,4 +1,4 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_lokjar			
-hkrul_lokjar_cry	stat_bonus_vs_large	20.0000	add
-hkrul_lokjar_cry	scalar_missile_range	1.2500	mult
+hkrul_lokjar_cry	stat_bonus_vs_infantry	10.0000	add
+hkrul_lokjar_cry	stat_melee_defence	15.0000	add

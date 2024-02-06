@@ -1,3 +1,6 @@
 effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_drenok		
 hkrul_drenok_axe	enable	hkrul_drenok_axe
+hkrul_drenok_wolf	enable	hkrul_drenok_wolf
+hkrul_drenok_breath	enable	hkrul_drenok_breath
+hkrul_drenok_blast	enable	hkrul_drenok_blast

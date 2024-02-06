@@ -1,6 +1,5 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_adella					
-hkrul_enable_immortality		0		campaign	true
 hkrul_soren_sack	item_ability.png	300	item_ability.png	battle	true
 hkrul_soren_sack_2	item_ability.png	300	item_ability.png	battle	true
 hkrul_adella_sword	item_ability.png	300	item_ability.png	battle	true

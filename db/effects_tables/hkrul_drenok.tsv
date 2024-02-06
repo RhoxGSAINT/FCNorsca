@@ -1,4 +1,8 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_drenok					
-hkrul_enable_immortality		0		campaign	true
 hkrul_drenok_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_drenok_wolf	item_ability.png	300	item_ability.png	battle	true
+hkrul_drenok_blast	item_ability.png	300	item_ability.png	battle	true
+hkrul_drenok_breath	item_ability.png	300	item_ability.png	battle	true
+hkrul_drenok_ice_attack	melee.png	300	melee.png	battle	true
+hkrul_drenok_ice_speed	battle_movement.png	300	battle_movement.png	battle	true

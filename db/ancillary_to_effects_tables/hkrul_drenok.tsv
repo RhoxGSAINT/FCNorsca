@@ -1,5 +1,5 @@
 ancillary	effect	effect_scope	value
 #ancillary_to_effects_tables;0;db/ancillary_to_effects_tables/hkrul_drenok			
-hkrul_drenok_axe	hkrul_drenok_axe	character_to_character_own	1.0000
+hkrul_drenok_axe	hkrul_drenok_breath	character_to_character_own	1.0000
 hkrul_drenok_axe	wh_dlc08_effect_character_stat_enable_frostbite_attacks	character_to_character_own	1.0000
 hkrul_drenok_axe	wh_main_effect_character_stat_melee_attack	character_to_character_own	25.0000

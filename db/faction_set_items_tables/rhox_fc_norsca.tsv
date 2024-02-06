@@ -1,0 +1,4 @@
+id	culture	faction	remove	set	subculture
+#faction_set_items_tables;1;db/faction_set_items_tables/rhox_fc_norsca					
+1819575190		wh_main_nor_aesling	false	FavouredCorruptionKhorne	
+1819575191		wh_main_nor_aesling	true	FavouredCorruptionUndivided	
