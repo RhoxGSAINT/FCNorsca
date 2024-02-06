@@ -12,7 +12,7 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh3_dlc20_nor_dolgan")
 			
 			mixer_change_lord_name("1503698398", "hkrul_drenok")
-			mixer_add_starting_unit_list_for_faction("wh_dlc08_nor_vanaheimlings", {"wh_main_nor_inf_chaos_marauders_0","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh_dlc08_nor_vanaheimlings", {"wh_main_nor_inf_chaos_marauders_0","wh_dlc08_nor_mon_frost_wyrm_0","wh_dlc08_nor_mon_warwolves_0","wh3_main_monster_feral_ice_bears"})
 			mixer_add_faction_to_major_faction_list("wh_dlc08_nor_vanaheimlings")
 			
 			mixer_change_lord_name("329040993", "hkrul_einar")
@@ -33,7 +33,7 @@ core:add_ui_created_callback(
 			
 			
 			mixer_change_lord_name("960993442", "hkrul_hakka")
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"wh_main_nor_inf_chaos_marauders_0","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"wh_dlc08_nor_inf_marauder_champions_1","wh_dlc08_nor_inf_marauder_hunters_0","wh_dlc08_nor_mon_war_mammoth_0","wh_main_nor_inf_chaos_marauders_1"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_aesling")
 		end		
 	end

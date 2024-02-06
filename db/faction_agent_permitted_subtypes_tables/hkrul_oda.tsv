@@ -1,0 +1,19 @@
+agent	faction	subtype
+#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_oda		
+champion	wh_main_nor_aesling	hkrul_oda
+champion	wh_dlc08_nor_norsca	hkrul_oda
+champion	wh_dlc08_nor_wintertooth	hkrul_oda
+champion	wh_main_nor_skaeling	hkrul_oda
+champion	wh_main_nor_varg	hkrul_oda
+champion	wh_main_nor_sarl	hkrul_oda
+champion	wh_main_nor_graeling	hkrul_oda
+champion	wh_main_nor_bjornling	hkrul_oda
+champion	wh_main_nor_baersonling	hkrul_oda
+champion	wh2_main_nor_skeggi	hkrul_oda
+champion	wh2_main_nor_mung	hkrul_oda
+champion	wh2_main_nor_aghol	hkrul_oda
+champion	wh3_dlc20_nor_yusak	hkrul_oda
+champion	wh3_dlc20_nor_kuj	hkrul_oda
+champion	wh3_dlc20_nor_kul	hkrul_oda
+champion	wh3_dlc20_nor_dolgan	hkrul_oda
+champion	wh3_dlc20_nor_tong	hkrul_oda

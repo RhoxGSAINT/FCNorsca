@@ -2,3 +2,4 @@ ancillary	effect	effect_scope	value
 #ancillary_to_effects_tables;0;db/ancillary_to_effects_tables/hkrul_harald			
 hkrul_harald_sword	hkrul_harald_sword	character_to_character_own	1.0000
 hkrul_harald_sword	wh_main_effect_character_stat_weapon_splash_power_mult	character_to_character_own	35.0000
+hkrul_harald_sword	wh_main_effect_character_stat_melee_attack	character_to_character_own	15.0000

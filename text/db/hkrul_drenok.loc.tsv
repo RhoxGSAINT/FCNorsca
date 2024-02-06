@@ -20,7 +20,7 @@ character_skills_localised_description_hkrul_drenok_special_1_4	Drenok Johansen 
 character_skills_localised_name_hkrul_drenok_special_1_4	Icebane Bite	true
 agent_subtypes_onscreen_name_override_hkrul_drenok	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_drenok		false
-effects_description_hkrul_drenok_axe	Ability: "Axe of the Icefang''	true
+effects_description_hkrul_drenok_breath	Ability: "Axe of the Icefang''	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_drenok	Ice-Ice Baby	true
 character_trait_levels_colour_text_hkrul_defeated_trait_drenok	Finally a place where that cold grip of yours comes in handy, Drenok..	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_drenok	Defeated Drenok Johansen	true
@@ -30,6 +30,22 @@ land_units_onscreen_name_hkrul_drenok	Drenok Johansen	true
 names_name_5680700355	Johansen	false
 names_name_5680700356	Drenok	false
 unit_description_short_texts_text_hkrul_drenok	The great sagas of the Norscan tribes tell of a mighty Icefang warrior known as the "Wielder of the Great Axe".	false
-unit_abilities_tooltip_text_hkrul_drenok_axe	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	true
-unit_abilities_onscreen_name_hkrul_drenok_axe	Axe of the Icefang	true
+unit_abilities_tooltip_text_hkrul_drenok_breath	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	true
+unit_abilities_onscreen_name_hkrul_drenok_breath	Axe of the Icefang	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_drenok		false
+land_units_onscreen_name_hkrul_drenok_wolf	Frostfang	true
+unit_description_short_texts_text_hkrul_drenok_wolf	The Giant Ice Wolf known as Frostfang is corrupted by deep chaotic ice, his primal instincts draw him mindlessly to Great Axe of Ice.	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_drenok_summon_wolf	Summons the Giant Ice Wolf known as Frostfang	false
+effects_description_hkrul_drenok_wolf	Ability: "Summon Frostfang"	true
+unit_abilities_tooltip_text_hkrul_drenok_wolf	As Drenok raises the ice infused Greataxe, corrupted creatures with ice coursing through their veins hear the call.	true
+unit_abilities_onscreen_name_hkrul_drenok_wolf	Summon Frostfang	true
+effects_description_hkrul_drenok_blast	Ability: "Icefang's Fury''	true
+unit_abilities_tooltip_text_hkrul_drenok_blast	As Drenok stomps the ground cracks form with solid black ice piercing through the surface, skewing any unwary foe.	true
+unit_abilities_onscreen_name_hkrul_drenok_blast	Icefang's Fury	true
+effects_description_hkrul_drenok_ice_attack	Melee attack: %+n for Ice infused units	false
+effects_description_hkrul_drenok_ice_speed	Speed: %+n% for Ice infused units	false
+unit_abilities_onscreen_name_hkrul_drenok_axe		false
+unit_abilities_tooltip_text_hkrul_drenok_axe		false
+unit_abilities_onscreen_name_hkrul_drenok_wolf_dummy		false
+unit_abilities_tooltip_text_hkrul_drenok_wolf_dummy		false
+effects_description_hkrul_drenok_axe		false

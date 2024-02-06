@@ -65,6 +65,8 @@ effects_description_hkrul_bjornling_armour	Armour: %+n% for Bjornling units	fals
 effects_description_hkrul_bjornling_morale	Leadership: %+n for Bjornling units	false
 effects_description_hkrul_bjornling_xp	Recruit rank: %+n for Bjornling units	false
 effects_description_hkrul_bjornling_defence	Melee defence: %+n for Bjornling units	false
-effects_description_hkrul_ulfric_raiders	Ability: "Kronfjall's Raiders" for Bjornling units	true
-unit_abilities_tooltip_text_hkrul_ulfric_raiders	All Bjornling Warriors aspiring to rise to the rank of Huskarl is tasked with climbing the mighty mountain Kronfjall, a testament of sheer strength and endurance.	false
-unit_abilities_onscreen_name_hkrul_ulfric_raiders	Kronfjall's Raiders	false
+effects_description_hkrul_ulfric_raiders	Ability: "Bragnir's Raiders" for Bjornling units	true
+unit_abilities_tooltip_text_hkrul_ulfric_raiders	All Bjornling Warriors aspiring to rise to the rank of Huskarl are tasked with a pilgrimage to the Isle of Bragnir, where chieftains lay burried and monsters roam freely.	false
+unit_abilities_onscreen_name_hkrul_ulfric_raiders	Bragnir's Raiders	false
+ancillary_sets_name_hkrul_ulfric_set	The High King of Skjold	false
+ancillary_sets_description_hkrul_ulfric_set	As close to a traditional King a Norscan ruler can get, the King of the Bjornling tribe is as much warrior as he is a diplomat. Engaging in mundane matters and murderous campaigns all the same.	false
