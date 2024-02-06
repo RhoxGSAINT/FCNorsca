@@ -297,7 +297,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_wh_main_nor_aesling_how_they_play",
         pic=800,
         faction_trait="hkrul_hakka_faction_trait",
-        kill_previous_leader=false,--they're first target of Throgg, so needs to be careful
+        kill_previous_leader="human_only",--they're first target of Throgg, so needs to be careful
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -357,7 +357,14 @@ cm:add_first_tick_callback_new(
                 function(cqi)
                 end
             );
-            if faction_info.kill_previous_leader then 
+            if faction_info.kill_previous_leader == "human_only" then
+                if faction:is_human() then
+                    cm:disable_event_feed_events(true, "wh_event_category_character", "", "")
+                    cm:set_character_immortality(cm:char_lookup_str(faction_leader_cqi), false);          
+                    cm:kill_character_and_commanded_unit(cm:char_lookup_str(faction_leader_cqi), true)
+                    cm:callback(function() cm:disable_event_feed_events(false, "", "", "wh_event_category_character") end, 0.2);
+                end
+            elseif faction_info.kill_previous_leader then 
                 cm:disable_event_feed_events(true, "wh_event_category_character", "", "")
                 cm:set_character_immortality(cm:char_lookup_str(faction_leader_cqi), false);          
                 cm:kill_character_and_commanded_unit(cm:char_lookup_str(faction_leader_cqi), true)
