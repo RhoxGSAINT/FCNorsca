@@ -1,0 +1,21 @@
+<VARIANT_MESH>
+	<SLOT name="head" />
+	<SLOT name="body" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/dae/h_demonaxe/lccp_h_demonaxe.wsmodel" >
+			<META_DATA>audio_armour_type:heavy_metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/dae/h_demonaxe/props/lccp_h_demonaxe_axe_1h_01.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+	<SLOT attach_point="spine_2" name="stump_neck"/>
+	<SLOT attach_point="clav_left" name="stump_left_arm"/>
+	<SLOT attach_point="clav_right" name="stump_right_arm"/>
+	<SLOT attach_point="root" name="stump_waist"/>
+	<SLOT attach_point="head" name="stump_severed_head"/>
+</VARIANT_MESH>
