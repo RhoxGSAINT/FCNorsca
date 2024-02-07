@@ -43,3 +43,9 @@ effects_description_rhox_kho_skull_feature_dummy	Can send a tribute of [[img:ico
 effect_bundles_localised_description_hkrul_hakka_faction_trait	Aesling marauders willingly dedicate themselves to their own true lord, the God of Slaughter, carnage incarnate - Khorne.	false
 effect_bundles_localised_title_hkrul_hakka_faction_trait	The Devoted Aesling	false
 effects_description_rhox_kho_armies_will_spawn_dummy	{{tr:khorne_spawned_armies}} will be spawned upon razing settlement for hound	false
+land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_spear	Aesling Spearmen	false
+land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder	Aesling Marauders	false
+land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_great_weapons	Aesling Marauders (Great Weapons)	false
+land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_horsemen_throwing_axe	Aesling Marauder Horsemen (Throwing Axes)	false
+land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_throwing_axe	Aesling Hunters (Throwing Axes)	false
+land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_javelins	Aesling Hunters (Javelins)	false
