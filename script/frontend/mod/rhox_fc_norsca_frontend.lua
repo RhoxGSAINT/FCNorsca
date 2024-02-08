@@ -35,6 +35,10 @@ core:add_ui_created_callback(
 			mixer_change_lord_name("960993442", "hkrul_hakka")
 			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"wh_dlc08_nor_inf_marauder_champions_1","wh_dlc08_nor_inf_marauder_hunters_0","wh_dlc08_nor_mon_war_mammoth_0","wh_main_nor_inf_chaos_marauders_1"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_aesling")
+			
+			mixer_change_lord_name("1752931370", "hkrul_hrothgar")
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_varg", {"wh_dlc08_nor_inf_marauder_champions_1","wh_dlc08_nor_inf_marauder_hunters_0","wh_dlc08_nor_mon_war_mammoth_0","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_faction_to_major_faction_list("wh_main_nor_varg")
 		end		
 	end
 )

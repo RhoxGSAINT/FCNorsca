@@ -1,4 +1,0 @@
-unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
-#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_sayl					
-			hkrul_sayl	all_non_chs	false
-			hkrul_sayl	nor_all	false
