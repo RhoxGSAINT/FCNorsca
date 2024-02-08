@@ -85,8 +85,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_inf_marauder_hunters_0	wh2_dlc11_nor_marauder_hunters_marauder_horsemen	false
 			hkrul_skeggi_inf_marauder_hunters_0	wh2_dlc11_nor_vets_marauder_hunters_marauder_horsemen	false
 			hkrul_skeggi_inf_marauder_hunters_0	wh2_dlc17_wulfrik_focus_units	false
-			hkrul_soren	all_non_chs	false
-			hkrul_soren	nor_all	false
 			hkrul_skeggi_giant_ror	wh2_main_ror_units_all	false
 			hkrul_skeggi_giant_ror	all_non_chs	false
 			hkrul_skeggi_giant_ror	dlc08_nor_giants	false

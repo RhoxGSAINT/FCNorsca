@@ -1,11 +1,15 @@
 key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	start_date	end_date	avatar_skill	avatar_special_ability	legendary_item	mp_exclusive	is_wife_ancillary	category	min_starting_age	max_starting_age	min_expiry_age	max_expiry_age	immortal	provided_bodyguard_unit	provided_banner	uniqueness_score	turns_before_swap_allowed	subcategory	randomly_dropped	can_be_stolen	can_be_destroyed	faction_set
 #ancillaries_tables;0;db/ancillaries_tables/scm_norsca																												
 hkrul_adella_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
-hkrul_adella_mount	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_adella_mount		1	1		false	false	true	all
+hkrul_adella_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_adella_horse		1	0		false	false	true	all
+hkrul_adella_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_adella_chariot		1	0		false	false	true	all
+hkrul_adella_stegadon	wh2_main_anc_mount_ancient_stegadon		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_adella_stegadon		1	0		false	false	true	all
 hkrul_akkorak_spear	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_birna_bow	wh_main_anc_armour	.	false	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
 hkrul_birna_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_drenok_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_drenok_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_chariot		1	0		false	false	true	all
+hkrul_drenok_bear	wh3_main_anc_mount_war_bear	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_bear		1	0		false	false	true	all
 hkrul_einar_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_harald_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_lokjar_gorger	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
@@ -14,7 +18,14 @@ hkrul_lokjar_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			fal
 hkrul_lokjar_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_lokjar_chariot		1	0		false	false	true	all
 hkrul_sayl_staff	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_sayl_teeth	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
+hkrul_sayl_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sayl_chariot		1	0		false	false	true	all
+hkrul_sayl_mammoth	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sayl_mammoth		200	0		false	false	true	all
 hkrul_ulfric_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_ulfric_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_horse		1	0		false	false	true	all
+hkrul_ulfric_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_chariot		1	0		false	false	true	all
 hkrul_ulfric_mammoth	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_mammoth		200	0		false	false	true	all
 hkrul_ulfric_crown	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_hakka_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_hakka_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hakka_chariot		1	0		false	false	true	all
+hkrul_hakka_juggernaut	wh3_main_anc_mount_juggernaut		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hakka_juggernaut		1	0		false	false	true	all
+hkrul_oda_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_lokjar_horse		1	0		false	false	true	all

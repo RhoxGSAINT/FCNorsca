@@ -2,12 +2,22 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/scm_norsca_character					
 			hkrul_adella	all_non_chs	false
 			hkrul_adella	nor_all	false
+			hkrul_adella_horse	all_non_chs	false
+			hkrul_adella_horse	nor_all	false
+			hkrul_adella_chariot	all_non_chs	false
+			hkrul_adella_chariot	nor_all	false
+			hkrul_adella_stegadon	all_non_chs	false
+			hkrul_adella_stegadon	nor_all	false
 			hkrul_akkorak	all_non_chs	false
 			hkrul_akkorak	nor_all	false
 			hkrul_birna	all_non_chs	false
 			hkrul_birna	nor_all	false
 			hkrul_drenok	all_non_chs	false
 			hkrul_drenok	nor_all	false
+			hkrul_drenok_chariot	all_non_chs	false
+			hkrul_drenok_chariot	nor_all	false
+			hkrul_drenok_bear	all_non_chs	false
+			hkrul_drenok_bear	nor_all	false
 			hkrul_einar	all_non_chs	false
 			hkrul_einar	nor_all	false
 			hkrul_hrothgar	all_non_chs	false
@@ -28,9 +38,30 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_oda	all_non_chs	false
 			hkrul_oda	mp_cap_group_heroes	false
 			hkrul_oda	nor_all	false
+			hkrul_oda_horse	all_non_chs	false
+			hkrul_oda_horse	mp_cap_group_heroes	false
+			hkrul_oda_horse	nor_all	false
 			hkrul_sayl	all_non_chs	false
 			hkrul_sayl	nor_all	false
+			hkrul_sayl_chariot	all_non_chs	false
+			hkrul_sayl_chariot	nor_all	false
+			hkrul_sayl_mammoth	all_non_chs	false
+			hkrul_sayl_mammoth	nor_all	false
 			hkrul_ulfric	all_non_chs	false
 			hkrul_ulfric	nor_all	false
+			hkrul_ulfric_horse	all_non_chs	false
+			hkrul_ulfric_horse	nor_all	false
+			hkrul_ulfric_chariot	all_non_chs	false
+			hkrul_ulfric_chariot	nor_all	false
+			hkrul_ulfric_mammoth	all_non_chs	false
+			hkrul_ulfric_mammoth	nor_all	false
 			hkrul_verdandi	mp_cap_group_heroes	false
 			hkrul_verdandi	nor_all	false
+			hkrul_soren	all_non_chs	false
+			hkrul_soren	nor_all	false
+			hkrul_hakka	all_non_chs	false
+			hkrul_hakka	nor_all	false
+			hkrul_hakka_chariot	all_non_chs	false
+			hkrul_hakka_chariot	nor_all	false
+			hkrul_hakka_juggernaut	all_non_chs	false
+			hkrul_hakka_juggernaut	nor_all	false

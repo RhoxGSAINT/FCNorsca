@@ -1,11 +1,15 @@
 granted_ancillary	skill	level
 #character_skill_level_to_ancillaries_junctions_tables;1;db/character_skill_level_to_ancillaries_junctions_tables/scm_norsca		
 hkrul_adella_sword	hkrul_adella_sword	1
-hkrul_adella_mount	hkrul_adella_mount	1
+hkrul_adella_horse	hkrul_adella_horse	1
+hkrul_adella_chariot	hkrul_adella_chariot	1
+hkrul_adella_stegadon	hkrul_adella_stegadon	1
 hkrul_akkorak_spear	hkrul_akkorak_spear	1
 hkrul_birna_sword	hkrul_birna_sword	1
 hkrul_birna_bow	hkrul_birna_bow	1
 hkrul_drenok_axe	hkrul_drenok_axe	1
+hkrul_drenok_chariot	hkrul_drenok_chariot	1
+hkrul_drenok_bear	hkrul_drenok_bear	1
 hkrul_einar_sword	hkrul_einar_sword	1
 hkrul_harald_sword	hkrul_harald_sword	1
 hkrul_lokjar_horse	hkrul_lokjar_horse	1
@@ -14,6 +18,13 @@ hkrul_lokjar_gorger	hkrul_lokjar_gorger	1
 hkrul_lokjar_amulet	hkrul_lokjar_amulet	1
 hkrul_sayl_staff	hkrul_sayl_staff	1
 hkrul_ulfric_axe	hkrul_ulfric_axe	1
+hkrul_ulfric_horse	hkrul_ulfric_horse	1
+hkrul_ulfric_chariot	hkrul_ulfric_chariot	1
 hkrul_ulfric_mammoth	hkrul_ulfric_mammoth	1
 hkrul_ulfric_crown	hkrul_ulfric_crown	1
 hkrul_hakka_axe	hkrul_hakka_axe	1
+hkrul_hakka_chariot	hkrul_hakka_chariot	1
+hkrul_hakka_juggernaut	hkrul_hakka_juggernaut	1
+hkrul_sayl_chariot	hkrul_sayl_chariot	1
+hkrul_sayl_mammoth	hkrul_sayl_mammoth	1
+hkrul_oda_horse	hkrul_oda_horse	1

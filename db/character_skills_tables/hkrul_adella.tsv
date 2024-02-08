@@ -13,7 +13,9 @@ hkrul_adella_special_0_3	hkrul_adella_special_0_3.png			0	false	false	false	0.00
 hkrul_adella_banner	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_adella_holz	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_adella_sword	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-hkrul_adella_mount	mount_chaos_steed.png			0	false	false	false	0.0000	0
+hkrul_adella_horse	mount_chaos_steed.png			0	false	false	false	0.0000	0
+hkrul_adella_chariot	mount_chaos_chariot.png			0	false	false	false	0.0000	0
+hkrul_adella_stegadon	mount_ancient_stegadon.png			0	false	false	false	0.0000	0
 innate_hkrul_soren	innate_hkrul_skeggi.png			0	true	false	false	100.0000	0
 hkrul_soren_special_1_0	hkrul_soren_special_1_0.png			0	false	false	false	0.0000	0
 hkrul_soren_special_1_1	hkrul_soren_special_1_1.png			0	false	false	false	0.0000	0

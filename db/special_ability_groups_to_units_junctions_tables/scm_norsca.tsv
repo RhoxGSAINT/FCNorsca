@@ -1,0 +1,10 @@
+ability_group	unit
+#special_ability_groups_to_units_junctions_tables;0;db/special_ability_groups_to_units_junctions_tables/scm_norsca	
+hkrul_adella_lore	hkrul_adella
+hkrul_adella_lore	hkrul_adella_horse
+hkrul_adella_lore	hkrul_adella_chariot
+hkrul_adella_lore	hkrul_adella_stegadon
+hkrul_soren_lore	hkrul_soren
+hkrul_sayl_lore	hkrul_sayl
+hkrul_sayl_lore	hkrul_sayl_chariot
+hkrul_sayl_lore	hkrul_sayl_mammoth

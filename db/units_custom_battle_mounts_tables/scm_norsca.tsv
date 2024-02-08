@@ -1,6 +1,17 @@
 base_unit	mounted_unit	icon_name
 #units_custom_battle_mounts_tables;1;db/units_custom_battle_mounts_tables/scm_norsca		
-hkrul_adella	hkrul_adella_mount	ui/campaign ui/mounts/mount_warhorse.png
+hkrul_adella	hkrul_adella_horse	ui/campaign ui/mounts/mount_warhorse.png
+hkrul_adella	hkrul_adella_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
+hkrul_adella	hkrul_adella_stegadon	ui/campaign ui/mounts/mount_ancient_stegadon.png
+hkrul_ulfric	hkrul_ulfric_horse	ui/campaign ui/mounts/mount_warhorse.png
+hkrul_ulfric	hkrul_ulfric_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
 hkrul_ulfric	hkrul_ulfric_mammoth	ui/campaign ui/mounts/mount_mammoth.png
 hkrul_lokjar	hkrul_lokjar_horse	ui/campaign ui/mounts/mount_warhorse.png
 hkrul_lokjar	hkrul_lokjar_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
+hkrul_hakka	hkrul_hakka_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
+hkrul_hakka	hkrul_hakka_juggernaut	ui/campaign ui/mounts/mount_juggernaut.png
+hkrul_sayl	hkrul_sayl_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
+hkrul_sayl	hkrul_sayl_mammoth	ui/campaign ui/mounts/mount_mammoth.png
+hkrul_drenok	hkrul_drenok_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
+hkrul_drenok	hkrul_drenok_bear	ui/campaign ui/mounts/mount_war_bear.png
+hkrul_oda	hkrul_oda_horse	ui/campaign ui/mounts/mount_barded_warhorse.png

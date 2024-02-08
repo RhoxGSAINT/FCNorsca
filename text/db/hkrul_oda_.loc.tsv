@@ -29,3 +29,10 @@ effects_description_hkrul_bjornling_upkeep	Upkeep: %+n% for Bjornling units	fals
 effects_description_hkrul_bjornling_global_recruit_time	Global recruitment duration: %+n turn for Marauder Champions	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_oda		false
 unit_description_historical_texts_text_hkrul_oda		false
+character_skills_localised_description_hkrul_oda_horse	The finest horses in the Old World, bred for their endurance and fiery temperament, barded for further protection.	false
+character_skills_localised_name_hkrul_oda_horse	Barded Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_odahkrul_oda_horse	The finest horses in the Old World, bred for their endurance and fiery temperament, barded for further protection.	false
+units_custom_battle_mounts_mount_name_hkrul_odahkrul_oda_horse	Barded Warhorse	false
+ancillaries_colour_text_hkrul_oda_horse	The finest horses in the Old World, bred for their endurance and fiery temperament, barded for further protection.	false
+ancillaries_onscreen_name_hkrul_oda_horse	Barded Warhorse	false
+land_units_onscreen_name_hkrul_oda_horse	Oda Windbreaker	false

@@ -1,11 +1,15 @@
 agent_subtype	ancillary
 #ancillaries_included_agent_subtypes_tables;0;db/ancillaries_included_agent_subtypes_tables/scm_norsca	
-hkrul_adella	hkrul_adella_mount
 hkrul_adella	hkrul_adella_sword
+hkrul_adella	hkrul_adella_horse
+hkrul_adella	hkrul_adella_chariot
+hkrul_adella	hkrul_adella_stegadon
 hkrul_akkorak	hkrul_akkorak_spear
 hkrul_birna	hkrul_birna_bow
 hkrul_birna	hkrul_birna_sword
 hkrul_drenok	hkrul_drenok_axe
+hkrul_drenok	hkrul_drenok_chariot
+hkrul_drenok	hkrul_drenok_bear
 hkrul_einar	hkrul_einar_sword
 hkrul_harald	hkrul_harald_sword
 hkrul_lokjar	hkrul_lokjar_gorger
@@ -16,3 +20,10 @@ hkrul_sayl	hkrul_sayl_staff
 hkrul_sayl	hkrul_sayl_teeth
 hkrul_ulfric	hkrul_ulfric_mammoth
 hkrul_hakka	hkrul_hakka_axe
+hkrul_hakka	hkrul_hakka_chariot
+hkrul_hakka	hkrul_hakka_juggernaut
+hkrul_sayl	hkrul_sayl_chariot
+hkrul_sayl	hkrul_sayl_mammoth
+hkrul_ulfric	hkrul_ulfric_horse
+hkrul_ulfric	hkrul_ulfric_chariot
+hkrul_oda	hkrul_oda_horse

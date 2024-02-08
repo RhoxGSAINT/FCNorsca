@@ -1,10 +1,14 @@
 character_skill	character_level	upgrade_to_skill_level
 #character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/scm_norsca		
-hkrul_adella_mount	8	1
+hkrul_adella_horse	8	1
+hkrul_adella_chariot	13	1
+hkrul_adella_stegadon	23	1
 hkrul_akkorak_spear	10	1
 hkrul_birna_bow	6	1
 hkrul_birna_sword	11	1
 hkrul_drenok_axe	7	1
+hkrul_drenok_chariot	9	1
+hkrul_drenok_bear	15	1
 hkrul_einar_sword	8	1
 hkrul_harald_sword	9	1
 hkrul_lokjar_horse	3	1
@@ -12,6 +16,13 @@ hkrul_lokjar_chariot	9	1
 hkrul_lokjar_gorger	5	1
 hkrul_lokjar_amulet	10	1
 hkrul_sayl_staff	13	1
+hkrul_sayl_chariot	9	1
+hkrul_sayl_mammoth	17	1
+hkrul_ulfric_horse	3	1
+hkrul_ulfric_chariot	9	1
 hkrul_ulfric_mammoth	17	1
 hkrul_ulfric_axe	7	1
 hkrul_hakka_axe	7	1
+hkrul_hakka_chariot	11	1
+hkrul_hakka_juggernaut	15	1
+hkrul_oda_horse	17	1

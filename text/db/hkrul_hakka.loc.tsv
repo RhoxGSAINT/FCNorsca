@@ -49,3 +49,21 @@ land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_great_weapons	Aeslin
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_horsemen_throwing_axe	Aesling Marauder Horsemen (Throwing Axes)	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_throwing_axe	Aesling Hunters (Throwing Axes)	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_javelins	Aesling Hunters (Javelins)	false
+character_skills_localised_description_hkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_hakka_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
+character_skills_localised_name_hkrul_hakka_juggernaut	Juggernaut	false
+units_custom_battle_mounts_localised_description_hkrul_hakkahkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_hakkahkrul_hakka_chariot	Marauder Chariot	false
+units_custom_battle_mounts_localised_description_hkrul_hakkahkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
+units_custom_battle_mounts_mount_name_hkrul_hakkahkrul_hakka_juggernaut	Juggernaut	false
+ancillaries_colour_text_hkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_hakka_chariot	Marauder Chariot	false
+ancillaries_colour_text_hkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
+ancillaries_onscreen_name_hkrul_hakka_juggernaut	Juggernaut	false
+character_skill_level_details_localised_description_1hkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skill_level_details_localised_name_1hkrul_hakka_chariot	Marauder Chariot	false
+character_skill_level_details_localised_description_1hkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
+character_skill_level_details_localised_name_1hkrul_hakka_juggernaut	Juggernaut	false
+land_units_onscreen_name_hkrul_hakka_chariot	Hakka the Aesling	false
+land_units_onscreen_name_hkrul_hakka_juggernaut	Hakka the Aesling	false

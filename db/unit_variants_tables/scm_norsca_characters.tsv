@@ -1,15 +1,23 @@
 faction	unit	name	variant	unit_card
 #unit_variants_tables;5;db/unit_variants_tables/scm_norsca_characters				
 	hkrul_adella	hkrul_adella	hkrul_adella	hkrul_adella
-	hkrul_adella_mount	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_adella_horse	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_adella_chariot	hkrul_adella	hkrul_adella	hkrul_adella
+	hkrul_adella_stegadon	hkrul_adella	hkrul_adella	hkrul_adella
 	hkrul_soren	hkrul_soren	hkrul_soren	hkrul_soren
 	hkrul_akkorak	hkrul_akkorak	hkrul_akkorak	hkrul_akkorak
 	hkrul_birna	hkrul_birna	hkrul_birna	hkrul_birna
 	hkrul_drenok	hkrul_drenok	hkrul_drenok	hkrul_drenok
+	hkrul_drenok_chariot	hkrul_drenok	hkrul_drenok	hkrul_drenok
+	hkrul_drenok_bear	hkrul_drenok	hkrul_drenok	hkrul_drenok
 	hkrul_einar	hkrul_einar	hkrul_einar	hkrul_einar
 	hkrul_harald	hkrul_harald	hkrul_harald	hkrul_harald
 	hkrul_sayl	hkrul_sayl	hkrul_sayl	hkrul_sayl
+	hkrul_sayl_chariot	hkrul_sayl	hkrul_sayl	hkrul_sayl
+	hkrul_sayl_mammoth	hkrul_sayl	hkrul_sayl	hkrul_sayl
 	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric
+	hkrul_ulfric_horse	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric
+	hkrul_ulfric_chariot	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric
 	hkrul_ulfric_mammoth	hkrul_ulfric	hkrul_ulfric	hkrul_ulfric
 	hkrul_verdandi	hkrul_verdandi	hkrul_verdandi	hkrul_verdandi
 	hkrul_kolsveinn	hkrul_kolsveinn	hkrul_kolsveinn	hkrul_kolsveinn
@@ -18,6 +26,9 @@ faction	unit	name	variant	unit_card
 	hkrul_lokjar_horse	hkrul_lokjar	hkrul_lokjar	hkrul_lokjar
 	hkrul_lokjar_chariot	hkrul_lokjar	hkrul_lokjar	hkrul_lokjar
 	hkrul_hakka	hkrul_hakka	hkrul_hakka	hkrul_hakka
+	hkrul_hakka_chariot	hkrul_hakka	hkrul_hakka	hkrul_hakka
+	hkrul_hakka_juggernaut	hkrul_hakka	hkrul_hakka	hkrul_hakka
 	hkrul_oda	hkrul_oda	hkrul_oda	hkrul_oda
+	hkrul_oda_horse	hkrul_oda	hkrul_oda	hkrul_oda
 	hkrul_hrothgar	hkrul_hrothgar	hkrul_hrothgar	placeholder
 	hkrul_rafn	hkrul_rafn	hkrul_rafn	hkrul_rafn

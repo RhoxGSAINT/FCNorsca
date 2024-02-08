@@ -1,0 +1,43 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_soren.loc		
+character_skills_localised_name_innate_hkrul_soren	The Flatulent Hoarder	true
+character_skills_localised_description_innate_hkrul_soren	None as flatulent as the Legendary Vitki of Skeggi, Soren. His sack holds many gifts and blessings.	true
+character_skills_localised_description_hkrul_soren_special_0_1	Soren is the only Vitki that has King Adella's ear, it is said because he holds a rock Adella believes to be bestowed upon him by Tzeentch. In truth, it's just a rock.	true
+character_skills_localised_name_hkrul_soren_special_0_1	Rock of Whispers	true
+character_skills_localised_description_hkrul_soren_special_1_1	No ordinary hatchlings are the beasts that emerge from Soren's eggs.	true
+character_skills_localised_name_hkrul_soren_special_1_1	Corrupted Eggs	true
+character_skills_localised_description_hkrul_soren_special_1_2	A true Vitki knows how to use the local flora to craft potions, incantations and spells a like.	true
+character_skills_localised_name_hkrul_soren_special_1_2	Local Flora	true
+character_skills_localised_description_hkrul_soren_special_1_5	What Soren lacks in mobility the legendary seer makes up in sheer strength.	true
+character_skills_localised_name_hkrul_soren_special_1_5	Soren's Might	true
+character_skills_localised_description_hkrul_soren_special_1_0	Soren's Sack is filled with enchanted items, artifacts, trinkets and plain junk. You never know what he digs up next.	true
+character_skills_localised_name_hkrul_soren_special_1_0	Sack of Gifts	true
+character_skills_localised_description_hkrul_soren_special_1_3	The most talented and powerful Seer of the Lustrian continent, Soren holds a special place among the Skeggi.	true
+character_skills_localised_name_hkrul_soren_special_1_3	Vitki of the Jungle	true
+character_skills_localised_description_hkrul_soren_special_1_4	Erik Fishbrain was the first raider that set foot on Lustria, Soren claims he carries his Horn in his sack - this in no way to be verified however.	true
+character_skills_localised_name_hkrul_soren_special_1_4	Fishbrain's Horn	true
+agent_subtypes_onscreen_name_override_hkrul_soren	Legendary Hero	false
+effects_description_hkrul_soren_sack	Ability: "Soren's Sack''	true
+effects_description_hkrul_soren_sack_2	Ability: "Soren's Finest''	true
+effects_description_hkrul_soren_sack_uses	Ability number of uses: %+n for "Soren's Sack"	false
+effects_description_hkrul_soren_disable_sack	Replaces: "{{tr:unit_abilities_onscreen_name_hkrul_soren_sack}}"	false
+ui_unit_groupings_onscreen_hkrul_soren	Wizard	false
+land_units_onscreen_name_hkrul_soren	Soren Hoarder	true
+loading_screen_quotes_description_hkrul_soren	Soren Hoarder is the most esteemed Norscan vitki in Skeggi. He carries an enormous sack with him as he lumbers across the city, full of totems and gifts people have given him for his insight and blessings. But Soren can seemingly see the future with terrifying accuracy and has powerful command of Chaos Sorcery and Dark Magic. 	false
+loading_screen_quotes_title_hkrul_soren	Soren Hoarder	false
+loading_screen_quotes_bulletpoints_hkrul_soren	[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-Large||Spellcaster	false
+unit_abilities_tooltip_text_hkrul_soren_sack	Soren carries his enormous sack full of long forgotten totems and gifts people have given him for his blessings. Their effects unknown even to him.	false
+unit_abilities_onscreen_name_hkrul_soren_sack	Soren's Sack	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_1	[[img:hkrul_soren_gift_1]][[/img]]Blessed Sapphire	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2	[[img:hkrul_soren_gift_2]][[/img]]Spoiled Leftovers	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_3	[[img:hkrul_soren_gift_3]][[/img]]Jarl Fishbrain's Horn	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_4	[[img:hkrul_soren_gift_4]][[/img]]Rotten Giant's Toe	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_1	[[img:hkrul_soren_gift_2_1]][[/img]]Losteriksson's Pauldron	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_2	[[img:hkrul_soren_gift_2_2]][[/img]]Painted Amazon Head	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_3	[[img:hkrul_soren_gift_2_3]][[/img]]Enchanted Coatl Feathers	false
+special_ability_phases_onscreen_name_hkrul_soren_sack_2_4	[[img:hkrul_soren_gift_2_4]][[/img]]Cursed Slann Blood	false
+unit_abilities_tooltip_text_hkrul_soren_sack_2	As his sack slowly depletes so Soren finds better and better treasures, with more powerful boons and effects to boot.	false
+unit_abilities_onscreen_name_hkrul_soren_sack_2	Soren's Finest	false
+unit_description_short_texts_text_hkrul_soren	Soren is the most esteemed Vitki in Skeggi and can see the future with terrifying accuracy. His sack is filled with gifts and offerings for his services.	false
+names_name_5670500340	Hoarder	false
+names_name_5670500341	Soren	false
