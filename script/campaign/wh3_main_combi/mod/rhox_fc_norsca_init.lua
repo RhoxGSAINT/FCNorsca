@@ -158,10 +158,6 @@ local rhox_faction_list={
             forename ="names_name_5670700356",
             familiyname ="names_name_5670700355",
         },	
-        agent={
-            type="wizard",
-            subtype="wh_dlc08_nor_shaman_sorcerer_death"
-        },
         region="wh3_main_combi_region_fort_jakova",
         how_they_play="rhox_fc_norsca_baersonling_how_they_play",
         pic=800,
@@ -179,7 +175,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_rafn", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -308,6 +304,32 @@ local rhox_faction_list={
                 local transferred_region_cqi = transferred_region:cqi()
                 cm:heal_garrison(transferred_region_cqi)
             end
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
+    wh_main_nor_varg ={
+        leader={
+            subtype="hkrul_hrothgar",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            x=523,
+            y=871,
+            forename ="names_name_7410711835",
+            familiyname ="names_name_7410711834",
+        },	
+        agent={
+            type="dignitary",
+            subtype="wh_dlc08_nor_fimir_balefiend_fire"
+        },
+        region="wh3_main_combi_region_varg_camp",
+        how_they_play="rhox_fc_norsca_varg_how_they_play",
+        pic=800,
+        faction_trait="hkrul_hrothgar_faction_trait",
+        kill_previous_leader=false,--It's Surtha Ek, people will riot if we kill him
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+
         end,
         first_tick = function(faction, faction_key) 
         end

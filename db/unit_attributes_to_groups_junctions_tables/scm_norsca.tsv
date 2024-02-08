@@ -7,9 +7,8 @@ encourages	hkrul_birna
 mounted_fire_move	hkrul_birna
 hide_forest	hkrul_drenok
 encourages	hkrul_drenok
-hide_forest	hkrul_einar
-ogre_charge	hkrul_einar
-encourages	hkrul_einar
+hide_forest	hkrul_rafn
+encourages	hkrul_rafn
 hide_forest	hkrul_harald
 encourages	hkrul_harald
 ogre_charge	hkrul_harald

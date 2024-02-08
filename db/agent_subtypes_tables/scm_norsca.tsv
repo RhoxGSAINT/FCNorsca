@@ -7,3 +7,4 @@ hkrul_lokjar	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_lo
 hkrul_bjornling_ogg	false	false		hkrul_bjornling_ogg	wh3_main_vo_actor_Ogres_Tyrant	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign	wh3_main_vo_culture_Ogres	false	true	1350
 hkrul_kolsveinn	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_kolsveinn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100
 hkrul_oda	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_oda	wh2_main_vo_actor_Dark_Elves_Death_Hag	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100
+hkrul_rafn	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_rafn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100

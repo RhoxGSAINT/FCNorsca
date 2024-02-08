@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_rafn.loc		
+names_name_7410711832	Son of Oflati	false
+names_name_7410711833	Rafn	false
+character_skills_localised_description_innate_hkrul_rafn	Rafn Son of Oflati	false
+character_skills_localised_name_innate_hkrul_rafn	Rafn Son of Oflati	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_rafn	Rafn Son of Oflati	false
+agent_subtypes_description_text_override_hkrul_rafn	Rafn Son of Oflati	false
+agent_subtypes_onscreen_name_override_hkrul_rafn	Rafn Son of Oflati	false
+land_units_onscreen_name_hkrul_rafn	Rafn Son of Oflati	false
+unit_description_short_texts_text_hkrul_rafn		false
+unit_description_historical_texts_text_hkrul_rafn		false

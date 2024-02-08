@@ -1,7 +1,5 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_adella					
-			hkrul_adella	all_non_chs	false
-			hkrul_adella	nor_all	false
 			hkrul_skeggi_inf_marauder_champions_0	all_non_chs	false
 			hkrul_skeggi_inf_marauder_champions_0	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_marauder_champions_0	dlc08_nor_marauders_champions	false

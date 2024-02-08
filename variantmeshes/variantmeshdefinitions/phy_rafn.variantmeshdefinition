@@ -1,9 +1,9 @@
 <VARIANT_MESH>
 	<SLOT name="body" >
-		<VARIANT_MESH_REFERENCE definition="variantmeshes\variantmeshdefinitions\phy_einarr_base.variantmeshdefinition" />
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\variantmeshdefinitions\phy_rafn_base.variantmeshdefinition" />
 	</SLOT>
 	<SLOT name="weapon_1" attach_point="be_prop_0" >
-		<VARIANT_MESH_REFERENCE definition="variantmeshes\variantmeshdefinitions\phy_einarr_sword_2h.variantmeshdefinition" />
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\variantmeshdefinitions\phy_rafn_sword_2h.variantmeshdefinition" />
 	</SLOT>
 	<SLOT name="weapon_2" attach_point="be_prop_1" />
 	<SLOT name="shield" attach_point="be_prop_2" />
