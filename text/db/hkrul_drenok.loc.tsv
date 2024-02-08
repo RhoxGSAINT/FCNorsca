@@ -49,3 +49,17 @@ unit_abilities_tooltip_text_hkrul_drenok_axe		false
 unit_abilities_onscreen_name_hkrul_drenok_wolf_dummy		false
 unit_abilities_tooltip_text_hkrul_drenok_wolf_dummy		false
 effects_description_hkrul_drenok_axe		false
+character_skills_localised_description_hkrul_drenok_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_drenok_chariot	Marauder Chariot	false
+units_custom_battle_mounts_localised_description_hkrul_drenokhkrul_drenok_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_chariot	Marauder Chariot	false
+ancillaries_colour_text_hkrul_drenok_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_drenok_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_drenok_chariot	Drenok Johansen	false
+character_skills_localised_description_hkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
+character_skills_localised_name_hkrul_drenok_bear	War Bear	false
+units_custom_battle_mounts_localised_description_hkrul_drenokhkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
+units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_bear	War Bear	false
+ancillaries_colour_text_hkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
+ancillaries_onscreen_name_hkrul_drenok_bear	War Bear	false
+land_units_onscreen_name_hkrul_drenok_bear	Drenok Johansen	false

@@ -46,3 +46,17 @@ ancillaries_onscreen_name_hkrul_sayl_teeth	Schalkain's Teeth	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_sayl		false
 ancillary_sets_name_hkrul_sayl_set	PLACEHOLDER	false
 ancillary_sets_description_hkrul_sayl_set	PLACEHOLDER	false
+units_custom_battle_mounts_localised_description_hkrul_saylhkrul_sayl_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_saylhkrul_sayl_chariot	Marauder Chariot	false
+units_custom_battle_mounts_localised_description_hkrul_saylhkrul_sayl_mammoth	Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.	false
+units_custom_battle_mounts_mount_name_hkrul_saylhkrul_sayl_mammoth	War Mammoth	false
+character_skills_localised_description_hkrul_sayl_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_sayl_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_sayl_mammoth	Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.	false
+character_skills_localised_name_hkrul_sayl_mammoth	War Mammoth	false
+ancillaries_colour_text_hkrul_sayl_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_sayl_chariot	Marauder Chariot	false
+ancillaries_colour_text_hkrul_sayl_mammoth	Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.	false
+ancillaries_onscreen_name_hkrul_sayl_mammoth	War Mammoth	false
+land_units_onscreen_name_hkrul_sayl_chariot	Sayl the Faithless	false
+land_units_onscreen_name_hkrul_sayl_mammoth	Sayl the Faithless	false

@@ -25,3 +25,4 @@ hkrul_oda_special_1_6	wh_main_effect_force_stat_vigour_loss_reduction	1	agent_to
 innate_hkrul_oda	hkrul_enable_immortality	1	character_to_character_own	1.0000
 innate_hkrul_oda	hkrul_bjornling_upkeep	1	agent_to_parent_army_own	-15.0000
 innate_hkrul_oda	wh_main_effect_character_stat_melee_attack	1	character_to_character_own	10.0000
+hkrul_oda_horse	wh3_dlc23_effect_enable_mount_warhorse	1	character_to_character_own	1.0000

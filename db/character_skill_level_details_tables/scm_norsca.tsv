@@ -2,7 +2,9 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 #character_skill_level_details_tables;1;db/character_skill_level_details_tables/scm_norsca						
 		1	hkrul_adella_special_0_1		x	16
 		1	hkrul_adella_special_1_0		x	9
-		1	hkrul_adella_mount		x	8
+		1	hkrul_adella_horse		x	8
+		1	hkrul_adella_chariot		x	13
+		1	hkrul_adella_stegadon		x	23
 		1	hkrul_soren_special_0_1		x	11
 		1	hkrul_soren_special_1_0		x	7
 		1	hkrul_adella_special_0_2		x	10
@@ -33,18 +35,27 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_ulfric_special_0_1		x	9
 		1	hkrul_ulfric_special_1_0		x	9
 		1	hkrul_ulfric_special_0_2		x	15
+		1	hkrul_ulfric_horse		x	3
+		1	hkrul_ulfric_chariot		x	9
 		1	hkrul_ulfric_mammoth		x	17
 		1	hkrul_verdandi_special_1_0		x	10
 		1	hkrul_akkorak_spear		x	13
 		1	hkrul_birna_sword		x	7
 		1	hkrul_birna_bow		x	11
 		1	hkrul_drenok_axe		x	7
+		1	hkrul_drenok_chariot		x	9
+		1	hkrul_drenok_bear		x	15
 		1	hkrul_einar_sword		x	8
 		1	hkrul_harald_sword		x	10
 		1	hkrul_sayl_staff		x	10
+		1	hkrul_sayl_chariot		x	9
+		1	hkrul_sayl_mammoth		x	17
 		1	hkrul_ulfric_axe		x	7
 		1	hkrul_hakka_special_0_1		x	9
 		1	hkrul_hakka_special_1_0		x	9
 		1	hkrul_hakka_special_0_2		x	15
 		1	hkrul_hakka_axe		x	7
+		1	hkrul_hakka_chariot		x	11
+		1	hkrul_hakka_juggernaut		x	15
 		1	hkrul_oda_special_1_0		x	10
+		1	hkrul_oda_horse		x	17
