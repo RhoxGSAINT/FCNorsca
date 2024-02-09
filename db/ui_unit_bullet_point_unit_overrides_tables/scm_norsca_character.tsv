@@ -28,8 +28,8 @@ armour_piercing	hkrul_drenok_bear
 melee_expert	hkrul_drenok_bear
 anti_infantry	hkrul_einar
 melee_expert	hkrul_einar
-ogre_charge	hkrul_einar
-ogre_charge	hkrul_harald
+anti_infantry	hkrul_einar_bear
+melee_expert	hkrul_einar_bear
 melee_expert	hkrul_harald
 anti_infantry	hkrul_harald
 anti_infantry	hkrul_kolsveinn

@@ -11,6 +11,7 @@ hkrul_drenok_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	f
 hkrul_drenok_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_chariot		1	0		false	false	true	all
 hkrul_drenok_bear	wh3_main_anc_mount_war_bear	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_bear		1	0		false	false	true	all
 hkrul_einar_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_einar_bear	wh3_main_anc_mount_war_bear	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_einar_bear		1	0		false	false	true	all
 hkrul_harald_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_lokjar_gorger	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_lokjar_amulet	wh_main_anc_talisman	.	false	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			200	0		false	false	true	all
