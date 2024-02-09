@@ -37,3 +37,10 @@ ancillaries_colour_text_hkrul_lokjar_amulet	The amulet has the spirit of a Snow 
 ancillaries_onscreen_name_hkrul_lokjar_amulet	Snow Troll Amulet	true
 ancillaries_colour_text_hkrul_lokjar_gorger	The magical weapon was crafted out of the skull of a White Dragon, who was known for preferring killing his victims with one mighty bite of his enormous jaws.	false
 ancillaries_onscreen_name_hkrul_lokjar_gorger	Skull Gorger	false
+land_units_onscreen_name_hkrul_einar_bear	Einarr Sigdansson	false
+ancillaries_colour_text_hkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
+ancillaries_onscreen_name_hkrul_einar_bear	War Bear	false
+units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
+units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	War Bear	false
+character_skills_localised_description_hkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
+character_skills_localised_name_hkrul_einar_bear	War Bear	false

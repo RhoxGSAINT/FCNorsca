@@ -20,6 +20,8 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_drenok_bear	nor_all	false
 			hkrul_einar	all_non_chs	false
 			hkrul_einar	nor_all	false
+			hkrul_einar_bear	all_non_chs	false
+			hkrul_einar_bear	nor_all	false
 			hkrul_hrothgar	all_non_chs	false
 			hkrul_hrothgar	nor_all	false
 			hkrul_rafn	all_non_chs	false
