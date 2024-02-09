@@ -8,6 +8,6 @@ hkrul_bjornling_morale	morale.png	299	morale.png	battle	true
 hkrul_bjornling_xp	experience.png	298	experience.png	campaign	true
 hkrul_bjornling_defence	defence.png	298	defence.png	battle	true
 hkrul_ulfric_raiders	item_ability.png	300	item_ability.png	battle	true
-hkrul_bjornling_upkeep	military_spending.png	300	military_spending.png	campaign	true
-hkrul_bjornling_global_recruit_time	turns.png	300	turns.png	campaign	true
+hkrul_bjornling_upkeep	military_spending.png	300	military_spending.png	campaign	false
+hkrul_bjornling_global_recruit_time	turns.png	300	turns.png	campaign	false
 hkrul_ulfric_diplo_nordland	diplomacy.png	300	diplomacy.png	campaign	true
