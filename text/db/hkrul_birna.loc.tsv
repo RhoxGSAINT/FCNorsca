@@ -46,7 +46,7 @@ effects_description_hkrul_ulfric_diplo_nordland	Relationship: %+n to [[img:ui/fl
 effects_description_hkrul_birna_gaze	Ability: "Mutant's Gaze"	true
 unit_abilities_tooltip_text_hkrul_birna_flock	Her tongue releases a trilling note that creatures of the sky can understand, calling a murderous flock of crows to unlease fury on her foes.	true
 unit_abilities_onscreen_name_hkrul_birna_flock	Call of Crows	true
-effects_description_hkrul_birna_ws_hunt_dummy	Missile strength: %+n% for each completed Monster Hunt	true
+effects_description_hkrul_birna_ws_hunt_dummy	Range: %+n% for each completed Monster Hunt	true
 effects_description_hkrul_birna_flock	Ability: "Call of Crows"	true
 ancillary_sets_name_hkrul_birna_set	Mutant Champion of the Kali Delta	false
 ancillary_sets_description_hkrul_birna_set	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - they're ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false

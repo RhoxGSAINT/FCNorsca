@@ -1,13 +1,13 @@
 key	text	tooltip
 #Loc;1;text/db/scm_norsca_effect.loc		
-effects_description_rhox_adella_confederation_effect	Winds of Magic cost: %+n% for all enemy spells for each Norsca tribe you confederated	false
-effects_description_rhox_sayl_confederation_effect	Winds of Magic power reserve capacity: %+n for each Norsca tribe you confederated	false
-effects_description_rhox_birna_confederation_effect	Missile strength: %+n% for each Norsca tribe you confederated	false
-effects_description_rhox_akkorak_confederation_effect	Armour: %+n for each Norsca tribe you confederated	false
-effects_description_rhox_harald_confederation_effect	Leadership: %+n for each Norsca tribe you confederated	false
-effects_description_rhox_einar_confederation_effect	Melee attack: %+n for each Norsca tribe you confederated	false
-effects_description_rhox_drenok_confederation_effect	Speed: %+n% for each Norsca tribe you confederated	false
-effects_description_rhox_ulfric_confederation_effect	Melee defence: %+n for each Norsca tribe you confederated	false
-effects_description_rhox_hakka_confederation_effect	Charge bonus: %+n% for each Norsca tribe you confederated	false
-effects_description_rhox_wulfric_confederation_effect	Bonus vs Infantry: %+n for each Norsca tribe you confederated	false
-effects_description_rhox_throgg_confederation_effect	Bonus vs Large: %+n for each Norsca tribe you confederated	false
+effects_description_rhox_adella_confederation_effect	Winds of Magic cost: %+n% for all enemy spells for each confederated Norscan tribe	false
+effects_description_rhox_sayl_confederation_effect	Winds of Magic power reserve capacity: %+n for each confederated Norscan tribe	false
+effects_description_rhox_birna_confederation_effect	Missile strength: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_akkorak_confederation_effect	Armour: %+n for each confederated Norscan tribe	false
+effects_description_rhox_harald_confederation_effect	Leadership: %+n for each confederated Norscan tribe	false
+effects_description_rhox_einar_confederation_effect	Melee attack: %+n for each confederated Norscan tribe	false
+effects_description_rhox_drenok_confederation_effect	Speed: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_ulfric_confederation_effect	Melee defence: %+n for each confederated Norscan tribe	false
+effects_description_rhox_hakka_confederation_effect	Charge bonus: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_wulfric_confederation_effect	Bonus vs Infantry: %+n for each confederated Norscan tribe	false
+effects_description_rhox_throgg_confederation_effect	Bonus vs Large: %+n for each confederated Norscan tribe	false
