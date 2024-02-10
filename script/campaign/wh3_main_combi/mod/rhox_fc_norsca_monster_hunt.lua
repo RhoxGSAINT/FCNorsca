@@ -306,6 +306,8 @@ core:add_listener(
 				if not cm:get_saved_value("norscan_favour_lvl_3_reached_" .. faction) then
                     if faction_key == "wh_main_nor_aesling" then --aesling is locked to Khorne only
                         cm:faction_add_pooled_resource(faction_key, "nor_progress_hound", "events", 12)
+                    elseif faction_key == "wh_main_nor_baersonling" then
+                        cm:faction_add_pooled_resource(faction_key, "nor_progress_eagle", "events", 12)
                     else
                         cm:trigger_dilemma(faction, monster_hunt_data_for_faction[monster_hunts_index[i]]["fin"]);
                     end
