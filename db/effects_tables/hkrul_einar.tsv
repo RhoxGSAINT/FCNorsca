@@ -1,3 +1,4 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_einar					
 hkrul_einar_sword	item_ability.png	300	item_ability.png	battle	true
+rhox_baersonling_dedicated_to_tzeentch_dummy	corruption_tzeentch.png	101	corruption_tzeentch.png	campaign	true

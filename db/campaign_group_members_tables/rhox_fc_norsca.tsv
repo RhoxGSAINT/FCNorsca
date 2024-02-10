@@ -1,3 +1,5 @@
 id	group	priority
 #campaign_group_members_tables;1;db/campaign_group_members_tables/rhox_fc_norsca		
 rhox_aesling_feature_group	rhox_aesling_feature_group	0.0000
+rhox_baersonling_feature_group	rhox_baersonling_feature_group	0.0000
+rhox_baersonling_high_wom	rhox_baersonling_high_wom	0.0000
