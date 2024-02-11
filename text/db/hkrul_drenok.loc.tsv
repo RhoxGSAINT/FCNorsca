@@ -63,3 +63,5 @@ units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_bear	War Bear	fal
 ancillaries_colour_text_hkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
 ancillaries_onscreen_name_hkrul_drenok_bear	War Bear	false
 land_units_onscreen_name_hkrul_drenok_bear	Drenok Johansen	false
+effect_bundles_localised_description_hkrul_drenok_faction_trait	Marauders of the Icefang Tribe seemingly put more faith in what they call ''The Great Axe'' than they do in he who wields it.	false
+effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	false

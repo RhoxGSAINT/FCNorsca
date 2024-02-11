@@ -37,3 +37,5 @@ effects_description_hkrul_harald_leadership_dummy	Leadership: %+n for each confe
 effects_description_hkrul_harald_fear_vs_norsca	Attribute: Causes Terror when fighting against Norscan factions	true
 effects_description_hkrul_harald_skin_wolves_bonus_vs_large	Bonus vs Large: %+n for Skin Wolf units	true
 effects_description_hkrul_harald_beserker_melee_damage	Weapon strength: %+n% for Marauder Berserker units	true
+effect_bundles_localised_description_hkrul_harald_faction_trait	He who seeks to unite all Norscan tribes is either foolish or brave, or perhaps both.	false
+effect_bundles_localised_title_hkrul_harald_faction_trait	The Great Unifier	false
