@@ -1,0 +1,3 @@
+agent_subtype	initiative
+#ui_initiative_to_agent_subtypes_tables;0;db/ui_initiative_to_agent_subtypes_tables/rhox_fc_norsca	
+rhox_baersonling_daemon_prince_tzeentch	rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain
