@@ -1,3 +1,9 @@
+local function rhox_transfer_region(region_key, faction_key)
+    local target_region = cm:get_region(region_key)
+    cm:transfer_region_to_faction(region_key,faction_key)
+    cm:heal_garrison(target_region:cqi())
+end
+
 local rhox_faction_list={
     wh2_main_nor_skeggi ={
         leader={
@@ -153,8 +159,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_einar",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=729,
-            y=700,
+            x=738,
+            y=714,
             forename ="names_name_5670700356",
             familiyname ="names_name_5670700355",
         },	
@@ -162,20 +168,22 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_baersonling_how_they_play",
         pic=800,
         faction_trait="hkrul_einar_faction_trait",
-        kill_previous_leader=true,
-        --[[
+        kill_previous_leader="human_only",--they're first target of Tzarina, so needs to be careful
         enemy={
-            key="wh2_main_def_ssildra_tor",
-            subtype="wh2_main_def_dreadlord",
-            unit_list="wh2_main_def_inf_bleakswords_0,wh2_main_def_inf_darkshards_1",
-            x=107,
-            y=512
+            key="wh3_main_ogr_rock_skulls",
+            subtype="wh3_main_ogr_tyrant",
+            unit_list="wh3_main_ogr_inf_gnoblars_0,wh3_main_ogr_inf_gnoblars_0",
+            x=736,
+            y=712
         },
-        --]]
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_rafn", faction:faction_leader():command_queue_index(), true)
+            if faction:is_human() then
+                rhox_transfer_region("wh3_main_combi_region_fort_jakova", "wh3_main_ogr_rock_skulls")
+                rhox_transfer_region("wh3_main_combi_region_vitevo", "wh3_main_ksl_the_ice_court")
+            end
         end,
         first_tick = function(faction, faction_key) 
         end

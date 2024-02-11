@@ -1,0 +1,3 @@
+key	effects	duration	expended_cost	required_cost	image_path	upkeep_cost	point_cost
+#initiatives_tables;6;db/initiatives_tables/rhox_fc_norsca							
+rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain	wh3_dlc20_character_upgrade_effects	1	rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain	rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain	UI\skins\default\path_to_glory\mark_of_chaos_daemon_prince_tzeentch.png		0

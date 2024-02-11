@@ -18,6 +18,21 @@ character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baers
 
 
 
+--Baersonling upgrade
+table.insert(initiative_templates,
+    {
+        ["initiative_key"] = "rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain",
+        ["event"] = {"CharacterRankUp", "CharacterRecruited"},
+		["condition"] =
+			function(context)
+				return context:character():rank() >= 30
+			end
+	}
+)
+
+
+
+--defeated traits
 cm:add_first_tick_callback(
 	function()
         campaign_traits.legendary_lord_defeated_traits["hkrul_adella"] ="hkrul_defeated_trait_adella"

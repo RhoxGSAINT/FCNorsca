@@ -42,6 +42,9 @@ cm:add_first_tick_callback(
                 end,
                 function(context)
                     local panel = find_uicomponent(core:get_ui_root(), "settlement_captured")
+					if not panel then
+						return
+					end
                     local kill = find_uicomponent(panel, "1963655228")
                     local maim = find_uicomponent(panel, "1369123792")
                     local burn = find_uicomponent(panel, "1824195232")
@@ -58,6 +61,36 @@ cm:add_first_tick_callback(
                 end,
                 true
             )
+			core:add_listener(
+				"rhox_baersonling_character_initiatives_resource",
+				"ComponentLClickUp",
+				function(context)
+					return find_uicomponent(core:get_ui_root(), "character_details_panel", "character_context_parent", "TabGroup", "character_initiatives") == UIComponent(context.component)
+				end,
+				function(context)
+                    cm:callback(
+                            function()
+                                local list_box = find_uicomponent(core:get_ui_root(), "character_details_panel", "character_context_parent", "tab_panels", "character_initiatives_holder", "path_to_glory_holder", "holder_marks", "list_box")
+								if not list_box then
+									return
+								end
+                                for i = 0, list_box:ChildCount() - 1 do
+                                    local current_initiative = find_child_uicomponent_by_index(list_box, i)
+									if not current_initiative then
+										return
+									end
+                                    local dy_chs_souls = find_uicomponent(current_initiative, "dy_chs_souls", "chs_souls_icon")
+									if dy_chs_souls then
+                                    	dy_chs_souls:SetImagePath("ui/skins/default/norse_god_eagle.png")
+									end
+                                        
+                                end
+                            end,
+                        0.05
+                    )
+				end,
+				true
+			)
             
             rhox_baersonling_god_bar_ui()
             
@@ -65,3 +98,5 @@ cm:add_first_tick_callback(
         
     end
 )
+
+
