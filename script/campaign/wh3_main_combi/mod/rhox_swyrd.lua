@@ -33,7 +33,13 @@ local function norsca_leader_lost_battle(character)
     out("Min turn ".. min_turn)
     out("Cool time ".. rhox_fc_norsca_swyrd_cooltime)
     --]]
-    return pb:has_been_fought() and not character:won_battle() and character:faction():culture() == "wh_dlc08_nor_norsca" and character:is_faction_leader() and (not human_norsca_exist or character:faction():is_human()) 
+    
+    if not character or character:is_null_interface() then 
+        return false
+    end
+    
+    --not character:won_battle()   not putting this since it's causing error, and since it's checking destroyed, it would be safe
+    return pb:has_been_fought() and character:faction():culture() == "wh_dlc08_nor_norsca" and character:is_faction_leader() and (not human_norsca_exist or character:faction():is_human()) 
     and cm:model():turn_number() >= min_turn and rhox_fc_norsca_swyrd_cooltime <=0
 end
 
@@ -58,6 +64,9 @@ cm:add_first_tick_callback(
             "CharacterDestroyed",
             function(context)
                 local character = context:family_member():character();
+                if not character then 
+                    return false
+                end
                 return norsca_leader_lost_battle(character)
             end,
             function(context)

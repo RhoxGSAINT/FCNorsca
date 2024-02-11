@@ -11,3 +11,4 @@ hkrul_ulfric_raiders	item_ability.png	300	item_ability.png	battle	true
 hkrul_bjornling_upkeep	military_spending.png	300	military_spending.png	campaign	false
 hkrul_bjornling_global_recruit_time	turns.png	300	turns.png	campaign	false
 hkrul_ulfric_diplo_nordland	diplomacy.png	300	diplomacy.png	campaign	true
+rhox_ulfric_feature_dummy	devotion.png	3	devotion.png	campaign	true
