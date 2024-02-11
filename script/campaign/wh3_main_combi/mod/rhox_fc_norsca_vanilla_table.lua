@@ -29,7 +29,19 @@ table.insert(initiative_templates,
 			end
 	}
 )
+CUS.subtypes_to_tints["rhox_baersonling_daemon_prince_tzeentch"] = 
+{
+    primary = {key = "wh3_main_daemon_prince_tzeentch_primary", intensity_min = 200, intensity_max = 255},
+    secondary = {key = "wh3_main_daemon_prince_tzeentch_secondary", intensity_min = 200, intensity_max = 255}
+}
 
+CUS.initiative_to_agent_junctions["rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain"] = 
+{
+    type ="general",
+    subtype ="rhox_baersonling_daemon_prince_tzeentch",
+} 
+
+CUS.subtypes_to_composite_scenes["rhox_baersonling_daemon_prince_tzeentch"] = "wh3_campaign_chaos_upgrade_daemons"
 
 
 --defeated traits
