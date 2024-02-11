@@ -6,3 +6,5 @@ hkrul_drenok_blast	item_ability.png	300	item_ability.png	battle	true
 hkrul_drenok_breath	item_ability.png	300	item_ability.png	battle	true
 hkrul_drenok_ice_attack	melee.png	300	melee.png	battle	true
 hkrul_drenok_ice_speed	battle_movement.png	300	battle_movement.png	battle	true
+rhox_drenok_winter_dummy	attrition.png	10	attrition.png	campaign	true
+rhox_drenok_winter_storm	attrition.png	10	attrition.png	campaign	true

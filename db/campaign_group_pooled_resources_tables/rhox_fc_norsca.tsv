@@ -1,3 +1,5 @@
 campaign_group	resource	initial_amount
 #campaign_group_pooled_resources_tables;1;db/campaign_group_pooled_resources_tables/rhox_fc_norsca		
 rhox_aesling_feature_group	wh3_main_kho_skulls	5000
+rhox_bjornling_feature_group	wh3_main_ksl_devotion	100
+rhox_bjornling_feature_group	wh3_main_ksl_followers	50
