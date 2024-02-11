@@ -33,3 +33,5 @@ unit_description_short_texts_text_hkrul_akkorak	Arguably the most ruthless tribe
 unit_abilities_tooltip_text_hkrul_akkorak_spear	The Spear of the Wastes has soaked the blood of warriors hailing from all Northern tribes.	true
 unit_abilities_onscreen_name_hkrul_akkorak_spear	Spear of the Wastes	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_akkorak		false
+effect_bundles_localised_description_hkrul_akkorak_faction_trait	Akkorak the Crow	false
+effect_bundles_localised_title_hkrul_akkorak_faction_trait	Akkorak the Crow	false

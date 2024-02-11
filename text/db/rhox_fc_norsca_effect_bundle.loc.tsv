@@ -1,28 +1,4 @@
 key	text	tooltip
 #Loc;1;text/db/rhox_fc_norsca_effect_bundle.loc		
-effect_bundles_localised_description_hkrul_adella_faction_trait	The thousand holes across her body whisper her Masters sinister plans - which Adella tries to bring to fruition.	false
-effect_bundles_localised_title_hkrul_adella_faction_trait	Whispers of the Thousand Mouths	false
-effect_bundles_localised_description_rhox_adella_corruption_khorne_91-100_rhox_adella_kho_khorne		false
-effect_bundles_localised_title_rhox_adella_corruption_khorne_91-100_rhox_adella_kho_khorne		false
-effect_bundles_localised_description_rhox_adella_corruption_nurgle_91-100_rhox_adella_nur_nurgle		false
-effect_bundles_localised_title_rhox_adella_corruption_nurgle_91-100_rhox_adella_nur_nurgle		false
-effect_bundles_localised_description_rhox_adella_corruption_slaanesh_91-100_rhox_adella_sla_slaanesh		false
-effect_bundles_localised_title_rhox_adella_corruption_slaanesh_91-100_rhox_adella_sla_slaanesh		false
-effect_bundles_localised_description_rhox_adella_corruption_tzeentch_91-100_rhox_adella_tze_tzeentch		false
-effect_bundles_localised_title_rhox_adella_corruption_tzeentch_91-100_rhox_adella_tze_tzeentch		false
-effect_bundles_localised_description_hkrul_sayl_faction_trait		false
-effect_bundles_localised_title_hkrul_sayl_faction_trait		false
-effect_bundles_localised_description_hkrul_birna_faction_trait		false
-effect_bundles_localised_title_hkrul_birna_faction_trait	Mutants of the Sarl	false
-effect_bundles_localised_description_hkrul_akkorak_faction_trait	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - they're ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
-effect_bundles_localised_title_hkrul_akkorak_faction_trait		false
-effect_bundles_localised_description_hkrul_harald_faction_trait	He who seeks to unite all Norscan tribes is either foolish or brave, or perhaps both.	false
-effect_bundles_localised_title_hkrul_harald_faction_trait	The Great Unifier	false
-effect_bundles_localised_description_hkrul_einar_faction_trait		false
-effect_bundles_localised_title_hkrul_einar_faction_trait		false
-effect_bundles_localised_description_hkrul_drenok_faction_trait	Marauders of the Icefang Tribe seemingly put more faith in what they call ''The Great Axe'' than they do in he who wields it.	false
-effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	false
-ancillary_sets_name_hkrul_ulfric_set	The High King of Skjold	false
-ancillary_sets_description_hkrul_ulfric_set	As close to a traditional King a Norscan ruler can get, the King of the Bjornling tribe is as much warrior as he is a diplomat. Engaging in mundane matters and murderous campaigns all the same.	false
 effect_bundles_localised_description_rhox_fc_norsca_confederation_bonus	The bonus increases as you confederates more factions	false
 effect_bundles_localised_title_rhox_fc_norsca_confederation_bonus	Confederation Bonus	false
