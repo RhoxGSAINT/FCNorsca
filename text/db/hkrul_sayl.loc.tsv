@@ -60,3 +60,5 @@ ancillaries_colour_text_hkrul_sayl_mammoth	Tainted and savage they may be, but t
 ancillaries_onscreen_name_hkrul_sayl_mammoth	War Mammoth	false
 land_units_onscreen_name_hkrul_sayl_chariot	Sayl the Faithless	false
 land_units_onscreen_name_hkrul_sayl_mammoth	Sayl the Faithless	false
+effect_bundles_localised_description_hkrul_sayl_faction_trait		false
+effect_bundles_localised_title_hkrul_sayl_faction_trait		false

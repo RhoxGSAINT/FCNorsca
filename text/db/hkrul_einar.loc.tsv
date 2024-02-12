@@ -52,3 +52,26 @@ unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true
 effects_description_hkrul_einar_fury	Ability: "Fury of Vinnskor"	true
 unit_abilities_tooltip_text_hkrul_einar_fury	Amidst all the lifeless bodies of the village of Vinnskor, Einarr - sole survivor - held the corpse of his wife Asta as he detonated in nothing but mindless rage.	true
 unit_abilities_onscreen_name_hkrul_einar_fury	Fury of Vinnskor	true
+effect_bundles_localised_description_rhox_baersonling_high_wom		false
+effect_bundles_localised_title_rhox_baersonling_high_wom	Winds of Magic Power Reserve (80+)	false
+effects_description_rhox_baersonling_dedicated_to_tzeentch_dummy	Dedicated to Tzeentch: May only devote himself to Tzeentch	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_1_nor	Parchment & Ink	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_1_nor	Parchment has been seen falling from the skies over nearby battlefields. The scribblings upon them bind powerful magics into the pages, waiting to be unlocked by any who might claim them. Where they came from or why they litter the fields of war remains a mystery, yet one thing is for certain: every word brims with the Changer's arcane power. If the culprits behind this flurry of spells are ever to be located, questions must be asked. Perhaps those captured in battle may have tales to tell us?	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_title_wh3_dlc24_mis_tze_blue_scribes_stage_1}}	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_description_wh3_dlc24_mis_tze_blue_scribes_stage_2_changeling}}	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_nor	Parchment & Ink	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_2_nor	Your investigation has proven fruitful, indeed. It seems the Blue Scribes of Tzeentch – P'tarix and Xirat'p – are the frenzied force behind the haphazard magics that have plagued so many battlefields across the land. Better yet, a clue to their current location has now reared its head, as Chaos surges within a nearby settlement. If you act quickly, you could capture the region before the Blue Scribes have chance to move on, spreading their twisted mischief further outside of your reach.	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_3_nor	Parchment & Ink	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_3_nor	Your investigation has proven fruitful, indeed. It seems the Blue Scribes of Tzeentch – P'tarix and Xirat'p – are the frenzied force behind the haphazard magics that have plagued so many battlefields across the land. Better yet, a clue to their current location has now reared its head, as Chaos surges within a nearby settlement. If you act quickly, you could capture the region before the Blue Scribes have chance to move on, spreading their twisted mischief further outside of your reach.	false
+missions_localised_title_rhox_baersonling_tze_aekold_helbrass_stage_1_nor	A Tale of the True Path	false
+missions_localised_description_rhox_baersonling_tze_aekold_helbrass_stage_1_nor	Word has spread of a noble’s son, a once-great Knight of the Empire, who roams the Chaos Wastes in search of a greater purpose. Most remarkably he bears the insignia of a Tzeentchian cult, the Brethren of the Golden Eagle. His loyalties had him pursued doggedly for a time by the Templars of Sigmar, the Empire’s Witch Hunters, but once they caught up he proved his status as the greatest swordsman in his Knightly Order. Perhaps in time this Champion-in-the-making will make his way to us, but in the meantime we must ensure there are more like-minded warriors to help him embrace Chaos.	false
+missions_localised_title_rhox_baersonling_tze_aekold_helbrass_stage_2_nor	A Tale of the True Path	false
+missions_localised_description_rhox_baersonling_tze_aekold_helbrass_stage_2_nor	The noble breath of the wandering Knight is carried as a whisper upon the Winds, speaking of a tall monolith he has encountered deep in the Chaos Wastes that holds history, magic and prophecy. Yet standing between the Knight and the answers leading him to Chaos’ embrace is a bloodthirsty Doombull and his warherd! If this warrior is ever to reach his full potential in Tzeentch’s estimations we must provide him with the assistance he might require to reach the revelations he seeks.	false
+agent_subtypes_description_text_override_rhox_baersonling_daemon_prince_tzeentch		false
+agent_subtypes_onscreen_name_override_rhox_baersonling_daemon_prince_tzeentch	Daemon Prince of Tzeentch	false
+initiatives_localised_description_rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain	Character must reach rank 30.	false
+initiatives_localised_name_rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain	Ascend to Daemonhood (Tzeentch)	false
+character_skill_node_sets_enc_title_rhox_baersonling_daemon_prince_tzeentch		false
+ui_text_replacements_localised_text_corruption_effect_prefix_tzeentch_rhox_baersonling	[[col:green]]	false
+effect_bundles_localised_description_hkrul_einar_faction_trait	Einarr Sigdansson	false
+effect_bundles_localised_title_hkrul_einar_faction_trait	Einarr Sigdansson	false

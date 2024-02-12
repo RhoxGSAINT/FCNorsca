@@ -6,3 +6,5 @@ rhox_adella_corruption_slaanesh_91-100_rhox_adella_sla_slaanesh			province	1	cor
 rhox_adella_corruption_tzeentch_91-100_rhox_adella_tze_tzeentch			province	1	corruption_tzeentch.png	true	false	true
 rhox_birna_ws_hunt			character	1	ranged_damage.png	true	false	true
 rhox_fc_norsca_confederation_bonus			character	1	confederation.png	true	false	true
+rhox_baersonling_high_wom			force	1	magic.png	true	false	true
+rhox_icefang_region_winter_storm			region	1	attrition.png	true	false	true

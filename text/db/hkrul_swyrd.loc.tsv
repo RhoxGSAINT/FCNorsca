@@ -22,3 +22,8 @@ unit_abilities_tooltip_text_rhox_fc_norsca_summon_raven	As the battle starts, Ra
 unit_abilities_onscreen_name_rhox_fc_norsca_raven	The Raven	false
 unit_abilities_tooltip_text_rhox_fc_norsca_raven	As long as this unit retains its presence, characters within this unit's ability radius will not die.	false
 special_ability_phases_onscreen_name_rhox_fc_norsca_raven	The Raven	false
+effects_description_rhox_swyrd_leave_on_death_dummy	This character will leave faction and wander again if he gets wounded in battle	false
+incidents_localised_description_rhox_fc_norsca_swyrd_incident	In the dire aftermath of the battlefield, when defeat's bitter taste lingers, a haunting caw pierces the desolation. As shadows dance with the fading light, the Ravenswyrd emerges from the ethereal mists, his silhouette a beacon of hope. A lone raven circles overhead, its ebony wings a shield against impending doom. With an otherworldly presence, the Ravenswyrd stands amidst the fallen, a living legend summoned by the gods to turn the tide of destiny. As he raises his weapon, a surge of primal energy courses through the beleaguered warriors, and a whisper on the wind foretells that even in the darkest hour, the Ravenswyrd shall stand guardian until the End of all things.	false
+incidents_localised_title_rhox_fc_norsca_swyrd_incident	The Ravenswyrd emerges	false
+incidents_localised_description_rhox_fc_norsca_swyrd_leaves	After the battle, the Ravenswyrd leaves your faction by turning into mist. Maybe one day, he will return if your faction falls into a dire situation again.	false
+incidents_localised_title_rhox_fc_norsca_swyrd_leaves	The Ravenswyrd leaves	false

@@ -23,9 +23,9 @@ local function rhox_aesling_god_bar_ui()
             end
         end		
     end
-    
-
 end
+
+
 
 
 cm:add_first_tick_callback(

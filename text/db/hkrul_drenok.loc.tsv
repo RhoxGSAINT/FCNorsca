@@ -67,3 +67,12 @@ unit_abilities_onscreen_name_hkrul_drenok_frostwyrm	Frozen Fury	false
 unit_abilities_tooltip_text_hkrul_drenok_frostwyrm	Creatures infused with chaotic corrupted black ice unravel in a bloodthirsty frenzy when close to the Greataxe of the Icefang.	false
 effects_description_hkrul_drenok_frostwyrm	Ability: "Frozen Fury" for Frostwyrm untis	false
 effects_description_hkrul_drenok_xp	Recruit rank: %+n for Frostwyrm units	false
+effect_bundles_localised_description_hkrul_drenok_faction_trait	Marauders of the Icefang Tribe seemingly put more faith in what they call ''The Great Axe'' than they do in he who wields it.	false
+effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	false
+effects_description_rhox_drenok_winter_dummy	Winter Storm will be created upon capturing settlement with Frozen or Chaostic Waste climate	false
+effect_bundles_localised_description_rhox_icefang_region_winter_storm	Harsh Winter	false
+effect_bundles_localised_title_rhox_icefang_region_winter_storm	Harsh Winter	false
+effects_description_rhox_drenok_winter_storm	Causes attrition to forces within region	false
+campaign_map_attritions_campaign_map_tooltip_rhox_icefang_winter	Armies will suffer losses due to [[img:icon_attrition]][[/img]]attrition when in newly conquered frozen lands of Icefang Tribes	false
+campaign_map_attritions_unit_card_tooltip_rhox_icefang_winter	The Harsh Winter has visited this region, the army cannot bear the bitter cold!	false
+campaign_map_attritions_unit_immunity_text_rhox_icefang_winter	Harsh Winter	false

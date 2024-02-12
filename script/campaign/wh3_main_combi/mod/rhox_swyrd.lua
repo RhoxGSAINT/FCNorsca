@@ -21,8 +21,25 @@ core:add_listener(
 
 local function norsca_leader_lost_battle(character)
     local pb = cm:model():pending_battle()
+    --[[
+    out("rhox fc norsca")
+    out("Have you fought? ".. tostring(pb:has_been_fought()))
+    out("Did you win? ".. tostring(character:won_battle()))
+    out("cultue " ..character:faction():culture())
+    out("Is it faction leader? " .. tostring(character:is_faction_leader()))
+    out("Human Norsca exists? " .. tostring(human_norsca_exist))
+    out("Is faction human ".. tostring(character:faction():is_human()))
+    out("Turn number ".. cm:model():turn_number())
+    out("Min turn ".. min_turn)
+    out("Cool time ".. rhox_fc_norsca_swyrd_cooltime)
+    --]]
     
-    return pb:has_been_fought() and not character:won_battle() and character:faction():culture() == "wh_dlc08_nor_norsca" and character:is_faction_leader() and (not human_norsca_exist or character:faction():is_human()) 
+    if not character or character:is_null_interface() then 
+        return false
+    end
+    
+    --not character:won_battle()   not putting this since it's causing error, and since it's checking destroyed, it would be safe
+    return pb:has_been_fought() and character:faction():culture() == "wh_dlc08_nor_norsca" and character:is_faction_leader() and (not human_norsca_exist or character:faction():is_human()) 
     and cm:model():turn_number() >= min_turn and rhox_fc_norsca_swyrd_cooltime <=0
 end
 
@@ -44,24 +61,68 @@ cm:add_first_tick_callback(
         
         core:add_listener(
             "rhox_swyrd_norsca_leader_lost_battle",
-            "CharacterCompletedBattle",
+            "CharacterDestroyed",
             function(context)
-                return norsca_leader_lost_battle(context:character())
+                local character = context:family_member():character();
+                if not character then 
+                    return false
+                end
+                return norsca_leader_lost_battle(character)
             end,
             function(context)
-                rhox_fc_norsca_swyrd_cooltime = rhox_fc_norsca_default_swyrd_cooltime
-                cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_lokjar", false) --this will take care of duplicate problems
+                out("Rhox FC Norsca: Trying to summon swyrd")
+                local character = context:family_member():character();
+                cm:spawn_unique_agent(character:faction():command_queue_index(), "hkrul_swyrd", false) --this will take care of duplicate problems
+            end,
+            true
+        )
+        core:add_listener(
+            "rhox_swyrd_UniqueAgentSpawned",
+            "UniqueAgentSpawned",
+            function(context)
+                local character = context:unique_agent_details():character()
                 
-                local faction = context:character():faction()
+                return not character:is_null_interface() and character:character_subtype("hkrul_swyrd")
+            end,
+            function(context)
+                local character = context:unique_agent_details():character()
+                local faction = character:faction()
+                rhox_fc_norsca_swyrd_cooltime = rhox_fc_norsca_default_swyrd_cooltime
                 
                 if faction:is_human() then
                     local incident_key = "rhox_fc_norsca_swyrd_incident"
                     local incident_builder = cm:create_incident_builder(incident_key)
                     cm:launch_custom_incident_from_builder(incident_builder, faction)
+                    if cm:get_local_faction(true) == faction then --ui thing and should be local
+                        -- fly camera to Green Knight
+                        cm:scroll_camera_from_current(false, 1, {character:display_position_x(), character:display_position_y(), 14.7, 0.0, 12.0})
+                    end
                 end
             end,
             true
         )
-
+        core:add_listener(
+            "rhox_swyrd_dies",
+            "CharacterDestroyed",
+            function(context)
+                local character = context:family_member():character();
+                return not character:is_null_interface() and character:character_subtype("hkrul_swyrd")
+            end,
+            function(context)
+                local character = context:family_member():character();
+                local faction = character:faction()
+                
+                if faction:is_human() then
+                    local incident_key = "rhox_fc_norsca_swyrd_leaves"
+                    local incident_builder = cm:create_incident_builder(incident_key)
+                    cm:launch_custom_incident_from_builder(incident_builder, faction)
+                    if cm:get_local_faction(true) == faction then
+                        -- fly camera to Green Knight
+                        cm:scroll_camera_from_current(false, 1, {character:display_position_x(), character:display_position_y(), 14.7, 0.0, 12.0})
+                    end
+                end
+            end,
+            true
+        );
 	end
 )
