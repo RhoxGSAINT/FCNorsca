@@ -1,3 +1,5 @@
 ancillary	effect	effect_scope	value
 #ancillary_to_effects_tables;0;db/ancillary_to_effects_tables/hkrul_einar			
 hkrul_einar_sword	hkrul_einar_sword	character_to_character_own	1.0000
+hkrul_einar_sword	wh_main_effect_character_stat_magic_resistance	character_to_character_own	20.0000
+hkrul_einar_sword	wh_main_effect_character_stat_ap_damage	character_to_character_own	25.0000

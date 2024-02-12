@@ -15,3 +15,9 @@ rhox_kolsveinn_self_11		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	t
 rhox_kolsveinn_shared_01		wh3_dlc20_skill_shared_chs_cha_exalted_hero_duelist		3	0		0	0	true
 rhox_kolsveinn_shared_02		wh3_dlc20_skill_shared_chs_cha_exalted_hero_tactician		3	1		0	0	true
 rhox_kolsveinn_shared_03		wh3_dlc20_skills_shared_khorne_scorch		3	2		0	0	true
+hkrul_skill_node_kolsvein_special_01		hkrul_kolsvein_special_1_0		1	1		0	0	true
+hkrul_skill_node_kolsvein_special_02		hkrul_kolsvein_special_1_1		1	2		0	0	true
+hkrul_skill_node_kolsvein_special_03		hkrul_kolsvein_special_1_2		1	3		0	0	true
+hkrul_skill_node_kolsvein_special_04		hkrul_kolsvein_special_1_3		1	4		0	0	true
+hkrul_skill_node_kolsvein_special_05		hkrul_kolsvein_special_1_4		1	5		0	0	true
+hkrul_skill_node_kolsvein_special_06		hkrul_kolsvein_special_1_5		1	6		0	4	true

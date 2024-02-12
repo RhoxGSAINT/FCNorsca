@@ -1,3 +1,5 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_einar			
-hkrul_einar_sword	stat_melee_damage_base	1.2500	mult
+hkrul_einar_sword	stat_melee_attack	40.0000	add
+hkrul_einar_fury	stat_resistance_all	30.0000	add
+hkrul_einar_fury	stat_damage_reflection	20.0000	add
