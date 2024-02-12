@@ -54,7 +54,6 @@ unit_abilities_tooltip_text_hkrul_einar_fury	Amidst all the lifeless bodies of t
 unit_abilities_onscreen_name_hkrul_einar_fury	Fury of Vinnskor	true
 effect_bundles_localised_description_rhox_baersonling_high_wom		false
 effect_bundles_localised_title_rhox_baersonling_high_wom	Winds of Magic Power Reserve (80+)	false
-effects_description_rhox_baersonling_dedicated_to_tzeentch_dummy	Dedicated to Tzeentch: May only devote himself to Tzeentch	false
 missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_1_nor	Parchment & Ink	false
 missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_1_nor	Parchment has been seen falling from the skies over nearby battlefields. The scribblings upon them bind powerful magics into the pages, waiting to be unlocked by any who might claim them. Where they came from or why they litter the fields of war remains a mystery, yet one thing is for certain: every word brims with the Changer's arcane power. If the culprits behind this flurry of spells are ever to be located, questions must be asked. Perhaps those captured in battle may have tales to tell us?	false
 missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_title_wh3_dlc24_mis_tze_blue_scribes_stage_1}}	false
