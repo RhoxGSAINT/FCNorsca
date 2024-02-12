@@ -6,8 +6,8 @@ hkrul_soren_line1	0	0	1	hkrul_soren	55557F
 hkrul_soren_line2	1	1	1	hkrul_soren	AAAA00
 hkrul_akkorak_line1	0	0	1	hkrul_akkorak	FF9500
 hkrul_akkorak_line2	1	1	1	hkrul_akkorak	550000
-hkrul_drenok_line1	0	0	1	hkrul_drenok	AA0000
-hkrul_drenok_line2	1	1	1	hkrul_drenok	242424
+hkrul_drenok_line1	0	0	1	hkrul_drenok	AAFFFF
+hkrul_drenok_line2	1	1	1	hkrul_drenok	22BDFF
 hkrul_einar_line1	0	0	1	hkrul_einar	AAAA7F
 hkrul_einar_line2	1	1	1	hkrul_einar	FFF8E9
 hkrul_hakka_line1	0	0	1	hkrul_hakka	AA0000
@@ -16,11 +16,13 @@ hkrul_harald_line1	0	0	1	hkrul_harald	005500
 hkrul_harald_line2	1	1	1	hkrul_harald	242424
 hkrul_lokjar_line1	0	0	1	hkrul_lokjar	AAAA7F
 hkrul_lokjar_line2	1	1	1	hkrul_lokjar	AA5500
-hkrul_sayl_line1	0	0	1	hkrul_sayl	AA0000
-hkrul_sayl_line2	1	1	1	hkrul_sayl	242424
+hkrul_sayl_line1	0	0	1	hkrul_sayl	55557F
+hkrul_sayl_line2	1	1	1	hkrul_sayl	CC970F
 hkrul_ulfric_line1	0	0	1	hkrul_ulfric	B09C9C
 hkrul_ulfric_line2	1	1	1	hkrul_ulfric	7A7573
 hkrul_verdandi_line1	0	0	1	hkrul_verdandi	55AA7F
 hkrul_verdandi_line2	1	1	1	hkrul_verdandi	2D2B29
 hkrul_oda_line1	0	0	1	hkrul_oda	A4A9FF
 hkrul_oda_line2	1	1	1	hkrul_oda	56524E
+hkrul_kolsvein_line1	1	1	1	hkrul_kolsveinn	AA0000
+hkrul_rafn_line2	2	2	1	hkrul_rafn	AAAA7F

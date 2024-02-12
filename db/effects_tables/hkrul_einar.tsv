@@ -1,3 +1,7 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_einar					
 hkrul_einar_sword	item_ability.png	300	item_ability.png	battle	true
+hkrul_einar_lord_devote	army.png	300	army.png	campaign	true
+hkrul_einar_devote	corruption_tzeentch.png	300	corruption_tzeentch.png	campaign	true
+hkrul_einar_steelfist	item_ability.png	300	item_ability.png	battle	true
+hkrul_einar_fury	item_ability.png	300	item_ability.png	battle	true

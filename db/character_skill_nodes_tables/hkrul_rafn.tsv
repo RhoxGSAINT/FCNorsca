@@ -1,3 +1,9 @@
 key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
 #character_skill_nodes_tables;6;db/character_skill_nodes_tables/hkrul_rafn									
 skill_node_hkrul_rafn_innate		innate_hkrul_rafn		6	0		1	0	false
+hkrul_skill_node_rafn_special_01		hkrul_rafn_special_1_0		2	1		0	0	true
+hkrul_skill_node_rafn_special_02		hkrul_rafn_special_1_1		2	2		0	0	true
+hkrul_skill_node_rafn_special_03		hkrul_rafn_special_1_2		2	3		0	0	true
+hkrul_skill_node_rafn_special_04		hkrul_rafn_special_1_3		2	4		0	0	true
+hkrul_skill_node_rafn_special_05		hkrul_rafn_special_1_4		2	5		0	0	true
+hkrul_skill_node_rafn_special_06		hkrul_rafn_special_1_5		2	6		0	4	true

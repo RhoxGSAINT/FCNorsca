@@ -29,3 +29,6 @@ hkrul_drenok_wolf	true	hkrul_drenok_wolf		wh_type_augment		wh_main_anc_group_rar
 hkrul_drenok_wolf_dummy	true	hkrul_drenok_wolf		wh_type_augment		wh_main_anc_group_rare	false	true	unit		true
 hkrul_drenok_blast	true	hkrul_drenok_frost		wh_type_explosion		wh_main_anc_group_rare	true	false	active		false
 hkrul_drenok_breath	true	hkrul_drenok_axe		wh_type_breath		wh_main_anc_group_rare	true	false	bound		false
+hkrul_drenok_frostwyrm	true	hkrul_drenok_frostwyrm		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_einar_steelfist	true	hkrul_einar_steelfist		wh_type_explosion		wh_main_anc_group_rare	true	false	active		false
+hkrul_einar_fury	true	hkrul_einar_fury		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false

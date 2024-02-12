@@ -63,3 +63,7 @@ units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_bear	War Bear	fal
 ancillaries_colour_text_hkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
 ancillaries_onscreen_name_hkrul_drenok_bear	War Bear	false
 land_units_onscreen_name_hkrul_drenok_bear	Drenok Johansen	false
+unit_abilities_onscreen_name_hkrul_drenok_frostwyrm	Frozen Fury	false
+unit_abilities_tooltip_text_hkrul_drenok_frostwyrm	Creatures infused with chaotic corrupted black ice unravel in a bloodthirsty frenzy when close to the Greataxe of the Icefang.	false
+effects_description_hkrul_drenok_frostwyrm	Ability: "Frozen Fury" for Frostwyrm untis	false
+effects_description_hkrul_drenok_xp	Recruit rank: %+n for Frostwyrm units	false

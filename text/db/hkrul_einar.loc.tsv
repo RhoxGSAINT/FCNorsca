@@ -21,6 +21,8 @@ character_skills_localised_name_hkrul_einar_special_1_4	Baersonling Marauders	tr
 agent_subtypes_onscreen_name_override_hkrul_einar	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_einar		false
 effects_description_hkrul_einar_sword	Ability: "Fangwyrm''	true
+effects_description_hkrul_einar_lord_devote	Marauder Chieftains may devote themselves to Tzeentch, becoming powerful (....)	true
+effects_description_hkrul_einar_devote	Dedicated to Tzeentch: May only devote himself to Tzeentch	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_einar	Champion No-More	true
 character_trait_levels_colour_text_hkrul_defeated_trait_einar	You should have known antagonists never end up well..	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_einar	Defeated Einarr Sigdansson	true
@@ -30,7 +32,7 @@ land_units_onscreen_name_hkrul_einar	Einarr Sigdansson	true
 names_name_5670700355	Sigdansson	false
 names_name_5670700356	Einarr	false
 unit_description_short_texts_text_hkrul_einar	A fierce Baersonling of the fallen village of Vinnskor and a mighty Champion of Tzeentch, Einarr Steelfist was marked by the Raven God when he slew a mighty Bloodbeast.	false
-unit_abilities_tooltip_text_hkrul_einar_sword	Placeholder Text Placeholder Text Placeholder Text Placeholder Text	true
+unit_abilities_tooltip_text_hkrul_einar_sword	Blessed by Tzeentch, Fangwyrm is a mighty blade once wielded by Jarl Tulkir. It feeds on nearby magic and radiates immense power.	true
 unit_abilities_onscreen_name_hkrul_einar_sword	Fangwyrm	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_einar		false
 ancillaries_colour_text_hkrul_lokjar_amulet	The amulet has the spirit of a Snow Troll bound within it. Those who wear it are said to begin taking on the traits of the Troll themselves.	true
@@ -44,3 +46,9 @@ units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	Loy
 units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	War Bear	false
 character_skills_localised_description_hkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
 character_skills_localised_name_hkrul_einar_bear	War Bear	false
+effects_description_hkrul_einar_steelfist	Ability: "Steelfist's Wrath"	true
+unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slaid Ogres with nothing but his iron clad protected hands.	true
+unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true
+effects_description_hkrul_einar_fury	Ability: "Fury of Vinnskor"	true
+unit_abilities_tooltip_text_hkrul_einar_fury	Amidst all the lifeless bodies of the village of Vinnskor, Einarr - sole survivor - held the corpse of his wife Asta as he detonated in nothing but mindless rage.	true
+unit_abilities_onscreen_name_hkrul_einar_fury	Fury of Vinnskor	true

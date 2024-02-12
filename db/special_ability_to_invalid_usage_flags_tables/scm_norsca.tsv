@@ -2,3 +2,5 @@ invalid_usage_flag	special_ability
 #special_ability_to_invalid_usage_flags_tables;0;db/special_ability_to_invalid_usage_flags_tables/scm_norsca	
 flying_currently	hkrul_drenok_breath
 on_a_platform	hkrul_drenok_breath
+flying_currently	hkrul_einar_steelfist
+on_a_platform	hkrul_einar_steelfist
