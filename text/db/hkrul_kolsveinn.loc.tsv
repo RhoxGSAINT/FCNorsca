@@ -3,8 +3,8 @@ key	text	tooltip
 land_units_onscreen_name_hkrul_kolsveinn	Kolsveinn of Skraevold	false
 unit_description_short_texts_text_hkrul_kolsveinn	Gifted with hoofed feet and corrosive spit he uses to melt the faces of his foes from his mouth whilst carving them to shreds with twin swords.	false
 unit_description_historical_texts_text_hkrul_kolsveinn	Gifted with hoofed feet and corrosive spit he uses to melt the faces of his foes from his mouth whilst carving them to shreds with twin swords.	false
-names_name_516997749	of Skraevold	false
-names_name_516997750	Kolsveinn	false
+names_name_516997749	Kolsveinn	false
+names_name_516997750	of Skraevold	false
 agent_subtypes_description_text_override_hkrul_kolsveinn	Legendary Hero	false
 agent_subtypes_onscreen_name_override_hkrul_kolsveinn	Legendary Hero	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_kolsveinn	Kolsveinn Skills	false
