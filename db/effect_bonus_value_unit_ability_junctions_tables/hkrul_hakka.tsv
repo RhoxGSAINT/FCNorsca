@@ -2,3 +2,6 @@ effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_hakka		
 hkrul_hakka_axe	enable	hkrul_hakka_axe
 hkrul_hakka_gaze	enable	hkrul_hakka_gaze
+hkrul_kolsvein_spit	enable	hkrul_kolsvein_spit
+hkrul_kolsvein_sword	enable	hkrul_kolsvein_sword
+hkrul_rafn_axe	enable	hkrul_rafn_axe

@@ -28,3 +28,5 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 0	hkrul_hakka_gaze	true	false	false	hkrul_hakka_gaze
 1	hkrul_drenok_frostwyrm	true	false	false	hkrul_drenok_frostwyrm
 1	hkrul_einar_fury	true	false	false	hkrul_einar_fury
+1	hkrul_kolsvein_sword	true	false	false	hkrul_kolsvein_sword
+1	hkrul_rafn_axe	true	false	false	hkrul_rafn_axe
