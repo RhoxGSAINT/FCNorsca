@@ -2,3 +2,6 @@ phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_hakka			
 hkrul_hakka_axe	stat_melee_damage_ap	1.5000	mult
 hkrul_hakka_gaze	stat_melee_attack	25.0000	add
+hkrul_kolsvein_sword	stat_bonus_vs_infantry	25.0000	add
+hkrul_rafn_axe	stat_bonus_vs_large	25.0000	add
+hkrul_rafn_axe	scalar_charge_speed	1.4000	mult
