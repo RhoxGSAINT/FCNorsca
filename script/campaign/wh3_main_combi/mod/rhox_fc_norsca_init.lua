@@ -109,8 +109,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_sayl",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=1025,
-            y=780,
+            x=1012,
+            y=723,
             forename ="names_name_5670700451",
             familiyname ="names_name_5670700450",
         },
@@ -123,15 +123,9 @@ local rhox_faction_list={
         pic=800,
         faction_trait="hkrul_sayl_faction_trait",
         kill_previous_leader=true,
-        --[[
         enemy={
-            key="wh2_main_def_ssildra_tor",
-            subtype="wh2_main_def_dreadlord",
-            unit_list="wh2_main_def_inf_bleakswords_0,wh2_main_def_inf_darkshards_1",
-            x=107,
-            y=512
+            key="wh3_main_ogr_fleshgreeders",
         },
-        --]]
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
