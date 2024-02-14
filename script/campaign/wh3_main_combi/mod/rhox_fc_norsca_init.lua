@@ -1,3 +1,41 @@
+local faction_key_to_mission_key={
+    wh2_dlc17_nor_deadwood_ravagers ={	"wh3_main_combi_region_the_twisted_towers", "wh3_main_combi_region_black_rock", "wh3_main_combi_region_the_silvered_tower_of_sorcerers" }, --Khrag
+    wh2_main_nor_aghol={	"wh3_main_combi_region_fortress_of_the_damned", "wh3_main_combi_region_the_frozen_city" },
+    wh2_main_nor_mung={	"wh3_main_combi_region_dagraks_end", "wh3_main_combi_region_the_palace_of_ruin" },
+    wh2_main_nor_skeggi={	"wh3_main_combi_region_skeggi" },
+    wh3_dlc20_nor_dolgan={	"wh3_main_combi_region_the_challenge_stone", "wh3_main_combi_region_fortress_of_eyes" },
+    wh3_dlc20_nor_kul={	"wh3_main_combi_region_the_writhing_fortress", "wh3_main_combi_region_zanbaijin", "wh3_main_combi_region_karak_dum" },
+    wh3_dlc20_nor_tong={	"wh3_main_combi_region_the_howling_citadel", "wh3_main_combi_region_the_crystal_spires" },
+    wh3_dlc20_nor_yusak={	"wh3_main_combi_region_red_fortress", "wh3_main_combi_region_bloodwind_keep"},
+    wh_dlc08_nor_goromadny_tribe={	"wh3_main_combi_region_karak_vlag", "wh3_main_combi_region_kraka_drak" },
+    wh_dlc08_nor_naglfarlings={	"wh3_main_combi_region_doomkeep", "wh3_main_combi_region_altar_of_the_crimson_harvest" },
+    wh_dlc08_nor_vanaheimlings={	"wh3_main_combi_region_konquata", "wh3_main_combi_region_monolith_of_borkill_the_bloody_handed" },
+    wh_main_nor_baersonling	={"wh3_main_combi_region_praag" },
+    wh_main_nor_sarl	={"wh3_main_combi_region_the_tower_of_khrakk" },
+    wh_main_nor_varg	={"wh3_main_combi_region_the_monolith_of_katam", "wh3_main_combi_region_the_forbidden_citadel" },
+}
+
+local function rhox_fc_norsca_trigger_dark_fortress_mission(faction_key)
+    
+    local regions = faction_key_to_mission_key[faction_key]
+    
+    local mm = mission_manager:new(faction_key, "rhox_fc_norsca_protect_dark_fortress")
+    mm:add_new_objective("OWN_N_REGIONS_INCLUDING")
+    
+    --out("Rhox FC Norsca: Number of regions: ".. #regions)
+    
+    for i = 1, #regions do
+        --out("Rhox fc norsca: ".. regions[i])
+        mm:add_condition("region "..regions[i]);
+    end
+    mm:add_condition("total 900");--to make it uncompletable. they need to see what place is a Dark Fortress
+    --mm:add_new_objective("SCRIPTED")
+    --mm:add_condition("script_key rhox_fc_norsca_protect_dark_fortress")
+    --mm:add_condition("override_text rhox_fc_norsca_protect_dark_fortress")
+    mm:add_payload("text_display rhox_fc_norsca_protect_dark_fortress");
+    mm:trigger()
+end
+
 local function rhox_transfer_region(region_key, faction_key)
     local target_region = cm:get_region(region_key)
     cm:transfer_region_to_faction(region_key,faction_key)
@@ -446,6 +484,9 @@ cm:add_first_tick_callback_new(
                     function(cqi)
                     end);
                 end
+            end
+            if faction:is_human() and faction_key_to_mission_key[faction_key] then
+                rhox_fc_norsca_trigger_dark_fortress_mission(faction_key)
             end
             if faction:is_human() and faction_info.human_only_enemy then
                 cm:disable_event_feed_events(true, "wh_event_category_diplomacy", "", "")
