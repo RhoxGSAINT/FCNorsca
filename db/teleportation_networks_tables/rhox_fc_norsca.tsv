@@ -1,0 +1,4 @@
+key	campaign	traveller_requirements	permitted_agents	travel_time
+#teleportation_networks_tables;0;db/teleportation_networks_tables/rhox_fc_norsca				
+rhox_fc_norsca_dark_fortress	wh3_main_combi	any	all_agents	0
+rhox_fc_norsca_dark_fortress_iee	cr_combi_expanded	any	all_agents	0

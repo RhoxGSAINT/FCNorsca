@@ -2,8 +2,8 @@ local faction_key_to_mission_key={
     wh2_dlc17_nor_deadwood_ravagers ={	"wh3_main_combi_region_the_twisted_towers", "wh3_main_combi_region_black_rock", "wh3_main_combi_region_the_silvered_tower_of_sorcerers" }, --Khrag
     wh2_main_nor_aghol={	"wh3_main_combi_region_fortress_of_the_damned", "wh3_main_combi_region_the_frozen_city" },
     wh2_main_nor_mung={	"wh3_main_combi_region_dagraks_end", "wh3_main_combi_region_the_palace_of_ruin" },
-    wh2_main_nor_skeggi={	"wh3_main_combi_region_skeggi" },
-    wh3_dlc20_nor_dolgan={	"wh3_main_combi_region_the_challenge_stone", "wh3_main_combi_region_fortress_of_eyes" },
+    wh2_main_nor_skeggi={	"wh3_main_combi_region_skeggi" },--they don't actually have dark fortress, but just in case
+    wh3_dlc20_nor_dolgan={	"wh3_main_combi_region_the_challenge_stone", "wh3_main_combi_region_the_volary" },
     wh3_dlc20_nor_kul={	"wh3_main_combi_region_the_writhing_fortress", "wh3_main_combi_region_zanbaijin", "wh3_main_combi_region_karak_dum" },
     wh3_dlc20_nor_tong={	"wh3_main_combi_region_the_howling_citadel", "wh3_main_combi_region_the_crystal_spires" },
     wh3_dlc20_nor_yusak={	"wh3_main_combi_region_red_fortress", "wh3_main_combi_region_bloodwind_keep"},
@@ -15,9 +15,14 @@ local faction_key_to_mission_key={
     wh_main_nor_varg	={"wh3_main_combi_region_the_monolith_of_katam", "wh3_main_combi_region_the_forbidden_citadel" },
 }
 
-local function rhox_fc_norsca_trigger_dark_fortress_mission(faction_key)
+local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(faction_key)
     
     local regions = faction_key_to_mission_key[faction_key]
+    
+    local teleport_node_key = "rhox_fc_norsca_dark_fortress_teleport_"
+    if cm:model():campaign_name_key() == "cr_combi_expanded" then
+        teleport_node_key="rhox_fc_norsca_dark_fortress_teleport_iee_"
+    end
     
     local mm = mission_manager:new(faction_key, "rhox_fc_norsca_protect_dark_fortress")
     mm:add_new_objective("OWN_N_REGIONS_INCLUDING")
@@ -27,6 +32,9 @@ local function rhox_fc_norsca_trigger_dark_fortress_mission(faction_key)
     for i = 1, #regions do
         --out("Rhox fc norsca: ".. regions[i])
         mm:add_condition("region "..regions[i]);
+        --out("Rhox FC Norsca: "..teleport_node_key .. faction_key .. "_" .. tostring(i))
+        cm:teleportation_network_open_node(teleport_node_key .. faction_key .. "_" .. tostring(i))--some of them misses actual node, but that won't cause issues, right?
+        
     end
     mm:add_condition("total 900");--to make it uncompletable. they need to see what place is a Dark Fortress
     --mm:add_new_objective("SCRIPTED")
@@ -290,8 +298,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_birna",
             unit_list="wh_dlc08_nor_feral_manticore,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_mon_chaos_trolls,wh_main_nor_inf_chaos_marauders_1",
-            x=569,
-            y=844,
+            x=624,
+            y=815,
             forename ="names_name_5682700361",
             familiyname ="names_name_5682700360",
         },
@@ -300,13 +308,16 @@ local rhox_faction_list={
             subtype="wh_dlc08_nor_shaman_sorcerer_death"
         },
         region="wh3_main_combi_region_sarl_encampment",
-        human_only_enemy={
+        enemy={
+            key="wh3_main_ksl_brotherhood_of_the_bear",
+        },
+        --[[human_only_enemy={
             key="wh_dlc08_nor_naglfarlings",
             subtype="wh_main_nor_marauder_chieftain",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
             x=565,
             y=843
-        },
+        },]]
         how_they_play="rhox_fc_norsca_wh_main_nor_sarl_how_they_play",
         pic=800,
         faction_trait="hkrul_birna_faction_trait",
@@ -358,8 +369,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_hrothgar",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
-            x=523,
-            y=871,
+            x=470,
+            y=867,
             forename ="names_name_7410711835",
             familiyname ="names_name_7410711834",
         },	
@@ -486,7 +497,7 @@ cm:add_first_tick_callback_new(
                 end
             end
             if faction:is_human() and faction_key_to_mission_key[faction_key] then
-                rhox_fc_norsca_trigger_dark_fortress_mission(faction_key)
+                rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(faction_key)
             end
             if faction:is_human() and faction_info.human_only_enemy then
                 cm:disable_event_feed_events(true, "wh_event_category_diplomacy", "", "")
