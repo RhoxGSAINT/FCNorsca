@@ -223,6 +223,20 @@ local rhox_faction_list={
             if faction:is_human() then
                 rhox_transfer_region("wh3_main_combi_region_fort_jakova", "wh3_main_ogr_rock_skulls")
                 rhox_transfer_region("wh3_main_combi_region_vitevo", "wh3_main_ksl_the_ice_court")
+                
+                local loop_char_list = faction:character_list()
+				
+				for i = 0, loop_char_list:num_items() - 1 do
+					local looping = loop_char_list:item_at(i)
+					if looping:forename("names_name_1010314968") and looping:surname("names_name_1240989680") then
+                        local character_cqi= looping:command_queue_index();
+						cm:disable_event_feed_events(true, "wh_event_category_character", "", "")
+                        cm:set_character_immortality(cm:char_lookup_str(character_cqi), false);          
+                        cm:kill_character_and_commanded_unit(cm:char_lookup_str(character_cqi), true)
+                        cm:callback(function() cm:disable_event_feed_events(false, "", "", "wh_event_category_character") end, 0.2);
+						break
+					end
+				end
             end
         end,
         first_tick = function(faction, faction_key) 
