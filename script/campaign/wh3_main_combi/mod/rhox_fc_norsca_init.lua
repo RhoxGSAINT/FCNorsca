@@ -127,9 +127,39 @@ local rhox_faction_list={
             key="wh3_main_ogr_fleshgreeders",
         },
         additional = function(faction, faction_key)
+            local function rhox_add_faction_sayl_pool_units (faction_obj, unit_group)
+                for i, v in pairs(unit_group) do
+                    cm:add_unit_to_faction_mercenary_pool(
+                        faction_obj,
+                        v[1], -- key
+                        v[2], -- recruitment source
+                        v[3], -- count
+                        v[4], --replen chance
+                        v[5], -- max units
+                        0, -- max per turn
+                        "",	--faction restriction
+                        "",	--subculture restriction
+                        "",	--tech restriction
+                        false, --partial
+                        "rhox_sayl_"..v[1]
+                    );
+                end	
+            end
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-
+            local rhox_sayl_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_dlc20_chs_inf_chosen_mkho", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_mkho_dualweapons", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_mtze", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_mtze_halberds", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_mnur", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_mnur_greatweapons", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_msla", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_inf_chosen_msla_hellscourges", "daemonic_summoning_belakor", 0, 0, 20}
+            }
+            
+            rhox_add_faction_sayl_pool_units(faction, rhox_sayl_units)
         end,
         first_tick = function(faction, faction_key) 
         end

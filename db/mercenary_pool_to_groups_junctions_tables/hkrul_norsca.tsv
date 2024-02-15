@@ -2,3 +2,11 @@ key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tec
 #mercenary_pool_to_groups_junctions_tables;1;db/mercenary_pool_to_groups_junctions_tables/hkrul_norsca						
 1052539220	hkrul_skeggi_giant_ror	1	wh_dlc08_nor_units_of_renown_pool			
 1052539221	hkrul_sarl_hunters_ror	1	wh_dlc08_nor_units_of_renown_pool			
+1052539222	rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho	0	wh3_main_belakor_faction_pool			
+1052539223	rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho_dualweapons	0	wh3_main_belakor_faction_pool			
+1052539224	rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze	0	wh3_main_belakor_faction_pool			
+1052539225	rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze_halberds	0	wh3_main_belakor_faction_pool			
+1052539226	rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur	0	wh3_main_belakor_faction_pool			
+1052539227	rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	0	wh3_main_belakor_faction_pool			
+1052539228	rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	0	wh3_main_belakor_faction_pool			
+1052539229	rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	0	wh3_main_belakor_faction_pool			

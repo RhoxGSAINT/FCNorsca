@@ -1,0 +1,6 @@
+choice_key	dilemma_key	associated_audio_trigger
+#cdir_events_dilemma_choice_details_tables;3;db/cdir_events_dilemma_choice_details_tables/rhox_fc_norsca		
+FIRST	rhox_sayl_ritual_dilemma	
+SECOND	rhox_sayl_ritual_dilemma	
+THIRD	rhox_sayl_ritual_dilemma	
+FOURTH	rhox_sayl_ritual_dilemma	

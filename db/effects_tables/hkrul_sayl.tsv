@@ -3,3 +3,4 @@ effect	icon	priority	icon_negative	category	is_positive_value_good
 hkrul_sayl_staff	item_ability.png	300	item_ability.png	battle	true
 hkrul_sayl_mist	item_ability.png	300	item_ability.png	battle	true
 hkrul_summon_nightmaw	general_ability.png	300	general_ability.png	battle	true
+rhox_sayl_feature_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
