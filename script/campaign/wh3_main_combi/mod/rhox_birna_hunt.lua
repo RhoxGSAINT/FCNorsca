@@ -19,6 +19,10 @@ local monster_hunts_index = {
 
 local rhox_birna_completed_hunt={}
 
+
+
+
+
 local function rhox_birna_recalculate_ws_effect(character)
 	local faction = character:faction()
 	local faction_key = faction:name()
@@ -124,6 +128,68 @@ core:add_listener(
 		if character then
 			rhox_birna_recalculate_ws_effect(character)
 		end
+    end,
+    true
+)
+
+
+-----------------------------------------------------------REDO monster hunts
+rhox_birna_culture_to_monster_hunt={ --some mod might want to add it. I doubt it though
+    wh_dlc08_nor_norsca={
+        "wh_dlc08_qb_nor_monster_hunt_0",
+        "wh_dlc08_qb_nor_monster_hunt_6"
+    },
+    wh_dlc03_bst_beastmen={
+        "wh_dlc08_qb_nor_monster_hunt_1"
+    },
+    wh_main_chs_chaos={
+        "wh_dlc08_qb_nor_monster_hunt_2",
+    },
+    wh_main_grn_greenskins={
+        "wh_dlc08_qb_nor_monster_hunt_3",
+        "wh_dlc08_qb_nor_monster_hunt_4"
+    },
+    wh_dlc05_wef_wood_elves={
+        "wh_dlc08_qb_nor_monster_hunt_5"
+    },
+    wh_main_vmp_vampire_counts={
+        "wh_dlc08_qb_nor_monster_hunt_7"
+    },
+    wh2_main_hef_high_elves={
+        "wh2_dlc10_qb_nor_monster_hunt_8"
+    },
+    wh2_main_lzd_lizardmen={
+        "wh2_dlc10_qb_nor_monster_hunt_9"
+    },
+    wh2_main_def_dark_elves={
+        "wh2_dlc10_qb_nor_monster_hunt_10"
+    },
+    wh2_main_skv_skaven={
+        "wh2_dlc10_qb_nor_monster_hunt_11"
+    }
+}
+
+
+core:add_listener(
+    "rhox_birna_character_completed_battle",
+    "CharacterCompletedBattle",
+    function(context)
+        local character = context:character()
+        return character:won_battle() and character:faction():name() == sarl_faction and character:is_faction_leader()
+    end,
+    function(context)
+        local character = context:character()
+        local faction = character:faction()
+        local bonus_value = faction:bonus_values():scripted_value("rhox_birna_hunting_bonus", "value")
+        for culture, quests in pairs(rhox_birna_culture_to_monster_hunt) do
+            if cm:character_won_battle_against_culture(character, culture) then
+                local target_quest = quests[cm:random_number(#quests)]
+                if rhox_birna_completed_hunt[target_quest] and cm:model():random_percent(bonus_value) then
+                    cm:trigger_mission(faction:name(), target_quest, true)
+                    break
+                end
+            end
+        end
     end,
     true
 )
