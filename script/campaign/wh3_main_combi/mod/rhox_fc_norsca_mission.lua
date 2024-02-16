@@ -31,7 +31,7 @@ local agent_subtype_to_level_and_mission={
 }
 
 core:add_listener(
-    "hkrul_mundvard_item1_unlock",
+    "rhox_fc_norsca_qb_issuer",
     "CharacterRankUp",
     function(context)
         local character = context:character()
