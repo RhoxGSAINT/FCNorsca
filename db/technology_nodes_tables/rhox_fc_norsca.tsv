@@ -4,3 +4,15 @@ rhox_bjornling_ritual_1		wh_main_nor_bjornling	9	wh3_main_tech_ksl_1_04	nor_mil	
 rhox_bjornling_ritual_2		wh_main_nor_bjornling	9	wh3_main_tech_ksl_2_01	nor_mil	1	800	0	0			0	0	0
 rhox_bjornling_ritual_3		wh_main_nor_bjornling	9	wh3_main_tech_ksl_3_01	nor_mil	2	800	0	0			0	0	0
 rhox_bjornling_ritual_4		wh_main_nor_bjornling	9	wh3_main_tech_ksl_4_01	nor_mil	3	800	0	0			0	0	0
+rhox_sayl_kho_1		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_1	nor_mil	0	1	0	0		rhox_sayl_kho	0	0	-50
+rhox_sayl_kho_2		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_2	nor_mil	1	1	0	0		rhox_sayl_kho	0	0	-50
+rhox_sayl_kho_3		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_3	nor_mil	2	1	0	0		rhox_sayl_kho	0	0	-50
+rhox_sayl_nur_1		wh3_dlc20_nor_dolgan	0	rhox_sayl_nur_1	nor_mil	3	1	0	0		rhox_sayl_nur	0	0	-50
+rhox_sayl_nur_2		wh3_dlc20_nor_dolgan	0	rhox_sayl_nur_2	nor_mil	4	1	0	0		rhox_sayl_nur	0	0	-50
+rhox_sayl_nur_3		wh3_dlc20_nor_dolgan	0	rhox_sayl_nur_3	nor_mil	5	1	0	0		rhox_sayl_nur	0	0	-50
+rhox_sayl_sla_1		wh3_dlc20_nor_dolgan	9	rhox_sayl_sla_1	nor_mil	0	1	0	0		rhox_sayl_sla	0	0	0
+rhox_sayl_sla_2		wh3_dlc20_nor_dolgan	9	rhox_sayl_sla_2	nor_mil	1	1	0	0		rhox_sayl_sla	0	0	0
+rhox_sayl_sla_3		wh3_dlc20_nor_dolgan	9	rhox_sayl_sla_3	nor_mil	2	1	0	0		rhox_sayl_sla	0	0	0
+rhox_sayl_tze_1		wh3_dlc20_nor_dolgan	9	rhox_sayl_tze_1	nor_mil	3	1	0	0		rhox_sayl_tze	0	0	0
+rhox_sayl_tze_2		wh3_dlc20_nor_dolgan	9	rhox_sayl_tze_2	nor_mil	4	1	0	0		rhox_sayl_tze	0	0	0
+rhox_sayl_tze_3		wh3_dlc20_nor_dolgan	9	rhox_sayl_tze_3	nor_mil	5	1	0	0		rhox_sayl_tze	0	0	0

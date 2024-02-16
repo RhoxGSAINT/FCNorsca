@@ -1,5 +1,0 @@
-bonus_value_id	effect	unit_set
-#effect_bonus_value_ids_unit_sets_tables;0;db/effect_bonus_value_ids_unit_sets_tables/hkrul_drenok		
-melee_attack_mod	hkrul_drenok_ice_attack	hkrul_drenok_ice_wolves
-mod_land_movement_battle	hkrul_drenok_ice_speed	hkrul_drenok_ice_wolves
-unit_xp_mod	hkrul_drenok_xp	hkrul_drenok_frostwyrm
