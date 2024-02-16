@@ -1,0 +1,14 @@
+key	building_level	position_index	icon_name	mp_available_early	mp_available_late	info_pic	unique_index	is_civil	is_engineering	is_military	is_hidden
+#technologies_tables;7;db/technologies_tables/rhox_fc_norsca											
+rhox_sayl_kho_1	wh_main_chs_port_ruin	1	wh3_main_tech_kho_6_5	false	false	"placeholder.tga"	1630467580	false	false	true	false
+rhox_sayl_kho_2	wh_main_chs_port_ruin	1	wh3_main_tech_kho_8_7	false	false	"placeholder.tga"	1630467581	false	false	true	false
+rhox_sayl_kho_3	wh_main_chs_port_ruin	1	wh3_main_tech_kho_3_4	false	false	"placeholder.tga"	1630467582	false	false	true	false
+rhox_sayl_nur_1	wh_main_chs_port_ruin	1	wh3_main_tech_nur_5_1	false	false	"placeholder.tga"	1630467583	false	false	true	false
+rhox_sayl_nur_2	wh_main_chs_port_ruin	1	wh3_main_tech_nur_7_7	false	false	"placeholder.tga"	1630467584	false	false	true	false
+rhox_sayl_nur_3	wh_main_chs_port_ruin	1	wh3_main_tech_nur_3_3	false	false	"placeholder.tga"	1630467585	false	false	true	false
+rhox_sayl_sla_1	wh_main_chs_port_ruin	1	wh3_main_tech_sla_5_6	false	false	"placeholder.tga"	1630467586	false	false	true	false
+rhox_sayl_sla_2	wh_main_chs_port_ruin	1	wh3_main_tech_sla_5_5	false	false	"placeholder.tga"	1630467587	false	false	true	false
+rhox_sayl_sla_3	wh_main_chs_port_ruin	1	wh3_main_tech_sla_6_1	false	false	"placeholder.tga"	1630467588	false	false	true	false
+rhox_sayl_tze_1	wh_main_chs_port_ruin	1	wh3_main_tech_tze_2_7	false	false	"placeholder.tga"	1630467589	false	false	true	false
+rhox_sayl_tze_2	wh_main_chs_port_ruin	1	wh3_main_tech_tze_3_4	false	false	"placeholder.tga"	1630467590	false	false	true	false
+rhox_sayl_tze_3	wh_main_chs_port_ruin	1	wh3_main_tech_tze_0_2	false	false	"placeholder.tga"	1630467591	false	false	true	false

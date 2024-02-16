@@ -1,7 +1,0 @@
-bonus_value_id	effect	unit_set
-#effect_bonus_value_ids_unit_sets_tables;0;db/effect_bonus_value_ids_unit_sets_tables/hkrul_adella		
-melee_damage_mod_add	hkrul_adella_skeggi_ws	hkrul_skeggi
-unit_xp_mod	hkrul_adella_skeggi_recruit_rank	hkrul_skeggi
-melee_defence_mod	hkrul_adella_skeggi_md	hkrul_skeggi
-charge_add	hkrul_adella_skeggi_charge	hkrul_skeggi
-morale	hkrul_adella_skeggi_leadership	hkrul_skeggi
