@@ -1,3 +1,5 @@
+local sarl_faction ="wh_main_nor_sarl"
+
 local rhox_birna_monster_hunter_counts={}
 
 local monster_hunts_index = {
@@ -14,6 +16,8 @@ local monster_hunts_index = {
 	"monster_hunt_10",
 	"monster_hunt_11"
 };
+
+local rhox_birna_completed_hunt={}
 
 local function rhox_birna_recalculate_ws_effect(character)
 	local faction = character:faction()
@@ -76,6 +80,11 @@ core:add_listener(
 				if not rhox_birna_monster_hunter_counts[faction_key] then
 					rhox_birna_monster_hunter_counts[faction_key]=0
 				end
+				
+				if faction_key == sarl_faction then --for her faction feature
+                    rhox_birna_completed_hunt[key]=true
+				end
+				
 				rhox_birna_monster_hunter_counts[faction_key]=rhox_birna_monster_hunter_counts[faction_key]+1 
 				local character = get_character_by_subtype("hkrul_birna", faction)
 				if character then
@@ -126,6 +135,7 @@ core:add_listener(
 cm:add_saving_game_callback(
 	function(context)
 		cm:save_named_value("rhox_birna_monster_hunter_counts", rhox_birna_monster_hunter_counts, context);
+		cm:save_named_value("rhox_birna_completed_hunt", rhox_birna_completed_hunt, context);
 	end
 );
 
@@ -133,6 +143,7 @@ cm:add_loading_game_callback(
 	function(context)
 		if not cm:is_new_game() then
 			rhox_birna_monster_hunter_counts = cm:load_named_value("rhox_birna_monster_hunter_counts", rhox_birna_monster_hunter_counts, context);
+			rhox_birna_completed_hunt = cm:load_named_value("rhox_birna_completed_hunt", rhox_birna_completed_hunt, context);
 		end;
 	end
 );
