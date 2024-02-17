@@ -3,3 +3,4 @@ model	animation_set	variant	scale	actor	ignore_rider_variant_scale	vfx_filter	ba
 rhox_adella_cam_mnt_adella_horse	cam_hr1_warhorse	rhox_adella_cam_mnt_adella_horse_campaign	1.0000	wh_main_vo_culture_Horse	true	0	false
 hkrul_ulfric_mammoth	cam_lord_hq3_mammoth	hkrul_ulfric_mammoth	0.4000	vo_culture_Invalid	true	0	false
 rhox_mammoth_without_chair	cam_lord_hq3_mammoth	wh_dlc08_nor_war_mammoth_howdah	0.4000	vo_culture_Invalid	true	0	false
+kurg_akkorak_horse	cam_hr1_warhorse	hkrul_akkorak_horse	1.0000	wh_main_vo_culture_Horse	false	165	false
