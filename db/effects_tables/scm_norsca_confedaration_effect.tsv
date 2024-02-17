@@ -11,3 +11,8 @@ rhox_ulfric_confederation_effect	defence.png	450	defence.png	battle	true
 rhox_hakka_confederation_effect	charge.png	500	charge.png	battle	true
 rhox_wulfric_confederation_effect	bonus_vs_small_character.png	180	bonus_vs_small_character.png	both	true
 rhox_throgg_confederation_effect	bonus_vs_large_character.png	190	bonus_vs_large_character.png	both	true
+rhox_hroth_confederation_effect	mass.png	430	mass.png	battle	true
+rhox_volrik_confederation_effect	barrier.png	91	barrier.png	battle	true
+rhox_valbrand_confederation_effect	armour_piercing_character.png	170	armour_piercing_character.png	both	true
+rhox_beorg_confederation_effect	icon_stat_damage_base_character.png	160	icon_stat_damage_base_character.png	battle	true
+rhox_thorgar_confederation_effect	income.png	162	income.png	campaign	true

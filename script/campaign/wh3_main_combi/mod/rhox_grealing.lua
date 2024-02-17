@@ -14,7 +14,7 @@ local confederation_target_factions={
     wh_main_nor_sarl={objective="SCRIPTED",condition={"script_key rhox_graeling_hunt","override_text mission_text_text_rhox_graeling_hunt"}},
     wh_main_nor_varg={db_type=true},
     wh_main_nor_skaeling={db_type=true},
-    --wh2_main_nor_skeggi={db_type=true},
+    wh2_main_nor_skeggi={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"faction wh2_main_lzd_hexoatl","total 1"}},
     --mixer_nor_fjordlings
 }
 
