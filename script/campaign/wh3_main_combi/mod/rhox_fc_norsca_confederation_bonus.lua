@@ -56,8 +56,37 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		effect="wh_main_effect_character_stat_bonus_vs_large",
 		scope="character_to_force_own",
 		value="1",
+	},-----below are LCCP ones
+	hkrul_valbrand={
+		effect="wh_main_effect_character_stat_weapon_strength_ap_damage_mult",
+		scope="character_to_force_own",
+		value="1",
+	},
+	hkrul_volrik={
+		effect="wh3_main_effect_battle_barrier_health_mod",
+		scope="character_to_force_own",
+		value="2",
+	},
+	hkrul_thorgar={
+		effect="wh_main_effect_economy_gdp_mod_all",
+		scope="character_to_region_own_provincewide",
+		value="2",
+	},
+	hkrul_vroth={
+		effect="wh3_main_effect_force_stat_unit_mass_percentage_mod",
+		scope="character_to_force_own",
+		value="2",
+	},
+	hkrul_beorg={
+		effect="wh_main_effect_character_stat_weapon_strength_base_mult",
+		scope="character_to_force_own",
+		value="2",
 	},
 }
+
+
+
+
 
 
 

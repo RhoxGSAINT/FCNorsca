@@ -1,0 +1,5 @@
+unit	military_group
+#units_to_groupings_military_permissions_tables;0;db/units_to_groupings_military_permissions_tables/scm_norsca_regional	
+hkrul_skeggi_giant_ror	wh_main_group_norsca
+hkrul_sarl_hunters	wh_main_group_norsca
+wh3_main_monster_feral_ice_bears	wh_main_group_norsca

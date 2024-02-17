@@ -11,3 +11,8 @@ effects_description_rhox_ulfric_confederation_effect	Melee defence: %+n for each
 effects_description_rhox_hakka_confederation_effect	Charge bonus: %+n% for each confederated Norscan tribe	false
 effects_description_rhox_wulfric_confederation_effect	Bonus vs Infantry: %+n for each confederated Norscan tribe	false
 effects_description_rhox_throgg_confederation_effect	Bonus vs Large: %+n for each confederated Norscan tribe	false
+effects_description_rhox_hroth_confederation_effect	Unit mass: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_volrik_confederation_effect	Barrier hit points: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_valbrand_confederation_effect	Armour-piercing weapon damage: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_beorg_confederation_effect	Base weapon damage: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_thorgar_confederation_effect	Income from all buildings: %+n% for each confederated Norscan tribe	false

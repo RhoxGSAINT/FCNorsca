@@ -19,4 +19,4 @@ rhox_graeling_mission_rhox_nor_firebrand_slavers	SCRIPTED			emp/generic	rom_even
 rhox_graeling_mission_rhox_nor_ravenblessed	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		945	597	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_rhox_nor_khazags	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		847	571	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_mixer_nur_rotbloods	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		496	616	false	false	0.0000		false	Success! You have achieved one of your goals.	false
-rhox_graeling_mission_wh2_main_nor_skeggi	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		84	396	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_graeling_mission_wh2_main_nor_skeggi	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
