@@ -30,3 +30,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_einar_fury	true	false	false	hkrul_einar_fury
 1	hkrul_kolsvein_sword	true	false	false	hkrul_kolsvein_sword
 1	hkrul_rafn_axe	true	false	false	hkrul_rafn_axe
+1	hkrul_sayl_mist	true	true	false	hkrul_sayl_mist
+1	hkrul_nightmaw_wither	false	false	true	hkrul_nightmaw_wither
+1	hkrul_sayl_teeth	true	true	false	hkrul_sayl_teeth
+1	hkrul_sayl_staff	true	false	false	hkrul_sayl_staff

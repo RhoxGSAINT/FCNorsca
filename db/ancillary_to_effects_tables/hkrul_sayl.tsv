@@ -1,3 +1,7 @@
 ancillary	effect	effect_scope	value
 #ancillary_to_effects_tables;0;db/ancillary_to_effects_tables/hkrul_sayl			
 hkrul_sayl_staff	hkrul_sayl_staff	character_to_character_own	1.0000
+hkrul_sayl_teeth	hkrul_sayl_teeth	character_to_character_own	1.0000
+hkrul_sayl_staff	wh_main_effect_character_stat_enable_poison_attacks	character_to_character_own	1.0000
+hkrul_sayl_teeth	wh3_main_effect_winds_of_magic_pool_cap	character_to_force_own_unseen	10.0000
+hkrul_sayl_teeth	wh2_dlc14_effect_magic_cost_all_lores_percentage	character_to_character_own	-10.0000
