@@ -2,3 +2,21 @@ key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident
 #incidents_tables;6;db/incidents_tables/rhox_fc_norsca								
 rhox_fc_norsca_swyrd_incident	false	messenger	false	Event		false		0.0000
 rhox_fc_norsca_swyrd_leaves	false	messenger	false	Event		false		0.0000
+rhox_graeling_mission_wh_main_nor_skaeling	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh3_dlc20_nor_dolgan	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh3_dlc20_nor_kul	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_dlc08_nor_vanaheimlings	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_main_nor_aesling	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_main_nor_baersonling	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_main_nor_bjornling	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_main_nor_sarl	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_main_nor_varg	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_mixer_nor_fjordlings	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_dlc08_nor_norsca	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_dlc08_nor_wintertooth	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_cr_nor_tokmars	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_rhox_nor_firebrand_slavers	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_rhox_nor_ravenblessed	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_rhox_nor_khazags	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_mixer_nur_rotbloods	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh2_main_nor_skeggi	false	faction	false	Event		false		0.0000

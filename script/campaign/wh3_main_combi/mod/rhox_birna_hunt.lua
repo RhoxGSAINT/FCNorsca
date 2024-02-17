@@ -89,6 +89,11 @@ core:add_listener(
                     rhox_birna_completed_hunt[key]=true
 				end
 				
+				if faction_key == "wh_main_nor_graeling" and not cm:get_saved_value("rhox_graeling_hunt_mission_completed") then
+                    cm:set_saved_value("rhox_graeling_hunt_mission_completed", true)
+                    cm:complete_scripted_mission_objective("wh_main_nor_graeling", "rhox_graeling_mission_wh_main_nor_sarl", "rhox_graeling_hunt", true)
+				end
+				
 				rhox_birna_monster_hunter_counts[faction_key]=rhox_birna_monster_hunter_counts[faction_key]+1 
 				local character = get_character_by_subtype("hkrul_birna", faction)
 				if character then
