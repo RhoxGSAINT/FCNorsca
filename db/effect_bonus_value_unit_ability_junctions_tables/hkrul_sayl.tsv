@@ -2,3 +2,5 @@ effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_sayl		
 hkrul_sayl_mist	enable	hkrul_sayl_mist
 hkrul_summon_nightmaw	enable	hkrul_summon_nightmaw
+hkrul_sayl_teeth	enable	hkrul_sayl_teeth
+hkrul_sayl_staff	enable	hkrul_sayl_staff

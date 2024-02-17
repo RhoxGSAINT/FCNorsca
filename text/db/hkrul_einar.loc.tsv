@@ -21,7 +21,7 @@ character_skills_localised_name_hkrul_einar_special_1_4	Baersonling Marauders	tr
 agent_subtypes_onscreen_name_override_hkrul_einar	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_einar		false
 effects_description_hkrul_einar_sword	Ability: "Fangwyrm''	true
-effects_description_hkrul_einar_lord_devote	Marauder Chieftains may devote themselves to Tzeentch, becoming powerful (....)	true
+effects_description_hkrul_einar_lord_devote	Marauder Chieftains may devote themselves to Tzeentch, becoming powerful Chaos Lords of Tzeentch	true
 effects_description_hkrul_einar_devote	Dedicated to Tzeentch: May only devote himself to Tzeentch	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_einar	Champion No-More	true
 character_trait_levels_colour_text_hkrul_defeated_trait_einar	You should have known antagonists never end up well..	true

@@ -21,7 +21,6 @@ character_skills_localised_name_hkrul_sayl_special_1_4	Warp Conduit Mastery	true
 agent_subtypes_onscreen_name_override_hkrul_sayl	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_sayl		false
 effects_description_hkrul_sayl_mist	Ability: "Traitor’s Mist''	true
-effects_description_hkrul_sayl_staff	Ability: "Viperous Staff''	true
 effects_description_hkrul_summon_nightmaw	Ability: "Summon Nightmaw''	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_sayl	The Ultimate Deceit	true
 character_trait_levels_colour_text_hkrul_defeated_trait_sayl	I wonder how you will bargain your way out of this one, Sayl..	true
@@ -39,13 +38,14 @@ unit_abilities_onscreen_name_hkrul_sayl_mist	Traitor’s Mist	true
 unit_abilities_onscreen_name_hkrul_summon_nightmaw	Nightmaw	false
 unit_abilities_tooltip_text_hkrul_summon_nightmaw	Using chaotic magic Sayl betrayed nine wizards and bound them together, forming a disfigured monstrosity destined to serve Sayl: Nightmaw.	false
 unit_abilities_additional_ui_effects_localised_text_hkrul_summon_nightmaw	Spawns Nightmaw at the start of the battle	false
-unit_abilities_tooltip_text_hkrul_sayl_staff	The Viperous Staff is a foul heirloom of the Dolgan tribe. This dark-iron staff is entwined with serpents which come alive at the wielder's command	true
+unit_abilities_tooltip_text_hkrul_sayl_staff	The staff is entwined with serpents which come alive at Sayl's command, venom dripping from their fangs as they strike with speed and power to defend their master.	true
 unit_abilities_onscreen_name_hkrul_sayl_staff	Viperous Staff	true
+effects_description_hkrul_sayl_staff	Ability: "Viperous Staff"	false
 ancillaries_colour_text_hkrul_sayl_teeth	This corpse-skin bag contains numerous, sigil-etched teeth and fangs Sayl has torn from the skulls of the various wizards he has defeated in his unholy career, not least of all those of his first master, Schalkain. Should his magic go awry, Sayl may hurl a handful of the teeth as part of a treacherous curse against an ally to divert the wrath of the Winds of Magic.	true
 ancillaries_onscreen_name_hkrul_sayl_teeth	Schalkain's Teeth	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_sayl		false
-ancillary_sets_name_hkrul_sayl_set	PLACEHOLDER	false
-ancillary_sets_description_hkrul_sayl_set	PLACEHOLDER	false
+ancillary_sets_name_hkrul_sayl_set	The Faithless	false
+ancillary_sets_description_hkrul_sayl_set	Sayl's paranoia and hubris that he has never himself sworn allegiance to any single Ruinous Power, but rather paid lip service to many, and pursued pacts and bargains with many petty Chaos godlings and Daemons, betraying each in turn when expedient, earning him the epithet of "the Faithless."	false
 units_custom_battle_mounts_localised_description_hkrul_saylhkrul_sayl_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
 units_custom_battle_mounts_mount_name_hkrul_saylhkrul_sayl_chariot	Marauder Chariot	false
 units_custom_battle_mounts_localised_description_hkrul_saylhkrul_sayl_mammoth	Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.	false
@@ -141,3 +141,8 @@ effects_description_rhox_sayl_effect_enable_soporific_musk_chosen	Enables Sopori
 effects_description_rhox_sayl_effect_ability_gate_of_tzeentch_chosen	Ability: "Gate of Tzeentch" for Chosen of Tzeentch units	false
 effects_description_rhox_sayl_effect_ability_hidden_in_time_chosen	Ability: "Hidden in Time" for Chosen of Tzeentch units	false
 effects_description_rhox_sayl_effect_warpflame_chosen	Enables Warpflame attacks for Chosen of Tzeentch	false
+unit_abilities_tooltip_text_hkrul_nightmaw_wither	Nightmaw is some form of shadow-kin as it bleeds darkness and is surrounded by a swirling vortex of dark and shadowed forms, causing foes to wither as they stand.	true
+unit_abilities_onscreen_name_hkrul_nightmaw_wither	Vortex of Flesh	true
+effects_description_hkrul_sayl_teeth	Ability: "Schalkain's Teeth"	false
+unit_abilities_tooltip_text_hkrul_sayl_teeth	Sayl may hurl a handful of the teeth as part of a treacherous curse against an ally to divert the wrath of the Winds of Magic.	true
+unit_abilities_onscreen_name_hkrul_sayl_teeth	Schalkain's Teeth	true

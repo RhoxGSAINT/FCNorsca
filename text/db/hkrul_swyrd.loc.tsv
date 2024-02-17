@@ -27,3 +27,5 @@ incidents_localised_description_rhox_fc_norsca_swyrd_incident	In the dire afterm
 incidents_localised_title_rhox_fc_norsca_swyrd_incident	The Ravenswyrd emerges	false
 incidents_localised_description_rhox_fc_norsca_swyrd_leaves	After the battle, the Ravenswyrd leaves your faction by turning into mist. Maybe one day, he will return if your faction falls into a dire situation again.	false
 incidents_localised_title_rhox_fc_norsca_swyrd_leaves	The Ravenswyrd leaves	false
+unit_abilities_tooltip_text_hkrul_swyrd_axe	Blessed by the Ancient God entwined with the faiths of the old Nordic tribes, the Ravenswyrd unleases a destructive thunderstorm upon the battlefield.	false
+unit_abilities_onscreen_name_hkrul_swyrd_axe	Tor's Thunderstorm	false
