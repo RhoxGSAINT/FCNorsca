@@ -2,7 +2,7 @@ uniform_name	filename	battle_filename	campaign_porthole_filename	campaign_politi
 #agent_uniforms_tables;10;db/agent_uniforms_tables/scm_norsca					
 hkrul_adella	hkrul_adella	hkrul_adella	hkrul_adella		
 hkrul_soren	hkrul_soren_campaign	hkrul_soren	hkrul_soren_campaign		
-hkrul_akkorak	hkrul_akkorak	hkrul_akkorak	hkrul_akkorak		
+hkrul_akkorak	hkrul_akkorak_campaign	hkrul_akkorak	hkrul_akkorak_campaign		
 hkrul_birna	hkrul_birna	hkrul_birna	hkrul_birna		
 hkrul_drenok	hkrul_drenok	hkrul_drenok	hkrul_drenok		
 hkrul_drenok_rider	hkrul_drenok_rider	hkrul_drenok_rider	hkrul_drenok		

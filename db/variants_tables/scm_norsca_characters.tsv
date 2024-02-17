@@ -4,7 +4,6 @@ hkrul_adella		hkrul_adella		1.0000	1.1800	0.0000
 hkrul_adella_campaign		hkrul_adella_campaign		1.0000	1.1800	0.0000	
 hkrul_soren		hkrul_soren		1.0000	1.1600	0.0000	
 hkrul_soren_campaign		hkrul_soren_campaign		1.0000	1.1600	0.0000	
-hkrul_akkorak		hkrul_akkorak		1.0000	1.1000	0.0000	
 hkrul_drenok		hkrul_drenok		1.0000	1.1000	0.0000	
 hkrul_drenok_rider		hkrul_drenok_rider		1.0000	1.1000	0.0000	
 hkrul_einar		hkrul_einar		1.0000	1.1000	0.0000	
@@ -23,3 +22,6 @@ hkrul_hakka		hkrul_hakka		1.0000	1.1600	0.0000
 hkrul_oda		hkrul_oda		1.0000	1.1400	0.0000	
 hkrul_hrothgar		kysaro_hrothgar		1.0000	1.1500	0.0000	
 hkrul_rafn		phy_rafn		1.0000	0.8300	0.0000	
+hkrul_akkorak		kurg_akkorak		1.0000	1.0000	0.0000	
+hkrul_akkorak_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	kurg_akkorak_horse		1.1500	1.1500	0.0500	
+hkrul_akkorak_campaign		kurg_akkorak_campaign		1.0000	1.0000	0.0000	

@@ -164,13 +164,13 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
-    --[[--in development
+
     wh3_dlc20_nor_kul ={
         leader={
             subtype="hkrul_akkorak",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
             x=922,
-            y=847,
+            y=878,
             forename ="names_name_3670700351",
             familiyname ="names_name_3670700350",
         },	
@@ -183,6 +183,9 @@ local rhox_faction_list={
         pic=800,
         faction_trait="hkrul_akkorak_faction_trait",
         kill_previous_leader=true,
+        enemy={
+            key="wh3_main_sla_exquisite_pain",
+        },
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -191,7 +194,6 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
-    --]]
     wh_dlc08_nor_vanaheimlings ={
         leader={
             subtype="hkrul_drenok",
