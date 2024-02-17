@@ -2,3 +2,21 @@ component	icon	state	sort_order
 #campaign_payload_ui_details_tables;2;db/campaign_payload_ui_details_tables/rhox_fc_norsca			
 rhox_adella_landmark	ui/campaign ui/effect_bundles/siege_building_health.png	positive	0
 rhox_fc_norsca_protect_dark_fortress	ui/skins/default/icon_vassal.png	negative	0
+rhox_graeling_payload_wh2_main_nor_skeggi	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh3_dlc20_nor_dolgan	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh3_dlc20_nor_kul	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_dlc08_nor_vanaheimlings	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_main_nor_aesling	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_main_nor_baersonling	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_main_nor_bjornling	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_main_nor_sarl	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_main_nor_varg	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_mixer_nor_fjordlings	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_dlc08_nor_norsca	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_dlc08_nor_wintertooth	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_cr_nor_tokmars	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_rhox_nor_firebrand_slavers	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_rhox_nor_ravenblessed	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_rhox_nor_khazags	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_mixer_nur_rotbloods	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_graeling_payload_wh_main_nor_skaeling	ui/campaign ui/effect_bundles/confederation.png	positive	0
