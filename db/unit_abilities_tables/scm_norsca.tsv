@@ -39,3 +39,4 @@ hkrul_nightmaw_wither	false	hkrul_nightmaw_wither		wh_type_area_of_direct_damage
 hkrul_sayl_teeth	true	hkrul_sayl_teeth		wh_type_augment_of_the_winds		wh_main_anc_group_rare	true	false	active		false
 hkrul_sayl_staff	true	hkrul_sayl_staff		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_swyrd_axe	false	hkrul_swyrd_axe		wh_type_bombardment		wh_main_anc_group_unique	true	false	bound		false
+hkrul_akkorak_horse	true	hkrul_akkorak_horse		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false

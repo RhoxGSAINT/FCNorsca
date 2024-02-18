@@ -8,7 +8,7 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh2_main_nor_skeggi")
 			
 			mixer_change_lord_name("1176817909", "hkrul_sayl")
-			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_dolgan", {"wh_main_nor_inf_chaos_marauders_0","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_dolgan", {"wh_dlc08_nor_mon_war_mammoth_0","wh_dlc08_nor_inf_marauder_hunters_0","wh_main_nor_inf_chaos_marauders_1"})
 			mixer_add_faction_to_major_faction_list("wh3_dlc20_nor_dolgan")
 			
 			mixer_change_lord_name("1503698398", "hkrul_drenok")
@@ -42,7 +42,7 @@ core:add_ui_created_callback(
 			
 			
 			mixer_change_lord_name("1523023879", "hkrul_akkorak")
-			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_kul", {"wh_dlc08_nor_inf_marauder_champions_1","wh_dlc08_nor_inf_marauder_hunters_0","wh_dlc08_nor_mon_war_mammoth_0","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_kul", {"wh_main_chs_cav_chaos_knights_0","wh_main_chs_cav_chaos_knights_1","wh_main_nor_cav_marauder_horsemen_0","wh_dlc08_nor_cav_marauder_horsemasters_0"})
 			mixer_add_faction_to_major_faction_list("wh3_dlc20_nor_kul")
 		end		
 	end

@@ -2,3 +2,16 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_hakka					
 			hkrul_hakka	all_non_chs	false
 			hkrul_hakka	nor_all	false
+			wh_dlc08_nor_cav_marauder_horsemasters_0	hkrul_akkorak_horse	false
+			wh_main_nor_cav_marauder_horsemen_0	hkrul_akkorak_horse	false
+			wh_main_nor_cav_marauder_horsemen_1	hkrul_akkorak_horse	false
+			wh_main_chs_cav_chaos_knights_0	hkrul_akkorak_horse	false
+			wh_main_chs_cav_chaos_knights_1	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_mkho	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_mkho_lances	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_mnur	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_mnur_lances	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_msla	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_msla_lances	hkrul_akkorak_horse	false
+			wh3_dlc20_chs_cav_chaos_knights_mtze_lances	hkrul_akkorak_horse	false
+			wh3_main_tze_cav_chaos_knights_0	hkrul_akkorak_horse	false
