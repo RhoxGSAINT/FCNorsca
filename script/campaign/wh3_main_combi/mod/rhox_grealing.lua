@@ -181,7 +181,7 @@ core:add_listener(
             return false
         end
 
-        if character:faction():name() ~= graeling_faction then
+        if character:faction():name() ~= graeling_faction or character:character_subtype_key() ~= "hkrul_harald" then
             return false
         end
 

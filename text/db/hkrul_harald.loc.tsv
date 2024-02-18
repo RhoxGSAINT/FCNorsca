@@ -41,12 +41,12 @@ effect_bundles_localised_description_hkrul_harald_faction_trait	He who seeks to 
 effect_bundles_localised_title_hkrul_harald_faction_trait	The Great Unifier	false
 campaign_localised_strings_string_rhox_graeling_panel_open_button	Unite the Norsca||Show your prowess and unite the Norscan tribes	false
 campaign_localised_strings_string_rhox_graeling_piece_tab	Unite the Norsca	false
-mission_text_text_rhox_graeling_ll_0	Defeat 5 Legendary Lords\\n\\n0 Legendary Lords defeated	false
-mission_text_text_rhox_graeling_ll_1	Defeat 5 Legendary Lords\\n\\n1 Legendary Lords defeated	false
-mission_text_text_rhox_graeling_ll_2	Defeat 5 Legendary Lords\\n\\n2 Legendary Lords defeated	false
-mission_text_text_rhox_graeling_ll_3	Defeat 5 Legendary Lords\\n\\n3 Legendary Lords defeated	false
-mission_text_text_rhox_graeling_ll_4	Defeat 5 Legendary Lords\\n\\n4 Legendary Lords defeated	false
-mission_text_text_rhox_graeling_ll_5	Defeat 5 Legendary Lords\\n\\n5 Legendary Lords defeated	false
+mission_text_text_rhox_graeling_ll_0	Defeat 5 Legendary Lords with Harlad\\n\\n0 Legendary Lords defeated	false
+mission_text_text_rhox_graeling_ll_1	Defeat 5 Legendary Lords with Harlad\\n\\n1 Legendary Lords defeated	false
+mission_text_text_rhox_graeling_ll_2	Defeat 5 Legendary Lords with Harlad\\n\\n2 Legendary Lords defeated	false
+mission_text_text_rhox_graeling_ll_3	Defeat 5 Legendary Lords with Harlad\\n\\n3 Legendary Lords defeated	false
+mission_text_text_rhox_graeling_ll_4	Defeat 5 Legendary Lords with Harlad\\n\\n4 Legendary Lords defeated	false
+mission_text_text_rhox_graeling_ll_5	Defeat 5 Legendary Lords with Harlad\\n\\n5 Legendary Lords defeated	false
 mission_text_text_rhox_graeling_hunt	Finish any monster hunts	false
 uied_component_texts_localised_string_StateText_rhox_graeling_panel_title	Unite the Norscans	false
 uied_component_texts_localised_string_ComponentTooltip_rhox_graeling_panel_open_button	Unite the Norscans||View mission locations Harald need to complete to unite his tribes	false
@@ -140,3 +140,4 @@ incidents_localised_description_rhox_graeling_mission_mixer_nur_rotbloods	Confed
 incidents_localised_title_rhox_graeling_mission_mixer_nur_rotbloods	Confederation formed with Ursfjordings	false
 incidents_localised_description_rhox_graeling_mission_wh2_main_nor_skeggi	Confederation formed with Skeggi	false
 incidents_localised_title_rhox_graeling_mission_wh2_main_nor_skeggi	Confederation formed with Skeggi	false
+effects_description_rhox_harald_feature_dummy	Fulfil individual tribe's requirements to unite the Norscans	false
