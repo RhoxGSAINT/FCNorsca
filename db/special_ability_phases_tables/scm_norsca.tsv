@@ -34,3 +34,4 @@ hkrul_sayl_mist	28.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	
 hkrul_nightmaw_wither	-1.0000	negative		false	false	false	0.0000	0.0000	0.0000	1.0000	8	4	false	0.0000	0.0000	false	0		wh_main_generic_hp_damage_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_sayl_teeth	20.0000	positive		false	false	false	0.0000	0.0000	0.0000	1.0000	36	1	false	0.9000	0.7500	false	0		wh2_main_spell_dark_magic_power_of_darkness	wh_main_spell_dark_magic_power_of_darkness	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_sayl_staff	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_akkorak_horse	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

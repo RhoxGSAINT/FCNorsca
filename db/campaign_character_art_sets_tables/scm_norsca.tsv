@@ -2,7 +2,7 @@ art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype
 #campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/scm_norsca								
 hkrul_adella	general				false	true	hkrul_adella	1.1800
 hkrul_soren	wizard				false	true	hkrul_soren	1.1300
-hkrul_akkorak	general				false	true	hkrul_akkorak	1.1000
+hkrul_akkorak	general				false	true	hkrul_akkorak	1.1200
 hkrul_birna	general				false	true	hkrul_birna	1.1400
 hkrul_drenok	general				false	true	hkrul_drenok	1.0800
 hkrul_einar	general				false	true	hkrul_einar	1.1400
