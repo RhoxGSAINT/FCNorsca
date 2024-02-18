@@ -1,8 +1,11 @@
 key	text	tooltip
-#Loc;1;text/db/rhox_fc_norsca_mission.loc		
+#Loc;1;text/db/rhox_fc_norsca_mission_incident.loc		
 missions_localised_title_rhox_adella_landmark_mission	The Bjornling King	false
 missions_localised_description_rhox_adella_landmark_mission	The long parished Erik Losteriksson and his great son, Erik the Red first set sail to Lustria from the harsh cold wastes of Norsca. They founded the now buzzling stronghold of Skeggi. Both of Bjornling decent, a pilgrimage in their name to their ancenstral homeland would allow us to construct a Great Hall in their name to solidify Skeggi's position as one of the Great Norscan Tribes.	false
 rhox_fc_norsca_protect_dark_fortress	Conquer these regions and never let Warriors of Chaos faction occupy it	true
 missions_localised_title_rhox_fc_norsca_protect_dark_fortress	Protect Dark Fortress	false
 missions_localised_description_rhox_fc_norsca_protect_dark_fortress	[PH]There is a dark pact that forces us to become slaves forever. Prevent it from happening	false
 campaign_payload_ui_details_description_rhox_fc_norsca_protect_dark_fortress	[PH]Your faction will become unbreakable vassal of the Warriors of the Chaos faction whenever they occupy the Dark Fortress	false
+incidents_button_text_rhox_fc_norsca_darkfortress	Continue	false
+incidents_localised_description_rhox_fc_norsca_darkfortress	[PH]There is a dark pact that forces us to become slaves forever. Prevent it from happening	false
+incidents_localised_title_rhox_fc_norsca_darkfortress	Protect Dark Fortress	false

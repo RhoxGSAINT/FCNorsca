@@ -24,6 +24,8 @@ local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(factio
         teleport_node_key="rhox_fc_norsca_dark_fortress_teleport_iee_"
     end
     
+    
+    
     local mm = mission_manager:new(faction_key, "rhox_fc_norsca_protect_dark_fortress")
     mm:add_new_objective("OWN_N_REGIONS_INCLUDING")
     
@@ -42,6 +44,22 @@ local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(factio
     --mm:add_condition("override_text rhox_fc_norsca_protect_dark_fortress")
     mm:add_payload("text_display rhox_fc_norsca_protect_dark_fortress");
     mm:trigger()
+    
+    
+    local incident_builder = cm:create_incident_builder("rhox_fc_norsca_darkfortress")
+    core:add_listener(
+        "rhox_fc_norsca_dark_fortress_incident",
+        "ScriptEventIntroCutsceneFinished",
+        true,
+        function(context)
+            cm:callback(function() cm:launch_custom_incident_from_builder(incident_builder, cm:get_faction(faction_key)) end, 0.5)
+        end,
+        false
+    )
+    
+    
+    
+    --cm:callback(function() cm:launch_custom_incident_from_builder(incident_builder, cm:get_faction(faction_key)) end, 5);
 end
 
 local function rhox_transfer_region(region_key, faction_key)

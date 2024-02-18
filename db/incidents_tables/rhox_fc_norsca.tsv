@@ -20,3 +20,4 @@ rhox_graeling_mission_rhox_nor_ravenblessed	false	faction	false	Event		false		0.
 rhox_graeling_mission_rhox_nor_khazags	false	faction	false	Event		false		0.0000
 rhox_graeling_mission_mixer_nur_rotbloods	false	faction	false	Event		false		0.0000
 rhox_graeling_mission_wh2_main_nor_skeggi	false	faction	false	Event		false		0.0000
+rhox_fc_norsca_darkfortress	false	defeat	false	Event		true		0.0000
