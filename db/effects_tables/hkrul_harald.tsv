@@ -4,3 +4,4 @@ hkrul_harald_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_harald_fear_vs_norsca	attribute_causes_terror.png	2	attribute_causes_terror.png	battle	true
 hkrul_harald_skin_wolves_bonus_vs_large	bonus_vs_large.png	1	bonus_vs_large.png	battle	true
 hkrul_harald_beserker_melee_damage	weapon_damage.png	2	weapon_damage.png	battle	true
+rhox_harald_feature_dummy	confederation.png	1	confederation.png	campaign	true
