@@ -180,7 +180,7 @@ core:add_listener(
     "CharacterCompletedBattle",
     function(context)
         local character = context:character()
-        return character:won_battle() and character:faction():name() == sarl_faction and character:is_faction_leader()
+        return character:won_battle() and character:faction():name() == sarl_faction and character:is_faction_leader() and character:faction():is_human() --mission is only for humans
     end,
     function(context)
         local character = context:character()
