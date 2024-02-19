@@ -1,6 +1,0 @@
-key	building	unit	XP	conditions	faction	enabled
-#building_units_allowed_tables;4;db/building_units_allowed_tables/rhox_adella_temp						
-2133028000	wh_main_nor_settlement_major_1	rhox_adella_lzd_mon_carnosaur_kho	0	0		false
-2133028001	wh_main_nor_settlement_major_1	rhox_adella_lzd_mon_carnosaur_nur	0	0		false
-2133028002	wh_main_nor_settlement_major_1	rhox_adella_lzd_mon_carnosaur_sla	0	0		false
-2133028003	wh_main_nor_settlement_major_1	rhox_adella_lzd_mon_carnosaur_tze	0	0		false
