@@ -40,3 +40,5 @@ unit_abilities_tooltip_text_hkrul_akkorak_horse	The chaos riders of the Kul are 
 unit_abilities_onscreen_name_hkrul_akkorak_horse	Riders of the Kul	true
 effects_description_hkrul_akkorak_horse_xp	Recruit rank: %+n for Horseback units	true
 effects_description_hkrul_akkorak_horse_global	Global recruitment duration: %+n turns for Horseback units	true
+effects_description_hkrul_akkorak_horse_melee_attack	Melee attack: %+n for Horseback units	false
+effects_description_hkrul_akkorak_horse_morale	Leadership: %+n for Horseback units	false

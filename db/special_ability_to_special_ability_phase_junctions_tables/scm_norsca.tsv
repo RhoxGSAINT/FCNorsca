@@ -35,3 +35,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_sayl_teeth	true	true	false	hkrul_sayl_teeth
 1	hkrul_sayl_staff	true	false	false	hkrul_sayl_staff
 1	hkrul_akkorak_horse	true	false	false	hkrul_akkorak_horse
+1	hkrul_swyrd_helm	true	false	false	hkrul_swyrd_helm
