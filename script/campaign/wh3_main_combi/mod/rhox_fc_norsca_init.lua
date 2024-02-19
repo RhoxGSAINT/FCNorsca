@@ -205,8 +205,41 @@ local rhox_faction_list={
             key="wh3_main_sla_exquisite_pain",
         },
         additional = function(faction, faction_key)
+            local function rhox_add_faction_akkorak_pool_units (faction_obj, unit_group)
+                for i, v in pairs(unit_group) do
+                    cm:add_unit_to_faction_mercenary_pool(
+                        faction_obj,
+                        v[1], -- key
+                        v[2], -- recruitment source
+                        v[3], -- count
+                        v[4], --replen chance
+                        v[5], -- max units
+                        0, -- max per turn
+                        "",	--faction restriction
+                        "",	--subculture restriction
+                        "",	--tech restriction
+                        false, --partial
+                        "rhox_akkorak_"..v[1]
+                    );
+                end	
+            end
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+            local rhox_akkorak_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_dlc20_chs_cav_chaos_knights_mkho", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mkho_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_main_tze_cav_chaos_knights_0", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mtze_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mnur", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mnur_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_msla", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_msla_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh_main_chs_cav_chaos_knights_0", "daemonic_summoning_belakor", 1, 0, 20},
+                    {"wh_main_chs_cav_chaos_knights_1", "daemonic_summoning_belakor", 1, 0, 20},
+            }
+            
+            rhox_add_faction_akkorak_pool_units(faction, rhox_akkorak_units)
 
         end,
         first_tick = function(faction, faction_key) 
