@@ -29,3 +29,5 @@ incidents_localised_description_rhox_fc_norsca_swyrd_leaves	After the battle, th
 incidents_localised_title_rhox_fc_norsca_swyrd_leaves	The Ravenswyrd leaves	false
 unit_abilities_tooltip_text_hkrul_swyrd_axe	Blessed by the Ancient God entwined with the faiths of the old Nordic tribes, the Ravenswyrd unleases a destructive thunderstorm upon the battlefield.	false
 unit_abilities_onscreen_name_hkrul_swyrd_axe	Tor's Thunderstorm	false
+unit_abilities_onscreen_name_hkrul_swyrd_helm	Ancient's Blessing	false
+unit_abilities_tooltip_text_hkrul_swyrd_helm	The Ravenswyrd is blessed by Gods long lost to time, they're essence still lingering on as he wades through frontlines.	false

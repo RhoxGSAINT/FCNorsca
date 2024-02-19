@@ -4,3 +4,5 @@ hkrul_akkorak_spear	item_ability.png	300	item_ability.png	battle	true
 hkrul_akkorak_horse	item_ability.png	300	item_ability.png	battle	true
 hkrul_akkorak_horse_xp	experience.png	298	experience.png	campaign	true
 hkrul_akkorak_horse_global	turns.png	300	turns.png	campaign	false
+hkrul_akkorak_horse_melee_attack	melee.png	298	melee.png	battle	true
+hkrul_akkorak_horse_morale	morale.png	300	morale.png	battle	true

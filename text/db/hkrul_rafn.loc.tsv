@@ -2,7 +2,7 @@ key	text	tooltip
 #Loc;1;text/db/hkrul_rafn.loc		
 names_name_7410711832	of Vinnskor	false
 names_name_7410711833	Rafn	false
-character_skills_localised_description_innate_hkrul_rafn	Son of 	false
+character_skills_localised_description_innate_hkrul_rafn	Rafn was fed nothing but raw meat as a child, causing him to grow to unnatural sizes - even for a Norscan.	false
 character_skills_localised_name_innate_hkrul_rafn	Son of Oflati	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_rafn	Rafn of Vinnskor	false
 agent_subtypes_description_text_override_hkrul_rafn	Legendary Hero	false

@@ -15,3 +15,4 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh3_dlc20_chs_cav_chaos_knights_msla_lances	hkrul_akkorak_horse	false
 			wh3_dlc20_chs_cav_chaos_knights_mtze_lances	hkrul_akkorak_horse	false
 			wh3_main_tze_cav_chaos_knights_0	hkrul_akkorak_horse	false
+			hkrul_akkorak	hkrul_akkorak_horse	false
