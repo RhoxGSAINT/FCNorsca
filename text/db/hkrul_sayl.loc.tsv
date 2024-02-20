@@ -60,17 +60,17 @@ ancillaries_colour_text_hkrul_sayl_mammoth	Tainted and savage they may be, but t
 ancillaries_onscreen_name_hkrul_sayl_mammoth	War Mammoth	false
 land_units_onscreen_name_hkrul_sayl_chariot	Sayl the Faithless	false
 land_units_onscreen_name_hkrul_sayl_mammoth	Sayl the Faithless	false
-effect_bundles_localised_description_hkrul_sayl_faction_trait		false
-effect_bundles_localised_title_hkrul_sayl_faction_trait		false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho_dualweapons	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze_halberds	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-rituals_description_rhox_sayl_ritual	Perform the ritual to trick the gods and gain access to Chosens. The reward you can get will increase if your favour to that god is bigger than 10	false
+effect_bundles_localised_description_hkrul_sayl_faction_trait	The master of betrayal, guile and treachery leads his Dolgan Tribe in to realms unknown.	false
+effect_bundles_localised_title_hkrul_sayl_faction_trait	Twisted Seer of the Wastes	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho_dualweapons	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze_halberds	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
+rituals_description_rhox_sayl_ritual	Perform the ritual to trick the Cods and gain access to powerful Chosen units. The rewards you recieve will increase if your favour to any God is higher than 10.	false
 rituals_display_name_rhox_sayl_ritual	Sayl's Ritual	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilemmaFIRST	Khorne	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaFIRST	Khorne	false
@@ -80,54 +80,54 @@ cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilem
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaTHIRD	Nurgle	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilemmaFOURTH	Slaanesh	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaFOURTH	Slaanesh	false
-dilemmas_localised_description_rhox_sayl_ritual_dilemma	Sayl barters his earned favour to decieve any of the four Chaos Gods	false
+dilemmas_localised_description_rhox_sayl_ritual_dilemma	In an effort to trick the Chaos Gods themselves, Sayl barters his earned favour to decieve any of the four Chaos Gods in to sending powerful Chosen units his way upon the false promise of dedicating his might to that Chaos God.	false
 dilemmas_localised_title_rhox_sayl_ritual_dilemma	Sayl's Trickery	false
 ritual_categories_display_name_rhox_sayl_ritual		false
 effects_description_rhox_sayl_feature_dummy	Trickster: Sayl tricks even the Chaos Gods by bartering earned favour for powerful mortal marked units	false
 effects_description_rhox_sayl_favour_minus	All Favour from gods per turn: %+n	false
-character_trait_levels_colour_text_rhox_sayl_tricker_trait_1	He is a Trickster	false
+character_trait_levels_colour_text_rhox_sayl_tricker_trait_1	Sayl tricks the Chaos Gods with promises of allegiance.	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_1	Tricked the Chaos Gods	false
 character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_1	Trickster	false
-character_trait_levels_colour_text_rhox_sayl_tricker_trait_2	He is a Trickster	false
+character_trait_levels_colour_text_rhox_sayl_tricker_trait_2	Sayl tricks the Chaos Gods with promises of allegiance.	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_2	Tricked the Chaos Gods 5 times	false
-character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_2	Crafty Trickster	false
-character_trait_levels_colour_text_rhox_sayl_tricker_trait_3	He is a Trickster	false
+character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_2	Skilled Trickster	false
+character_trait_levels_colour_text_rhox_sayl_tricker_trait_3	Sayl tricks the Chaos Gods with promises of allegiance.	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_3	Tricked the Chaos Gods 10 times	false
 character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_3	Masterful Trickster	false
-character_trait_levels_colour_text_rhox_sayl_tricker_trait_4	He is a Trickster	false
+character_trait_levels_colour_text_rhox_sayl_tricker_trait_4	Sayl tricks the Chaos Gods with promises of allegiance.	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_4	Tricked the Chaos Gods 20 times	false
 character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_4	Devious Trickster	false
-character_trait_levels_colour_text_rhox_sayl_tricker_trait_5	He is a Trickster	false
+character_trait_levels_colour_text_rhox_sayl_tricker_trait_5	Sayl tricks the Chaos Gods with promises of allegiance.	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_5	Tricked the Chaos Gods 40 times	false
-character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_5	Supreme Trickster	false
+character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_5	Ultimate Deciever	false
 effects_description_rhox_sayl_favour_hound	Allegiance to the Hound: %+n per turn	false
 effects_description_rhox_sayl_favour_eagle	Allegiance to the Eagle: %+n per turn	false
 effects_description_rhox_sayl_favour_crow	Allegiance to the Crow: %+n per turn	false
 effects_description_rhox_sayl_favour_serpent	Allegiance to the Serpent: %+n per turn	false
-technologies_onscreen_name_rhox_sayl_kho_1	Sayl Khorne 1	false
-technologies_short_description_rhox_sayl_kho_1	Sayl Khorne 1	false
-technologies_onscreen_name_rhox_sayl_kho_2	Sayl Khorne 2	false
-technologies_short_description_rhox_sayl_kho_2	Sayl Khorne 2	false
-technologies_onscreen_name_rhox_sayl_kho_3	Sayl Khorne 3	false
-technologies_short_description_rhox_sayl_kho_3	Sayl Khorne 3	false
-technologies_onscreen_name_rhox_sayl_nur_1	Sayl Nurgle 1	false
-technologies_short_description_rhox_sayl_nur_1	Sayl Nurgle 1	false
-technologies_onscreen_name_rhox_sayl_nur_2	Sayl Nurgle 2	false
-technologies_short_description_rhox_sayl_nur_2	Sayl Nurgle 2	false
-technologies_onscreen_name_rhox_sayl_nur_3	Sayl Nurgle 3	false
-technologies_short_description_rhox_sayl_nur_3	Sayl Nurgle 3	false
-technologies_onscreen_name_rhox_sayl_sla_1	Sayl Slaanesh 1	false
-technologies_short_description_rhox_sayl_sla_1	Sayl Slaanesh 1	false
-technologies_onscreen_name_rhox_sayl_sla_2	Sayl Slaanesh 2	false
-technologies_short_description_rhox_sayl_sla_2	Sayl Slaanesh 2	false
-technologies_onscreen_name_rhox_sayl_sla_3	Sayl Slaanesh 3	false
-technologies_short_description_rhox_sayl_sla_3	Sayl Slaanesh 3	false
-technologies_onscreen_name_rhox_sayl_tze_1	Sayl Tzeentch 1	false
-technologies_short_description_rhox_sayl_tze_1	Sayl Tzeentch 1	false
-technologies_onscreen_name_rhox_sayl_tze_2	Sayl Tzeentch 2	false
-technologies_short_description_rhox_sayl_tze_2	Sayl Tzeentch 2	false
-technologies_onscreen_name_rhox_sayl_tze_3	Sayl Tzeentch 3	false
-technologies_short_description_rhox_sayl_tze_3	Sayl Tzeentch 3	false
+technologies_onscreen_name_rhox_sayl_kho_1	Promises of Blood	false
+technologies_short_description_rhox_sayl_kho_1	As Sayl barters with the God of Blood and Slaughter he vouches to bring an abundance of skulls.	false
+technologies_onscreen_name_rhox_sayl_kho_2	Skulltaker	false
+technologies_short_description_rhox_sayl_kho_2	Flailing the Skull of Schalkain as proof Sayl is capable of offering even the finest of Skulls to the Blood God he hopes to maintain good standings.	false
+technologies_onscreen_name_rhox_sayl_kho_3	Throne Seeker	false
+technologies_short_description_rhox_sayl_kho_3	As Khorne rests comfortably in the Skullthrone it is apparent Sayl has different ambitions and plans all together.	false
+technologies_onscreen_name_rhox_sayl_nur_1	Festering Plague	false
+technologies_short_description_rhox_sayl_nur_1	With honeyed words Sayl convinces Nurgle to bolster his units, the Chaos God unaware of Sayl's true intentions.	false
+technologies_onscreen_name_rhox_sayl_nur_2	Pox Bearer	false
+technologies_short_description_rhox_sayl_nur_2	Nightmaw alone is all the proof Sayls need to show he values beauty in rot and mutation.	false
+technologies_onscreen_name_rhox_sayl_nur_3	Rot Tide	false
+technologies_short_description_rhox_sayl_nur_3	Bringer of the tide of an endless rot, Sayl vouches his allegiance to the serpent - or does he?	false
+technologies_onscreen_name_rhox_sayl_sla_1	Indulger of Excess	false
+technologies_short_description_rhox_sayl_sla_1	He who indulges himself in excess is shallow in his ambitions.	false
+technologies_onscreen_name_rhox_sayl_sla_2	Hunter of Brilliance	false
+technologies_short_description_rhox_sayl_sla_2	The perfect mind is a much perfection as the perfect body, let alone the perfect face.	false
+technologies_onscreen_name_rhox_sayl_sla_3	Soporific Musk	false
+technologies_short_description_rhox_sayl_sla_3	Sayl knows how to tempt the Chaos Gods and he knows all too well what he needs to sweeten any deal with Slaanesh: A Soporific Musk.	false
+technologies_onscreen_name_rhox_sayl_tze_1	Pact of the Changer	false
+technologies_short_description_rhox_sayl_tze_1	The hardest of Chaos Gods to trick is Tzeentch, who knows the ways of change and trickery.	false
+technologies_onscreen_name_rhox_sayl_tze_2	From the Book	false
+technologies_short_description_rhox_sayl_tze_2	It is hard to tell if Tzeentch knows Sayl's true ambition and that the Kurgan only plays a part in the Changer's larger plot.	false
+technologies_onscreen_name_rhox_sayl_tze_3	Revel in Magic	false
+technologies_short_description_rhox_sayl_tze_3	Trickery aside, it is apparent Tzeentch respects Sayl's natural capability to bend the winds of magic to his personal gain.	false
 effects_description_rhox_sayl_effect_ability_gorefeast_chosen	Passive ability: "Gorefeast" for Chosen of Khorne units	false
 effects_description_rhox_sayl_effect_ability_hellblade_chosen	Passive ability: "Hellblade" for Chosen of Khorne units	false
 effects_description_rhox_sayl_effect_ability_revel_in_slaughter_chosen	Passive ability: "Revel in Slaughter" for Chosen of Khorne units	false
@@ -151,6 +151,7 @@ effects_description_hkrul_sayl_mammoth_rank	Recruit rank: %+n for Mammoth units	
 effects_description_hkrul_sayl_mammoth_infantry	Bonus vs Infantry: %+n for Mammoth units	false
 effects_description_hkrul_sayl_shaman_upkeep	Upkeep: %+n% for Shaman Sorcerers	false
 effects_description_hkrul_shaman_speed	Speed: %+n% for Shaman Sorcerers	false
+effects_description_hkrul_sayl_mammoth_charge	Charge bonus: %+n% for Mammoth units	false
 effects_description_hkrul_sayl_shaman_mastery	Attribute: Mastery of the Elemental Winds for embedded Shaman Sorcerer [[img:icon_hero]][[/img]]Heroes	false
 effects_description_hkrul_sayl_mastery	Attribute: Mastery of the Elemental Winds	false
 effects_description_hkrul_sayl_nightmaw_melee	Melee attack: %+n for Nightmaw	false

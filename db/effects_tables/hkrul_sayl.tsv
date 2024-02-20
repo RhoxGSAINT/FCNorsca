@@ -5,7 +5,7 @@ hkrul_sayl_mist	item_ability.png	300	item_ability.png	battle	true
 hkrul_sayl_teeth	item_ability.png	300	item_ability.png	battle	true
 hkrul_sayl_warp	item_ability.png	300	item_ability.png	battle	true
 hkrul_summon_nightmaw	general_ability.png	300	general_ability.png	battle	true
-rhox_sayl_feature_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
+rhox_sayl_feature_dummy	effect_bundle_dolgan.png	1	effect_bundle_dolgan.png	campaign	true
 rhox_sayl_favour_minus	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
 rhox_sayl_favour_hound	norse_god_hound.png	1	norse_god_hound.png	campaign	true
 rhox_sayl_favour_eagle	norse_god_eagle.png	1	norse_god_eagle.png	campaign	true
@@ -32,3 +32,4 @@ hkrul_shaman_speed	battle_movement.png	300	battle_movement.png	battle	true
 hkrul_sayl_shaman_mastery	attribute_mastery_of_elemental_winds.png	55	attribute_mastery_of_elemental_winds.png	battle	true
 hkrul_sayl_mastery	attribute_mastery_of_elemental_winds.png	55	attribute_mastery_of_elemental_winds.png	battle	true
 hkrul_sayl_nightmaw_melee	melee.png	255	melee.png	battle	true
+hkrul_sayl_mammoth_charge	charge.png	300	charge.png	battle	true
