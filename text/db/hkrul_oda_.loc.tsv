@@ -37,3 +37,5 @@ ancillaries_colour_text_hkrul_oda_horse	The finest horses in the Old World, bred
 ancillaries_onscreen_name_hkrul_oda_horse	Barded Warhorse	false
 land_units_onscreen_name_hkrul_oda_horse	Oda Winterclaw	false
 ui_unit_groupings_tooltip_hkrul_norsca_javelin_hero		false
+effects_description_hkrul_contact_shield_up	''Keep the Shields up!'' stance for Marauder Champion units	false
+special_ability_phases_onscreen_name_hkrul_contact_shield_up	[[col:green]][[img:ui/skins/default/modifier_icon_hkrul_shield.png]][[/img]]Keep the Shields up![[/col]]	false

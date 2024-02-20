@@ -1,6 +1,6 @@
 variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
 #variants_tables;6;db/variants_tables/scm_norsca							
 hkrul_sarl_hunters		hkrul_norscan_hunters		1.0000	1.0000	0.0500	
-hkrul_nightmav		hkrul_nightmav		1.0000	1.0000	0.0000	
+hkrul_nightmav		hkrul_nightmav		1.0000	1.1100	0.0000	
 calm_fc_norsca_raven		calm_fc_norsca_raven		1.0000	1.1500	0.0500	
 hkrul_drenok_wolf		hkrul_drenok_wolf		1.0000	2.1000	0.0000	

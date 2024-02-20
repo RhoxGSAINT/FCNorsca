@@ -43,3 +43,15 @@ hkrul_skill_node_sayl_misc_09		hkrul_sayl_staff		6	20		0	0	true
 hkrul_skill_node_sayl_misc_10		hkrul_sayl_teeth		6	21		0	0	true
 hkrul_sayl_chariot		hkrul_sayl_chariot		0	0		0	0	true
 hkrul_sayl_mammoth		hkrul_sayl_mammoth		0	1		0	0	true
+hkrul_skill_node_sayl_magic1_02		wh_main_skill_all_magic_heavens_03_roiling_skies		2	1		0	0	true
+hkrul_sayl_shadow_magic_dummy		hkrul_sayl_magic_dummy		6	11		1	0	false
+hkrul_skill_node_sayl_magic1_01		wh_main_skill_all_magic_heavens_01_harmonic_convergence		2	0		0	0	true
+hkrul_skill_node_sayl_magic1_03		wh2_main_skill_magic_shadow_penumbral_pendulum_lord		2	2		0	0	true
+hkrul_skill_node_sayl_magic1_04		wh2_main_skill_magic_shadow_the_withering_lord		2	3		0	0	true
+hkrul_skill_node_sayl_magic1_05		wh2_main_skill_all_magic_heavens_05_urannons_thunderbolt_lord		2	4		0	0	true
+hkrul_skill_node_sayl_magic1_07		wh_main_skill_all_magic_all_06_evasion		2	6		0	4	true
+hkrul_skill_node_sayl_magic1_08		wh_main_skill_all_magic_all_07_earthing		2	9		0	0	true
+hkrul_skill_node_sayl_magic1_09		wh_main_skill_all_magic_all_08_power_drain		2	10		0	0	true
+hkrul_skill_node_sayl_magic1_10		wh2_main_skill_all_magic_heavens_09_comet_of_casandora_lord		2	7		0	0	true
+hkrul_skill_node_sayl_magic1_11		wh2_main_skill_magic_shadow_pit_of_shades_lord		2	8		0	0	true
+hkrul_skill_node_sayl_magic1_12		wh_main_skill_all_magic_all_11_arcane_conduit		2	11		0	4	true

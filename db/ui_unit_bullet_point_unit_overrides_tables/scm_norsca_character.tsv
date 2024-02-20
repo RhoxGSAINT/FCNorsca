@@ -17,11 +17,14 @@ anti_large	hkrul_soren
 armour_piercing	hkrul_soren
 armour_piercing	hkrul_akkorak
 anti_large	hkrul_akkorak
+shielded	hkrul_akkorak
 armour_piercing	hkrul_birna
 good_range	hkrul_birna
 anti_large	hkrul_birna
 armour_piercing	hkrul_drenok
 melee_expert	hkrul_drenok
+anti_infantry	hkrul_drenok
+anti_infantry	hkrul_drenok_chariot
 armour_piercing	hkrul_drenok_chariot
 melee_expert	hkrul_drenok_chariot
 armour_piercing	hkrul_drenok_bear
@@ -44,6 +47,7 @@ anti_infantry	hkrul_lokjar_chariot
 melee_expert	hkrul_lokjar_chariot
 attuned_to_magic	hkrul_sayl
 spellcaster	hkrul_sayl
+ranged_attack	hkrul_sayl
 attuned_to_magic	hkrul_sayl_chariot
 spellcaster	hkrul_sayl_chariot
 attuned_to_magic	hkrul_sayl_mammoth

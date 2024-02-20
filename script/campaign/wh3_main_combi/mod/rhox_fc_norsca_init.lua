@@ -126,7 +126,7 @@ local rhox_faction_list={
     wh3_dlc20_nor_dolgan ={
         leader={
             subtype="hkrul_sayl",
-            unit_list="wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_mon_war_mammoth_0,wh_dlc08_nor_mon_war_mammoth_0,wh_dlc08_nor_inf_marauder_hunters_0,wh_main_nor_inf_chaos_marauders_1",
+            unit_list="wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_mon_war_mammoth_0,wh_main_nor_mon_chaos_warhounds_1,wh_dlc08_nor_mon_war_mammoth_0,wh_dlc08_nor_inf_marauder_hunters_0,wh_main_nor_inf_chaos_marauders_1",
             x=1012,
             y=723,
             forename ="names_name_5670700451",
@@ -262,7 +262,7 @@ local rhox_faction_list={
         enemy={
             key="wh3_main_ogr_rock_skulls",
             subtype="wh3_main_ogr_tyrant",
-            unit_list="wh3_main_ogr_inf_gnoblars_0,wh3_main_ogr_inf_gnoblars_0",
+            unit_list="wh3_main_ogr_inf_gnoblars_0,wh3_main_ogr_inf_gnoblars_0,wh3_main_ogr_cav_crushers_1,wh3_main_ogr_inf_leadbelchers_0,wh3_main_ogr_inf_maneaters_0",
             x=736,
             y=712
         },
@@ -309,7 +309,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_main_nor_varg",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_cav_chaos_chariot,wh_main_nor_cav_chaos_chariot,wh_dlc08_nor_inf_marauder_hunters_0",
             x=430,
             y=853
         },
@@ -340,7 +340,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_dlc08_nor_naglfarlings",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_feral_manticore,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_inf_chaos_marauders_1",
+            unit_list="wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_feral_manticore,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_inf_chaos_marauders_1",
             x=495,
             y=827
         },
@@ -400,7 +400,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_dlc08_nor_wintertooth",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_mon_norscan_ice_trolls_0,wh_main_nor_mon_chaos_trolls,wh_main_nor_mon_chaos_trolls",
             x=645,
             y=863
         },
