@@ -178,6 +178,11 @@ local rhox_faction_list={
             }
             
             rhox_add_faction_sayl_pool_units(faction, rhox_sayl_units)
+            if faction:is_human() then
+                rhox_transfer_region("wh3_main_combi_region_floating_mountain","wh3_main_nur_maggoth_kin")
+                rhox_transfer_region("wh3_dlc20_combi_region_dragons_death","wh3_dlc20_chs_kholek")
+                cm:force_declare_war("wh3_main_nur_maggoth_kin", "wh3_main_combi_region_floating_mountain", false, false)
+            end
         end,
         first_tick = function(faction, faction_key) 
         end
