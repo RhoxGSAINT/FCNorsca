@@ -3,6 +3,7 @@ effect	icon	priority	icon_negative	category	is_positive_value_good
 hkrul_sayl_staff	item_ability.png	300	item_ability.png	battle	true
 hkrul_sayl_mist	item_ability.png	300	item_ability.png	battle	true
 hkrul_sayl_teeth	item_ability.png	300	item_ability.png	battle	true
+hkrul_sayl_warp	item_ability.png	300	item_ability.png	battle	true
 hkrul_summon_nightmaw	general_ability.png	300	general_ability.png	battle	true
 rhox_sayl_feature_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
 rhox_sayl_favour_minus	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
@@ -23,3 +24,11 @@ rhox_sayl_effect_enable_soporific_musk_chosen	soporific_musk.png	100	soporific_m
 rhox_sayl_effect_ability_gate_of_tzeentch_chosen	general_ability.png	100	general_ability.png	battle	true
 rhox_sayl_effect_ability_hidden_in_time_chosen	general_ability.png	100	general_ability.png	battle	true
 rhox_sayl_effect_warpflame_chosen	wh3_main_unit_contact_warpflame.png	100	wh3_main_unit_contact_warpflame.png	battle	true
+hkrul_sayl_mammoth_global	turns.png	300	turns.png	campaign	false
+hkrul_sayl_mammoth_rank	experience.png	300	experience.png	campaign	true
+hkrul_sayl_mammoth_infantry	bonus_vs_small.png	300	bonus_vs_small.png	battle	true
+hkrul_sayl_shaman_upkeep	military_spending.png	300	military_spending.png	campaign	false
+hkrul_shaman_speed	battle_movement.png	300	battle_movement.png	battle	true
+hkrul_sayl_shaman_mastery	attribute_mastery_of_elemental_winds.png	55	attribute_mastery_of_elemental_winds.png	battle	true
+hkrul_sayl_mastery	attribute_mastery_of_elemental_winds.png	55	attribute_mastery_of_elemental_winds.png	battle	true
+hkrul_sayl_nightmaw_melee	melee.png	255	melee.png	battle	true

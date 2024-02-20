@@ -44,3 +44,6 @@ units_custom_battle_mounts_localised_description_hkrul_lokjarhkrul_lokjar_horse	
 units_custom_battle_mounts_mount_name_hkrul_lokjarhkrul_lokjar_horse	Norscan Warhorse	false
 units_custom_battle_mounts_localised_description_hkrul_lokjarhkrul_lokjar_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
 units_custom_battle_mounts_mount_name_hkrul_lokjarhkrul_lokjar_chariot	Marauder Chariot	false
+effects_description_hkrul_lokjar_skull	Ability: "Skull Gorger"	false
+unit_abilities_onscreen_name_hkrul_lokjar_skull	Skull Gorger	false
+unit_abilities_tooltip_text_hkrul_lokjar_skull	The magical weapon was crafted out of the skull of a White Dragon, who was known for preferring killing his victims with one mighty bite of his enormous jaws.	false

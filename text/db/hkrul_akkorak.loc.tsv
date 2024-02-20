@@ -39,7 +39,7 @@ effects_description_hkrul_akkorak_horse	Ability: "Riders of the Kul'' for Horseb
 unit_abilities_tooltip_text_hkrul_akkorak_horse	The chaos riders of the Kul are considered the scourge of the nine wastes, they're devilish horses in a constant chaotic infused frenzy.	true
 unit_abilities_onscreen_name_hkrul_akkorak_horse	Riders of the Kul	true
 effects_description_hkrul_akkorak_horse_xp	Recruit rank: %+n for Horseback units	true
-effects_description_hkrul_akkorak_horse_global	Global recruitment duration: %+n turns for Horseback units	true
+effects_description_hkrul_akkorak_horse_global	Upkeep: %+n% turns for Horseback units	true
 effects_description_hkrul_akkorak_horse_melee_attack	Melee attack: %+n for Horseback units	false
 effects_description_hkrul_akkorak_horse_morale	Leadership: %+n for Horseback units	false
 effects_description_rhox_akkorak_knight_chance	Knight recruitment: %+n% replenishment chance for Chaos Knight units	false

@@ -7,3 +7,4 @@ hkrul_oda_shield	item_ability.png	300	item_ability.png	battle	true
 hkrul_verdandi_hunt	item_ability.png	23	item_ability.png	battle	true
 rhox_swyrd_leave_on_death_dummy	wound_time.png	1	wound_time.png	campaign	false
 hkrul_swyrd_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_lokjar_skull	item_ability.png	300	item_ability.png	battle	true

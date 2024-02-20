@@ -36,3 +36,5 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_sayl_staff	true	false	false	hkrul_sayl_staff
 1	hkrul_akkorak_horse	true	false	false	hkrul_akkorak_horse
 1	hkrul_swyrd_helm	true	false	false	hkrul_swyrd_helm
+1	hkrul_drenok_greataxe	true	false	false	hkrul_drenok_greataxe
+1	hkrul_sayl_warp	true	false	false	hkrul_sayl_warp

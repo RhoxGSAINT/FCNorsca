@@ -75,3 +75,8 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_bjornling_inf_marauder_hunters_0	wh2_dlc11_nor_marauder_hunters_marauder_horsemen	false
 			hkrul_bjornling_inf_marauder_hunters_0	wh2_dlc11_nor_vets_marauder_hunters_marauder_horsemen	false
 			hkrul_bjornling_inf_marauder_hunters_0	wh2_dlc17_wulfrik_focus_units	false
+			wh_dlc08_nor_inf_marauder_champions_0	hkrul_oda_champion	false
+			hkrul_oda	hkrul_oda_champion	false
+			hkrul_bjornling_inf_marauder_champions_0	hkrul_oda_champion	false
+			wh_main_nor_cha_marauder_chieftan_0	hkrul_oda_champion	false
+			wh_dlc08_nor_cha_wulfrik_0	hkrul_oda_champion	false

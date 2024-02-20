@@ -1,6 +1,6 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_sayl.loc		
-character_skills_localised_name_innate_hkrul_sayl	Master of Deceit	true
+character_skills_localised_name_innate_hkrul_sayl	Twisted Seer of the Wastes	true
 character_skills_localised_description_innate_hkrul_sayl	The master of betrayal, guile and treachery leads his Dolgan Tribe in to realms unknown.	true
 character_skills_localised_description_hkrul_sayl_special_0_1	Few dare to attempt trickery and deceit when faced with various Chaos Gods, yet Sayl masterfully attempts to decieve them.	true
 character_skills_localised_name_hkrul_sayl_special_0_1	The Faithless	true
@@ -70,7 +70,7 @@ mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mn
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	[[col:red]]This unit will be replaced only by tricking the Chaos God via performing the ritual, it will lower your standing[[/col]]	false
-rituals_description_rhox_sayl_ritual	Perform the ritual to trick the gods and gain access to Chosens. The reward you can get will increase if your foavour to that god is bigger than 10	false
+rituals_description_rhox_sayl_ritual	Perform the ritual to trick the gods and gain access to Chosens. The reward you can get will increase if your favour to that god is bigger than 10	false
 rituals_display_name_rhox_sayl_ritual	Sayl's Ritual	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilemmaFIRST	Khorne	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaFIRST	Khorne	false
@@ -80,10 +80,10 @@ cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilem
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaTHIRD	Nurgle	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilemmaFOURTH	Slaanesh	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaFOURTH	Slaanesh	false
-dilemmas_localised_description_rhox_sayl_ritual_dilemma	Sayl performed the ritual, now the problem is, what god he should trick	false
+dilemmas_localised_description_rhox_sayl_ritual_dilemma	Sayl barters his earned favour to decieve any of the four Chaos Gods	false
 dilemmas_localised_title_rhox_sayl_ritual_dilemma	Sayl's Trickery	false
 ritual_categories_display_name_rhox_sayl_ritual		false
-effects_description_rhox_sayl_feature_dummy	Can earn powerful Monogod mortal units by spending God's favour	false
+effects_description_rhox_sayl_feature_dummy	Trickster: Sayl tricks even the Chaos Gods by bartering earned favour for powerful mortal marked units	false
 effects_description_rhox_sayl_favour_minus	All Favour from gods per turn: %+n	false
 character_trait_levels_colour_text_rhox_sayl_tricker_trait_1	He is a Trickster	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_1	Tricked the Chaos Gods	false
@@ -146,3 +146,15 @@ unit_abilities_onscreen_name_hkrul_nightmaw_wither	Vortex of Flesh	true
 effects_description_hkrul_sayl_teeth	Ability: "Schalkain's Teeth"	false
 unit_abilities_tooltip_text_hkrul_sayl_teeth	Sayl may hurl a handful of the teeth as part of a treacherous curse against an ally to divert the wrath of the Winds of Magic.	true
 unit_abilities_onscreen_name_hkrul_sayl_teeth	Schalkain's Teeth	true
+effects_description_hkrul_sayl_mammoth_global	Global recruitment duration: %+n for Mammoth units	false
+effects_description_hkrul_sayl_mammoth_rank	Recruit rank: %+n for Mammoth units	false
+effects_description_hkrul_sayl_mammoth_infantry	Bonus vs Infantry: %+n for Mammoth units	false
+effects_description_hkrul_sayl_shaman_upkeep	Upkeep: %+n% for Shaman Sorcerers	false
+effects_description_hkrul_shaman_speed	Speed: %+n% for Shaman Sorcerers	false
+effects_description_hkrul_sayl_shaman_mastery	Attribute: Mastery of the Elemental Winds for embedded Shaman Sorcerer [[img:icon_hero]][[/img]]Heroes	false
+effects_description_hkrul_sayl_mastery	Attribute: Mastery of the Elemental Winds	false
+effects_description_hkrul_sayl_nightmaw_melee	Melee attack: %+n for Nightmaw	false
+effects_description_hkrul_sayl_warp	Ability: "The Vile's Skull"	false
+unit_abilities_tooltip_text_hkrul_sayl_warp	The skull of Schalkain the Vile still oozes with the dark magic used in the daemonic ritual Sayl enacted on him, warping pure magic from his empty eye sockets.	true
+unit_abilities_onscreen_name_hkrul_sayl_warp	The Vile's Skull	true
+special_ability_phases_onscreen_name_hkrul_sayl_skull_contact	[[col:green]][[img:ui/skins/default/modifier_icon_hkrul_sayl.png]][[/img]]The Vile's Skull[[/col]]	false

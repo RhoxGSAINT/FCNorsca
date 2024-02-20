@@ -2,3 +2,4 @@ effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_lokjar		
 hkrul_lokjar_cry	enable	hkrul_lokjar_cry
 hkrul_lokjar_gorger	enable	hkrul_lokjar_gorger
+hkrul_lokjar_skull	enable	hkrul_lokjar_skull

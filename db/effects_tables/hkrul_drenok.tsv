@@ -10,3 +10,5 @@ hkrul_drenok_frostwyrm	item_ability.png	300	item_ability.png	battle	true
 hkrul_drenok_xp	experience.png	298	experience.png	campaign	true
 rhox_drenok_winter_dummy	attrition.png	10	attrition.png	campaign	true
 rhox_drenok_winter_storm	attrition.png	10	attrition.png	campaign	true
+hkrul_contact_icefang	hkrul_phase_contact_icefang.png	140	hkrul_phase_contact_icefang.png	battle	true
+hkrul_drenok_greataxe	item_ability.png	300	item_ability.png	battle	true

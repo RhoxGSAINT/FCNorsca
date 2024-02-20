@@ -2,3 +2,5 @@ phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_oda			
 hkrul_oda_shield	stat_missile_block_chance	25.0000	add
 hkrul_oda_shield	stat_melee_defence	25.0000	add
+hkrul_contact_shield_up	stat_morale	-3.0000	add
+hkrul_contact_shield_up	stat_melee_attack	-5.0000	add
