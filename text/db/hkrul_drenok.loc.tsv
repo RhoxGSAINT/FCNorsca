@@ -81,3 +81,6 @@ effects_description_hkrul_contact_icefang	Enables Darkfrost attacks	false
 unit_abilities_onscreen_name_hkrul_drenok_greataxe	Greataxe of the Icefang	false
 unit_abilities_tooltip_text_hkrul_drenok_greataxe	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	false
 effects_description_hkrul_drenok_greataxe	Ability: "Greataxe of the Icefang''	false
+land_units_onscreen_name_dead_drenok_ice_golem	Ice Golem	false
+land_units_onscreen_name_dead_drenok_ice_bears	Ice Bear	false
+land_units_onscreen_name_dead_drenok_greater_ice_golem	Greater Ice Golem	false

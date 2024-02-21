@@ -9,3 +9,6 @@ campaign_payload_ui_details_description_rhox_fc_norsca_protect_dark_fortress	You
 incidents_button_text_rhox_fc_norsca_darkfortress	Continue	false
 incidents_localised_description_rhox_fc_norsca_darkfortress	As Chaos stirs in the frozen wastes hordes of marauding champions flood the mortal realms, binding those receptive to chaos to their will. Through Dark Fortresses that have withstood time themselves the meager Northern Tribes are forced to serve the Chaos Champions for eternity. If the Northern Tribes are to be free it is paramount we prevent these Fortresses to fall in to the hands of our Chaos brethren.	false
 incidents_localised_title_rhox_fc_norsca_darkfortress	The Dark Pact	false
+incidents_button_text_rhox_fc_norsca_darkfortress_lost	Boo	false
+incidents_localised_description_rhox_fc_norsca_darkfortress_lost	Warriors of Chaos faction occupied the Dark fortress. Now you're slaves forever. 	false
+incidents_localised_title_rhox_fc_norsca_darkfortress_lost	Dark Fortress Lost	false

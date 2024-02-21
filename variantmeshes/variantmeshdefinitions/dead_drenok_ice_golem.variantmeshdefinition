@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="head" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/ice_golem/golem_base_01.rigid_model_v2"/>
+	</SLOT>
+
+	<SLOT name="torso" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/ice_golem/torso_base.rigid_model_v2"  />
+	</SLOT>
+	<SLOT name="legs" >
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/ice_golem/legs_base.rigid_model_v2"  />
+	</SLOT>
+</VARIANT_MESH>
