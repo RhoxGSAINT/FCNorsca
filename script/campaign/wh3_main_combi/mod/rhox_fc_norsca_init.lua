@@ -1,18 +1,19 @@
 local faction_key_to_mission_key={
-    wh2_dlc17_nor_deadwood_ravagers ={	"wh3_main_combi_region_the_twisted_towers", "wh3_main_combi_region_black_rock", "wh3_main_combi_region_the_silvered_tower_of_sorcerers" }, --Khrag
-    wh2_main_nor_aghol={	"wh3_main_combi_region_fortress_of_the_damned", "wh3_main_combi_region_the_frozen_city" },
-    wh2_main_nor_mung={	"wh3_main_combi_region_dagraks_end", "wh3_main_combi_region_the_palace_of_ruin" },
-    --wh2_main_nor_skeggi={	"wh3_main_combi_region_skeggi" },--they don't actually have dark fortress
-    wh3_dlc20_nor_dolgan={	"wh3_main_combi_region_the_challenge_stone", "wh3_main_combi_region_the_volary" },
-    wh3_dlc20_nor_kul={	"wh3_main_combi_region_the_writhing_fortress", "wh3_main_combi_region_zanbaijin", "wh3_main_combi_region_karak_dum" },
-    wh3_dlc20_nor_tong={	"wh3_main_combi_region_the_howling_citadel", "wh3_main_combi_region_the_crystal_spires" },
-    wh3_dlc20_nor_yusak={	"wh3_main_combi_region_red_fortress", "wh3_main_combi_region_bloodwind_keep"},
-    wh_dlc08_nor_goromadny_tribe={	"wh3_main_combi_region_karak_vlag", "wh3_main_combi_region_kraka_drak" },
-    wh_dlc08_nor_naglfarlings={	"wh3_main_combi_region_doomkeep", "wh3_main_combi_region_altar_of_the_crimson_harvest" },
-    wh_dlc08_nor_vanaheimlings={	"wh3_main_combi_region_konquata", "wh3_main_combi_region_monolith_of_borkill_the_bloody_handed" },
+    wh2_dlc17_nor_deadwood_ravagers ={	"wh3_main_combi_region_the_twisted_towers"}, --Khrag   --, "wh3_main_combi_region_black_rock", "wh3_main_combi_region_the_silvered_tower_of_sorcerers" these are dark fortress but it won't affect it. I've included them as a false thinking
+    wh2_main_nor_aghol={	"wh3_main_combi_region_fortress_of_the_damned"},--, "wh3_main_combi_region_the_frozen_city" 
+    wh2_main_nor_mung={	"wh3_main_combi_region_dagraks_end"},--, "wh3_main_combi_region_the_palace_of_ruin" 
+    wh2_main_nor_skeggi={	"wh3_main_combi_region_skeggi" },
+    wh3_dlc20_nor_dolgan={	"wh3_main_combi_region_the_challenge_stone"}, --, "wh3_main_combi_region_the_volary" 
+    wh3_dlc20_nor_kul={	"wh3_main_combi_region_the_writhing_fortress"}, --, "wh3_main_combi_region_zanbaijin", "wh3_main_combi_region_karak_dum" 
+    wh3_dlc20_nor_tong={	"wh3_main_combi_region_the_howling_citadel"}, --, "wh3_main_combi_region_the_crystal_spires" 
+    wh3_dlc20_nor_yusak={	"wh3_main_combi_region_red_fortress"},--, "wh3_main_combi_region_bloodwind_keep"
+    wh_dlc08_nor_goromadny_tribe={	"wh3_main_combi_region_karak_vlag"},--, "wh3_main_combi_region_kraka_drak" 
+    wh_dlc08_nor_naglfarlings={	"wh3_main_combi_region_doomkeep"},--, "wh3_main_combi_region_altar_of_the_crimson_harvest" 
+    wh_dlc08_nor_vanaheimlings={	"wh3_main_combi_region_konquata"},--, "wh3_main_combi_region_monolith_of_borkill_the_bloody_handed" 
     wh_main_nor_baersonling	={"wh3_main_combi_region_praag" },
     wh_main_nor_sarl	={"wh3_main_combi_region_the_tower_of_khrakk" },
-    wh_main_nor_varg	={"wh3_main_combi_region_the_monolith_of_katam", "wh3_main_combi_region_the_forbidden_citadel" },
+    wh_main_nor_varg	={"wh3_main_combi_region_the_monolith_of_katam"},--, "wh3_main_combi_region_the_forbidden_citadel" 
+    cr_nor_tokmars ={"cr_combi_region_the_bloodrift"},
 }
 
 local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(faction_key)
@@ -35,8 +36,7 @@ local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(factio
         --out("Rhox fc norsca: ".. regions[i])
         mm:add_condition("region "..regions[i]);
         --out("Rhox FC Norsca: "..teleport_node_key .. faction_key .. "_" .. tostring(i))
-        cm:teleportation_network_open_node(teleport_node_key .. faction_key .. "_" .. tostring(i))--some of them misses actual node, but that won't cause issues, right?
-        
+        --cm:teleportation_network_open_node(teleport_node_key .. faction_key .. "_" .. tostring(i))--occupy and vassalise works on norscan homelands and not dark fortress
     end
     mm:add_condition("total 900");--to make it uncompletable. they need to see what place is a Dark Fortress
     --mm:add_new_objective("SCRIPTED")
@@ -56,11 +56,36 @@ local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(factio
         end,
         false
     )
-    
-    
-    
     --cm:callback(function() cm:launch_custom_incident_from_builder(incident_builder, cm:get_faction(faction_key)) end, 5);
 end
+
+core:add_listener(
+    "rhox_fc_norsca_defeat_incident",
+    "CharacterPerformsSettlementOccupationDecision",
+    function(context)
+        return context:occupation_decision() == "618357381"
+    end,
+    function(context)
+        local region_key = context:garrison_residence():settlement_interface():region():name()
+        local character = context:character()
+        
+        for faction_key, region_keys in pairs(faction_key_to_mission_key) do
+            for i=1,#region_keys do
+                if region_keys[i]==region_key then
+                    local faction = cm:get_faction(faction_key)
+                    if faction and faction:is_human() then
+                        local incident_builder = cm:create_incident_builder("rhox_fc_norsca_darkfortress_lost")
+                        cm:launch_custom_incident_from_builder(incident_builder, faction)
+                    end
+                    break
+                end
+            end
+        end
+        
+    end,
+    true
+);
+
 
 local function rhox_transfer_region(region_key, faction_key)
     local target_region = cm:get_region(region_key)
@@ -655,6 +680,10 @@ cm:add_first_tick_callback_new(
 		end
     end
 )
+
+local turn2_incidents={
+    wh_main_nor_bjornling="rhox_bjornling_turn_two_incident"
+}
 cm:add_first_tick_callback(
 	function()
         for faction_key, faction_info in pairs(rhox_faction_list) do
@@ -662,6 +691,22 @@ cm:add_first_tick_callback(
                 mixer_set_faction_trait(faction_key, faction_info.faction_trait, true)
             end)
             faction_info.first_tick(cm:get_faction(faction_key), faction_key)
+        end
+        if cm:model():turn_number() < 3 then 
+            core:add_listener(
+                "rhox_fc_norsca_turn2_incidents_RoundStart",
+                "FactionRoundStart",
+                function(context)
+                    return context:faction():is_human() and turn2_incidents[context:faction():name()] and cm:model():turn_number() == 2
+                end,
+                function(context)
+                    local faction_key = context:faction():name()
+                    local incident_key = turn2_incidents[faction_key]
+                    local incident_builder = cm:create_incident_builder(incident_key)
+                    cm:launch_custom_incident_from_builder(incident_builder, context:faction())
+                end,
+                true --might be multiple players
+            )
         end
 	end
 )

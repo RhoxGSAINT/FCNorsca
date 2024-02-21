@@ -47,7 +47,7 @@ core:add_listener(
         cm:trigger_mission(faction:name(), agent_subtype_to_level_and_mission[subtype].mission, true)
     end,
     true
-) 
+)
     
 
 
