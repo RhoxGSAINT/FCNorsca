@@ -38,7 +38,7 @@ effects_description_hkrul_adella_skeggi_md	Melee defence: %+n for Skeggi units	t
 effects_description_hkrul_adella_skeggi_charge	Charge bonus: %+n for Skeggi units	true
 effects_description_hkrul_adella_skeggi_leadership	Leadership: %+n for Skeggi units	true
 effects_description_rhox_adella_monster_direct_dummy	Thousand Whispers: Adella may directly face monsters within the arcanum	false
-effects_description_rhox_adella_corruption_dummy	High Mono God Corruption in Provinces increases your cap to special units	false
+effects_description_rhox_adella_corruption_dummy	The Jungle King: Chaos Touched feral creatures are drawn to Skeggi's banner when monogod corruption is high	false
 character_trait_levels_onscreen_name_hkrul_defeated_trait_adella	Whispers no more	true
 character_trait_levels_colour_text_hkrul_defeated_trait_adella	Lots of talks and whispers yet little to show for it..	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_adella	Defeated ''King'' Adella of the Thousand Mouths	true

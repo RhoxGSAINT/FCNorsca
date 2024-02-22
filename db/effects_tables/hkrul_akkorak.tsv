@@ -7,4 +7,4 @@ hkrul_akkorak_horse_global	military_spending.png	300	military_spending.png	campa
 hkrul_akkorak_horse_melee_attack	melee.png	298	melee.png	battle	true
 hkrul_akkorak_horse_morale	morale.png	300	morale.png	battle	true
 rhox_akkorak_knight_chance	merc_replen.png	1	merc_replen.png	campaign	true
-rhox_akkorak_knight_feature_dummy	merc_replen.png	1	merc_replen.png	campaign	true
+rhox_akkorak_knight_feature_dummy	effect_bundle_kul.png	1	effect_bundle_kul.png	campaign	true

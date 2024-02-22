@@ -29,7 +29,7 @@ ancillaries_onscreen_name_hkrul_akkorak_spear	Spear of the Wastes	true
 land_units_onscreen_name_hkrul_akkorak	Akkorak the Crow	true
 names_name_3670700350	the Crow	false
 names_name_3670700351	Akkorak	false
-unit_description_short_texts_text_hkrul_akkorak	Arguably the most ruthless tribes amongst the Northern people, the Zar of the Kul must proof his standing by performing despicable acts.	false
+unit_description_short_texts_text_hkrul_akkorak	Arguably the most ruthless tribes amongst the Northern people, the Zar of the Kul must proof his standing by constantly performing despicable acts.	false
 unit_abilities_tooltip_text_hkrul_akkorak_spear	The Reaver of the Wastes has soaked the blood of warriors hailing from all Northern tribes.	true
 unit_abilities_onscreen_name_hkrul_akkorak_spear	Reaver of the Wastes	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_akkorak		false
@@ -39,18 +39,18 @@ effects_description_hkrul_akkorak_horse	Ability: "Riders of the Kul'' for Horseb
 unit_abilities_tooltip_text_hkrul_akkorak_horse	The chaos riders of the Kul are considered the scourge of the nine wastes, they're devilish horses in a constant chaotic infused frenzy.	true
 unit_abilities_onscreen_name_hkrul_akkorak_horse	Riders of the Kul	true
 effects_description_hkrul_akkorak_horse_xp	Recruit rank: %+n for Horseback units	true
-effects_description_hkrul_akkorak_horse_global	Upkeep: %+n% turns for Horseback units	true
+effects_description_hkrul_akkorak_horse_global	Upkeep: %+n% for Horseback units	true
 effects_description_hkrul_akkorak_horse_melee_attack	Melee attack: %+n for Horseback units	false
 effects_description_hkrul_akkorak_horse_morale	Leadership: %+n for Horseback units	false
 effects_description_rhox_akkorak_knight_chance	Knight recruitment: %+n% replenishment chance for Chaos Knight units	false
-effects_description_rhox_akkorak_knight_feature_dummy	Has access to Chaos Knight, and pastures and exotic animal resource buildings provide powerful bonuses for them	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho_lances	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_main_tze_cav_chaos_knights_0	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mtze_lances	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur_lances	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla_lances	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh_main_chs_cav_chaos_knights_0	This unit will replenish over time from pastures and exotic animal resource building	false
-mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh_main_chs_cav_chaos_knights_1	This unit will replenish over time from pastures and exotic animal resource building	false
+effects_description_rhox_akkorak_knight_feature_dummy	Reaver of the Wastes: Akkorak the Crow is a fiercesome rider, Chaos Knights from West to East gather around his banner to proof their might.	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho_lances	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_main_tze_cav_chaos_knights_0	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mtze_lances	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur_lances	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla_lances	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh_main_chs_cav_chaos_knights_0	This unit will replenish over time through Pastures and Exotic Animals building chains	false
+mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh_main_chs_cav_chaos_knights_1	This unit will replenish over time through Pastures and Exotic Animals building chains	false
