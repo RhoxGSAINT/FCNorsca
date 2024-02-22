@@ -47,16 +47,5 @@ core:add_listener(
         cm:trigger_mission(faction:name(), agent_subtype_to_level_and_mission[subtype].mission, true)
     end,
     true
-) 
-    
-
-
-cm:add_first_tick_callback(
-	function()
-        local faction = cm:get_faction("wh_dlc08_nor_norsca")
-        if cm:is_new_game() and faction then
-            
-            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_lokjar", faction:faction_leader():command_queue_index(), true)
-        end
-	end
 )
+    
