@@ -36,7 +36,8 @@ core:add_listener(
     function(context)
         local character = context:character()
         local subtype = character:character_subtype_key()
-        return agent_subtype_to_level_and_mission[subtype] and character:rank() >= agent_subtype_to_level_and_mission[subtype].level and cm:get_saved_value("rhox_fc_norsca_mission_checker_"..subtype.."_"..agent_subtype_to_level_and_mission[subtype].mission) ~= true
+        local faction = character:faction()
+        return faction:is_human() and agent_subtype_to_level_and_mission[subtype] and character:rank() >= agent_subtype_to_level_and_mission[subtype].level and cm:get_saved_value("rhox_fc_norsca_mission_checker_"..subtype.."_"..agent_subtype_to_level_and_mission[subtype].mission) ~= true
     end,
     function(context)
         local character = context:character()
