@@ -1,4 +1,0 @@
-unique_id	factor	resource	minimum	maximum	specific_faction_set
-#pooled_resource_factor_junctions_tables;2;db/pooled_resource_factor_junctions_tables/rhox_fc_norsca					
-rhox_akkorak_horse_buildings	buildings	rhox_akkorak_horse	0	2147483647	
-rhox_akkorak_horse_upgrade	wh2_dlc15_resource_factor_unit_upgrade	rhox_akkorak_horse	-2147483647	0	

@@ -8,6 +8,3 @@ rhox_birna_ws_hunt			character	1	ranged_damage.png	true	false	true
 rhox_fc_norsca_confederation_bonus			character	1	confederation.png	true	false	true
 rhox_baersonling_high_wom			force	1	magic.png	true	false	true
 rhox_icefang_region_winter_storm			region	1	attrition.png	true	false	true
-rhox_akkorak_purchasable_speed			none	1	battle_movement.png	true	false	true
-rhox_akkorak_purchasable_missile_resistance			none	1	resistance_missile.png	true	false	true
-rhox_akkorak_purchasable_melee_attack			none	1	melee.png	true	false	true
