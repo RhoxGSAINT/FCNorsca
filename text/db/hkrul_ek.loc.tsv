@@ -1,5 +1,5 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_ek.loc		
-character_trait_levels_colour_text_hkrul_defeated_trait_ek		false
-character_trait_levels_explanation_text_hkrul_defeated_trait_ek		false
-character_trait_levels_onscreen_name_hkrul_defeated_trait_ek		false
+character_trait_levels_colour_text_hkrul_defeated_trait_ek	The wheels on the chariot go round and round..	false
+character_trait_levels_explanation_text_hkrul_defeated_trait_ek	Defeated Surtha Ek	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_ek	The Everchariot	false

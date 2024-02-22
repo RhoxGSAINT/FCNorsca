@@ -12,4 +12,4 @@ hkrul_adella_skeggi_charge	charge.png	120	charge.png	battle	true
 hkrul_adella_skeggi_md	defence.png	120	defence.png	battle	true
 hkrul_adella_skeggi_leadership	morale.png	120	morale.png	battle	true
 rhox_adella_monster_direct_dummy	effect_bundle_whispers.png	2	effect_bundle_whispers.png	campaign	true
-rhox_adella_corruption_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
+rhox_adella_corruption_dummy	effect_bundle_skeggi.png	1	effect_bundle_skeggi.png	campaign	true
