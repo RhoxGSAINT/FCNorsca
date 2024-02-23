@@ -10,4 +10,3 @@ hkrul_sayl	false	true	ui/campaign ui/agents/wh_main_lore_heavens.png	hkrul_sayl	
 hkrul_ulfric	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_dummy	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_hakka	false	false		hkrul_hakka	wh3_main_vo_actor_Khorne_Cultist_Of_Khorne	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
-hkrul_hrothgar	false	false		hkrul_hrothgar	wh3_main_vo_actor_Khorne_Cultist_Of_Khorne	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign	wh3_main_vo_culture_Khorne	false	true	1100		
