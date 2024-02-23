@@ -16,6 +16,19 @@ table.insert(character_unlocking.character_data["scribes"]["missions_to_trigger_
 character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baersonling"]={}
 character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baersonling"]["main_warhammer"]="rhox_baersonling_tze_blue_scribes_stage_1_nor"
 
+------confed mission thing
+
+NORSCA_LEGENDARY_LORDS["hkrul_adella"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_akkorak"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_birna"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_drenok"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_einar"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_harald"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_sayl"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_ulfric"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_hakka"]=true
+NORSCA_LEGENDARY_LORDS["hkrul_hrothgar"]=true
+
 
 
 --Baersonling upgrade

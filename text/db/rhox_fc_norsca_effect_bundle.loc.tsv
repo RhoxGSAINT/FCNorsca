@@ -2,3 +2,5 @@ key	text	tooltip
 #Loc;1;text/db/rhox_fc_norsca_effect_bundle.loc		
 effect_bundles_localised_description_rhox_fc_norsca_confederation_bonus	Boons grow in strength as you confederate more tribes	false
 effect_bundles_localised_title_rhox_fc_norsca_confederation_bonus	Confederation Bonus	false
+effect_bundles_localised_description_rhox_fc_norsca_spared_leader	You spared the Leader	false
+effect_bundles_localised_title_rhox_fc_norsca_spared_leader	Spared Leader	false

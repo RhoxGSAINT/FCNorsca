@@ -1,0 +1,3 @@
+id	choice_key	dilemma_key	payload_key	value	target_key
+#cdir_events_dilemma_payloads_tables;0;db/cdir_events_dilemma_payloads_tables/rhox_fc_norsca					
+1517120928	SECOND	wh2_dlc08_nor_confederate_generic_no_execution	EFFECT_BUNDLE	KEY[rhox_fc_norsca_spared_leader];DURATION[5]	default
