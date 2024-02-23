@@ -1,5 +1,5 @@
 key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
-#character_skill_nodes_tables;6;db/character_skill_nodes_tables/scm_norsca_self									
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/scm_norsca									
 scm_norsca_unique_non_blocking_self_a_01		wh_dlc08_skill_nor_lord_self_drinker_of_blood		2	0		0	0	true
 scm_norsca_unique_non_blocking_self_a_02		wh_dlc08_skill_nor_lord_self_chrons_wrath		2	1		0	0	true
 scm_norsca_unique_non_blocking_self_a_03		wh_dlc08_skill_nor_lord_self_fury_of_the_hound		2	2		0	4	true
@@ -13,3 +13,4 @@ scm_norsca_unique_non_blocking_self_b_04		wh_dlc08_skill_nor_lord_self_spirit_wa
 scm_norsca_unique_non_blocking_self_b_05		wh_dlc08_skill_nor_lord_self_dark_deceiver		3	4		0	0	true
 scm_norsca_unique_non_blocking_self_b_06		wh_dlc08_skill_nor_lord_self_sorcery_of_the_eagle		3	5		0	4	true
 scm_norsca_scaling		wh3_main_skill_agent_action_success_scaling		99	0		0	0	false
+rhox_baersonling_chs_lord_mtze_battle		wh3_dlc24_skill_chs_lord_mtze_battle_change_or_die		4	12		0	1	true

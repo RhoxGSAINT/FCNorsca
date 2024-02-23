@@ -1,6 +1,7 @@
 id	treasury_cost	expenditure_type	income_type	expenditure_type_when_regular	income_type_when_regular
 #resource_costs_tables;0;db/resource_costs_tables/rhox_fc_norsca					
-rhox_baersonling_daemon_prince_tzeentch_from_marauder_chieftain	0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain	0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
+rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
 rhox_sayl_ritual	0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
 rhox_sayl_kho	0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
 rhox_sayl_nur	0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME
