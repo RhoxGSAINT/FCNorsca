@@ -68,6 +68,15 @@ CUS.initiative_to_agent_junctions["rhox_baersonling_daemon_prince_tzeentch_from_
 } 
 
 
+CUS.subtype_to_bonus_traits["wh_main_nor_marauder_chieftain"]={
+    rhox_baersonling_chs_lord_mtze = "rhox_baesonling_chieftain_to_marked_lord",
+}
+
+CUS.subtype_to_bonus_traits["rhox_baersonling_chs_lord_mtze"]={
+    rhox_baersonling_daemon_prince_tzeentch = "wh3_dlc20_legacy_trait_lord_to_daemon_prince",
+}
+
+
 CUS.subtypes_to_tints["rhox_baersonling_daemon_prince_tzeentch"] = 
 {
     primary = {key = "wh3_main_daemon_prince_tzeentch_primary", intensity_min = 200, intensity_max = 255},
