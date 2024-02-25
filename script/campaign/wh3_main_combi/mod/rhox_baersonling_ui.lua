@@ -28,6 +28,25 @@ local function rhox_baersonling_god_bar_ui()
 end
 
 
+local function rhox_baersonling_loop_and_change_icon()
+    local list_box = find_uicomponent(core:get_ui_root(), "character_details_panel", "character_context_parent", "tab_panels", "character_initiatives_holder", "path_to_glory_holder", "holder_marks", "list_box")
+    if not list_box then
+        return
+    end
+    for i = 0, list_box:ChildCount() - 1 do
+        local current_initiative = find_child_uicomponent_by_index(list_box, i)
+        if not current_initiative then
+            return
+        end
+        local dy_chs_souls = find_uicomponent(current_initiative, "dy_chs_souls", "chs_souls_icon")
+        if dy_chs_souls then
+            dy_chs_souls:SetImagePath("ui/skins/default/norse_god_eagle.png")
+        end
+            
+    end
+end
+
+
 cm:add_first_tick_callback(
     function()
     
@@ -61,6 +80,22 @@ cm:add_first_tick_callback(
                 end,
                 true
             )
+            core:add_listener(
+				"rhox_baersonling_character_initiatives_resource_via_panel",
+				"PanelOpenedCampaign",
+				function(context)
+					return context.string == "character_details_panel"
+				end,
+				function(context)
+                    cm:callback(
+                            function()
+                                rhox_baersonling_loop_and_change_icon()
+                            end,
+                        0.05
+                    )
+				end,
+				true
+			)
 			core:add_listener(
 				"rhox_baersonling_character_initiatives_resource",
 				"ComponentLClickUp",
@@ -70,21 +105,7 @@ cm:add_first_tick_callback(
 				function(context)
                     cm:callback(
                             function()
-                                local list_box = find_uicomponent(core:get_ui_root(), "character_details_panel", "character_context_parent", "tab_panels", "character_initiatives_holder", "path_to_glory_holder", "holder_marks", "list_box")
-								if not list_box then
-									return
-								end
-                                for i = 0, list_box:ChildCount() - 1 do
-                                    local current_initiative = find_child_uicomponent_by_index(list_box, i)
-									if not current_initiative then
-										return
-									end
-                                    local dy_chs_souls = find_uicomponent(current_initiative, "dy_chs_souls", "chs_souls_icon")
-									if dy_chs_souls then
-                                    	dy_chs_souls:SetImagePath("ui/skins/default/norse_god_eagle.png")
-									end
-                                        
-                                end
+                                rhox_baersonling_loop_and_change_icon()
                             end,
                         0.05
                     )
