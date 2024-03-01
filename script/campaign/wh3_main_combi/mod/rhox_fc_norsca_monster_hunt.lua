@@ -247,6 +247,7 @@ cm:add_first_tick_callback_new(
         monster_hunts["wh_main_nor_graeling"]=rhox_fc_norsca_nor_monster_hunts
         monster_hunts["wh_main_nor_sarl"]=rhox_fc_norsca_nor_monster_hunts
         monster_hunts["wh_main_nor_varg"]=rhox_fc_norsca_nor_monster_hunts
+        monster_hunts["wh3_dlc20_nor_yusak"]=rhox_fc_norsca_nor_monster_hunts
         monster_hunts["mixer_nor_fjordlings"]=rhox_fc_norsca_nor_monster_hunts
 
     end
@@ -280,6 +281,7 @@ local rhox_fc_norsca_monster_hunt_factions={
         wh_main_nor_graeling=true,
         wh_main_nor_sarl=true,
         wh_main_nor_varg=true,
+        wh3_dlc20_nor_yusak=true,
         mixer_nor_fjordlings=true,
 }
 
@@ -308,6 +310,8 @@ core:add_listener(
                         cm:faction_add_pooled_resource(faction_key, "nor_progress_hound", "events", 12)
                     elseif faction_key == "wh_main_nor_baersonling" then
                         cm:faction_add_pooled_resource(faction_key, "nor_progress_eagle", "events", 12)
+                    elseif faction_key == "wh3_dlc20_nor_yusak" then
+                        cm:faction_add_pooled_resource(faction_key, "nor_progress_serpent", "events", 12)
                     else
                         cm:trigger_dilemma(faction, monster_hunt_data_for_faction[monster_hunts_index[i]]["fin"]);
                     end
