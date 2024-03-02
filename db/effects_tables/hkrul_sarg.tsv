@@ -1,3 +1,7 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_sarg					
 hkrul_sarg_sword	item_ability.png	300	item_ability.png	battle	true
+hkrul_uzul_cry	item_ability.png	23	item_ability.png	battle	true
+hkrul_uzul_drum	item_ability.png	23	item_ability.png	battle	true
+hkrul_uzul_pas_drum	item_ability.png	23	item_ability.png	battle	true
+rhox_yusak_slaanesh_dedicated_dummy	corruption_slaanesh.png	1	corruption_slaanesh.png	campaign	true
