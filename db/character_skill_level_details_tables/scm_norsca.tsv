@@ -68,4 +68,5 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_sarg_special_1_0		x	9
 		1	hkrul_sarg_special_0_2		x	15
 		1	hkrul_sarg_horse		x	3
+		1	hkrul_sarg_chariot		x	9
 		1	hkrul_sarg_exalted_seeker_chariot		x	21
