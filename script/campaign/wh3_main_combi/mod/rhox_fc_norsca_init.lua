@@ -572,6 +572,7 @@ local rhox_faction_list={
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_uzul", faction:faction_leader():command_queue_index(), true)
 		    if faction:is_human() and cm:model():campaign_name_key() == "cr_combi_expanded" then
                 rhox_transfer_region("cr_combi_region_nine_graves", "cr_nor_avags")
+                rhox_transfer_region("wh3_main_combi_region_foundry_of_bones", "wh3_main_cth_imperial_wardens")
             end
             
             local rhox_sarg_gift_units = {
