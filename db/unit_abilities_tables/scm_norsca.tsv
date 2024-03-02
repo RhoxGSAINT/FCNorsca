@@ -44,3 +44,6 @@ hkrul_swyrd_helm	false	hkrul_swyrd_helm		wh_type_augment		wh_main_anc_group_rare
 hkrul_drenok_greataxe	true	hkrul_drenok_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_lokjar_skull	true	hkrul_lokjar_gorger		wh_type_magic_missiles		wh_main_anc_group_rare	false	false	active		false
 hkrul_sayl_warp	true	hkrul_sayl_warp		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_uzul_cry	true	hkrul_uzul_cry		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_uzul_pas_drum	true	hkrul_uzul_drum2		wh_type_area_of_regeneration		wh_main_anc_group_rare	true	false	passive		false
+hkrul_uzul_drum	true	hkrul_uzul_drum1		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false

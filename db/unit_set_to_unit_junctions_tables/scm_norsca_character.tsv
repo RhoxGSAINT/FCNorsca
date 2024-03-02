@@ -67,3 +67,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_hakka_chariot	nor_all	false
 			hkrul_hakka_juggernaut	all_non_chs	false
 			hkrul_hakka_juggernaut	nor_all	false
+			hkrul_uzul	mp_cap_group_heroes	false
+			hkrul_uzul	nor_all	false
+			hkrul_sarg	all_non_chs	false
+			hkrul_sarg	nor_all	false

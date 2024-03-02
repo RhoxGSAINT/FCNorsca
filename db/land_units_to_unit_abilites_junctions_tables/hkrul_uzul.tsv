@@ -1,0 +1,8 @@
+ability	land_unit
+#land_units_to_unit_abilites_junctions_tables;0;db/land_units_to_unit_abilites_junctions_tables/hkrul_uzul	
+wh3_main_unit_passive_single_entity	hkrul_uzul
+wh_main_character_abilities_deadly_onslaught	hkrul_uzul
+wh_main_character_abilities_foe_seeker	hkrul_uzul
+wh_dlc08_lord_passive_rage	hkrul_uzul
+hkrul_uzul_pas_drum	hkrul_uzul
+hkrul_uzul_cry	hkrul_uzul
