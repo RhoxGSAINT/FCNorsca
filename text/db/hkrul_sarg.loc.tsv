@@ -1,0 +1,35 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_sarg.loc		
+character_skills_localised_name_innate_hkrul_sarg	Horse-lord of the Yusak	true
+character_skills_localised_description_innate_hkrul_sarg	Sargath leads his mounted reavers in a lightning-fast charge, trampling enemies beneath the hooves of his warhorse and leaving chaos in their wake.	true
+character_skills_localised_description_hkrul_sarg_special_0_1	In a frenzied state of bloodlust, Sargath and his mounted reavers charge recklessly into enemy lines, dealing massive damage and instilling fear in their hearts.	true
+character_skills_localised_name_hkrul_sarg_special_0_1	Kurgan Weaponry	true
+character_skills_localised_description_hkrul_sarg_special_1_1	Sargath offers sacrifices to Slaanesh, gaining favor with the Dark Prince and unlocking powerful blessings and boons for his armies.	true
+character_skills_localised_name_hkrul_sarg_special_1_1	Tokens of Pleasure	true
+character_skills_localised_description_hkrul_sarg_special_1_2	Sargath's presence exerts a corrupting influence on neighboring regions, spreading Chaos corruption and weakening the resolve of enemy forces.	true
+character_skills_localised_name_hkrul_sarg_special_1_2	Excessive Influence	true
+character_skills_localised_description_hkrul_sarg_special_1_5	Sargath leads his mounted reavers in a lightning-fast charge, trampling enemies beneath the hooves of his warhorse and leaving chaos in their wake.	true
+character_skills_localised_name_hkrul_sarg_special_1_5	Seeking Reavers	true
+character_skills_localised_description_hkrul_sarg_special_1_0	Sargath's presence on the battlefield stirs the desires of his followers, granting increased morale and combat prowess to nearby allied units.	true
+character_skills_localised_name_hkrul_sarg_special_1_0	White Steel	true
+character_skills_localised_description_hkrul_sarg_special_1_3	Sargath's mastery of mounted combat allows him to perform dazzling feats of horsemanship, weaving through enemy ranks with grace and precision while delivering devastating strikes.	true
+character_skills_localised_name_hkrul_sarg_special_1_3	Unnatural Appetites	true
+character_skills_localised_description_hkrul_sarg_special_0_2	Sargath leads his mounted reavers in a lightning-fast charge, trampling enemies beneath the hooves of his warhorse and leaving chaos in their wake.	true
+character_skills_localised_name_hkrul_sarg_special_0_2	Yusak Tribe	true
+character_skills_localised_description_hkrul_sarg_special_1_4	With a beguiling whisper, Sargath lures enemy units towards him, disrupting their formations and leaving them vulnerable to his devastating attacks.	true
+character_skills_localised_name_hkrul_sarg_special_1_4	Temptative Hunter	true
+agent_subtypes_onscreen_name_override_hkrul_sarg	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_sarg		false
+effects_description_hkrul_sarg_sword	Ability: "Whispering Temptation''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_sarg	No Vaint of Hearth	true
+character_trait_levels_colour_text_hkrul_defeated_trait_sarg	He is so vain, he probably thinks this qoute is about him..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_sarg	Defeated Sargath the Vain	true
+ancillaries_colour_text_hkrul_sarg_sword	Whispering Temptation	true
+ancillaries_onscreen_name_hkrul_sarg_sword	Whispering Temptation is a wickedly curved blade wrought from blackened steel, its surface etched with swirling runes of dark enchantment. The hilt is adorned with the sinuous coils of serpents, their jeweled eyes gleaming with unearthly allure. When unsheathed, the blade seems to whisper seductive promises of power and pleasure, ensnaring the minds of all who gaze upon it	true
+land_units_onscreen_name_hkrul_sarg	Sargath the Vain	true
+names_name_51770700350	the Vain	false
+names_name_1770700351	Sargath	false
+unit_description_short_texts_text_hkrul_sarg	Sargath the Vain is a legend amongst people of the Yusak Tribe, leading his mounted reavers as he seeks to sate his unnatural appetites.	false
+unit_abilities_tooltip_text_hkrul_sarg_sword	When Sargath lifts his Runesword the very skies tear open as whispers linger on the battlefield, maddening foes receptive for Slaanesh.	true
+unit_abilities_onscreen_name_hkrul_sarg_sword	Whispering Temptation	true
+unit_description_historical_texts_text_hkrul_sarg	Sargath the Vain, Horse-lord of the Yurtsak, emerged from the windswept steppes of the Eastern Wastes, his legend preceding him like a shadow cast by the moon. Born under the baleful glow of Chaos, he was raised amidst the thundering hooves of the Yurtsak tribes, where tales of glory and conquest whispered through the shifting sands like echoes of forgotten gods. From an early age, Sargath displayed a hunger for power and pleasure unmatched by his peers, his soul aflame with the insatiable desires of Slaanesh. As he matured, his prowess in battle became legendary, leading his mounted reavers like a tempest upon the plains, each victory fueling his lust for conquest and adoration.	false

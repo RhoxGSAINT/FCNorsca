@@ -1,0 +1,5 @@
+effect	bonus_value_id	unit_ability
+#effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_uzul		
+hkrul_uzul_cry	enable	hkrul_uzul_cry
+hkrul_uzul_drum	enable	hkrul_uzul_drum
+hkrul_uzul_pas_drum	enable	hkrul_uzul_pas_drum

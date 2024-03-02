@@ -1,0 +1,37 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_uzul.loc		
+character_skills_localised_name_innate_hkrul_uzul	Scourge of the Steppes	true
+character_skills_localised_description_innate_hkrul_uzul	Uzelek's rhythmic chants inspire loyalty and determination in the mighty Yusak's as much as they strike fear in those who oppose him.	true
+character_skills_localised_name_hkrul_uzul_special_1_0	Yusak's Marauders	true
+character_skills_localised_name_hkrul_uzul_special_1_1	Kurgan's Resilience	true
+character_skills_localised_name_hkrul_uzul_special_1_2	Rhythmic Charge	true
+character_skills_localised_name_hkrul_uzul_special_1_3	Uncanning Trophies	true
+character_skills_localised_name_hkrul_uzul_special_1_4	Beasts of the Steppes	true
+character_skills_localised_name_hkrul_uzul_special_1_5	Yusak's Champions	true
+character_skills_localised_name_hkrul_uzul_special_1_6	Sargath's Drummer	true
+character_skills_localised_description_hkrul_uzul_special_1_0	The tempo of Uzelek's drumming increases, driving his allies into a state of furious combat prowess, enhancing their critical hit chance.	true
+character_skills_localised_description_hkrul_uzul_special_1_1	His presence on the battlefield bolsters the resilience of nearby allies, granting them increased defense against enemy attacks.	true
+character_skills_localised_description_hkrul_uzul_special_1_2	The chaotic rhythms of the Soulshaker disorient enemies, causing them to suffer penalties to accuracy and coordination.	true
+character_skills_localised_description_hkrul_uzul_special_1_3	He sets a relentless marching pace for his allies, increasing their movement range on the campaign map.	true
+character_skills_localised_description_hkrul_uzul_special_1_4	Zar Uzulek beats a defiant rhythm on his drum, granting nearby allies increased combat effectiveness and resilience as they make their final stand against overwhelming odds.	true
+character_skills_localised_description_hkrul_uzul_special_1_5	Uzelek unleashes a booming rallying cry, rallying wavering allies and restoring their morale.	true
+character_skills_localised_description_hkrul_uzul_special_1_6	The Zar's drumming disrupts the flow of magic, causing enemy spellcasters to struggle to maintain their spells.	true
+unit_abilities_onscreen_name_hkrul_uzul_cry	Yusak's Fellhammer	false
+unit_abilities_tooltip_text_hkrul_uzul_cry	Zar Uzulek channels the dark energy of his enchanted hammer, unleashing a torrent of devastating strikes upon his foes, each blow resonating with chaotic power, rending armor and crushing bone with malevolent force	false
+agent_subtypes_onscreen_name_override_hkrul_uzul	Legendary Hero	true
+agent_subtypes_description_text_override_hkrul_uzul	Legendary Hero	false
+unit_description_short_texts_text_hkrul_uzul	Enemies shrivel in awe and fear as the bellowing sounds of Uzelek's drum announce his imminent arrival.	false
+names_name_3985711831	Zar	false
+names_name_3985711830	Uzelek	false
+land_units_onscreen_name_hkrul_uzul	Zar Uzelek	true
+effects_description_hkrul_uzul_cry	Ability: "Yusak's Fellhammer"	false
+effects_description_hkrul_uzul_drum	Ability: "Soulshaker''	true
+ancillaries_colour_text_hkrul_uzul_drum	Zar Uzelek's drum is known as the Soulshaker, a massive instrument crafted from the tanned hide of a great beast, adorned with chaotic symbols and etchings that seem to writhe and pulse with dark energy.The Soulshaker is a towering instrument, its surface scarred and weathered from countless battles. When Zar Uzulek strikes it, the sound reverberates across the battlefield like a rolling thunderstorm, instilling both dread and exhilaration in those who hear its primal call.	true
+ancillaries_onscreen_name_hkrul_uzul_drum	Soulshaker	true
+unit_abilities_tooltip_text_hkrul_uzul_drum	A drum that pounds like the heartbeat of a daemon, instilling frenzy and dread in equal measure.	true
+unit_abilities_onscreen_name_hkrul_uzul_drum	Soulshaker	true
+ui_unit_bullet_point_enums_onscreen_name_hkrul_norsca_drum	Battle Drummer	false
+ui_unit_bullet_point_enums_tooltip_hkrul_norsca_drum	This character invigorates nearby friendly troops with the sound of his bellowing drums - which additionally frighten enemies.	false
+unit_abilities_tooltip_text_hkrul_uzul_pas_drum	Zar Uzulek's drum beats a cadence of rejuvenation, rallying nearby allies and infusing them with renewed vigor, both in body and spirit.	false
+effects_description_hkrul_uzul_pas_drum	Ability: "Abyssal Drumbeat''	true
+unit_abilities_onscreen_name_hkrul_uzul_pas_drum	Abyssal Drumbeat	true

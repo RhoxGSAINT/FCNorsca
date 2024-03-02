@@ -25,3 +25,5 @@ hkrul_rafn		phy_rafn		1.0000	0.8300	0.0000
 hkrul_akkorak		kurg_akkorak		1.0000	1.0000	0.0000	
 hkrul_akkorak_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	kurg_akkorak_horse		1.1500	1.1500	0.0500	
 hkrul_akkorak_campaign		kurg_akkorak_campaign		1.0000	1.0000	0.0000	
+hkrul_uzul		hkrul_uzkulek		1.0000	1.1600	0.0000	
+hkrul_sarg		hkrul_sargath		1.0000	1.1000	0.0000	

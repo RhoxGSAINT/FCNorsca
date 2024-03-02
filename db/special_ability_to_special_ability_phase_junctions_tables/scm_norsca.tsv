@@ -38,3 +38,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_swyrd_helm	true	false	false	hkrul_swyrd_helm
 1	hkrul_drenok_greataxe	true	false	false	hkrul_drenok_greataxe
 1	hkrul_sayl_warp	true	false	false	hkrul_sayl_warp
+1	hkrul_uzul_cry	true	false	false	hkrul_uzul_cry
+1	hkrul_uzul_pas_drum	true	true	false	hkrul_uzul_pas_drum
+1	hkrul_uzul_drum	true	true	false	hkrul_uzul_drum
+0	hkrul_uzul_drum	false	false	true	hkrul_uzul_drum_enemy

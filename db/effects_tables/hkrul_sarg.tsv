@@ -1,0 +1,3 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_sarg					
+hkrul_sarg_sword	item_ability.png	300	item_ability.png	battle	true
