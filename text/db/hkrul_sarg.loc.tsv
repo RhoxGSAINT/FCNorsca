@@ -28,6 +28,7 @@ ancillaries_colour_text_hkrul_sarg_sword	Whispering Temptation	true
 ancillaries_onscreen_name_hkrul_sarg_sword	Whispering Temptation is a wickedly curved blade wrought from blackened steel, its surface etched with swirling runes of dark enchantment. The hilt is adorned with the sinuous coils of serpents, their jeweled eyes gleaming with unearthly allure. When unsheathed, the blade seems to whisper seductive promises of power and pleasure, ensnaring the minds of all who gaze upon it	true
 land_units_onscreen_name_hkrul_sarg	Sargath the Vain	true
 land_units_onscreen_name_hkrul_sarg_horse	Sargath the Vain	false
+land_units_onscreen_name_hkrul_sarg_chariot	Sargath the Vain	false
 land_units_onscreen_name_hkrul_sarg_exalted_seeker_chariot	Sargath the Vain	false
 names_name_1770700350	the Vain	false
 names_name_1770700351	Sargath	false
@@ -90,6 +91,12 @@ units_custom_battle_mounts_localised_description_hkrul_sarghkrul_sarg_horse	The 
 units_custom_battle_mounts_mount_name_hkrul_sarghkrul_sarg_horse	Norscan Warhorse	false
 character_skills_localised_description_hkrul_sarg_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
 character_skills_localised_name_hkrul_sarg_horse	Norscan Warhorse	false
+character_skills_localised_description_hkrul_sarg_chariot	The dread carriages of the Ruinous hosts are more than just machines of war; they are symbols of status and power.	false
+character_skills_localised_name_hkrul_sarg_chariot	Chaos Chariot	false
+units_custom_battle_mounts_localised_description_hkrul_sarghkrul_sarg_chariot	The dread carriages of the Ruinous hosts are more than just machines of war; they are symbols of status and power.	false
+units_custom_battle_mounts_mount_name_hkrul_sarghkrul_sarg_chariot	Chaos Chariot	false
+ancillaries_colour_text_hkrul_sarg_chariot	The dread carriages of the Ruinous hosts are more than just machines of war; they are symbols of status and power.	false
+ancillaries_onscreen_name_hkrul_sarg_chariot	Chaos Chariot	false
 units_custom_battle_mounts_localised_description_hkrul_sarghkrul_sarg_exalted_seeker_chariot	Exalted Chariots are a blur of chromatic scythes and slicing blades pulled by Slaanesh's steeds.	false
 units_custom_battle_mounts_mount_name_hkrul_sarghkrul_sarg_exalted_seeker_chariot	Exalted Seeker Chariot	false
 character_skills_localised_description_hkrul_sarg_exalted_seeker_chariot	Exalted Chariots are a blur of chromatic scythes and slicing blades pulled by Slaanesh's steeds.	false

@@ -49,4 +49,5 @@ hkrul_skill_node_sarg_self_3_3		wh_main_skill_all_all_self_indomitable		2	8		0	0
 hkrul_skill_node_sarg_self_3_4		wh_main_skill_all_all_self_blade_shield		2	9		0	0	true
 hkrul_skill_node_sarg_self_4		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
 hkrul_sarg_horse		hkrul_sarg_horse		0	0		0	0	true
-hkrul_sarg_exalted_seeker_chariot		hkrul_sarg_exalted_seeker_chariot		0	1		0	0	true
+hkrul_sarg_chariot		hkrul_sarg_chariot		0	1		0	0	true
+hkrul_sarg_exalted_seeker_chariot		hkrul_sarg_exalted_seeker_chariot		0	2		0	0	true

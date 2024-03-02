@@ -36,4 +36,5 @@ wh_main_nor_baersonling	false	hkrul_rafn	true	true	ui/portraits/portholes/no_cul
 wh3_dlc20_nor_yusak	false	hkrul_uzul	true	true	ui/portraits/portholes/no_culture/hkrul_uzkulek.png	hkrul_uzul	hkrul_uzul	false		false
 wh3_dlc20_nor_yusak	true	hkrul_sarg	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
 wh3_dlc20_nor_yusak	true	hkrul_sarg_horse	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
+wh3_dlc20_nor_yusak	true	hkrul_sarg_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
 wh3_dlc20_nor_yusak	true	hkrul_sarg_exalted_seeker_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
