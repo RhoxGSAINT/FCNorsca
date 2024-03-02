@@ -20,16 +20,17 @@ hkrul_lokjar_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	999
 hkrul_sayl_staff	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_sayl_teeth	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_sayl_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sayl_chariot		1	0		false	false	true	all
-hkrul_sayl_mammoth	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sayl_mammoth		200	0		false	false	true	all
+hkrul_sayl_mammoth	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sayl_mammoth		1	0		false	false	true	all
 hkrul_ulfric_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_ulfric_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_horse		1	0		false	false	true	all
 hkrul_ulfric_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_chariot		1	0		false	false	true	all
-hkrul_ulfric_mammoth	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_mammoth		200	0		false	false	true	all
+hkrul_ulfric_mammoth	wh_dlc08_anc_mount_chaos_war_mammoth	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_mammoth		1	0		false	false	true	all
 hkrul_ulfric_crown	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_hakka_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_hakka_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hakka_chariot		1	0		false	false	true	all
 hkrul_hakka_juggernaut	wh3_main_anc_mount_juggernaut		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hakka_juggernaut		1	0		false	false	true	all
 hkrul_oda_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_lokjar_horse		1	0		false	false	true	all
 hkrul_sarg_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_sarg_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sarg_horse		1	0		false	false	true	all
 hkrul_sarg_exalted_seeker_chariot	wh3_main_anc_mount_exalted_seeker_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_sarg_exalted_seeker_chariot		1	0		false	false	true	all
 hkrul_uzul_drum	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
