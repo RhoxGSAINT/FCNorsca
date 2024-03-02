@@ -22,3 +22,6 @@ character_skills_localised_description_hkrul_rafn_special_1_2	Jarl Oflati was on
 character_skills_localised_description_hkrul_rafn_special_1_3	Rafn's Belt alone weighs more than the average empiric male, yet to him it is nothing but extra support and armour.	false
 character_skills_localised_description_hkrul_rafn_special_1_4	Pauldrons the size of the average head protect Rafn's strong and humongous shoulders.	false
 character_skills_localised_description_hkrul_rafn_special_1_5	Not as strong as the Steelfist, yet Rafn's name as the Ironfist has marked his name among Baersonling lore.	false
+effects_description_hkrul_rafn_axe	Ability: "Axe of Oflati"	false
+unit_abilities_onscreen_name_hkrul_rafn_axe	Axe of Oflati	false
+unit_abilities_tooltip_text_hkrul_rafn_axe	The Axe of the mighty Jarl Oflati is as heavy as a large stump and can split even the tallest of chestnut trees in a single swipe.	false

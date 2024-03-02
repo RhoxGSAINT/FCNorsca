@@ -5,3 +5,5 @@ rhox_baersonling_marauder_chieftain_boons	-1	0	PATH_TO_GLORY_BOON	0	false
 rhox_baersonling_tze_chaos_lord_initiatives	1	10	PATH_TO_GLORY_MARK	0	false	
 rhox_baersonling_tze_chaos_lord_boons	-1	0	PATH_TO_GLORY_BOON	0	false	
 rhox_baersonling_daemon_prince_boons	-1	0	PATH_TO_GLORY_BOON	0	false	
+rhox_sarg_faction_initiative_set_chs_slaanesh	0	1	DLC20_SLAANESH_INITIATIVES	0	false	
+rhox_sarg_faction_initiative_set_chs_undivided	1	1	DLC20_UNDIVIDED_INITIATIVES	0	false	

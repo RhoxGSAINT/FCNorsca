@@ -1,0 +1,4 @@
+initiative_set	campaign_lookup
+#faction_initiative_sets_tables;0;db/faction_initiative_sets_tables/rhox_fc_norsca	
+rhox_sarg_faction_initiative_set_chs_slaanesh	rhox_sarg_feature
+rhox_sarg_faction_initiative_set_chs_undivided	rhox_sarg_feature

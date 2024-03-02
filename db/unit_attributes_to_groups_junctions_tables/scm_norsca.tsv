@@ -45,5 +45,9 @@ strider	hkrul_akkorak
 hide_forest	hkrul_sarg
 encourages	hkrul_sarg
 mark_slaanesh	hkrul_sarg
+causes_fear	hkrul_sarg_exalted_seeker_chariot
+devastating_flanker	hkrul_sarg_exalted_seeker_chariot
+encourages	hkrul_sarg_exalted_seeker_chariot
+fatigue_immune	hkrul_sarg_exalted_seeker_chariot
 hide_forest	hkrul_uzul
 encourages	hkrul_uzul

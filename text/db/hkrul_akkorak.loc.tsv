@@ -58,3 +58,5 @@ pooled_resources_description_rhox_akkorak_horse	This steeds are generated from y
 pooled_resources_display_name_rhox_akkorak_horse	Chaos Steeds	false
 pooled_resources_negative_factors_display_name_rhox_akkorak_horse	Used	false
 pooled_resources_positive_factors_display_name_rhox_akkorak_horse	Gained	false
+effects_description_hkrul_akkorak_skinwolves_armour	Armour: %n for Skinwolf units	false
+effects_description_hkrul_akkorak_skinwolves_mis_res	Missile resistance: %n% for Skinwolf units	false

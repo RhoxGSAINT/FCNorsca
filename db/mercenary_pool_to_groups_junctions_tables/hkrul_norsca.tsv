@@ -20,3 +20,4 @@ key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tec
 1052539237	rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla_lances	0	wh3_main_belakor_faction_pool			
 1052539238	rhox_akkorak_wh_main_chs_cav_chaos_knights_0	0	wh3_main_belakor_faction_pool			
 1052539239	rhox_akkorak_wh_main_chs_cav_chaos_knights_1	0	wh3_main_belakor_faction_pool			
+1052539240	wh3_dlc20_chs_mon_warshrine_msla_faction_pool	0	wh3_dlc20_chs_faction_pool	wh3_dlc20_nor_yusak		

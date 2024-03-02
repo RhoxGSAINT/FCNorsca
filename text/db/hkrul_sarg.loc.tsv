@@ -27,9 +27,65 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_sarg	Defeated Sarga
 ancillaries_colour_text_hkrul_sarg_sword	Whispering Temptation	true
 ancillaries_onscreen_name_hkrul_sarg_sword	Whispering Temptation is a wickedly curved blade wrought from blackened steel, its surface etched with swirling runes of dark enchantment. The hilt is adorned with the sinuous coils of serpents, their jeweled eyes gleaming with unearthly allure. When unsheathed, the blade seems to whisper seductive promises of power and pleasure, ensnaring the minds of all who gaze upon it	true
 land_units_onscreen_name_hkrul_sarg	Sargath the Vain	true
-names_name_51770700350	the Vain	false
+land_units_onscreen_name_hkrul_sarg_exalted_seeker_chariot	Sargath the Vain	false
+names_name_1770700350	the Vain	false
 names_name_1770700351	Sargath	false
 unit_description_short_texts_text_hkrul_sarg	Sargath the Vain is a legend amongst people of the Yusak Tribe, leading his mounted reavers as he seeks to sate his unnatural appetites.	false
 unit_abilities_tooltip_text_hkrul_sarg_sword	When Sargath lifts his Runesword the very skies tear open as whispers linger on the battlefield, maddening foes receptive for Slaanesh.	true
 unit_abilities_onscreen_name_hkrul_sarg_sword	Whispering Temptation	true
 unit_description_historical_texts_text_hkrul_sarg	Sargath the Vain, Horse-lord of the Yurtsak, emerged from the windswept steppes of the Eastern Wastes, his legend preceding him like a shadow cast by the moon. Born under the baleful glow of Chaos, he was raised amidst the thundering hooves of the Yurtsak tribes, where tales of glory and conquest whispered through the shifting sands like echoes of forgotten gods. From an early age, Sargath displayed a hunger for power and pleasure unmatched by his peers, his soul aflame with the insatiable desires of Slaanesh. As he matured, his prowess in battle became legendary, leading his mounted reavers like a tempest upon the plains, each victory fueling his lust for conquest and adoration.	false
+land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_throwing_axe	Yusak Hunters (Throwing Axes)	false
+land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_javelins	Yusak Hunters (Javelins)	false
+land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_spear	Yusak Spearmen	false
+land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_horsemen_throwing_axe	Yusak Marauder Horsemen (Throwing Axes)	false
+land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder	Yusak Marauders	false
+land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_great_weapons	Yusak Marauders (Great Weapons)	false
+campaign_localised_strings_string_rhox_sarg_gift_button_tooltip	Gifts of Chaos||Use your harvested [[img:icon_devotees]][[/img]]Devotees to claim powerful rewards from Slaanesh	false
+frontend_faction_leaders_frontend_description_mixer_ime_nor_yusak		false
+frontend_faction_leaders_loading_screen_text_mixer_ime_nor_yusak		false
+frontend_faction_leaders_localised_action_points_mixer_ime_nor_yusak		false
+frontend_faction_leaders_localised_description_mixer_ime_nor_yusak		false
+pooled_resources_description_rhox_sarg_devotee_spent_und	Sacrificing [[img:icon_devotees]][[/img]]Devotees to Chaos Undivided unlocks additional Gifts of Chaos.	false
+pooled_resources_display_name_rhox_sarg_devotee_spent_und	Devotees sacrificed to Chaos Undivided	false
+pooled_resources_negative_factors_display_name_rhox_sarg_devotee_spent_und	Stolen	false
+pooled_resources_positive_factors_display_name_rhox_sarg_devotee_spent_und	Sacrificed	false
+pooled_resources_description_rhox_sarg_devotee_spent_sla	Sacrificing [[img:icon_devotees]][[/img]]Devotees to Slaanesh unlocks additional Gifts of Chaos.	false
+pooled_resources_display_name_rhox_sarg_devotee_spent_sla	Devotees sacrificed to Slaanesh	false
+pooled_resources_negative_factors_display_name_rhox_sarg_devotee_spent_sla	Stolen	false
+pooled_resources_positive_factors_display_name_rhox_sarg_devotee_spent_sla	Sacrificed	false
+ui_text_replacements_localised_text_corruption_effect_prefix_slaanesh_rhox_sarg	[[col:green]]	false
+effect_bundles_localised_description_hkrul_sarg_faction_trait	Yusak Tribe	false
+effect_bundles_localised_title_hkrul_sarg_faction_trait	Yusak Tribe	false
+ComponentTooltip_rhox_sarg_devotee_active_cost	Number of devotees required to activate this Gift. Devotees spent in this way will contribute towards unlocking new Gifts.	false
+campaign_localised_strings_string_rhox_sarg_chaos_gifts_unlock_sacrifice_devotee	This Gift will be unlocked after sacrificing the specified number of devotees	false
+uied_component_texts_localised_string_ComponentTooltip_rhox_sarg_devotee_upkeep	This number of Devotee will be removed from your total each turn. If you cannot afford this upkeep, active Gifts will be deactivated. Devotees spent in this way will contribute towards unlocking new Gifts.	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_1_army_marauders	Raider's Raiment	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_1_economy_building	Ruinous Bulwark	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_2_army_upgrades	Horrifying Presence	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_2_xp_sharing	Crown of Kings	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_3_army_elites	Reaver's Reward	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_3_units_hellcannons	Hail of Hellfire	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_undivided_3_units_warshrine	Empowered Worship	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_1_army_movement	Endless March	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_1_economy_control	Profit of Pleasure	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_1_units_daemonettes	Joyous Degradation	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_1_units_seeker_chariots	Exalted Chariots	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_2_army_upgrades	Boon of Battle	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_3_units_fiends	Fiendish Following	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_3_units_warshrine	Salacious Worship	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_5_units_keeper_of_secrets	Feast of Pain	false
+initiatives_localised_name_rhox_sarg_faction_initiative_chs_slaanesh_5_units_soul_grinder	Infernal Mechanisms	false
+technologies_onscreen_name_rhox_sarg_sla_3	Blessings of Slaanesh	false
+technologies_short_description_rhox_sarg_sla_3	Sargath reaps the rewards of his service, touched by the overwhelming presence of his Prince.	false
+technologies_onscreen_name_rhox_sarg_normal_1	Daemonic Pact	false
+technologies_short_description_rhox_sarg_normal_1	A pact with the Dark Gods should not be taken lightly.	false
+technologies_onscreen_name_rhox_sarg_normal_2	Gaze of the Dark Gods	false
+technologies_short_description_rhox_sarg_normal_2	All hope to catch the attention of the Gods, gathering where they think the Ruinous Powers will be looking.	false
+daemon_ability_bar_descriptions_bar_description_rhox_sarg_faction	Points are generated for killing entities in units that have negative [[img:icon_morale]][[/img]]Leadership states. 	false
+daemon_ability_bar_descriptions_bar_title_rhox_sarg_faction	Sensuous Seductions	false
+units_custom_battle_mounts_localised_description_hkrul_sarghkrul_sarg_exalted_seeker_chariot	Exalted Chariots are a blur of chromatic scythes and slicing blades pulled by Slaanesh's steeds.	false
+units_custom_battle_mounts_mount_name_hkrul_sarghkrul_sarg_exalted_seeker_chariot	Exalted Seeker Chariot	false
+character_skills_localised_description_hkrul_sarg_exalted_seeker_chariot	Exalted Chariots are a blur of chromatic scythes and slicing blades pulled by Slaanesh's steeds.	false
+character_skills_localised_name_hkrul_sarg_exalted_seeker_chariot	Exalted Seeker Chariot	false
+ancillaries_colour_text_hkrul_sarg_exalted_seeker_chariot	Exalted Chariots are a blur of chromatic scythes and slicing blades pulled by Slaanesh's steeds.	false
+ancillaries_onscreen_name_hkrul_sarg_exalted_seeker_chariot	Exalted Seeker Chariot	false
