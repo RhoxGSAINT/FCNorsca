@@ -12,6 +12,6 @@ rhox_bjornling_feature_group	wh3_main_ritual_ksl_winter_ursun_upgraded		0	false
 rhox_bjornling_feature_group	wh3_main_ritual_ksl_revitalists_followers_action_1		0	true
 rhox_bjornling_feature_group	wh3_main_ritual_ksl_revitalists_followers_action_2		0	true
 rhox_sayl_feature_group	rhox_sayl_ritual		0	true
-rhox_sargath_feature	wh3_main_ritual_sla_pleasure_arena		0	true
-rhox_sargath_feature	wh3_main_ritual_sla_pleasure_hunt		0	true
-rhox_sargath_feature	wh3_main_ritual_sla_pleasure_party		0	true
+rhox_sarg_feature	wh3_main_ritual_sla_pleasure_arena		0	true
+rhox_sarg_feature	wh3_main_ritual_sla_pleasure_hunt		0	true
+rhox_sarg_feature	wh3_main_ritual_sla_pleasure_party		0	true

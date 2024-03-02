@@ -59,6 +59,45 @@ local function rhox_fc_norsca_trigger_dark_fortress_mission_and_open_gate(factio
     --cm:callback(function() cm:launch_custom_incident_from_builder(incident_builder, cm:get_faction(faction_key)) end, 5);
 end
 
+
+local function rhox_add_warriors_units (faction_obj, unit_group)
+	for i, v in pairs(unit_group) do
+		cm:add_unit_to_faction_mercenary_pool(
+			faction_obj,
+			v[1], -- key
+			v[2], -- recruitment source
+			v[3], -- count
+			v[4], --replen chance
+			v[5], -- max units
+			0, -- max per turn
+			"",	--faction restriction
+			"",	--subculture restriction
+			"",	--tech restriction
+			false, --partial
+			v[1].."_warriors_faction_pool"
+		);
+	end	
+end
+
+local function rhox_add_faction_pool_units (faction_obj, unit_group)
+	for i, v in pairs(unit_group) do
+		cm:add_unit_to_faction_mercenary_pool(
+			faction_obj,
+			v[1], -- key
+			v[2], -- recruitment source
+			v[3], -- count
+			v[4], --replen chance
+			v[5], -- max units
+			0, -- max per turn
+			"",	--faction restriction
+			"",	--subculture restriction
+			"",	--tech restriction
+			false, --partial
+			v[1].."_faction_pool"
+		);
+	end	
+end
+
 core:add_listener(
     "rhox_fc_norsca_defeat_incident",
     "CharacterPerformsSettlementOccupationDecision",
@@ -506,6 +545,51 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
+    wh3_dlc20_nor_yusak ={
+        leader={
+            subtype="hkrul_sarg",
+            unit_list="wh_dlc08_nor_inf_marauder_champions_1",
+            x=1308,
+            y=662,
+            forename ="names_name_1770700351",
+            familiyname ="names_name_1770700350",
+        },
+        human_only_enemy={
+            key="wh3_main_cth_imperial_wardens",
+        },
+        region="wh3_main_combi_region_red_fortress",
+        how_they_play="rhox_fc_norsca_wh_main_nor_yusak_how_they_play",
+        pic=800,
+        faction_trait="hkrul_sarg_faction_trait",
+        kill_previous_leader=true,
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_uzul", faction:faction_leader():command_queue_index(), true)
+		    if faction:is_human() and cm:model():campaign_name_key() == "cr_combi_expanded" then
+                rhox_transfer_region("cr_combi_region_nine_graves", "cr_nor_avags")
+            end
+            
+            local rhox_sarg_gift_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_main_sla_inf_daemonette_0", "daemonic_summoning", 1, 0, 4},
+                    {"wh3_main_sla_mon_keeper_of_secrets_0", "daemonic_summoning", 0, 0, 2},
+                    {"wh3_main_sla_mon_soul_grinder_0", "daemonic_summoning", 0, 0, 2},
+                    {"wh3_main_sla_mon_fiends_of_slaanesh_0", "daemonic_summoning", 0, 0, 4},
+                    {"wh_main_chs_art_hellcannon", "daemonic_summoning", 0, 0, 4},
+                    {"wh3_main_sla_veh_seeker_chariot_0", "daemonic_summoning", 0, 0, 4}
+            }
+            local rhox_sarg_faction_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_dlc20_chs_mon_warshrine", "daemonic_summoning", 0, 0, 2},
+                    {"wh3_dlc20_chs_mon_warshrine_msla", "daemonic_summoning", 0, 0, 2},
+            }
+            rhox_add_warriors_units(cm:get_faction(faction_key), rhox_sarg_gift_units);
+            rhox_add_faction_pool_units(cm:get_faction(faction_key), rhox_sarg_faction_units);
         end,
         first_tick = function(faction, faction_key) 
         end

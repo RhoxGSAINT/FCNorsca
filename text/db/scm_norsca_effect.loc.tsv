@@ -16,3 +16,4 @@ effects_description_rhox_volrik_confederation_effect	Barrier hit points: %+n% fo
 effects_description_rhox_valbrand_confederation_effect	Armour-piercing weapon damage: %+n% for each confederated Norscan tribe	false
 effects_description_rhox_beorg_confederation_effect	Base weapon damage: %+n% for each confederated Norscan tribe	false
 effects_description_rhox_thorgar_confederation_effect	Income from all buildings: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_sarg_confederation_effect	Missile block chance: %+n% for each confederated Norscan tribe	false

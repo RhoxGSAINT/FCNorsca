@@ -1,5 +1,5 @@
 key	maximum	minimum	ai_ignored	default_factor	optional_icon_path	income_policy	reset_before_income	scope	has_persistent_factors	sort_order	battle_conversion	appy_income_on_creation	always_display_zero_factors
 #pooled_resources_tables;1;db/pooled_resources_tables/rhox_fc_norsca													
 rhox_akkorak_horse	10000	0	false	other	hkrul_akkorak_horse.png	END_OF_ROUND	false	FACTION	false	0		false	true
-rhox_sargath_devotee_spent_und	2147483647	0	false	wh2_main_resource_factor_other	icon_soul_hybrid_undivided.png	END_OF_ROUND	false	FACTION	false	1		false	true
-rhox_sargath_devotee_spent_sla	2147483647	0	false	wh2_main_resource_factor_other	icon_soul_hybrid_slaanesh.png	END_OF_ROUND	false	FACTION	false	1		false	true
+rhox_sarg_devotee_spent_und	2147483647	0	false	wh2_main_resource_factor_other	icon_soul_hybrid_undivided.png	END_OF_ROUND	false	FACTION	false	1		false	true
+rhox_sarg_devotee_spent_sla	2147483647	0	false	wh2_main_resource_factor_other	icon_soul_hybrid_slaanesh.png	END_OF_ROUND	false	FACTION	false	1		false	true

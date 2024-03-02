@@ -454,7 +454,7 @@
 					<active_initiative_hover_manager this="4AFC5701-B0CC-0455-7F41965EC26939C6"/>
 					<remove_initiative_hover_manager this="3BA15968-6EEE-CDD6-897BB06B3B8B1BA3"/>
 				</managers>
-				<rhox_sargath_button_ok this="F2AF827A-1909-E0FD-A5CBA637D05F57AF"/>
+				<rhox_sarg_button_ok this="F2AF827A-1909-E0FD-A5CBA637D05F57AF"/>
 			</chaos_gifts>
 		</root>
 	</hierarchy>
@@ -1334,9 +1334,9 @@
 				<element value=""/>
 			</override_images>
 		</button_nurgle_tab>
-		<rhox_sargath_button_ok
+		<rhox_sarg_button_ok
 			this="F2AF827A-1909-E0FD-A5CBA637D05F57AF"
-			id="rhox_sargath_button_ok"
+			id="rhox_sarg_button_ok"
 			template_id="round_large_button"
 			part_of_template="true"
 			uniqueguid_in_template="D36BE3A1-843A-4714-961E2001909BDA4B"
@@ -1430,7 +1430,7 @@
 				<element value="ui/skins/default/spell_dial_frame.png"/>
 				<element value=""/>
 			</override_images>
-		</rhox_sargath_button_ok>
+		</rhox_sarg_button_ok>
 		<button_slaanesh_tab
 			this="81E66EF9-3C84-A1F1-5AD440B75D414C38"
 			id="button_slaanesh_tab"
@@ -7396,7 +7396,7 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="StoreList(Join(PlayersFaction.PooledResourceContext(&quot;rhox_sargath_devotee_spent_und&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_nur&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_sargath_devotee_spent_sla&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_tze&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_valbrand_slaves_spent_kho&quot;)), &quot;gifts_resources&quot;)">
+					context_function_id="StoreList(Join(PlayersFaction.PooledResourceContext(&quot;rhox_sarg_devotee_spent_und&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_nur&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_sarg_devotee_spent_sla&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_tze&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_kho&quot;)), &quot;gifts_resources&quot;)">
 					<child_m_user_properties>
 						<property
 							name="only_target"
@@ -9625,7 +9625,7 @@
 			priority="50"
 			tooltipslocalised="true"
 			componentleveltooltip="Number of Souls required to activate this Gift. Souls spent in this way will contribute towards unlocking new Gifts."
-			tooltiplabel="ComponentTooltip_rhox_valbrand_slave_active_cost"
+			tooltiplabel="ComponentTooltip_rhox_sarg_devotee_active_cost"
 			uniqueguid="612678B2-FA26-69AA-E9913184A8B7BFFA"
 			currentstate="50A26A67-E579-3E04-589879AF4C278923"
 			defaultstate="50A26A67-E579-3E04-589879AF4C278923">
@@ -10269,7 +10269,7 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;rhox_valbrand_faction_initiative_set_chs_undivided&quot;)"/>
+					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;rhox_sarg_faction_initiative_set_chs_undivided&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -10294,11 +10294,11 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;wh3_dlc20_faction_initiative_set_chs_slaanesh&quot;)"/>
+					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;rhox_sarg_faction_initiative_set_chs_slaanesh&quot;)"/>
 				<callback_with_context
 					callback_id="ContextVisibilitySetter"
 					context_object_id="CcoCampaignInitiativeSet"
-					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_valbrand_faction&quot;)"/>
+					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_sarg_faction&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -10732,7 +10732,7 @@
 				<callback_with_context
 					callback_id="ContextVisibilitySetter"
 					context_object_id="CcoCampaignInitiativeSet"
-					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_valbrand_faction&quot;)"/>
+					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_sarg_faction&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -10757,11 +10757,11 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;rhox_valbrand_faction_initiative_set_chs_khorne&quot;)"/>
+					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;wh3_dlc20_faction_initiative_set_chs_khorne&quot;)"/>
 				<callback_with_context
 					callback_id="ContextVisibilitySetter"
 					context_object_id="CcoCampaignInitiativeSet"
-					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_valbrand_faction&quot;)"/>
+					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_sarg_faction&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -10790,7 +10790,7 @@
 				<callback_with_context
 					callback_id="ContextVisibilitySetter"
 					context_object_id="CcoCampaignInitiativeSet"
-					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_valbrand_faction&quot;)"/>
+					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_sarg_faction&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -11032,7 +11032,7 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;wh3_dlc20_faction_initiative_set_chs_slaanesh&quot;)"/>
+					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;rhox_sarg_faction_initiative_set_chs_slaanesh&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -11057,7 +11057,7 @@
 				<callback_with_context
 					callback_id="ContextVisibilitySetter"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_valbrand_faction&quot;) != true"/>
+					context_function_id="PlayersFaction.ModelFactionContext.IsInFactionSet(&quot;rhox_sarg_faction&quot;) != true"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -11137,7 +11137,7 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;rhox_valbrand_faction_initiative_set_chs_khorne&quot;)"/>
+					context_function_id="PlayersFaction.InitiativeSetList.FirstContext(InitiativeSetContext.Key == &quot;wh3_dlc20_faction_initiative_set_chs_khorne&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -11374,7 +11374,7 @@
 				<callback_with_context
 					callback_id="List"
 					context_object_id="CcoStaticObject"
-					context_function_id="Join(PlayersFaction.PooledResourceContext(&quot;rhox_valbrand_slaves_spent_kho&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_nur&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_sargath_devotee_spent_sla&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_tze&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_sargath_devotee_spent_und&quot;))"/>
+					context_function_id="Join(PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_kho&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_nur&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_sarg_devotee_spent_sla&quot;), PlayersFaction.PooledResourceContext(&quot;wh3_dlc20_chs_souls_spent_tze&quot;), PlayersFaction.PooledResourceContext(&quot;rhox_sarg_devotee_spent_und&quot;))"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -11437,7 +11437,7 @@
 			priority="60"
 			tooltipslocalised="true"
 			componentleveltooltip="This number of Souls will be removed from your total each turn. If you cannot afford this upkeep, active Gifts will be deactivated. Souls spent in this way will contribute towards unlocking new Gifts."
-			tooltiplabel="ComponentTooltip_rhox_valbrand_slave_upkeep"
+			tooltiplabel="ComponentTooltip_rhox_sarg_devotee_upkeep"
 			uniqueguid="F05BD16F-B65A-A423-E47F1257579634ED"
 			currentstate="ADA63096-CBEB-443D-B1B8B7C4DDCAB1FF"
 			defaultstate="ADA63096-CBEB-443D-B1B8B7C4DDCAB1FF">
@@ -13872,7 +13872,7 @@
 				<callback_with_context
 					callback_id="ContextTooltipSetter"
 					context_object_id="CcoStaticObject"
-					context_function_id="Loc(&quot;rhox_valbrand_chaos_gifts_unlock_sacrifice_slaves&quot;)"/>
+					context_function_id="Loc(&quot;rhox_sarg_chaos_gifts_unlock_sacrifice_devotee&quot;)"/>
 			</callbackwithcontextlist>
 			<componentimages>
 				<component_image

@@ -47,6 +47,11 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own",
 		value="2",
 	},
+	hkrul_sarg={
+		effect="wh_main_effect_character_stat_missile_block",
+		scope="character_to_force_own",
+		value="1",
+	},
 	wh_dlc08_nor_wulfrik={
 		effect="wh_main_effect_character_stat_bonus_vs_infantry",
 		scope="character_to_force_own",

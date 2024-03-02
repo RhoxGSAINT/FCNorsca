@@ -60,7 +60,7 @@
                 <callback_with_context
 					callback_id="ContextTooltipSetter"
 					context_object_id="CcoStaticObject"
-					context_function_id="Loc(&quot;rhox_sargath_gift_button_tooltip&quot;)"/>
+					context_function_id="Loc(&quot;rhox_sarg_gift_button_tooltip&quot;)"/>
 			</callbackwithcontextlist>
 			<userproperties>
 				<property
