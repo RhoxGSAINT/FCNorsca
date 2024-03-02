@@ -71,5 +71,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_uzul	nor_all	false
 			hkrul_sarg	all_non_chs	false
 			hkrul_sarg	nor_all	false
+			hkrul_sarg_horse	all_non_chs	false
+			hkrul_sarg_horse	nor_all	false
 			hkrul_sarg_exalted_seeker_chariot	all_non_chs	false
 			hkrul_sarg_exalted_seeker_chariot	nor_all	false
