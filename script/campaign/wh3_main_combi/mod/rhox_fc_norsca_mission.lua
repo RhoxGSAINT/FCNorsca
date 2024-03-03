@@ -22,12 +22,6 @@ local agent_subtype_to_level_and_mission={
         level= 7,
         mission= "hkrul_skeggi_adella_sword_final"
     },
-    --[[
-      hkrul_ulfric={ --lefthand value should be agent_subtype key
-        level= 15, --this should be a level when the quest should fire
-        mission= "mixer_lzd_generic_lord_kroak"--mission key note that you can't assign specific character in here since our leaders have dynamic CQIs unlike ones in the startpos
-    },
-    --]]
 }
 
 core:add_listener(
