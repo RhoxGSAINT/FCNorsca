@@ -544,7 +544,16 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-
+            if faction:is_human() then
+                local mm = mission_manager:new(faction_key, "rhox_varg_hrothgar_mission")
+                mm:add_new_objective("SCRIPTED");
+                mm:add_condition("script_key rhox_varg_devotion");
+                mm:add_condition("override_text mission_text_text_rhox_varg_devotion");
+                mm:add_payload("text_display rhox_varg_hrothgar_joins");
+                mm:trigger()
+            else
+                cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_hrothgar", faction:faction_leader():command_queue_index(), true)
+            end
         end,
         first_tick = function(faction, faction_key) 
         end
