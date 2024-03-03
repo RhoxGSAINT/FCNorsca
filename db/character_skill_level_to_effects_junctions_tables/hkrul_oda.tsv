@@ -26,3 +26,4 @@ innate_hkrul_oda	hkrul_enable_immortality	1	character_to_character_own	1.0000
 innate_hkrul_oda	hkrul_bjornling_upkeep	1	agent_to_parent_army_own	-15.0000
 innate_hkrul_oda	hkrul_contact_shield_up	1	agent_to_parent_army_own	1.0000
 hkrul_oda_horse	wh_main_effect_enable_mount_warhorse	1	character_to_character_own	1.0000
+hkrul_oda_manticore	wh_main_effect_enable_mount_manticore	1	character_to_character_own	1.0000

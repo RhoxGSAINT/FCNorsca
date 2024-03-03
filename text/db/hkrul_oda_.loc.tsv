@@ -29,13 +29,21 @@ effects_description_hkrul_bjornling_upkeep	Upkeep: %+n% for Bjornling units	fals
 effects_description_hkrul_bjornling_global_recruit_time	Global recruitment duration: %+n turns for Marauder Champions	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_oda		false
 unit_description_historical_texts_text_hkrul_oda		false
-character_skills_localised_description_hkrul_oda_horse	The finest horses in the Old World, bred for their endurance and fiery temperament, barded for further protection.	false
-character_skills_localised_name_hkrul_oda_horse	Barded Warhorse	false
-units_custom_battle_mounts_localised_description_hkrul_odahkrul_oda_horse	The finest horses in the Old World, bred for their endurance and fiery temperament, barded for further protection.	false
-units_custom_battle_mounts_mount_name_hkrul_odahkrul_oda_horse	Barded Warhorse	false
-ancillaries_colour_text_hkrul_oda_horse	The finest horses in the Old World, bred for their endurance and fiery temperament, barded for further protection.	false
-ancillaries_onscreen_name_hkrul_oda_horse	Barded Warhorse	false
+character_skills_localised_description_hkrul_oda_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+character_skills_localised_name_hkrul_oda_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_odahkrul_oda_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_odahkrul_oda_horse	Norscan Warhorse	false
+ancillaries_colour_text_hkrul_oda_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+ancillaries_onscreen_name_hkrul_oda_horse	Norscan Warhorse	false
 land_units_onscreen_name_hkrul_oda_horse	Oda Winterclaw	false
 ui_unit_groupings_tooltip_hkrul_norsca_javelin_hero		false
 effects_description_hkrul_contact_shield_up	''Keep the Shields up!'' stance for Marauder Champion units	false
 special_ability_phases_onscreen_name_hkrul_contact_shield_up	[[col:green]][[img:ui/skins/default/modifier_icon_hkrul_shield.png]][[/img]]Keep the Shields up![[/col]]	false
+land_units_onscreen_name_hkrul_oda_manticore	Oda Winterclaw	true
+units_custom_battle_mounts_mount_name_hkrul_odahkrul_oda_manticore	Manticore	true
+units_custom_battle_mounts_localised_description_hkrul_odahkrul_oda_manticore	Oda claimed this mighty beast from a defeated Chaos Lord.	true
+ancillaries_colour_text_hkrul_oda_manticore	Oda claimed this mighty beast from a defeated Chaos Lord.	false
+ancillaries_onscreen_name_hkrul_oda_manticore	Manticore	false
+land_units_concealed_name_hkrul_oda_manticore	Oda Winterclaw	false
+character_skills_localised_description_hkrul_oda_manticore	Oda claimed this mighty beast from a defeated Chaos Lord.	false
+character_skills_localised_name_hkrul_oda_manticore	Manticore	false

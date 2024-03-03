@@ -77,6 +77,9 @@ hybrid	hkrul_oda
 shielded	hkrul_oda_horse
 melee_expert	hkrul_oda_horse
 hybrid	hkrul_oda_horse
+shielded	hkrul_oda_manticore
+can_fly	hkrul_oda_manticore
+hybrid	hkrul_oda_manticore
 armoured_and_shielded	hkrul_hrothgar
 frenzy	hkrul_hrothgar
 anti_infantry	hkrul_rafn
