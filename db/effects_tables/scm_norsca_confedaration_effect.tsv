@@ -6,7 +6,7 @@ rhox_birna_confederation_effect	ranged_damage.png	540	ranged_damage.png	battle	t
 rhox_akkorak_confederation_effect	armour.png	400	armour.png	battle	true
 rhox_harald_confederation_effect	morale.png	410	morale.png	battle	true
 rhox_einar_confederation_effect	melee.png	430	melee.png	battle	true
-rhox_drenok_confederation_effect	battle_movement.png	420	battle_movement.png	battle	true
+rhox_drenok_confederation_effect	block_character.png	420	block_character.png	battle	true
 rhox_ulfric_confederation_effect	defence.png	450	defence.png	battle	true
 rhox_hakka_confederation_effect	charge.png	500	charge.png	battle	true
 rhox_wulfric_confederation_effect	bonus_vs_small_character.png	180	bonus_vs_small_character.png	both	true
@@ -16,4 +16,4 @@ rhox_volrik_confederation_effect	barrier.png	91	barrier.png	battle	true
 rhox_valbrand_confederation_effect	armour_piercing_character.png	170	armour_piercing_character.png	both	true
 rhox_beorg_confederation_effect	icon_stat_damage_base_character.png	160	icon_stat_damage_base_character.png	battle	true
 rhox_thorgar_confederation_effect	income.png	162	income.png	campaign	true
-rhox_sarg_confederation_effect	block_character.png	55	block_character.png	battle	true
+rhox_sarg_confederation_effect	battle_movement.png	55	battle_movement.png	battle	true

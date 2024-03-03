@@ -60,7 +60,8 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_hakka_chariot		x	11
 		1	hkrul_hakka_juggernaut		x	15
 		1	hkrul_oda_special_1_0		x	10
-		1	hkrul_oda_horse		x	17
+		1	hkrul_oda_horse		x	10
+		1	hkrul_oda_manticore		x	17
 		1	hkrul_rafn_special_1_0		x	11
 		1	hkrul_kolsvein_special_1_0		x	11
 		1	hkrul_uzul_special_1_0		x	10

@@ -13,7 +13,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		value="2",
 	},
 	hkrul_drenok={
-		effect="wh_main_effect_force_stat_speed",
+		effect="wh_main_effect_character_stat_missile_block",
 		scope="character_to_force_own",
 		value="2",
 	},
@@ -48,7 +48,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		value="2",
 	},
 	hkrul_sarg={
-		effect="wh_main_effect_character_stat_missile_block",
+		effect="wh_main_effect_force_stat_speed",
 		scope="character_to_force_own",
 		value="1",
 	},

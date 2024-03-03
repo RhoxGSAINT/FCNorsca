@@ -43,6 +43,9 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_oda_horse	all_non_chs	false
 			hkrul_oda_horse	mp_cap_group_heroes	false
 			hkrul_oda_horse	nor_all	false
+			hkrul_oda_manticore	all_non_chs	false
+			hkrul_oda_manticore	mp_cap_group_heroes	false
+			hkrul_oda_manticore	nor_all	false
 			hkrul_sayl	all_non_chs	false
 			hkrul_sayl	nor_all	false
 			hkrul_sayl_chariot	all_non_chs	false
