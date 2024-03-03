@@ -39,10 +39,10 @@ unit_abilities_tooltip_text_hkrul_hakka_gaze	As defeat draws near Khorne's wrath
 unit_abilities_onscreen_name_hkrul_hakka_gaze	Khorne's Gaze	true
 effects_description_hkrul_hakka_berserker_speed	Speed: %+n% for Marauder Berserker units	true
 effects_description_rhox_aesling_khorne_dedicated_dummy	Dedicated to Khorne: May only devote himself to Khorne	false
-effects_description_rhox_kho_skull_feature_dummy	Can send a tribute of [[img:icon_skulls]][[/img]]Skulls to the Blood God	false
+effects_description_rhox_aesling_skull_feature_dummy	Can send a tribute of [[img:icon_skulls]][[/img]]Skulls to the Blood God	false
 effect_bundles_localised_description_hkrul_hakka_faction_trait	Aesling marauders willingly dedicate themselves to their own true lord, the God of Slaughter, carnage incarnate - Khorne.	false
 effect_bundles_localised_title_hkrul_hakka_faction_trait	The Devoted Aesling	false
-effects_description_rhox_kho_armies_will_spawn_dummy	{{tr:khorne_spawned_armies}} will be spawned upon razing settlements for the Hound	false
+effects_description_rhox_aesling_armies_will_spawn_dummy	{{tr:khorne_spawned_armies}} will be spawned upon razing settlements for the Hound	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_spear	Aesling Spearmen	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder	Aesling Marauders	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_great_weapons	Aesling Marauders (Great Weapons)	false
@@ -68,3 +68,5 @@ character_skill_level_details_localised_name_1hkrul_hakka_juggernaut	Juggernaut	
 land_units_onscreen_name_hkrul_hakka_chariot	Hakka the Aesling	false
 land_units_onscreen_name_hkrul_hakka_juggernaut	Hakka the Aesling	false
 ui_text_replacements_localised_text_corruption_effect_prefix_khorne_rhox_aesling	[[col:green]]	false
+culture_settlement_occupation_options_tooltip_957887881	Colonise||For the glory of Khorne! Settle your troops. Your settlement will start with a tier 2 settlement building	false
+effects_description_rhox_aesling_colonise_feature_dummy	Aesling needs Skulls to colonize, but the new city will start as a tier 2 settlement.	false
