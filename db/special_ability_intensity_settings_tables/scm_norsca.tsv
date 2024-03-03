@@ -3,3 +3,4 @@ ability	default_amount	max_amount	inverse	intensity_source	intensity_type
 hkrul_sayl_staff	0.0000	200.0000	false	all_wom_spent	linear_multiplier
 hkrul_einar_fury	0.0000	200.0000	false	damage_taken	linear_multiplier
 hkrul_akkorak_horse	0.0000	200.0000	false	nearby_all_deaths	linear_multiplier
+hkrul_sarg_riders	0.0000	200.0000	false	kills_made	linear_multiplier

@@ -4,4 +4,13 @@ hkrul_sarg_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_uzul_cry	item_ability.png	23	item_ability.png	battle	true
 hkrul_uzul_drum	item_ability.png	23	item_ability.png	battle	true
 hkrul_uzul_pas_drum	item_ability.png	23	item_ability.png	battle	true
+hkrul_sarg_riders	item_ability.png	23	item_ability.png	battle	true
 rhox_yusak_slaanesh_dedicated_dummy	corruption_slaanesh.png	1	corruption_slaanesh.png	campaign	true
+hkrul_yusak_horse_speed	battle_movement.png	155	battle_movement.png	battle	true
+hkrul_yusak_horse_rank	experience.png	156	experience.png	campaign	true
+hkrul_yusak_horse_missile	ranged_damage.png	157	ranged_damage.png	battle	true
+hkrul_yusak_horse_missile_resistance	resistance_missile.png	158	resistance_missile.png	battle	true
+hkrul_yusak_horse_range	accuracy.png	159	accuracy.png	battle	true
+hkrul_yusak_horse_melee_attack	melee.png	154	melee.png	battle	true
+hkrul_yusak_horse_leadership	morale.png	153	morale.png	battle	true
+hkrul_sarg_fear_vs_cathay	attribute_causes_fear.png	2	attribute_causes_fear.png	battle	true

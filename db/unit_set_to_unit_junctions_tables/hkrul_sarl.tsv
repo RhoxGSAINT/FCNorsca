@@ -19,3 +19,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_sarl_hunters	wh2_dlc11_nor_vets_marauder_hunters_marauder_horsemen	false
 			hkrul_sarl_hunters	wh2_dlc17_wulfrik_focus_units	false
 			hkrul_sarl_hunters	wh2_main_ror_units_all	false
+			wh3_dlc20_chs_cav_marauder_horsemen_msla_javelins	hkrul_yusak_horse	false
+			wh_dlc08_nor_cav_marauder_horsemasters_0	hkrul_yusak_horse	false
+			wh_main_nor_cav_marauder_horsemen_0	hkrul_yusak_horse	false
+			wh_main_nor_cav_marauder_horsemen_1	hkrul_yusak_horse	false
