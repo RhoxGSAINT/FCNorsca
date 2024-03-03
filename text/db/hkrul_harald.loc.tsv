@@ -35,6 +35,7 @@ names_name_5670700350	Whyrlas	false
 names_name_5670700351	Harald	false
 effects_description_hkrul_harald_leadership_dummy	Leadership: %+n for each confederated Norscan Tribe	true
 effects_description_hkrul_harald_fear_vs_norsca	Attribute: Causes Terror when fighting against Norscan factions	true
+effects_description_hkrul_sarg_fear_vs_cathay	Attribute: Causes Fear when fighting against Cathayan Factions	true
 effects_description_hkrul_harald_skin_wolves_bonus_vs_large	Bonus vs Large: %+n for Skin Wolf units	true
 effects_description_hkrul_harald_beserker_melee_damage	Weapon strength: %+n% for Marauder Berserker units	true
 effect_bundles_localised_description_hkrul_harald_faction_trait	He who seeks to unite all Norscan tribes is either foolish or brave, or perhaps both.	false

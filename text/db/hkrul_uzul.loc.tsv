@@ -38,3 +38,4 @@ unit_abilities_onscreen_name_hkrul_uzul_pas_drum	Abyssal Drumbeat	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_uzul		false
 unit_description_historical_texts_text_hkrul_uzul		false
 ui_unit_groupings_tooltip_hkrul_norsca_drummer_hero		false
+effects_description_hkrul_uzul_pas_drum_duration	Effect range: %+n% for "Abyssal Drumbeat"	false

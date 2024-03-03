@@ -1,3 +1,5 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_sarg			
 hkrul_sarg_sword	stat_melee_damage_base	1.2500	mult
+hkrul_sarg_riders	scalar_entity_acceleration_modifier	1.2500	mult
+hkrul_sarg_riders	scalar_missile_damage_ap	1.2500	mult
