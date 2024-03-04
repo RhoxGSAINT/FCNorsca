@@ -16,6 +16,22 @@ core:add_listener(
     true
 );
 
+core:add_listener(
+    "rhox_aesling_CharacterPerformsSettlementOccupationMajorbuildingupdate",
+    "CharacterPerformsSettlementOccupationDecision",
+    function(context)
+        return context:occupation_decision() == "957887881" and context:character():faction():name() == aesling_faction
+    end,
+    function(context)
+        local region = context:garrison_residence():settlement_interface():region()
+        local character = context:character()
+
+        cm:instantly_set_settlement_primary_slot_level(region:settlement(), 2)
+        
+    end,
+    true
+);
+
 
 
 local function rhox_aesling_god_bar_ui()

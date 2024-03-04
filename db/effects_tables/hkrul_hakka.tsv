@@ -4,10 +4,11 @@ hkrul_hakka_axe	item_ability.png	300	item_ability.png	battle	true
 hkrul_hakka_gaze	item_ability.png	777	item_ability.png	battle	true
 hkrul_hakka_berserker_speed	battle_movement.png	4	battle_movement.png	battle	true
 rhox_aesling_khorne_dedicated_dummy	corruption_khorne.png	1	corruption_khorne.png	campaign	true
-rhox_kho_skull_feature_dummy	khorne_skulls_bundle.png	200	khorne_skulls_bundle.png	campaign	true
-rhox_kho_armies_will_spawn_dummy	khorne_skull_throne.png	502	khorne_skull_throne.png	campaign	true
+rhox_aesling_skull_feature_dummy	khorne_skulls_bundle.png	200	khorne_skulls_bundle.png	campaign	true
+rhox_aesling_armies_will_spawn_dummy	khorne_skull_throne.png	502	khorne_skull_throne.png	campaign	true
 hkrul_kolsvein_spit	item_ability.png	300	item_ability.png	battle	true
 hkrul_kolsvein_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_rafn_axe	item_ability.png	300	item_ability.png	battle	true
 hkrul_akkorak_skinwolves_armour	armour.png	300	armour.png	battle	true
 hkrul_akkorak_skinwolves_mis_res	resistance_missile.png	300	resistance_missile.png	battle	true
+rhox_aesling_colonise_feature_dummy	settlement.png	200	settlement.png	campaign	true
