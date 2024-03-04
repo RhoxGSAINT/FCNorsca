@@ -525,12 +525,12 @@ local rhox_faction_list={
     },
     wh_main_nor_varg ={
         leader={
-            subtype="hkrul_hrothgar",
+            subtype="hkrul_surtha_ek",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
             x=470,
             y=867,
-            forename ="names_name_7410711835",
-            familiyname ="names_name_7410711834",
+            forename ="names_name_1440700351",
+            familiyname ="names_name_1440700350",
         },	
         agent={
             type="dignitary",
@@ -540,7 +540,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_varg_how_they_play",
         pic=800,
         faction_trait="hkrul_hrothgar_faction_trait",
-        kill_previous_leader=false,--It's Surtha Ek, people will riot if we kill him
+        kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 

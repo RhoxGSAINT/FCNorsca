@@ -32,6 +32,11 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own_unseen",
 		value="2",
 	},
+	hkrul_surtha_ek={
+		effect="wh_main_effect_force_stat_weapon_strength_chaos_chariots",
+		scope="character_to_force_own_unseen",
+		value="5",
+	},
 	hkrul_ulfric={
 		effect="wh_main_effect_force_stat_melee_defence",
 		scope="character_to_force_own",
@@ -50,7 +55,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 	hkrul_sarg={
 		effect="wh_main_effect_force_stat_speed",
 		scope="character_to_force_own",
-		value="1",
+		value="5",
 	},
 	wh_dlc08_nor_wulfrik={
 		effect="wh_main_effect_character_stat_bonus_vs_infantry",

@@ -44,3 +44,5 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 0	hkrul_uzul_drum	false	false	true	hkrul_uzul_drum_enemy
 1	hkrul_sarg_marauder	true	false	false	hkrul_sarg_marauder
 1	hkrul_sarg_riders	true	false	false	hkrul_sarg_riders
+1	hkrul_sarg_sword	true	false	false	hkrul_sarg_sword
+1	hkrul_surtha_ek_whip	true	false	false	hkrul_surtha_ek_whip
