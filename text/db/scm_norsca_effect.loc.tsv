@@ -17,3 +17,4 @@ effects_description_rhox_valbrand_confederation_effect	Armour-piercing weapon da
 effects_description_rhox_beorg_confederation_effect	Base weapon damage: %+n% for each confederated Norscan tribe	false
 effects_description_rhox_thorgar_confederation_effect	Income from all buildings: %+n% for each confederated Norscan tribe	false
 effects_description_rhox_sarg_confederation_effect	Speed: %+n% for each confederated Norscan tribe	false
+effects_description_rhox_varg_confederation_effect	Weapon strength: %+n% for Chaos Chariots units for each confederated Norscan tribe	false

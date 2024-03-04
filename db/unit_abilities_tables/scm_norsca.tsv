@@ -50,3 +50,4 @@ hkrul_uzul_drum	true	hkrul_uzul_drum1		wh_type_area_of_augments		wh_main_anc_gro
 hkrul_sarg_sword	true	hkrul_sarg_sword		wh_type_bombardment		wh_main_anc_group_unique	true	false	bound		false
 hkrul_sarg_riders	true	hkrul_sarg_rider		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_sarg_marauder	true	hkrul_sarg_marauder		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_surtha_ek_whip	true	hkrul_surtha_ek_whip		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
