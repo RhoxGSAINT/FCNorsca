@@ -46,7 +46,7 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh3_dlc20_nor_kul")
 			
 			mixer_change_lord_name("1519128795", "hkrul_sarg")
-			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_yusak", {"wh_main_nor_inf_chaos_marauders_1","wh_main_nor_inf_chaos_marauders_1","wh_main_nor_inf_chaos_marauders_1","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_yusak", {"wh_main_nor_inf_chaos_marauders_0","wh3_dlc20_chs_inf_chaos_warriors_msla","wh_main_nor_cav_marauder_horsemen_0","wh_main_nor_cav_marauder_horsemen_1","wh_dlc08_nor_cav_marauder_horsemasters_0"})
 			mixer_add_faction_to_major_faction_list("wh3_dlc20_nor_yusak")
 			
 			
