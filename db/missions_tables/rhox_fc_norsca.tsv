@@ -5,9 +5,9 @@ rhox_fc_norsca_protect_dark_fortress	SCRIPTED			brt/generic	rom_event_mission.pn
 rhox_graeling_mission_wh_main_nor_skaeling	RAID_REGION			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_wh3_dlc20_nor_dolgan	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_wh3_dlc20_nor_kul	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		617	646	false	false	0.0000		false	Success! You have achieved one of your goals.	false
-rhox_graeling_mission_wh_dlc08_nor_vanaheimlings	OWN_N_UNITS			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		351	723	false	false	0.0000		false	Success! You have achieved one of your goals.	false
-rhox_graeling_mission_wh_main_nor_aesling	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		414	655	false	false	0.0000		false	Success! You have achieved one of your goals.	false
-rhox_graeling_mission_wh_main_nor_baersonling	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		487	540	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_graeling_mission_wh_dlc08_nor_vanaheimlings	OWN_N_UNITS			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		234	558	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_graeling_mission_wh_main_nor_aesling	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		479	213	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_graeling_mission_wh_main_nor_baersonling	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		341	21	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_wh_main_nor_bjornling	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		258	613	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_wh_main_nor_sarl	SCRIPTED			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		391	653	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_graeling_mission_wh_main_nor_varg	OWN_N_UNITS			emp/generic	rom_event_mission.png	false	false	chaos_dwarf_relics		340	671	false	false	0.0000		false	Success! You have achieved one of your goals.	false
