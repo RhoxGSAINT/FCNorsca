@@ -168,7 +168,7 @@
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
-					name="ui/skins/default/icon_narrative.png"
+					name="ui/skins/default/rhox_graeling_panel/partypus_graeling_icon_narrative.png"
 					uniqueguid="D0D4E7F7-7E44-264B-30A0A107C7E359D7"/>
 				<component_image_uniqueguid
 					name="ui/skins/default/button_round_medium_pressed.png"
@@ -231,7 +231,7 @@
 					is_text_localised="false"/>
 			</localised_texts>
 			<override_images>
-				<element value="ui/skins/default/icon_narrative.png"/>
+				<element value="ui/skins/default/rhox_graeling_panel/partypus_graeling_icon_narrative.png"/>
 				<element value="ui/skins/default/button_round_medium_pressed.png"/>
 				<element value="ui/skins/default/button_round_medium_hover.png"/>
 				<element value="ui/skins/default/button_round_medium_active.png"/>

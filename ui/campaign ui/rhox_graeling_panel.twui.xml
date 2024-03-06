@@ -10,18 +10,19 @@
 					<panel_smoke_b this="332AA732-C25E-6D0D-925854A6E827208E"/>
 					<panel_smoke_t this="671B5E2E-D681-1968-F832503B271CDEFA"/>
 					<panel_frame this="1BB078C9-6C90-5513-9BCF9057C3229447"/>
-                    <panel_runes this="972C9A00-2F4F-3803-7A2D50ABF0B1C021">
-						<panel_rune_vfx this="DE9A7950-FA6D-DBAA-0DBAD1A1579E933D">
-							<smoke_mask this="FE8C1860-B4A6-F14F-4FDA1746C7B761C8">
-								<smoke this="D2BCD736-F081-55CA-A3AB3CE52049355C"/>
-							</smoke_mask>
-						</panel_rune_vfx>
-					</panel_runes>
+                    <panel_runes this="972C9A00-2F4F-3803-7A2D50ABF0B1C021"/>
 				</panel_background>
 				<header_frame this="BEA44FAB-80E1-AA19-51698915F2ECD17A">
 					<dy_faction this="616AD87E-64AC-75B5-B77E14B67689FCA2"/>
 				</header_frame>
 				<main this="EA52E7BF-B88C-0BF6-7C178B9D46FB348F">
+                    <slot_holder_decorations this="B7ED7A60-92D4-0B17-F2F58CAFFDCF2A6E">
+                        <bull_head_small_left this="8795FA29-8FB1-AE15-7B4B22D61FDAD7C2"/>
+                    </slot_holder_decorations>
+                    <slot_holder_decorations this="4F407BCC-13EF-24B8-14046457E07AB77A">
+                        <bull_head_small_right this="2B0D658C-1A7B-618B-9F35B519366887CE"/>
+                    </slot_holder_decorations>   
+                    <slot_holder_bull_head this="028AC1C6-7E4C-4A42-52B835E549CBBE2B"/>
 					<map_holder this="81FD6304-A131-8415-76916EB4C9756160">
 						<map this="58FEF7BC-9295-51E6-BF74D6589234B79B">
 							<frame this="D08B4C74-B88D-DC3F-326978872A6692B7"/>
@@ -547,7 +548,7 @@
 				<component_image
 					this="98A34374-A0D2-A0D9-E749907D34DB2549"
 					uniqueguid="98A34374-A0D2-A0D9-E749907D34DB2549"
-					imagepath="ui/skins/default/dlc23_chd_narrative_panel/chd_narrative_panel_bg_bottom.png"/>
+					imagepath="ui/skins/default/rhox_graeling_panel/partypus_graeling_narrative_panel_bg_bottom.png"/>
 			</componentimages>
 			<states>
 				<newstate
@@ -595,7 +596,7 @@
 				<component_image
 					this="B0CDDFC8-11B7-CB70-657FE35CF430464F"
 					uniqueguid="B0CDDFC8-11B7-CB70-657FE35CF430464F"
-					imagepath="ui/skins/default/dlc23_chd_narrative_panel/chd_narrative_panel_background.png"/>
+					imagepath="ui/skins/default/rhox_graeling_panel/partypus_graeling_panel_background.png"/>
 			</componentimages>
 			<states>
 				<newstate
@@ -5528,7 +5529,7 @@
 				<component_image
 					this="B2AC7623-1757-7966-AC4F38F4FF5359B5"
 					uniqueguid="B2AC7623-1757-7966-AC4F38F4FF5359B5"
-					imagepath="ui/skins/default/dlc23_chd_narrative_panel/chd_narrative_panel_bull_head_small_left.png"/>
+					imagepath="ui/skins/default/rhox_graeling_panel/partypus_graeling_narrative_panel_skull_small_left.png"/>
 			</componentimages>
 			<states>
 				<default
@@ -5551,11 +5552,11 @@
 		<slot_holder_decorations
 			this="B7ED7A60-92D4-0B17-F2F58CAFFDCF2A6E"
 			id="slot_holder_decorations"
-			offset="-52.00,19.00"
+			offset="0.00,19.00"
 			allowhorizontalresize="false"
 			allowverticalresize="false"
-			docking="Center Left External"
-			dock_offset="4.00,0.00"
+			docking="Top Left"
+			dock_offset="260.00,80.00"
 			component_anchor_point="1.00,0.50"
 			priority="51"
 			tooltipslocalised="true"
@@ -5569,6 +5570,29 @@
 					width="56"
 					height="76"
 					uniqueguid="C1EA1312-CF46-00F0-28D1DB40F7066529"/>
+			</states>
+		</slot_holder_decorations>
+        <slot_holder_decorations
+			this="4F407BCC-13EF-24B8-14046457E07AB77A"
+			id="slot_holder_decorations"
+			offset="0.00,19.00"
+			allowhorizontalresize="false"
+			allowverticalresize="false"
+			docking="Top Right"
+			dock_offset="-260.00,80.00"
+			component_anchor_point="-0.00,0.50"
+			priority="51"
+			tooltipslocalised="true"
+			uniqueguid="4F407BCC-13EF-24B8-14046457E07AB77A"
+			currentstate="B5B02EA5-A63B-6DCC-C7A24CDF11265245"
+			defaultstate="B5B02EA5-A63B-6DCC-C7A24CDF11265245">
+			<states>
+				<default
+					this="B5B02EA5-A63B-6DCC-C7A24CDF11265245"
+					name="default"
+					width="56"
+					height="76"
+					uniqueguid="B5B02EA5-A63B-6DCC-C7A24CDF11265245"/>
 			</states>
 		</slot_holder_decorations>
 		<bull_head_small_right
@@ -5587,7 +5611,7 @@
 				<component_image
 					this="94ED10DB-E12B-ADA5-A40DDCC67041D282"
 					uniqueguid="94ED10DB-E12B-ADA5-A40DDCC67041D282"
-					imagepath="ui/skins/default/dlc23_chd_narrative_panel/chd_narrative_panel_bull_head_small_right.png"/>
+					imagepath="ui/skins/default/rhox_graeling_panel/partypus_graeling_narrative_panel_skull_small_right.png"/>
 			</componentimages>
 			<states>
 				<default
@@ -5766,7 +5790,7 @@
 				<component_image
 					this="AE555981-14B4-4E3A-9E36EB33207CCEC1"
 					uniqueguid="AE555981-14B4-4E3A-9E36EB33207CCEC1"
-					imagepath="ui/skins/default/dlc23_chd_narrative_panel/chd_narrative_panel_bull_head_large.png"/>
+					imagepath="ui/skins/default/rhox_graeling_panel/partypus_graeling_narrative_panel_skull_large.png"/>
 			</componentimages>
 			<states>
 				<default
@@ -5786,29 +5810,6 @@
 				</default>
 			</states>
 		</slot_holder_bull_head>
-		<slot_holder_decorations
-			this="4F407BCC-13EF-24B8-14046457E07AB77A"
-			id="slot_holder_decorations"
-			offset="405.00,19.00"
-			allowhorizontalresize="false"
-			allowverticalresize="false"
-			docking="Center Right External"
-			dock_offset="-4.00,0.00"
-			component_anchor_point="-0.00,0.50"
-			priority="51"
-			tooltipslocalised="true"
-			uniqueguid="4F407BCC-13EF-24B8-14046457E07AB77A"
-			currentstate="B5B02EA5-A63B-6DCC-C7A24CDF11265245"
-			defaultstate="B5B02EA5-A63B-6DCC-C7A24CDF11265245">
-			<states>
-				<default
-					this="B5B02EA5-A63B-6DCC-C7A24CDF11265245"
-					name="default"
-					width="56"
-					height="76"
-					uniqueguid="B5B02EA5-A63B-6DCC-C7A24CDF11265245"/>
-			</states>
-		</slot_holder_decorations>
 		<panel_runes
 			this="972C9A00-2F4F-3803-7A2D50ABF0B1C021"
 			id="panel_runes"
@@ -5827,7 +5828,7 @@
 				<component_image
 					this="EBF5F035-C269-58C3-50853F87EF733758"
 					uniqueguid="EBF5F035-C269-58C3-50853F87EF733758"
-					imagepath="ui/skins/default/dlc23_chd_narrative_panel/chd_narrative_panel_runes.png"/>
+					imagepath="ui/skins/default/rhox_graeling_panel/partypus_gareling_narrative_panel_runes.png"/>
 			</componentimages>
 			<states>
 				<default
