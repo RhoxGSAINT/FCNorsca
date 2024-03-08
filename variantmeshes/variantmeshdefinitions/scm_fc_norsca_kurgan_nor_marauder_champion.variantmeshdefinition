@@ -10,6 +10,6 @@
     <SLOT name="weapon_4" attach_point="be_prop_4" />
     <SLOT name="weapon_5" attach_point="be_prop_5" />
     <SLOT name="body" >
-        <VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/bjornling_marauder_champion_base.VariantMeshDefinition" />
+        <VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/kurgan_marauder_champion_base.variantmeshdefinition" />
     </SLOT>
 </VARIANT_MESH>
