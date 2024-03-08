@@ -19,8 +19,10 @@
 	<SLOT name="legs" >
 		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_01.wsmodel" />
 		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_02.wsmodel" />
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\skg\skg_berserkers\legs\skg_marauder_berserkers_legs_01.wsmodel" />
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\skg\skg_berserkers\legs\skg_marauder_berserkers_legs_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_03.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_04.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_05.wsmodel" />
+
 	</SLOT>
 	<SLOT attach_point="spine_2" name="stump_neck">
 		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/dlc02_blood_pack/dlc02_stump_neck_hu1c.rigid_model_v2">
