@@ -1,6 +1,6 @@
 <VARIANT_MESH>
 	<SLOT name="body" >
-		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/kurgan_marauder_champion_base.variantmeshdefinition" />
+		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/kurgan_marauder_base.variantmeshdefinition" />
 	</SLOT>
 	<SLOT name="weapon_1" attach_point="be_prop_0" />
 	<SLOT name="weapon_2" attach_point="be_prop_1" >
