@@ -30,4 +30,7 @@ hkrul_akkorak_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\te
 hkrul_akkorak_campaign		kurg_akkorak_campaign		1.0000	1.0000	0.0000	
 hkrul_uzul		hkrul_uzkulek		1.0000	1.1600	0.0000	
 hkrul_sarg		hkrul_sargath		1.0000	1.1000	0.0000	
-hkrul_surtha_ek		hkrul_surtha_ek		1.0000	1.1000	0.0000	
+hkrul_surtha_ek		moloch_surtha_ek		1.0000	1.1000	0.0000	
+hkrul_surtha_ek_campaign		moloch_surtha_ek_campaign		1.0000	1.1000	0.0000	
+hkrul_surtha_ek_charioteer		moloch_surtha_ek_chariot		1.0000	1.1000	0.0000	
+medusa_surtha_ek_warhorse_chariot	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	medusa_surtha_ek_warhorse	hr1\chs\chs_steed\low_poly\chs_steed_lowlod	1.1000	1.1000	0.0000	

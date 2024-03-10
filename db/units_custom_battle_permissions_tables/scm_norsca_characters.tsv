@@ -39,4 +39,5 @@ wh3_dlc20_nor_yusak	true	hkrul_sarg	true	true	ui/portraits/portholes/no_culture/
 wh3_dlc20_nor_yusak	true	hkrul_sarg_horse	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
 wh3_dlc20_nor_yusak	true	hkrul_sarg_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
 wh3_dlc20_nor_yusak	true	hkrul_sarg_exalted_seeker_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_sargath.png	hkrul_sarg	hkrul_sarg	false		false
-wh_main_nor_varg	true	hkrul_surtha_ek	true	true	ui/portraits/portholes/no_culture/hkrul_surtha_ek.png	hkrul_surtha_ek	hkrul_surtha_ek	true		false
+wh_main_nor_varg	true	hkrul_surtha_ek	true	true	ui/portraits/portholes/no_culture/medusa_surtha_ek_0.png	hkrul_surtha_ek	hkrul_surtha_ek	false		false
+wh_main_nor_varg	true	hkrul_surtha_ek_chariot	true	true	ui/portraits/portholes/no_culture/medusa_surtha_ek_0.png	hkrul_surtha_ek_charioteer	hkrul_surtha_ek	false		false
