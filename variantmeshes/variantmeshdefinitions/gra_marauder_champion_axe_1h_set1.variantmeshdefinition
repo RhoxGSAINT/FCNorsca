@@ -1,0 +1,10 @@
+<VARIANT_MESH>
+	<SLOT name="axe 1h" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\gra\gra_champions\props\axe\gra_champion_axe_01.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\gra\gra_champions\props\axe\gra_champion_axe_02.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\gra\gra_champions\props\axe\gra_champion_axe_03.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>
