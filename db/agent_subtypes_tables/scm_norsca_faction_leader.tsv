@@ -11,4 +11,4 @@ hkrul_ulfric	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chiefta
 hkrul_dummy	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_hakka	false	false		hkrul_hakka	wh3_main_vo_actor_Khorne_Cultist_Of_Khorne	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_sarg	false	false		hkrul_sarg	wh3_dlc20_vo_actor_Slaanesh_Chaos_Lord_of_Slaanesh	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
-hkrul_surtha_ek	false	false		hkrul_surtha_ek	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
+hkrul_surtha_ek	false	false		hkrul_surtha_ek	wh_main_vo_actor_Chaos_MarauderChieftain	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		

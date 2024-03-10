@@ -39,4 +39,5 @@ faction	unit	name	variant	unit_card
 	hkrul_sarg_horse	hkrul_sarg	hkrul_sarg	hkrul_sargath
 	hkrul_sarg_chariot	hkrul_sarg	hkrul_sarg	hkrul_sargath
 	hkrul_sarg_exalted_seeker_chariot	hkrul_sarg	hkrul_sarg	hkrul_sargath
-	hkrul_surtha_ek	hkrul_surtha_ek	hkrul_surtha_ek	hkrul_surtha_ek
+	hkrul_surtha_ek	hkrul_surtha_ek	hkrul_surtha_ek	medusa_surtha_ek_0
+	hkrul_surtha_ek_chariot	hkrul_surtha_ek	hkrul_surtha_ek_charioteer	medusa_surtha_ek_0
