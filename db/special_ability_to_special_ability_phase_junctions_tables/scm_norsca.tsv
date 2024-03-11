@@ -46,3 +46,5 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_sarg_riders	true	false	false	hkrul_sarg_riders
 1	hkrul_sarg_sword	true	false	false	hkrul_sarg_sword
 1	hkrul_surtha_ek_whip	true	false	false	hkrul_surtha_ek_whip
+1	hkrul_ulfric_wall_formation	true	false	false	hkrul_ulfric_wall_formation_buffer
+2	hkrul_ulfric_wall_formation	true	false	false	hkrul_ulfric_wall_formation
