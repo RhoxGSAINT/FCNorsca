@@ -1,0 +1,14 @@
+unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
+#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_harald					
+			rhox_graeling_werekin_of_fijgard	all_non_chs	true
+			rhox_graeling_werekin_of_fijgard	dlc08_nor_all_norscan_wolf_creatures_and_warhounds	false
+			rhox_graeling_werekin_of_fijgard	dlc08_nor_skin_wolves	false
+			rhox_graeling_werekin_of_fijgard	mp_cap_unit_nor_mon_armoured_skin_wolves	false
+			rhox_graeling_werekin_of_fijgard	mp_cap_unit_nor_mon_skin_wolves_ror_0	false
+			rhox_graeling_werekin_of_fijgard	nor_all	false
+			rhox_graeling_werekin_of_fijgard	wh2_dlc11_nor_skin_wolves_trolls	false
+			rhox_graeling_werekin_of_fijgard	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots_ror	false
+			rhox_graeling_werekin_of_fijgard	wh2_dlc17_throgg_focus_units_excluding_fimir	false
+			rhox_graeling_werekin_of_fijgard	wh2_dlc17_throgg_focus_units	false
+			rhox_graeling_werekin_of_fijgard	wh2_main_ror_units_all	false
+			rhox_graeling_werekin_of_fijgard	wh_dlc08_all_mammoths_skin_wolves_ice_wolves_hounds	false
