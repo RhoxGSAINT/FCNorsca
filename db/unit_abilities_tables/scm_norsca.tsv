@@ -51,3 +51,4 @@ hkrul_sarg_sword	true	hkrul_sarg_sword		wh_type_bombardment		wh_main_anc_group_u
 hkrul_sarg_riders	true	hkrul_sarg_rider		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_sarg_marauder	true	hkrul_sarg_marauder		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_surtha_ek_whip	true	hkrul_surtha_ek_whip		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_ulfric_wall_formation	false	hkrul_ulfric_wall_formation		wh_type_augment		wh_main_anc_group_uncommon	false	false	passive		false

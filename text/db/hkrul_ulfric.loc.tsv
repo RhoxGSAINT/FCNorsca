@@ -96,3 +96,6 @@ technologies_short_description_rhox_bjornling_ritual_4	technologies_short_descri
 incidents_button_text_rhox_bjornling_turn_two_incident	Okay	false
 incidents_localised_description_rhox_bjornling_turn_two_incident	For some lore reasons	false
 incidents_localised_title_rhox_bjornling_turn_two_incident	Why Kislev?	false
+effects_description_hkrul_ulfric_wall_formation	Ability: "Bjornling Shieldwall"	true
+unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
+unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Bjornling Shieldwall	false
