@@ -16,6 +16,7 @@ local confederation_target_factions={
     wh_main_nor_skaeling={db_type=true},
     wh2_main_nor_skeggi={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"faction wh2_main_lzd_hexoatl","total 1"}},
     wh3_dlc20_nor_yusak={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"subculture wh3_main_sc_cth_cathay","total 3"}},
+    wh_dlc08_nor_naglfarlings={db_type=true},
     --mixer_nor_fjordlings
     --
 }

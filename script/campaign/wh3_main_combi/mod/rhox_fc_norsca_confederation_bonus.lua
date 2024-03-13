@@ -57,6 +57,11 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own",
 		value="5",
 	},
+	rafford_01={
+		effect="wh_dlc08_effect_force_stat_weapon_strength_skin_wolves_warhounds",
+		scope="character_to_force_own",
+		value="2",
+	},
 	wh_dlc08_nor_wulfrik={
 		effect="wh_main_effect_character_stat_bonus_vs_infantry",
 		scope="character_to_force_own",

@@ -21,6 +21,7 @@ rhox_graeling_mission_rhox_nor_khazags	false	faction	false	Event		false		0.0000
 rhox_graeling_mission_mixer_nur_rotbloods	false	faction	false	Event		false		0.0000
 rhox_graeling_mission_wh2_main_nor_skeggi	false	faction	false	Event		false		0.0000
 rhox_graeling_mission_wh3_dlc20_nor_yusak	false	faction	false	Event		false		0.0000
+rhox_graeling_mission_wh_dlc08_nor_naglfarlings	false	faction	false	Event		false		0.0000
 rhox_fc_norsca_darkfortress	false	defeat	false	Event		true		0.0000
 rhox_bjornling_turn_two_incident	false	faction	false	Event		true		0.0000
 rhox_fc_norsca_darkfortress_lost	false	defeat	false	Event		true		0.0000

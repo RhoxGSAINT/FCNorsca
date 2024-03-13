@@ -613,10 +613,6 @@ local rhox_faction_list={
             forename ="names_name_240922",
             familiyname ="names_name_240923",
         },	
-        agent={
-            type="dignitary",
-            subtype="wh_dlc08_nor_fimir_balefiend_fire"
-        },
         region="wh3_main_combi_region_naglfari_plain",
         how_they_play="rhox_fc_norsca_wh_dlc08_nor_naglfarlings_how_they_play",
         pic=800,
