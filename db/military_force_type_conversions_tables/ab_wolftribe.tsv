@@ -1,0 +1,5 @@
+from	to	automatic
+#military_force_type_conversions_tables;0;db/military_force_type_conversions_tables/ab_wolftribe		
+hunting_camp	HORDE	true
+hunting_camp	ARMY	true
+HORDE	hunting_camp	false

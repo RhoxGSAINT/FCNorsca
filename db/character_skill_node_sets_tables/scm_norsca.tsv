@@ -22,3 +22,8 @@ rhox_baersonling_chs_lord_mtze	general	false	false				rhox_baersonling_chs_lord_
 skill_node_set_hkrul_surtha_ek	general	false	false				hkrul_surtha_ek
 skill_node_set_hkrul_uzul	champion	false	false				hkrul_uzul
 skill_node_set_hkrul_sarg	general	false	false				hkrul_sarg
+nor_skin_wolf_lord_nodeset	general	false	false				nor_skin_wolf_lord
+rafford_nodeset	general	false	false				rafford_01
+wolftribe_arngrim_skills	champion	false	false				arngrim_01
+wolftribe_skill_node_set_rana	dignitary	false	false				rana_01
+wolftribe_skill_node_set_shaman_hero	wizard	false	false				wolffather_01

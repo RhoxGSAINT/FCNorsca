@@ -1,0 +1,6 @@
+faction	unit	general_portrait	general_uniform
+#unit_general_details_tables;0;db/unit_general_details_tables/ab_wolftribe			
+wh_dlc08_nor_naglfarlings	rafford_wolf	ui/portraits/portholes/wh_main_chs_chaos/rafford_wolf.png	
+wh_dlc08_nor_naglfarlings	arngrim_01	ui/portraits/portholes/wh_main_chs_chaos/arngrim_01.png	
+wh_dlc08_nor_naglfarlings	rana_01	ui/portraits/portholes/wh_main_chs_chaos/rana_01.png	
+wh_dlc08_nor_naglfarlings	wolffather_01	ui/portraits/portholes/wh_main_chs_chaos/wolffather_01.png	

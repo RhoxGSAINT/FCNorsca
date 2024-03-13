@@ -1,0 +1,12 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/ab_wolftribe								
+hunting_camp_stance_army_settlement_horde			force	1	ogre_camp.png	true	false	true
+hunting_camp_trait_bundle			faction	0		true	false	true
+packlord_hunter_reward_kho			character	1	attribute_mark_khorne.png	false	false	true
+packlord_hunter_reward_sla			character	1	attribute_mark_slaanesh.png	false	false	true
+packlord_hunter_reward_nur			character	1	attribute_mark_nurgle.png	false	false	true
+packlord_hunter_reward_tzc			character	1	attribute_mark_tzeentch.png	false	false	true
+packlord_hunter_reward_olr			character	1	mannslieb_full_moon.png	false	false	true
+wh_mod_lord_trait_nor_naglfarings			faction	1	character.png	true	false	true
+wolftribe_payload_rana_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
+wolftribe_payload_hidolfr_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true

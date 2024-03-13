@@ -49,7 +49,11 @@ core:add_ui_created_callback(
 			mixer_add_starting_unit_list_for_faction("wh3_dlc20_nor_yusak", {"scm_fc_norsca_yusak_nor_marauder","wh3_dlc20_chs_inf_chaos_warriors_msla","wh_main_nor_cav_marauder_horsemen_0","wh_main_nor_cav_marauder_horsemen_1","wh_dlc08_nor_cav_marauder_horsemasters_0"})
 			mixer_add_faction_to_major_faction_list("wh3_dlc20_nor_yusak")
 			
-			
+			mixer_change_lord_name("1657503126", "rafford_01")
+			mixer_change_lord_name("59318390", "rafford_01")--TOW
+			mixer_add_starting_unit_list_for_faction("wh_dlc08_nor_naglfarlings",
+            {"wh_dlc08_nor_mon_warwolves_0", "wh_dlc08_nor_mon_warwolves_0", "wh_dlc08_nor_mon_skinwolves_0", "wh_main_nor_inf_chaos_marauders_0", "wh_main_nor_inf_chaos_marauders_0", "wh_main_nor_inf_chaos_marauders_0"})
+            mixer_add_faction_to_major_faction_list("wh_dlc08_nor_naglfarlings")
 		end		
 	end
 )

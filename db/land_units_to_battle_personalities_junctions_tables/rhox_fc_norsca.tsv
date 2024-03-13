@@ -33,3 +33,4 @@ wh_mod_nor_oda_horse_javelin_person	hkrul_oda_horse	autonomous_rider	ap_riderpos
 wh_mod_nor_oda_manticore_person	hkrul_oda_manticore	autonomous_rider		-1
 bp_surtha_ek_charioteer	hkrul_surtha_ek_chariot	autonomous_rider	ap_crewposition_0	-1
 wh_main_nor_chariot_rider2	hkrul_surtha_ek_chariot	autonomous_rider	ap_crewposition_1	-1
+rana_wolf_rider	rana_02	officer	ap_wolfrider_0	-1

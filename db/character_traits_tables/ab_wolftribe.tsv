@@ -1,0 +1,23 @@
+key	no_going_back_level	hidden	precedence	icon	ui_priority	pre_battle_speech_parameter	remove_on_skill_reset
+#character_traits_tables;3;db/character_traits_tables/ab_wolftribe							
+packlord_hunter_trait_ocean_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_forest_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_tundra_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_wasteland_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_badlands_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_desert_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_mountain_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_grassland_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_jungle_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_underground_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_dragon_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_vampire_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_mummy_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_man_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_h_elf_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_w_elf_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_d_elf_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_dwarf_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_celestial_hunter	1	false	1	norsca	1		false
+packlord_hunter_trait_daemon_hunter	1	false	1	norsca	1		false
+savage_hunter_trait_savage_hunter	1	false	1	norsca	1		false

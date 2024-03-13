@@ -1,0 +1,16 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/ab_wolftribe									
+rafford_pack_leader	trait_norsca.png	Wolves and Skinwolves flock around the Black Wolf.	Pack Leader	0	true	false	false	0.0000	0
+wh_main_lord_abilities_blessing_of_the_hound	wh_dlc08_berserk.png	Blessing of the Ruinous Powers	Blessing of the Ruinous Powers	0	false	false	false	0.0000	0
+rafford_unique_leader_of_the_pack	character_military_spending.png	The Skinwolves of Norsca follow the Packleader without Question. Recruitment cost reduction: -20% for Skinwolves (Lord's army)	Leader of the Pack	14	false	false	false	0.0000	0
+ice_wolves_summon	wh_dlc08_berserk.png	The Packleader calls, the pack answers	Call of the Wolf	6	false	false	false	0.0000	0
+rafford_regeneration	character_replenishment.png	While the transformation into a beast is temporary, some abilites manifest themselves even untransformed.	Skinchanger	11	false	false	false	0.0000	0
+alpha_wolf	causes_terror.png		Wild Pack	0	false	false	false	0.0000	0
+rafford_unique_06	norsca_werekin.png		Alpha Wolf	0	false	false	false	0.0000	0
+fervent_creatures_rafford	battle_charge.png	Skin Wolves in Rafford's service enjoy speed and skill beyond even their preternatural capabilities.	Fervent Creatures	0	false	false	false	0.0000	0
+rafford_devourers_of_flesh	campaign_agent.png	After battle the mangled gore that remains is devoured by Rafford and his ravenous, insatiable Werekin.	Devourers of Flesh	0	false	false	false	0.0000	0
+rafford_unique_07	battle_charge.png	These frenzied creatures, whose packs are formed by kinship ties of blood and slaughter, care not what they kill in their bloodlust and bear no loyalty to any master, save the Dark Gods themselves.	Merciless Hunters	0	false	false	false	0.0000	0
+rafford_innate	trait_khorne.png			0	true	false	false	5.0000	0
+packlord_main_skill_boons_of_the_gods_1	mount_giant_wolf.png	This Packlord has drawn the attention of the gods with his hunts, earning the chance to receive their favour.	Gift to the Hunter	19	false	false	false	0.0000	0
+rafford_wanderer	wolftribe_rafford_wanderer.png	Although Wulfrik is the better-known bearer of this title, Rafford is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	Wanderer	0	false	false	false	0.0000	0
+rafford_mighty_huscarls	wolftribe_rafford_huscarls.png	Though they once were drifters and vagrants, the elite warriors of the Tribe of the Wolf have proven themselves to be a disciplined unit to be feared.	Mighty Huscarls	0	false	false	false	0.0000	0

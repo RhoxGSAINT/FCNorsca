@@ -1,0 +1,4 @@
+feature	force_type
+#military_force_type_feature_junctions_tables;0;db/military_force_type_feature_junctions_tables/ab_wolftribe	
+character_bound	hunting_camp
+general_is_irreplaceable	hunting_camp

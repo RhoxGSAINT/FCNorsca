@@ -1,3 +1,8 @@
 id	choice_key	dilemma_key	payload_key	value	target_key
 #cdir_events_dilemma_payloads_tables;0;db/cdir_events_dilemma_payloads_tables/rhox_fc_norsca					
 1517120928	SECOND	wh2_dlc08_nor_confederate_generic_no_execution	EFFECT_BUNDLE	KEY[rhox_fc_norsca_spared_leader];DURATION[5]	default
+728061755	FIRST	daemon_hunter_1	EFFECT_BUNDLE	KEY[packlord_hunter_reward_kho];DURATION[0]	default
+872144832	SECOND	daemon_hunter_1	EFFECT_BUNDLE	KEY[packlord_hunter_reward_sla];DURATION[0]	default
+690551701	THIRD	daemon_hunter_1	EFFECT_BUNDLE	KEY[packlord_hunter_reward_nur];DURATION[0]	default
+669325027	FOURTH	daemon_hunter_1	EFFECT_BUNDLE	KEY[packlord_hunter_reward_tzc];DURATION[0]	default
+197894311	FIRST	daemon_hunter_2	EFFECT_BUNDLE	KEY[packlord_hunter_reward_olr];DURATION[0]	default

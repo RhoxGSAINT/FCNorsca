@@ -1,0 +1,15 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/wolftribe_rana									
+wolftribe_skill_self_healers_touch	healers_touch.png		Healer's Touch	11	false	false	false	0.0000	0
+wolftribe_skill_self_hunters_traps	wh2_dlc13_skill_hunters_trap.png		Hunter's Traps	0	false	false	false	0.0000	0
+wolftribe_skill_self_fierce_beauty	wh2_dlc11_loyalty.png		Fierce Beauty	0	false	false	false	0.0000	0
+wolftribe_skill_self_keen_minded_ruler	wh2_def_comb_the_city.png		Keen-Minded Ruler	0	false	false	false	0.0000	0
+wolftribe_skill_self_rana_honorguard	rana_honorguard.png		Rána’s Honorguard	0	false	false	false	0.0000	0
+wolftribe_skill_self_chieftess_of_wolves	character_influence.png		Chieftess of the Wolves	0	false	false	false	0.0000	0
+wolftribe_skill_innate_foresters_daughter	trait_norsca.png		The Forester's Daughter	0	true	false	false	5.0000	0
+wolftribe_skill_unique_vengeful_daughter	vengeful_daughter.png		Vengeful Daughter	7	false	false	false	0.0000	0
+wolftribe_skill_unique_resourceful_huntress	wh2_hef_darken_the_skies.png		Resourceful Huntress	7	false	false	false	0.0000	0
+wolftribe_skill_unique_rana_of_the_wood	tech_dlc16_wef_ancients_ages.png		Rána of the Wood	14	false	false	false	0.0000	0
+wolftribe_skill_rana_mount_gjalfr	mount_giant_wolf.png		Gjálfr	1	false	false	false	0.0000	0
+wolftribe_skill_dummy_actions_rana	battle_attack.png		Actions [HIDDEN]	0	false	false	false	0.0000	0
+wolftribe_skill_rana_dummy	item_weapon.png	[HIDDEN]	[HIDDEN]	0	false	false	false	0.0000	0

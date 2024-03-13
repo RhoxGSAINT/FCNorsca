@@ -1,0 +1,10 @@
+chain	chain_set	slot_template	super_chain	remove
+#slot_template_permitted_building_chains_tables;0;db/slot_template_permitted_building_chains_tables/ab_wolftribe				
+	hunting_camp_secondary_horde	hunting_camp_secondary		false
+	hunting_camp_primary_horde	hunting_camp_primary		false
+	hunting_camp_primary_horde	horde_primary		false
+	hunting_camp_secondary_horde	horde_secondary		false
+wolftribe_greathall		mixer_ime_norsca_minor_secondary_marble_naglfari_plain		false
+wolftribe_humbled_hall		mixer_ime_norsca_minor_secondary_marble_naglfari_plain		false
+wolftribe_greathall		cr_major_secondary_naglheim		false
+wolftribe_humbled_hall		cr_major_secondary_naglheim		false
