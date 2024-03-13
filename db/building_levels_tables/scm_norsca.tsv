@@ -1,0 +1,7 @@
+level_name	chain	level	create_time	create_cost	upkeep_cost	commodity	only_in_capital	faction_unique	first_in_world_bundle	resource_requirement	can_convert	building_instance_key	should_show_building_level_in_ui_for_technology	health_override	development_point_cost	can_be_damaged	primary_slot_building_building_level_requirement	audio_building_type	visible_in_ui	food_cost	slave_cap_contribution	resource_cost	additional_loot_value
+#building_levels_tables;0;db/building_levels_tables/scm_norsca																							
+rhox_fc_norsca_hafskael_yard	rhox_fc_norsca_hafskael_yard	0	3	4500	0		false	false			true	rhox_fc_norsca_hafskael_yard	false	0.0000	0	true	3		true	0	0		0
+rhox_fc_norsca_harald_throne	rhox_fc_norsca_harald_throne	0	2	3000	0		false	false			true	rhox_fc_norsca_harald_throne	false	0.0000	0	true	2		true	0	0		0
+rhox_fc_norsca_kai_delta_swamp	rhox_fc_norsca_kai_delta_swamp	0	3	4500	0		false	false			true	rhox_fc_norsca_kai_delta_swamp	false	0.0000	0	true	3		true	0	0		0
+rhox_fc_norsca_valmir_aesling	rhox_fc_norsca_valmir_aesling	0	3	4500	0		false	false			true	rhox_fc_norsca_valmir_aesling	false	0.0000	0	true	3		true	0	0		0
+rhox_fc_norsca_great_gathering	rhox_fc_norsca_great_gathering	0	4	6000	0		false	false			true	rhox_fc_norsca_great_gathering	false	0.0000	0	true	4		true	0	0		0

@@ -1,0 +1,7 @@
+key	tech_category_tab	tech_category_position	chain_category	in_encyclopedia	building_superchain	optional_tier_icon	optional_sort_order	optional_required_horde_commander	can_be_dismantled
+#building_chains_tables;9;db/building_chains_tables/scm_norsca									
+rhox_fc_norsca_hafskael_yard			military	false	rhox_fc_norsca_hafskael_yard		0		true
+rhox_fc_norsca_harald_throne			military	false	rhox_fc_norsca_harald_throne		0		true
+rhox_fc_norsca_kai_delta_swamp			military	false	rhox_fc_norsca_kai_delta_swamp		0		true
+rhox_fc_norsca_valmir_aesling			military	false	rhox_fc_norsca_valmir_aesling		0		true
+rhox_fc_norsca_great_gathering			military	false	rhox_fc_norsca_great_gathering		0		true

@@ -1,0 +1,7 @@
+building	culture	subculture	faction	description	icon	disables	short_description	display_tooltip
+#building_culture_variants_tables;4;db/building_culture_variants_tables/scm_norsca								
+rhox_fc_norsca_hafskael_yard				wh_main_PLACEHOLDER	norsca_hafskaels_yard	false	rhox_fc_norsca_hafskael_yard	true
+rhox_fc_norsca_harald_throne				wh_main_PLACEHOLDER	norsca_haralds_throne	false	rhox_fc_norsca_harald_throne	true
+rhox_fc_norsca_kai_delta_swamp				wh_main_PLACEHOLDER	norsca_swamps_of_the_kali_delta	false	rhox_fc_norsca_kai_delta_swamp	true
+rhox_fc_norsca_valmir_aesling				wh_main_PLACEHOLDER	norsca_monolith_of_valmir_aesling	false	rhox_fc_norsca_valmir_aesling	true
+rhox_fc_norsca_great_gathering				wh_main_PLACEHOLDER	norsca_great_gathering	false	rhox_fc_norsca_great_gathering	true
