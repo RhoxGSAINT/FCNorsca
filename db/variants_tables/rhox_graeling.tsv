@@ -5,7 +5,9 @@ scm_fc_norsca_graeling_nor_marauder_javelins		gra_marauder_javelins		1.0000	1.00
 scm_fc_norsca_graeling_nor_marauder_spear		gra_marauder_spear		1.0000	1.0000	0.0500	
 scm_fc_norsca_graeling_nor_marauder		gra_marauder		1.0000	1.0000	0.0500	
 scm_fc_norsca_graeling_nor_marauder_great_weapons		gra_marauder_great_weapons		1.0000	1.0000	0.0500	
+scm_fc_norsca_graeling_nor_marauder_horsemen		gra_marauder_horsemen		1.0000	0.9500	0.0500	
 scm_fc_norsca_graeling_nor_marauder_horsemen_throwing_axe		gra_marauder_horsemen_throwing_axe		1.0000	0.9500	0.0500	
 scm_fc_norsca_graeling_nor_marauder_beserker		gra_marauder_dual_axes		1.0000	1.0000	0.0500	
 scm_fc_norsca_graeling_nor_marauder_champion_0		gra_marauder_champion		1.0000	1.0000	0.0500	
 scm_fc_norsca_graeling_nor_marauder_champion_1		gra_marauder_champion_great_mace		1.0000	1.0000	0.0500	
+scm_fc_norsca_graeling_nor_marauder_horsemasters		gra_marauder_horsemasters	hu1c\chs\chs_marauders\low_poly\chs_marauder_horsemen_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter

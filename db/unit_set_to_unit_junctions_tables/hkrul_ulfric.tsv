@@ -16,14 +16,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_bjornling_inf_marauder_champions_1	nor_all	false
 			hkrul_bjornling_inf_marauder_champions_1	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			hkrul_bjornling_inf_marauder_champions_1	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
-			hkrul_bjornling_inf_marauder_berserkers_0	all_non_chs	false
-			hkrul_bjornling_inf_marauder_berserkers_0	dlc08_nor_marauders_all	false
-			hkrul_bjornling_inf_marauder_berserkers_0	dlc08_nor_marauders_berserkers	false
-			hkrul_bjornling_inf_marauder_berserkers_0	dlc08_nor_marauders_inf	false
-			hkrul_bjornling_inf_marauder_berserkers_0	mp_cap_unit_nor_inf_marauder_berserkers	false
-			hkrul_bjornling_inf_marauder_berserkers_0	nor_all	false
-			hkrul_bjornling_inf_marauder_berserkers_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
-			hkrul_bjornling_inf_marauder_berserkers_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			hkrul_bjornling_inf_marauder_hunters_1	all_non_chs	false
 			hkrul_bjornling_inf_marauder_hunters_1	dlc08_nor_marauders_all	false
 			hkrul_bjornling_inf_marauder_hunters_1	dlc08_nor_marauders_hunters	false
@@ -59,7 +51,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_bjornling_inf_chaos_marauders_1	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			hkrul_bjornling_inf_marauder_champions_0	hkrul_bjornling	false
 			hkrul_bjornling_inf_marauder_champions_1	hkrul_bjornling	false
-			hkrul_bjornling_inf_marauder_berserkers_0	hkrul_bjornling	false
 			hkrul_bjornling_inf_marauder_hunters_1	hkrul_bjornling	false
 			hkrul_bjornling_inf_marauder_spearman_0	hkrul_bjornling	false
 			hkrul_bjornling_inf_chaos_marauders_0	hkrul_bjornling	false

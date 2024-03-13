@@ -34,7 +34,6 @@ unit_description_short_texts_text_hkrul_ulfric	The enigmatic High King of the Bj
 unit_description_short_texts_text_hkrul_bjornling_ogg	First mate of the Swordfysh and first lieutenant of Aranessa, Ogg is both a fierce sailor and warrior.	false
 unit_abilities_tooltip_text_hkrul_ulfric_axe	The Waraxe forged by Hafkael is the pinnacle of Skjold's might as proud bastion of the Bjornling.	true
 unit_abilities_onscreen_name_hkrul_ulfric_axe	Bjornheart Waraxe	true
-land_units_onscreen_name_hkrul_bjornling_inf_marauder_berserkers_0	Bjornling Berserkers	false
 land_units_onscreen_name_hkrul_bjornling_inf_marauder_champions_0	Bjornling Champions	false
 land_units_onscreen_name_hkrul_bjornling_inf_marauder_champions_1	Bjornling Champions (Great Weapons)	false
 land_units_onscreen_name_hkrul_bjornling_inf_marauder_hunters_1	Bjornling Hunters (Javelins)	false

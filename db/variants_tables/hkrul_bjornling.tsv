@@ -1,6 +1,5 @@
 variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
 #variants_tables;6;db/variants_tables/hkrul_bjornling							
-hkrul_bjornling_marauder_beserker		skg_marauder_dual_axes		1.0000	1.0000	0.0500	
 hkrul_bjornling_marauder_champion_0		bjornling_marauder_champion		1.0000	1.0000	0.0500	
 hkrul_bjornling_marauder_champion_1		bjornling_marauder_champion_great_mace		1.0000	1.0000	0.0500	
 hkrul_bjornling_marauder_throwing_axe		bjornling_marauder_throwing_axe		1.0000	1.0000	0.0500	
