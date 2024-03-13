@@ -10,10 +10,7 @@ core:add_listener(
 	function(context)
 		return context:character():character_subtype("nor_skin_wolf_lord") and not context:character():has_trait("savage_hunter_trait_savage_hunter");
 	end,
-	function(context)
-		local traits = nil;
-		local char_faction_key = context:character():faction():name();
-		
+	function(context)		
 		cm:force_add_trait(cm:char_lookup_str(context:character():cqi()), "savage_hunter_trait_savage_hunter");
 	end,
 	true

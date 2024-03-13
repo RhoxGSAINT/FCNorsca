@@ -18,3 +18,4 @@ rhox_beorg_confederation_effect	icon_stat_damage_base_character.png	160	icon_sta
 rhox_thorgar_confederation_effect	income.png	162	income.png	campaign	true
 rhox_sarg_confederation_effect	battle_movement.png	55	battle_movement.png	battle	true
 rhox_varg_confederation_effect	weapon_damage.png	55	weapon_damage.png	battle	true
+rhox_wolf_confederation_effect	weapon_damage.png	55	weapon_damage.png	battle	true
