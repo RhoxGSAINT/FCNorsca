@@ -1,0 +1,8 @@
+currency_type	item_type	cost_value
+#battle_currency_units_cost_values_tables;0;db/battle_currency_units_cost_values_tables/scm_norsca		
+supplies_currency	wolftribe_nor_inf_wolfguard_ror_0	1000.0000
+supplies_currency	wolftribe_nor_inf_wolfguard_ror_1	1350.0000
+supplies_currency	wolftribe_nor_inf_wolf_champions_ror_0	1500.0000
+supplies_currency	wolftribe_nor_inf_wolfguard_honorguard	0.0000
+supplies_currency	wh_dlc08_nor_mon_frost_wyrm_ror_0	0.0000
+supplies_currency	rana_02	1250.0000

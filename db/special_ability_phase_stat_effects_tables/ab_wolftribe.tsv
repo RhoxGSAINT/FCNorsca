@@ -1,0 +1,8 @@
+phase	stat	value	how
+#special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/ab_wolftribe			
+terrifying_howl	scalar_speed	0.7500	mult
+terrifying_howl	stat_morale	-8.0000	add
+wolftribe_ability_rally_the_tribe	stat_morale	16.0000	add
+wolftribe_abilities_bitter_aura	stat_morale	-10.0000	add
+wolftribe_abilities_frostaxe_aura	stat_damage_reflection	20.0000	add
+wolftribe_abilities_frostaxe_aura	stat_resistance_physical	10.0000	add

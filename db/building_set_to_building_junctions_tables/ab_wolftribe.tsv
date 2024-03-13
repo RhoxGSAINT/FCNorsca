@@ -1,0 +1,12 @@
+building_chain	building_level	building_set	exclude
+#building_set_to_building_junctions_tables;0;db/building_set_to_building_junctions_tables/ab_wolftribe			
+	hunting_camp_main_1	hunting_camp_new_horde_set	false
+	hunting_camp_beast_packs_1	hunting_camp_new_horde_set	false
+hunting_camp_main		hunting_camp_main	false
+hunting_camp_beast_packs		hunting_camp_beast_packs	false
+hunting_camp_shrine		hunting_camp_shrine	false
+hunting_camp_defence		hunting_camp_defence	false
+hunting_camp_hunting_parties		hunting_camp_hunting	false
+hunting_camp_thrill		hunting_camp_hunting	false
+wolftribe_greathall		wh2_main_set_landmark	false
+wolftribe_humbled_hall		wh2_main_set_landmark	false

@@ -10,3 +10,8 @@ factions_defend_desc_mixer_nor_fjordlings	You are defending against the Fjordlin
 factions_screen_adjective_mixer_nor_fjordlings		false
 factions_screen_name_mixer_nor_fjordlings	Fjordlings	false
 factions_screen_name_when_rebels_mixer_nor_fjordlings	Fjordlings Rebels	false
+factions_attack_desc_wh_dlc08_nor_naglfarlings	You are attacking the Tribe of the Wolf!	false
+factions_defend_desc_wh_dlc08_nor_naglfarlings	You are defending against the Tribe of the Wolf!	false
+factions_screen_adjective_wh_dlc08_nor_naglfarlings		false
+factions_screen_name_wh_dlc08_nor_naglfarlings	Tribe of the Wolf	false
+factions_screen_name_when_rebels_wh_dlc08_nor_naglfarlings	Tribe of the Wolf Rebels	false

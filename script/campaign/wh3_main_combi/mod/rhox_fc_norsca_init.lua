@@ -539,7 +539,7 @@ local rhox_faction_list={
         region="wh3_main_combi_region_varg_camp",
         how_they_play="rhox_fc_norsca_varg_how_they_play",
         pic=800,
-        faction_trait="hkrul_hrothgar_faction_trait",
+        faction_trait="hkrul_ek_faction_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -600,6 +600,34 @@ local rhox_faction_list={
             }
             rhox_add_warriors_units(cm:get_faction(faction_key), rhox_sarg_gift_units);
             rhox_add_faction_pool_units(cm:get_faction(faction_key), rhox_sarg_faction_units);
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
+    wh_dlc08_nor_naglfarlings ={
+        leader={
+            subtype="rafford_01",
+            unit_list="wh_dlc08_nor_mon_warwolves_0,wh_dlc08_nor_mon_warwolves_0,wh_dlc08_nor_mon_skinwolves_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
+            x=544,
+            y=837,
+            forename ="names_name_240922",
+            familiyname ="names_name_240923",
+        },	
+        agent={
+            type="dignitary",
+            subtype="wh_dlc08_nor_fimir_balefiend_fire"
+        },
+        region="wh3_main_combi_region_naglfari_plain",
+        how_they_play="rhox_fc_norsca_wh_dlc08_nor_naglfarlings_how_they_play",
+        pic=800,
+        faction_trait="wh_mod_lord_trait_nor_naglfarings",
+        kill_previous_leader=true,
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "arngrim_01", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "rana_01", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "wolffather_01", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end

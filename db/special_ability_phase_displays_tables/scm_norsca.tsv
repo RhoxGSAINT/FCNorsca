@@ -1,0 +1,5 @@
+key	active_vfx	banner_vfx	entity_vfx	entity_vfx_attach_type
+#special_ability_phase_displays_tables;1;db/special_ability_phase_displays_tables/scm_norsca				
+wh3_dlc23_crooked_dice_hkrul_iv		wh3_dlc23_crooked_dice_banner		top
+hkrul_ulfric_wall_formation			wh3_main_abilities_cth_passive_defensive_stance	front_rotated
+terrifying_howl		wh_main_generic_banner_debuff	wh2_dlc15_entity_speed_debuff	top

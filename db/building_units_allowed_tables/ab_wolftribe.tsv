@@ -1,0 +1,26 @@
+key	building	unit	XP	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/ab_wolftribe						
+2147483647	hunting_camp_main_1	wh_dlc08_nor_inf_marauder_spearman_0	0	0		false
+337553941	hunting_camp_main_1	wh_dlc08_nor_inf_marauder_hunters_1	0	0		false
+590037325	hunting_camp_main_2	wh_dlc08_nor_inf_marauder_spearman_0	0	0		false
+350244436	hunting_camp_main_2	wh_dlc08_nor_inf_marauder_hunters_1	0	0		false
+887271374	hunting_camp_main_2	wh_dlc08_nor_inf_marauder_hunters_0	0	0		false
+808120273	hunting_camp_main_3	wh_dlc08_nor_inf_marauder_spearman_0	0	0		false
+589904255	hunting_camp_main_3	wh_dlc08_nor_inf_marauder_hunters_1	0	0		false
+659856078	hunting_camp_main_3	wh_dlc08_nor_inf_marauder_hunters_0	0	0		false
+611850293	hunting_camp_main_4	wh_dlc08_nor_inf_marauder_spearman_0	0	0		false
+344512887	hunting_camp_main_4	wh_dlc08_nor_inf_marauder_hunters_1	0	0		false
+508068878	hunting_camp_main_4	wh_dlc08_nor_inf_marauder_hunters_0	0	0		false
+332751954	hunting_camp_beast_packs_1	wh_main_nor_mon_chaos_warhounds_0	0	0		false
+827094611	hunting_camp_beast_packs_2	wh_dlc08_nor_mon_skinwolves_0	0	0		false
+183120434	hunting_camp_beast_packs_2	wh_dlc08_nor_mon_warwolves_0	0	0		false
+236044752	hunting_camp_beast_packs_2	wh_main_nor_mon_chaos_warhounds_0	0	0		false
+100610276	hunting_camp_beast_packs_3	wh_dlc08_nor_mon_skinwolves_0	0	0		false
+779889656	hunting_camp_beast_packs_3	wh_dlc08_nor_mon_warwolves_0	0	0		false
+218991469	hunting_camp_beast_packs_3	wh_main_nor_mon_chaos_warhounds_0	0	0		false
+306065305	hunting_camp_beast_packs_3	wh_dlc08_nor_mon_skinwolves_1	0	0		false
+248161696	wolftribe_greathall_1	wolftribe_nor_inf_wolfguard_ror_0	0	0		false
+248161697	wolftribe_greathall_1	wolftribe_nor_inf_wolfguard_ror_1	0	0		false
+248161698	wolftribe_greathall_2	wolftribe_nor_inf_wolfguard_ror_0	0	0		false
+248161699	wolftribe_greathall_2	wolftribe_nor_inf_wolfguard_ror_1	0	0		false
+248161695	wolftribe_greathall_0	wolftribe_nor_inf_wolfguard_ror_0	0	0		false

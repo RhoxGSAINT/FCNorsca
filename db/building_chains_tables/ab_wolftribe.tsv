@@ -1,0 +1,10 @@
+key	tech_category_tab	tech_category_position	chain_category	in_encyclopedia	building_superchain	optional_tier_icon	optional_sort_order	optional_required_horde_commander	can_be_dismantled
+#building_chains_tables;9;db/building_chains_tables/ab_wolftribe									
+hunting_camp_main			military	false	hunting_camp_main	UI\Buildings\tier_icons\tier_ogr_camp.png	0		true
+hunting_camp_beast_packs			military	false	hunting_camp_barracks		1		true
+hunting_camp_shrine			military	false	hunting_camp_shrine		2		true
+hunting_camp_defence			military	false	hunting_camp_defence		3		true
+hunting_camp_hunting_parties			money	false	hunting_camp_support		4		true
+hunting_camp_thrill			money	false	hunting_camp_support		5		true
+wolftribe_greathall			money	false	wolftribe_greathall		0		true
+wolftribe_humbled_hall			money	false	wolftribe_humbled_hall		0		true

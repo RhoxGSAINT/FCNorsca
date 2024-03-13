@@ -1,0 +1,14 @@
+id	dilemma_key	option_key	value	target
+#cdir_events_dilemma_option_junctions_tables;1;db/cdir_events_dilemma_option_junctions_tables/ab_wolftribe				
+808104047	daemon_hunter_0	VAR_CHANCE	100	default
+553501646	daemon_hunter_0	GEN_TARGET_MODEL		default
+513644730	daemon_hunter_1	CND_DILEMMA_CHOICE_SELECTED	daemon_hunter_0:FIRST	default
+929592398	daemon_hunter_1	VAR_CHANCE	100	default
+207974215	daemon_hunter_2	CND_DILEMMA_CHOICE_SELECTED	daemon_hunter_0:SECOND	default
+811164291	daemon_hunter_2	VAR_CHANCE	100	default
+43114253	daemon_hunter_1	GEN_TARGET_PARENT		default
+71061629	daemon_hunter_2	GEN_TARGET_PARENT		default
+9056369	daemon_hunter_0	VAR_FOLLOWUP_CHANCE	100	default
+5346358	daemon_hunter_0	CND_ROUNDS_UNTIL_NEXT	1	default
+5861556	daemon_hunter_0	CND_CULTURE	wh_dlc08_nor_norsca	default
+1873479	daemon_hunter_0	CND_FIRST_ROUND	1	default

@@ -1,0 +1,38 @@
+key	text	tooltip
+#Loc;1;text/db/ab_wolftribe_loading_screen_quotes__.loc		
+loading_screen_quotes_title_wolftribe_loading	Tribe of the Wolf	true
+loading_screen_quotes_description_wolftribe_loading	The Tribe of the Wolf is a band of warriors and hunters drawn by the legend of one man: Rafford Olricsson, the “Black Wolf.” Many, though not all, of the tribesmen are Skin Wolves or Werekin, united in kinship and spirit as one pack. For now, the Tribe hunts over the tundras and mountains of the Naglfari Plain, but Rafford and his Packlords may yet venture to more distant lands in search of greater quarry.	true
+loading_screen_quotes_bulletpoints_wolftribe_loading		true
+loading_screen_quotes_title_wolftribe_rafford_loading	Rafford the Wolf	true
+loading_screen_quotes_description_wolftribe_rafford_loading	Rafford has come to be called many names: “the Black Wolf,” “the Wolf Chieftain,” and even “Olricsson.” Yet Rafford’s life had more humble origins — the son of a dying thrall, his youth was a constant struggle to prove himself. Proven he has become, for now Rafford’s charisma and skill in battle have drawn together a tribe of Skin Wolves and Werekin from across the north, eager to accompany him throughout the world on hunts, on raids, and in conquest.	true
+loading_screen_quotes_bulletpoints_wolftribe_rafford_loading		true
+loading_screen_quotes_title_wolftribe_hidolfr_loading	Hidolfr One-Eye	true
+loading_screen_quotes_description_wolftribe_hidolfr_loading	Hidolfr One-Eye is a local legend among the Norscan tribes. A wanderer belonging to the old tradition of the healers and diviners known as Vitki. “Old One-Eye” is as comfortable amidst the ice and snow of the northern mountains as he is by a great hall’s hearth, and to be visited by Hidolfr is a portent of luck and fortune for a Norscan village. Hidolfr is slow to anger, but when he does, he brings the wild fury of the North and its Winds with him into battle.	true
+loading_screen_quotes_bulletpoints_wolftribe_hidolfr_loading		false
+loading_screen_quotes_title_wolftribe_rana_loading	Rána of the Wood	false
+loading_screen_quotes_description_wolftribe_rana_loading	Formerly known as Vivienne d’Arden, Rána is the daughter of a Bretonnian forester hanged for false allegations of poaching. Rána met Rafford after the Wolf Chieftain was gravely injured during a raid, nursing him back to health deep in the forest. When Rafford returned to Norsca, Rána accompanied him, taking a new, Norscan name. Years later, Rána has married Rafford and become chieftess of the Tribe of the Wolf, delighting in the wild north and hunting across its icy lands.	false
+loading_screen_quotes_bulletpoints_wolftribe_rana_loading		false
+loading_screen_quotes_title_wolftribe_gjalfr_loading	Gjálfr	false
+loading_screen_quotes_description_wolftribe_gjalfr_loading	When Rána first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions, venturing together into the wilds in search of worthy prey.	false
+loading_screen_quotes_bulletpoints_wolftribe_gjalfr_loading		false
+loading_screen_quotes_title_wolftribe_arngrim_loading	Arngrim Frostaxe	false
+loading_screen_quotes_description_wolftribe_arngrim_loading	Once a bondsman in service to an Aesling jarl, Arngrim was a giant among his tribesmen—a berserker of such stature that some thought him to be a troll. Yet once Arngrim was blessed with the power of the werekin, he thought he could no longer serve any master. Years after slaying his jarl and stalking the tundra in search of foes to slay, Arngrim was proven wrong. Rafford Olricsson, besting Arngrim in a duel and sparing his life, welcomed the berserker into his tribe. Arngrim has been Rafford’s sworn blood-brother ever since.	false
+loading_screen_quotes_bulletpoints_wolftribe_arngrim_loading		false
+loading_screen_quotes_title_wolftribe_lore_1		false
+loading_screen_quotes_description_wolftribe_lore_1	“Yes, my mother was a thrall. What of it? I have torn chieftains, champions, and monsters asunder with my claws. Origins hold no meaning to wolves; only strength, cunning, and authority have value. Tell me, coward, would you like to test mine?” \\n\\n- Rafford Olricsson	false
+loading_screen_quotes_bulletpoints_wolftribe_lore_1		false
+loading_screen_quotes_title_wolftribe_lore_2		false
+loading_screen_quotes_description_wolftribe_lore_2	“Greetings, World Walker. I hear that you’ve just returned from slaying yet another champion — tell me, where did you voyage this time? Ulthuan? Cathay? Truly, no other among our people can claim to have seen as many lands as you. But I tell you now, it will not always be so — for ever has my blood been stirred by the thrill of the hunt, and that thrill is never sated.”\\n\\n- Rafford Olricsson, to Wulfrik the Wanderer	false
+loading_screen_quotes_bulletpoints_wolftribe_lore_2		false
+loading_screen_quotes_title_wolftribe_lore_3		false
+loading_screen_quotes_description_wolftribe_lore_3	The Packlords are the greatest of the Werekin, champions among the wolves of Norsca. Bound by a primal pack hunter’s instinct, they follow the strongest among their number and are in turn followed by lesser Skin Wolves. For many years, Rafford has stood atop the hierarchy, but it is a common thing for ambitious Packlords to challenge each other for dominance.	false
+loading_screen_quotes_bulletpoints_wolftribe_lore_3		false
+loading_screen_quotes_title_wolftribe_lore_4		false
+loading_screen_quotes_description_wolftribe_lore_4	“The choice is yours: bare your neck or bare your steel. It makes little difference. Either way, I will carve you apart with my axes and feast upon your corpse.”\\n\\n- Arngrim Frostaxe	false
+loading_screen_quotes_bulletpoints_wolftribe_lore_4		false
+loading_screen_quotes_title_wolftribe_lore_5		false
+loading_screen_quotes_description_wolftribe_lore_5	“The only love I have for Bretonnia is its lands — the shade of its forests and the warmth of its pastures. As for its folk...at best, they are cowards willfully bent in servitude to undeserving masters. At worst, they are robbers dressed in silk, who pretend that their dishonourable acts are chivalrous.”\\n\\n- Rána of the Wood, formerly called Vivienne d’Arden	false
+loading_screen_quotes_bulletpoints_wolftribe_lore_5		false
+loading_screen_quotes_title_wolftribe_lore_6		false
+loading_screen_quotes_description_wolftribe_lore_6	“I am Hidolfr, and I am the Cloaked One. I am Battle-Wolf, Forni Song-Weaver. I have as many names as there are bodies on a battlefield, as many stories as there are hairs in a dwarf’s beard. I have gained wisdom upon the peaks overlooking the Sea of Chaos, seen the Eagle’s whispers in the lights dancing in the winter sky. The winds are my skalds, the beasts my companions.”\\n\\n- Hidolfr One-Eye	false
+loading_screen_quotes_bulletpoints_wolftribe_lore_6		false

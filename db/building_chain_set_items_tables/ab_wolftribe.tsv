@@ -1,0 +1,8 @@
+chain	set	super_chain	remove
+#building_chain_set_items_tables;0;db/building_chain_set_items_tables/ab_wolftribe			
+hunting_camp_main	hunting_camp_primary_horde		false
+hunting_camp_beast_packs	hunting_camp_secondary_horde		false
+hunting_camp_shrine	hunting_camp_secondary_horde		false
+hunting_camp_defence	hunting_camp_secondary_horde		false
+hunting_camp_hunting_parties	hunting_camp_secondary_horde		false
+hunting_camp_thrill	hunting_camp_secondary_horde		false

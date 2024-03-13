@@ -1,0 +1,8 @@
+key	icon	sort_order	show_in_ui	audio_switch	colour_hex
+#building_sets_tables;5;db/building_sets_tables/ab_wolftribe					
+hunting_camp_new_horde_set	placeholder	0	false		000255
+hunting_camp_main	placeholder	0	true		3E3D38
+hunting_camp_defence	ui/buildings/icons/nor_cat_defence.png	6	true		5B492F
+hunting_camp_hunting	ui/buildings/icons/nor_cat_civic.png	7	true		294711
+hunting_camp_beast_packs	ui/buildings/icons/nor_cat_recruitment.png	4	true		781414
+hunting_camp_shrine	ui/buildings/icons/nor_cat_support.png	5	true		436D6F
