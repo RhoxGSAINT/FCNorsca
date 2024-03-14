@@ -1,0 +1,3 @@
+key	building	unit	XP	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/scm_norsca						
+655190347	rhox_fc_norsca_hafskael_yard	rhox_bjornling_huscarl	0	0		false

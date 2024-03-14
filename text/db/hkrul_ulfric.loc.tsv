@@ -98,3 +98,8 @@ incidents_localised_title_rhox_bjornling_turn_two_incident	Why Kislev?	false
 effects_description_hkrul_ulfric_wall_formation	Ability: "Bjornling Shieldwall"	true
 unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
 unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Bjornling Shieldwall	false
+unit_description_historical_texts_text_hkrul_huscarl	Huscarl	false
+land_units_onscreen_name_rhox_bjornling_huscarl	Huscarl	false
+land_units_onscreen_name_rhox_bjornling_huscarl_ror	RoR Huscarl	false
+unit_description_short_texts_text_hkrul_huscarl	Huscarl	false
+campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Bjornling faction or have Ulfric Grondal in your faction[[/col]]	false

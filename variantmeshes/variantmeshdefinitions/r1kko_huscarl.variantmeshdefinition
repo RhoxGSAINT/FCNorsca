@@ -1,0 +1,18 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/r1kko_huscarl_base.variantmeshdefinition" />
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/axe1.wsmodel" />
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/sub1/shield1.wsmodel" />
+        <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/sub2/shield2.wsmodel" />
+        <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/sub3/shield3.wsmodel" />
+        <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/sub4/shield4.wsmodel" />
+	</SLOT>
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+</VARIANT_MESH>

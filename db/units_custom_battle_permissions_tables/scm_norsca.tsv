@@ -9,3 +9,5 @@ wh_dlc08_nor_norsca	false	wolftribe_nor_inf_wolfguard_ror_0	true	true				true		f
 wh_dlc08_nor_norsca	false	wolftribe_nor_inf_wolfguard_ror_1	true	true				true		false
 wh_dlc08_nor_norsca	false	wolftribe_nor_inf_wolf_champions_ror_0	true	true				true		false
 wh2_main_nor_skeggi	false	hkrul_skeggi_giant_ror	true	true				false		false
+wh_main_nor_bjornling	false	rhox_bjornling_huscarl	true	true				false		false
+wh_main_nor_bjornling	false	rhox_bjornling_huscarl_ror	true	true				false		false

@@ -1,6 +1,6 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_adella					
-			hkrul_skeggi_inf_marauder_champions_0	all_non_chs	false
+			hkrul_skeggi_inf_marauder_champions_0	all_non_chs	true
 			hkrul_skeggi_inf_marauder_champions_0	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_marauder_champions_0	dlc08_nor_marauders_champions	false
 			hkrul_skeggi_inf_marauder_champions_0	dlc08_nor_marauders_inf	false
@@ -8,7 +8,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_inf_marauder_champions_0	nor_all	false
 			hkrul_skeggi_inf_marauder_champions_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			hkrul_skeggi_inf_marauder_champions_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
-			hkrul_skeggi_inf_marauder_champions_1	all_non_chs	false
+			hkrul_skeggi_inf_marauder_champions_1	all_non_chs	true
 			hkrul_skeggi_inf_marauder_champions_1	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_marauder_champions_1	dlc08_nor_marauders_champions	false
 			hkrul_skeggi_inf_marauder_champions_1	dlc08_nor_marauders_inf	false
@@ -16,7 +16,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_inf_marauder_champions_1	nor_all	false
 			hkrul_skeggi_inf_marauder_champions_1	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			hkrul_skeggi_inf_marauder_champions_1	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
-			hkrul_skeggi_inf_marauder_berserkers_0	all_non_chs	false
+			hkrul_skeggi_inf_marauder_berserkers_0	all_non_chs	true
 			hkrul_skeggi_inf_marauder_berserkers_0	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_marauder_berserkers_0	dlc08_nor_marauders_berserkers	false
 			hkrul_skeggi_inf_marauder_berserkers_0	dlc08_nor_marauders_inf	false
@@ -24,7 +24,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_inf_marauder_berserkers_0	nor_all	false
 			hkrul_skeggi_inf_marauder_berserkers_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			hkrul_skeggi_inf_marauder_berserkers_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
-			hkrul_skeggi_inf_marauder_hunters_1	all_non_chs	false
+			hkrul_skeggi_inf_marauder_hunters_1	all_non_chs	true
 			hkrul_skeggi_inf_marauder_hunters_1	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_marauder_hunters_1	dlc08_nor_marauders_hunters	false
 			hkrul_skeggi_inf_marauder_hunters_1	dlc08_nor_marauders_inf	false
@@ -34,7 +34,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_inf_marauder_hunters_1	wh2_dlc11_nor_marauder_hunters_marauder_horsemen	false
 			hkrul_skeggi_inf_marauder_hunters_1	wh2_dlc11_nor_vets_marauder_hunters_marauder_horsemen	false
 			hkrul_skeggi_inf_marauder_hunters_1	wh2_dlc17_wulfrik_focus_units	false
-			hkrul_skeggi_inf_marauder_spearman_0	all_non_chs	false
+			hkrul_skeggi_inf_marauder_spearman_0	all_non_chs	true
 			hkrul_skeggi_inf_marauder_spearman_0	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_marauder_spearman_0	dlc08_nor_marauders_inf	false
 			hkrul_skeggi_inf_marauder_spearman_0	dlc08_nor_marauders_spearmen	false
@@ -43,7 +43,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_inf_marauder_spearman_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			hkrul_skeggi_inf_marauder_spearman_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			hkrul_skeggi_inf_marauder_spearman_0	wh2_dlc17_wulfrik_focus_units	false
-			hkrul_skeggi_giant	all_non_chs	false
+			hkrul_skeggi_giant	all_non_chs	true
 			hkrul_skeggi_giant	dlc08_nor_giants	false
 			hkrul_skeggi_giant	dlc08_nor_monsters	false
 			hkrul_skeggi_giant	mp_cap_group_rare_single_entities	false
@@ -51,14 +51,14 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_giant	nor_all	false
 			hkrul_skeggi_giant	wh2_dlc11_nor_fimir_giant_mammoth	false
 			hkrul_skeggi_giant	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
-			hkrul_skeggi_inf_chaos_marauders_0	all_non_chs	false
+			hkrul_skeggi_inf_chaos_marauders_0	all_non_chs	true
 			hkrul_skeggi_inf_chaos_marauders_0	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_chaos_marauders_0	dlc08_nor_marauders_inf	false
 			hkrul_skeggi_inf_chaos_marauders_0	mp_cap_unit_nor_inf_marauders_0	false
 			hkrul_skeggi_inf_chaos_marauders_0	nor_all	false
 			hkrul_skeggi_inf_chaos_marauders_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			hkrul_skeggi_inf_chaos_marauders_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
-			hkrul_skeggi_inf_chaos_marauders_1	all_non_chs	false
+			hkrul_skeggi_inf_chaos_marauders_1	all_non_chs	true
 			hkrul_skeggi_inf_chaos_marauders_1	dlc08_nor_marauders_all	false
 			hkrul_skeggi_inf_chaos_marauders_1	dlc08_nor_marauders_inf	false
 			hkrul_skeggi_inf_chaos_marauders_1	mp_cap_unit_nor_inf_marauders_1	false
