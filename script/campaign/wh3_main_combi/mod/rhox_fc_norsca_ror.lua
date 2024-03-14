@@ -10,6 +10,11 @@ local rhox_fc_norsca_unlockable_ror_list={
         init_faction="wh_dlc08_nor_naglfarlings",
         agent_subtype="rafford_01",
     }
+    rhox_bjornling_huscarl_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh_main_nor_bjornling",
+        agent_subtype="hkrul_ulfric",
+    }
 }
 
 cm:add_first_tick_callback(

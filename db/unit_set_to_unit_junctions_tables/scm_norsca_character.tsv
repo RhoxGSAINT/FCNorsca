@@ -1,86 +1,86 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/scm_norsca_character					
-			hkrul_adella	all_non_chs	false
+			hkrul_adella	all_non_chs	true
 			hkrul_adella	nor_all	false
-			hkrul_adella_horse	all_non_chs	false
+			hkrul_adella_horse	all_non_chs	true
 			hkrul_adella_horse	nor_all	false
-			hkrul_adella_chariot	all_non_chs	false
+			hkrul_adella_chariot	all_non_chs	true
 			hkrul_adella_chariot	nor_all	false
-			hkrul_adella_stegadon	all_non_chs	false
+			hkrul_adella_stegadon	all_non_chs	true
 			hkrul_adella_stegadon	nor_all	false
-			hkrul_akkorak	all_non_chs	false
+			hkrul_akkorak	all_non_chs	true
 			hkrul_akkorak	nor_all	false
-			hkrul_birna	all_non_chs	false
+			hkrul_birna	all_non_chs	true
 			hkrul_birna	nor_all	false
-			hkrul_drenok	all_non_chs	false
+			hkrul_drenok	all_non_chs	true
 			hkrul_drenok	nor_all	false
-			hkrul_drenok_chariot	all_non_chs	false
+			hkrul_drenok_chariot	all_non_chs	true
 			hkrul_drenok_chariot	nor_all	false
-			hkrul_drenok_bear	all_non_chs	false
+			hkrul_drenok_bear	all_non_chs	true
 			hkrul_drenok_bear	nor_all	false
-			hkrul_einar	all_non_chs	false
+			hkrul_einar	all_non_chs	true
 			hkrul_einar	nor_all	false
-			hkrul_einar_bear	all_non_chs	false
+			hkrul_einar_bear	all_non_chs	true
 			hkrul_einar_bear	nor_all	false
-			hkrul_hrothgar	all_non_chs	false
+			hkrul_hrothgar	all_non_chs	true
 			hkrul_hrothgar	nor_all	false
-			hkrul_rafn	all_non_chs	false
+			hkrul_rafn	all_non_chs	true
 			hkrul_rafn	nor_all	false
-			hkrul_lokjar	all_non_chs	false
+			hkrul_lokjar	all_non_chs	true
 			hkrul_lokjar	mp_cap_group_heroes	false
 			hkrul_lokjar	nor_all	false
-			hkrul_lokjar_horse	all_non_chs	false
+			hkrul_lokjar_horse	all_non_chs	true
 			hkrul_lokjar_horse	mp_cap_group_heroes	false
 			hkrul_lokjar_horse	nor_all	false
-			hkrul_lokjar_chariot	all_non_chs	false
+			hkrul_lokjar_chariot	all_non_chs	true
 			hkrul_lokjar_chariot	mp_cap_group_heroes	false
 			hkrul_lokjar_chariot	nor_all	false
-			hkrul_harald	all_non_chs	false
+			hkrul_harald	all_non_chs	true
 			hkrul_harald	nor_all	false
-			hkrul_oda	all_non_chs	false
+			hkrul_oda	all_non_chs	true
 			hkrul_oda	mp_cap_group_heroes	false
 			hkrul_oda	nor_all	false
-			hkrul_oda_horse	all_non_chs	false
+			hkrul_oda_horse	all_non_chs	true
 			hkrul_oda_horse	mp_cap_group_heroes	false
 			hkrul_oda_horse	nor_all	false
-			hkrul_oda_manticore	all_non_chs	false
+			hkrul_oda_manticore	all_non_chs	true
 			hkrul_oda_manticore	mp_cap_group_heroes	false
 			hkrul_oda_manticore	nor_all	false
-			hkrul_sayl	all_non_chs	false
+			hkrul_sayl	all_non_chs	true
 			hkrul_sayl	nor_all	false
-			hkrul_sayl_chariot	all_non_chs	false
+			hkrul_sayl_chariot	all_non_chs	true
 			hkrul_sayl_chariot	nor_all	false
-			hkrul_sayl_mammoth	all_non_chs	false
+			hkrul_sayl_mammoth	all_non_chs	true
 			hkrul_sayl_mammoth	nor_all	false
-			hkrul_ulfric	all_non_chs	false
+			hkrul_ulfric	all_non_chs	true
 			hkrul_ulfric	nor_all	false
-			hkrul_ulfric_horse	all_non_chs	false
+			hkrul_ulfric_horse	all_non_chs	true
 			hkrul_ulfric_horse	nor_all	false
-			hkrul_ulfric_chariot	all_non_chs	false
+			hkrul_ulfric_chariot	all_non_chs	true
 			hkrul_ulfric_chariot	nor_all	false
-			hkrul_ulfric_mammoth	all_non_chs	false
+			hkrul_ulfric_mammoth	all_non_chs	true
 			hkrul_ulfric_mammoth	nor_all	false
 			hkrul_verdandi	mp_cap_group_heroes	false
 			hkrul_verdandi	nor_all	false
-			hkrul_soren	all_non_chs	false
+			hkrul_soren	all_non_chs	true
 			hkrul_soren	nor_all	false
-			hkrul_hakka	all_non_chs	false
+			hkrul_hakka	all_non_chs	true
 			hkrul_hakka	nor_all	false
-			hkrul_hakka_chariot	all_non_chs	false
+			hkrul_hakka_chariot	all_non_chs	true
 			hkrul_hakka_chariot	nor_all	false
-			hkrul_hakka_juggernaut	all_non_chs	false
+			hkrul_hakka_juggernaut	all_non_chs	true
 			hkrul_hakka_juggernaut	nor_all	false
 			hkrul_uzul	mp_cap_group_heroes	false
 			hkrul_uzul	nor_all	false
-			hkrul_sarg	all_non_chs	false
+			hkrul_sarg	all_non_chs	true
 			hkrul_sarg	nor_all	false
-			hkrul_sarg_horse	all_non_chs	false
+			hkrul_sarg_horse	all_non_chs	true
 			hkrul_sarg_horse	nor_all	false
-			hkrul_sarg_chariot	all_non_chs	false
+			hkrul_sarg_chariot	all_non_chs	true
 			hkrul_sarg_chariot	nor_all	false
-			hkrul_sarg_exalted_seeker_chariot	all_non_chs	false
+			hkrul_sarg_exalted_seeker_chariot	all_non_chs	true
 			hkrul_sarg_exalted_seeker_chariot	nor_all	false
-			hkrul_surtha_ek	all_non_chs	false
+			hkrul_surtha_ek	all_non_chs	true
 			hkrul_surtha_ek	nor_all	false
 			arngrim_01	characters	false
 			arngrim_01	all_non_chs	true
