@@ -12,3 +12,4 @@ id	mission_key	payload_key	status_key	value	target_key
 814659538	rhox_graeling_mission_wh_main_nor_skaeling	TREASURY	SUCCESS	AMOUNT[5000]	default
 814659539	rhox_graeling_mission_wh_dlc08_nor_naglfarlings	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_graeling_payload_wh_dlc08_nor_naglfarlings]	default
 814659540	rhox_graeling_mission_wh_dlc08_nor_naglfarlings	TREASURY	SUCCESS	AMOUNT[5000]	default
+814659541	rhox_fc_norsca_asta	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_fc_norsca_asta]	default

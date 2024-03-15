@@ -1,0 +1,8 @@
+key	faction	allowed
+#units_to_exclusive_faction_permissions_tables;0;db/units_to_exclusive_faction_permissions_tables/scm_norsca_elite		
+rhox_graeling_champion	wh_dlc08_nor_norsca	true
+rhox_kurgan_champion	wh_dlc08_nor_norsca	true
+rhox_baersonling_champion	wh_dlc08_nor_norsca	true
+rhox_aesling_berserker	wh_dlc08_nor_norsca	true
+rhox_kurgan_javelin	wh_dlc08_nor_norsca	true
+rhox_kurgan_spearman	wh_dlc08_nor_norsca	true
