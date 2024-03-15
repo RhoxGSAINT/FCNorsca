@@ -53,3 +53,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	wolftribe_ability_rally_the_tribe	true	true	false	wolftribe_ability_rally_the_tribe
 1	wolftribe_abilities_bitter_aura	false	false	true	wolftribe_abilities_bitter_aura
 1	wolftribe_abilities_frostaxe_aura	true	false	false	wolftribe_abilities_frostaxe_aura
+0	rhox_huscarl_shield_wall	true	false	false	rhox_huscarl_shield_wall

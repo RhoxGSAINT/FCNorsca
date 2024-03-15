@@ -64,3 +64,4 @@ wolftribe_abilities_child_of_frigustrex	true	wolftribe_abilities_child_of_frigus
 wolftribe_abilities_bitter_aura	false	wh_dlc08_quest_passive_frost_aura		wh_type_area_of_hexes		wh_main_anc_group_common	true	false	passive		false
 wolftribe_abilities_frostaxe_aura	false	wh_dlc08_unit_contact_frostbite		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 wolftribe_summon_champions	true	rana_honorguard		wh_type_summon_unit		wh_main_anc_group_unique	true	false	active		false
+rhox_huscarl_shield_wall	false	wh2_main_item_passive_shield_of_ghrond		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
