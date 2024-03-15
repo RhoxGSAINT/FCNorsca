@@ -5,6 +5,7 @@
 	<SLOT name="weapon_1" attach_point="be_prop_0" />
 	<SLOT name="weapon_2" attach_point="be_prop_1" >
 		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/axe1.wsmodel" />
+        <VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/axe2.wsmodel" />
 	</SLOT>
 	<SLOT name="shield" attach_point="be_prop_2" >
 		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/husk/huskarl/props/sub5ror/shield5ror.wsmodel" />
