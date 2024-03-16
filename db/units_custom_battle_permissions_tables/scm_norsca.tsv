@@ -1,6 +1,6 @@
 faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
 #units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/scm_norsca										
-wh3_dlc20_nor_dolgan	false	hkrul_sarl_hunters	true	true				false		false
+wh3_dlc20_nor_dolgan	false	hkrul_sarl_hunters	true	true				true		false
 wh_dlc08_nor_vanaheimlings	false	dead_drenok_ice_golem	true	true				false		false
 wh_dlc08_nor_vanaheimlings	false	dead_drenok_ice_bears	true	true				false		false
 wh_dlc08_nor_vanaheimlings	false	dead_drenok_greater_ice_golem	true	true				false		false
@@ -8,6 +8,6 @@ wh_main_nor_graeling	false	rhox_graeling_werekin_of_fijgard	true	true				false		
 wh_dlc08_nor_norsca	false	wolftribe_nor_inf_wolfguard_ror_0	true	true				true		false
 wh_dlc08_nor_norsca	false	wolftribe_nor_inf_wolfguard_ror_1	true	true				true		false
 wh_dlc08_nor_norsca	false	wolftribe_nor_inf_wolf_champions_ror_0	true	true				true		false
-wh2_main_nor_skeggi	false	hkrul_skeggi_giant_ror	true	true				false		false
+wh2_main_nor_skeggi	false	hkrul_skeggi_giant_ror	true	true				true		false
 wh_main_nor_bjornling	false	rhox_bjornling_huscarl	true	true				false		false
 wh_main_nor_bjornling	false	rhox_bjornling_huscarl_ror	true	true				false		false

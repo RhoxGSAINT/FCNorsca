@@ -45,7 +45,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_sarg_marauder	true	false	false	hkrul_sarg_marauder
 1	hkrul_sarg_riders	true	false	false	hkrul_sarg_riders
 1	hkrul_sarg_sword	true	false	false	hkrul_sarg_sword
-1	hkrul_surtha_ek_whip	true	false	false	hkrul_surtha_ek_whip
+1	hkrul_surtha_ek_speed_up	true	false	false	hkrul_surtha_ek_speed_up
 1	hkrul_ulfric_wall_formation	true	false	false	hkrul_ulfric_wall_formation_buffer
 2	hkrul_ulfric_wall_formation	true	false	false	hkrul_ulfric_wall_formation
 1	terrifying_howl	false	false	true	terrifying_howl
@@ -54,3 +54,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	wolftribe_abilities_bitter_aura	false	false	true	wolftribe_abilities_bitter_aura
 1	wolftribe_abilities_frostaxe_aura	true	false	false	wolftribe_abilities_frostaxe_aura
 0	rhox_huscarl_shield_wall	true	false	false	rhox_huscarl_shield_wall
+1	hkrul_surtha_ek_whip	true	false	false	wh2_dlc16_hero_abilities_evisceration

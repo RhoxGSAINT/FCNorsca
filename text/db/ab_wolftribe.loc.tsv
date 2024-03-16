@@ -256,20 +256,20 @@ ui_text_replacements_localised_text_character_initiatives_rhox_wolftribe	Hunting
 incidents_localised_title_packlord_hunter_gained_a_trait	Savage Hunter	true
 incidents_localised_description_packlord_hunter_gained_a_trait	Successful Hunt	true
 event_feed_strings_text_fc_norsca_event_feed_character_initiative_unlocked_secondary_detail	#(character) has completed a challenge.\\n\\nThey have gained the [[b]]"#(initiative_record)"[[/b]]	false
-names_name_240922	Rafford	true
+names_name_240922	Huern	true
 names_name_240923	the Wolf	true
 agent_subtypes_onscreen_name_override_rafford_01	Legendary Lord	true
 agent_subtypes_description_text_override_rafford_01	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-land_units_onscreen_name_rafford_01	Rafford the Wolf	true
+land_units_onscreen_name_rafford_01	Huern the Wolf	true
 unit_description_short_texts_text_rafford_01	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
 unit_description_historical_texts_text_rafford_01	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
 unit_description_short_texts_text_rafford_wolf	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
 unit_description_historical_texts_text_rafford_wolf	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-land_units_onscreen_name_rafford_wolf	Rafford the Wolf	false
-unit_description_historical_texts_text_wh_dlc08_unit_long_text_nor_rafford_01	On a cold and perilous Rúnanótt (or “Geheimnisnacht,” as the southerners call it), a dying thrall fled into the tundra to give birth. Her wails were loud and lonely, but her efforts bore fruit — her babe’s first breath was full of ice, and Rafford was welcomed into the world by the distant howling of wolves. How the boy survived is a matter of speculation, as are his origins. Some say his father was a thrall, others a chieftain. Many, however, claim he is the offspring of Olric himself, and that the Winter Wolf carried him to safety that fateful night. Regardless, it is true that the blood of a wolf runs through Rafford’s veins. A Skin Wolf since birth, Rafford has mastered his feral and savage appetites, channeling the beast’s bloodlust against his foes. His ferocity and prowess have become a local legend, drawing other skin wolves and werekin to his banner. For now, the Tribe of the Wolf rules the Naglfari Plain, hunting across its mountains and tundra. Yet greater prey lives beyond the Tribe’s lands – perhaps it is time to begin the Hunt?	false
+land_units_onscreen_name_rafford_wolf	Huern the Wolf	false
+unit_description_historical_texts_text_wh_dlc08_unit_long_text_nor_rafford_01	On a cold and perilous Rúnanótt (or “Geheimnisnacht,” as the southerners call it), a dying thrall fled into the tundra to give birth. Her wails were loud and lonely, but her efforts bore fruit — her babe’s first breath was full of ice, and Huern was welcomed into the world by the distant howling of wolves. How the boy survived is a matter of speculation, as are his origins. Some say his father was a thrall, others a chieftain. Many, however, claim he is the offspring of Olric himself, and that the Winter Wolf carried him to safety that fateful night. Regardless, it is true that the blood of a wolf runs through Huern’s veins. A Skin Wolf since birth, Huern has mastered his feral and savage appetites, channeling the beast’s bloodlust against his foes. His ferocity and prowess have become a local legend, drawing other skin wolves and werekin to his banner. For now, the Tribe of the Wolf rules the Naglfari Plain, hunting across its mountains and tundra. Yet greater prey lives beyond the Tribe’s lands – perhaps it is time to begin the Hunt?	false
 names_name_240957	the Blooded	true
 ancillaries_onscreen_name_rafford_thralls_lament	The Thrall's Lament	true
-ancillaries_colour_text_rafford_thralls_lament	Rafford has risen far, but he has not forgotten the treatment which killed his mother and forced him to struggle to live as a child. This keepsake of his dying mother ensures that he will never forget—and will always despise—those with power who abuse it.	true
+ancillaries_colour_text_rafford_thralls_lament	Huern has risen far, but he has not forgotten the treatment which killed his mother and forced him to struggle to live as a child. This keepsake of his dying mother ensures that he will never forget—and will always despise—those with power who abuse it.	true
 ancillaries_onscreen_name_rafford_chieftains_horn	The Wolf Chieftain's Horn	true
 ancillaries_colour_text_rafford_chieftains_horn	Torn from the bloody fingers of the previous ruler of the Naglfari Plain, this horn rallies the spirit of the Tribe of the Wolf and is proof that Rafford has earned his place among the lords of Norsca.	true
 effects_description_morale_skin_wolves	Leadership: %+n for all Skin Wolf units	true
@@ -298,7 +298,7 @@ effects_description_wolftribe_enable_ability_my_mother	Passive Ability: "Mother'
 effects_description_wolftribe_enable_ability_rally_the_tribe	Ability: "Rally the Tribe"	true
 effects_description_wolftribe_effect_enable_primal_instincts	Passive Ability: "Primal Instincts"	true
 effects_description_wolftribe_hunting_camps	Skin Wolf Packlords have access to mobile Hunting Camps which provide limited recruitment options and unlock improvements for their army in both campaign and battle.	true
-effects_description_wolftribe_hunting_journeys	Recruit Skin Wolf Packlords to lead your armies across the world. Rafford and his Packlords have access to unique Hunting Journey targets. Defeat armies with specific enemies to unlock powerful buffs for the lord or their army.	true
+effects_description_wolftribe_hunting_journeys	Recruit Skin Wolf Packlords to lead your armies across the world. Huern and his Packlords have access to unique Hunting Journey targets. Defeat armies with specific enemies to unlock powerful buffs for the lord or their army.	true
 character_skills_localised_name_rafford_pack_leader	Master of Wolves	true
 character_skills_localised_description_rafford_pack_leader	The wolves and Skin Wolves of Norsca gather under the banner of the Black Wolf, drawn by his legend and bound by his strength.	true
 character_skills_localised_name_rafford_unique_leader_of_the_pack	Leader of the Pack	false
@@ -329,7 +329,7 @@ character_skills_localised_name_rafford_anci_armor_pelt	Second Skin	false
 character_skills_localised_description_rafford_anci_armor_pelt		false
 character_skills_localised_name_rafford_wanderer	Wanderer	false
 character_skills_localised_name_rafford_mighty_huscarls	Mighty Huscarls	false
-character_skills_localised_description_rafford_wanderer	Although Wulfrik is the better-known bearer of this title, Rafford is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	false
+character_skills_localised_description_rafford_wanderer	Although Wulfrik is the better-known bearer of this title, Huern is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	false
 character_skills_localised_description_rafford_mighty_huscarls	Though they once were drifters and vagrants, the elite warriors of the Tribe of the Wolf have proven themselves to be a disciplined unit to be feared.	false
 unit_abilities_onscreen_name_wh_main_lord_abilities_blessing_of_the_hound	The Beast Within	false
 unit_abilities_onscreen_name_wh_main_lord_abilities_wolf_regular	Return to Regular Form	false
@@ -339,7 +339,7 @@ unit_abilities_tooltip_text_ice_wolves_summon	Trained personally by the Wolf Chi
 unit_abilities_onscreen_name_terrifying_howl	Terrifying Roar	false
 unit_abilities_tooltip_text_terrifying_howl	"Running is futile."	true
 unit_abilities_onscreen_name_wolftribe_ability_my_mother	Mother's Deathsong	false
-unit_abilities_tooltip_text_wolftribe_ability_my_mother	Rafford's mother died an unjust death, frightened and alone. Her son will not falter.	true
+unit_abilities_tooltip_text_wolftribe_ability_my_mother	Huern's mother died an unjust death, frightened and alone. Her son will not falter.	true
 unit_abilities_onscreen_name_wolftribe_ability_rally_the_tribe	Rally the Tribe	false
 unit_abilities_tooltip_text_wolftribe_ability_rally_the_tribe	Back! Once more into the fray!	true
 agent_subtypes_onscreen_name_override_wolffather_01	Legendary Vitki	true
