@@ -315,7 +315,7 @@ local rhox_faction_list={
     wh_dlc08_nor_vanaheimlings ={
         leader={
             subtype="hkrul_drenok",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_mon_frost_wyrm_0,wh_dlc08_nor_cav_marauder_warwolves_chariot_0,wh3_main_monster_feral_ice_bears,wh_dlc08_nor_mon_warwolves_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_mon_frost_wyrm_0,wh_dlc08_nor_cav_marauder_warwolves_chariot_0,dead_drenok_ice_bears,wh_dlc08_nor_mon_warwolves_0",
             x=352,
             y=733,
             forename ="names_name_5680700356",
@@ -340,7 +340,9 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-        
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","renown",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
         end,
         first_tick = function(faction, faction_key) 
         end
