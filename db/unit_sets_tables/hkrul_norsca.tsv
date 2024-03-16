@@ -1,7 +1,7 @@
 key	use_unit_exp_level_range	min_unit_exp_level_inclusive	max_unit_exp_level_inclusive	special_category
 #unit_sets_tables;2;db/unit_sets_tables/hkrul_norsca				
 hkrul_skeggi	false	-1	-1	
-hkrul_bjornling	false	-1	-1	
+hkrul_huscarl	false	-1	-1	
 hkrul_drenok_ice_wolves	false	-1	-1	
 hkrul_drenok_frostwyrm	false	-1	-1	
 hkrul_akkorak_horse	false	-1	-1	
@@ -15,3 +15,4 @@ ice_wolves	false	-1	-1
 wolftribe_wolfguard	false	-1	-1	
 norscan_marauders	false	-1	-1	
 hkrul_surtha_chariots	false	-1	-1	
+rhox_fc_norsca_regional_elite	false	-1	-1	blessed_spawning

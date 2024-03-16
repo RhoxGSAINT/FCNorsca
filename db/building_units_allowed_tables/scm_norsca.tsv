@@ -1,3 +1,10 @@
 key	building	unit	XP	conditions	faction	enabled
 #building_units_allowed_tables;4;db/building_units_allowed_tables/scm_norsca						
 655190347	rhox_fc_norsca_hafskael_yard	rhox_bjornling_huscarl	0	0		false
+655190348	rhox_fc_norsca_harald_throne	rhox_graeling_champion	0	0		false
+655190349	rhox_fc_norsca_great_gathering	rhox_kurgan_champion	0	0		false
+655190350	rhox_fc_norsca_ruins_of_vinnskor	rhox_baersonling_champion	0	0		false
+655190351	rhox_fc_norsca_valmir_aesling	rhox_aesling_berserker	0	0		false
+655190352	rhox_fc_norsca_great_gathering	rhox_kurgan_javelin	0	0		false
+655190353	rhox_fc_norsca_great_gathering	rhox_kurgan_spearman	0	0		false
+655190354	wh2_main_special_skeggi_hall	rhox_skeggi_champion	0	0		false

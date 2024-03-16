@@ -24,3 +24,5 @@ rhox_graeling_payload_wh3_dlc20_nor_yusak	ui/campaign ui/effect_bundles/confeder
 rhox_varg_hrothgar_joins	ui/campaign ui/skills/wh3_dlc20_lord_passive_paragon_of_carnage.png	positive	0
 rhox_varg_hrothgar_appears	ui/campaign ui/skills/wh3_dlc20_lord_passive_paragon_of_carnage.png	positive	0
 rhox_graeling_payload_wh_dlc08_nor_naglfarlings	ui/campaign ui/effect_bundles/confederation.png	positive	0
+rhox_fc_norsca_bloodfather	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_fc_norsca_asta	ui/campaign ui/effect_bundles/agent.png	positive	0
