@@ -24,3 +24,6 @@ key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tec
 1052539241	rhox_graeling_werekin_of_fijgard	1	wh_dlc08_nor_units_of_renown_pool			
 1052539242	wolftribe_nor_inf_wolf_champions_ror_0	1	wh_dlc08_nor_units_of_renown_pool			
 1052539243	rhox_bjornling_huscarl	1	wh_dlc08_nor_units_of_renown_pool			
+1052539244	dead_drenok_ice_golem	1	rhox_drenok_ice			
+1052539245	dead_drenok_ice_bears	1	rhox_drenok_ice			
+1052539246	dead_drenok_greater_ice_golem	1	rhox_drenok_ice			

@@ -25,7 +25,7 @@ land_units_onscreen_name_hkrul_oda	Oda Winterclaw	true
 effects_description_hkrul_oda_shield	Ability: "Oda's Shieldwall"	true
 unit_abilities_tooltip_text_hkrul_oda_shield	With a mighty cry Oda organizes her Huskarls and Shield-Maidens in line, forming a impenetrable wall of shields and meat.	false
 unit_abilities_onscreen_name_hkrul_oda_shield	Oda's Shieldwall	false
-effects_description_hkrul_bjornling_upkeep	Upkeep: %+n% for Bjornling units	false
+effects_description_hkrul_bjornling_upkeep	Upkeep: %+n% for Huscarl units	false
 effects_description_hkrul_bjornling_global_recruit_time	Global recruitment duration: %+n turns for Marauder Champions	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_oda		false
 unit_description_historical_texts_text_hkrul_oda		false
