@@ -1,15 +1,15 @@
 key	text	tooltip
 #Loc;1;text/db/ab_wolftribe_loading_screen_quotes__.loc		
 loading_screen_quotes_title_wolftribe_loading	Tribe of the Wolf	true
-loading_screen_quotes_description_wolftribe_loading	The Tribe of the Wolf is a band of warriors and hunters drawn by the legend of one man: Rafford Olricsson, the “Black Wolf.” Many, though not all, of the tribesmen are Skin Wolves or Werekin, united in kinship and spirit as one pack. For now, the Tribe hunts over the tundras and mountains of the Naglfari Plain, but Rafford and his Packlords may yet venture to more distant lands in search of greater quarry.	true
+loading_screen_quotes_description_wolftribe_loading	The Tribe of the Wolf is a band of warriors and hunters drawn by the legend of one man: Huern the Wolf, the “Black Wolf.” Many, though not all, of the tribesmen are Skin Wolves or Werekin, united in kinship and spirit as one pack. For now, the Tribe hunts over the tundras and mountains of the Naglfari Plain, but Huern and his pack may yet venture to more distant lands in search of greater quarry.	true
 loading_screen_quotes_bulletpoints_wolftribe_loading		true
-loading_screen_quotes_title_wolftribe_rafford_loading	Rafford the Wolf	true
-loading_screen_quotes_description_wolftribe_rafford_loading	Rafford has come to be called many names: “the Black Wolf,” “the Wolf Chieftain,” and even “Olricsson.” Yet Rafford’s life had more humble origins — the son of a dying thrall, his youth was a constant struggle to prove himself. Proven he has become, for now Rafford’s charisma and skill in battle have drawn together a tribe of Skin Wolves and Werekin from across the north, eager to accompany him throughout the world on hunts, on raids, and in conquest.	true
+loading_screen_quotes_title_wolftribe_rafford_loading	Huern the Wolf	true
+loading_screen_quotes_description_wolftribe_rafford_loading	Huern has come to be called many names: “the Black Wolf,” “the Wolf Chieftain,” and even “Olricsson.” Yet Huern’s life had more humble origins — the son of a dying thrall, his youth was a constant struggle to prove himself. Proven he has become, for now Huern’s charisma and skill in battle have drawn together a tribe of Skin Wolves and Werekin from across the north, eager to accompany him throughout the world on hunts, on raids, and in conquest.	true
 loading_screen_quotes_bulletpoints_wolftribe_rafford_loading		true
 loading_screen_quotes_title_wolftribe_hidolfr_loading	Hidolfr One-Eye	true
 loading_screen_quotes_description_wolftribe_hidolfr_loading	Hidolfr One-Eye is a local legend among the Norscan tribes. A wanderer belonging to the old tradition of the healers and diviners known as Vitki. “Old One-Eye” is as comfortable amidst the ice and snow of the northern mountains as he is by a great hall’s hearth, and to be visited by Hidolfr is a portent of luck and fortune for a Norscan village. Hidolfr is slow to anger, but when he does, he brings the wild fury of the North and its Winds with him into battle.	true
 loading_screen_quotes_bulletpoints_wolftribe_hidolfr_loading		false
-loading_screen_quotes_title_wolftribe_rana_loading	Rána of the Wood	false
+loading_screen_quotes_title_wolftribe_rana_loading	Asta of the Wood	false
 loading_screen_quotes_description_wolftribe_rana_loading	Formerly known as Vivienne d’Arden, Rána is the daughter of a Bretonnian forester hanged for false allegations of poaching. Rána met Rafford after the Wolf Chieftain was gravely injured during a raid, nursing him back to health deep in the forest. When Rafford returned to Norsca, Rána accompanied him, taking a new, Norscan name. Years later, Rána has married Rafford and become chieftess of the Tribe of the Wolf, delighting in the wild north and hunting across its icy lands.	false
 loading_screen_quotes_bulletpoints_wolftribe_rana_loading		false
 loading_screen_quotes_title_wolftribe_gjalfr_loading	Gjálfr	false

@@ -9,4 +9,4 @@ rhox_swyrd_leave_on_death_dummy	wound_time.png	1	wound_time.png	campaign	false
 hkrul_swyrd_helm	item_ability.png	300	item_ability.png	battle	true
 hkrul_lokjar_skull	item_ability.png	300	item_ability.png	battle	true
 hkrul_uzul_pas_drum_duration	magic_character.png	60	magic_character.png	battle	true
-hkrul_surtha_ek_whip	item_ability.png	300	item_ability.png	battle	true
+hkrul_surtha_ek_speed_up	item_ability.png	300	item_ability.png	battle	true

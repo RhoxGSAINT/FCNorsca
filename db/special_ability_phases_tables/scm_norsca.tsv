@@ -47,7 +47,7 @@ hkrul_uzul_pas_drum	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	1.0
 hkrul_uzul_drum	30.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_uzul_drum_enemy	30.0000	negative		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0				false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_sarg_marauder	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
-hkrul_surtha_ek_whip	35.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_surtha_ek_speed_up	35.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_sarg_sword	35.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_sarg_riders	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_ulfric_wall_formation	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		hkrul_ulfric_wall_formation		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

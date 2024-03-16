@@ -25,7 +25,10 @@ character_skills_localised_description_hkrul_surtha_ek_special_1_4	Surtha Ek's p
 character_skills_localised_name_hkrul_surtha_ek_special_1_4	Chariot Mastery	true
 agent_subtypes_onscreen_name_override_hkrul_surtha_ek	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_surtha_ek		false
+unit_abilities_tooltip_text_hkrul_surtha_ek_whip	Dreadlash is infused with chaos runes, driving Ek's chariot's horses to a frenzy while delivering searing pain to his foes	false
+unit_abilities_onscreen_name_hkrul_surtha_ek_whip	Dreadlash	false
 effects_description_hkrul_surtha_ek_whip	Ability: "Dreadlash''	true
+effects_description_hkrul_surtha_ek_speed_up	Ability: "Chaotic Charge!''	true
 ancillaries_colour_text_PLACEHOLDER	Bloodspiller	true
 ancillaries_onscreen_name_PLACEHOLDER	Bloodspiller is a massive, obscure-painted chariot adorned with the skulls of fallen enemies and etched with blasphemous symbols of Chaos. Pulled by two ferocious chaos steeds, its wheels churn up the earth as it charges into battle, leaving destruction and chaos in its wake.	true
 land_units_onscreen_name_hkrul_surtha_ek	Surtha Ek	true
@@ -33,15 +36,22 @@ names_name_1440700350	Ek	false
 names_name_1440700351	Surtha	false
 unit_description_short_texts_text_hkrul_surtha_ek	Surtha Ek, the "Everchariot," is a towering figure of muscle and fury, commanding his warriors from the back of his fearsome steed.	false
 unit_description_historical_texts_text_hkrul_surtha_ek	Surtha Ek, feared throughout the frozen wastes of Norsca as the "Everchariot," is a towering figure of muscle and fury. With a mane of unkempt hair and eyes ablaze with the fervor of battle, he exudes an aura of savage authority. Clad in the tattered remnants of his enemies' garb, he wears the trophies of his conquests as badges of honor. His voice, deep and resonant, carries the weight of command as he leads his warriors into battle. But it is his mastery of the chariot that truly sets him apart, as Thunderhoof thunders across the battlefield, leaving a trail of destruction in its wake.	false
-unit_abilities_tooltip_text_hkrul_surtha_ek_whip	Dreadlash is infused with chaos runes, driving Ek's chariot's horses to a frenzy while delivering searing pain to his foes	true
-unit_abilities_onscreen_name_hkrul_surtha_ek_whip	Dreadlash	true
-ancillaries_colour_text_hkrul_surtha_ek_whip	In battle, Surtha Ek wields a whip with mastery honed through countless campaigns. Crafted from the sinew of defeated enemies and adorned with runes of chaos, the whip serves not only to drive the horses of his chariot into a frenzied charge but also to inflict searing pain upon his foes, leaving them broken and demoralized in his wake	false
-ancillaries_onscreen_name_hkrul_surtha_ek_whip	Dreadlash	false
+ancillaries_colour_text_hkrul_surtha_ek_speed_up	In battle, Surtha Ek wields a whip with mastery honed through countless campaigns. Crafted from the sinew of defeated enemies and adorned with runes of chaos, the whip serves not only to drive the horses of his chariot into a frenzied charge but also to inflict searing pain upon his foes, leaving them broken and demoralized in his wake	false
+ancillaries_onscreen_name_hkrul_surtha_ek_speed_up	Dreadlash	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_surtha_ek		false
 land_units_onscreen_name_hkrul_surtha_ek_chariot	Surtha Ek	true
-units_custom_battle_mounts_mount_name_hkrul_surtha_ekhkrul_surtha_ek_chariot	Scythed Chariot	true
-units_custom_battle_mounts_localised_description_hkrul_surtha_ekhkrul_surtha_ek_chariot	War chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	true
-ancillaries_colour_text_hkrul_surtha_ek_chariot	War chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	false
-ancillaries_onscreen_name_hkrul_surtha_ek_chariot	Scythed Chariot	false
-character_skills_localised_description_hkrul_surtha_ek_chariot	War chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	false
-character_skills_localised_name_hkrul_surtha_ek_chariot	Scythed Chariot	false
+units_custom_battle_mounts_mount_name_hkrul_surtha_ekhkrul_surtha_ek_chariot	Bloodspiller	true
+units_custom_battle_mounts_localised_description_hkrul_surtha_ekhkrul_surtha_ek_chariot	A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	true
+ancillaries_colour_text_hkrul_surtha_ek_chariot	A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	false
+ancillaries_onscreen_name_hkrul_surtha_ek_chariot	Bloodspiller	false
+character_skills_localised_description_hkrul_surtha_ek_chariot	A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	false
+character_skills_localised_name_hkrul_surtha_ek_chariot	Bloodspiller	false
+effects_description_hkrul_surtha_chariots_unit_xp	Recruit rank: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_melee_attack	Melee attack: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_speed	Speed: %+n  for Chariot units	false
+effects_description_hkrul_surtha_chariots_charge	Charge bonus: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_fear	Attribute: Causes Fear for Chariot units	false
+effects_description_hkrul_surtha_chariots_glorious	Attribute: Glorious Charge for Chariot units	false
+effects_description_hkrul_surtha_chariots_upkeep	Upkeep: %+n% for Chariot units	false
+unit_abilities_tooltip_text_hkrul_surtha_ek_speed_up	As Surtha takes the helm that which pulls his chariot devolves in a frenzy of mindless speed and ferociousness.	true
+unit_abilities_onscreen_name_hkrul_surtha_ek_speed_up	Chaotic Charge	true

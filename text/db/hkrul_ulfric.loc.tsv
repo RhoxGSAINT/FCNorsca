@@ -45,13 +45,13 @@ character_skill_node_sets_enc_title_skill_node_set_hkrul_ulfric		false
 effect_bundles_localised_description_hkrul_ulfric_faction_trait	High King Ulfric	false
 effect_bundles_localised_title_hkrul_ulfric_faction_trait	High King Ulfric	false
 character_skills_localised_description_hkrul_ulfric_mammoth	A mammoth so large it hardly fits through Skjold's gates, a true sight to be hold and devastating on the battlefield.	false
-character_skills_localised_name_hkrul_ulfric_mammoth	Skjold's Bulwark	false
+character_skills_localised_name_hkrul_ulfric_mammoth	Eyristaad's Might	false
 land_units_onscreen_name_hkrul_ulfric_mammoth	Ulfric Grondal	false
-units_custom_battle_mounts_localised_description_hkrul_ulfrichkrul_ulfric_mammoth	Skjold's Bulwark	false
-units_custom_battle_mounts_mount_name_hkrul_ulfrichkrul_ulfric_mammoth	Skjold's Bulwark	false
-effects_description_hkrul_ulfric_mammoth	Mount: Skjold's Bulwark	false
+units_custom_battle_mounts_localised_description_hkrul_ulfrichkrul_ulfric_mammoth	Eyristaad's Might	false
+units_custom_battle_mounts_mount_name_hkrul_ulfrichkrul_ulfric_mammoth	Eyristaad's Might	false
+effects_description_hkrul_ulfric_mammoth	Mount: Eyristaad's Might	false
 ancillaries_colour_text_hkrul_ulfric_mammoth	A mammoth so large it hardly fits through Skjold's gates, a true sight to be hold and devastating on the battlefield.	false
-ancillaries_onscreen_name_hkrul_ulfric_mammoth	Skjold's Bulwark	false
+ancillaries_onscreen_name_hkrul_ulfric_mammoth	Eyristaad's Might	false
 effects_description_hkrul_ulfric_crown	Army Ability: "Skjold's Crown"	false
 ancillaries_colour_text_hkrul_ulfric_crown	Fit for a ruler who bridges the realms of men and Bjornlings, the Crown of Skjold bears imperial grace. Adorned with engraved jewels, this regal artifact exudes authority. Yet, beneath its refined exterior lies a formidable power — the wearer commands unwavering loyalty from all Bjornling tribes, a testament to the unity forged in the icy crucible of Skjold's unforgiving lands.	false
 ancillaries_onscreen_name_hkrul_ulfric_crown	Crown of Skjold	false
@@ -83,7 +83,7 @@ ancillaries_colour_text_hkrul_ulfric_chariot	Marauder mobs are awarded even grea
 ancillaries_onscreen_name_hkrul_ulfric_chariot	Marauder Chariot	false
 land_units_onscreen_name_hkrul_ulfric_horse	Ulfric Grondal	false
 land_units_onscreen_name_hkrul_ulfric_chariot	Ulfric Grondal	false
-effects_description_rhox_ulfric_feature_dummy	Politics of Men: Use standings with the Kislevite courts to influence the outcome of a civil war by sending Norscan Mercenaries	false
+effects_description_rhox_ulfric_feature_dummy	Politics of Men: Influence the Kislevite civil war by sending Norscan Raiding parties to plunder Kislev territories	false
 technologies_onscreen_name_rhox_bjornling_ritual_1	technologies_onscreen_name_rhox_bjornling_ritual_1	false
 technologies_short_description_rhox_bjornling_ritual_1	technologies_short_description_rhox_bjornling_ritual_1	false
 technologies_onscreen_name_rhox_bjornling_ritual_2	technologies_onscreen_name_rhox_bjornling_ritual_2	false
@@ -95,13 +95,14 @@ technologies_short_description_rhox_bjornling_ritual_4	technologies_short_descri
 incidents_button_text_rhox_bjornling_turn_two_incident	Okay	false
 incidents_localised_description_rhox_bjornling_turn_two_incident	For some lore reasons	false
 incidents_localised_title_rhox_bjornling_turn_two_incident	Why Kislev?	false
-effects_description_hkrul_ulfric_wall_formation	Ability: "Bjornling Shieldwall"	true
+effects_description_hkrul_ulfric_wall_formation	Ability: "Eldagrimm's Shields"	true
 unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
-unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Bjornling Shieldwall	false
-unit_description_historical_texts_text_hkrul_huscarl	Huscarl	false
-land_units_onscreen_name_rhox_bjornling_huscarl	Huscarl	false
-land_units_onscreen_name_rhox_bjornling_huscarl_ror	RoR Huscarl	false
-unit_description_short_texts_text_hkrul_huscarl	Huscarl	false
-campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Bjornling faction or have Ulfric Grondal in your faction[[/col]]	false
+unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Eldagrimm's Shields	false
+unit_description_historical_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer. They are maintained and well-equipped by their masters, and are fiercely loyal and frenzied fighters.	false
+land_units_onscreen_name_rhox_bjornling_huscarl	Huscarls	false
+land_units_onscreen_name_rhox_bjornling_huscarl_ror	Bulwark of Skjold (Huscarls)	false
+unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer.	false
+unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of High King Ulfric, they occupy Skjold's Great Hall and each member of their ranks has surpassed insufferable challenges on the island of Horvenghaast.	false
+campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false

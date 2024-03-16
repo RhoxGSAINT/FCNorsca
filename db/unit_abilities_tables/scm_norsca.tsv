@@ -50,7 +50,7 @@ hkrul_uzul_drum	true	hkrul_uzul_drum1		wh_type_area_of_augments		wh_main_anc_gro
 hkrul_sarg_sword	true	hkrul_sarg_sword		wh_type_bombardment		wh_main_anc_group_unique	true	false	bound		false
 hkrul_sarg_riders	true	hkrul_sarg_rider		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_sarg_marauder	true	hkrul_sarg_marauder		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_surtha_ek_whip	true	hkrul_surtha_ek_whip		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_surtha_ek_speed_up	true	hkrul_ek_speed		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_ulfric_wall_formation	false	hkrul_ulfric_wall_formation		wh_type_augment		wh_main_anc_group_uncommon	false	false	passive		false
 wh_main_lord_abilities_blessing_of_the_hound	false	wh_main_lord_abilities_blessing_of_the_hound		wh_type_transform		wh_main_anc_group_unique	false	false	active		false
 wh_main_lord_abilities_wolf_regular	false	wh_dlc08_giver_of_glory		wh_type_transform		wh_main_anc_group_unique	false	false	active		false
@@ -65,3 +65,4 @@ wolftribe_abilities_bitter_aura	false	wh_dlc08_quest_passive_frost_aura		wh_type
 wolftribe_abilities_frostaxe_aura	false	wh_dlc08_unit_contact_frostbite		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 wolftribe_summon_champions	true	rana_honorguard		wh_type_summon_unit		wh_main_anc_group_unique	true	false	active		false
 rhox_huscarl_shield_wall	false	wh2_main_item_passive_shield_of_ghrond		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_surtha_ek_whip	true	hkrul_ek_whip		wh_type_vortex		wh_main_anc_group_rare	true	false	active		false

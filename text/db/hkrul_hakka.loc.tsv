@@ -69,4 +69,4 @@ land_units_onscreen_name_hkrul_hakka_chariot	Hakka the Aesling	false
 land_units_onscreen_name_hkrul_hakka_juggernaut	Hakka the Aesling	false
 ui_text_replacements_localised_text_corruption_effect_prefix_khorne_rhox_aesling	[[col:green]]	false
 culture_settlement_occupation_options_tooltip_957887881	Colonise||For the glory of Khorne! Settle your troops. Your settlement will start with a tier 2 settlement building	false
-effects_description_rhox_aesling_colonise_feature_dummy	Colonizing settlements requires skulls, which in turn start as tier 2 settlements	false
+effects_description_rhox_aesling_colonise_feature_dummy	Colonizing settlements requires skulls, settlements in turn start at tier 2	false
