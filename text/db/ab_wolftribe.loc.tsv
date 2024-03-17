@@ -290,10 +290,6 @@ effects_description_recruitment_bonus_skin_wolves	Recruit rank: %+n for Skin Wol
 effects_description_skin_wolves_horrible_regeneration	Passive ability: "Horrible Regeneration" for Skin Wolf units	true
 effects_description_speed_skinwolves	Speed: %+n% for Skin Wolf units	true
 effects_description_diplomatic_relations_wintertooth	Diplomatic relations: %+n with the faction of [[img:UI/Flags/wh_dlc08_nor_wintertooth/mon_24.png]][[/img]]Wintertooth	false
-effects_description_wolfguard_weapon_strength	Weapon strength: %+n% for Wolfguard units	true
-effects_description_wolfguard_melee_defence	Melee defence: %+n for Wolfguard units	true
-effects_description_wolfguard_leadership	Leadership: %+n for Wolfguard units	true
-effects_description_global_recruitment_duration_wolfguard	Global recruitment duration: %+n turn(s) for Wolfguard units (minimum 1)	true
 effects_description_wolftribe_enable_ability_my_mother	Passive Ability: "Mother's Deathsong"	true
 effects_description_wolftribe_enable_ability_rally_the_tribe	Ability: "Rally the Tribe"	true
 effects_description_wolftribe_effect_enable_primal_instincts	Passive Ability: "Primal Instincts"	true
@@ -443,8 +439,6 @@ unit_abilities_onscreen_name_wolftribe_summon_champions	Summon the Honorguard	fa
 unit_abilities_tooltip_text_wolftribe_summon_champions	Champions of the Tribe of the Wolf rally to the side of their Chieftess.	false
 effects_description_wolftribe_weapon_strength_marauders	Weapon strength: %+n% for Marauder units	true
 effects_description_wolftribe_courageous_marauders	Attribute: "Immune to Psychology" for Marauder units	true
-land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_0	The Wolfguard	false
-land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_1	The Wolfguard (Halberds)	false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_honorguard	Rána's Honorguard	false
 land_units_onscreen_name_wolftribe_nor_inf_wolf_champions_ror_0	The Wolves of Naglfari (Aspiring Champions)	false
 land_units_concealed_name_wolftribe_nor_mon_frost_wyrm_ror_summoned_0		false
@@ -473,7 +467,6 @@ building_culture_variants_name_wolftribe_greathall_1wh_dlc08_nor_naglfarlings	Ha
 building_culture_variants_name_wolftribe_greathall_2wh_dlc08_nor_naglfarlings	Olricsson's Great Hall	false
 building_culture_variants_name_wolftribe_humbled_hall	Humbled Hall of the Wolf	false
 effects_description_nor_hunters_range	Range %+n% for Marauder Hunters	true
-effects_description_wolftribe_effect_unit_cap_wolfguard	Unit capacity: %+n\\nThe Wolfguard, The Wolfguard (Halberds)	true
 building_short_description_texts_short_description_wolftribe_greathall_0	Drawn by stories of a fierce, black-haired warrior, curious hunters have gathered on the frigid Naglfari Plain. Some have come to see the man who has mastered the Beast within, others to challenge him, while still others are simply vagrants without a tribe to call their own. Regardless of why they have come, these men and women are hardy survivors who have decided to make this place their home.	true
 building_short_description_texts_short_description_wolftribe_greathall_1	Rafford’s origins are questionable, his ancestry a matter of speculation. Yet Rafford’s skill, cunning, and charisma have bound together the outcasts and beast-blooded of the Mountains of Naglfari. Having accomplished several grand raids in the lands of the Empire and Bretonnia, and defended his lands from his neighbors, Rafford has earned the title of High Jarl and the grudging respect of his rivals.	true
 building_short_description_texts_short_description_wolftribe_greathall_2	If ever there was a question of Rafford’s ancestry, it is now dismissed. Only one blessed with the blood of Olric could lead such a gathering of wolves to greatness. This great hall is a testament to Rafford and his tribe’s achievement, rising tall and proud above the growing town. By day, the hall is a hub of hunters and traders bearing meat and furs. At night, the hall rings with the cheers and singing of warriors, the howling of wolves echoing out over the tundra.	true

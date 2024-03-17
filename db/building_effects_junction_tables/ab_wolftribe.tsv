@@ -70,7 +70,6 @@ wolftribe_greathall_2	wh_main_faction_political_diplomacy_mod_empire		faction_to
 wolftribe_greathall_2	wh_main_faction_political_diplomacy_mod_norsca		faction_to_faction_own_unseen	20.0000	20.0000	0.0000
 wolftribe_greathall_2	nor_hunters_range		building_to_force_own_factionwide	25.0000	25.0000	0.0000
 wolftribe_greathall_2	wh_main_effect_economy_gdp_mod_all		province_to_faction	10.0000	10.0000	0.0000
-wolftribe_greathall_2	wolftribe_effect_unit_cap_wolfguard		building_to_faction_own	3.0000	3.0000	0.0000
 wolftribe_humbled_hall	wh_main_effect_economy_gdp_other		building_to_building_own	300.0000	150.0000	0.0000
 wolftribe_humbled_hall	wh_main_effect_region_resource_furs_production		building_to_building_own	20.0000	10.0000	0.0000
 wolftribe_humbled_hall	wh_main_effect_province_growth_building		region_to_province_own	10.0000	5.0000	0.0000

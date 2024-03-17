@@ -26,20 +26,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_main_vmp_mon_dire_wolves	wolf_creatures	false
 			wh_pro04_nor_mon_marauder_warwolves_ror_0	wolf_creatures	false
 			wh_dlc08_nor_mon_warwolves_0	ice_wolves	false
-			wolftribe_nor_inf_wolfguard_ror_0	all_non_chs	true
-			wolftribe_nor_inf_wolfguard_ror_0	dlc08_nor_marauders_all	false
-			wolftribe_nor_inf_wolfguard_ror_0	dlc08_nor_marauders_champions	false
-			wolftribe_nor_inf_wolfguard_ror_0	dlc08_nor_marauders_inf	false
-			wolftribe_nor_inf_wolfguard_ror_0	nor_all	false
-			wolftribe_nor_inf_wolfguard_ror_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
-			wolftribe_nor_inf_wolfguard_ror_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
-			wolftribe_nor_inf_wolfguard_ror_1	all_non_chs	true
-			wolftribe_nor_inf_wolfguard_ror_1	dlc08_nor_marauders_all	false
-			wolftribe_nor_inf_wolfguard_ror_1	dlc08_nor_marauders_champions	false
-			wolftribe_nor_inf_wolfguard_ror_1	dlc08_nor_marauders_inf	false
-			wolftribe_nor_inf_wolfguard_ror_1	nor_all	false
-			wolftribe_nor_inf_wolfguard_ror_1	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
-			wolftribe_nor_inf_wolfguard_ror_1	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			wolftribe_nor_inf_wolfguard_honorguard	all_non_chs	true
 			wolftribe_nor_inf_wolfguard_honorguard	dlc08_nor_marauders_all	false
 			wolftribe_nor_inf_wolfguard_honorguard	dlc08_nor_marauders_champions	false
@@ -55,8 +41,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wolftribe_nor_inf_wolf_champions_ror_0	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			wolftribe_nor_inf_wolf_champions_ror_0	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			wolftribe_nor_inf_wolf_champions_ror_0	wh2_main_ror_units_all	false
-			wolftribe_nor_inf_wolfguard_ror_0	wolftribe_wolfguard	false
-			wolftribe_nor_inf_wolfguard_ror_1	wolftribe_wolfguard	false
 			wh3_dlc20_chs_cav_marauder_horsemen_mkho_throwing_axes	norscan_marauders	false
 			wh3_dlc20_chs_cav_marauder_horsemen_mnur_throwing_axes	norscan_marauders	false
 			wh3_dlc20_chs_cav_marauder_horsemen_msla_javelins	norscan_marauders	false

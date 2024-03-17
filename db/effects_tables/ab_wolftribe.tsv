@@ -23,17 +23,12 @@ skin_wolves_horrible_regeneration	general_ability.png	4	general_ability.png	batt
 armour_piercing_damage_skin_wolves	armour_piercing.png	55	armour_piercing.png	battle	true
 speed_skinwolves	battle_movement.png	421	battle_movement.png	battle	true
 diplomatic_relations_wintertooth	diplomacy.png	2	diplomacy.png	campaign	true
-wolfguard_weapon_strength	weapon_damage.png	461	weapon_damage.png	battle	true
-wolfguard_melee_defence	defence.png	451	defence.png	battle	true
-wolfguard_leadership	morale.png	411	morale.png	battle	true
-global_recruitment_duration_wolfguard	turns.png	130	turns.png	campaign	false
 wolftribe_enable_ability_my_mother	general_ability.png	2	general_ability.png	battle	true
 wolftribe_enable_ability_rally_the_tribe	general_ability.png	3	general_ability.png	battle	true
 wolftribe_effect_enable_primal_instincts	passive_primal.png	320	passive_primal.png	battle	true
 wolftribe_hunting_camps	ogre_camp.png	5	ogre_camp.png	campaign	true
 wolftribe_hunting_journeys	norse_god_hound.png	4	norse_god_hound.png	campaign	true
 nor_hunters_range	accuracy.png	10	accuracy.png	battle	true
-wolftribe_effect_unit_cap_wolfguard	unit_capacity.png	1	unit_capacity.png	campaign	true
 wolftribe_enable_child_of_frigustrex	general_ability.png	300	general_ability.png	battle	true
 wolftribe_effect_ability_bitter_aura	general_ability.png	3	general_ability.png	battle	true
 wolftribe_effect_ability_enable_frostaxe_aura	general_ability.png	3	general_ability.png	battle	true
