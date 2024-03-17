@@ -1,0 +1,14 @@
+<VARIANT_MESH>
+	<SLOT name="axe 1h" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_champions\props\varg_forsaken_mace_1h_01.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\dae\dae_props\dae_marauder_khorne_axe_1h_01.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\dae\dae_props\dae_marauder_tzeentch_axe_1h_01.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\dae\dae_props\dae_marauder_slaanesh_axe_1h_01.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\dae\dae_props\dae_marauder_nurgle_axe_1h_02.wsmodel"  >
+			<META_DATA>audio_melee_weapon_type:axe</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>
