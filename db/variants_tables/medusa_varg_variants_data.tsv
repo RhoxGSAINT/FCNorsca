@@ -1,0 +1,13 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/medusa_varg_variants_data							
+mod_varg_marauder_horsemen		varg_marauder_horsemen	hu1c\chs\chs_marauders\low_poly\chs_marauder_horsemen_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauder_horsemen_francisca		varg_marauder_horsemen_throwing_axe	hu1c\chs\chs_marauders\low_poly\chs_marauder_horsemen_throwing_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauders		varg_marauder	hu1c\chs\chs_marauders\low_poly\chs_marauder_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauders_great_weapons		varg_marauder_great_weapons	hu1c\chs\chs_marauders\low_poly\chs_marauder_great_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauders_spearmen		varg_marauder_spear	hu1c\chs\chs_marauders\low_poly\chs_marauder_great_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauder_javelins		varg_marauder_javelins	hu1c\chs\chs_marauders\low_poly\chs_marauder_great_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauder_francisca		varg_marauder_throwing_axe	hu1c\chs\chs_marauders\low_poly\chs_marauder_great_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauder_berserkers		varg_marauder_zerker	hu1c\chs\chs_marauders\low_poly\chs_marauder_great_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
+mod_varg_marauder_champions		varg_marauder_champion		1.0000	1.0000	0.0500	
+mod_varg_marauder_champion_great_weapons		varg_marauder_champion_great_mace		1.0000	1.0000	0.0500	
+mod_varg_marauder_champion_halberd		varg_marauder_chariot_halberd		1.0000	1.0000	0.0500	

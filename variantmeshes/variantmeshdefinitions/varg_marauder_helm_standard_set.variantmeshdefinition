@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="helmet" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_marauders\head\varg_marauder_helm_01.wsmodel" />
+	</SLOT>
+	<SLOT name="horns">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_marauders\head\varg_marauder_helm_horns_01.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_marauders\head\varg_marauder_helm_horns_02.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_marauders\head\varg_marauder_helm_horns_03.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_marauders\head\varg_marauder_helm_horns_04.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\varg_marauders\head\varg_marauder_helm_horns_05.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>
