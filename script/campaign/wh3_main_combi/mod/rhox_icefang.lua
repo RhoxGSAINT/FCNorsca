@@ -2,6 +2,10 @@ local icefang_faction = "wh_dlc08_nor_vanaheimlings"
 
 local storm_duration = 3
 
+local rhox_drenok_faction_list={
+    wh_dlc08_nor_vanaheimlings=true
+}
+
 core:add_listener(
 	"icefang_garrison_occupied_even",
 	"GarrisonOccupiedEvent",
@@ -23,19 +27,6 @@ core:add_listener(
 	true
 );
 
-
-
-
---[[
-dead_drenok_ice_golem
-dead_drenok_ice_bears
-dead_drenok_greater_ice_golem
-]]
-
-
-local rhox_drenok_faction_list={
-    wh_dlc08_nor_vanaheimlings=true
-}
 
 
 
@@ -86,7 +77,12 @@ core:add_listener(
         local base_chance =20
         local bonus_chance = character:bonus_values():scripted_value("rhox_drenok_bonus_chance", "value")
 
-        return character:character_subtype_key() == "hkrul_drenok" and pb:has_been_fought() and character:won_battle() and cm:model():random_percent(base_chance+bonus_chance)
+        if character:is_at_sea() or not character:region() or not character:region():settlement() then
+            return false
+        end
+        local climate = character:region():settlement():get_climate()
+        return (character:character_subtype_key() == "hkrul_drenok" or faction:name()==icefang_faction) and (climate=="climate_frozen" or climate=="climate_chaotic")
+        and pb:has_been_fought() and character:won_battle() and cm:model():random_percent(base_chance+bonus_chance)
     end,
     function(context)
         local character = context:character()
