@@ -1,6 +1,6 @@
 key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade
 #incidents_tables;6;db/incidents_tables/rhox_fc_norsca								
-rhox_fc_norsca_swyrd_incident	true	messenger	false	Event		false		0.0000
+rhox_fc_norsca_swyrd_incident	false	messenger	false	Event		true		0.0000
 rhox_fc_norsca_swyrd_leaves	false	messenger	false	Event		false		0.0000
 rhox_graeling_mission_wh_main_nor_skaeling	false	faction	false	Event		false		0.0000
 rhox_graeling_mission_wh3_dlc20_nor_dolgan	false	faction	false	Event		false		0.0000
