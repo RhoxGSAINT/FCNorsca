@@ -38,10 +38,10 @@ hkrul_sarg_exalted_seeker_chariot	wh3_main_anc_mount_exalted_seeker_chariot	.	fa
 hkrul_uzul_drum	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_surtha_ek_speed_up	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			100	0		false	false	true	all
 hkrul_surtha_ek_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_surtha_ek_chariot		1	0		false	false	true	all
-rafford_thralls_lament	wh_main_anc_talisman	.	false	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			200	0		false	false	false	all
-rafford_chieftains_horn	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	all
-wolftribe_anc_mount_nor_rana_gjalfr	wh_main_anc_mount_giant_wolf	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	rana_02		1	0		false	false	true	all
-wolftribe_arngrim_valdyr_and_vitnir	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
-wolftribe_rana_ardenwood_bow	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
+scm_norsca_huern_thralls_lament	wh_main_anc_talisman	.	false	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			200	0		false	false	false	all
+scm_norsca_huern_chieftains_horn	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	all
+wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	wh_main_anc_mount_giant_wolf	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	scm_norsca_asta_02		1	0		false	false	true	all
+wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
+wolftribe_scm_norsca_asta_ardenwood_bow	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 wolftribe_hidolfr_nithi	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	all
-rafford_anci_armor_pelt	wh_main_anc_armour	.	false	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	false	all
+scm_norsca_huern_anci_armor_pelt	wh_main_anc_armour	.	false	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	false	all

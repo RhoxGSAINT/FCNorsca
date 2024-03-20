@@ -608,7 +608,7 @@ local rhox_faction_list={
     },
     wh_dlc08_nor_naglfarlings ={
         leader={
-            subtype="rafford_01",
+            subtype="scm_norsca_huern",
             unit_list="wh_dlc08_nor_mon_warwolves_0,wh_dlc08_nor_mon_warwolves_0,wh_dlc08_nor_mon_skinwolves_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
             x=544,
             y=837,
@@ -623,7 +623,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "arngrim_01", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "scm_norsca_uldsdau", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end

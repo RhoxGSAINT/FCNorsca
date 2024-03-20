@@ -92,7 +92,7 @@
 				num_models="1">
                 <model_list>
                     <ComponentModel
-                        filepath="VariantMeshes/VariantMeshDefinitions/rafford_01.VariantMeshDefinition"
+                        filepath="VariantMeshes/VariantMeshDefinitions/scm_norsca_huern.VariantMeshDefinition"
                         id="model_0"
                         num_anims="1"
                         skeleton_type="humanoid01c">

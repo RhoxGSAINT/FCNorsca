@@ -13,6 +13,6 @@ rhox_baersonling_chs_lord_mtze	false	false	ui/campaign ui/agents/wh_main_chs_cha
 hkrul_hrothgar	false	false		hkrul_hrothgar	wh3_main_vo_actor_Khorne_Cultist_Of_Khorne	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign	wh3_main_vo_culture_Khorne	false	true	1100		
 hkrul_uzul	false	false		hkrul_uzul	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
 nor_skin_wolf_lord	true	false		nor_skin_wolf_lord	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	true	nor_skin_wolf_lord		names_nor_norsca	true	true	can_be_saved_loaded		false	true	1200		
-arngrim_01	false	false		arngrim_01	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	false	-1	false	true	false	false				false	false	cannot_be_saved_loaded		false	true	900		
-rana_01	false	false		rana_01	wh2_dlc16_vo_actor_Wood_Elves_GladeCaptain	false	-1	true	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
-wolffather_01	false	true		wolffather_01	wh_dlc08_vo_actor_Norsca_Shaman_Sorcerer	false	-1	false	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
+scm_norsca_uldsdau	false	false		scm_norsca_uldsdau	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	false	-1	false	true	false	false				false	false	cannot_be_saved_loaded		false	true	900		
+scm_norsca_asta	false	false		scm_norsca_asta	wh2_dlc16_vo_actor_Wood_Elves_GladeCaptain	false	-1	true	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
+scm_norsca_alfkael	false	true		scm_norsca_alfkael	wh_dlc08_vo_actor_Norsca_Shaman_Sorcerer	false	-1	false	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		

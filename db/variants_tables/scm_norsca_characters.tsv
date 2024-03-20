@@ -38,11 +38,11 @@ medusa_surtha_ek_warhorse_chariot	VariantMeshes\wh_variantmodels\hr1\emp\emp_war
 nor_skin_wolf_lord		nor_skin_wolf_lord		1.0000	1.4000	0.0000	
 nor_skin_wolf_lord_02		nor_skin_wolf_lord_02		1.0000	1.3500	0.0100	
 nor_skin_wolf_lord_03		nor_skin_wolf_lord_03		1.0000	1.5000	0.0100	
-rafford_01		rafford_01		1.0000	1.2200	0.0000	
-rafford_wolf		rafford_wolf		1.0000	1.4500	0.0000	
-arngrim_01		arngrim_01		1.0000	1.5000	0.0000	
-rana_01		rana_01		1.0000	1.1500	0.0000	
+scm_norsca_huern		scm_norsca_huern		1.0000	1.2200	0.0000	
+scm_norsca_huern_wolf		scm_norsca_huern_wolf		1.0000	1.4500	0.0000	
+scm_norsca_uldsdau		scm_norsca_uldsdau		1.0000	1.5000	0.0000	
+scm_norsca_asta		scm_norsca_asta		1.0000	1.1500	0.0000	
 gjalfr	variantmeshes/wh_variantmodels/wf1/nor/nor_ice_wolf/tech	nor_giant_icewolf	wf1/nor/nor_ice_wolf/nor_giant_icewolf	1.0000	1.1500	0.0000	
 wolftribe_cam_mnt_gjalfr	variantmeshes/wh_variantmodels/wf1/nor/nor_ice_wolf/tech	nor_giant_icewolf	wf1/nor/nor_ice_wolf/nor_giant_icewolf	1.0000	1.1500	0.0000	
-wolffather_01		wolffather_01		1.0000	1.1500	0.0000	
-wolffather_wolf		wolffather_wolf		1.0000	1.3500	0.0000	
+scm_norsca_alfkael		scm_norsca_alfkael		1.0000	1.1500	0.0000	
+scm_norsca_alfkael_wolf		scm_norsca_alfkael_wolf		1.0000	1.3500	0.0000	

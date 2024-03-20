@@ -1,15 +1,15 @@
--- Move a character to Serpent Jetty = Hidolfr spawns on your faction leader
+-- Move a character to Serpent Jetty = Alfkael spawns on your faction leader
 -- Mission is available to all Norscan factions
 
 local function spawn_hidolfr_ime(faction)
-	local agent_unique_string = "wolffather_01"
+	local agent_unique_string = "scm_norsca_alfkael"
 	local faction_cqi = faction:command_queue_index()
 	local faction_leader_cqi = faction:faction_leader():command_queue_index()
 
 	-- Spawn unique agent at character position
-	ModLog("Spawning Hidolfr...")
+	ModLog("Spawning Alfkael...")
 	cm:spawn_unique_agent_at_character(faction_cqi, agent_unique_string, faction_leader_cqi, true)
-	ModLog("Hidolfr spawned")
+	ModLog("Alfkael spawned")
 	
 	--local region = cm:get_region("wh3_main_combi_region_serpent_jetty")
 	--local region_cqi = region:command_queue_index()
@@ -27,19 +27,19 @@ local function spawn_hidolfr_ime(faction)
 		local char_str = cm:char_lookup_str(current_char)
 
 		if current_char:is_null_interface() == false and current_char:character_subtype_key() == agent_unique_string then
-			ModLog("Replenishing Hidolfr's action_points and setting him as immortal...")
+			ModLog("Replenishing Alfkael's action_points and setting him as immortal...")
 			cm:replenish_action_points(char_str)
 			cm:set_character_immortality(char_str, true);
-			ModLog("Hidolfr's action_points reset and he is immortal")
+			ModLog("Alfkael's action_points reset and he is immortal")
 		end
 	end
 end
 
 
 local function add_hidolfr_listener_ime()
-	ModLog("Adding Hidolfr mission-complete listener")
+	ModLog("Adding Alfkael mission-complete listener")
 	core:add_listener(
-		"Hidolfr_MissionSucceeded",
+		"Alfkael_MissionSucceeded",
 		"MissionSucceeded",
 		function(context)
 			return (context:mission():mission_record_key() == "wolftribe_nor_hidolfr_tow")
@@ -60,7 +60,7 @@ local function trigger_hidolfr_mission_ime()
 	for i = 1, #player_faction do
 		if player_faction[i] == "wh_dlc08_nor_naglfarlings" then
 			cm:callback(function()
-				ModLog("Starting Hidolfr mission")
+				ModLog("Starting Alfkael mission")
 				cm:trigger_mission(player_faction[i], "wolftribe_nor_hidolfr_tow", true)
 			end, 0.5)
 		end
@@ -86,17 +86,17 @@ local function double_check_hidolfr_spawned_ime()
 				local current_char = char_list:item_at(j)
 				local char_str = cm:char_lookup_str(current_char)
 
-				if current_char:is_null_interface() == false and current_char:character_subtype_key() == "wolffather_01" then
+				if current_char:is_null_interface() == false and current_char:character_subtype_key() == "scm_norsca_alfkael" then
 					found_hidolfr = true
 				end
 			end
 			
 			if found_hidolfr then
 				--do nothing
-				ModLog("Hidolfr found, all is well")
+				ModLog("Alfkael found, all is well")
 			else
 				--otherwise, force-spawn him in
-				ModLog("Hidolfr not found, panic! Force-spawning him in...")
+				ModLog("Alfkael not found, panic! Force-spawning him in...")
 				spawn_hidolfr_ime(faction)
 			end
 			

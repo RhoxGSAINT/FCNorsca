@@ -1,12 +1,12 @@
 local rhox_fc_norsca_lh={
-    rana_01={--asta
+    scm_norsca_asta={--asta
         faction_key="wh_main_nor_baersonling",
         mission_key="rhox_fc_norsca_asta",
         mission_type="DB",
         ai_turn =5,
         building_key="rhox_fc_norsca_ruins_of_vinnskor",
     },
-    wolffather_01={--alfkael
+    scm_norsca_alfkael={--alfkael
         faction_key="wh_main_nor_aesling",
         mission_key="rhox_fc_norsca_bloodfather",
         mission_condition=function(mm) 
@@ -82,5 +82,3 @@ cm:add_first_tick_callback(
         end
 	end
 )
-
-

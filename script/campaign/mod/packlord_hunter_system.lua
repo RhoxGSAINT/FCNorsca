@@ -100,11 +100,11 @@ local function hunting_trait_system()
 	)	
     
     	core:add_listener(
-		"rafford_CharacterCompletedBattle",
+		"scm_norsca_huern_CharacterCompletedBattle",
 		"CharacterCompletedBattle",
 		function(context)
 			local character = context:character()
-			return cm:model():pending_battle():has_been_fought() and character:character_subtype("rafford_01") and character:won_battle()
+			return cm:model():pending_battle():has_been_fought() and character:character_subtype("scm_norsca_huern") and character:won_battle()
 		end,
 		function(context)					
 			local character = context:character()		
@@ -120,11 +120,11 @@ local function hunting_trait_system()
 	)	
 
 	core:add_listener(
-		"rafford_CharacterCompletedBattle",
+		"scm_norsca_huern_CharacterCompletedBattle",
 		"CharacterParticipatedAsSecondaryGeneralInBattle",
 		function(context)
 			local character = context:character()
-			return cm:model():pending_battle():has_been_fought() and character:character_subtype("rafford_01") and character:won_battle()
+			return cm:model():pending_battle():has_been_fought() and character:character_subtype("scm_norsca_huern") and character:won_battle()
 		end,
 		function(context)				
 			local character = context:character()		
@@ -159,7 +159,7 @@ local function init()
 	local AgentSubtypeRecordContext = character:Call("AgentSubtypeRecordContext")
 	local subtype = AgentSubtypeRecordContext:Call("Key")
 
-	if subtype == "nor_skin_wolf_lord" or subtype == "rafford_01" then
+	if subtype == "nor_skin_wolf_lord" or subtype == "scm_norsca_huern" then
 		local big_names_holder = find_uicomponent(core:get_ui_root(), "character_details_panel", "character_context_parent", "tab_panels", "character_initiatives_holder", "big_names_holder")
 		local killed = core:get_or_create_component("new_killed", "ui/templates/listview.twui.xml", big_names_holder)
 		local list_box = find_uicomponent(big_names_holder, "list_clip", "list_box")

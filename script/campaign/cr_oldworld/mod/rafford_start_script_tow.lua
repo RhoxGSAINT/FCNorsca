@@ -1,7 +1,7 @@
-local function rafford_start()
+local function scm_norsca_huern_start()
 	if cm:is_new_game() then
 
-        out("XXX Rafford Begin XXX");
+        out("XXX Huern Begin XXX");
         local wolftribe = cm:get_faction("wh_dlc08_nor_naglfarlings");
         local wolftribe_faction_leader_cqi = wolftribe:faction_leader():command_queue_index();
         cm:disable_event_feed_events(true, "wh_event_category_character", "", "")
@@ -16,7 +16,7 @@ local function rafford_start()
                         760,
                         1320,
                         "general",
-                        "rafford_01",
+                        "scm_norsca_huern",
                         "names_name_240922",
                         "",
                         "names_name_240923",
@@ -35,4 +35,4 @@ local function rafford_start()
 end;
 
 -- Rename replace_starting_general to match the function name at the top
-cm:add_first_tick_callback(function() rafford_start() end);
+cm:add_first_tick_callback(function() scm_norsca_huern_start() end);

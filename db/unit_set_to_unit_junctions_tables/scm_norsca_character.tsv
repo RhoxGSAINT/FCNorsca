@@ -82,37 +82,37 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_sarg_exalted_seeker_chariot	nor_all	false
 			hkrul_surtha_ek	all_non_chs	true
 			hkrul_surtha_ek	nor_all	false
-			arngrim_01	characters	false
-			arngrim_01	all_non_chs	true
-			arngrim_01	nor_all	false
-			arngrim_01	wolf_creatures	false
+			scm_norsca_uldsdau	characters	false
+			scm_norsca_uldsdau	all_non_chs	true
+			scm_norsca_uldsdau	nor_all	false
+			scm_norsca_uldsdau	wolf_creatures	false
 			nor_skin_wolf_lord	characters	false
 			nor_skin_wolf_lord	all_non_chs	true
 			nor_skin_wolf_lord	nor_all	false
 			nor_skin_wolf_lord	wolf_creatures	false
-			rafford_wolf	wolf_creatures	false
-			rafford_01	characters	false
-			rafford_01	all_non_chs	true
-			rafford_01	nor_all	false
-			rafford_wolf	rafford_wolf	false
-			rafford_wolf	characters	false
-			rafford_wolf	all_non_chs	true
-			rafford_wolf	nor_all	false
-			rana_01	characters	false
-			rana_01	all_non_chs	true
-			rana_01	nor_all	false
-			rana_02	characters	false
-			rana_02	all_non_chs	true
-			rana_02	nor_all	false
-			rana_02	mp_cap_group_rare_single_entities	false
-			rana_01	mp_cap_group_heroes	false
-			rana_01	mp_cap_group_ranged_units	false
-			rana_02	mp_cap_group_heroes	false
-			rana_02	mp_cap_group_ranged_units	false
-			wolffather_01	characters	false
-			wolffather_01	all_non_chs	true
-			wolffather_01	nor_all	false
-			wolffather_wolf	rafford_wolf	false
-			wolffather_wolf	characters	false
-			wolffather_wolf	all_non_chs	true
-			wolffather_wolf	nor_all	false
+			scm_norsca_huern_wolf	wolf_creatures	false
+			scm_norsca_huern	characters	false
+			scm_norsca_huern	all_non_chs	true
+			scm_norsca_huern	nor_all	false
+			scm_norsca_huern_wolf	scm_norsca_huern_wolf	false
+			scm_norsca_huern_wolf	characters	false
+			scm_norsca_huern_wolf	all_non_chs	true
+			scm_norsca_huern_wolf	nor_all	false
+			scm_norsca_asta	characters	false
+			scm_norsca_asta	all_non_chs	true
+			scm_norsca_asta	nor_all	false
+			scm_norsca_asta_02	characters	false
+			scm_norsca_asta_02	all_non_chs	true
+			scm_norsca_asta_02	nor_all	false
+			scm_norsca_asta_02	mp_cap_group_rare_single_entities	false
+			scm_norsca_asta	mp_cap_group_heroes	false
+			scm_norsca_asta	mp_cap_group_ranged_units	false
+			scm_norsca_asta_02	mp_cap_group_heroes	false
+			scm_norsca_asta_02	mp_cap_group_ranged_units	false
+			scm_norsca_alfkael	characters	false
+			scm_norsca_alfkael	all_non_chs	true
+			scm_norsca_alfkael	nor_all	false
+			scm_norsca_alfkael_wolf	scm_norsca_huern_wolf	false
+			scm_norsca_alfkael_wolf	characters	false
+			scm_norsca_alfkael_wolf	all_non_chs	true
+			scm_norsca_alfkael_wolf	nor_all	false

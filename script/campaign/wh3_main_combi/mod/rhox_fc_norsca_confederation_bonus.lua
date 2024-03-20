@@ -57,7 +57,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own",
 		value="5",
 	},
-	rafford_01={
+	scm_norsca_huern={
 		effect="wh_dlc08_effect_force_stat_weapon_strength_skin_wolves_warhounds",
 		scope="character_to_force_own",
 		value="2",
