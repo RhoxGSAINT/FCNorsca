@@ -20,7 +20,7 @@ hkrul_hrothgar	1	2147343937		100	2147343940	hkrul_hrothgar	general	hkrul_hrothga
 hkrul_sarg	1	2147343937		100	2147343940	hkrul_sarg	general	hkrul_sarg	ui/portraits/portholes/no_culture/hkrul_sargath.png	201735985		true
 hkrul_uzul	1	2147343937		100	2147343940	hkrul_uzul	champion	hkrul_uzul	ui/portraits/portholes/no_culture/hkrul_uzkulek.png	201735984		true
 hkrul_surtha_ek	1	2147343937		100	2147343940	hkrul_surtha_ek	general	hkrul_surtha_ek	ui/portraits/portholes/no_culture/hkrul_surtha_ek.png	201735986		true
-rafford_01	1	240922		1	240923	rafford_01	general	rafford_01		19101991		true
-arngrim_01	1	240931		1		arngrim_01	champion	arngrim_01		7122022		true
-rana_01	1	240929		1		rana_01	dignitary	rana_01		23112022		false
-wolffather_01	1	240926	wh_dlc03_lore_beasts	1		wolffather_01	wizard	wolffather_01		17112022		true
+scm_norsca_huern	1	240922		1	240923	scm_norsca_huern	general	scm_norsca_huern		19101991		true
+scm_norsca_uldsdau	1	240931		1		scm_norsca_uldsdau	champion	scm_norsca_uldsdau		7122022		true
+scm_norsca_asta	1	240929		1		scm_norsca_asta	dignitary	scm_norsca_asta		23112022		false
+scm_norsca_alfkael	1	240926	wh_dlc03_lore_beasts	1		scm_norsca_alfkael	wizard	scm_norsca_alfkael		17112022		true

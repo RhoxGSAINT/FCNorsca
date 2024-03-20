@@ -42,8 +42,8 @@ wh3_dlc20_nor_yusak	true	hkrul_sarg_exalted_seeker_chariot	true	true	ui/portrait
 wh_main_nor_varg	true	hkrul_surtha_ek	true	true	ui/portraits/portholes/no_culture/medusa_surtha_ek_0.png	hkrul_surtha_ek	hkrul_surtha_ek	false		false
 wh_main_nor_varg	true	hkrul_surtha_ek_chariot	true	true	ui/portraits/portholes/no_culture/medusa_surtha_ek_0.png	hkrul_surtha_ek_charioteer	hkrul_surtha_ek	false		false
 wh_dlc08_nor_naglfarlings	true	nor_skin_wolf_lord_03	true	true	ui/portraits/portholes/no_culture/nor_skin_wolf_lord_03.png	nor_skin_wolf_lord_03		false		false
-wh_dlc08_nor_naglfarlings	true	rafford_01	true	true	ui/portraits/portholes/no_culture/rafford_01.png	rafford_01	rafford_01	false		false
-wh_dlc08_nor_naglfarlings	false	arngrim_01	true	true	ui/portraits/portholes/no_culture/arngrim_01.png	arngrim_01	arngrim_01	false		false
-wh_dlc08_nor_naglfarlings	false	rana_01	true	true	ui/portraits/portholes/no_culture/rana_01.png	rana_01	rana_01	false		false
-wh_dlc08_nor_naglfarlings	false	rana_02	true	true	ui/portraits/portholes/no_culture/rana_01.png	rana_01	rana_01	false		false
-wh_dlc08_nor_naglfarlings	false	wolffather_01	true	true	ui/portraits/portholes/no_culture/wolffather_01.png	wolffather_01	wolffather_01	false		false
+wh_dlc08_nor_naglfarlings	true	scm_norsca_huern	true	true	ui/portraits/portholes/no_culture/scm_norsca_huern.png	scm_norsca_huern	scm_norsca_huern	false		false
+wh_dlc08_nor_naglfarlings	false	scm_norsca_uldsdau	true	true	ui/portraits/portholes/no_culture/scm_norsca_uldsdau.png	scm_norsca_uldsdau	scm_norsca_uldsdau	false		false
+wh_dlc08_nor_naglfarlings	false	scm_norsca_asta	true	true	ui/portraits/portholes/no_culture/scm_norsca_asta.png	scm_norsca_asta	scm_norsca_asta	false		false
+wh_dlc08_nor_naglfarlings	false	scm_norsca_asta_02	true	true	ui/portraits/portholes/no_culture/scm_norsca_asta.png	scm_norsca_asta	scm_norsca_asta	false		false
+wh_dlc08_nor_naglfarlings	false	scm_norsca_alfkael	true	true	ui/portraits/portholes/no_culture/scm_norsca_alfkael.png	scm_norsca_alfkael	scm_norsca_alfkael	false		false

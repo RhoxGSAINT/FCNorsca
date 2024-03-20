@@ -19,9 +19,9 @@ cm:add_first_tick_callback(function()
 	if cm:is_new_game() then
 					
 		local wolftribe_unique_agents = {
-			{"arngrim_01", "wh_dlc08_nor_naglfarlings"},
-			{"rana_01", "wh_dlc08_nor_naglfarlings"},
-			{"wolffather_01", "wh_dlc08_nor_naglfarlings"}
+			{"scm_norsca_uldsdau", "wh_dlc08_nor_naglfarlings"},
+			{"scm_norsca_asta", "wh_dlc08_nor_naglfarlings"},
+			{"scm_norsca_alfkael", "wh_dlc08_nor_naglfarlings"}
 		}
 
 		local faction = cm:get_faction("wh_dlc08_nor_naglfarlings");
@@ -31,7 +31,7 @@ cm:add_first_tick_callback(function()
 		end
 
 		if faction:is_human() then
-			unique_agent_setup_arngrim()
+			unique_agent_setup_scm_norsca_uldsdau()
 		end
 
 		cm:callback(function()	
@@ -42,7 +42,7 @@ cm:add_first_tick_callback(function()
 			cm:disable_event_feed_events(false, "wh_event_category_agent", "", "");
 			CampaignUI.ClearSelection();
 		end, 0.5);
-		out("UNIQ: Spawned hero next to Rafford the Wolf");
+		out("UNIQ: Spawned hero next to Huern the Wolf");
 	end
 end)
 
@@ -51,27 +51,27 @@ end)
 	Spawns a Unique Agent next to the starting lord of a specified faction
 ]]
 
-function unique_agent_setup_arngrim()
+function unique_agent_setup_scm_norsca_uldsdau()
 	-- Agent Details
 	local agent_details = {
 		faction_str = "wh_dlc08_nor_naglfarlings",	-- faction_key from factions
 		forename_key = "names_name_240931",						-- forename_key from names
 		family_name_key = "",					-- family_name_key from names
-		subtype_key = "arngrim_01",			-- agent subtype_key from agent_subtypes
-		art_set_key = "arngrim_01",	-- agent art_set_id from campaign_character_arts
-		unique_string = "arngrim_01",			-- unique agent string from unique_agents
+		subtype_key = "scm_norsca_uldsdau",			-- agent subtype_key from agent_subtypes
+		art_set_key = "scm_norsca_uldsdau",	-- agent art_set_id from campaign_character_arts
+		unique_string = "scm_norsca_uldsdau",			-- unique agent string from unique_agents
 		saved_value = "unique_agent_enabled",						-- saved_value string
 	};
 
 	-- Monitor activated, listening for FactionTurnStart for The Huntmarshals Expedition
 	core:add_listener(
-		"arngrim_unique_agent_setup",
+		"scm_norsca_uldsdau_unique_agent_setup",
 		"FactionTurnStart",
 		function(context)
 			return context:faction():name() == agent_details.faction_str;
 		end,
 		function(context)
-			-- Spawning Arngrim as a unique agent next to Rafford
+			-- Spawning Uldsdau as a unique agent next to Huern
 			local faction = cm:get_faction(agent_details.faction_str);
 			local faction_cqi = faction:command_queue_index();
 			local faction_leader_cqi = faction:faction_leader():command_queue_index();
@@ -87,7 +87,7 @@ function unique_agent_setup_arngrim()
 				cm:disable_event_feed_events(false, "wh_event_category_agent", "", "");
 				CampaignUI.ClearSelection();
 			end, 0.5);
-			out("UNIQ: Spawned Arngrim Frostaxe next to Rafford the Wolf");
+			out("UNIQ: Spawned Uldsdau next to Huern the Wolf");
 
 			-- Looping through the character list for The Huntmarshals Expedition
 			local char_list = faction:character_list();
@@ -101,11 +101,11 @@ function unique_agent_setup_arngrim()
 
 					-- Replenishing action points
 					cm:replenish_action_points(char_str);
-					out("UNIQ: Replenishing the action points of Arngrim");
+					out("UNIQ: Replenishing the action points of Uldsdau");
 
 					-- Failsafe for the random chance that the art_set doesn't apply properly
 					cm:add_unit_model_overrides(char_str, agent_details.art_set_key);
-					out("UNIQ: Adding unit model override for Arngrim");
+					out("UNIQ: Adding unit model override for Uldsdau");
 				end;
 			end;
 

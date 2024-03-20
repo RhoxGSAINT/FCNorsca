@@ -1,8 +1,8 @@
 key	text	tooltip
 #Loc;1;text/db/ab_wolftribe.loc		
-unit_abilities_onscreen_name_wh_main_lord_abilities_blessing_of_the_wolffather	The Beast Within	false
-unit_abilities_onscreen_name_wh_main_lord_abilities_wolffather_regular	Return to Human Form	false
-unit_abilities_tooltip_text_wh_main_lord_abilities_blessing_of_the_wolffather	Blessed by the Ruinous Powers this warrior transforms into a fearsome beast.	true
+unit_abilities_onscreen_name_wh_main_lord_abilities_blessing_of_the_scm_norsca_alfkael	The Beast Within	false
+unit_abilities_onscreen_name_wh_main_lord_abilities_scm_norsca_alfkael_regular	Return to Human Form	false
+unit_abilities_tooltip_text_wh_main_lord_abilities_blessing_of_the_scm_norsca_alfkael	Blessed by the Ruinous Powers this warrior transforms into a fearsome beast.	true
 unit_abilities_tooltip_text_wh3_main_spell_ice_heart_of_winter	At one with the frozen plains and snowy tundra, wherever this one goes, they bring the icy heart of the North with them.	false
 unit_abilities_onscreen_name_wh3_main_spell_ice_heart_of_winter	Heart of Winter	false
 unit_abilities_onscreen_name_wh3_main_spell_ice_heart_of_winter_upgraded	Heart of Winter Upgraded	false
@@ -30,14 +30,14 @@ character_skills_localised_name_wolftribe_skill_self_wise_one	Wise One	false
 character_skills_localised_name_wolftribe_skill_unique_wisdom	The Wanderer's Wisdom	false
 character_skills_localised_description_wh_dlc08_skill_all_dummy_agent_actions_wolftribe_shaman		false
 character_skills_localised_description_wolftribe_skill_innate_one_eye	Old One-Eye is a local legend. Some say the wanderer is a champion of old blessed with immortality. All admire his journeys.	false
-character_skills_localised_description_wolftribe_skill_mount_ice_wolf_chariot	Hidolfr rides into battle in his wolf-drawn chariot, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_description_wolftribe_skill_mount_ice_wolf_chariot	Alfkael rides into battle in his wolf-drawn chariot, lashed together with the guts and sinew of the vanquished.	false
 character_skills_localised_description_wolftribe_skill_self_frost_father	Old One-Eye has walked Norsca’s lands for countless years. His blood is ice, his eye the thunderous snowclouds.	false
-character_skills_localised_description_wolftribe_skill_self_honored_forefather	To the Tribe of the Wolf, Hidolfr stands apart and above tribal rankings. He is more than a man, more than a wolf. He is an honored ancestor.	false
-character_skills_localised_description_wolftribe_skill_self_mead	During feasts in the great halls, Hidolfr swears that the mead he carries is blessed by the Ruinous Powers.	false
-character_skills_localised_description_wolftribe_skill_self_songs_sagas	When Hidolfr visits a village, jarls and bondsmen gather to hear his tales of glory and courage.	false
-character_skills_localised_description_wolftribe_skill_self_wind_walker	Hidolfr spends as much time walking through the icy winds of Norsca as he does by a great hall’s hearth, and he can perceive the Winds better than most.	false
+character_skills_localised_description_wolftribe_skill_self_honored_forefather	To the Tribe of the Wolf, Alfkael stands apart and above tribal rankings. He is more than a man, more than a wolf. He is an honored ancestor.	false
+character_skills_localised_description_wolftribe_skill_self_mead	During feasts in the great halls, Alfkael swears that the mead he carries is blessed by the Ruinous Powers.	false
+character_skills_localised_description_wolftribe_skill_self_songs_sagas	When Alfkael visits a village, jarls and bondsmen gather to hear his tales of glory and courage.	false
+character_skills_localised_description_wolftribe_skill_self_wind_walker	Alfkael spends as much time walking through the icy winds of Norsca as he does by a great hall’s hearth, and he can perceive the Winds better than most.	false
 character_skills_localised_description_wolftribe_skill_self_wise_one	The One-Eyed is a much-respected figure amongst the Norsemen, inspiring young warriors to fight harder and impress him.	false
-character_skills_localised_description_wolftribe_skill_unique_wisdom	Years spent wandering, fighting, and reflecting have left Hidolfr with a wisdom rivalled by few, if any, throughout Norsca.	false
+character_skills_localised_description_wolftribe_skill_unique_wisdom	Years spent wandering, fighting, and reflecting have left Alfkael with a wisdom rivalled by few, if any, throughout Norsca.	false
 hunting_camp_main	Packlord Hunting Camp	true
 hunting_camp_beast_packs	Beast Packs	true
 hunting_camp_shrine	Shrine to Olric	true
@@ -258,20 +258,20 @@ incidents_localised_description_packlord_hunter_gained_a_trait	Successful Hunt	t
 event_feed_strings_text_fc_norsca_event_feed_character_initiative_unlocked_secondary_detail	#(character) has completed a challenge.\\n\\nThey have gained the [[b]]"#(initiative_record)"[[/b]]	false
 names_name_240922	Huern	true
 names_name_240923	the Wolf	true
-agent_subtypes_onscreen_name_override_rafford_01	Legendary Lord	true
-agent_subtypes_description_text_override_rafford_01	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-land_units_onscreen_name_rafford_01	Huern the Wolf	true
-unit_description_short_texts_text_rafford_01	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-unit_description_historical_texts_text_rafford_01	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-unit_description_short_texts_text_rafford_wolf	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-unit_description_historical_texts_text_rafford_wolf	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
-land_units_onscreen_name_rafford_wolf	Huern the Wolf	false
-unit_description_historical_texts_text_wh_dlc08_unit_long_text_nor_rafford_01	On a cold and perilous Rúnanótt (or “Geheimnisnacht,” as the southerners call it), a dying thrall fled into the tundra to give birth. Her wails were loud and lonely, but her efforts bore fruit — her babe’s first breath was full of ice, and Huern was welcomed into the world by the distant howling of wolves. How the boy survived is a matter of speculation, as are his origins. Some say his father was a thrall, others a chieftain. Many, however, claim he is the offspring of Olric himself, and that the Winter Wolf carried him to safety that fateful night. Regardless, it is true that the blood of a wolf runs through Huern’s veins. A Skin Wolf since birth, Huern has mastered his feral and savage appetites, channeling the beast’s bloodlust against his foes. His ferocity and prowess have become a local legend, drawing other skin wolves and werekin to his banner. For now, the Tribe of the Wolf rules the Naglfari Plain, hunting across its mountains and tundra. Yet greater prey lives beyond the Tribe’s lands – perhaps it is time to begin the Hunt?	false
+agent_subtypes_onscreen_name_override_scm_norsca_huern	Legendary Lord	true
+agent_subtypes_description_text_override_scm_norsca_huern	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
+land_units_onscreen_name_scm_norsca_huern	Huern the Wolf	true
+unit_description_short_texts_text_scm_norsca_huern	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
+unit_description_historical_texts_text_scm_norsca_huern	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
+unit_description_short_texts_text_scm_norsca_huern_wolf	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
+unit_description_historical_texts_text_scm_norsca_huern_wolf	Skin Wolf or human, the Wolf Chieftain is a dangerous foe.	true
+land_units_onscreen_name_scm_norsca_huern_wolf	Huern the Wolf	false
+unit_description_historical_texts_text_wh_dlc08_unit_long_text_nor_scm_norsca_huern	On a cold and perilous Rúnanótt (or “Geheimnisnacht,” as the southerners call it), a dying thrall fled into the tundra to give birth. Her wails were loud and lonely, but her efforts bore fruit — her babe’s first breath was full of ice, and Huern was welcomed into the world by the distant howling of wolves. How the boy survived is a matter of speculation, as are his origins. Some say his father was a thrall, others a chieftain. Many, however, claim he is the offspring of Olric himself, and that the Winter Wolf carried him to safety that fateful night. Regardless, it is true that the blood of a wolf runs through Huern’s veins. A Skin Wolf since birth, Huern has mastered his feral and savage appetites, channeling the beast’s bloodlust against his foes. His ferocity and prowess have become a local legend, drawing other skin wolves and werekin to his banner. For now, the Tribe of the Wolf rules the Naglfari Plain, hunting across its mountains and tundra. Yet greater prey lives beyond the Tribe’s lands – perhaps it is time to begin the Hunt?	false
 names_name_240957	the Blooded	true
-ancillaries_onscreen_name_rafford_thralls_lament	The Thrall's Lament	true
-ancillaries_colour_text_rafford_thralls_lament	Huern has risen far, but he has not forgotten the treatment which killed his mother and forced him to struggle to live as a child. This keepsake of his dying mother ensures that he will never forget—and will always despise—those with power who abuse it.	true
-ancillaries_onscreen_name_rafford_chieftains_horn	The Wolf Chieftain's Horn	true
-ancillaries_colour_text_rafford_chieftains_horn	Torn from the bloody fingers of the previous ruler of the Naglfari Plain, this horn rallies the spirit of the Tribe of the Wolf and is proof that Rafford has earned his place among the lords of Norsca.	true
+ancillaries_onscreen_name_scm_norsca_huern_thralls_lament	The Thrall's Lament	true
+ancillaries_colour_text_scm_norsca_huern_thralls_lament	Huern has risen far, but he has not forgotten the treatment which killed his mother and forced him to struggle to live as a child. This keepsake of his dying mother ensures that he will never forget—and will always despise—those with power who abuse it.	true
+ancillaries_onscreen_name_scm_norsca_huern_chieftains_horn	The Wolf Chieftain's Horn	true
+ancillaries_colour_text_scm_norsca_huern_chieftains_horn	Torn from the bloody fingers of the previous ruler of the Naglfari Plain, this horn rallies the spirit of the Tribe of the Wolf and is proof that Huern has earned his place among the lords of Norsca.	true
 effects_description_morale_skin_wolves	Leadership: %+n for all Skin Wolf units	true
 effects_description_upkeep_skin_wolves_warhounds	Upkeep: %+n% for Skinwolves, Norscan Ice Wolves and Norscan Warhounds	true
 effects_description_vanguard_ice_wolves	Vanguard deployment for Norscan Ice Wolves	true
@@ -295,12 +295,12 @@ effects_description_wolftribe_enable_ability_rally_the_tribe	Ability: "Rally the
 effects_description_wolftribe_effect_enable_primal_instincts	Passive Ability: "Primal Instincts"	true
 effects_description_wolftribe_hunting_camps	Skin Wolf Packlords have access to mobile Hunting Camps which provide limited recruitment options and unlock improvements for their army in both campaign and battle.	true
 effects_description_wolftribe_hunting_journeys	Recruit Skin Wolf Packlords to lead your armies across the world. Huern and his Packlords have access to unique Hunting Journey targets. Defeat armies with specific enemies to unlock powerful buffs for the lord or their army.	true
-character_skills_localised_name_rafford_pack_leader	Master of Wolves	true
-character_skills_localised_description_rafford_pack_leader	The wolves and Skin Wolves of Norsca gather under the banner of the Black Wolf, drawn by his legend and bound by his strength.	true
-character_skills_localised_name_rafford_unique_leader_of_the_pack	Leader of the Pack	false
-character_skills_localised_description_rafford_unique_leader_of_the_pack	The Skinwolves of Norsca follow only the strongest. 	false
-character_skill_level_details_localised_name_1rafford_unique_leader_of_the_pack	Leader of the Pack	false
-character_skill_level_details_localised_description_1rafford_unique_leader_of_the_pack	Leader of the Pack	false
+character_skills_localised_name_scm_norsca_huern_pack_leader	Master of Wolves	true
+character_skills_localised_description_scm_norsca_huern_pack_leader	The wolves and Skin Wolves of Norsca gather under the banner of the Black Wolf, drawn by his legend and bound by his strength.	true
+character_skills_localised_name_scm_norsca_huern_unique_leader_of_the_pack	Leader of the Pack	false
+character_skills_localised_description_scm_norsca_huern_unique_leader_of_the_pack	The Skinwolves of Norsca follow only the strongest. 	false
+character_skill_level_details_localised_name_1scm_norsca_huern_unique_leader_of_the_pack	Leader of the Pack	false
+character_skill_level_details_localised_description_1scm_norsca_huern_unique_leader_of_the_pack	Leader of the Pack	false
 character_skills_localised_name_wh_main_lord_abilities_blessing_of_the_hound	The Beast Within	false
 character_skills_localised_description_wh_main_lord_abilities_blessing_of_the_hound	To some the beast is a blessing, to others a curse.	false
 character_skill_level_details_localised_description_wh_main_lord_abilities_blessing_of_the_hound		true
@@ -309,24 +309,24 @@ character_skill_level_details_localised_description_summon_ice_wolves_summon		tr
 character_skill_level_details_localised_name_ice_wolves_summon		true
 character_skills_localised_name_ice_wolves_summon	Call of the Pack	false
 character_skills_localised_description_ice_wolves_summon	Trained personally by the Wolf Chieftain, these Wolves guard the leaders of the Tribe with their lives.	false
-character_skills_localised_name_rafford_regeneration	Skinchanger	false
-character_skills_localised_description_rafford_regeneration	All Skin Wolves have the ability to regenerate their horrid forms, even as humans.	false
+character_skills_localised_name_scm_norsca_huern_regeneration	Skinchanger	false
+character_skills_localised_description_scm_norsca_huern_regeneration	All Skin Wolves have the ability to regenerate their horrid forms, even as humans.	false
 character_skills_localised_name_alpha_wolf	Blessed & Possessed	false
 character_skills_localised_description_alpha_wolf	The beasts within can get further blessings from the Dark Gods. Sharper claws or unbreakable bodies are some of them.	false
-character_skills_localised_name_rafford_unique_06	Alpha Wolf	false
-character_skills_localised_description_rafford_unique_06	"My wolves, rage! My wolves, howl! My wolves, fight!"	true
-character_skills_localised_name_rafford_devourers_of_flesh	Devourers of Flesh	false
-character_skills_localised_description_rafford_devourers_of_flesh	After battle the mangled gore that remains is devoured by Rafford and his ravenous, insatiable Werekin.	true
-character_skills_localised_name_fervent_creatures_rafford	Fervent Creatures	false
-character_skills_localised_description_fervent_creatures_rafford	Skin Wolves in Rafford's service enjoy speed and skill beyond even their preternatural capabilities.	true
-character_skills_localised_description_rafford_unique_07	Fast and vicious, the Tribe of the Wolf's hunting packs spread fear and terror, striking where they are needed most.	false
-character_skills_localised_name_rafford_unique_07	Merciless Hunters	false
-character_skills_localised_name_rafford_anci_armor_pelt	Second Skin	false
-character_skills_localised_description_rafford_anci_armor_pelt		false
-character_skills_localised_name_rafford_wanderer	Wanderer	false
-character_skills_localised_name_rafford_mighty_huscarls	Mighty Huscarls	false
-character_skills_localised_description_rafford_wanderer	Although Wulfrik is the better-known bearer of this title, Huern is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	false
-character_skills_localised_description_rafford_mighty_huscarls	Though they once were drifters and vagrants, the elite warriors of the Tribe of the Wolf have proven themselves to be a disciplined unit to be feared.	false
+character_skills_localised_name_scm_norsca_huern_unique_06	Alpha Wolf	false
+character_skills_localised_description_scm_norsca_huern_unique_06	"My wolves, rage! My wolves, howl! My wolves, fight!"	true
+character_skills_localised_name_scm_norsca_huern_devourers_of_flesh	Devourers of Flesh	false
+character_skills_localised_description_scm_norsca_huern_devourers_of_flesh	After battle the mangled gore that remains is devoured by Huern and his ravenous, insatiable Werekin.	true
+character_skills_localised_name_fervent_creatures_scm_norsca_huern	Fervent Creatures	false
+character_skills_localised_description_fervent_creatures_scm_norsca_huern	Skin Wolves in Huern's service enjoy speed and skill beyond even their preternatural capabilities.	true
+character_skills_localised_description_scm_norsca_huern_unique_07	Fast and vicious, the Tribe of the Wolf's hunting packs spread fear and terror, striking where they are needed most.	false
+character_skills_localised_name_scm_norsca_huern_unique_07	Merciless Hunters	false
+character_skills_localised_name_scm_norsca_huern_anci_armor_pelt	Second Skin	false
+character_skills_localised_description_scm_norsca_huern_anci_armor_pelt		false
+character_skills_localised_name_scm_norsca_huern_wanderer	Wanderer	false
+character_skills_localised_name_scm_norsca_huern_mighty_huscarls	Mighty Huscarls	false
+character_skills_localised_description_scm_norsca_huern_wanderer	Although Wulfrik is the better-known bearer of this title, Huern is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	false
+character_skills_localised_description_scm_norsca_huern_mighty_huscarls	Though they once were drifters and vagrants, the elite warriors of the Tribe of the Wolf have proven themselves to be a disciplined unit to be feared.	false
 unit_abilities_onscreen_name_wh_main_lord_abilities_blessing_of_the_hound	The Beast Within	false
 unit_abilities_onscreen_name_wh_main_lord_abilities_wolf_regular	Return to Regular Form	false
 unit_abilities_tooltip_text_wh_main_lord_abilities_blessing_of_the_hound	Blessed by the Ruinous Powers, this warrior transforms into a fearsome beast.	true
@@ -338,24 +338,24 @@ unit_abilities_onscreen_name_wolftribe_ability_my_mother	Mother's Deathsong	fals
 unit_abilities_tooltip_text_wolftribe_ability_my_mother	Huern's mother died an unjust death, frightened and alone. Her son will not falter.	true
 unit_abilities_onscreen_name_wolftribe_ability_rally_the_tribe	Rally the Tribe	false
 unit_abilities_tooltip_text_wolftribe_ability_rally_the_tribe	Back! Once more into the fray!	true
-agent_subtypes_onscreen_name_override_wolffather_01	Legendary Vitki	true
-agent_subtypes_description_text_override_wolffather_01	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-land_units_onscreen_name_wolffather_01	Hidolfr One-Eye	true
+agent_subtypes_onscreen_name_override_scm_norsca_alfkael	Legendary Vitki	true
+agent_subtypes_description_text_override_scm_norsca_alfkael	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+land_units_onscreen_name_scm_norsca_alfkael	Alfkael the Bloodfather	true
 unit_description_short_texts_text_wolftribe_short_text_hidolfr	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 unit_description_historical_texts_text_wolftribe_long_text_hidolfr	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-unit_description_short_texts_text_wolffather_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-unit_description_historical_texts_text_wolffather_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-land_units_onscreen_name_wolffather_wolf	Hidolfr One-Eye	false
-ui_unit_groupings_onscreen_wolffather_01	Legendary Vitki	false
-ui_unit_groupings_tooltip_wolffather_01		false
-names_name_240926	Hidolfr One-Eye	false
-agent_subtypes_onscreen_name_override_arngrim_01	Legendary Berserker	true
-agent_subtypes_description_text_override_arngrim_01	Once an ordinary, albeit hulking, berserker, Arngrim's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
-land_units_onscreen_name_arngrim_01	Arngrim Frostaxe	true
-land_units_concealed_name_arngrim_01		true
-unit_description_short_texts_text_short_text_arngrim	Once an ordinary, albeit hulking, berserker, Arngrim's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
-unit_description_historical_texts_text_long_text_arngrim		true
-names_name_240931	Arngrim Frostaxe	false
+unit_description_short_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+unit_description_historical_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael the Bloodfather	false
+ui_unit_groupings_onscreen_scm_norsca_alfkael	Legendary Vitki	false
+ui_unit_groupings_tooltip_scm_norsca_alfkael		false
+names_name_240926	Alfkael the Bloodfather	false
+agent_subtypes_onscreen_name_override_scm_norsca_uldsdau	Legendary Berserker	true
+agent_subtypes_description_text_override_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Uldsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
+land_units_onscreen_name_scm_norsca_uldsdau	Uldsdau	true
+land_units_concealed_name_scm_norsca_uldsdau		true
+unit_description_short_texts_text_short_text_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Uldsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
+unit_description_historical_texts_text_long_text_scm_norsca_uldsdau		true
+names_name_240931	Uldsdau	false
 character_skills_localised_name_wolftribe_skill_unique_blood_berserker	Blood-Drenched Berserker	false
 character_skills_localised_name_wolftribe_skill_self_tribal_giant	Tribal Giant	false
 character_skills_localised_name_wolftribe_skill_self_berserker_champion	Berserker Champion	false
@@ -364,82 +364,82 @@ character_skills_localised_name_wolftribe_skill_self_jarl_slayer	Jarl-Slayer	fal
 character_skills_localised_name_wolftribe_skill_self_contest_of_skill	Contest of Skill	false
 character_skills_localised_name_wolftribe_skill_self_blood_brother	Blood-Brother	false
 character_skills_localised_name_wolftribe_skill_innate_foe_cleaver	Foe-Cleaver	false
-character_skills_localised_description_wolftribe_skill_unique_blood_berserker	The sight of Arngrim, dripping with the gore of his foes, is terrible indeed.	false
-character_skills_localised_description_wolftribe_skill_self_tribal_giant	Once, Arngrim served as a bondsman in service to an Aesling jarl. So great was his stature that many thought him to be a troll.	false
-character_skills_localised_description_wolftribe_skill_self_berserker_champion	Arngrim was the greatest among his tribe’s berserkers, with countless victories and scars accumulated over years of battle.	false
-character_skills_localised_description_wolftribe_skill_self_blessing_of_the_beast	The bloodlust of a Skin Wolf was not so different from the battle rage of a berserker, and so Arngrim felt comfortable in his new form, emboldened by its strength and senses.	false
-character_skills_localised_description_wolftribe_skill_self_jarl_slayer	When Arngrim was blessed with the power of the werekin, he could no longer serve any master. Slaying his arrogant jarl, Arngrim fled out into the tundra, seeking stronger foes.	false
-character_skills_localised_description_wolftribe_skill_self_contest_of_skill	Several years into his wanderings, Arngrim found a new foe to challenge – a young man black of hair with eyes like the stormy sea. For two days did they duel upon a frozen lake, their blows ringing like thunderclaps.	false
-character_skills_localised_description_wolftribe_skill_self_blood_brother	Bested by Rafford in their duel, Arngrim was nevertheless spared by the Black Wolf. Ever since that day, Arngrim has sworn eternal loyalty and friendship to the one man worthy of his respect.	false
-character_skills_localised_description_wolftribe_skill_innate_foe_cleaver	Arngrim is a renowned berserker who once wandered Norsca in search of stronger foes.	false
-character_skills_localised_description_wolftribe_skill_dummy_agent_actions_arngrim	[HIDDEN]	false
-character_skills_localised_name_wolftribe_skill_dummy_agent_actions_arngrim	[HIDDEN]	false
-ui_unit_groupings_onscreen_arngrim_01	Legendary Berserker	false
-ui_unit_groupings_tooltip_arngrim_01		false
-missions_localised_title_wolftribe_nor_rana	The Forester's Daughter	true
-missions_localised_description_wolftribe_nor_rana	Rafford met Rána while on a raid to the lands of Bretonnia. Rafford and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Rafford’s band emerged triumphant, but not unscathed. Rafford himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Rafford returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Rána.”\\n\\nRána has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
+character_skills_localised_description_wolftribe_skill_unique_blood_berserker	The sight of Uldsdau, dripping with the gore of his foes, is terrible indeed.	false
+character_skills_localised_description_wolftribe_skill_self_tribal_giant	Once, Uldsdau served as a bondsman in service to an Aesling jarl. So great was his stature that many thought him to be a troll.	false
+character_skills_localised_description_wolftribe_skill_self_berserker_champion	Uldsdau was the greatest among his tribe’s berserkers, with countless victories and scars accumulated over years of battle.	false
+character_skills_localised_description_wolftribe_skill_self_blessing_of_the_beast	The bloodlust of a Skin Wolf was not so different from the battle rage of a berserker, and so Uldsdau felt comfortable in his new form, emboldened by its strength and senses.	false
+character_skills_localised_description_wolftribe_skill_self_jarl_slayer	When Uldsdau was blessed with the power of the werekin, he could no longer serve any master. Slaying his arrogant jarl, Uldsdau fled out into the tundra, seeking stronger foes.	false
+character_skills_localised_description_wolftribe_skill_self_contest_of_skill	Several years into his wanderings, Uldsdau found a new foe to challenge – a young man black of hair with eyes like the stormy sea. For two days did they duel upon a frozen lake, their blows ringing like thunderclaps.	false
+character_skills_localised_description_wolftribe_skill_self_blood_brother	Bested by Huern in their duel, Uldsdau was nevertheless spared by the Black Wolf. Ever since that day, Uldsdau has sworn eternal loyalty and friendship to the one man worthy of his respect.	false
+character_skills_localised_description_wolftribe_skill_innate_foe_cleaver	Uldsdau is a renowned berserker who once wandered Norsca in search of stronger foes.	false
+character_skills_localised_description_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
+character_skills_localised_name_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
+ui_unit_groupings_onscreen_scm_norsca_uldsdau	Legendary Berserker	false
+ui_unit_groupings_tooltip_scm_norsca_uldsdau		false
+missions_localised_title_wolftribe_nor_scm_norsca_asta	The Forester's Daughter	true
+missions_localised_description_wolftribe_nor_scm_norsca_asta	Huern met Asta while on a raid to the lands of Bretonnia. Huern and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Huern’s band emerged triumphant, but not unscathed. Huern himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Huern returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Asta.”\\n\\nAsta has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
 missions_localised_title_wolftribe_nor_hidolfr	The Wise One	true
-missions_localised_description_wolftribe_nor_hidolfr	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Hidolfr One-Eye is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Hidolfr drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
-missions_localised_title_wolftribe_nor_rana_tow	The Forester's Daughter	true
-missions_localised_description_wolftribe_nor_rana_tow	Rafford met Rána while on a raid to the lands of Bretonnia. Rafford and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Rafford’s band emerged triumphant, but not unscathed. Rafford himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Rafford returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Rána.”\\n\\nRána has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
+missions_localised_description_wolftribe_nor_hidolfr	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Alfkael the Bloodfather is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Alfkael drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
+missions_localised_title_wolftribe_nor_scm_norsca_asta_tow	The Forester's Daughter	true
+missions_localised_description_wolftribe_nor_scm_norsca_asta_tow	Huern met Asta while on a raid to the lands of Bretonnia. Huern and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Huern’s band emerged triumphant, but not unscathed. Huern himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Huern returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Asta.”\\n\\nAsta has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
 missions_localised_title_wolftribe_nor_hidolfr_tow	The Wise One	true
-missions_localised_description_wolftribe_nor_hidolfr_tow	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Hidolfr One-Eye is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Hidolfr drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
-effect_bundles_localised_description_wolftribe_payload_rana_join	Rafford met Rána while on a raid to the lands of Bretonnia. Rafford and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Rafford’s band emerged triumphant, but not unscathed. Rafford himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Rafford returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Rána.”\\n\\nRána has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
-effect_bundles_localised_title_wolftribe_payload_rana_join	The Forester's Daughter	true
-effect_bundles_localised_description_wolftribe_payload_hidolfr_join	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Hidolfr One-Eye is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Hidolfr drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
+missions_localised_description_wolftribe_nor_hidolfr_tow	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Alfkael the Bloodfather is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Alfkael drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
+effect_bundles_localised_description_wolftribe_payload_scm_norsca_asta_join	Huern met Asta while on a raid to the lands of Bretonnia. Huern and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Huern’s band emerged triumphant, but not unscathed. Huern himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Huern returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Asta.”\\n\\nAsta has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
+effect_bundles_localised_title_wolftribe_payload_scm_norsca_asta_join	The Forester's Daughter	true
+effect_bundles_localised_description_wolftribe_payload_hidolfr_join	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Alfkael the Bloodfather is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Alfkael drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
 effect_bundles_localised_title_wolftribe_payload_hidolfr_join	The Wise One	true
-agent_subtypes_onscreen_name_override_rana_01	Legendary Huntress	true
-agent_subtypes_description_text_override_rana_01	Born in the forests of Bretonnia, Rána is Rafford's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-land_units_onscreen_name_rana_01	Rána of the Wood	true
-unit_description_short_texts_text_wolftribe_short_text_rana	Born in the forests of Bretonnia, Rána is Rafford's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-unit_description_historical_texts_text_wolftribe_long_text_rana	Born in the forests of Bretonnia, Rána is Rafford's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-unit_description_short_texts_text_rana_02	Born in the forests of Bretonnia, Rána is Rafford's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-unit_description_historical_texts_text_rana_02	Born in the forests of Bretonnia, Rána is Rafford's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-land_units_onscreen_name_rana_02	Rána of the Wood	true
-land_units_concealed_name_rana_02		true
-ancillaries_colour_text_wolftribe_anc_mount_nor_rana_gjalfr	Gjálfr is an enormous ice wolf who once dominated the packs of Norsca. Now, he is Rána's loyal companion on her hunts.	false
-ancillaries_onscreen_name_wolftribe_anc_mount_nor_rana_gjalfr	Gjálfr	false
+agent_subtypes_onscreen_name_override_scm_norsca_asta	Legendary Huntress	true
+agent_subtypes_description_text_override_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+land_units_onscreen_name_scm_norsca_asta	Asta of the Wood	true
+unit_description_short_texts_text_wolftribe_short_text_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+unit_description_historical_texts_text_wolftribe_long_text_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+unit_description_short_texts_text_scm_norsca_asta_02	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+unit_description_historical_texts_text_scm_norsca_asta_02	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+land_units_onscreen_name_scm_norsca_asta_02	Asta of the Wood	true
+land_units_concealed_name_scm_norsca_asta_02		true
+ancillaries_colour_text_wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	Gjálfr is an enormous ice wolf who once dominated the packs of Norsca. Now, he is Asta's loyal companion on her hunts.	false
+ancillaries_onscreen_name_wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	Gjálfr	false
 character_skills_localised_name_wolftribe_skill_innate_foresters_daughter	The Forester's Daughter	false
 character_skills_localised_name_wolftribe_skill_self_healers_touch	Healer's Touch	false
 character_skills_localised_name_wolftribe_skill_self_hunters_traps	Hunter's Traps	false
 character_skills_localised_name_wolftribe_skill_self_fierce_beauty	Fierce Beauty	false
 character_skills_localised_name_wolftribe_skill_self_keen_minded_ruler	Keen-Minded Ruler	false
-character_skills_localised_name_wolftribe_skill_self_rana_honorguard	Rána’s Honorguard	false
+character_skills_localised_name_wolftribe_skill_self_scm_norsca_asta_honorguard	Asta’s Honorguard	false
 character_skills_localised_name_wolftribe_skill_self_chieftess_of_wolves	Chieftess of the Wolves	false
 character_skills_localised_name_wolftribe_skill_unique_vengeful_daughter	Vengeful Daughter	false
 character_skills_localised_name_wolftribe_skill_unique_resourceful_huntress	Resourceful Huntress	false
-character_skills_localised_name_wolftribe_skill_unique_rana_of_the_wood	Rána of the Wood	false
-character_skills_localised_name_wolftribe_skill_rana_mount_gjalfr	Gjálfr	false
-character_skills_localised_description_wolftribe_skill_dummy_actions_rana		false
+character_skills_localised_name_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	Asta of the Wood	false
+character_skills_localised_name_wolftribe_skill_scm_norsca_asta_mount_gjalfr	Gjálfr	false
+character_skills_localised_description_wolftribe_skill_dummy_actions_scm_norsca_asta		false
 character_skills_localised_description_wolftribe_skill_innate_foresters_daughter	Vivienne d’Arden grew up in the deep woods of Artois, tracking game and caring for the forest alongside her father. Such a childhood made her skilled, clever, and brave.	false
-character_skills_localised_description_wolftribe_skill_self_healers_touch	The foresters of Bretonnia have an intimate knowledge of the medicinal plants and remedies of the wilds, and it was with this knowledge that Rána saved Rafford as he lay dying in the Forest of Arden.	false
-character_skills_localised_description_wolftribe_skill_self_hunters_traps	Whether in the forests of Bretonnia or the frigid wastes of the north, traps and preparation have served Rána well in her hunts.	false
-character_skills_localised_description_wolftribe_skill_self_fierce_beauty	When Rafford first returned to the Naglfari Plain with his Bretonnian bride, his tribesmen viewed her with suspicion and contempt. Now, her fierce beauty and cleverness inspire admiration throughout Norsca.	false
-character_skills_localised_description_wolftribe_skill_self_keen_minded_ruler	Within the Tribe of the Wolf, it is Rána, not Rafford, who manages the day-to-day affairs. Her gift for numbers and logistics have blessed the tribe with prosperity.	false
-character_skills_localised_description_wolftribe_skill_self_rana_honorguard	Rafford has assigned a group of his strongest warriors to serve as Rána’s personal guard, and these men are devoted to their chieftess.	false
-character_skills_localised_description_wolftribe_skill_self_chieftess_of_wolves	Rána and Rafford’s bond is one of devotion, passion, and united purpose. When Rána calls, the Tribe of the Wolf answers without hesitation.	false
-character_skills_localised_description_wolftribe_skill_unique_vengeful_daughter	Rána’s father was killed when she was only a teen – falsely accused of poaching and strung up from a ducal gallows. Since that day, she’s had no love for Bretonnia.	false
-character_skills_localised_description_wolftribe_skill_unique_resourceful_huntress	Raised in Bretonnian forests and now at home in the frozen lands of Norsca, Rána is capable of finding or creating the tools she needs for her hunts.	false
-character_skills_localised_description_wolftribe_skill_unique_rana_of_the_wood	When Vivenne d’Arden left Bretonnia aboard Rafford’s ship, the grey and foamy waves represented freedom. From that day on, she has adopted the Norscan name “Rána,” meaning “child of the sea."	false
-character_skills_localised_description_wolftribe_skill_rana_mount_gjalfr	When Rána first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
-character_skills_localised_description_wolftribe_skill_rana_dummy	[HIDDEN]	false
-character_skills_localised_name_wolftribe_skill_rana_dummy	[HIDDEN]	false
-units_custom_battle_mounts_localised_description_rana_01rana_02	When Rána first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
-units_custom_battle_mounts_mount_name_rana_01rana_02	Gjálfr	false
+character_skills_localised_description_wolftribe_skill_self_healers_touch	The foresters of Bretonnia have an intimate knowledge of the medicinal plants and remedies of the wilds, and it was with this knowledge that Asta saved Huern as he lay dying in the Forest of Arden.	false
+character_skills_localised_description_wolftribe_skill_self_hunters_traps	Whether in the forests of Bretonnia or the frigid wastes of the north, traps and preparation have served Asta well in her hunts.	false
+character_skills_localised_description_wolftribe_skill_self_fierce_beauty	When Huern first returned to the Naglfari Plain with his Bretonnian bride, his tribesmen viewed her with suspicion and contempt. Now, her fierce beauty and cleverness inspire admiration throughout Norsca.	false
+character_skills_localised_description_wolftribe_skill_self_keen_minded_ruler	Within the Tribe of the Wolf, it is Asta, not Huern, who manages the day-to-day affairs. Her gift for numbers and logistics have blessed the tribe with prosperity.	false
+character_skills_localised_description_wolftribe_skill_self_scm_norsca_asta_honorguard	Huern has assigned a group of his strongest warriors to serve as Asta’s personal guard, and these men are devoted to their chieftess.	false
+character_skills_localised_description_wolftribe_skill_self_chieftess_of_wolves	Asta and Huern’s bond is one of devotion, passion, and united purpose. When Asta calls, the Tribe of the Wolf answers without hesitation.	false
+character_skills_localised_description_wolftribe_skill_unique_vengeful_daughter	Asta’s father was killed when she was only a teen – falsely accused of poaching and strung up from a ducal gallows. Since that day, she’s had no love for Bretonnia.	false
+character_skills_localised_description_wolftribe_skill_unique_resourceful_huntress	Raised in Bretonnian forests and now at home in the frozen lands of Norsca, Asta is capable of finding or creating the tools she needs for her hunts.	false
+character_skills_localised_description_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	When Vivenne d’Arden left Bretonnia aboard Huern’s ship, the grey and foamy waves represented freedom. From that day on, she has adopted the Norscan name “Asta,” meaning “child of the sea."	false
+character_skills_localised_description_wolftribe_skill_scm_norsca_asta_mount_gjalfr	When Asta first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
+character_skills_localised_description_wolftribe_skill_scm_norsca_asta_dummy	[HIDDEN]	false
+character_skills_localised_name_wolftribe_skill_scm_norsca_asta_dummy	[HIDDEN]	false
+units_custom_battle_mounts_localised_description_scm_norsca_astascm_norsca_asta_02	When Asta first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
+units_custom_battle_mounts_mount_name_scm_norsca_astascm_norsca_asta_02	Gjálfr	false
 effects_description_wolftribe_bonus_melee_defence_fighting_against_bretonnia	Melee defence: %+n when fighting against Bretonnia	false
 effects_description_wolftribe_enable_summon_champions	Ability: "Summon the Honorguard"	false
 effects_description_wolftribe_recruit_rank_all	Recruit Rank: %+n for units (hero's army)	false
 effects_description_wolftribe_effect_enable_mount_gjalfr	Mount: Gjálfr	false
-names_name_240929	Rána of the Wood	false
-ui_unit_groupings_onscreen_rana_01	Legendary Huntress	false
-ui_unit_groupings_tooltip_rana_01		false
-ui_unit_groupings_onscreen_rana_02	Legendary Huntress	false
-ui_unit_groupings_tooltip_rana_02		false
+names_name_240929	Asta of the Wood	false
+ui_unit_groupings_onscreen_scm_norsca_asta	Legendary Huntress	false
+ui_unit_groupings_tooltip_scm_norsca_asta		false
+ui_unit_groupings_onscreen_scm_norsca_asta_02	Legendary Huntress	false
+ui_unit_groupings_tooltip_scm_norsca_asta_02		false
 unit_abilities_onscreen_name_wolftribe_summon_champions	Summon the Honorguard	false
 unit_abilities_tooltip_text_wolftribe_summon_champions	Champions of the Tribe of the Wolf rally to the side of their Chieftess.	false
 effects_description_wolftribe_weapon_strength_marauders	Weapon strength: %+n% for Marauder units	true
 effects_description_wolftribe_courageous_marauders	Attribute: "Immune to Psychology" for Marauder units	true
-land_units_onscreen_name_wolftribe_nor_inf_wolfguard_honorguard	Rána's Honorguard	false
+land_units_onscreen_name_wolftribe_nor_inf_wolfguard_honorguard	Asta's Honorguard	false
 land_units_onscreen_name_wolftribe_nor_inf_wolf_champions_ror_0	The Wolves of Naglfari (Aspiring Champions)	false
 land_units_concealed_name_wolftribe_nor_mon_frost_wyrm_ror_summoned_0		false
 land_units_onscreen_name_wolftribe_nor_mon_frost_wyrm_ror_summoned_0	The Cold-Voider (Chaos Frost Dragon)	false
@@ -448,18 +448,18 @@ unit_description_historical_texts_text_wolftribe_unit_long_text_nor_wolftribe_no
 unit_description_historical_texts_text_wolftribe_unit_long_text_nor_wolftribe_nor_inf_wolfguard_ror_1	In the eyes of the Northmen, there is a natural distinction between the mass of roving warriors, and the favoured few. The ultimate ambition of a Marauder is to die fighting under the gaze of the Dark Gods, or otherwise become worthy and powerful enough to travel to the far north to face their judgement directly. Individuals strong enough to walk that path emerge only occasionally: Marauder Champions, who fight and kill with more skill and ferocity than their brethren, and so gain a higher status in their warrior hierarchies. The otherworldly rewards are not always clear, however – these standout fighters epitomise both the glory and the risk of seeking the attention of the Dark Gods, treading along a knife’s edge between immortality and oblivion.	false
 unit_description_historical_texts_text_wolftribe_unit_long_text_nor_wolftribe_nor_inf_wolfguard_honorguard	In the eyes of the Northmen, there is a natural distinction between the mass of roving warriors, and the favoured few. The ultimate ambition of a Marauder is to die fighting under the gaze of the Dark Gods, or otherwise become worthy and powerful enough to travel to the far north to face their judgement directly. Individuals strong enough to walk that path emerge only occasionally: Marauder Champions, who fight and kill with more skill and ferocity than their brethren, and so gain a higher status in their warrior hierarchies. The otherworldly rewards are not always clear, however – these standout fighters epitomise both the glory and the risk of seeking the attention of the Dark Gods, treading along a knife’s edge between immortality and oblivion.	false
 unit_description_historical_texts_text_wolftribe_unit_long_text_nor_wolftribe_nor_inf_wolf_champions_ror_0	Aspiring Champions are often the best any Chaos Warrior can hope to become, since the unending peril of fighting in a Chaos host means that few progress any higher. Those who achieve champion status will eliminate anyone they see as competition, butchering any promising underlings to ensure their continued station in their God’s hordes. As a result, many form their own warbands until they achieve their goals or meet their end by the blade of a rival. Those on this long and often doomed path are obsessed individuals, only recalling the most pertinent details of their past, and many assume new identities to replace those lost to them.	false
-unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_ror_0	These champions have sworn a blood-oath to Rafford and would follow him into the Realms of Chaos or die before backing down.	false
-unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_ror_1	These champions have sworn a blood-oath to Rafford and would follow him into the Realms of Chaos or die before backing down.	false
+unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_ror_0	These champions have sworn a blood-oath to Huern and would follow him into the Realms of Chaos or die before backing down.	false
+unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_ror_1	These champions have sworn a blood-oath to Huern and would follow him into the Realms of Chaos or die before backing down.	false
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_honorguard	Elite warriors handpicked for their skill and loyalty to defend the chieftess of the Tribe of the Wolf.	false
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolf_champions_ror_0	All champions strive to be chosen, willing their deeds to be observed and judged. These champions are the heroes of the Tribe of the Wolf.	false
-ancillaries_onscreen_name_wolftribe_arngrim_valdyr_and_vitnir	Valdýr & Vitnir	true
-ancillaries_colour_text_wolftribe_arngrim_valdyr_and_vitnir	Arngrim’s twin axes have served him well over the years, felling man and monster alike. Bathed in the blood of a particularly mighty frost troll, the blades emit the bitter chill of the North.	true
-ancillaries_onscreen_name_wolftribe_rana_ardenwood_bow	The Ardenwood Bow	true
-ancillaries_colour_text_wolftribe_rana_ardenwood_bow	Crafted from the wood of an ancient tree in the lands of her birth, Rana’s bow is imbued with the wild spirit of briar-choked thickets and hushed glades.	true
+ancillaries_onscreen_name_wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir	Valdýr & Vitnir	true
+ancillaries_colour_text_wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir	Uldsdau’s twin axes have served him well over the years, felling man and monster alike. Bathed in the blood of a particularly mighty frost troll, the blades emit the bitter chill of the North.	true
+ancillaries_onscreen_name_wolftribe_scm_norsca_asta_ardenwood_bow	The Ardenwood Bow	true
+ancillaries_colour_text_wolftribe_scm_norsca_asta_ardenwood_bow	Crafted from the wood of an ancient tree in the lands of her birth, Asta’s bow is imbued with the wild spirit of briar-choked thickets and hushed glades.	true
 ancillaries_onscreen_name_wolftribe_hidolfr_nithi	Nithi	true
 ancillaries_colour_text_wolftribe_hidolfr_nithi	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
-ancillaries_onscreen_name_rafford_anci_armor_pelt	The Second Skin	true
-ancillaries_colour_text_rafford_anci_armor_pelt	When battle is spent, a Skin Wolf’s transformation is reversed and like a newborn the human must tear its way free of the monstrous form. Rafford has crafted an armour from this hide, a fearsome thing of cursed leather and black fur.	true
+ancillaries_onscreen_name_scm_norsca_huern_anci_armor_pelt	The Second Skin	true
+ancillaries_colour_text_scm_norsca_huern_anci_armor_pelt	When battle is spent, a Skin Wolf’s transformation is reversed and like a newborn the human must tear its way free of the monstrous form. Huern has crafted an armour from this hide, a fearsome thing of cursed leather and black fur.	true
 building_chains_chain_tooltip_wolftribe_greathall	Hunter's Great Hall	false
 building_chains_chain_tooltip_wolftribe_humbled_hall	Deserted Great Hall	false
 building_culture_variants_name_wolftribe_greathall_0wh_dlc08_nor_naglfarlings	Gathering of Savage Hunters	false
@@ -468,17 +468,17 @@ building_culture_variants_name_wolftribe_greathall_2wh_dlc08_nor_naglfarlings	Ol
 building_culture_variants_name_wolftribe_humbled_hall	Humbled Hall of the Wolf	false
 effects_description_nor_hunters_range	Range %+n% for Marauder Hunters	true
 building_short_description_texts_short_description_wolftribe_greathall_0	Drawn by stories of a fierce, black-haired warrior, curious hunters have gathered on the frigid Naglfari Plain. Some have come to see the man who has mastered the Beast within, others to challenge him, while still others are simply vagrants without a tribe to call their own. Regardless of why they have come, these men and women are hardy survivors who have decided to make this place their home.	true
-building_short_description_texts_short_description_wolftribe_greathall_1	Rafford’s origins are questionable, his ancestry a matter of speculation. Yet Rafford’s skill, cunning, and charisma have bound together the outcasts and beast-blooded of the Mountains of Naglfari. Having accomplished several grand raids in the lands of the Empire and Bretonnia, and defended his lands from his neighbors, Rafford has earned the title of High Jarl and the grudging respect of his rivals.	true
-building_short_description_texts_short_description_wolftribe_greathall_2	If ever there was a question of Rafford’s ancestry, it is now dismissed. Only one blessed with the blood of Olric could lead such a gathering of wolves to greatness. This great hall is a testament to Rafford and his tribe’s achievement, rising tall and proud above the growing town. By day, the hall is a hub of hunters and traders bearing meat and furs. At night, the hall rings with the cheers and singing of warriors, the howling of wolves echoing out over the tundra.	true
+building_short_description_texts_short_description_wolftribe_greathall_1	Huern’s origins are questionable, his ancestry a matter of speculation. Yet Huern’s skill, cunning, and charisma have bound together the outcasts and beast-blooded of the Mountains of Naglfari. Having accomplished several grand raids in the lands of the Empire and Bretonnia, and defended his lands from his neighbors, Huern has earned the title of High Jarl and the grudging respect of his rivals.	true
+building_short_description_texts_short_description_wolftribe_greathall_2	If ever there was a question of Huern’s ancestry, it is now dismissed. Only one blessed with the blood of Olric could lead such a gathering of wolves to greatness. This great hall is a testament to Huern and his tribe’s achievement, rising tall and proud above the growing town. By day, the hall is a hub of hunters and traders bearing meat and furs. At night, the hall rings with the cheers and singing of warriors, the howling of wolves echoing out over the tundra.	true
 building_short_description_texts_short_description_wolftribe_humbled_hall	A would-be chieftain once dwelt here, gathering hunters and Skin Wolves into what he called a “tribe.” His followers are gone now, his aspirations crushed. The Great Hall should still serve well as a storage barn, though.	true
 effects_description_wolftribe_enable_child_of_frigustrex	Ability: "Child of Frigustrex"	false
 effects_description_wolftribe_effect_ability_bitter_aura	Passive Ability: "Bitter Chill"	true
 effects_description_wolftribe_effect_ability_enable_frostaxe_aura	Passive Ability: "Frostaxe Aura"	true
 land_units_onscreen_name_wh_dlc08_nor_mon_frost_wyrm_ror_0	The Cold-Voider (Frost-Wyrm)	false
 unit_abilities_onscreen_name_wolftribe_abilities_frostaxe_aura	Frostaxe Aura	false
-unit_abilities_tooltip_text_wolftribe_abilities_frostaxe_aura	Arngrim's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
+unit_abilities_tooltip_text_wolftribe_abilities_frostaxe_aura	Uldsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
 unit_abilities_onscreen_name_wolftribe_abilities_bitter_aura	Bitter Chill	false
-unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	The frigid winds summoned by Nithi sap the will to fight from Hidolfr's foes.	false
+unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	The frigid winds summoned by Nithi sap the will to fight from Alfkael's foes.	false
 unit_abilities_onscreen_name_wolftribe_abilities_child_of_frigustrex	Child of Frigustrex	false
 unit_abilities_tooltip_text_wolftribe_abilities_child_of_frigustrex	Called by the Vitki, this king of Norsca's skies comes to the battlefield.	false
 unit_abilities_additional_ui_effects_localised_text_wolftribe_summon_child_of_frigustrex	Summons a Frost Wyrm	false

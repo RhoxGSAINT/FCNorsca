@@ -1,6 +1,4 @@
 faction	unit	general_portrait	general_uniform
 #unit_general_details_tables;0;db/unit_general_details_tables/ab_wolftribe			
-wh_dlc08_nor_naglfarlings	rafford_wolf	ui/portraits/portholes/no_culture/rafford_wolf.png	
-wh_dlc08_nor_naglfarlings	arngrim_01	ui/portraits/portholes/no_culture/arngrim_01.png	
-wh_dlc08_nor_naglfarlings	rana_01	ui/portraits/portholes/no_culture/rana_01.png	
-wh_dlc08_nor_naglfarlings	wolffather_01	ui/portraits/portholes/no_culture/wolffather_01.png	
+wh_dlc08_nor_naglfarlings	scm_norsca_huern_wolf	ui/portraits/portholes/no_culture/scm_norsca_huern_wolf.png	
+wh_dlc08_nor_naglfarlings	scm_norsca_alfkael_wolf	ui/portraits/portholes/no_culture/scm_norsca_alfkael_wolf.png	

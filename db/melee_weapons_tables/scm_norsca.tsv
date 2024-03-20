@@ -22,6 +22,6 @@ hkrul_sarg	0	0	165	350	2.0000	sword	sword	large	30	2.4000	1.2500	0.0000	false	wh
 hkrul_surtha_ek	0	0	325	150	3.0000	axe	whip	medium	4	1.0000	0.5000	0.0000	false		0	2	4.0000		false
 hkrul_uzul	0	0	270	115	3.0000	axe	hammer	medium	8	1.0000	0.7500	0.0000	false		0	10	4.0000		false
 wolftribe_giant_ice_wolf_claw	15	10	140	280	6.0000	axe	claw	large	4	1.5000	1.2500	0.0000	false	wh_dlc08_unit_contact_frostbite	2	10	2.9000		false
-rafford_dual	0	15	390	140	3.0000	axe	axe	medium	8	1.8000	1.2500	0.0000	false		0	10	3.8000		false
-wolffather_claws	0	0	100	240	2.0000	axe	claw	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false
-arngrim_dual_axes	0	10	125	300	5.0000	axe	axe	large	6	1.0000	1.2500	0.0000	false	wh_dlc08_unit_contact_frostbite	0	10	4.0000	wh2_dlc17_bst_ghorgon_ror	false
+scm_norsca_huern_dual	0	15	390	140	3.0000	axe	axe	medium	8	1.8000	1.2500	0.0000	false		0	10	3.8000		false
+scm_norsca_alfkael_claws	0	0	100	240	2.0000	axe	claw	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false
+scm_norsca_uldsdau_dual_axes	0	10	125	300	5.0000	axe	axe	large	6	1.0000	1.2500	0.0000	false	wh_dlc08_unit_contact_frostbite	0	10	4.0000	wh2_dlc17_bst_ghorgon_ror	false

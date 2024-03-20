@@ -8,7 +8,7 @@ local rhox_fc_norsca_unlockable_ror_list={
     wolftribe_nor_inf_wolf_champions_ror_0={
         culture="wh_dlc08_nor_norsca",
         init_faction="wh_dlc08_nor_naglfarlings",
-        agent_subtype="rafford_01",
+        agent_subtype="scm_norsca_huern",
     },
     rhox_bjornling_huscarl_ror={
         culture="wh_dlc08_nor_norsca",

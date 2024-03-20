@@ -30,7 +30,7 @@ NORSCA_LEGENDARY_LORDS["hkrul_hakka"]=true
 NORSCA_LEGENDARY_LORDS["hkrul_hrothgar"]=true
 NORSCA_LEGENDARY_LORDS["hkrul_sarg"]=true
 NORSCA_LEGENDARY_LORDS["hkrul_surtha_ek"]=true
-NORSCA_LEGENDARY_LORDS["rafford_01"]=true
+NORSCA_LEGENDARY_LORDS["scm_norsca_huern"]=true
 
 
 
@@ -105,7 +105,7 @@ cm:add_first_tick_callback(
         campaign_traits.legendary_lord_defeated_traits["hkrul_hrothgar"] ="hkrul_defeated_trait_hrothgar" 
         campaign_traits.legendary_lord_defeated_traits["hkrul_sarg"] ="hkrul_defeated_trait_sarg" 
         campaign_traits.legendary_lord_defeated_traits["hkrul_surtha_ek"] ="hkrul_defeated_trait_surtha_ek" 
-        campaign_traits.legendary_lord_defeated_traits["rafford_01"] ="hkrul_defeated_trait_huern" 
+        campaign_traits.legendary_lord_defeated_traits["scm_norsca_huern"] ="hkrul_defeated_trait_huern" 
         
 
         campaign_traits.legendary_lord_defeated_traits["hkrul_bjornling_ogg"] ="hkrul_defeated_trait_ogg" 
