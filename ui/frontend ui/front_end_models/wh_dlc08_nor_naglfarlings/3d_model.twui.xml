@@ -92,12 +92,12 @@
 				num_models="1">
                 <model_list>
                     <ComponentModel
-                        filepath="VariantMeshes/VariantMeshDefinitions/rafford_wolf.VariantMeshDefinition"
+                        filepath="VariantMeshes/VariantMeshDefinitions/rafford_01.VariantMeshDefinition"
                         id="model_0"
                         num_anims="1"
-                        skeleton_type="humanoid08">
+                        skeleton_type="humanoid01c">
                         <animation_paths>
-                            <path value="animations\battle\humanoid08\club\stand\hu8_cl_combat_idle_01.anim"/>
+                            <path value="animations/battle/humanoid01c/sword_and_shield/stand/hu1c_sws_stand_01.anim"/>
                         </animation_paths>
                     </ComponentModel>
                 </model_list>

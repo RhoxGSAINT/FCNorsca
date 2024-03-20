@@ -20,7 +20,7 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh_main_nor_baersonling")
 			
 			mixer_change_lord_name("106797993", "hkrul_ulfric")
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_bjornling", {"hkrul_bjornling_inf_marauder_champions_0","hkrul_bjornling_inf_chaos_marauders_0","wh_dlc08_nor_mon_norscan_giant_0","hkrul_bjornling_inf_marauder_spearman_0"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_bjornling", {"hkrul_bjornling_inf_marauder_champions_0","rhox_bjornling_huscarl_ror","wh_dlc08_nor_mon_norscan_giant_0","hkrul_bjornling_inf_marauder_spearman_0"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_bjornling")
 			
 			mixer_change_lord_name("835161619", "hkrul_harald")
