@@ -1,5 +1,13 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/scm_norsca_elite					
+			rhox_graeling_champion	rhox_fc_norsca_regional_elite	false
+			rhox_kurgan_champion	rhox_fc_norsca_regional_elite	false
+			rhox_baersonling_champion	rhox_fc_norsca_regional_elite	false
+			rhox_aesling_berserker	rhox_fc_norsca_regional_elite	false
+			rhox_kurgan_javelin	rhox_fc_norsca_regional_elite	false
+			rhox_kurgan_spearman	rhox_fc_norsca_regional_elite	false
+			rhox_skeggi_champion	rhox_fc_norsca_regional_elite	false
+			rhox_yusak_devoted_marauders	rhox_fc_norsca_regional_elite	false
 			rhox_graeling_champion	all_non_chs	true
 			rhox_graeling_champion	dlc08_nor_marauders_all	false
 			rhox_graeling_champion	dlc08_nor_marauders_champions	false
@@ -51,13 +59,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_kurgan_spearman	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			rhox_kurgan_spearman	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			rhox_kurgan_spearman	wh2_dlc17_wulfrik_focus_units	false
-			rhox_graeling_champion	rhox_fc_norsca_regional_elite	false
-			rhox_kurgan_champion	rhox_fc_norsca_regional_elite	false
-			rhox_baersonling_champion	rhox_fc_norsca_regional_elite	false
-			rhox_aesling_berserker	rhox_fc_norsca_regional_elite	false
-			rhox_kurgan_javelin	rhox_fc_norsca_regional_elite	false
-			rhox_kurgan_spearman	rhox_fc_norsca_regional_elite	false
-			rhox_skeggi_champion	rhox_fc_norsca_regional_elite	false
 			rhox_skeggi_champion	all_non_chs	true
 			rhox_skeggi_champion	dlc08_nor_marauders_all	false
 			rhox_skeggi_champion	dlc08_nor_marauders_champions	false
@@ -66,3 +67,21 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_skeggi_champion	nor_all	false
 			rhox_skeggi_champion	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			rhox_skeggi_champion	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
+			rhox_yusak_devoted_marauders	all_non_chs	true
+			rhox_yusak_devoted_marauders	mp_cap_unit_sla_inf_marauders_1	false
+			rhox_yusak_devoted_marauders	sla_infantry_rank7	false
+			rhox_yusak_devoted_marauders	sla_marauders_hellstriders	false
+			rhox_yusak_devoted_marauders	sla_marauders	false
+			rhox_yusak_devoted_marauders	wh3_dlc20_chs_marauders_inf_only_rank7	false
+			rhox_yusak_devoted_marauders	wh3_dlc20_chs_marauders_inf_only	false
+			rhox_yusak_devoted_marauders	wh3_main_sla_all	false
+			rhox_yusak_devoted_marauders	wh3_main_sla_arena	false
+			rhox_yusak_devoted_marauders	wh3_main_sla_inf	false
+			rhox_yusak_devoted_marauders	dlc08_nor_marauders_all	false
+			rhox_yusak_devoted_marauders	dlc08_nor_marauders_inf	false
+			rhox_yusak_devoted_marauders	dlc08_nor_marauders_spearmen	false
+			rhox_yusak_devoted_marauders	mp_cap_unit_nor_inf_marauder_spearmen	false
+			rhox_yusak_devoted_marauders	nor_all	false
+			rhox_yusak_devoted_marauders	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
+			rhox_yusak_devoted_marauders	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
+			rhox_yusak_devoted_marauders	wh2_dlc17_wulfrik_focus_units	false
