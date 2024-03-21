@@ -1,0 +1,33 @@
+<VARIANT_MESH>
+	<SLOT name="head">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\head\nor_wolfguard_head_01.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\head\nor_wolfguard_head_02.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\head\nor_wolfguard_head_03.wsmodel" />
+	</SLOT>
+	<SLOT name="torso" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\torso\nor_wolfguard_torso_01.wsmodel">
+			<META_DATA>audio_entity_type:wh_chaos_marauder</META_DATA>			<META_DATA>audio_armour_type:heavy_metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\torso\nor_wolfguard_torso_02.wsmodel">
+			<META_DATA>audio_entity_type:wh_chaos_marauder</META_DATA>			<META_DATA>audio_armour_type:heavy_metal</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\torso\nor_wolfguard_torso_03.wsmodel">
+			<META_DATA>audio_entity_type:wh_chaos_marauder</META_DATA>			<META_DATA>audio_armour_type:heavy_metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="legs" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\nor\nor_wolfguard\legs\nor_wolfguard_legs_01.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_02.wsmodel" />
+		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1c/chs/chs_marauder_champions/legs/chs_marauder_champions_legs_03.wsmodel" />
+	</SLOT>
+	<SLOT name="cape" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\cape\chs_marauder_chieftain_cape_01.wsmodel"  />
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/chs_marauder_spear_set1.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/chs_marauder_javelin_set1.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+</VARIANT_MESH>
