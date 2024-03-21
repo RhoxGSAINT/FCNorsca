@@ -1,7 +1,7 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_hakka.loc		
-character_skills_localised_name_innate_hkrul_hakka	Brazen Armoured Beserker	true
-character_skills_localised_description_innate_hkrul_hakka	The Brazen Armoured Beserker is Tribal Chieftain of the Aesling and devote follower of the God of Slaughter.	true
+character_skills_localised_name_innate_hkrul_hakka	Brazen Armoured berserker	true
+character_skills_localised_description_innate_hkrul_hakka	The Brazen Armoured berserker is Tribal Chieftain of the Aesling and devote follower of the God of Slaughter.	true
 character_skills_localised_description_hkrul_hakka_special_0_1	Driven by his devotion to Khorne, Hakka seeks to claim the skulls of his fallen foes as trophies of war. This skill grants bonuses to Hakka's leadership and combat effectiveness for each enemy unit he slays in battle.	true
 character_skills_localised_name_hkrul_hakka_special_0_1	Throne Abiders	true
 character_skills_localised_description_hkrul_hakka_special_1_1	Hakka commands the beasts of the Northern Wastes, bending them to his will and unleashing them upon his enemies. This skill allows for the recruitment of powerful monstrous units unique to the Aesling tribe	true

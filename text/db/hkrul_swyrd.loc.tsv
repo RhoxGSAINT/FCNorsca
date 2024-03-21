@@ -1,15 +1,15 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_swyrd.loc		
-unit_description_short_texts_text_hkrul_swyrd	A famed and mysterious Beserker who shows during the Norse's darkest hour.	false
+unit_description_short_texts_text_hkrul_swyrd	A famed and mysterious berserker who shows during the Norse's darkest hour.	false
 names_name_800727191	The	false
 names_name_800727192	Ravenswyrd	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_swyrd	Ravenswyrd	false
 character_skills_localised_description_innate_hkrul_swyrd	Ravenswyrd	false
-character_skills_localised_name_innate_hkrul_swyrd	Legendary Beserker	false
-agent_subtypes_description_text_override_hkrul_swyrd	Legendary Beserker	false
-agent_subtypes_onscreen_name_override_hkrul_swyrd	Legendary Beserker	false
+character_skills_localised_name_innate_hkrul_swyrd	Legendary berserker	false
+agent_subtypes_description_text_override_hkrul_swyrd	Legendary berserker	false
+agent_subtypes_onscreen_name_override_hkrul_swyrd	Legendary berserker	false
 land_units_onscreen_name_hkrul_swyrd	The Ravenswyrd	false
-unit_description_historical_texts_text_hkrul_swyrd	A famed and mysterious Beserker who shows during the Norse's darkest hour.	false
+unit_description_historical_texts_text_hkrul_swyrd	A famed and mysterious berserker who shows during the Norse's darkest hour.	false
 unit_description_historical_texts_text_calm_fc_norsca_raven	The Raven	false
 unit_description_short_texts_text_calm_fc_norsca_raven	The legendary Raven as the avatar of long lost Nordic gods protect those of Northern blood.	false
 land_units_onscreen_name_calm_fc_norsca_raven	The Raven	false
