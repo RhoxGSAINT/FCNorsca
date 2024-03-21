@@ -16,8 +16,8 @@ character_skills_localised_description_hkrul_harald_special_1_3	Harald's ambitio
 character_skills_localised_name_hkrul_harald_special_1_3	Northern Slavers	true
 character_skills_localised_description_hkrul_harald_special_0_2	Harald Whyrlas aspires to unite all Norscan tribes under the banner of the Graeling Kingdom. His diplomatic prowess and vision for a united Norscan realm improve relations with neighboring faction	true
 character_skills_localised_name_hkrul_harald_special_0_2	The Graeling Tribe	true
-character_skills_localised_description_hkrul_harald_special_1_4	Graeling beserkers welcome mutations with open arms, considering nothing shy but the greatest gift to recieve from their patrons.	true
-character_skills_localised_name_hkrul_harald_special_1_4	Graeling Beserkers	true
+character_skills_localised_description_hkrul_harald_special_1_4	Graeling berserkers welcome mutations with open arms, considering nothing shy but the greatest gift to recieve from their patrons.	true
+character_skills_localised_name_hkrul_harald_special_1_4	Graeling berserkers	true
 agent_subtypes_onscreen_name_override_hkrul_harald	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_harald		false
 effects_description_hkrul_harald_sword	Ability: "Frostrend Cleaver''	true
@@ -37,7 +37,7 @@ effects_description_hkrul_harald_leadership_dummy	Leadership: %+n for each confe
 effects_description_hkrul_harald_fear_vs_norsca	Attribute: Causes Terror when fighting against Norscan factions	true
 effects_description_hkrul_sarg_fear_vs_cathay	Attribute: Causes Fear when fighting against Cathayan Factions	true
 effects_description_hkrul_harald_skin_wolves_bonus_vs_large	Bonus vs Large: %+n for Skin Wolf units	true
-effects_description_hkrul_harald_beserker_melee_damage	Weapon strength: %+n% for Marauder Berserker units	true
+effects_description_hkrul_harald_berserker_melee_damage	Weapon strength: %+n% for Marauder Berserker units	true
 effect_bundles_localised_description_hkrul_harald_faction_trait	He who seeks to unite all Norscan tribes is either foolish or brave, or perhaps both.	false
 effect_bundles_localised_title_hkrul_harald_faction_trait	The Great Unifier	false
 campaign_localised_strings_string_rhox_graeling_panel_open_button	Unite the Norsca||Show your prowess and unite the Norscan tribes	false

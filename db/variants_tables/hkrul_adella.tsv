@@ -2,7 +2,7 @@ variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	sc
 #variants_tables;6;db/variants_tables/hkrul_adella							
 rhox_adella_cam_mnt_adella_horse_campaign	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	skg_adella_horse		1.0000	1.0000	0.0500	
 rhox_adella_mnt_adella_horse		skg_adella_horse		1.0000	1.0000	0.0500	
-hkrul_skeggi_marauder_beserker		skg_marauder_dual_axes		1.0000	1.0000	0.0500	
+hkrul_skeggi_marauder_berserker		skg_marauder_dual_axes		1.0000	1.0000	0.0500	
 hkrul_skeggi_marauder_champion_0		skg_marauder_champion		1.0000	1.0000	0.0500	
 hkrul_skeggi_marauder_champion_1		skg_marauder_champion_great_weapons		1.0000	1.0000	0.0500	
 hkrul_skeggi_marauder_throwing_axe		skg_marauder_throwing_axe		1.0000	1.0000	0.0500	
