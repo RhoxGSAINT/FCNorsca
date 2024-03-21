@@ -32,7 +32,7 @@ faction	unit	name	variant	unit_card
 	hkrul_oda	hkrul_oda	hkrul_oda	hkrul_oda
 	hkrul_oda_horse	hkrul_oda	hkrul_oda_horse_javelin	hkrul_oda
 	hkrul_oda_manticore	hkrul_oda	hkrul_oda_manticore_javelin	hkrul_oda
-	hkrul_hrothgar	hkrul_hrothgar	hkrul_hrothgar	placeholder
+	hkrul_hrothgar	hkrul_hrothgar	hkrul_hrothgar	scm_fc_norsca_hrothgar
 	hkrul_rafn	hkrul_rafn	hkrul_rafn	hkrul_rafn
 	hkrul_uzul	hkrul_uzul	hkrul_uzul	hkrul_uzkulek
 	hkrul_sarg	hkrul_sarg	hkrul_sarg	hkrul_sargath
