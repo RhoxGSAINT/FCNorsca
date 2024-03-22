@@ -55,3 +55,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	wolftribe_abilities_frostaxe_aura	true	false	false	wolftribe_abilities_frostaxe_aura
 0	rhox_huscarl_shield_wall	true	false	false	rhox_huscarl_shield_wall
 1	hkrul_surtha_ek_whip	true	false	false	wh2_dlc16_hero_abilities_evisceration
+1	hkrul_graill_hunt	true	true	false	hkrul_graill_hunt

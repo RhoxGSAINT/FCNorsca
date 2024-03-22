@@ -1,0 +1,5 @@
+unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
+#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_grail					
+			hkrul_graill	mp_cap_group_heroes	false
+			hkrul_graill	nor_all	false
+			hkrul_graill	scm_norsca_huern_wolf	false

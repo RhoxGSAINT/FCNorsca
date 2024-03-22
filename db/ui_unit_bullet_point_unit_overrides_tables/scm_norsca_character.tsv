@@ -131,3 +131,6 @@ spellcaster	scm_norsca_alfkael
 damage_dealer	scm_norsca_alfkael_wolf
 frenzy	scm_norsca_alfkael_wolf
 regeneration	scm_norsca_alfkael_wolf
+anti_infantry	hkrul_graill
+melee_expert	hkrul_graill
+scaling_damage	hkrul_graill

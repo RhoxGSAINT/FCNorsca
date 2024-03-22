@@ -345,10 +345,10 @@ unit_description_short_texts_text_wolftribe_short_text_hidolfr	"Old One-Eye" is 
 unit_description_historical_texts_text_wolftribe_long_text_hidolfr	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 unit_description_short_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 unit_description_historical_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael the Bloodfather	false
+land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael Bloodfather	false
 ui_unit_groupings_onscreen_scm_norsca_alfkael	Legendary Vitki	false
 ui_unit_groupings_tooltip_scm_norsca_alfkael		false
-names_name_240926	Alfkael the Bloodfather	false
+names_name_240926	Alfkael Bloodfather	false
 agent_subtypes_onscreen_name_override_scm_norsca_uldsdau	Legendary Berserker	true
 agent_subtypes_description_text_override_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Uldsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
 land_units_onscreen_name_scm_norsca_uldsdau	Uldsdau	true
@@ -390,12 +390,12 @@ effect_bundles_localised_description_wolftribe_payload_hidolfr_join	Belonging to
 effect_bundles_localised_title_wolftribe_payload_hidolfr_join	The Wise One	true
 agent_subtypes_onscreen_name_override_scm_norsca_asta	Legendary Huntress	true
 agent_subtypes_description_text_override_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-land_units_onscreen_name_scm_norsca_asta	Asta of the Wood	true
+land_units_onscreen_name_scm_norsca_asta	Asta of Vinnskor	true
 unit_description_short_texts_text_wolftribe_short_text_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
 unit_description_historical_texts_text_wolftribe_long_text_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
 unit_description_short_texts_text_scm_norsca_asta_02	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
 unit_description_historical_texts_text_scm_norsca_asta_02	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-land_units_onscreen_name_scm_norsca_asta_02	Asta of the Wood	true
+land_units_onscreen_name_scm_norsca_asta_02	Asta of Vinnskor	true
 land_units_concealed_name_scm_norsca_asta_02		true
 ancillaries_colour_text_wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	Gjálfr is an enormous ice wolf who once dominated the packs of Norsca. Now, he is Asta's loyal companion on her hunts.	false
 ancillaries_onscreen_name_wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	Gjálfr	false
@@ -408,7 +408,7 @@ character_skills_localised_name_wolftribe_skill_self_scm_norsca_asta_honorguard	
 character_skills_localised_name_wolftribe_skill_self_chieftess_of_wolves	Chieftess of the Wolves	false
 character_skills_localised_name_wolftribe_skill_unique_vengeful_daughter	Vengeful Daughter	false
 character_skills_localised_name_wolftribe_skill_unique_resourceful_huntress	Resourceful Huntress	false
-character_skills_localised_name_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	Asta of the Wood	false
+character_skills_localised_name_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	Asta of Vinnskor	false
 character_skills_localised_name_wolftribe_skill_scm_norsca_asta_mount_gjalfr	Gjálfr	false
 character_skills_localised_description_wolftribe_skill_dummy_actions_scm_norsca_asta		false
 character_skills_localised_description_wolftribe_skill_innate_foresters_daughter	Vivienne d’Arden grew up in the deep woods of Artois, tracking game and caring for the forest alongside her father. Such a childhood made her skilled, clever, and brave.	false
@@ -430,7 +430,7 @@ effects_description_wolftribe_bonus_melee_defence_fighting_against_bretonnia	Mel
 effects_description_wolftribe_enable_summon_champions	Ability: "Summon the Honorguard"	false
 effects_description_wolftribe_recruit_rank_all	Recruit Rank: %+n for units (hero's army)	false
 effects_description_wolftribe_effect_enable_mount_gjalfr	Mount: Gjálfr	false
-names_name_240929	Asta of the Wood	false
+names_name_240929	Asta of Vinnskor	false
 ui_unit_groupings_onscreen_scm_norsca_asta	Legendary Huntress	false
 ui_unit_groupings_tooltip_scm_norsca_asta		false
 ui_unit_groupings_onscreen_scm_norsca_asta_02	Legendary Huntress	false

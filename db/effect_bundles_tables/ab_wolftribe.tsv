@@ -7,6 +7,6 @@ packlord_hunter_reward_sla			character	1	attribute_mark_slaanesh.png	false	false
 packlord_hunter_reward_nur			character	1	attribute_mark_nurgle.png	false	false	true
 packlord_hunter_reward_tzc			character	1	attribute_mark_tzeentch.png	false	false	true
 packlord_hunter_reward_olr			character	1	mannslieb_full_moon.png	false	false	true
-wh_mod_lord_trait_nor_naglfarings			faction	1	character.png	true	false	true
+wh_mod_lord_trait_nor_naglfarings			faction	1	effect_bundle_huern.png	true	false	true
 wolftribe_payload_scm_norsca_asta_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
 wolftribe_payload_hidolfr_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
