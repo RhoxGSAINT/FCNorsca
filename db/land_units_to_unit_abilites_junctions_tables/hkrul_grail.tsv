@@ -1,0 +1,6 @@
+ability	land_unit
+#land_units_to_unit_abilites_junctions_tables;0;db/land_units_to_unit_abilites_junctions_tables/hkrul_grail	
+hkrul_graill_hunt	hkrul_graill
+wh3_main_unit_passive_single_entity	hkrul_graill
+wh_main_character_abilities_deadly_onslaught	hkrul_graill
+wh_main_character_abilities_foe_seeker	hkrul_graill

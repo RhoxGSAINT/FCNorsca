@@ -27,3 +27,4 @@ scm_norsca_huern_nodeset	general	false	false				scm_norsca_huern
 wolftribe_scm_norsca_uldsdau_skills	champion	false	false				scm_norsca_uldsdau
 wolftribe_skill_node_set_scm_norsca_asta	dignitary	false	false				scm_norsca_asta
 wolftribe_skill_node_set_shaman_hero	wizard	false	false				scm_norsca_alfkael
+skill_node_set_hkrul_graill	champion	false	false				hkrul_graill

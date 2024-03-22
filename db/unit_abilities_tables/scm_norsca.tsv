@@ -66,3 +66,4 @@ wolftribe_abilities_frostaxe_aura	false	wh_dlc08_unit_contact_frostbite		wh_type
 wolftribe_summon_champions	true	scm_norsca_asta_honorguard		wh_type_summon_unit		wh_main_anc_group_unique	true	false	active		false
 rhox_huscarl_shield_wall	false	wh2_main_item_passive_shield_of_ghrond		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_surtha_ek_whip	true	hkrul_ek_whip		wh_type_vortex		wh_main_anc_group_rare	true	false	active		false
+hkrul_graill_hunt	true	hkrul_graill_hunt		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false

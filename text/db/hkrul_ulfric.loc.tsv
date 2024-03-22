@@ -99,7 +99,7 @@ effects_description_hkrul_ulfric_wall_formation	Ability: "Eldagrimm's Shields"	t
 unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
 unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Eldagrimm's Shields	false
 unit_description_historical_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer. They are maintained and well-equipped by their masters, and are fiercely loyal and frenzied fighters.	false
-land_units_onscreen_name_rhox_bjornling_huscarl	Huscarls	false
+land_units_onscreen_name_rhox_bjornling_huscarl	Bjornling Huscarls	false
 land_units_onscreen_name_rhox_bjornling_huscarl_ror	Bulwark of Skjold (Huscarls)	false
 unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer.	false
 unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of High King Ulfric, they occupy Skjold's Great Hall and each member of their ranks has surpassed insufferable challenges on the island of Horvenghaast.	false

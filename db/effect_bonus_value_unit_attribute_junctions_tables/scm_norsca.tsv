@@ -1,3 +1,4 @@
 bonus_value_id	effect	unit_attribute
 #effect_bonus_value_unit_attribute_junctions_tables;0;db/effect_bonus_value_unit_attribute_junctions_tables/scm_norsca		
 enable	hkrul_sayl_mastery	spell_mastery
+enable	hkrul_norsca_effect_glorious_charge	glorious_charge
