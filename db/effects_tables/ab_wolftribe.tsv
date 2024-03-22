@@ -30,8 +30,10 @@ wolftribe_hunting_camps	ogre_camp.png	5	ogre_camp.png	campaign	true
 wolftribe_hunting_journeys	norse_god_hound.png	4	norse_god_hound.png	campaign	true
 nor_hunters_range	accuracy.png	10	accuracy.png	battle	true
 wolftribe_enable_child_of_frigustrex	general_ability.png	300	general_ability.png	battle	true
+hkrul_wolf_bite	general_ability.png	3	general_ability.png	battle	true
 wolftribe_effect_ability_bitter_aura	general_ability.png	3	general_ability.png	battle	true
 wolftribe_effect_ability_enable_frostaxe_aura	general_ability.png	3	general_ability.png	battle	true
+wolftribe_effect_ability_enable_fireaxe_aura	general_ability.png	3	general_ability.png	battle	true
 wolftribe_weapon_strength_marauders	weapon_damage.png	400	weapon_damage.png	battle	true
 wolftribe_courageous_marauders	attribute_immune_to_psychology.png	432	attribute_immune_to_psychology.png	battle	true
 wolftribe_bonus_melee_defence_fighting_against_bretonnia	defence.png	124	defence.png	battle	true

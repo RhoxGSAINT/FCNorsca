@@ -8,7 +8,7 @@ character_skills_localised_name_hkrul_graill_special_1_2	Expert Survivalist	true
 character_skills_localised_name_hkrul_graill_special_1_3	Inked Arrows	true
 character_skills_localised_name_hkrul_graill_special_1_4	Maiden of the Seas	true
 character_skills_localised_name_hkrul_graill_special_1_5	Harald's Valkyre	true
-character_skills_localised_name_hkrul_graill_special_1_6	Monster Hunt	true
+character_skills_localised_name_hkrul_graill_special_1_6	Blood Frenzy	true
 character_skills_localised_description_hkrul_graill_special_1_0	The Graeling are known for their ruthless raids and pillages, usually launched from their impressive fleet of longships.	true
 character_skills_localised_description_hkrul_graill_special_1_1	graill's skill to traverse difficult jungle terrain has proven her a valueable asset for many of explorer, be it Norscan or Dwarven.	true
 character_skills_localised_description_hkrul_graill_special_1_2	A keen sight is both helpful when exploring as it is when taking aim.	true
@@ -16,11 +16,11 @@ character_skills_localised_description_hkrul_graill_special_1_3	Inked with the p
 character_skills_localised_description_hkrul_graill_special_1_4	Few know they're way around a mast and oar as graill, Sea-Maiden of the Graeling.	true
 character_skills_localised_description_hkrul_graill_special_1_5	There are not many who have Harald Whyrlas's ear, yet graill is considered champion among Graeling.	true
 character_skills_localised_description_hkrul_graill_special_1_6	The Sea-Maiden harnesses her skill and can bring down any monster, no matter the terrain.	true
-unit_abilities_onscreen_name_hkrul_graill_hunt	Monster Hunt	false
-unit_abilities_tooltip_text_hkrul_graill_hunt	As she blows the Graeling horn hunters gather for their feast: The Hunt.	false
-agent_subtypes_onscreen_name_override_hkrul_graill	Legendary Hero	false
-agent_subtypes_description_text_override_hkrul_graill	Legendary Hero	false
+unit_abilities_onscreen_name_hkrul_grail_blood_frenzy	Blood Frenzy	false
+unit_abilities_tooltip_text_hkrul_grail_blood_frenzy	With a fierce howl ushered out by their leader the Skin Wolves of the Wolf Tribe burst in to a blood thirsty frenzy.	false
+agent_subtypes_onscreen_name_override_hkrul_graill	Legendary Werekin	false
+agent_subtypes_description_text_override_hkrul_graill	Legendary Werekin	false
 unit_description_short_texts_text_hkrul_graill	graill Sea-Maiden is a sight to behold, the Graeling Champion is known for sailing distant corners hoping to challenge worthy beasts and foes.	false
 names_name_7454711831	Graill	false
 land_units_onscreen_name_hkrul_graill	Graill	true
-effects_description_hkrul_graill_hunt	Ability: "Monster Hunt"	false
+effects_description_hkrul_grail_blood_frenzy	Ability: "Blood Frenzy"	false

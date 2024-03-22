@@ -1,4 +1,4 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_grail			
-hkrul_graill_hunt	stat_bonus_vs_large	20.0000	add
-hkrul_graill_hunt	scalar_missile_range	1.2500	mult
+hkrul_grail_blood_frenzy	stat_bonus_vs_large	10.0000	add
+hkrul_grail_blood_frenzy	scalar_charge_speed	1.2500	mult

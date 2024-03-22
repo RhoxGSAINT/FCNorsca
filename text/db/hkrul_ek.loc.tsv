@@ -55,3 +55,6 @@ effects_description_hkrul_surtha_chariots_glorious	Attribute: Glorious Charge fo
 effects_description_hkrul_surtha_chariots_upkeep	Upkeep: %+n% for Chariot units	false
 unit_abilities_tooltip_text_hkrul_surtha_ek_speed_up	As Surtha takes the helm that which pulls his chariot devolves in a frenzy of mindless speed and ferociousness.	true
 unit_abilities_onscreen_name_hkrul_surtha_ek_speed_up	Chaotic Charge	true
+effects_description_hkrul_wolf_bite	Ability: "Savage Bite''	false
+unit_abilities_tooltip_text_hkrul_wolf_bite	A horrendous bite by a legendary Werekin is one only the fiercest champions recover from.	true
+unit_abilities_onscreen_name_hkrul_wolf_bite	Savage Bite	true
