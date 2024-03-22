@@ -543,6 +543,13 @@ local rhox_faction_list={
         pic=800,
         faction_trait="hkrul_ek_faction_trait",
         kill_previous_leader=true,
+        human_only_enemy={
+            key="wh_main_nor_bjornling",
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0",
+            x=463,
+            y=865
+        },
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -620,11 +627,23 @@ local rhox_faction_list={
         pic=800,
         faction_trait="wh_mod_lord_trait_nor_naglfarings",
         kill_previous_leader=true,
+        human_only_enemy={
+            key="wh_main_nor_graeling",
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_cav_chaos_chariot,wh_main_nor_cav_chaos_chariot,wh_dlc08_nor_inf_marauder_hunters_0",
+            x=532,
+            y=835
+        },
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "scm_norsca_uldsdau", faction:faction_leader():command_queue_index(), true)
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_graill", faction:faction_leader():command_queue_index(), true)
+		    if faction:is_human() then
+                rhox_transfer_region("wh3_main_combi_region_doomkeep", "wh_main_nor_graeling")
+                local target_region = cm:get_region("wh3_main_combi_region_naglfari_plain")
+                cm:instantly_set_settlement_primary_slot_level(target_region:settlement(), 1)
+		    end
         end,
         first_tick = function(faction, faction_key) 
         end

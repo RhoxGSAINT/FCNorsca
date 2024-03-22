@@ -14,3 +14,6 @@ scm_norsca_huern_innate	trait_innate_hkrul_huern.png			0	true	false	false	5.0000
 packlord_main_skill_boons_of_the_gods_1	mount_giant_wolf.png	This Packlord has drawn the attention of the gods with his hunts, earning the chance to receive their favour.	Gift to the Hunter	19	false	false	false	0.0000	0
 scm_norsca_huern_wanderer	wolftribe_scm_norsca_huern_wanderer.png	Although Wulfrik is the better-known bearer of this title, Huern is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	Wanderer	0	false	false	false	0.0000	0
 scm_norsca_huern_mighty_huscarls	wolftribe_scm_norsca_huern_huscarls.png	Though they once were drifters and vagrants, the elite warriors of the Tribe of the Wolf have proven themselves to be a disciplined unit to be feared.	Mighty Huscarls	0	false	false	false	0.0000	0
+scm_norsca_huern_anci_armor_pelt	item_armour.png			10	false	false	false	0.0000	0
+scm_norsca_huern_thralls_lament	item_talisman.png			2	false	false	false	0.0000	0
+scm_norsca_huern_chieftains_horn	item_enchanted_item.png			2	false	false	false	0.0000	0
