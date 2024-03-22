@@ -531,8 +531,8 @@ local rhox_faction_list={
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0",
             x=470,
             y=867,
-            forename ="names_name_1440700351",
-            familiyname ="names_name_1440700350",
+            forename ="names_name_2147345608",
+            familiyname ="names_name_2147345760",
         },	
         agent={
             type="dignitary",
