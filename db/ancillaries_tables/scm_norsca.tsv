@@ -45,3 +45,4 @@ wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir	wh_main_anc_weapon	.	false	false	
 wolftribe_scm_norsca_asta_ardenwood_bow	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 wolftribe_hidolfr_nithi	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	all
 scm_norsca_huern_anci_armor_pelt	wh_main_anc_armour	.	false	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	false	all
+hkrul_grail_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all

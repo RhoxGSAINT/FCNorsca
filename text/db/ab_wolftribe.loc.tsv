@@ -332,8 +332,8 @@ unit_abilities_onscreen_name_wh_main_lord_abilities_wolf_regular	Return to Regul
 unit_abilities_tooltip_text_wh_main_lord_abilities_blessing_of_the_hound	Blessed by the Ruinous Powers, this warrior transforms into a fearsome beast.	true
 unit_abilities_onscreen_name_ice_wolves_summon	Call of the Pack	false
 unit_abilities_tooltip_text_ice_wolves_summon	Trained personally by the Wolf Chieftain, these Wolves guard the leaders of the Tribe with their lives.	true
-unit_abilities_onscreen_name_terrifying_howl	Terrifying Roar	false
-unit_abilities_tooltip_text_terrifying_howl	"Running is futile."	true
+unit_abilities_onscreen_name_terrifying_howl	Blood Howl	false
+unit_abilities_tooltip_text_terrifying_howl	When Huern's ushers his Bloow Howl, running is pointless.	true
 unit_abilities_onscreen_name_wolftribe_ability_my_mother	Mother's Deathsong	false
 unit_abilities_tooltip_text_wolftribe_ability_my_mother	Huern's mother died an unjust death, frightened and alone. Her son will not falter.	true
 unit_abilities_onscreen_name_wolftribe_ability_rally_the_tribe	Rally the Tribe	false
@@ -349,7 +349,7 @@ land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael Bloodfather	false
 ui_unit_groupings_onscreen_scm_norsca_alfkael	Legendary Vitki	false
 ui_unit_groupings_tooltip_scm_norsca_alfkael		false
 names_name_240926	Alfkael Bloodfather	false
-agent_subtypes_onscreen_name_override_scm_norsca_uldsdau	Legendary Berserker	true
+agent_subtypes_onscreen_name_override_scm_norsca_uldsdau	Legendary Werekin	true
 agent_subtypes_description_text_override_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Uldsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
 land_units_onscreen_name_scm_norsca_uldsdau	Uldsdau	true
 land_units_concealed_name_scm_norsca_uldsdau		true
@@ -362,8 +362,8 @@ character_skills_localised_name_wolftribe_skill_self_berserker_champion	Berserke
 character_skills_localised_name_wolftribe_skill_self_blessing_of_the_beast	Blessing of the Beast	false
 character_skills_localised_name_wolftribe_skill_self_jarl_slayer	Jarl-Slayer	false
 character_skills_localised_name_wolftribe_skill_self_contest_of_skill	Contest of Skill	false
-character_skills_localised_name_wolftribe_skill_self_blood_brother	Blood-Brother	false
-character_skills_localised_name_wolftribe_skill_innate_foe_cleaver	Foe-Cleaver	false
+character_skills_localised_name_wolftribe_skill_self_blood_brother	Savage Bite	false
+character_skills_localised_name_wolftribe_skill_innate_foe_cleaver	The Foe-Cleaver	false
 character_skills_localised_description_wolftribe_skill_unique_blood_berserker	The sight of Uldsdau, dripping with the gore of his foes, is terrible indeed.	false
 character_skills_localised_description_wolftribe_skill_self_tribal_giant	Once, Uldsdau served as a bondsman in service to an Aesling jarl. So great was his stature that many thought him to be a troll.	false
 character_skills_localised_description_wolftribe_skill_self_berserker_champion	Uldsdau was the greatest among his tribe’s berserkers, with countless victories and scars accumulated over years of battle.	false
@@ -374,7 +374,7 @@ character_skills_localised_description_wolftribe_skill_self_blood_brother	Bested
 character_skills_localised_description_wolftribe_skill_innate_foe_cleaver	Uldsdau is a renowned berserker who once wandered Norsca in search of stronger foes.	false
 character_skills_localised_description_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
 character_skills_localised_name_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
-ui_unit_groupings_onscreen_scm_norsca_uldsdau	Legendary Berserker	false
+ui_unit_groupings_onscreen_scm_norsca_uldsdau	Legendary Werekin	false
 ui_unit_groupings_tooltip_scm_norsca_uldsdau		false
 missions_localised_title_wolftribe_nor_scm_norsca_asta	The Forester's Daughter	true
 missions_localised_description_wolftribe_nor_scm_norsca_asta	Huern met Asta while on a raid to the lands of Bretonnia. Huern and his hunters landed on the coast of Aquitaine and pressed deep into the Dukedoms, eventually arriving in the forested duchy of Artois. There, the Norscans fought a pitched battle as they were ambushed by Bretonnian foresters and a band of errant knights. Huern’s band emerged triumphant, but not unscathed. Huern himself lay mortally wounded, riddled with arrows.\\n\\nAs he lay in the forests, a local girl – Vivienne d’Arden – found him and nursed him back to health. She was a forester’s daughter, but she had no love for the Bretonnian dukes—her father had been hanged a year past, falsely accused of poaching. When Huern returned home to Norsca, he brought Vivienne back with him, and there she adopted a new name: “Asta.”\\n\\nAsta has returned to the Forest of Arden to visit the grave of her father. We should send a longship to the Bretonnian coast to bring her home once her filial duties are complete.	true
@@ -460,12 +460,12 @@ ancillaries_onscreen_name_wolftribe_hidolfr_nithi	Nithi	true
 ancillaries_colour_text_wolftribe_hidolfr_nithi	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
 ancillaries_onscreen_name_scm_norsca_huern_anci_armor_pelt	The Second Skin	true
 ancillaries_colour_text_scm_norsca_huern_anci_armor_pelt	When battle is spent, a Skin Wolf’s transformation is reversed and like a newborn the human must tear its way free of the monstrous form. Huern has crafted an armour from this hide, a fearsome thing of cursed leather and black fur.	true
-building_chains_chain_tooltip_wolftribe_greathall	Hunter's Great Hall	false
-building_chains_chain_tooltip_wolftribe_humbled_hall	Deserted Great Hall	false
-building_culture_variants_name_wolftribe_greathall_0wh_dlc08_nor_naglfarlings	Gathering of Savage Hunters	false
-building_culture_variants_name_wolftribe_greathall_1wh_dlc08_nor_naglfarlings	Hall of the Black Wolf	false
-building_culture_variants_name_wolftribe_greathall_2wh_dlc08_nor_naglfarlings	Olricsson's Great Hall	false
-building_culture_variants_name_wolftribe_humbled_hall	Humbled Hall of the Wolf	false
+building_chains_chain_tooltip_wolftribe_greathall	Huern's Den	false
+building_chains_chain_tooltip_wolftribe_humbled_hall	Deserted Wolf's Den	false
+building_culture_variants_name_wolftribe_greathall_0wh_dlc08_nor_naglfarlings	Den of the Black Wolf	false
+building_culture_variants_name_wolftribe_greathall_1wh_dlc08_nor_naglfarlings	Den of the Black Wolf	false
+building_culture_variants_name_wolftribe_greathall_2wh_dlc08_nor_naglfarlings	Den of the Black Wolf	false
+building_culture_variants_name_wolftribe_humbled_hall	Humbled Wolf's Den	false
 effects_description_nor_hunters_range	Range %+n% for Marauder Hunters	true
 building_short_description_texts_short_description_wolftribe_greathall_0	Drawn by stories of a fierce, black-haired warrior, curious hunters have gathered on the frigid Naglfari Plain. Some have come to see the man who has mastered the Beast within, others to challenge him, while still others are simply vagrants without a tribe to call their own. Regardless of why they have come, these men and women are hardy survivors who have decided to make this place their home.	true
 building_short_description_texts_short_description_wolftribe_greathall_1	Huern’s origins are questionable, his ancestry a matter of speculation. Yet Huern’s skill, cunning, and charisma have bound together the outcasts and beast-blooded of the Mountains of Naglfari. Having accomplished several grand raids in the lands of the Empire and Bretonnia, and defended his lands from his neighbors, Huern has earned the title of High Jarl and the grudging respect of his rivals.	true
@@ -473,9 +473,12 @@ building_short_description_texts_short_description_wolftribe_greathall_2	If ever
 building_short_description_texts_short_description_wolftribe_humbled_hall	A would-be chieftain once dwelt here, gathering hunters and Skin Wolves into what he called a “tribe.” His followers are gone now, his aspirations crushed. The Great Hall should still serve well as a storage barn, though.	true
 effects_description_wolftribe_enable_child_of_frigustrex	Ability: "Child of Frigustrex"	false
 effects_description_wolftribe_effect_ability_bitter_aura	Passive Ability: "Bitter Chill"	true
-effects_description_wolftribe_effect_ability_enable_frostaxe_aura	Passive Ability: "Frostaxe Aura"	true
+effects_description_wolftribe_effect_ability_enable_frostaxe_aura	Passive Ability: "Valdýr's Aura"	true
+effects_description_wolftribe_effect_ability_enable_fireaxe_aura	Passive Ability: "Eldur's Aura"	true
 land_units_onscreen_name_wh_dlc08_nor_mon_frost_wyrm_ror_0	The Cold-Voider (Frost-Wyrm)	false
-unit_abilities_onscreen_name_wolftribe_abilities_frostaxe_aura	Frostaxe Aura	false
+unit_abilities_onscreen_name_wolftribe_abilities_fireaxe_aura	Eldur's Aura	false
+unit_abilities_onscreen_name_wolftribe_abilities_frostaxe_aura	Valdýr's Aura	false
+unit_abilities_tooltip_text_wolftribe_abilities_fireaxe_aura	Uldsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
 unit_abilities_tooltip_text_wolftribe_abilities_frostaxe_aura	Uldsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
 unit_abilities_onscreen_name_wolftribe_abilities_bitter_aura	Bitter Chill	false
 unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	The frigid winds summoned by Nithi sap the will to fight from Alfkael's foes.	false
@@ -487,3 +490,5 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_huern	Defeated Huer
 character_trait_levels_onscreen_name_hkrul_defeated_trait_huern	Defeated Huern the Wolf	false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_0		false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_1		false
+ancillaries_onscreen_name_hkrul_grail_axe	Eldur & Logi	true
+ancillaries_colour_text_hkrul_grail_axe	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true

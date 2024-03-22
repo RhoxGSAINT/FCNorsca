@@ -8,3 +8,4 @@ unit_is_not_commander_class	rhox_fc_norsca_raven
 unit_is_not_single_entity	hkrul_birna_gaze
 unit_is_not_shielded	hkrul_oda_shield
 out_of_melee	hkrul_uzul_pas_drum
+unit_is_not_large	hkrul_grail_blood_frenzy
