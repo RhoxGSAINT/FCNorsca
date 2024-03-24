@@ -40,3 +40,6 @@ wolftribe_bonus_melee_defence_fighting_against_bretonnia	defence.png	124	defence
 wolftribe_recruit_rank_all	experience.png	120	experience.png	campaign	true
 wolftribe_enable_summon_champions	general_ability.png	707	general_ability.png	battle	true
 wolftribe_effect_enable_mount_gjalfr	mount.png	50	mount.png	both	true
+hkrul_wolf_stance	general_ability.png	707	general_ability.png	battle	true
+hkrul_wolf_scratch	general_ability.png	707	general_ability.png	battle	true
+hkrul_wolf_track	general_ability.png	707	general_ability.png	battle	true

@@ -41,11 +41,11 @@ ancillaries_colour_text_hkrul_lokjar_gorger	The magical weapon was crafted out o
 ancillaries_onscreen_name_hkrul_lokjar_gorger	Skull Gorger	false
 land_units_onscreen_name_hkrul_einar_bear	Einarr Sigdansson	false
 ancillaries_colour_text_hkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
-ancillaries_onscreen_name_hkrul_einar_bear	War Bear	false
+ancillaries_onscreen_name_hkrul_einar_bear	Bregða 	false
 units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
-units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	War Bear	false
+units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	Bregða 	false
 character_skills_localised_description_hkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
-character_skills_localised_name_hkrul_einar_bear	War Bear	false
+character_skills_localised_name_hkrul_einar_bear	Bregða 	false
 effects_description_hkrul_einar_steelfist	Ability: "Steelfist's Wrath"	true
 unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slaid Ogres with nothing but his iron clad protected hands.	true
 unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true

@@ -106,3 +106,5 @@ unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of High K
 campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
+unit_abilities_onscreen_name_hkrul_ulfric_axe_formation	Axes of Horvenghaast	false
+unit_abilities_tooltip_text_hkrul_ulfric_axe_formation	The fiercest of Bjornling warriors flock to Horvenghaast to trade and partake in the famed "Duelling Circles," rooftop fighting rituals sacred to the Gods.	false

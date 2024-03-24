@@ -290,7 +290,7 @@ effects_description_recruitment_bonus_skin_wolves	Recruit rank: %+n for Skin Wol
 effects_description_skin_wolves_horrible_regeneration	Passive ability: "Horrible Regeneration" for Skin Wolf units	true
 effects_description_speed_skinwolves	Speed: %+n% for Skin Wolf units	true
 effects_description_diplomatic_relations_wintertooth	Diplomatic relations: %+n with the faction of [[img:UI/Flags/wh_dlc08_nor_wintertooth/mon_24.png]][[/img]]Wintertooth	false
-effects_description_wolftribe_enable_ability_my_mother	Passive Ability: "Mother's Deathsong"	true
+effects_description_wolftribe_enable_ability_my_mother	Passive Ability: "Alruna's Deathsong"	true
 effects_description_wolftribe_enable_ability_rally_the_tribe	Ability: "Rally the Tribe"	true
 effects_description_wolftribe_effect_enable_primal_instincts	Passive Ability: "Primal Instincts"	true
 effects_description_wolftribe_hunting_camps	Skin Wolf Packlords have access to mobile Hunting Camps which provide limited recruitment options and unlock improvements for their army in both campaign and battle.	true
@@ -323,8 +323,8 @@ character_skills_localised_description_scm_norsca_huern_unique_07	Fast and vicio
 character_skills_localised_name_scm_norsca_huern_unique_07	Merciless Hunters	false
 character_skills_localised_name_scm_norsca_huern_anci_armor_pelt	Second Skin	false
 character_skills_localised_description_scm_norsca_huern_anci_armor_pelt		false
-character_skills_localised_name_scm_norsca_huern_wanderer	Wanderer	false
-character_skills_localised_name_scm_norsca_huern_mighty_huscarls	Mighty Huscarls	false
+character_skills_localised_name_scm_norsca_huern_wanderer	Wanderer of Naglfari	false
+character_skills_localised_name_scm_norsca_huern_mighty_huscarls	Horrific Charge	false
 character_skills_localised_description_scm_norsca_huern_wanderer	Although Wulfrik is the better-known bearer of this title, Huern is possessed of a keen curiosity about the wider world. Having secured a land for his tribe, he now sets forth on many journeys to see what there is to discover, hunt, or conquer.	false
 character_skills_localised_description_scm_norsca_huern_mighty_huscarls	Though they once were drifters and vagrants, the elite warriors of the Tribe of the Wolf have proven themselves to be a disciplined unit to be feared.	false
 unit_abilities_onscreen_name_wh_main_lord_abilities_blessing_of_the_hound	The Beast Within	false
@@ -334,8 +334,8 @@ unit_abilities_onscreen_name_ice_wolves_summon	Call of the Pack	false
 unit_abilities_tooltip_text_ice_wolves_summon	Trained personally by the Wolf Chieftain, these Wolves guard the leaders of the Tribe with their lives.	true
 unit_abilities_onscreen_name_terrifying_howl	Blood Howl	false
 unit_abilities_tooltip_text_terrifying_howl	When Huern's ushers his Bloow Howl, running is pointless.	true
-unit_abilities_onscreen_name_wolftribe_ability_my_mother	Mother's Deathsong	false
-unit_abilities_tooltip_text_wolftribe_ability_my_mother	Huern's mother died an unjust death, frightened and alone. Her son will not falter.	true
+unit_abilities_onscreen_name_wolftribe_ability_my_mother	Alruna's Deathsong	false
+unit_abilities_tooltip_text_wolftribe_ability_my_mother	Huern's mother - Alruna the White Wolf - died an unjust death, frightened and alone. Her son will not falter.	true
 unit_abilities_onscreen_name_wolftribe_ability_rally_the_tribe	Rally the Tribe	false
 unit_abilities_tooltip_text_wolftribe_ability_rally_the_tribe	Back! Once more into the fray!	true
 agent_subtypes_onscreen_name_override_scm_norsca_alfkael	Legendary Vitki	true
@@ -492,3 +492,14 @@ land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_0		false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_1		false
 ancillaries_onscreen_name_hkrul_grail_axe	Eldur & Logi	true
 ancillaries_colour_text_hkrul_grail_axe	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
+character_skills_localised_name_hkrul_huern_special_0_1	Tribe of the Wolf	false
+character_skills_localised_description_hkrul_huern_special_0_1	The Tribe of the Wolf stalk the Naglfarli plains in search of they're next prey, be it men or beast.	false
+effects_description_hkrul_wolf_stance	Passive Ability: "Scourge of Naglfari"	true
+unit_abilities_tooltip_text_hkrul_wolf_stance	The Black Wolf stalks and hunts his prey in an increasingly effective manner, becoming more deadly with each succesful kill.	false
+unit_abilities_onscreen_name_hkrul_wolf_stance	Scourge of Naglfari	false
+effects_description_hkrul_wolf_scratch	Passive Ability: "Bloodcursed Gash"	true
+unit_abilities_tooltip_text_hkrul_wolf_scratch	The fury of swipes leave deep cuts gushing out blood which only invigorate the frenzied werekin.	false
+unit_abilities_onscreen_name_hkrul_wolf_scratch	Bloodcursed Gash	false
+effects_description_hkrul_wolf_track	Passive Ability: "Tracker of the Plains"	false
+unit_abilities_tooltip_text_hkrul_wolf_track	Known for his expert tracking capabilities no foe may mask his sent when the Werekin is close.	false
+unit_abilities_onscreen_name_hkrul_wolf_track	Tracker of the Plains	false
