@@ -18,6 +18,7 @@ scm_norsca_uldsdau_skills_unique_0		wh_main_skill_chs_all_unique_aura_of_chaos		
 scm_norsca_uldsdau_skills_unique_5		wh3_main_skill_all_mentor_hero		0	5		0	0	true
 scm_norsca_uldsdau_skills_unique_1		wh_dlc08_skill_nor_skin_wolf_werekin_unique_razor_claws		0	1		0	0	true
 scm_norsca_uldsdau_skills_unique_2		wh_dlc08_skill_nor_skin_wolf_werekin_unique_hardened_skin		0	2		0	0	true
+scm_norsca_uldsdau_skills_unique_3		wolftribe_skill_unique_blood_berserker		0	3		0	0	true
 scm_norsca_uldsdau_self_0		wh_dlc08_skill_nor_skin_wolf_werekin_self_dark_horror		2	0		0	0	true
 scm_norsca_uldsdau_self_1_1		wh_main_skill_all_all_self_devastating_charge		2	1		0	0	true
 scm_norsca_uldsdau_self_1_2		wh_main_skill_all_all_self_thick-skinned		2	2		0	0	true
@@ -29,4 +30,4 @@ scm_norsca_uldsdau_self_3_2		wh_dlc03_skill_bst_lord_unnatural_thirst		2	7		0	0	
 scm_norsca_uldsdau_self_3_3		wh_main_skill_all_all_self_indomitable		2	8		0	0	true
 scm_norsca_uldsdau_self_3_4		wh_dlc08_skill_nor_lords_self_quicksilver		2	9		0	0	true
 scm_norsca_uldsdau_self_4		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
-wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir		wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir		7	0		0	0	false
+hkrul_uldsdau_eldur		hkrul_uldsdau_eldur		7	0		0	0	true

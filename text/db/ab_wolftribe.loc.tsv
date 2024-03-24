@@ -452,8 +452,8 @@ unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_in
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_ror_1	These champions have sworn a blood-oath to Huern and would follow him into the Realms of Chaos or die before backing down.	false
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_honorguard	Elite warriors handpicked for their skill and loyalty to defend the chieftess of the Tribe of the Wolf.	false
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolf_champions_ror_0	All champions strive to be chosen, willing their deeds to be observed and judged. These champions are the heroes of the Tribe of the Wolf.	false
-ancillaries_onscreen_name_wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir	Valdýr & Vitnir	true
-ancillaries_colour_text_wolftribe_scm_norsca_uldsdau_valdyr_and_vitnir	Uldsdau’s twin axes have served him well over the years, felling man and monster alike. Bathed in the blood of a particularly mighty frost troll, the blades emit the bitter chill of the North.	true
+ancillaries_onscreen_name_scm_norsca_graill_valdyr	Valdýr & Vitnir	true
+ancillaries_colour_text_scm_norsca_graill_valdyr	Uldsdau’s twin axes have served him well over the years, felling man and monster alike. Bathed in the blood of a particularly mighty frost troll, the blades emit the bitter chill of the North.	true
 ancillaries_onscreen_name_wolftribe_scm_norsca_asta_ardenwood_bow	The Ardenwood Bow	true
 ancillaries_colour_text_wolftribe_scm_norsca_asta_ardenwood_bow	Crafted from the wood of an ancient tree in the lands of her birth, Asta’s bow is imbued with the wild spirit of briar-choked thickets and hushed glades.	true
 ancillaries_onscreen_name_wolftribe_hidolfr_nithi	Nithi	true
@@ -490,8 +490,8 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_huern	Defeated Huer
 character_trait_levels_onscreen_name_hkrul_defeated_trait_huern	Defeated Huern the Wolf	false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_0		false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_1		false
-ancillaries_onscreen_name_hkrul_grail_axe	Eldur & Logi	true
-ancillaries_colour_text_hkrul_grail_axe	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
+ancillaries_onscreen_name_hkrul_uldsdau_eldur	Eldur & Logi	true
+ancillaries_colour_text_hkrul_uldsdau_eldur	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
 character_skills_localised_name_hkrul_huern_special_0_1	Tribe of the Wolf	false
 character_skills_localised_description_hkrul_huern_special_0_1	The Tribe of the Wolf stalk the Naglfarli plains in search of they're next prey, be it men or beast.	false
 effects_description_hkrul_wolf_stance	Passive Ability: "Scourge of Naglfari"	true
