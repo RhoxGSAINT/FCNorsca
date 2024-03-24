@@ -10,3 +10,5 @@ hkrul_ulfric_wall_formation	stat_resistance_physical	1.1500	mult
 hkrul_ulfric_wall_formation	stat_armour	10.0000	add
 rhox_huscarl_shield_wall	stat_missile_block_chance	24.0000	add
 rhox_huscarl_shield_wall	stat_mass	1.5000	mult
+hkrul_ulfric_axe_formation	stat_melee_attack	15.0000	add
+hkrul_ulfric_axe_formation	stat_resistance_all	1.1000	mult

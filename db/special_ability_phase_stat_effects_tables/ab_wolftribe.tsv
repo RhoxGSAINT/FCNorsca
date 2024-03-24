@@ -6,4 +6,8 @@ wolftribe_ability_rally_the_tribe	stat_morale	16.0000	add
 wolftribe_abilities_bitter_aura	stat_morale	-10.0000	add
 wolftribe_abilities_frostaxe_aura	stat_damage_reflection	20.0000	add
 wolftribe_abilities_frostaxe_aura	stat_resistance_physical	10.0000	add
-wolftribe_abilities_fireaxe_aura	stat_resistance_missile	10.0000	add
+wolftribe_abilities_fireaxe_aura	stat_bonus_vs_large	10.0000	add
+hkrul_wolf_stance	stat_melee_defence	20.0000	add
+hkrul_wolf_stance	stat_resistance_all	15.0000	add
+hkrul_wolf_track	stat_visibility_sight	100.0000	add
+hkrul_wolf_scratch	scalar_splash_attack_power	1.2500	mult

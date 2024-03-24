@@ -58,3 +58,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_grail_blood_frenzy	true	true	false	hkrul_grail_blood_frenzy
 1	wolftribe_abilities_fireaxe_aura	true	false	false	wolftribe_abilities_fireaxe_aura
 1	hkrul_wolf_bite	false	false	true	hkrul_wolf_bite
+1	hkrul_ulfric_axe_formation	true	false	false	hkrul_ulfric_axe_formation
+1	hkrul_wolf_stance	true	false	false	hkrul_wolf_stance
+1	hkrul_wolf_scratch	true	false	false	hkrul_wolf_scratch
+1	hkrul_wolf_track	true	false	false	hkrul_wolf_track

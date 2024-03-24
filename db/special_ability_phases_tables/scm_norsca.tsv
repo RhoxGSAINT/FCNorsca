@@ -60,3 +60,7 @@ wolftribe_abilities_fireaxe_aura	-1.0000	positive		false	false	false	0.0000	0.00
 rhox_huscarl_shield_wall	25.0000	neutral		false	false	false	0.0000	0.0000	0.0000	0.0000	0	-1	false	0.0000	0.0000	false	0				false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_grail_blood_frenzy	30.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_wolf_bite	5.0000	negative		false	false	false	0.0000	0.0000	0.0000	2.0000	200	1	false	0.0000	0.0000	false	0		wh_main_generic_debuff_attack	wh_ability_negative	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_ulfric_axe_formation	-1.0000	positive		false	false	true	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_wolf_stance	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_wolf_scratch	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_wolf_track	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
