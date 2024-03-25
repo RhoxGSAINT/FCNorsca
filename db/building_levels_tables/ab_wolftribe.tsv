@@ -22,6 +22,6 @@ hunting_camp_thrill_1	hunting_camp_thrill	0	1	1500	0		false	false			true	hunting
 hunting_camp_thrill_2	hunting_camp_thrill	1	1	2000	0		false	false			true	hunting_camp_thrill	false	0.0000	0	true	1		true	0	0		0
 hunting_camp_thrill_3	hunting_camp_thrill	2	1	2500	0		false	false			true	hunting_camp_thrill	false	0.0000	0	true	2		true	0	0		0
 wolftribe_greathall_0	wolftribe_greathall	0	2	2000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	1		true	0	0		0
-wolftribe_greathall_1	wolftribe_greathall	1	2	5400	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	2		true	0	0		0
-wolftribe_greathall_2	wolftribe_greathall	2	3	9800	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	3		true	0	0		0
-wolftribe_humbled_hall	wolftribe_humbled_hall	0	2	3200	0		false	false			true	wolftribe_humbled_hall	false	0.0000	0	true	2		true	0	0		0
+wolftribe_greathall_1	wolftribe_greathall	1	2	3000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	2		true	0	0		0
+wolftribe_greathall_2	wolftribe_greathall	2	3	4000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	3		true	0	0		0
+wolftribe_humbled_hall	wolftribe_humbled_hall	0	2	2550	0		false	false			true	wolftribe_humbled_hall	false	0.0000	0	true	2		true	0	0		0

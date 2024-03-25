@@ -11,3 +11,12 @@ hkrul_wolf_stance	stat_melee_defence	20.0000	add
 hkrul_wolf_stance	stat_resistance_all	15.0000	add
 hkrul_wolf_track	stat_visibility_sight	100.0000	add
 hkrul_wolf_scratch	scalar_splash_attack_power	1.2500	mult
+hkrul_wolf_moon_1	stat_bonus_vs_large	8.0000	add
+hkrul_wolf_moon_1	stat_melee_damage_ap	1.1200	mult
+hkrul_wolf_moon_1	stat_melee_damage_base	1.1200	mult
+hkrul_wolf_moon_2	stat_bonus_vs_large	15.0000	add
+hkrul_wolf_moon_2	stat_melee_damage_ap	1.2400	mult
+hkrul_wolf_moon_2	stat_melee_damage_base	1.2400	mult
+hkrul_wolf_moon_3	stat_bonus_vs_large	22.0000	add
+hkrul_wolf_moon_3	stat_melee_damage_ap	1.3600	mult
+hkrul_wolf_moon_3	stat_melee_damage_base	1.3600	mult

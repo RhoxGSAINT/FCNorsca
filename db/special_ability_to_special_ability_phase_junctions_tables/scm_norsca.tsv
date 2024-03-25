@@ -62,3 +62,6 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_wolf_stance	true	false	false	hkrul_wolf_stance
 1	hkrul_wolf_scratch	true	false	false	hkrul_wolf_scratch
 1	hkrul_wolf_track	true	false	false	hkrul_wolf_track
+1	hkrul_wolf_moon	true	false	false	hkrul_wolf_moon_1
+2	hkrul_wolf_moon	true	false	false	hkrul_wolf_moon_2
+3	hkrul_wolf_moon	true	false	false	hkrul_wolf_moon_3

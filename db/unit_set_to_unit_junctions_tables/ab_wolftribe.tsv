@@ -76,3 +76,4 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_main_nor_inf_chaos_marauders_1	norscan_marauders	false
 			wh_pro04_nor_inf_chaos_marauders_ror_0	norscan_marauders	false
 			wh_pro04_nor_inf_marauder_berserkers_ror_0	norscan_marauders	false
+			scm_norsca_huern_wolf	hkrul_wolf_moon	false

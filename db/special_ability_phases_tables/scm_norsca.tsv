@@ -64,3 +64,6 @@ hkrul_ulfric_axe_formation	-1.0000	positive		false	false	true	0.0000	0.0000	0.00
 hkrul_wolf_stance	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_wolf_scratch	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_wolf_track	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_wolf_moon_1	15.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh3_main_abilities_ballet_of_blows_1	hkrul_wolf_moon_1	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_wolf_moon_2	15.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh3_main_abilities_ballet_of_blows_2	hkrul_wolf_moon_2	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_wolf_moon_3	15.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh3_main_abilities_ballet_of_blows_3	hkrul_wolf_moon_3	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
