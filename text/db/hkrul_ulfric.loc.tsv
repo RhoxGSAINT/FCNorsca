@@ -42,7 +42,7 @@ land_units_onscreen_name_hkrul_bjornling_inf_marauder_spearman_0	Bjornling Spear
 land_units_onscreen_name_hkrul_bjornling_inf_chaos_marauders_0	Bjornling Marauders	false
 land_units_onscreen_name_hkrul_bjornling_inf_chaos_marauders_1	Bjornling Marauders (Great Weapons)	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_ulfric		false
-effect_bundles_localised_description_hkrul_ulfric_faction_trait	High King Ulfric	false
+effect_bundles_localised_description_hkrul_ulfric_faction_trait	High King Ulfric Grondal stands as the formidable ruler of the Bjornling tribe, a figure both feared and respected among his people. Unlike many Norscan chieftains, Ulfric embodies the essence of a traditional monarch, commanding authority from his seat in the mighty Skjold. Towering above his warriors, Ulfric is a mighty warrior himself, his presence commanding respect and obedience	false
 effect_bundles_localised_title_hkrul_ulfric_faction_trait	High King Ulfric	false
 character_skills_localised_description_hkrul_ulfric_mammoth	A mammoth so large it hardly fits through Skjold's gates, a true sight to be hold and devastating on the battlefield.	false
 character_skills_localised_name_hkrul_ulfric_mammoth	Eyristaad's Might	false
@@ -84,30 +84,30 @@ ancillaries_onscreen_name_hkrul_ulfric_chariot	Marauder Chariot	false
 land_units_onscreen_name_hkrul_ulfric_horse	Ulfric Grondal	false
 land_units_onscreen_name_hkrul_ulfric_chariot	Ulfric Grondal	false
 effects_description_rhox_ulfric_feature_dummy	Politics of Men: Influence the Kislevite civil war by sending Norscan Raiding parties to plunder Kislev territories	false
-technologies_onscreen_name_rhox_bjornling_ritual_1	technologies_onscreen_name_rhox_bjornling_ritual_1	false
-technologies_short_description_rhox_bjornling_ritual_1	technologies_short_description_rhox_bjornling_ritual_1	false
-technologies_onscreen_name_rhox_bjornling_ritual_2	technologies_onscreen_name_rhox_bjornling_ritual_2	false
-technologies_short_description_rhox_bjornling_ritual_2	technologies_short_description_rhox_bjornling_ritual_2	false
-technologies_onscreen_name_rhox_bjornling_ritual_3	technologies_onscreen_name_rhox_bjornling_ritual_3	false
-technologies_short_description_rhox_bjornling_ritual_3	technologies_short_description_rhox_bjornling_ritual_3	false
-technologies_onscreen_name_rhox_bjornling_ritual_4	technologies_onscreen_name_rhox_bjornling_ritual_4	false
-technologies_short_description_rhox_bjornling_ritual_4	technologies_short_description_rhox_bjornling_ritual_4	false
-incidents_button_text_rhox_bjornling_turn_two_incident	Okay	false
-incidents_localised_description_rhox_bjornling_turn_two_incident	For some lore reasons	false
-incidents_localised_title_rhox_bjornling_turn_two_incident	Why Kislev?	false
+technologies_onscreen_name_rhox_bjornling_ritual_1	Invocation of Ursun	false
+technologies_short_description_rhox_bjornling_ritual_1	The fate of Kislev is linked in many minds to the fortunes and favour of the great Bear God, Ursun.	false
+technologies_onscreen_name_rhox_bjornling_ritual_2	Invocation of Tor	false
+technologies_short_description_rhox_bjornling_ritual_2	The god of thunder and lightning, Tor is worshipped as a warrior god, cleaving the sky to create thunderbolts.	false
+technologies_onscreen_name_rhox_bjornling_ritual_3	Invocation of Salyak	false
+technologies_short_description_rhox_bjornling_ritual_3	The goddess of healing and comfort, Salyak teaches common sense and sound care, but will not save those whose time has come.	false
+technologies_onscreen_name_rhox_bjornling_ritual_4	Invocation of Dazh	false
+technologies_short_description_rhox_bjornling_ritual_4	The god of fire and the sun, it was Dazh who took the secret of flame from the sun and gave it to the ancient warrior chiefs	false
+incidents_button_text_rhox_bjornling_turn_two_incident	To the Longships!	false
+incidents_localised_description_rhox_bjornling_turn_two_incident	Embrace the winds of fate, for the Bjornlings, renowned sailors and explorers of the northern seas, hold sway over more than just the tempests of the ocean. As the realms of men tremble in the throes of civil discord, you stand poised at the helm of destiny. The great divide between the Orthodox faithful and the Ice Court in Kislev offers a stage for your grand machinations.\\n\\n By unleashing the fury of Norscan raiding parties upon the lands of your choosing, you sow the seeds of chaos and discord, tipping the scales of power in favor of your favored faction. Yet, amidst the turmoil, a greater prize awaits – the favor of the Kislevite gods themselves. Gather the devotion of your raids and beckon forth the blessings of these ancient deities to shape the very course of history. Will you champion the devout Orthodoxy or stand alongside the defiant Ice Court? The choice is yours, and the fate of Kislev hangs in the balance.	false
+incidents_localised_title_rhox_bjornling_turn_two_incident	The Kislevite Civil War	false
 effects_description_hkrul_ulfric_wall_formation	Ability: "Eldagrimm's Shields"	true
 unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
 unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Eldagrimm's Shields	false
-unit_description_historical_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer. They are maintained and well-equipped by their masters, and are fiercely loyal and frenzied fighters.	false
+unit_description_historical_texts_text_hkrul_huscarl	Elite household troops of the Norscan Jarls and High Kings. Comprised of the finest warriors the Eldagrimm region has to offer. Well-equipped by their masters and fiercely loyal fighters.	false
 land_units_onscreen_name_rhox_bjornling_huscarl	Bjornling Huscarls	false
 land_units_onscreen_name_rhox_bjornling_huscarl_ror	Bulwark of Skjold (Huscarls)	false
 unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer.	false
-unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of High King Ulfric, they occupy Skjold's Great Hall and each member of their ranks has surpassed insufferable challenges on the island of Horvenghaast.	false
+unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of the High King, they occupy Skjold's Great Hall. Each member of their ranks has surpassed insufferable challenges on the cliffs of Horvenghaast.	false
 campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe or have Ulfric Grondal in your faction[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_onscreen_name_hkrul_ulfric_axe_formation	Axes of Horvenghaast	false
 unit_abilities_tooltip_text_hkrul_ulfric_axe_formation	The fiercest of Bjornling warriors flock to Horvenghaast to trade and partake in the famed "Duelling Circles," rooftop fighting rituals sacred to the Gods.	false
 effects_description_hkrul_norsca_bjornling_huscarl_cap	Unit capacity: %+n for Bjornling Huscarls	false
-missions_localised_title_rhox_fc_norsca_capture_ice_bay	Capture this region	false
-missions_localised_description_rhox_fc_norsca_capture_ice_bay	Dude, this is the Total War's Board Walk. Build a hotel	false
+missions_localised_title_rhox_fc_norsca_capture_ice_bay	Hafskael's Yard	false
+missions_localised_description_rhox_fc_norsca_capture_ice_bay	Seize control of the Ice Pack Bay region, home to the renowned shipyard of Hafskael. As you storm the shores and conquer the rugged cliffs, you secure access to the master shipwright's expertise, granting your tribe the coveted Huscarl units forged within these hallowed halls.\\n\\n Additionally, claiming this strategic port grants you the ability to construct mighty longships, ensuring your naval dominance in the treacherous northern seas. By securing Ice Pack Bay, you not only bolster your naval power and elite forces but also pave the way for diplomatic overtures with the Empire, particularly Nordland. Control of this vital port signals your tribe's readiness to engage in lucrative trade ventures and collaborative endeavors, laying the foundation for prosperous alliances beyond the tumultuous shores of Norsca.	false
