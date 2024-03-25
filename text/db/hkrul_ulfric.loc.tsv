@@ -103,7 +103,7 @@ land_units_onscreen_name_rhox_bjornling_huscarl	Bjornling Huscarls	false
 land_units_onscreen_name_rhox_bjornling_huscarl_ror	Bulwark of Skjold (Huscarls)	false
 unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer.	false
 unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of High King Ulfric, they occupy Skjold's Great Hall and each member of their ranks has surpassed insufferable challenges on the island of Horvenghaast.	false
-campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe[[/col]]	false
+campaign_localised_strings_string_rhox_bjornling_huscarl_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe or have Ulfric Grondal in your faction[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_onscreen_name_hkrul_ulfric_axe_formation	Axes of Horvenghaast	false
