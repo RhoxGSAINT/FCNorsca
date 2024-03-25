@@ -124,3 +124,5 @@ encourages	scm_norsca_asta_attributes
 encourages	scm_norsca_asta_02_attributes
 charge_defense_vs_large	scm_norsca_asta_attributes
 charge_reflection	scm_norsca_asta_attributes
+hide_forest	hkrul_huscarls
+flanking_immune	hkrul_huscarls

@@ -24,7 +24,7 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh_main_nor_bjornling")
 			
 			mixer_change_lord_name("835161619", "hkrul_harald")
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_graeling", {"wh_dlc08_nor_inf_marauder_berserkers_0","wh_dlc08_nor_inf_marauder_hunters_0","wh_main_nor_mon_chaos_warhounds_1","wh_dlc08_nor_mon_skinwolves_1","wh_dlc08_nor_mon_skinwolves_0"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_graeling", {"wh_dlc08_nor_inf_marauder_berserkers_0","wh_dlc08_nor_inf_marauder_hunters_0","wh_main_nor_mon_chaos_warhounds_1","wh_dlc08_nor_mon_skinwolves_1","rhox_graeling_werekin_of_fijgard"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_graeling")
 			
 			mixer_change_lord_name("383940030", "hkrul_birna")
