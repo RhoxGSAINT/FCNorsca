@@ -73,3 +73,4 @@ hkrul_wolf_bite	true	hkrul_wolf_bite		wh_type_direct_damage		wh_main_anc_group_r
 hkrul_wolf_stance	true	hkrul_wolf_stance		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_wolf_scratch	true	hkrul_wolf_scratch		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_wolf_track	true	hkrul_wolf_trail		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_wolf_moon	true	hkrul_wolf_moon		wh_type_augment		wh_main_anc_group_unique	true	false	active		false

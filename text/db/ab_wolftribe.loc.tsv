@@ -350,28 +350,28 @@ ui_unit_groupings_onscreen_scm_norsca_alfkael	Legendary Vitki	false
 ui_unit_groupings_tooltip_scm_norsca_alfkael		false
 names_name_240926	Alfkael Bloodfather	false
 agent_subtypes_onscreen_name_override_scm_norsca_uldsdau	Legendary Werekin	true
-agent_subtypes_description_text_override_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Uldsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
-land_units_onscreen_name_scm_norsca_uldsdau	Uldsdau	true
+agent_subtypes_description_text_override_scm_norsca_uldsdau	Ulsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
+land_units_onscreen_name_scm_norsca_uldsdau	Ulsdau	true
 land_units_concealed_name_scm_norsca_uldsdau		true
-unit_description_short_texts_text_short_text_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Uldsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
+unit_description_short_texts_text_short_text_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Ulsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
 unit_description_historical_texts_text_long_text_scm_norsca_uldsdau		true
-names_name_240931	Uldsdau	false
+names_name_240931	Ulsdau	false
 character_skills_localised_name_wolftribe_skill_unique_blood_berserker	Blood-Drenched Berserker	false
-character_skills_localised_name_wolftribe_skill_self_tribal_giant	Tribal Giant	false
+character_skills_localised_name_wolftribe_skill_self_tribal_giant	Bone Pluckers	false
 character_skills_localised_name_wolftribe_skill_self_berserker_champion	Berserker Champion	false
 character_skills_localised_name_wolftribe_skill_self_blessing_of_the_beast	Blessing of the Beast	false
 character_skills_localised_name_wolftribe_skill_self_jarl_slayer	Jarl-Slayer	false
 character_skills_localised_name_wolftribe_skill_self_contest_of_skill	Contest of Skill	false
 character_skills_localised_name_wolftribe_skill_self_blood_brother	Savage Bite	false
 character_skills_localised_name_wolftribe_skill_innate_foe_cleaver	The Foe-Cleaver	false
-character_skills_localised_description_wolftribe_skill_unique_blood_berserker	The sight of Uldsdau, dripping with the gore of his foes, is terrible indeed.	false
-character_skills_localised_description_wolftribe_skill_self_tribal_giant	Once, Uldsdau served as a bondsman in service to an Aesling jarl. So great was his stature that many thought him to be a troll.	false
+character_skills_localised_description_wolftribe_skill_unique_blood_berserker	The sight of Ulsdau, dripping with the gore of his foes, is terrible indeed.	false
+character_skills_localised_description_wolftribe_skill_self_tribal_giant	Once, Ulsdau served as a bondsman in service to an Aesling jarl. So great was his stature that many thought him to be a troll.	false
 character_skills_localised_description_wolftribe_skill_self_berserker_champion	Uldsdau was the greatest among his tribe’s berserkers, with countless victories and scars accumulated over years of battle.	false
 character_skills_localised_description_wolftribe_skill_self_blessing_of_the_beast	The bloodlust of a Skin Wolf was not so different from the battle rage of a berserker, and so Uldsdau felt comfortable in his new form, emboldened by its strength and senses.	false
-character_skills_localised_description_wolftribe_skill_self_jarl_slayer	When Uldsdau was blessed with the power of the werekin, he could no longer serve any master. Slaying his arrogant jarl, Uldsdau fled out into the tundra, seeking stronger foes.	false
+character_skills_localised_description_wolftribe_skill_self_jarl_slayer	When Ulsdau was blessed with the power of the werekin, he could no longer serve any master. Slaying his arrogant jarl, Ulsdau fled out into the tundra, seeking stronger foes.	false
 character_skills_localised_description_wolftribe_skill_self_contest_of_skill	Several years into his wanderings, Uldsdau found a new foe to challenge – a young man black of hair with eyes like the stormy sea. For two days did they duel upon a frozen lake, their blows ringing like thunderclaps.	false
 character_skills_localised_description_wolftribe_skill_self_blood_brother	Bested by Huern in their duel, Uldsdau was nevertheless spared by the Black Wolf. Ever since that day, Uldsdau has sworn eternal loyalty and friendship to the one man worthy of his respect.	false
-character_skills_localised_description_wolftribe_skill_innate_foe_cleaver	Uldsdau is a renowned berserker who once wandered Norsca in search of stronger foes.	false
+character_skills_localised_description_wolftribe_skill_innate_foe_cleaver	Ulsdau is a renowned berserker who once wandered Norsca in search of stronger foes.	false
 character_skills_localised_description_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
 character_skills_localised_name_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
 ui_unit_groupings_onscreen_scm_norsca_uldsdau	Legendary Werekin	false
@@ -478,8 +478,8 @@ effects_description_wolftribe_effect_ability_enable_fireaxe_aura	Passive Ability
 land_units_onscreen_name_wh_dlc08_nor_mon_frost_wyrm_ror_0	The Cold-Voider (Frost-Wyrm)	false
 unit_abilities_onscreen_name_wolftribe_abilities_fireaxe_aura	Eldur's Aura	false
 unit_abilities_onscreen_name_wolftribe_abilities_frostaxe_aura	Valdýr's Aura	false
-unit_abilities_tooltip_text_wolftribe_abilities_fireaxe_aura	Uldsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
-unit_abilities_tooltip_text_wolftribe_abilities_frostaxe_aura	Uldsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
+unit_abilities_tooltip_text_wolftribe_abilities_fireaxe_aura	Ulsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
+unit_abilities_tooltip_text_wolftribe_abilities_frostaxe_aura	Ulsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
 unit_abilities_onscreen_name_wolftribe_abilities_bitter_aura	Bitter Chill	false
 unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	The frigid winds summoned by Nithi sap the will to fight from Alfkael's foes.	false
 unit_abilities_onscreen_name_wolftribe_abilities_child_of_frigustrex	Child of Frigustrex	false
@@ -494,7 +494,7 @@ ancillaries_onscreen_name_hkrul_uldsdau_eldur	Eldur & Logi	true
 ancillaries_colour_text_hkrul_uldsdau_eldur	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
 character_skills_localised_name_hkrul_huern_special_0_1	Tribe of the Wolf	false
 character_skills_localised_description_hkrul_huern_special_0_1	The Tribe of the Wolf stalk the Naglfarli plains in search of they're next prey, be it men or beast.	false
-effects_description_hkrul_wolf_stance	Passive Ability: "Scourge of Naglfari"	true
+effects_description_hkrul_wolf_stance	Passive Ability: "Scourge of Naglfari" when in Skin Wolf form	true
 unit_abilities_tooltip_text_hkrul_wolf_stance	The Black Wolf stalks and hunts his prey in an increasingly effective manner, becoming more deadly with each succesful kill.	false
 unit_abilities_onscreen_name_hkrul_wolf_stance	Scourge of Naglfari	false
 effects_description_hkrul_wolf_scratch	Passive Ability: "Bloodcursed Gash"	true
@@ -503,3 +503,6 @@ unit_abilities_onscreen_name_hkrul_wolf_scratch	Bloodcursed Gash	false
 effects_description_hkrul_wolf_track	Passive Ability: "Tracker of the Plains"	false
 unit_abilities_tooltip_text_hkrul_wolf_track	Known for his expert tracking capabilities no foe may mask his sent when the Werekin is close.	false
 unit_abilities_onscreen_name_hkrul_wolf_track	Tracker of the Plains	false
+effects_description_hkrul_wolf_moon	Ability: "Moonlit Bloodlust" when in Skin Wolf form	false
+unit_abilities_tooltip_text_hkrul_wolf_moon	Enters a frenzied state of bloodlust where Huerns gains increasing momentum in his horrendous flurry of slashes and violence.	false
+unit_abilities_onscreen_name_hkrul_wolf_moon	Moonlit Bloodlust	false
