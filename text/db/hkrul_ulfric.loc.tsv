@@ -60,11 +60,11 @@ character_trait_levels_colour_text_hkrul_defeated_trait_ogg	You know what they s
 character_trait_levels_explanation_text_hkrul_defeated_trait_ogg	Defeated First Mate Ogg Halfheart	true
 unit_abilities_tooltip_text_hkrul_ulfric_crown	The High King of the Eldagrimm Gulf and ruler of the Bjornling invigorates his tribal warriors to push beyond the limits of the flesh.	false
 unit_abilities_onscreen_name_hkrul_ulfric_crown	Crown of Skjold	false
-effects_description_hkrul_bjornling_armour	Armour: %+n% for Huscarl units	false
+effects_description_hkrul_bjornling_armour	Armour: %+n for Huscarl units	false
 effects_description_hkrul_bjornling_morale	Leadership: %+n for Huscarl units	false
 effects_description_hkrul_bjornling_xp	Recruit rank: %+n for Huscarl units	false
 effects_description_hkrul_bjornling_defence	Melee defence: %+n for Huscarl units	false
-effects_description_hkrul_ulfric_raiders	Ability: "Bragnir's Raiders" for Huscarl units	true
+effects_description_hkrul_ulfric_raiders	Ability: "Bragnir's Raiders" for Huscarl & Marauder Champion units	true
 unit_abilities_tooltip_text_hkrul_ulfric_raiders	All Bjornling Warriors aspiring to rise to the rank of Huskarl are tasked with a pilgrimage to the Isle of Bragnir, where chieftains lay burried and monsters roam freely.	false
 unit_abilities_onscreen_name_hkrul_ulfric_raiders	Bragnir's Raiders	false
 ancillary_sets_name_hkrul_ulfric_set	The High King of Skjold	false
