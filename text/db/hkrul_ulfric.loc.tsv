@@ -109,3 +109,5 @@ unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_onscreen_name_hkrul_ulfric_axe_formation	Axes of Horvenghaast	false
 unit_abilities_tooltip_text_hkrul_ulfric_axe_formation	The fiercest of Bjornling warriors flock to Horvenghaast to trade and partake in the famed "Duelling Circles," rooftop fighting rituals sacred to the Gods.	false
 effects_description_hkrul_norsca_bjornling_huscarl_cap	Unit capacity: %+n for Bjornling Huscarls	false
+missions_localised_title_rhox_fc_norsca_capture_ice_bay	Capture this region	false
+missions_localised_description_rhox_fc_norsca_capture_ice_bay	Dude, this is the Total War's Board Walk. Build a hotel	false

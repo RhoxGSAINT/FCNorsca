@@ -44,3 +44,24 @@ core:add_listener(
     true
 )
     
+
+core:add_listener(
+    "rhox_fc_norsca_bjornling_turn3_mission",
+    "FactionTurnStart",
+    function(context)
+        local faction = context:faction()
+        local turn = cm:model():turn_number();
+        return faction:name() == "wh_main_nor_bjornling" and faction:is_human() and turn == 3
+    end,
+    function(context)
+        local turn = cm:model():turn_number();
+        local faction = context:faction()
+        local mm = mission_manager:new(faction:name(), "rhox_fc_norsca_capture_ice_bay")
+        mm:add_new_objective("CAPTURE_REGIONS");
+        mm:add_condition("region wh3_main_combi_region_pack_ice_bay");
+        mm:add_condition("ignore_allies");
+        mm:add_payload("money 1000");
+        mm:trigger()
+    end,
+    true
+);
