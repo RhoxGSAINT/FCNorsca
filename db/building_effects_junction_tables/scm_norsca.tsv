@@ -2,6 +2,7 @@ building	effect	context_requirement	effect_scope	value	value_damaged	value_ruine
 #building_effects_junction_tables;0;db/building_effects_junction_tables/scm_norsca						
 rhox_fc_norsca_harald_throne	wh_main_effect_public_order_osmosis		building_to_adjacent_province	2.0000	1.0000	0.0000
 rhox_fc_norsca_harald_throne	wh_main_effect_character_stat_leadership_aura_size		faction_to_character_own	10.0000	5.0000	0.0000
+rhox_fc_norsca_harald_throne	wh_main_effect_economy_gdp_mod_all		province_to_region_own	20.0000	10.0000	0.0000
 rhox_fc_norsca_hafskael_yard	wh_main_effect_economy_gdp_trade_sea		building_to_building_own	150.0000	75.0000	0.0000
 rhox_fc_norsca_hafskael_yard	wh2_main_effect_force_army_campaign_attrition_all_sea_resistance		building_to_force_own_factionwide	-10.0000	-5.0000	0.0000
 rhox_fc_norsca_hafskael_yard	wh_main_effect_economy_trade_tariff_mod	FactionHasTrade	faction_to_faction_own_unseen	10.0000	5.0000	0.0000
