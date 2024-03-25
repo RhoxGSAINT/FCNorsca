@@ -4,20 +4,35 @@ land_units_onscreen_name_hkrul_hrothgar	Hrothgar Daemonaxe	false
 names_name_7410711834	Daemonaxe	false
 names_name_7410711835	Hrothgar	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_hrothgar	Hrothgar Daemonaxe	false
-character_skills_localised_description_innate_hkrul_hrothgar	Hrothgar Daemonaxe	false
-character_skills_localised_name_innate_hkrul_hrothgar	Hrothgar Daemonaxe	false
-agent_subtypes_description_text_override_hkrul_hrothgar	Hrothgar Daemonaxe	false
-agent_subtypes_onscreen_name_override_hkrul_hrothgar	Hrothgar Daemonaxe	false
-unit_description_short_texts_text_hkrul_hrothgar		false
+character_skills_localised_description_innate_hkrul_hrothgar	A relentless champion of Khorne, his name feared and revered throughout the Chaos Wastes.	false
+character_skills_localised_name_innate_hkrul_hrothgar	Akhara Varg	false
+agent_subtypes_description_text_override_hkrul_hrothgar	Legendary Lord	false
+agent_subtypes_onscreen_name_override_hkrul_hrothgar	Legendary Lord	false
+unit_description_short_texts_text_hkrul_hrothgar	Once a mortal warlord of the Varg tribe, now stands as Akhara Varg, a fearsome favoured of Khorne, revered by all as a merciless harbinger of bloodshed and chaos.	false
 unit_description_historical_texts_text_hkrul_hrothgar		false
-character_trait_levels_colour_text_hkrul_defeated_trait_hrothgar	Defeated Hrothgar	false
-character_trait_levels_explanation_text_hkrul_defeated_trait_hrothgar	Defeated Hrothgar	false
-character_trait_levels_onscreen_name_hkrul_defeated_trait_hrothgar	Defeated Hrothgar	false
+character_trait_levels_colour_text_hkrul_defeated_trait_hrothgar	So.. Are you a God?	false
+character_trait_levels_explanation_text_hkrul_defeated_trait_hrothgar	Defeated Hrothgar Daemonaxe	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_hrothgar	Akhara Varg	false
 character_trait_levels_removal_text_hkrul_defeated_trait_hrothgar		false
-mission_text_text_rhox_varg_devotion	Reach Allegiance to Hound to 60	false
-missions_localised_title_rhox_varg_hrothgar_mission	Minor god of Varg	false
-missions_localised_description_rhox_varg_hrothgar_mission	[ph]Bring yourself closer to Khorne, and he will come	false
-campaign_payload_ui_details_description_rhox_varg_hrothgar_joins	Hrothgar Daemonaxe join your faction 	false
-campaign_payload_ui_details_description_rhox_varg_hrothgar_appears	Hrothgar Daemonaxe joined your faction 	false
-incidents_localised_description_rhox_varg_hrothgar_joins	Hrothgar Daemonaxe joined your faction 	false
+mission_text_text_rhox_varg_devotion	Obtain 60 allegiance to the Hound	false
+missions_localised_title_rhox_varg_hrothgar_mission	The Return of the Daemonaxe	false
+missions_localised_description_rhox_varg_hrothgar_mission	Embrace the path of blood and steel, for the time of reckoning draws near. As the Varg tribe stands at the precipice of destiny, the whispers of Khorne echo through the winds, calling upon the blood-soaked legacy of Hrothgar Daemonaxe. Should you dedicate the Vargs to the insatiable hunger of Khorne, the Daemon Prince stirs once more, his ancient fury unleashed upon the mortal realms. With his return, the Vargs shall know true terror and unyielding might. Will you answer the call of the Blood God and summon forth the wrath of Hrothgar Daemonaxe to lead your tribe once more	false
+campaign_payload_ui_details_description_rhox_varg_hrothgar_joins	Khorne willing, Hrothgar Daemonaxe will once more walk the planes of the mortal realms.	false
+campaign_payload_ui_details_description_rhox_varg_hrothgar_appears	Khorne willing, Hrothgar Daemonaxe will once more walk the planes of the mortal realms.	false
+incidents_localised_description_rhox_varg_hrothgar_joins	With the thunderous roar of a thousand raging storms, Hrothgar Daemonaxe returns from the depths of legend, his allegiance pledged once more to Khorne's eternal hunger. The Varg tribe rejoices as their legendary chieftain, now ascended to daemonhood, leads them in an unrelenting crusade of bloodshed and conquest. Under the crimson banner of Khorne, the Vargs shall carve a path of devastation across the lands, their enemies trembling before the fury of the Daemonaxe's return	false
 incidents_localised_title_rhox_varg_hrothgar_joins	Hrothgar Daemonaxe	false
+character_skills_localised_name_hkrul_hrothgar_special_1_0	Eternal Hatred	false
+character_skills_localised_name_hkrul_hrothgar_special_1_1	Varg Vanguard	false
+character_skills_localised_name_hkrul_hrothgar_special_1_2	Savage Reaver	false
+character_skills_localised_name_hkrul_hrothgar_special_1_3	Unrelenting Assault	false
+character_skills_localised_name_hkrul_hrothgar_special_1_4	Daemonic Aura	false
+character_skills_localised_name_hkrul_hrothgar_special_1_5	Gore Feast	false
+character_skills_localised_description_hkrul_hrothgar_special_1_0	 Hrothgar's enmity for the followers of Sigmar burns eternal, his hatred driving him to seek vengeance against those who would defy the will of the Blood God.	false
+character_skills_localised_description_hkrul_hrothgar_special_1_1	With a primal roar, Hrothgar leads his warband in a lightning assault, catching the enemy off guard as they descend upon them with savage fury.	false
+character_skills_localised_description_hkrul_hrothgar_special_1_2	Hrothgar's strikes are not merely blows, but savage rends that tear through flesh and bone, leaving his enemies bleeding and broken in his wake.	false
+character_skills_localised_description_hkrul_hrothgar_special_1_3	With each strike against the armored ranks of his foes, Hrothgar's fury grows, his blows guided by the will of Khorne to find weakness in even the strongest defenses.	false
+character_skills_localised_description_hkrul_hrothgar_special_1_4	As the battle reaches its climax, Hrothgar's fury knows no bounds, driving him into a berserk frenzy that sees him cleave through his enemies with unmatched ferocity.	false
+character_skills_localised_description_hkrul_hrothgar_special_1_5	Increases the replenishment rate for Hrothgar's army after battles, representing their penchant for consuming the flesh of their fallen enemies.	false
+effects_description_hkrul_hrothgar_aura	Ability: "Daemonic Aura''	false
+unit_abilities_tooltip_text_hkrul_hrothgar_aura	Clad in armor forged in the fires of the Blood God's realm, Hrothgar shrugs off blows that would shatter lesser warriors, his indomitable spirit fueled by Khorne's infernal power.	true
+unit_abilities_onscreen_name_hkrul_hrothgar_aura	Daemonic Aura	true
