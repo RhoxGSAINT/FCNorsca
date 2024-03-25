@@ -1,0 +1,5 @@
+key	group_sound	max_distance	start_event	stop_event	use_reverb	switch	looping_group_sound	unit_application_event	unit_removal_event	unit_phase_change_sound_cooldown
+#audio_ability_phases_tables;2;db/audio_ability_phases_tables/zzz_scm_norsca										
+hkrul_wolf_moon_1		0.0000			false		false			0.0000
+hkrul_wolf_moon_2		0.0000			false		false			0.0000
+hkrul_wolf_moon_3		0.0000			false		false			0.0000

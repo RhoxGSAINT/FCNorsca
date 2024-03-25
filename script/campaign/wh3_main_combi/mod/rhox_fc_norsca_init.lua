@@ -407,7 +407,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_bjornling_how_they_play",
         pic=800,
         faction_trait="hkrul_ulfric_faction_trait",
-        kill_previous_leader=false,--they're first enemy of the Wulfric, so needs to be careful
+        kill_previous_leader="human_only",--they're first enemy of the Wulfric, so needs to be careful
         human_only_enemy={
             key="wh_main_nor_varg",
             subtype="wh_main_nor_marauder_chieftain",
@@ -421,6 +421,28 @@ local rhox_faction_list={
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_oda", faction:faction_leader():command_queue_index(), true)
             cm:make_diplomacy_available(faction_key, "wh_main_emp_nordland")
             cm:force_make_trade_agreement(faction_key, "wh_main_emp_nordland")
+            
+            if faction:is_human() then
+                cm:disable_event_feed_events(true, "wh_event_category_diplomacy", "", "")
+                cm:force_declare_war("wh_main_nor_graeling", "wh_dlc08_nor_norsca", false, false)
+                cm:callback(function() cm:disable_event_feed_events(false, "wh_event_category_diplomacy", "", "") end, 0.5)
+                cm:create_force_with_general(
+                -- faction_key, unit_list, region_key, x, y, agent_type, agent_subtype, forename, clan_name, family_name, other_name, id, make_faction_leader, success_callback
+                "wh_main_nor_graeling",
+                "wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_cav_chaos_chariot",
+                "wh3_main_combi_region_graeling_moot",
+                465,
+                807,
+                "general",
+                "wh_main_nor_marauder_chieftain",
+                "",
+                "",
+                "",
+                "",
+                false,
+                function(cqi)
+                end);
+            end
         end,
         first_tick = function(faction, faction_key) 
         end

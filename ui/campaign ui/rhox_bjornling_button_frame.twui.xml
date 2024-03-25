@@ -204,7 +204,7 @@
 			</state_uniqueguids>
 			<component_image_uniqueguids>
 				<component_image_uniqueguid
-					name="ui/skins/warhammer3/kislev_winter_hud_icon.png"
+					name="ui/skins/default/hkrul_bjornling_button.png"
 					uniqueguid="64E802BF-E2EE-F7BC-FD8CF7818CB5C5D2"/>
 				<component_image_uniqueguid
 					name="ui/skins/default/button_round_hud_selected_inactive.png"
@@ -271,7 +271,7 @@
 					context_function_id="ToggleHUDPanel(&quot;kislev_winter&quot;)"/>
 				<callback_with_context
 					callback_id="#ContextImageSetter"
-					context_function_id="GetIfElse(IsContextValid(StoredContext(&quot;CcoCampaignRitual&quot;)), StoredContext(&quot;CcoCampaignRitual&quot;).RitualContext.Icon, &quot;ui/skins/warhammer3/kislev_winter_hud_icon.png&quot;)">
+					context_function_id="GetIfElse(IsContextValid(StoredContext(&quot;CcoCampaignRitual&quot;)), StoredContext(&quot;CcoCampaignRitual&quot;).RitualContext.Icon, &quot;ui/skins/default/hkrul_bjornling_button.png&quot;)">
 					<child_m_user_properties>
 						<property
 							name="image_index"
@@ -345,7 +345,7 @@
 					is_text_localised="false"/>
 			</localised_texts>
 			<override_images>
-				<element value="ui/skins/warhammer3/kislev_winter_hud_icon.png"/>
+				<element value="ui/skins/default/hkrul_bjornling_button.png"/>
 				<element value="ui/skins/default/button_round_hud_selected_inactive.png"/>
 				<element value="ui/skins/default/button_round_hud_pressed.png"/>
 				<element value="ui/skins/default/button_round_hud_selected_hover.png"/>
