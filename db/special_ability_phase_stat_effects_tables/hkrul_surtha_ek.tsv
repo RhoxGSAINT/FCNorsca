@@ -2,3 +2,14 @@ phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_surtha_ek			
 hkrul_surtha_ek_speed_up	scalar_entity_acceleration_modifier	1.5000	mult
 hkrul_surtha_ek_speed_up	scalar_speed	1.3000	mult
+hkrul_hrothgar_god_1	stat_resistance_all	1.0800	mult
+hkrul_hrothgar_god_1	stat_melee_damage_ap	1.1200	mult
+hkrul_hrothgar_god_1	stat_melee_damage_base	1.1200	mult
+hkrul_hrothgar_god_2	stat_resistance_all	1.1600	mult
+hkrul_hrothgar_god_2	stat_melee_damage_ap	1.2400	mult
+hkrul_hrothgar_god_2	stat_melee_damage_base	1.2400	mult
+hkrul_hrothgar_god_3	stat_resistance_all	1.2400	mult
+hkrul_hrothgar_god_3	stat_melee_damage_ap	1.3600	mult
+hkrul_hrothgar_god_3	stat_melee_damage_base	1.3600	mult
+hkrul_hrothgar_passive	stat_armour	20.0000	add
+hkrul_hrothgar_passive	stat_melee_defence	20.0000	add

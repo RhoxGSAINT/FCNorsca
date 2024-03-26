@@ -25,7 +25,7 @@ character_skills_localised_name_hkrul_hrothgar_special_1_0	Eternal Hatred	false
 character_skills_localised_name_hkrul_hrothgar_special_1_1	Varg Vanguard	false
 character_skills_localised_name_hkrul_hrothgar_special_1_2	Savage Reaver	false
 character_skills_localised_name_hkrul_hrothgar_special_1_3	Unrelenting Assault	false
-character_skills_localised_name_hkrul_hrothgar_special_1_4	Daemonic Aura	false
+character_skills_localised_name_hkrul_hrothgar_special_1_4	Bloodlust Surge	false
 character_skills_localised_name_hkrul_hrothgar_special_1_5	Gore Feast	false
 character_skills_localised_description_hkrul_hrothgar_special_1_0	 Hrothgar's enmity for the followers of Sigmar burns eternal, his hatred driving him to seek vengeance against those who would defy the will of the Blood God.	false
 character_skills_localised_description_hkrul_hrothgar_special_1_1	With a primal roar, Hrothgar leads his warband in a lightning assault, catching the enemy off guard as they descend upon them with savage fury.	false
@@ -33,6 +33,9 @@ character_skills_localised_description_hkrul_hrothgar_special_1_2	Hrothgar's str
 character_skills_localised_description_hkrul_hrothgar_special_1_3	With each strike against the armored ranks of his foes, Hrothgar's fury grows, his blows guided by the will of Khorne to find weakness in even the strongest defenses.	false
 character_skills_localised_description_hkrul_hrothgar_special_1_4	As the battle reaches its climax, Hrothgar's fury knows no bounds, driving him into a berserk frenzy that sees him cleave through his enemies with unmatched ferocity.	false
 character_skills_localised_description_hkrul_hrothgar_special_1_5	Increases the replenishment rate for Hrothgar's army after battles, representing their penchant for consuming the flesh of their fallen enemies.	false
-effects_description_hkrul_hrothgar_aura	Ability: "Daemonic Aura''	false
-unit_abilities_tooltip_text_hkrul_hrothgar_aura	Clad in armor forged in the fires of the Blood God's realm, Hrothgar shrugs off blows that would shatter lesser warriors, his indomitable spirit fueled by Khorne's infernal power.	true
-unit_abilities_onscreen_name_hkrul_hrothgar_aura	Daemonic Aura	true
+effects_description_hkrul_hrothgar_passive	Passive Ability: "Daemonborne Strength''	false
+unit_abilities_tooltip_text_hkrul_hrothgar_passive	Clad in armor forged in the fires of the Blood God's realm, Hrothgar shrugs off blows that would shatter lesser warriors, his indomitable spirit fueled by Khorne's infernal power.	false
+unit_abilities_onscreen_name_hkrul_hrothgar_passive	Daemonborne Strength	false
+effects_description_hkrul_hrothgar_god	Ability: "Bloodlust Surge''	false
+unit_abilities_tooltip_text_hkrul_hrothgar_god	With each enemy he fells, Hrothgar grows more formidable, gaining a stacking damage buff that fuels his unstoppable onslaught.	false
+unit_abilities_onscreen_name_hkrul_hrothgar_god	Bloodlust Surge	false
