@@ -582,8 +582,6 @@ local rhox_faction_list={
                 mm:add_condition("override_text mission_text_text_rhox_varg_devotion");
                 mm:add_payload("text_display rhox_varg_hrothgar_joins");
                 mm:trigger()
-            else
-                cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_hrothgar", faction:faction_leader():command_queue_index(), true)
             end
         end,
         first_tick = function(faction, faction_key) 

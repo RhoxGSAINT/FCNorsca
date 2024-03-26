@@ -70,7 +70,7 @@ cm:add_first_tick_callback(
                     function(context)
                         local faction = context:faction()
                         local turn = cm:model():turn_number();
-                        return faction:name() == details.faction_key and turn ==5
+                        return faction:name() == details.faction_key and turn == details.ai_turn
                     end,
                     function(context)
                         local faction = context:faction()
@@ -79,6 +79,23 @@ cm:add_first_tick_callback(
                     true
                 );
             end
+        end
+        local faction = cm:get_faction("wh_main_nor_varg")
+        if faction:is_human() == false and cm:model():turn_number() < 25 then
+            core:add_listener(
+                "rhox_fc_norsca_lh_ai_hrothgar",
+                "FactionTurnStart",
+                function(context)
+                    local faction = context:faction()
+                    local turn = cm:model():turn_number();
+                    return faction:name() == "wh_main_nor_varg" and turn ==25
+                end,
+                function(context)
+                    local faction = context:faction()
+                    cm:spawn_unique_agent(faction:command_queue_index(),"hkrul_hrothgar", true)
+                end,
+                false
+            );
         end
 	end
 )
