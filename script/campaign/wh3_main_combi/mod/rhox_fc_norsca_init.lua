@@ -568,7 +568,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_main_nor_bjornling",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_spearman_0,wh_dlc08_nor_inf_marauder_spearman_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_spearman_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0",
             x=463,
             y=865
         },
@@ -683,7 +683,7 @@ cm:add_first_tick_callback_new(
             rhox_faction_list["wh_dlc08_nor_vanaheimlings"].enemy=nil
 
             --additional units because Belakor is too strong
-            rhox_faction_list["wh_main_nor_varg"]["leader"]["unit_list"]=rhox_faction_list["wh_main_nor_varg"]["leader"]["unit_list"]..",wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0"
+            rhox_faction_list["wh_main_nor_varg"]["leader"]["unit_list"]=rhox_faction_list["wh_main_nor_varg"]["leader"]["unit_list"]..",wh_dlc08_nor_inf_marauder_champions_1,wh_dlc08_nor_veh_marauder_warwolves_chariot_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh3_dlc20_chs_mon_warshrine,wh_dlc08_nor_cav_marauder_horsemasters_0,wh_dlc08_nor_cav_marauder_horsemasters_0"
 		end
         
 
