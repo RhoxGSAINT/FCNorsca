@@ -2,3 +2,5 @@ effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_surtha_ek		
 hkrul_surtha_ek_speed_up	enable	hkrul_surtha_ek_speed_up
 hkrul_surtha_ek_whip	enable	hkrul_surtha_ek_whip
+hkrul_hrothgar_passive	enable	hkrul_hrothgar_passive
+hkrul_hrothgar_god	enable	hkrul_hrothgar_god

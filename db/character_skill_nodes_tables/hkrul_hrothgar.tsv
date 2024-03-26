@@ -7,3 +7,7 @@ hkrul_skill_node_hrothgar_misc_05		hkrul_hrothgar_special_1_3		1	4		0	0	true
 hkrul_skill_node_hrothgar_misc_04		hkrul_hrothgar_special_1_2		1	3		0	0	true
 hkrul_skill_node_hrothgar_misc_03		hkrul_hrothgar_special_1_1		1	2		0	0	true
 hkrul_skill_node_hrothgar_misc_02		hkrul_hrothgar_special_1_0		1	1		0	0	true
+hkrul_skill_node_hrothgar_misc_08		wh3_main_skill_kho_cultist_unique_greater_gate_of_khorne		0	11		0	0	true
+hkrul_skill_node_hrothgar_misc_09		wh3_dlc20_skill_chs_khorne_lord_marked_3		0	12		0	0	true
+hkrul_skill_node_hrothgar_misc_10		wh_dlc08_skill_nor_lords_unique_eye_of_the_gods		0	13		0	0	true
+hkrul_skill_node_hrothgar_misc_11		wh_main_skill_chs_lord_battle_voice_of_the_dark_gods		0	14		0	0	true
