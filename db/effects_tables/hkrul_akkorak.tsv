@@ -9,3 +9,5 @@ hkrul_akkorak_horse_morale	morale.png	300	morale.png	battle	true
 rhox_akkorak_knight_chance	merc_replen.png	1	merc_replen.png	campaign	true
 rhox_akkorak_knight_feature_dummy	merc_replen.png	1	merc_replen.png	campaign	true
 rhox_akkorak_horse_resource	mount.png	1	mount.png	campaign	true
+hkrul_akkorak_skinwolves_armour	armour.png	300	armour.png	battle	true
+hkrul_akkorak_skinwolves_mis_res	resistance_missile.png	300	resistance_missile.png	battle	true

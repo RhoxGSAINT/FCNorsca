@@ -58,3 +58,13 @@ unit_abilities_onscreen_name_hkrul_surtha_ek_speed_up	Chaotic Charge	true
 effects_description_hkrul_wolf_bite	Ability: "Savage Bite''	false
 unit_abilities_tooltip_text_hkrul_wolf_bite	A horrendous bite by a legendary Werekin is one only the fiercest champions recover from.	true
 unit_abilities_onscreen_name_hkrul_wolf_bite	Savage Bite	true
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	\\nReplenish this unit by achieving victories province with high Khorne corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	\\nReplenish this unit by achieving victories province with high Nurgle corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	\\nReplenish this unit by achieving victories province with high Slaanesh corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	\\nReplenish this unit by achieving victories province with high Tzeentch corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh_main_chs_mon_chaos_spawn	\\nReplenish this unit by achieving victories province with high Chaos Undivided corruption	false
+incidents_localised_description_rhox_varg_chaos_spawn_incident	Spawned	false
+incidents_localised_title_rhox_varg_chaos_spawn_incident	Chaos Spawn	false
+effects_description_rhox_varg_auto_colonise_dummy	Any ruined region in a province where Varg has an established settlement will eventually be automatically colonized at no cost.	false
+effects_description_rhox_varg_chaos_spawn_dummy	Chance to gain Chaos Spawn units upon achieving victory in the province with high Chaos corruption	false
+effects_description_rhox_varg_chaos_spawn_chance	Chance of getting Chaos Spawn after battle: %+n%	false

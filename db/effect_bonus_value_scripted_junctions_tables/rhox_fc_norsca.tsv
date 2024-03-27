@@ -3,3 +3,4 @@ bonus_value_id	effect	scripted_record
 value	rhox_birna_hunting_bonus	rhox_birna_hunting_bonus
 value	rhox_akkorak_knight_chance	rhox_akkorak_knight_chance
 value	rhox_drenok_ice_chance	rhox_drenok_bonus_chance
+value	rhox_varg_chaos_spawn_chance	rhox_varg_bonus_chance
