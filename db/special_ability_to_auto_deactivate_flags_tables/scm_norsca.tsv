@@ -19,3 +19,5 @@ unit_tier2_kills	hkrul_ulfric_axe_formation
 health_below_25%	hkrul_wolf_track
 morale_is_wavering_or_lower	hkrul_wolf_scratch
 losing_melee_combat	hkrul_hrothgar_passive
+allies_in_intercept_range	hkrul_ice_golem_stance
+moving	hkrul_ice_golem_walk

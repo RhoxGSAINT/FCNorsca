@@ -130,3 +130,10 @@ encourages	hkrul_hrothgar
 hide_forest	hkrul_hrothgar
 mark_khorne	hkrul_hrothgar
 causes_fear	hkrul_hrothgar
+causes_fear	dead_drenok_ice_golem
+charge_defense_vs_large	dead_drenok_ice_golem
+guerrilla_deploy	dead_drenok_ice_golem
+hide_forest	dead_drenok_ice_golem
+causes_terror	dead_drenok_greater_ice_golem
+wallbreaker	dead_drenok_greater_ice_golem
+construct	dead_drenok_greater_ice_golem

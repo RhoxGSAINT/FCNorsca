@@ -10,3 +10,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_dlc08_nor_mon_frost_wyrm_ror_0	hkrul_drenok_frostwyrm	false
 			hkrul_drenok_wolf	hkrul_drenok_ice_wolves	false
 			hkrul_drenok_wolf	wh2_dlc13_emp_elector_count_reward_units	false
+			dead_drenok_ice_golem	hkrul_drenok_ice_wolves	false
+			dead_drenok_greater_ice_golem	hkrul_drenok_ice_wolves	false
+			dead_drenok_ice_bears	hkrul_drenok_ice_wolves	false

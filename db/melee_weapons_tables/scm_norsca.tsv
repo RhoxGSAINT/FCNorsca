@@ -26,3 +26,6 @@ scm_norsca_huern_dual	0	15	390	140	3.0000	axe	axe	medium	8	1.8000	1.2500	0.0000	
 scm_norsca_alfkael_claws	0	0	100	240	2.0000	axe	claw	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false
 scm_norsca_uldsdau_dual_axes	20	0	110	300	5.0000	axe	axe	large	6	1.0000	1.2500	0.0000	false	wh_dlc08_unit_contact_frostbite	0	10	4.0000	wh2_dlc17_bst_ghorgon_ror	false
 hkrul_graill	20	0	110	300	5.0000	axe	axe	large	6	1.0000	1.2500	1.0000	false		0	10	4.0000	wh2_dlc17_bst_ghorgon_ror	false
+dead_drenok_ice_golem	0	0	60	26	2.0000	axe	club_medium	medium	3	1.0000	1.2500	0.0000	false	wh_dlc08_unit_contact_frostbite	0	10	4.0000		false
+dead_drenok_greater_ice_golem	0	25	150	450	12.0000	axe	club_huge	large	12	1.7000	1.2500	0.0000	false	wh_dlc08_unit_contact_frostbite	6	10	4.0000		false
+hkrul_drenok_ice_bear	35	0	42	35	5.0000	axe	claw	large	3	1.0000	1.0000	0.0000	false	wh_dlc08_unit_contact_frostbite	3	2	4.0000		false
