@@ -95,13 +95,17 @@ core:add_listener(
             local payload_builder = cm:create_payload()
             payload_builder:add_mercenary_to_faction_pool("dead_drenok_ice_golem", 1)  
             payload_builder:add_mercenary_to_faction_pool("dead_drenok_ice_bears", 1)
-            payload_builder:add_mercenary_to_faction_pool("dead_drenok_greater_ice_golem", 1)
+            if cm:model():random_percent(20) then--they're string
+                payload_builder:add_mercenary_to_faction_pool("dead_drenok_greater_ice_golem", 1)
+            end
             incident_builder:set_payload(payload_builder)
             cm:launch_custom_incident_from_builder(incident_builder, faction)
         else
             cm:add_units_to_faction_mercenary_pool(faction:command_queue_index(), "dead_drenok_ice_golem", 1)
             cm:add_units_to_faction_mercenary_pool(faction:command_queue_index(), "dead_drenok_ice_bears", 1)
-            cm:add_units_to_faction_mercenary_pool(faction:command_queue_index(), "dead_drenok_greater_ice_golem", 1)
+            if cm:model():random_percent(20) then--they're string
+                cm:add_units_to_faction_mercenary_pool(faction:command_queue_index(), "dead_drenok_greater_ice_golem", 1)
+            end
         end
     end,
     true
