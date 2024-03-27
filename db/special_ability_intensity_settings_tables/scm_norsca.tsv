@@ -6,3 +6,4 @@ hkrul_akkorak_horse	0.0000	200.0000	false	nearby_all_deaths	linear_multiplier
 hkrul_sarg_riders	0.0000	200.0000	false	kills_made	linear_multiplier
 wolftribe_abilities_frostaxe_aura	0.0000	100.0000	false	time_in_melee	linear_multiplier
 hkrul_wolf_stance	0.0000	200.0000	false	damage_taken	linear_multiplier
+hkrul_wolf_walk	0.0000	200.0000	false	nearby_all_deaths	linear_multiplier

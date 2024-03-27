@@ -67,7 +67,7 @@ unit_abilities_onscreen_name_hkrul_drenok_frostwyrm	Frozen Fury	false
 unit_abilities_tooltip_text_hkrul_drenok_frostwyrm	Creatures infused with chaotic corrupted black ice unravel in a bloodthirsty frenzy when close to the Greataxe of the Icefang.	false
 effects_description_hkrul_drenok_frostwyrm	Ability: "Frozen Fury" for Chaos Frost Dragon untis	false
 effects_description_hkrul_drenok_xp	Recruit rank: %+n for Chaos Frost Dragon units	false
-effect_bundles_localised_description_hkrul_drenok_faction_trait	Marauders of the Icefang Tribe seemingly put more faith in what they call ''The Great Axe'' than they do in he who wields it.	false
+effect_bundles_localised_description_hkrul_drenok_faction_trait	Drenok's journey is fraught with peril, for he seeks his father, Johan, once chieftain of the Icefangs, now possessed by a Daemon of Khorne. Their confrontation, a clash of mortal and Daemon, will shape the fate of Norsca and the New World.	false
 effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	false
 effects_description_rhox_drenok_winter_dummy	Ice Storms: Chaos infused hailstorms will be created upon capturing settlements with a Frozen or Chaotic Wasteland climate	false
 effect_bundles_localised_description_rhox_icefang_region_winter_storm	Harsh Winter	false
@@ -82,7 +82,7 @@ unit_abilities_onscreen_name_hkrul_drenok_greataxe	Greataxe of the Icefang	false
 unit_abilities_tooltip_text_hkrul_drenok_greataxe	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	false
 effects_description_hkrul_drenok_greataxe	Ability: "Greataxe of the Icefang''	false
 land_units_onscreen_name_dead_drenok_ice_golem	Lesser Ice Golems	false
-land_units_onscreen_name_dead_drenok_ice_bears	Ice Bear	false
+land_units_onscreen_name_dead_drenok_ice_bears	Corrupted Feral Ice Bears	false
 land_units_onscreen_name_dead_drenok_greater_ice_golem	Greater Ice Golem	false
 effects_description_rhox_akkorak_horse_resource	Chaos Steeds generated: %n	false
 effect_bundles_localised_description_rhox_akkorak_purchasable_speed	Faster Steed	false
@@ -93,8 +93,16 @@ effect_bundles_localised_description_rhox_akkorak_purchasable_melee_attack	Rough
 effect_bundles_localised_title_rhox_akkorak_purchasable_melee_attack	Rougher Steed	false
 effects_description_rhox_drenok_ice_chance	Chance corrupted Ice Forms into units: %+n%	false
 effects_description_rhox_drenok_ice_feature_dummy	Chance corrupted ice forms into powerful Ice Spirits when winning battles in Frozen wastes	false
-incidents_localised_description_rhox_drenok_ice_unit_incident	Ice ice baby	false
-incidents_localised_title_rhox_drenok_ice_unit_incident	Ice ice baby	false
-mercenary_unit_groups_replenishment_reason_dead_drenok_ice_golem	\\nReplenish this unit by achieving victories in Frozen or Chaos Waste climate (with Drenok Johansen only if you're not playing as Icefang Tribe)	false
-mercenary_unit_groups_replenishment_reason_dead_drenok_ice_bears	\\nReplenish this unit by achieving victories in Frozen or Chaos Waste climate (with Drenok Johansen only if you're not playing as Icefang Tribe)	false
-mercenary_unit_groups_replenishment_reason_dead_drenok_greater_ice_golem	\\nReplenish this unit by achieving victories in Frozen or Chaos Waste climate (with Drenok Johansen only if you're not playing as Icefang Tribe)	false
+incidents_localised_description_rhox_drenok_ice_unit_incident	As chaos stirs the Ice around the Greataxe molds and forms in to spirits of frost and fury.	false
+incidents_localised_title_rhox_drenok_ice_unit_incident	The Ice forms	false
+mercenary_unit_groups_replenishment_reason_dead_drenok_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
+mercenary_unit_groups_replenishment_reason_dead_drenok_ice_bears	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
+mercenary_unit_groups_replenishment_reason_dead_drenok_greater_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
+unit_description_short_texts_text_dead_drenok_greater_ice_golem	A towering mass of Chaos corrupted Ice formed into the very essence of frost and fury, hailing from the great glaciers of the North.	false
+unit_description_short_texts_text_dead_drenok_ice_golem	Pillars of ice infused with the essence of Chaos form and flock around the wielder of the Great Axe.	false
+unit_abilities_onscreen_name_hkrul_ice_golem_stance	Glacial Myth	false
+unit_abilities_tooltip_text_hkrul_ice_golem_stance	Greater Ice Golems are often mistaken for towering glaciers shrouded in myst and hail, they're unrelenting wrath unleashed upon daring wanderers only when least expected.	false
+unit_abilities_onscreen_name_hkrul_ice_golem_walk	Pillars of Frost	false
+unit_abilities_tooltip_text_hkrul_ice_golem_walk	When lesser Ice Golems stand still they freeze up once more returning in their rock solid state.	false
+unit_abilities_onscreen_name_hkrul_wolf_walk	Hunters of Fjirgard	false
+unit_abilities_tooltip_text_hkrul_wolf_walk	The women of Fjirgard pay tribute to the Werekin that inhabit the caves, as they rely on them to hunt precious food - be it men or beast.	false

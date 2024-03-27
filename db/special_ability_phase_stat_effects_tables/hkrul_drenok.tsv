@@ -5,3 +5,5 @@ hkrul_drenok_frostwyrm	stat_resistance_physical	15.0000	add
 hkrul_drenok_frostwyrm	stat_melee_damage_ap	1.3000	mult
 hkrul_contact_icefang	scalar_entity_acceleration_modifier	0.7000	mult
 hkrul_drenok_greataxe	stat_melee_damage_base	1.3000	mult
+hkrul_ice_golem_walk	scalar_bracing	1.2000	mult
+hkrul_ice_golem_walk	stat_armour	5.0000	add

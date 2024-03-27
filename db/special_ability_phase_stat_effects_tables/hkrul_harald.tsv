@@ -1,3 +1,5 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_harald			
 hkrul_harald_sword	stat_melee_damage_base	1.6000	mult
+hkrul_wolf_walk	scalar_charge_speed	1.3000	mult
+hkrul_wolf_walk	scalar_speed	1.2000	mult

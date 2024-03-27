@@ -69,3 +69,6 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 2	hkrul_hrothgar_god	true	false	false	hkrul_hrothgar_god_2
 3	hkrul_hrothgar_god	true	false	false	hkrul_hrothgar_god_3
 1	hkrul_hrothgar_passive	true	false	false	hkrul_hrothgar_passive
+1	hkrul_ice_golem_stance	true	false	false	hkrul_ice_golem_stance
+1	hkrul_ice_golem_walk	true	false	false	hkrul_ice_golem_walk
+1	hkrul_wolf_walk	true	false	false	hkrul_wolf_walk
