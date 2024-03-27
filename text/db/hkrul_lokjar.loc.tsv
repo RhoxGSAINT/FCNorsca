@@ -1,5 +1,5 @@
 key	text	tooltip
-#Loc;1;text/db/hkrul_lokjar_.loc		
+#Loc;1;text/db/hkrul_lokjar.loc		
 character_skills_localised_name_innate_hkrul_lokjar	Berserker of Legend	true
 character_skills_localised_description_innate_hkrul_lokjar	With eery vigour Lokjar wades across the front lines of any daring enemy warband.	true
 character_skills_localised_name_hkrul_lokjar_special_1_0	Stalwart Fury	true

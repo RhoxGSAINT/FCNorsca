@@ -700,6 +700,27 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
+    mixer_nor_fjordlings ={
+        leader={
+            subtype="wh_main_nor_marauder_chieftain",
+            unit_list="",
+            x=604,
+            y=911,
+            forename ="",
+            familiyname ="",
+        },	
+        region="wh3_main_combi_region_cliff_of_beasts",
+        how_they_play="rhox_fc_norsca_mixer_nor_fjordlings_how_they_play",
+        pic=800,
+        faction_trait="hkrul_vandred_faction_trait",
+        kill_previous_leader=true,
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
 }
 
 
