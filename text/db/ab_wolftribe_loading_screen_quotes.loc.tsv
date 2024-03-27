@@ -1,5 +1,5 @@
 key	text	tooltip
-#Loc;1;text/db/ab_wolftribe_loading_screen_quotes__.loc		
+#Loc;1;text/db/ab_wolftribe_loading_screen_quotes.loc		
 loading_screen_quotes_title_wolftribe_loading	Tribe of the Wolf	true
 loading_screen_quotes_description_wolftribe_loading	The Tribe of the Wolf is a band of warriors and hunters drawn by one man: Huern the Wolf, the “Black Wolf.” Many, though not all, of the tribesmen are Skin Wolves or Werekin, united in kinship and spirit as one pack. For now, the Tribe hunts over the tundras and mountains of the Naglfari Plain, but Huern and his pack may yet venture to more distant lands in search of greater quarry.	true
 loading_screen_quotes_bulletpoints_wolftribe_loading		true
