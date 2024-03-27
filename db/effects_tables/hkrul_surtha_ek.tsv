@@ -10,3 +10,4 @@ hkrul_surtha_chariots_upkeep	military_spending.png	300	military_spending.png	cam
 rhox_varg_auto_colonise_dummy	settlement.png	100	settlement.png	campaign	true
 rhox_varg_chaos_spawn_dummy	reign_of_chaos.png	200	reign_of_chaos.png	campaign	true
 rhox_varg_chaos_spawn_chance	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
+effect_bundle_varg_spawn	effect_bundle_varg_spawn.png	1	effect_bundle_varg_spawn.png	campaign	true

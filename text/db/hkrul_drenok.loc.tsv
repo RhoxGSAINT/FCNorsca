@@ -84,17 +84,17 @@ effects_description_hkrul_drenok_greataxe	Ability: "Greataxe of the Icefang''	fa
 land_units_onscreen_name_dead_drenok_ice_golem	Lesser Ice Golems	false
 land_units_onscreen_name_dead_drenok_ice_bears	Corrupted Feral Ice Bears	false
 land_units_onscreen_name_dead_drenok_greater_ice_golem	Greater Ice Golem	false
-effects_description_rhox_akkorak_horse_resource	Chaos Steeds generated: %n	false
-effect_bundles_localised_description_rhox_akkorak_purchasable_speed	Faster Steed	false
-effect_bundles_localised_title_rhox_akkorak_purchasable_speed	Faster Steed	false
-effect_bundles_localised_description_rhox_akkorak_purchasable_missile_resistance	Tougher Steed	false
-effect_bundles_localised_title_rhox_akkorak_purchasable_missile_resistance	Tougher Steed	false
-effect_bundles_localised_description_rhox_akkorak_purchasable_melee_attack	Rougher Steed	false
-effect_bundles_localised_title_rhox_akkorak_purchasable_melee_attack	Rougher Steed	false
+effects_description_rhox_akkorak_horse_resource	Chaos Steeds bred: %n	false
+effect_bundles_localised_description_rhox_akkorak_purchasable_speed	Some Chaos Steeds are bred with a constant state of frenzy, causing them to reach unnatural speeds.	false
+effect_bundles_localised_title_rhox_akkorak_purchasable_speed	Frenzied Steeds	false
+effect_bundles_localised_description_rhox_akkorak_purchasable_missile_resistance	Some Chaos Steeds are bred with the unnatural scales of the plaguefather, making them more resistant.	false
+effect_bundles_localised_title_rhox_akkorak_purchasable_missile_resistance	Mutated Steeds	false
+effect_bundles_localised_description_rhox_akkorak_purchasable_melee_attack	Some Chaos Steeds are bred with unnatural appetites for flesh and blood.	false
+effect_bundles_localised_title_rhox_akkorak_purchasable_melee_attack	Bloodthirsty Steeds	false
 effects_description_rhox_drenok_ice_chance	Chance corrupted Ice Forms into units: %+n%	false
 effects_description_rhox_drenok_ice_feature_dummy	Chance corrupted ice forms into powerful Ice Spirits when winning battles in Frozen wastes	false
 incidents_localised_description_rhox_drenok_ice_unit_incident	As chaos stirs the Ice around the Greataxe molds and forms in to spirits of frost and fury.	false
-incidents_localised_title_rhox_drenok_ice_unit_incident	The Ice forms	false
+incidents_localised_title_rhox_drenok_ice_unit_incident	The ice molds	false
 mercenary_unit_groups_replenishment_reason_dead_drenok_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
 mercenary_unit_groups_replenishment_reason_dead_drenok_ice_bears	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
 mercenary_unit_groups_replenishment_reason_dead_drenok_greater_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
@@ -103,6 +103,6 @@ unit_description_short_texts_text_dead_drenok_ice_golem	Pillars of ice infused w
 unit_abilities_onscreen_name_hkrul_ice_golem_stance	Glacial Myth	false
 unit_abilities_tooltip_text_hkrul_ice_golem_stance	Greater Ice Golems are often mistaken for towering glaciers shrouded in myst and hail, they're unrelenting wrath unleashed upon daring wanderers only when least expected.	false
 unit_abilities_onscreen_name_hkrul_ice_golem_walk	Pillars of Frost	false
-unit_abilities_tooltip_text_hkrul_ice_golem_walk	When lesser Ice Golems stand still they freeze up once more returning in their rock solid state.	false
+unit_abilities_tooltip_text_hkrul_ice_golem_walk	When lesser Ice Golems stand still they freeze up, once more returning in their rock solid state.	false
 unit_abilities_onscreen_name_hkrul_wolf_walk	Hunters of Fjirgard	false
 unit_abilities_tooltip_text_hkrul_wolf_walk	The women of Fjirgard pay tribute to the Werekin that inhabit the caves, as they rely on them to hunt precious food - be it men or beast.	false

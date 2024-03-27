@@ -40,7 +40,7 @@ unit_abilities_onscreen_name_hkrul_hakka_gaze	Khorne's Gaze	true
 effects_description_hkrul_hakka_berserker_speed	Speed: %+n% for Marauder Berserker units	true
 effects_description_rhox_aesling_khorne_dedicated_dummy	Dedicated to Khorne: May only devote himself to Khorne	false
 effects_description_rhox_aesling_skull_feature_dummy	Can send a tribute of [[img:icon_skulls]][[/img]]Skulls to the Blood God	false
-effect_bundles_localised_description_hkrul_hakka_faction_trait	Aesling marauders willingly dedicate themselves to their own true lord, the God of Slaughter, carnage incarnate - Khorne.	false
+effect_bundles_localised_description_hkrul_hakka_faction_trait	The embodiment of Khorne's wrath, leads his warriors with unmatched zeal and unyielding determination. With each swing of his twin axes, he carves a path of carnage, his battle cries echoing across the battlefield, inspiring fear and awe in equal measure among friend and foe alike.	false
 effect_bundles_localised_title_hkrul_hakka_faction_trait	The Devoted Aesling	false
 effects_description_rhox_aesling_armies_will_spawn_dummy	{{tr:khorne_spawned_armies}} will be spawned upon razing settlements for the Hound	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_spear	Aesling Spearmen	false

@@ -388,43 +388,43 @@ effect_bundles_localised_description_wolftribe_payload_scm_norsca_asta_join	Huer
 effect_bundles_localised_title_wolftribe_payload_scm_norsca_asta_join	The Forester's Daughter	true
 effect_bundles_localised_description_wolftribe_payload_hidolfr_join	Belonging to an older tradition than the mystics who draw their power solely from the Ruinous Powers, Alfkael the Bloodfather is a legendary Vitki of Norsca. “Old One-Eye,” as he is called, wanders the frozen ice sheets and towering peaks, seeking wisdom amidst the wild and tempestuous Winds of Magic and the winter stars. When Alfkael drifts into a Norscan village or tribal hold, all folk – from the greatest king to the humblest thrall – make a space for him by the fire and gather to hear his tales.\\n\\nWe have received word that Old One-Eye is currently on an island in the Northern Sea of Chaos. We should send a messenger to invite him to our lands, for his presence would surely bring fortune in our endeavours! 	true
 effect_bundles_localised_title_wolftribe_payload_hidolfr_join	The Wise One	true
-agent_subtypes_onscreen_name_override_scm_norsca_asta	Legendary Huntress	true
-agent_subtypes_description_text_override_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+agent_subtypes_onscreen_name_override_scm_norsca_asta	Legendary Hero	true
+agent_subtypes_description_text_override_scm_norsca_asta	Sold by Aesling slavers to a Bretonnian Noble, Asta - wife of Einarr Sigdansson - vowed to take her revenge and reunite with her tribe.	true
 land_units_onscreen_name_scm_norsca_asta	Asta of Vinnskor	true
-unit_description_short_texts_text_wolftribe_short_text_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-unit_description_historical_texts_text_wolftribe_long_text_scm_norsca_asta	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-unit_description_short_texts_text_scm_norsca_asta_02	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
-unit_description_historical_texts_text_scm_norsca_asta_02	Born in the forests of Bretonnia, Asta is Huern's wife and the chieftess of the Tribe of the Wolf. Her skill as a huntress and leader are renowned.	true
+unit_description_short_texts_text_wolftribe_short_text_scm_norsca_asta	Sold by Aesling slavers to a Bretonnian Noble, Asta - wife of Einarr Sigdansson - vowed to take her revenge and reunite with her tribe.	true
+unit_description_historical_texts_text_wolftribe_long_text_scm_norsca_asta	Sold by Aesling slavers to a Bretonnian Noble, Asta - wife of Einarr Sigdansson - vowed to take her revenge and reunite with her tribe.	true
+unit_description_short_texts_text_scm_norsca_asta_02	Sold by Aesling slavers to a Bretonnian Noble, Asta - wife of Einarr Sigdansson - vowed to take her revenge and reunite with her tribe.	true
+unit_description_historical_texts_text_scm_norsca_asta_02	Sold by Aesling slavers to a Bretonnian Noble, Asta - wife of Einarr Sigdansson - vowed to take her revenge and reunite with her tribe.	true
 land_units_onscreen_name_scm_norsca_asta_02	Asta of Vinnskor	true
 land_units_concealed_name_scm_norsca_asta_02		true
 ancillaries_colour_text_wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	Gjálfr is an enormous ice wolf who once dominated the packs of Norsca. Now, he is Asta's loyal companion on her hunts.	false
 ancillaries_onscreen_name_wolftribe_anc_mount_nor_scm_norsca_asta_gjalfr	Gjálfr	false
-character_skills_localised_name_wolftribe_skill_innate_foresters_daughter	The Forester's Daughter	false
-character_skills_localised_name_wolftribe_skill_self_healers_touch	Healer's Touch	false
+character_skills_localised_name_wolftribe_skill_innate_foresters_daughter	Daughter of Vinnskor	false
+character_skills_localised_name_wolftribe_skill_self_healers_touch	Chieftess of the Tribe	false
 character_skills_localised_name_wolftribe_skill_self_hunters_traps	Hunter's Traps	false
-character_skills_localised_name_wolftribe_skill_self_fierce_beauty	Fierce Beauty	false
-character_skills_localised_name_wolftribe_skill_self_keen_minded_ruler	Keen-Minded Ruler	false
-character_skills_localised_name_wolftribe_skill_self_scm_norsca_asta_honorguard	Asta’s Honorguard	false
-character_skills_localised_name_wolftribe_skill_self_chieftess_of_wolves	Chieftess of the Wolves	false
-character_skills_localised_name_wolftribe_skill_unique_vengeful_daughter	Vengeful Daughter	false
+character_skills_localised_name_wolftribe_skill_self_fierce_beauty	Eagle's Blessing	false
+character_skills_localised_name_wolftribe_skill_self_keen_minded_ruler	Tribal Affairs	false
+character_skills_localised_name_wolftribe_skill_self_scm_norsca_asta_honorguard	Asta’s Recipes	false
+character_skills_localised_name_wolftribe_skill_self_chieftess_of_wolves	Saga of the Steelfist	false
+character_skills_localised_name_wolftribe_skill_unique_vengeful_daughter	Free and Vengeful	false
 character_skills_localised_name_wolftribe_skill_unique_resourceful_huntress	Resourceful Huntress	false
 character_skills_localised_name_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	Asta of Vinnskor	false
 character_skills_localised_name_wolftribe_skill_scm_norsca_asta_mount_gjalfr	Gjálfr	false
 character_skills_localised_description_wolftribe_skill_dummy_actions_scm_norsca_asta		false
-character_skills_localised_description_wolftribe_skill_innate_foresters_daughter	Vivienne d’Arden grew up in the deep woods of Artois, tracking game and caring for the forest alongside her father. Such a childhood made her skilled, clever, and brave.	false
-character_skills_localised_description_wolftribe_skill_self_healers_touch	The foresters of Bretonnia have an intimate knowledge of the medicinal plants and remedies of the wilds, and it was with this knowledge that Asta saved Huern as he lay dying in the Forest of Arden.	false
+character_skills_localised_description_wolftribe_skill_innate_foresters_daughter	The fiercest of Shieldmaidens of the Baersonling is Asta of Vinnskor, huntress and champion of unparalled skill.	false
+character_skills_localised_description_wolftribe_skill_self_healers_touch	The Chieftess of the Baersonling supports the Jarl not just as her ruler, but as his most loyal, beloved and trusted advisor. An unbreakable bond indeed.	false
 character_skills_localised_description_wolftribe_skill_self_hunters_traps	Whether in the forests of Bretonnia or the frigid wastes of the north, traps and preparation have served Asta well in her hunts.	false
-character_skills_localised_description_wolftribe_skill_self_fierce_beauty	When Huern first returned to the Naglfari Plain with his Bretonnian bride, his tribesmen viewed her with suspicion and contempt. Now, her fierce beauty and cleverness inspire admiration throughout Norsca.	false
-character_skills_localised_description_wolftribe_skill_self_keen_minded_ruler	Within the Tribe of the Wolf, it is Asta, not Huern, who manages the day-to-day affairs. Her gift for numbers and logistics have blessed the tribe with prosperity.	false
-character_skills_localised_description_wolftribe_skill_self_scm_norsca_asta_honorguard	Huern has assigned a group of his strongest warriors to serve as Asta’s personal guard, and these men are devoted to their chieftess.	false
-character_skills_localised_description_wolftribe_skill_self_chieftess_of_wolves	Asta and Huern’s bond is one of devotion, passion, and united purpose. When Asta calls, the Tribe of the Wolf answers without hesitation.	false
-character_skills_localised_description_wolftribe_skill_unique_vengeful_daughter	Asta’s father was killed when she was only a teen – falsely accused of poaching and strung up from a ducal gallows. Since that day, she’s had no love for Bretonnia.	false
-character_skills_localised_description_wolftribe_skill_unique_resourceful_huntress	Raised in Bretonnian forests and now at home in the frozen lands of Norsca, Asta is capable of finding or creating the tools she needs for her hunts.	false
-character_skills_localised_description_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	When Vivenne d’Arden left Bretonnia aboard Huern’s ship, the grey and foamy waves represented freedom. From that day on, she has adopted the Norscan name “Asta,” meaning “child of the sea."	false
-character_skills_localised_description_wolftribe_skill_scm_norsca_asta_mount_gjalfr	When Asta first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
+character_skills_localised_description_wolftribe_skill_self_fierce_beauty	Like her spouse, Asta is blessed by the Great Eagle - the changer of ways. They're loyalty to each other only matched by their loyalty to him.	false
+character_skills_localised_description_wolftribe_skill_self_keen_minded_ruler	It is Asta, not Einarr, who manages the day-to-day affairs. Her gift for numbers and logistics have blessed the tribe with prosperity.	false
+character_skills_localised_description_wolftribe_skill_self_scm_norsca_asta_honorguard	Handed down from generation to generation, Asta uses the recipes of the frozen planes to feed the tribal warriors. The finest way to invigorate the frontline.	false
+character_skills_localised_description_wolftribe_skill_self_chieftess_of_wolves	Asta and Einarr's bond is one of devotion, passion, and united purpose. When Asta calls, the Baersonling Berserkers answer without hesitation.	false
+character_skills_localised_description_wolftribe_skill_unique_vengeful_daughter	After the sacking of Vinnskor the Aesling sold Asta amongst the other slaves to a Bretonnian Noble, the undespicable torture she had to undergo still fuels her heart with mindless rage.	false
+character_skills_localised_description_wolftribe_skill_unique_resourceful_huntress	Hiding in Bretonnian forests after escaping her faith, Asta is capable of finding or creating the tools she needs for her hunts.	false
+character_skills_localised_description_wolftribe_skill_unique_scm_norsca_asta_of_the_wood	Asta of Vinnskor may count her prowess among the shieldmaidens of the old Saga's. A valkyre in name and tale.	false
+character_skills_localised_description_wolftribe_skill_scm_norsca_asta_mount_gjalfr	Greatest among the wonders she encountered on her hunts near the Frozen Landing was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
 character_skills_localised_description_wolftribe_skill_scm_norsca_asta_dummy	[HIDDEN]	false
 character_skills_localised_name_wolftribe_skill_scm_norsca_asta_dummy	[HIDDEN]	false
-units_custom_battle_mounts_localised_description_scm_norsca_astascm_norsca_asta_02	When Asta first arrived in Norsca, she marveled at the beauty of the frozen peaks and the frigid sea. Greatest among the wonders she encountered was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
+units_custom_battle_mounts_localised_description_scm_norsca_astascm_norsca_asta_02	Greatest among the wonders she encountered on her hunts near the Frozen Landing was Gjálfr, an ice wolf of incomparable size. Now, woman and wolf are inseparable companions.	false
 units_custom_battle_mounts_mount_name_scm_norsca_astascm_norsca_asta_02	Gjálfr	false
 effects_description_wolftribe_bonus_melee_defence_fighting_against_bretonnia	Melee defence: %+n when fighting against Bretonnia	false
 effects_description_wolftribe_enable_summon_champions	Ability: "Summon the Honorguard"	false
