@@ -27,3 +27,8 @@ dead_drenok_ice_golem	0.0000	0	dead_drenok_ice_golem	true	0.0000
 dead_drenok_ice_bears	0.0000	0	dead_drenok_ice_bears	true	0.0000
 dead_drenok_greater_ice_golem	0.0000	0	dead_drenok_greater_ice_golem	true	0.0000
 rhox_bjornling_huscarl_ror	100.0000	1	rhox_bjornling_huscarl_ror	true	0.1000
+rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_main_kho_mon_spawn_of_khorne_0	false	0.0000
+rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	0.0000	0	wh3_main_nur_mon_spawn_of_nurgle_0	false	0.0000
+rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	0.0000	0	wh3_main_sla_mon_spawn_of_slaanesh_0	false	0.0000
+rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	0.0000	0	wh3_main_tze_mon_spawn_of_tzeentch_0	false	0.0000
+rhox_varg_wh_main_chs_mon_chaos_spawn	0.0000	0	wh_main_chs_mon_chaos_spawn	false	0.0000

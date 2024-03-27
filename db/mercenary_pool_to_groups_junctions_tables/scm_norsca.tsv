@@ -28,3 +28,8 @@ key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tec
 1052539245	dead_drenok_ice_bears	1	rhox_drenok_ice			
 1052539246	dead_drenok_greater_ice_golem	1	rhox_drenok_ice			
 1052539247	rhox_bjornling_huscarl_ror	0	wh_dlc08_nor_units_of_renown_pool			
+1052539248	rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	0	rhox_varg_spawn			
+1052539249	rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	0	rhox_varg_spawn			
+1052539250	rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	0	rhox_varg_spawn			
+1052539251	rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	0	rhox_varg_spawn			
+1052539252	rhox_varg_wh_main_chs_mon_chaos_spawn	0	rhox_varg_spawn			

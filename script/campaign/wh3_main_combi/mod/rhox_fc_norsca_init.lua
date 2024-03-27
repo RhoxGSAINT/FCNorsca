@@ -583,6 +583,38 @@ local rhox_faction_list={
                 mm:add_payload("text_display rhox_varg_hrothgar_joins");
                 mm:trigger()
             end
+            
+            local function rhox_add_faction_varg_pool_units (faction_obj, unit_group)
+                for i, v in pairs(unit_group) do
+                    cm:add_unit_to_faction_mercenary_pool(
+                        faction_obj,
+                        v[1], -- key
+                        v[2], -- recruitment source
+                        v[3], -- count
+                        v[4], --replen chance
+                        v[5], -- max units
+                        0, -- max per turn
+                        "",	--faction restriction
+                        "",	--subculture restriction
+                        "",	--tech restriction
+                        false, --partial
+                        "rhox_varg_"..v[1]
+                    );
+                end	
+            end
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+            local rhox_varg_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_main_kho_mon_spawn_of_khorne_0", "nurgle_buildings", 0, 0, 20},
+                    {"wh3_main_nur_mon_spawn_of_nurgle_0", "nurgle_buildings", 0, 0, 20},
+                    {"wh3_main_sla_mon_spawn_of_slaanesh_0", "nurgle_buildings", 0, 0, 20},
+                    {"wh3_main_tze_mon_spawn_of_tzeentch_0", "nurgle_buildings", 0, 0, 20},
+                    {"wh_main_chs_mon_chaos_spawn", "nurgle_buildings", 0, 0, 20},
+            }
+            
+            rhox_add_faction_varg_pool_units(faction, rhox_varg_units)
+            
         end,
         first_tick = function(faction, faction_key) 
         end

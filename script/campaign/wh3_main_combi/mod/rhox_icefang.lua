@@ -32,7 +32,7 @@ core:add_listener(
 
 
 core:add_listener(
-    "rhox_Beorg_confederation",
+    "rhox_icefang_confederation",
     "FactionJoinsConfederation",
     function(context)
         return context:confederation():culture() == "wh_dlc08_nor_norsca" and context:faction():name() == "wh_dlc08_nor_vanaheimlings"
