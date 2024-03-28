@@ -80,8 +80,8 @@ cm:add_first_tick_callback(
                 );
             end
         end
-        local faction = cm:get_faction("wh_main_nor_varg")
-        if faction:is_human() == false and cm:model():turn_number() < 25 then
+        local varg_faction = cm:get_faction("wh_main_nor_varg")
+        if varg_faction:is_human() == false and cm:model():turn_number() < 25 then
             core:add_listener(
                 "rhox_fc_norsca_lh_ai_hrothgar",
                 "FactionTurnStart",
@@ -93,6 +93,30 @@ cm:add_first_tick_callback(
                 function(context)
                     local faction = context:faction()
                     cm:spawn_unique_agent(faction:command_queue_index(),"hkrul_hrothgar", true)
+                end,
+                false
+            );
+        end
+        
+        
+        local baersonling_faction = cm:get_faction("wh_main_nor_baersonling")
+        if baersonling_faction:is_human() and cm:model():turn_number() < 5 then
+            core:add_listener(
+                "rhox_fc_norsca_lh_asta_helper",
+                "FactionTurnStart",
+                function(context)
+                    local faction = context:faction()
+                    local turn = cm:model():turn_number();
+                    return faction:name() == "wh_main_nor_baersonling" and turn ==5
+                end,
+                function(context)
+                    local faction = context:faction()
+                    local mm = mission_manager:new(faction:name(), "rhox_fc_norsca_asta_hint")
+                    mm:add_new_objective("CAPTURE_REGIONS");
+                    mm:add_condition("region wh3_main_combi_region_temple_of_heimkel");
+                    mm:add_condition("ignore_allies");
+                    mm:add_payload("money 1000");
+                    mm:trigger()
                 end,
                 false
             );
