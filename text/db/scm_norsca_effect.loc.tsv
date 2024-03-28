@@ -19,5 +19,5 @@ effects_description_rhox_thorgar_confederation_effect	Income from all buildings:
 effects_description_rhox_sarg_confederation_effect	Speed: %+n% for each confederated Norscan tribe	false
 effects_description_rhox_varg_confederation_effect	Weapon strength: %+n% for Chaos Chariots units for each confederated Norscan tribe	false
 effects_description_rhox_wolf_confederation_effect	Weapon strength: %+n% for Skin Wolf, Norscan Ice Wolves & Norscan Warhound units for each confederated Norscan tribe	false
-effects_description_rhox_fc_norsca_bloodfather_dummy	Triggers the mission for Alfkael the Bloodfather	false
-effects_description_rhox_fc_norsca_asta_dummy	Triggers the mission for Asta of the Wood	false
+effects_description_rhox_fc_norsca_bloodfather_dummy	A mission is triggered to unlock a powerful Legendary Hero	false
+effects_description_rhox_fc_norsca_asta_dummy	A mission is triggered to unlock a powerful Legendary Hero	false
