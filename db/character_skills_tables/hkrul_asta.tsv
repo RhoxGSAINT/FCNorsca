@@ -14,3 +14,4 @@ wolftribe_skill_scm_norsca_asta_mount_gjalfr	mount_giant_wolf.png		Gjálfr	1	fal
 wolftribe_skill_dummy_actions_scm_norsca_asta	battle_attack.png		Actions [HIDDEN]	0	false	false	false	0.0000	0
 wolftribe_skill_scm_norsca_asta_dummy	item_weapon.png	[HIDDEN]	[HIDDEN]	0	false	false	false	0.0000	0
 wolftribe_scm_norsca_asta_ardenwood_bow	item_weapon.png			10	false	false	false	0.0000	0
+wolftribe_skill_unique_scm_hkrul_asta_arrow	hkrul_asta_special_asta.png		Asta of the Wood	14	false	false	false	0.0000	0

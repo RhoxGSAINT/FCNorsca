@@ -125,7 +125,7 @@ wolftribe_scm_norsca_asta_campaign_02		wh2_main_skill_all_hero_passive_boost_inc
 wolftribe_scm_norsca_asta_campaign_03		wh2_main_skill_all_hero_assist_army_training		5	2		0	0	true
 wolftribe_scm_norsca_asta_campaign_04		wh2_main_skill_all_hero_hinder_agent_wound		5	3		0	0	true
 wolftribe_scm_norsca_asta_campaign_05		wh2_main_skill_all_hero_hinder_army_assault_unit		5	4		0	0	true
-wolftribe_scm_norsca_asta_combat_ranged_1_5		wh_dlc05_skill_wef_general_personal_buff_ranged_ability_high_tier_killer_2		2	5		0	4	true
+wolftribe_scm_norsca_asta_combat_ranged_1_5		wolftribe_skill_unique_scm_hkrul_asta_arrow		2	5		0	4	true
 wolftribe_scm_norsca_asta_combat_melee_0		wh2_main_skill_hef_combat_graceful_strikes		3	0		0	0	true
 wolftribe_scm_norsca_asta_combat_melee_1_1		wh_main_skill_all_spy_self_fleet-footed		3	1		0	0	true
 wolftribe_scm_norsca_asta_combat_melee_1_2		wh_main_skill_all_all_self_thick-skinned		3	2		0	0	true
@@ -136,9 +136,8 @@ wolftribe_scm_norsca_asta_combat_ranged_0		wh2_dlc13_skill_emp_wulfhart_ranged_0
 wolftribe_scm_norsca_asta_combat_ranged_1_1		wh_dlc05_skill_wef_general_personal_buff_extra_reload		2	1		0	0	true
 wolftribe_scm_norsca_asta_combat_ranged_1_2		wh_dlc05_skill_wef_general_personal_buff_missile_damage		2	2		0	0	true
 wolftribe_scm_norsca_asta_combat_ranged_1_3		wh_dlc05_skill_wef_general_personal_buff_ammunition		2	3		0	0	true
-wolftribe_scm_norsca_asta_combat_ranged_1_4		wh_dlc05_skill_wef_general_personal_buff_battle_speed		2	4		0	0	true
+wolftribe_scm_norsca_asta_combat_ranged_1_4		wh2_dlc11_skill_wef_lord_self_expeditious_endeavour		2	4		0	0	true
 wolftribe_scm_norsca_asta_unique_1		wolftribe_skill_scm_norsca_asta_mount_gjalfr		0	0		0	0	true
-wolftribe_scm_norsca_asta_unique_2		wh_main_skill_emp_champion_unique_hold_the_line		0	1		0	0	true
 wolftribe_scm_norsca_asta_unique_3		wolftribe_skill_unique_vengeful_daughter		0	2		0	0	true
 wolftribe_scm_norsca_asta_innate_foresters_daughter		wolftribe_skill_innate_foresters_daughter		6	0		0	0	true
 wolftribe_scm_norsca_asta_unique_4		wolftribe_skill_unique_resourceful_huntress		0	3		0	0	true

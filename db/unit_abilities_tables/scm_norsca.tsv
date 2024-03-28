@@ -79,3 +79,6 @@ hkrul_hrothgar_god	true	hkrul_hrothgar_god		wh_type_augment		wh_main_anc_group_u
 hkrul_ice_golem_stance	false	hkrul_ice_golem_stance		wh_type_regeneration		wh_main_anc_group_rare	true	false	passive		false
 hkrul_ice_golem_walk	false	hkrul_ice_golem_lesser		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_wolf_walk	false	hkrul_wolf_walk		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_asta_arrow	true	hkrul_asta_arrow		wh_type_augment		wh_main_anc_group_uncommon	true	false	active		false
+hkrul_asta_food	true	hkrul_asta_food		wh_type_area_of_regeneration		wh_main_anc_group_rare	true	false	active		false
+hkrul_asta_food_passive	true	hkrul_asta_food_passive		wh_type_area_of_regeneration		wh_main_anc_group_rare	true	false	passive		false

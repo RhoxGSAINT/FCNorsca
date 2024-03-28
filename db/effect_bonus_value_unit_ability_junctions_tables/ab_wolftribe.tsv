@@ -14,3 +14,6 @@ wolftribe_enable_summon_champions	enable	wolftribe_summon_champions
 hkrul_wolf_bite	enable	hkrul_wolf_bite
 hkrul_wolf_scratch	enable	hkrul_wolf_scratch
 hkrul_wolf_track	enable	hkrul_wolf_track
+hkrul_asta_arrow	enable	hkrul_asta_arrow
+hkrul_asta_food	enable	hkrul_asta_food
+hkrul_asta_food_passive	enable	hkrul_asta_food_passive

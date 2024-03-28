@@ -20,3 +20,5 @@ hkrul_wolf_moon_2	stat_melee_damage_base	1.2400	mult
 hkrul_wolf_moon_3	stat_bonus_vs_large	22.0000	add
 hkrul_wolf_moon_3	stat_melee_damage_ap	1.3600	mult
 hkrul_wolf_moon_3	stat_melee_damage_base	1.3600	mult
+hkrul_asta_arrow	scalar_missile_range	1.2000	mult
+hkrul_asta_arrow	stat_accuracy	40.0000	add
