@@ -19,25 +19,25 @@ effect_bundles_localised_description_packlord_hunter_reward_nur		false
 effect_bundles_localised_description_packlord_hunter_reward_tzc		false
 effect_bundles_localised_description_packlord_hunter_reward_olr		false
 wh_dlc08_skill_all_dummy_agent_actions_wolftribe_shaman		false
-character_skills_localised_name_wolftribe_skill_innate_one_eye	The One-Eyed	false
+character_skills_localised_name_wolftribe_skill_innate_one_eye	Skraevold's Bloodfather	false
 character_skills_localised_name_wolftribe_skill_self_call_of_the_pack	Call of the Pack	false
-character_skills_localised_name_wolftribe_skill_self_frost_father	Frost Father	false
-character_skills_localised_name_wolftribe_skill_self_honored_forefather	Honored Forefather	false
-character_skills_localised_name_wolftribe_skill_self_mead	Mead of the Gods	false
-character_skills_localised_name_wolftribe_skill_self_songs_sagas	Songs and Sagas	false
-character_skills_localised_name_wolftribe_skill_self_wind_walker	Wind Walker	false
-character_skills_localised_name_wolftribe_skill_self_wise_one	Wise One	false
-character_skills_localised_name_wolftribe_skill_unique_wisdom	The Wanderer's Wisdom	false
+character_skills_localised_name_wolftribe_skill_self_frost_father	Smouldering Might	false
+character_skills_localised_name_wolftribe_skill_self_honored_forefather	Rampage's Reign	false
+character_skills_localised_name_wolftribe_skill_self_mead	Blood Offering	false
+character_skills_localised_name_wolftribe_skill_self_songs_sagas	Fleshrend's Grasp	false
+character_skills_localised_name_wolftribe_skill_self_wind_walker	Relentless Pursuit	false
+character_skills_localised_name_wolftribe_skill_self_wise_one	Bonecrusher's Zeal	false
+character_skills_localised_name_wolftribe_skill_unique_wisdom	Runes of Bloodlust	false
 character_skills_localised_description_wh_dlc08_skill_all_dummy_agent_actions_wolftribe_shaman		false
-character_skills_localised_description_wolftribe_skill_innate_one_eye	Old One-Eye is a local legend. Some say the wanderer is a champion of old blessed with immortality. All admire his journeys.	false
+character_skills_localised_description_wolftribe_skill_innate_one_eye	Alfkaell, Bloodfather of the Aeslings, wields Khorne's fury, his visage draped in bearskin, eyes of sapphire, and a staff named "Nithi" adorned with victims' bones	false
 character_skills_localised_description_wolftribe_skill_mount_ice_wolf_chariot	Alfkael rides into battle in his wolf-drawn chariot, lashed together with the guts and sinew of the vanquished.	false
-character_skills_localised_description_wolftribe_skill_self_frost_father	Old One-Eye has walked Norsca’s lands for countless years. His blood is ice, his eye the thunderous snowclouds.	false
-character_skills_localised_description_wolftribe_skill_self_honored_forefather	To the Tribe of the Wolf, Alfkael stands apart and above tribal rankings. He is more than a man, more than a wolf. He is an honored ancestor.	false
-character_skills_localised_description_wolftribe_skill_self_mead	During feasts in the great halls, Alfkael swears that the mead he carries is blessed by the Ruinous Powers.	false
-character_skills_localised_description_wolftribe_skill_self_songs_sagas	When Alfkael visits a village, jarls and bondsmen gather to hear his tales of glory and courage.	false
-character_skills_localised_description_wolftribe_skill_self_wind_walker	Alfkael spends as much time walking through the icy winds of Norsca as he does by a great hall’s hearth, and he can perceive the Winds better than most.	false
-character_skills_localised_description_wolftribe_skill_self_wise_one	The One-Eyed is a much-respected figure amongst the Norsemen, inspiring young warriors to fight harder and impress him.	false
-character_skills_localised_description_wolftribe_skill_unique_wisdom	Years spent wandering, fighting, and reflecting have left Alfkael with a wisdom rivalled by few, if any, throughout Norsca.	false
+character_skills_localised_description_wolftribe_skill_self_frost_father	Haunting whispers surround Alfkaell, cursing his enemies and sowing seeds of despair in their hearts	false
+character_skills_localised_description_wolftribe_skill_self_honored_forefather	In the crimson haze of slaughter, Alfkaell discerns the hidden truths of battle, guiding his every strike.	false
+character_skills_localised_description_wolftribe_skill_self_mead	The fallen chant in the shadows, their whispers fueling Alfkaell's relentless advance.	false
+character_skills_localised_description_wolftribe_skill_self_songs_sagas	he hunt calls to Alfkaell, guiding him unerringly to his prey with primal precision.	false
+character_skills_localised_description_wolftribe_skill_self_wind_walker	 Even in the face of insurmountable odds, Alfkaell stands unyielding, his resolve an unbreakable shield.	false
+character_skills_localised_description_wolftribe_skill_self_wise_one	Alfkaell bears the mark of the Khagan, a symbol of his status as a chosen vessel of Khorne's wrath.	false
+character_skills_localised_description_wolftribe_skill_unique_wisdom	Ancient runes writhe with power, amplifying Alfkaell's fury and unleashing devastation upon his foes.	false
 hunting_camp_main	Packlord Hunting Camp	true
 hunting_camp_beast_packs	Beast Packs	true
 hunting_camp_shrine	Shrine to Olric	true
@@ -122,7 +122,7 @@ ui_unit_groupings_onscreen_nor_skin_wolf_lord	Skin Wolf Packlord	false
 ui_unit_groupings_tooltip_nor_skin_wolf_lord		false
 effect_bundles_localised_title_wh_mod_lord_trait_nor_naglfarings	The Wolfpack	true
 effect_bundles_localised_description_wh_mod_lord_trait_nor_naglfarings	The Wolf Chieftain commands Wolf and Skinwolf into battle and they obey every command.	true
-campaign_effect_scopes_localised_text_faction_to_commander_own	\\n(all lords)	true
+campaign_effect_scopes_localised_text_faction_to_commander_own	\\n(all Lords)	true
 campaign_effect_scopes_localised_text_faction_to_enemy_army_own_territory	\\n(all enemy armies in own region)	true
 character_trait_levels_onscreen_name_packlord_hunter_trait_ocean_hunter	Leviathan Hunter	false
 character_trait_levels_onscreen_name_packlord_hunter_trait_forest_hunter	Deepwood Tracker	false
@@ -341,8 +341,8 @@ unit_abilities_tooltip_text_wolftribe_ability_rally_the_tribe	Back! Once more in
 agent_subtypes_onscreen_name_override_scm_norsca_alfkael	Legendary Vitki	true
 agent_subtypes_description_text_override_scm_norsca_alfkael	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 land_units_onscreen_name_scm_norsca_alfkael	Alfkael the Bloodfather	true
-unit_description_short_texts_text_wolftribe_short_text_hidolfr	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-unit_description_historical_texts_text_wolftribe_long_text_hidolfr	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+unit_description_short_texts_text_wolftribe_short_text_hidolfr	The Bloodfather of the Aeslings, guides them down Khorne's path whilst the tribe worship his staff ''Nithi'' - which is blessed by the Bloodgod himself.	true
+unit_description_historical_texts_text_wolftribe_long_text_hidolfr	Alfkaell, a sapphire-eyed seer draped in bearskin, was Bloodfather of the Aeslings, guiding them down Khorne's path. His staff, "Nithi," dripped with endless blood, adorned with bones of victims, a grim testament to his devotion. In battles, he stood lean and thin, yet his presence commanded fear, his voice wispy like steam, echoing Khorne's wrath	true
 unit_description_short_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 unit_description_historical_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael Bloodfather	false
@@ -457,7 +457,7 @@ ancillaries_colour_text_scm_norsca_graill_valdyr	Uldsdau’s twin axes have serv
 ancillaries_onscreen_name_wolftribe_scm_norsca_asta_ardenwood_bow	The Ardenwood Bow	true
 ancillaries_colour_text_wolftribe_scm_norsca_asta_ardenwood_bow	Forged in the depths of the Ardenwood, Asta's bow, aptly named the Ardenwood Bow, embodies the fusion of Norscan resilience and Bretonnian grace. Crafted from sturdy Ardenwood trees, it bears the marks of Asta's indomitable spirit and her relentless quest for survival. Each arrow unleashed from its string carries the whispers of Asta's determination and the fury of her longing for vengeance. As she draws back the bowstring, she channels the strength of her people and the cunning of her newfound wilderness, striking fear into the hearts of her enemies and hope into the souls of her allies	true
 ancillaries_onscreen_name_wolftribe_hidolfr_nithi	Nithi	true
-ancillaries_colour_text_wolftribe_hidolfr_nithi	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
+ancillaries_colour_text_wolftribe_hidolfr_nithi	Nithi, the staff of Alfkaell, is a grim artifact dripping with the blood of countless victims. Crafted from the bones of fallen foes and imbued with Khorne's wrath, it thirsts eternally for battle. Each bone adorning its surface represents a life claimed in the name of the Blood God, empowering Alfkaell with relentless fury. Legends whisper of the staff's insatiable hunger, driving its wielder to ever greater acts of violence in Khorne's name.	true
 ancillaries_onscreen_name_scm_norsca_huern_anci_armor_pelt	The Second Skin	true
 ancillaries_colour_text_scm_norsca_huern_anci_armor_pelt	When battle is spent, a Skin Wolf’s transformation is reversed and like a newborn the human must tear its way free of the monstrous form. Huern has crafted an armour from this hide, a fearsome thing of cursed leather and black fur.	true
 building_chains_chain_tooltip_wolftribe_greathall	Huern's Den	false
@@ -472,7 +472,7 @@ building_short_description_texts_short_description_wolftribe_greathall_1	Huern�
 building_short_description_texts_short_description_wolftribe_greathall_2	If ever there was a question of Huern’s ancestry, it is now dismissed. Only one blessed with the blood of Olric could lead such a gathering of wolves to greatness. This great hall is a testament to Huern and his tribe’s achievement, rising tall and proud above the growing town. By day, the hall is a hub of hunters and traders bearing meat and furs. At night, the hall rings with the cheers and singing of warriors, the howling of wolves echoing out over the tundra.	true
 building_short_description_texts_short_description_wolftribe_humbled_hall	A would-be chieftain once dwelt here, gathering hunters and Skin Wolves into what he called a “tribe.” His followers are gone now, his aspirations crushed. The Great Hall should still serve well as a storage barn, though.	true
 effects_description_wolftribe_enable_child_of_frigustrex	Ability: "Child of Frigustrex"	false
-effects_description_wolftribe_effect_ability_bitter_aura	Passive Ability: "Bitter Chill"	true
+effects_description_wolftribe_effect_ability_bitter_aura	Passive Ability: "Nithi's Aura"	true
 effects_description_wolftribe_effect_ability_enable_frostaxe_aura	Passive Ability: "Valdýr's Aura"	true
 effects_description_wolftribe_effect_ability_enable_fireaxe_aura	Passive Ability: "Eldur's Aura"	true
 land_units_onscreen_name_wh_dlc08_nor_mon_frost_wyrm_ror_0	The Cold-Voider (Frost-Wyrm)	false
@@ -480,8 +480,8 @@ unit_abilities_onscreen_name_wolftribe_abilities_fireaxe_aura	Eldur's Aura	false
 unit_abilities_onscreen_name_wolftribe_abilities_frostaxe_aura	Valdýr's Aura	false
 unit_abilities_tooltip_text_wolftribe_abilities_fireaxe_aura	Ulsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
 unit_abilities_tooltip_text_wolftribe_abilities_frostaxe_aura	Ulsdau's axes emit such a bitter cold that ice forms about his body like armour. This second-skin of ice both protects his body and harms foes, as weapon blows send sharp fragments flying.	false
-unit_abilities_onscreen_name_wolftribe_abilities_bitter_aura	Bitter Chill	false
-unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	The frigid winds summoned by Nithi sap the will to fight from Alfkael's foes.	false
+unit_abilities_onscreen_name_wolftribe_abilities_bitter_aura	Nithi's Aura	false
+unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	Nithi's bloodied bones cackling against each other sap the will to fight from Alfkael's foes.	false
 unit_abilities_onscreen_name_wolftribe_abilities_child_of_frigustrex	Child of Frigustrex	false
 unit_abilities_tooltip_text_wolftribe_abilities_child_of_frigustrex	Called by the Vitki, this king of Norsca's skies comes to the battlefield.	false
 unit_abilities_additional_ui_effects_localised_text_wolftribe_summon_child_of_frigustrex	Summons a Frost Wyrm	false

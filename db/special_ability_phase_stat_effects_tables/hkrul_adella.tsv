@@ -11,3 +11,5 @@ hkrul_soren_sack_2_1	stat_melee_defence	40.0000	add
 hkrul_soren_sack_2_2	stat_damage_reflection	20.0000	add
 hkrul_soren_sack_2_3	scalar_speed	1.3500	mult
 hkrul_soren_sack_2_4	scalar_spell_mastery	1.3500	mult
+hkrul_adella_fishbrain	stat_morale	5.0000	add
+hkrul_adella_fishbrain	stat_melee_attack	5.0000	add

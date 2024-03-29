@@ -67,7 +67,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 3	hkrul_wolf_moon	true	false	false	hkrul_wolf_moon_3
 1	hkrul_hrothgar_god	true	false	false	hkrul_hrothgar_god_1
 2	hkrul_hrothgar_god	true	false	false	hkrul_hrothgar_god_2
-3	hkrul_hrothgar_god	true	false	false	hkrul_hrothgar_god_3
+3	hkrul_hrothgar_god	true	true	false	hkrul_hrothgar_god_3
 1	hkrul_hrothgar_passive	true	false	false	hkrul_hrothgar_passive
 1	hkrul_ice_golem_stance	true	false	false	hkrul_ice_golem_stance
 1	hkrul_ice_golem_walk	true	false	false	hkrul_ice_golem_walk
@@ -75,3 +75,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_asta_arrow	true	false	false	hkrul_asta_arrow
 1	hkrul_asta_food_passive	true	true	false	hkrul_asta_food_passive
 1	hkrul_asta_food	true	true	false	hkrul_asta_food
+1	hkrul_adella_fishbrain	true	true	false	hkrul_adella_fishbrain
