@@ -15,7 +15,21 @@ local rhox_fc_norsca_unlockable_ror_list={
         init_faction="wh_main_nor_bjornling",
         agent_subtype="hkrul_ulfric",
     },
+    rhox_skeggi_dodvakt={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh2_main_nor_skeggi",
+        agent_subtype="hkrul_adella",
+    },
+    hkrul_skeggi_giant_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh2_main_nor_skeggi",
+        agent_subtype="hkrul_adella",
+        special_condition_for_init=true,--quest battle
+    },
 }
+
+
+
 
 cm:add_first_tick_callback(
     function()
@@ -58,8 +72,13 @@ cm:add_first_tick_callback(
                     return character:character_subtype(info.agent_subtype)
                 end,
                 function(context)
+                    
                     local character = context:character()
                     local faction = character:faction()
+                    
+                    if faction:name() == info.init_faction and info.special_condition_for_init then
+                        return false --don't do anything as it will unlock in other means
+                    end
                     cm:remove_event_restricted_unit_record_for_faction(unit_key, faction:name())
                 end,
                 true
@@ -77,7 +96,7 @@ cm:add_first_tick_callback_new(
                 local faction = all_factions:item_at(i);
                 if faction:culture() == info.culture then
                     cm:add_unit_to_faction_mercenary_pool(faction, unit_key, "renown", 1, 20, 1, 0.1, "", "", "", true, unit_key)
-                    if faction:name() ~= info.init_faction then
+                    if faction:name() ~= info.init_faction or info.special_condition_for_init then
                         cm:add_event_restricted_unit_record_for_faction(unit_key, faction:name(), unit_key.."_lock")
                     end
                 end

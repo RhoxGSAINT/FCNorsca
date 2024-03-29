@@ -4,7 +4,7 @@ core:add_ui_created_callback(
 		if vfs.exists("script/frontend/mod/mixer_frontend.lua")then
 		
 			mixer_change_lord_name("876077643", "hkrul_adella")
-			mixer_add_starting_unit_list_for_faction("wh2_main_nor_skeggi", {"hkrul_skeggi_inf_chaos_marauders_0","hkrul_skeggi_giant","wh2_main_lzd_mon_bastiladon_0","hkrul_skeggi_inf_marauder_champions_1", "hkrul_skeggi_inf_marauder_hunters_1"})
+			mixer_add_starting_unit_list_for_faction("wh2_main_nor_skeggi", {"hkrul_skeggi_inf_chaos_marauders_0","hkrul_skeggi_giant","wh2_main_lzd_mon_bastiladon_0","hkrul_skeggi_inf_marauder_champions_1", "hkrul_skeggi_inf_marauder_hunters_1,rhox_skeggi_dodvakt"})
 			mixer_add_faction_to_major_faction_list("wh2_main_nor_skeggi")
 			
 			mixer_change_lord_name("1176817909", "hkrul_sayl")

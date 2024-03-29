@@ -65,3 +65,17 @@ core:add_listener(
     end,
     true
 );
+core:add_listener(
+    "rhox_adella_final_mission_completed_ror",
+    "MissionSucceeded",
+    function(context)    
+        local mission_key = context:mission():mission_record_key();
+        return mission_key == "hkrul_skeggi_adella_sword_final"
+    end,
+    function(context)
+        local faction_key = context:faction():name()
+        cm:remove_event_restricted_unit_record_for_faction("hkrul_skeggi_giant_ror", faction:name())
+    end,
+    true
+)
+

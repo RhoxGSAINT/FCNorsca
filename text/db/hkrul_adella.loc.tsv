@@ -18,10 +18,10 @@ character_skills_localised_description_hkrul_adella_special_0_2	What the Skeggi 
 character_skills_localised_name_hkrul_adella_special_0_2	Skeggi Marauders	true
 character_skills_localised_description_hkrul_adella_horse	Blóm, which means flower - is Adella's pet and steed. She fed it poisonous continously as part of her experiments which caused it to deform and mutate.	true
 character_skills_localised_name_hkrul_adella_horse	Blóm	true
-character_skills_localised_name_hkrul_adella_horse_2	Placeholder	false
-character_skills_localised_description_hkrul_adella_horse_2	Placeholder Text Placeholder Text	false
-character_skills_localised_name_hkrul_adella_horse_3	Placeholder	false
-character_skills_localised_description_hkrul_adella_horse_3	Placeholder Text Placeholder Text	false
+character_skills_localised_name_hkrul_adella_horse_2		false
+character_skills_localised_description_hkrul_adella_horse_2		false
+character_skills_localised_name_hkrul_adella_horse_3		false
+character_skills_localised_description_hkrul_adella_horse_3		false
 character_skills_localised_description_hkrul_adella_special_1_4	Trinkets blessed by Tzeentch seemingly appear at random on the trails set out for her by her many mouths.	true
 character_skills_localised_name_hkrul_adella_special_1_4	Blessed Trinkets	true
 character_skills_localised_description_hkrul_adella_special_0_3	She who follows the ways of Tzeentch may recieve his fruitful boons.	true
@@ -140,3 +140,6 @@ effects_description_rhox_adella_lzd_mon_carnosaur_kho	Unit capacity: %+n for Kho
 effects_description_rhox_adella_lzd_mon_stegadon_nur	Unit capacity: %+n for Nurgle Corrupted Feral Stegadon units	false
 effects_description_rhox_adella_lzd_mon_troglodon_sla	Unit capacity: %+n for Slaanesh Corrupted Feral Troglodon units	false
 effects_description_rhox_adella_lzd_mon_coatl_tze	Unit capacity: %+n for Tzeentch Corrupted Coatl units	false
+land_units_onscreen_name_rhox_skeggi_dodvakt	Dodvakt	false
+campaign_localised_strings_string_rhox_skeggi_dodvakt_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Skeggi Tribe or have Adella of the Thousand Mouths in your faction[[/col]]	false
+campaign_localised_strings_string_hkrul_skeggi_giant_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you complete the quest battle if you're a Skeggi faction, otherwise, you have to ally or Confederate the Skeggi Tribe or have Adella of the Thousand Mouths in your faction[[/col]]	false

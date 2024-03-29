@@ -2,13 +2,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_adella					
 			hkrul_skeggi_giant_ror	hkrul_skeggi	false
 			rhox_skeggi_champion	hkrul_skeggi	false
-			hkrul_skeggi_giant_ror	wh2_main_ror_units_all	false
-			hkrul_skeggi_giant_ror	all_non_chs	true
-			hkrul_skeggi_giant_ror	dlc08_nor_giants	false
-			hkrul_skeggi_giant_ror	dlc08_nor_monsters	false
-			hkrul_skeggi_giant_ror	mp_cap_group_rare_single_entities	false
-			hkrul_skeggi_giant_ror	mp_cap_unit_nor_mon_giant	false
-			hkrul_skeggi_giant_ror	nor_all	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_fimir_giant_mammoth	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
 			r1kko_adella_kho_carnosaur	rhox_adella_lzd_mon_carnosaur_kho	false
@@ -106,3 +99,27 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			r1kko_adella_tze_coatl	mp_cap_group_rare_single_entities	false
 			r1kko_adella_tze_coatl	mp_cap_unit_lzd_mon_coatl	false
 			r1kko_adella_tze_coatl	all_non_chs	true
+			rhox_skeggi_dodvakt	lzd_all	false
+			rhox_skeggi_dodvakt	lzd_beasts	false
+			rhox_skeggi_dodvakt	lzd_cold_ones_dinos	false
+			rhox_skeggi_dodvakt	lzd_coldones	false
+			rhox_skeggi_dodvakt	lzd_saurus_coldones	false
+			rhox_skeggi_dodvakt	mp_cap_unit_lzd_cav_cold_one_riders	false
+			rhox_skeggi_dodvakt	wh2_def_lzd_cold_ones	false
+			rhox_skeggi_dodvakt	all_non_chs	true
+			rhox_skeggi_dodvakt	nor_all	false
+			rhox_skeggi_dodvakt	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots_ror	false
+			rhox_skeggi_dodvakt	wh2_dlc11_nor_warhounds_ice_wolves_chariots	false
+			rhox_skeggi_dodvakt	wh2_main_ror_units_all	false
+			rhox_skeggi_dodvakt	wh_dlc08_all_mammoths_skin_wolves_ice_wolves_hounds	false
+			hkrul_skeggi_giant_ror	all_non_chs	true
+			hkrul_skeggi_giant_ror	dlc08_nor_frost_wyrm	false
+			hkrul_skeggi_giant_ror	mp_cap_group_flying_unit	false
+			hkrul_skeggi_giant_ror	mp_cap_group_rare_single_entities	false
+			hkrul_skeggi_giant_ror	nor_all	false
+			hkrul_skeggi_giant_ror	wh2_dlc11_nor_manticore_frost_wyrm	false
+			hkrul_skeggi_giant_ror	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir_ror	false
+			hkrul_skeggi_giant_ror	wh2_main_ror_units_all	false
+			hkrul_skeggi_giant_ror	dlc08_nor_giants	false
+			hkrul_skeggi_giant_ror	dlc08_nor_monsters	false
+			hkrul_skeggi_giant_ror	mp_cap_unit_nor_mon_giant	false
