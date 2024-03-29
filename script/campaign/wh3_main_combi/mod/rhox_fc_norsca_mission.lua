@@ -74,7 +74,7 @@ core:add_listener(
     end,
     function(context)
         local faction_key = context:faction():name()
-        cm:remove_event_restricted_unit_record_for_faction("hkrul_skeggi_giant_ror", faction:name())
+        cm:remove_event_restricted_unit_record_for_faction("hkrul_skeggi_giant_ror", faction_key)
     end,
     true
 )
