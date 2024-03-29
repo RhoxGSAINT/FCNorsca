@@ -37,7 +37,7 @@ effects_description_hkrul_adella_horse_3	Mount: "Placeholder''	true
 effects_description_hkrul_adella_skeggi_md	Melee defence: %+n for Skeggi units	true
 effects_description_hkrul_adella_skeggi_charge	Charge bonus: %+n for Skeggi units	true
 effects_description_hkrul_adella_skeggi_leadership	Leadership: %+n for Skeggi units	true
-effects_description_rhox_adella_monster_direct_dummy	Thousand Whispers: Adella may directly face monsters within the arcanum	false
+effects_description_rhox_adella_monster_direct_dummy	Thousand Whispers: Adella may directly face old world monsters within the arcanum	false
 effects_description_rhox_sarg_monster_direct_dummy	Master Temptator: Sargath may directly face monsters within the arcanum	false
 effects_description_rhox_adella_corruption_dummy	The Jungle King: Chaos Touched feral creatures are drawn to Skeggi's banner when monogod corruption is high	false
 character_trait_levels_onscreen_name_hkrul_defeated_trait_adella	Whispers no more	true
@@ -127,3 +127,16 @@ unit_description_historical_texts_text_hkrul_harald	Harald Whyrlas, the colossal
 unit_description_historical_texts_text_hkrul_birna	Birna, the Sarl huntress, possesses a mesmerizing allure that belies her fierce and independent spirit. With platinum hair cascading down her back and dark eyes that betray a depth of wisdom, she commands attention wherever she roams. Yet, beneath the surface of her captivating beauty lies a warrior's heart, marked by the grey scars of battles fought and won. Gifted by the gods with a tongue as dark as a crow's feather, she wields a unique power to communicate with the creatures of the sky, calling upon them to aid her in times of need. Clad in leather and chain, with a sword at her side and a bow in hand, she moves with the grace of a predator through the wilderness, her every step a whisper upon the wind.	false
 unit_description_historical_texts_text_hkrul_sayl	Sayl the Faithless, known as the "Twisted Seer of the Wastes," is a cunning arch-sorcerer of the Dolgan tribe, renowned for his mastery of deception and dark sorcery. From the harsh Eastern Steppes, Sayl's path to power is marked by betrayal and manipulation, as he outwits rivals and kin alike to ascend to dominance.As an apprentice to the powerful shaman-sorcerer Schalkain the Vile, Sayl sowed seeds of discord among his peers, orchestrating betrayals that led to his own rise. Unbound by allegiance to any single Chaos God, Sayl's loyalties shift with the winds of opportunity, his alliances forged and broken to serve his insatiable ambition. Feared and hated by his own people, Sayl's reign is fraught with peril, as enemies, mortal and Daemon alike, seek his downfall. Yet, amidst the chaos, he remains a formidable war-leader, his mastery over the unholy storms of the northern wastes making the Dolgan tribe under his sway a force to be reckoned with.	false
 unit_description_historical_texts_text_hkrul_ulfric	High King Ulfric Grondal, leader of the Bjornling Tribe, stands as a beacon of defiance against the chaotic tides that ravage the north. Unlike his brethren who embrace the dark gifts of Chaos, Ulfric holds steadfast to the gods of men, fostering diplomacy and trade with the realms beyond. Under his rule, the Bjornlings thrive as adaptable warriors and shrewd merchants, renowned for their prowess at sea and their willingness to forge alliances in times of peace. From the fortified stronghold of Skjold, Ulfric Grondal guides his people with wisdom and strength, charting a course between war and commerce in the tumultuous lands of the north.	false
+effects_description_rhox_adella_corruption_higher_units_dummy	[[col:yellow]]High tier feral creatures cap will be only increased by high monogod corruption[[/col]]	false
+land_units_onscreen_name_r1kko_adella_kho_bastiladon	Khorne Corrupted Feral Bastiladon	false
+land_units_onscreen_name_r1kko_adella_nur_bastiladon	Nurgle Corrupted Feral Bastiladon	false
+land_units_onscreen_name_r1kko_adella_sla_bastiladon	Slaanesh Corrupted Feral Bastiladon	false
+land_units_onscreen_name_r1kko_adella_tze_bastiladon	Tzeentch Corrupted Feral Bastiladon	false
+land_units_onscreen_name_r1kko_adella_kho_carnosaur	Khorne Corrupted Feral Carnosaur	false
+land_units_onscreen_name_r1kko_adella_nur_stegadon	Nurgle Corrupted Feral Stegadon	false
+land_units_onscreen_name_r1kko_adella_sla_troglodon	Slaanesh Corrupted Feral Troglodon	false
+land_units_onscreen_name_r1kko_adella_tze_coatl	Tzeentch Corrupted Coatl	false
+effects_description_rhox_adella_lzd_mon_carnosaur_kho	Unit capacity: %+n for Khorne Corrupted Feral Carnosaur units	false
+effects_description_rhox_adella_lzd_mon_stegadon_nur	Unit capacity: %+n for Nurgle Corrupted Feral Stegadon units	false
+effects_description_rhox_adella_lzd_mon_troglodon_sla	Unit capacity: %+n for Slaanesh Corrupted Feral Troglodon units	false
+effects_description_rhox_adella_lzd_mon_coatl_tze	Unit capacity: %+n for Tzeentch Corrupted Coatl units	false

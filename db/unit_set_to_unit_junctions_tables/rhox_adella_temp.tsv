@@ -1,6 +1,0 @@
-unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
-#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/rhox_adella_temp					
-			rhox_adella_lzd_mon_carnosaur_kho	rhox_adella_lzd_mon_carnosaur_kho	false
-			rhox_adella_lzd_mon_carnosaur_nur	rhox_adella_lzd_mon_carnosaur_nur	false
-			rhox_adella_lzd_mon_carnosaur_sla	rhox_adella_lzd_mon_carnosaur_sla	false
-			rhox_adella_lzd_mon_carnosaur_tze	rhox_adella_lzd_mon_carnosaur_tze	false

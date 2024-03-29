@@ -3,7 +3,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_giant_ror	hkrul_skeggi	false
 			rhox_skeggi_champion	hkrul_skeggi	false
 			hkrul_skeggi_giant_ror	wh2_main_ror_units_all	false
-			hkrul_skeggi_giant_ror	all_non_chs	false
+			hkrul_skeggi_giant_ror	all_non_chs	true
 			hkrul_skeggi_giant_ror	dlc08_nor_giants	false
 			hkrul_skeggi_giant_ror	dlc08_nor_monsters	false
 			hkrul_skeggi_giant_ror	mp_cap_group_rare_single_entities	false
@@ -11,3 +11,98 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_giant_ror	nor_all	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_fimir_giant_mammoth	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			r1kko_adella_kho_carnosaur	rhox_adella_lzd_mon_carnosaur_kho	false
+			r1kko_adella_nur_stegadon	rhox_adella_lzd_mon_stegadon_nur	false
+			r1kko_adella_sla_troglodon	rhox_adella_lzd_mon_troglodon_sla	false
+			r1kko_adella_tze_coatl	rhox_adella_lzd_mon_coatl_tze	false
+			r1kko_adella_kho_bastiladon	lzd_all	false
+			r1kko_adella_kho_bastiladon	lzd_bastilidon	false
+			r1kko_adella_kho_bastiladon	lzd_beasts_rank7	false
+			r1kko_adella_kho_bastiladon	lzd_beasts	false
+			r1kko_adella_kho_bastiladon	lzd_cold_ones_dinos	false
+			r1kko_adella_kho_bastiladon	lzd_dinos	false
+			r1kko_adella_kho_bastiladon	monsters	false
+			r1kko_adella_kho_bastiladon	mp_cap_group_rare_single_entities	false
+			r1kko_adella_kho_bastiladon	mp_cap_unit_lzd_mon_bastiladon	false
+			r1kko_adella_kho_bastiladon	wh2_main_lzd_mon_bastiladon_0	false
+			r1kko_adella_kho_bastiladon	all_non_chs	true
+			r1kko_adella_nur_bastiladon	lzd_all	false
+			r1kko_adella_nur_bastiladon	lzd_bastilidon	false
+			r1kko_adella_nur_bastiladon	lzd_beasts_rank7	false
+			r1kko_adella_nur_bastiladon	lzd_beasts	false
+			r1kko_adella_nur_bastiladon	lzd_cold_ones_dinos	false
+			r1kko_adella_nur_bastiladon	lzd_dinos	false
+			r1kko_adella_nur_bastiladon	monsters	false
+			r1kko_adella_nur_bastiladon	mp_cap_group_rare_single_entities	false
+			r1kko_adella_nur_bastiladon	mp_cap_unit_lzd_mon_bastiladon	false
+			r1kko_adella_nur_bastiladon	wh2_main_lzd_mon_bastiladon_0	false
+			r1kko_adella_nur_bastiladon	all_non_chs	true
+			r1kko_adella_sla_bastiladon	lzd_all	false
+			r1kko_adella_sla_bastiladon	lzd_bastilidon	false
+			r1kko_adella_sla_bastiladon	lzd_beasts_rank7	false
+			r1kko_adella_sla_bastiladon	lzd_beasts	false
+			r1kko_adella_sla_bastiladon	lzd_cold_ones_dinos	false
+			r1kko_adella_sla_bastiladon	lzd_dinos	false
+			r1kko_adella_sla_bastiladon	monsters	false
+			r1kko_adella_sla_bastiladon	mp_cap_group_rare_single_entities	false
+			r1kko_adella_sla_bastiladon	mp_cap_unit_lzd_mon_bastiladon	false
+			r1kko_adella_sla_bastiladon	wh2_main_lzd_mon_bastiladon_0	false
+			r1kko_adella_sla_bastiladon	all_non_chs	true
+			r1kko_adella_tze_bastiladon	lzd_all	false
+			r1kko_adella_tze_bastiladon	lzd_bastilidon	false
+			r1kko_adella_tze_bastiladon	lzd_beasts_rank7	false
+			r1kko_adella_tze_bastiladon	lzd_beasts	false
+			r1kko_adella_tze_bastiladon	lzd_cold_ones_dinos	false
+			r1kko_adella_tze_bastiladon	lzd_dinos	false
+			r1kko_adella_tze_bastiladon	monsters	false
+			r1kko_adella_tze_bastiladon	mp_cap_group_rare_single_entities	false
+			r1kko_adella_tze_bastiladon	mp_cap_unit_lzd_mon_bastiladon	false
+			r1kko_adella_tze_bastiladon	wh2_main_lzd_mon_bastiladon_0	false
+			r1kko_adella_tze_bastiladon	all_non_chs	true
+			r1kko_adella_kho_carnosaur	def_beasts	false
+			r1kko_adella_kho_carnosaur	lzd_all	false
+			r1kko_adella_kho_carnosaur	lzd_beasts_rank7	false
+			r1kko_adella_kho_carnosaur	lzd_carnosaur	false
+			r1kko_adella_kho_carnosaur	lzd_cold_ones_dinos	false
+			r1kko_adella_kho_carnosaur	lzd_dinos	false
+			r1kko_adella_kho_carnosaur	monsters	false
+			r1kko_adella_kho_carnosaur	mp_cap_group_extended_roster_rakarth_units	false
+			r1kko_adella_kho_carnosaur	mp_cap_group_rare_single_entities	false
+			r1kko_adella_kho_carnosaur	mp_cap_unit_lzd_mon_carnosaur	false
+			r1kko_adella_kho_carnosaur	wh2_twa03_rakarth_monsters_in_monster_pen	false
+			r1kko_adella_kho_carnosaur	all_non_chs	true
+			r1kko_adella_nur_stegadon	def_beasts	false
+			r1kko_adella_nur_stegadon	lzd_all	false
+			r1kko_adella_nur_stegadon	lzd_beasts_rank7	false
+			r1kko_adella_nur_stegadon	lzd_beasts	false
+			r1kko_adella_nur_stegadon	lzd_cold_ones_dinos	false
+			r1kko_adella_nur_stegadon	lzd_dinos	false
+			r1kko_adella_nur_stegadon	lzd_stegadon	false
+			r1kko_adella_nur_stegadon	monsters	false
+			r1kko_adella_nur_stegadon	mp_cap_group_extended_roster_rakarth_units	false
+			r1kko_adella_nur_stegadon	mp_cap_group_rare_single_entities	false
+			r1kko_adella_nur_stegadon	mp_cap_unit_lzd_mon_stegadon	false
+			r1kko_adella_nur_stegadon	wh2_main_lzd_mon_stegadon_0	false
+			r1kko_adella_nur_stegadon	wh2_twa03_rakarth_monsters_in_monster_pen	false
+			r1kko_adella_nur_stegadon	all_non_chs	true
+			r1kko_adella_sla_troglodon	lzd_all	false
+			r1kko_adella_sla_troglodon	lzd_beasts_rank7	false
+			r1kko_adella_sla_troglodon	lzd_cold_ones_dinos	false
+			r1kko_adella_sla_troglodon	lzd_dinos	false
+			r1kko_adella_sla_troglodon	lzd_troglodon	false
+			r1kko_adella_sla_troglodon	monsters	false
+			r1kko_adella_sla_troglodon	mp_cap_group_ranged_units	false
+			r1kko_adella_sla_troglodon	mp_cap_group_rare_single_entities	false
+			r1kko_adella_sla_troglodon	mp_cap_unit_lzd_mon_troglodon	false
+			r1kko_adella_sla_troglodon	all_non_chs	true
+			r1kko_adella_tze_coatl	lzd_all	false
+			r1kko_adella_tze_coatl	lzd_beasts	false
+			r1kko_adella_tze_coatl	lzd_coatl	false
+			r1kko_adella_tze_coatl	lzd_terradon_ripperdactyl_coatl_coldones_rank7	false
+			r1kko_adella_tze_coatl	lzd_terradon_ripperdactyl_coatl	false
+			r1kko_adella_tze_coatl	lzd_vets_terradon_ripperdactyl_coatl	false
+			r1kko_adella_tze_coatl	monsters	false
+			r1kko_adella_tze_coatl	mp_cap_group_flying_unit	false
+			r1kko_adella_tze_coatl	mp_cap_group_rare_single_entities	false
+			r1kko_adella_tze_coatl	mp_cap_unit_lzd_mon_coatl	false
+			r1kko_adella_tze_coatl	all_non_chs	true
