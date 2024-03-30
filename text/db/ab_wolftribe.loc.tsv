@@ -517,3 +517,4 @@ unit_abilities_onscreen_name_hkrul_asta_food	Northwind Nourishment	false
 effects_description_hkrul_asta_food_passive	Passive Ability: "Frostborn Feast"	true
 unit_abilities_tooltip_text_hkrul_asta_food_passive	When not in combat, the soothing aroma and invigorating taste of her concoction heal nearby allies, preparing them for the trials of battle.	true
 unit_abilities_onscreen_name_hkrul_asta_food_passive	Frostborn Feast	false
+effects_description_wolftribe_ability_enable_mimic_murderous_prowess	Ability: "Mirror (Murderous Mastery)"	false

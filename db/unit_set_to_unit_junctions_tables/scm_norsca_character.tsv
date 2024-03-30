@@ -85,12 +85,9 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			scm_norsca_uldsdau	characters	false
 			scm_norsca_uldsdau	all_non_chs	true
 			scm_norsca_uldsdau	nor_all	false
-			scm_norsca_uldsdau	wolf_creatures	false
 			nor_skin_wolf_lord	characters	false
 			nor_skin_wolf_lord	all_non_chs	true
 			nor_skin_wolf_lord	nor_all	false
-			nor_skin_wolf_lord	wolf_creatures	false
-			scm_norsca_huern_wolf	wolf_creatures	false
 			scm_norsca_huern	characters	false
 			scm_norsca_huern	all_non_chs	true
 			scm_norsca_huern	nor_all	false

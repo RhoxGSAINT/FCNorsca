@@ -1,30 +1,5 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/ab_wolftribe					
-			wh_dlc08_nor_mon_skinwolves_0	wolf_creatures	false
-			wh_dlc08_nor_mon_skinwolves_1	wolf_creatures	false
-			wh_pro04_nor_mon_skinwolves_ror_0	wolf_creatures	false
-			wh_dlc08_nor_cha_skin_wolf_werekin_0	wolf_creatures	false
-			wh_main_grn_cav_goblin_wolf_chariot	wolf_creatures	false
-			wh_main_grn_cav_goblin_wolf_riders_0	wolf_creatures	false
-			wh_main_grn_cav_goblin_wolf_riders_1	wolf_creatures	false
-			wh3_main_kho_inf_chaos_warhounds_0	wolf_creatures	false
-			wh3_main_kho_inf_flesh_hounds_of_khorne_0	wolf_creatures	false
-			wh3_main_pro_kho_inf_chaos_warhounds_0	wolf_creatures	false
-			wh3_main_pro_kho_inf_flesh_hounds_of_khorne_0	wolf_creatures	false
-			wh3_main_pro_kho_inf_flesh_hounds_of_khorne_simaergul_0	wolf_creatures	false
-			wh_dlc03_bst_inf_chaos_warhounds_0	wolf_creatures	false
-			wh_dlc03_bst_inf_chaos_warhounds_1	wolf_creatures	false
-			wh_main_chs_mon_chaos_warhounds_0	wolf_creatures	false
-			wh_main_chs_mon_chaos_warhounds_1	wolf_creatures	false
-			wh_main_nor_mon_chaos_warhounds_0	wolf_creatures	false
-			wh_main_nor_mon_chaos_warhounds_1	wolf_creatures	false
-			wh2_dlc09_tmb_mon_dire_wolves	wolf_creatures	false
-			wh2_dlc16_wef_mon_wolves_0	wolf_creatures	false
-			wh2_twa03_def_mon_wolves_0	wolf_creatures	false
-			wh_dlc08_nor_mon_warwolves_0	wolf_creatures	false
-			wh_dlc08_nor_veh_marauder_warwolves_chariot_0	wolf_creatures	false
-			wh_main_vmp_mon_dire_wolves	wolf_creatures	false
-			wh_pro04_nor_mon_marauder_warwolves_ror_0	wolf_creatures	false
 			wh_dlc08_nor_mon_warwolves_0	ice_wolves	false
 			wolftribe_nor_inf_wolfguard_honorguard	all_non_chs	true
 			wolftribe_nor_inf_wolfguard_honorguard	dlc08_nor_marauders_all	false
