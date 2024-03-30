@@ -1,0 +1,15 @@
+key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
+#unit_abilities_tables;17;db/unit_abilities_tables/hkrul_scm_norsca_anc											
+hkrul_norsca_axe_1	true	hkrul_norsca_axe_1		wh_type_bombardment		wh_main_anc_group_rare	true	false	bound		false
+hkrul_norsca_axe_2	true	hkrul_norsca_axe_2		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_axe_3	true	hkrul_norsca_axe_3		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_helmet_1	true	hkrul_norsca_helmet_1		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_helmet_2	true	hkrul_norsca_helmet_2_pas		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	passive		false
+hkrul_norsca_sword_1	true	hkrul_norsca_sword_1		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_sword_2	true	hkrul_norsca_sword_2		wh_type_wind		wh_main_anc_group_rare	true	false	bound		false
+hkrul_norsca_sword_3	true	hkrul_norsca_sword_3		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_sword_4	true	hkrul_norsca_sword_4		wh_type_direct_damage		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_shield_1	true	hkrul_norsca_shield_1		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_shield_2	true	hkrul_norsca_shield_2_pas		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_norsca_enchanted_1	true	hkrul_norsca_enchanted_1		wh_type_area_of_hexes		wh_main_anc_group_rare	false	false	active		false
+hkrul_norsca_enchanted_2	true	hkrul_norsca_enchanted_2		wh_type_area_of_hexes		wh_main_anc_group_rare	true	false	active		false

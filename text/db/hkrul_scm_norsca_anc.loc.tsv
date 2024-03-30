@@ -1,0 +1,97 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_scm_norsca_anc.loc		
+ancillaries_onscreen_name_hkrul_norsca_axe_1	Thunderhand's Maul	true
+ancillaries_colour_text_hkrul_norsca_axe_1	The axe formerly owned by the Legendary Keorl Thunderhand, it is carved from the heart of an ancient thunderbolt that struck the Norscan tundra. The Stormcaller Maul crackles with the power of the storm. Warriors who carry this axe are said to command the fury of lightning itself, their every strike accompanied by the deafening roar of thunder.	true
+effects_description_hkrul_norsca_axe_1	Ability: "Thunderhand's Maul''	true
+unit_abilities_tooltip_text_hkrul_norsca_axe_1	Warriors who carry this axe are said to command the fury of lightning itself.	true
+unit_abilities_onscreen_name_hkrul_norsca_axe_1	Thunderhand's Maul	true
+ancillaries_onscreen_name_hkrul_norsca_axe_2	Ironfang Reaver	true
+ancillaries_colour_text_hkrul_norsca_axe_2	 Forged in the roaring fires of Norscan forges, the Ironfang Reaver is a testament to the skill of Norscan blacksmiths. Its razor-sharp edge is said to cleave through even the thickest armor with ease, making it a fearsome weapon in the hands of any warrior who dares to wield it. It was used in countless raids and bested not the merest of pallisades.	true
+effects_description_hkrul_norsca_axe_2	Ability: "Ironfang Reaver''	true
+unit_abilities_tooltip_text_hkrul_norsca_axe_2	The razor-sharp edge is said to cleave through even the thickest armor with ease.	true
+unit_abilities_onscreen_name_hkrul_norsca_axe_2	Ironfang Reaver	true
+ancillaries_onscreen_name_hkrul_norsca_axe_3	Bloodmoon Hatchet	true
+ancillaries_colour_text_hkrul_norsca_axe_3	Fashioned from the twisted roots of a cursed tree and quenched in the blood of werekin, the Bloodmoon Hatchet is a weapon of primal savagery. Its jagged blade drips with the blood of its victims, thirsting for the taste of flesh and bone. Legends say that those who wield the hatchet are granted the power of lycanthropy, becoming beasts of the night under the light of the blood moon. In any case, it is a weapon of immense might.	true
+effects_description_hkrul_norsca_axe_3	Ability: "Bloodmoon Hatchet''	true
+unit_abilities_tooltip_text_hkrul_norsca_axe_3	The Bloodmoon Hatchet leaves a trail of freshBlood that werekin pick up for miles, even if it dit not kill a fresh victim.	true
+unit_abilities_onscreen_name_hkrul_norsca_axe_3	Bloodmoon Hatchet	true
+ancillaries_onscreen_name_hkrul_norsca_sword_1	Wyrmfang Blades	true
+ancillaries_colour_text_hkrul_norsca_sword_1	Crafted by a legendary Norscan blacksmith using the bones of slain wyverns, the Wyrmfang Blades are renowned for their razor-sharp edges and unmatched agility. Wielders are said to move with the speed and ferocity of the beasts themselves, striking fear into the hearts of their enemies.	true
+effects_description_hkrul_norsca_sword_1	Ability: "Wyrmfang Blades''	true
+unit_abilities_tooltip_text_hkrul_norsca_sword_1	Those who hold the Wyrmfang Blades are said to move with the speed and ferocity of the beasts themselves.	true
+unit_abilities_onscreen_name_hkrul_norsca_sword_1	Wyrmfang Blades	true
+ancillaries_onscreen_name_hkrul_norsca_sword_2	The Seafoam Blade	true
+ancillaries_colour_text_hkrul_norsca_sword_2	Fashioned from the wreckage of a ship lost at sea, the Seafoam Blade is infused with the salty essence of the ocean. Legends speak of a lone survivor who forged the blade from salvaged materials, channeling the restless spirit of the sea into every swing.	true
+effects_description_hkrul_norsca_sword_2	Ability: "Seafoam Blade"	true
+unit_abilities_tooltip_text_hkrul_norsca_sword_2	The Seafoam Blade is infused with the salty essence of the ocean and leaves unhealable wounds.	true
+unit_abilities_onscreen_name_hkrul_norsca_sword_2	Seafoam Blade	true
+ancillaries_onscreen_name_hkrul_norsca_sword_3	Ravenwing Dualswords	true
+ancillaries_colour_text_hkrul_norsca_sword_3	Forged by a clan of skilled Norscan blacksmiths, the Ravenwing Dualswords are adorned with intricate carvings of ravens in flight. Legends say that the blades are blessed by the Raven God himself, granting their wielders the ability to command flocks of the dark birds to swarm and distract their enemies.	true
+effects_description_hkrul_norsca_sword_3	Ability: "Ravenwing Dualswords''	true
+unit_abilities_tooltip_text_hkrul_norsca_sword_3	The Ravenwing Dualswords have colour changing laments depending on the position of the moon. They're swiftness matched only by their deadliness.	true
+unit_abilities_onscreen_name_hkrul_norsca_sword_3	Ravenwing Dualswords	true
+ancillaries_onscreen_name_hkrul_norsca_sword_4	Shadowsteel Blade	true
+ancillaries_colour_text_hkrul_norsca_sword_4	Forged in the darkness of the Norscan forests, the Shadowsteel Blade is shrouded in mystery and intrigue. Crafted by skilled artisans using rare ores found deep underground, the sword is said to absorb the shadows around it, granting its wielder unparalleled stealth and agility in combat.	true
+effects_description_hkrul_norsca_sword_4	Ability: "Shadowsteel Blade''	true
+unit_abilities_tooltip_text_hkrul_norsca_sword_4	Said to absorb the shadows around it, granting its wielder unparalleled stealth and agility in combat.	true
+unit_abilities_onscreen_name_hkrul_norsca_sword_4	Shadowsteel Blade	true
+ancillaries_onscreen_name_hkrul_norsca_helmet_1	Frostforged Crest	true
+ancillaries_colour_text_hkrul_norsca_helmet_1	Crafted during the coldest winter in Norscan memory, the Frostforged Crest is adorned with icicles that never melt. Wearing this helm, warriors are said to be immune to the biting cold of the north, their spirits as unyielding as the ice from which the helm was formed.	true
+effects_description_hkrul_norsca_helmet_1	Ability: "Frostforged Crest''	true
+unit_abilities_tooltip_text_hkrul_norsca_helmet_1	The wielder's spirit as unyielding as the ice from which the helm was formed.	true
+unit_abilities_onscreen_name_hkrul_norsca_helmet_1	Frostforged Crest	true
+ancillaries_onscreen_name_hkrul_norsca_helmet_2	Ironclad Helm	true
+ancillaries_colour_text_hkrul_norsca_helmet_2	Fashioned by Norscan smiths from the strongest iron mined deep within the mountains, the Ironclad Helm is renowned for its resilience and protective properties. Wearing this helm, warriors feel as steadfast as the mountains themselves, their resolve unyielding in the face of adversity.	true
+effects_description_hkrul_norsca_helmet_2	Passive Ability: "Ironclad Helm''	true
+unit_abilities_tooltip_text_hkrul_norsca_helmet_2	Wearing this helm, warriors feel as steadfast as the mountains themselves.	true
+unit_abilities_onscreen_name_hkrul_norsca_helmet_2	Ironclad Helm	true
+ancillaries_onscreen_name_hkrul_norsca_shield_1	Runebound Aegis	true
+ancillaries_colour_text_hkrul_norsca_shield_1	Inscribed with ancient runes of protection by skilled Norscan runemasters, the Runebound Aegis is said to deflect even the deadliest of blows. Warriors who carry this shield are granted the blessings of their ancestors, their spirits shielded from harm by the power of the runes.	true
+effects_description_hkrul_norsca_shield_1	Ability: "Runebound Aegis''	true
+unit_abilities_tooltip_text_hkrul_norsca_shield_1	Warriors who carry this shield are granted the blessings of their ancestors.	true
+unit_abilities_onscreen_name_hkrul_norsca_shield_1	Runebound Aegis	true
+ancillaries_onscreen_name_hkrul_norsca_shield_2	Bloodbane Buckler	true
+ancillaries_colour_text_hkrul_norsca_shield_2	Fashioned from the scales of the great frost wyrms that roam the icy wastes of Norsca, the Bloodbane Buckler is as resilient as the creatures from which it was made. Warriors who bear this shield are said to be protected by the spirits of the wyrms, their scales turning aside all but the most determined attacks.	true
+effects_description_hkrul_norsca_shield_2	Passive Ability: "Bloodbane Buckler''	true
+unit_abilities_tooltip_text_hkrul_norsca_shield_2	Warriors who bear this shield are said to be protected by the spirits of the wyrms.	true
+unit_abilities_onscreen_name_hkrul_norsca_shield_2	Bloodbane Buckler	true
+ancillaries_onscreen_name_hkrul_norsca_ship_1	Fist of Skapa's Fjord	true
+ancillaries_colour_text_hkrul_norsca_ship_1	The Fist of Skapa's Fjord rose to fame during the Great Raid of Skaeling Bay, where it led a flotilla of longships in a devastating assault on the coastal settlements of the Empire. Its captain, a fearless warrior known as the Felman Ingersson, Chieftain of the Skaeling, carved a path of destruction across the southern shores, cementing its legacy as a symbol of Norscan supremacy upon the seas.	true
+ancillaries_onscreen_name_hkrul_norsca_ship_2	Rimefang's Legacy	true
+ancillaries_colour_text_hkrul_norsca_ship_2	Rimefang's Legacy is more than just a ship; it's a symbol of Norscan strength and resilience in the face of adversity. From the frozen fjords of Norsca to the snow-covered shores of Kislev, it has braved the harshest of northern winters and the deadliest of naval battles. Carved from the ancient pines of the Troll Country and insulated with layers of fur and ice, its hull is a fortress against the freezing seas, its crew unyielding in their quest for plunder and glory. With each voyage, Rimefang's Legacy adds to its storied history, leaving a trail of destruction and despair in its wake as it carves its name into the annals of Norscan legend.	true
+ancillaries_onscreen_name_hkrul_norsca_ship_3	Svunum's Stride	true
+ancillaries_colour_text_hkrul_norsca_ship_3	Not a mere longship: Svunum's Stride is a living embodiment of the Norscan lust for adventure and conquest. Its legendary voyage to Lustria is the stuff of sagas, as it braved the wrath of tropical tempests and battled ferocious sea monsters in the pursuit of riches and glory. Crafted from the timbers of ancient forests and adorned with the bones of slain sea serpents, its mast stands tall as a testament to its triumphs in the treacherous waters of the New World. From the frozen wastes of the north to the sun-drenched shores of Lustria, Stormcaller's Fury has sailed where few dare to tread, earning the fear and respect of all who cross its path.	true
+ancillaries_onscreen_name_hkrul_norsca_ship_4	Wavebreaker's Pride	true
+ancillaries_colour_text_hkrul_norsca_ship_4	Wavebreaker's Pride is not merely a longship; it's a testament to the indomitable spirit of Norscan craftsmanship and seafaring prowess. Hewn from the ancient oaks of the Darkwood Forest, its sturdy frame has weathered storms that would shatter lesser vessels. Reinforced with iron salvaged from the wreckage of Imperial galleons, its hull is a fortress against the crashing waves of the tumultuous seas. From the icy fjords of Norsca to the treacherous waters of the Sea of Claws, Wavebreaker's Pride has carved a path of destruction and glory, leaving a wake of shattered hulls and broken dreams in its relentless pursuit of plunder and conquest.	true
+ancillaries_onscreen_name_hkrul_norsca_follower_1	Orgrim the Wanderer	true
+ancillaries_colour_text_hkrul_norsca_follower_1	Orgrim is a Norscan berserker and hunter cast out of the Aeslings, for whom he now has nothing but contempt. His face is thin but sharp. He shows no signs of great age, being able to both hunt and slay a ymir on his own, carving the beast as a butcher would before it has been slain in combat. Over the years of his exile, he has grown a keen sense of smell that makes it all too easy for him to detect his hated kinsmen.	true
+ancillaries_onscreen_name_hkrul_norsca_enchanted_1	Eldagrimm's Beacon	true
+ancillaries_colour_text_hkrul_norsca_enchanted_1	In the rugged lands of the Bjornling tribes, amidst the towering peaks and crashing waves of the Sea of Claws, stands the mighty Eldagrimm Mountain. At its summit, shrouded in mist and myth, lies the Eldagrimm Beacon, a beacon of both hope and war.Forged in ancient times by the hands of Bjornling shamans and blessed by the spirits of the mountains, the Eldagrimm Beacon serves as a sacred symbol of unity and strength for the Bjornling people. It is said that the fires of the beacon burn with the essence of Eldagrimm itself, casting their light far across the sea and land. When lit, the Eldagrimm Beacon calls forth warriors from all corners of Bjornling territory, rallying them to the side of their High King in times of great need. Its flame serves as a guiding light for Bjornling longships navigating the treacherous waters, and its glow inspires courage and determination in the hearts of those who behold it.	true
+effects_description_hkrul_norsca_enchanted_1	Ability: "Eldagrimm's Beacon"	true
+unit_abilities_tooltip_text_hkrul_norsca_enchanted_1	It is rumoured that when the beacons of Mount Eldagrimm are lit it is visible from the town of Salzenmund.	true
+unit_abilities_onscreen_name_hkrul_norsca_enchanted_1	Eldagrimm's Beacon	true
+ancillaries_onscreen_name_hkrul_norsca_enchanted_2	Bransùil's Token	true
+ancillaries_colour_text_hkrul_norsca_enchanted_2	In the annals of Norsii history, the name of Bransùil the Aeslandeir echoes like a whispered curse across the ages. A master of the arcane arts and a wielder of unfathomable power, Bransùil was a figure of both fascination and dread in the time of Sigmar. Among his many artifacts of sorcery, none were as feared or as potent as the Token of Bransùil—a mysterious and enigmatic object that held sway over the very fabric of magic itself. Crafted from an otherworldly material and etched with ancient runes of power, the Token was a four-sided dice of prodigious size, its surfaces shimmering with arcane energy. When cast upon the ground, the Token of Bransùil unleashed a wave of mystical force that rippled through the ether, silencing the incantations of opposing mages and disrupting their spells with uncanny precision. The air crackled with raw magical energy as the Token exerted its will, rendering even the most skilled practitioners of the arcane powerless in its presence.	true
+effects_description_hkrul_norsca_enchanted_2	Ability: "Bransùil's Token"	true
+unit_abilities_tooltip_text_hkrul_norsca_enchanted_2	A galder-smith, a warlock, a wyrd, a sorcerer, a seider - or just very lucky.	true
+unit_abilities_onscreen_name_hkrul_norsca_enchanted_2	Bransùil's Token	true
+effects_description_hkrul_norsca_post_battle_sea	Income from post-battle loot: %+n% when fighting at sea	false
+effects_description_hkrul_norsca_xp_gain_sea	Double experience gain for units when fighting at sea	false
+effects_description_hkrul_norsca_md_sea	Melee defence: %+n when fighting at sea	false
+effects_description_hkrul_norsca_missile_mod_sea	Missile strength: %+n% when fighting at sea	false
+effects_description_hkrul_norsca_post_steal_mod_sea	Post battle chance of stealing a magic item: %+n% when fighting at sea	false
+effects_description_hkrul_norsca_morale_siege_theirs	Leadership: %+n when under siege	false
+effects_description_hkrul_norsca_md_siege_theirs	Melee defence: %+n when under siege	false
+effects_description_hkrul_norsca_phys_res_norsca	Physical resistance: %n% when fighting against Norsca	false
+effects_description_hkrul_norsca_melee_damage_norsca	Weapon strength: %+n% when fighting against Norsca	false
+effects_description_hkrul_norsca_wallbreaker_marauders	Attribute: Wallbreaker for Marauder units	false
+ancillary_sets_name_hkrul_norsca_set_1	Placeholder	false
+ancillary_sets_description_hkrul_norsca_set_1	Placeholder Text	false
+ancillary_sets_name_hkrul_norsca_set_2	Placeholder	false
+ancillary_sets_description_hkrul_norsca_set_2	Placeholder Text	false
+ancillary_sets_name_hkrul_norsca_set_3	Placeholder	false
+ancillary_sets_description_hkrul_norsca_set_3	Placeholder Text	false
+ancillary_sets_name_hkrul_norsca_set_4	Placeholder	false
+ancillary_sets_description_hkrul_norsca_set_4	Placeholder Text	false
+ancillary_sets_name_hkrul_norsca_set_5	Placeholder	false
+ancillary_sets_description_hkrul_norsca_set_5	Placeholder Text	false

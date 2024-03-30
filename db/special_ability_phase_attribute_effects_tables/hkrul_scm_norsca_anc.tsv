@@ -1,0 +1,7 @@
+attribute	phase	attribute_type
+#special_ability_phase_attribute_effects_tables;1;db/special_ability_phase_attribute_effects_tables/hkrul_scm_norsca_anc		
+revealed	hkrul_norsca_enchanted_1	positive
+silenced	hkrul_norsca_enchanted_2	positive
+rampage	hkrul_norsca_sword_4	positive
+wallbreaker	hkrul_norsca_axe_2	positive
+unbreakable	hkrul_norsca_axe_3	positive

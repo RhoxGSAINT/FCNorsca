@@ -1,0 +1,25 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_scm_norsca_anc					
+hkrul_norsca_axe_1	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_axe_2	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_axe_3	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_helmet_1	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_helmet_2	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_sword_1	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_sword_2	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_sword_3	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_sword_4	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_shield_1	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_shield_2	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_enchanted_1	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_enchanted_2	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_post_battle_sea	income.png	120	income.png	campaign	true
+hkrul_norsca_xp_gain_sea	experience.png	120	experience.png	campaign	true
+hkrul_norsca_md_sea	defence.png	120	defence.png	battle	true
+hkrul_norsca_missile_mod_sea	ranged_damage.png	541	ranged_damage.png	battle	true
+hkrul_norsca_post_steal_mod_sea	item_ability.png	8	item_ability.png	campaign	true
+hkrul_norsca_morale_siege_theirs	morale.png	120	morale.png	battle	true
+hkrul_norsca_md_siege_theirs	defence.png	120	defence.png	battle	true
+hkrul_norsca_phys_res_norsca	resistance_physical.png	122	resistance_physical.png	battle	true
+hkrul_norsca_melee_damage_norsca	weapon_damage.png	121	weapon_damage.png	battle	true
+hkrul_norsca_wallbreaker_marauders	hkrul_effect_wallbreaker.png	2	hkrul_effect_wallbreaker.png	battle	true

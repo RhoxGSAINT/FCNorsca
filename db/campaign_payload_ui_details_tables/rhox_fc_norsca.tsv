@@ -26,3 +26,4 @@ rhox_varg_hrothgar_appears	ui/campaign ui/skills/wh3_dlc20_lord_passive_paragon_
 rhox_graeling_payload_wh_dlc08_nor_naglfarlings	ui/campaign ui/effect_bundles/confederation.png	positive	0
 rhox_fc_norsca_bloodfather	ui/campaign ui/effect_bundles/agent.png	positive	0
 rhox_fc_norsca_asta	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_fc_norsca_ancillary_dummy	ui/battle ui/ability_icons/wh_magic_item_passive_enchanted.png	positive	0

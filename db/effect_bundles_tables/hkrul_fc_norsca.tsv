@@ -13,3 +13,4 @@ rhox_akkorak_purchasable_missile_resistance			none	1	resistance_missile.png	true
 rhox_akkorak_purchasable_melee_attack			none	1	melee.png	true	false	true
 rhox_fc_norsca_spared_leader			character	1	attrition.png	true	false	true
 rhox_fjordling_fish_stance			force	1	hkrul_fjordling_fish.png	true	false	true
+rhox_fc_norsca_confederate_effect			faction	2	icon_effects_raiding.png	true	false	true

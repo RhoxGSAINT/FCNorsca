@@ -1,0 +1,7 @@
+effect_key	set_key	effect_scope	value
+#ancillary_set_effect_junctions_tables;0;db/ancillary_set_effect_junctions_tables/hkrul_scm_norsca_anc			
+wh_main_effect_agent_action_cost_mod	hkrul_norsca_set_1	faction_to_character_own	-20.0000
+wh_main_effect_agent_action_cost_mod	hkrul_norsca_set_2	faction_to_character_own	-20.0000
+wh_main_effect_agent_action_cost_mod	hkrul_norsca_set_3	faction_to_character_own	-20.0000
+wh_main_effect_agent_action_cost_mod	hkrul_norsca_set_4	faction_to_character_own	-20.0000
+wh_main_effect_agent_action_cost_mod	hkrul_norsca_set_5	faction_to_character_own	-20.0000
