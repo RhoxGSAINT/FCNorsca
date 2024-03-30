@@ -700,7 +700,7 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
-    mixer_nor_fjordlings ={
+    --[[mixer_nor_fjordlings ={
         leader={
             subtype="wh_main_nor_marauder_chieftain",
             unit_list="",
@@ -720,7 +720,7 @@ local rhox_faction_list={
         end,
         first_tick = function(faction, faction_key) 
         end
-    },
+    },--]]
 }
 
 

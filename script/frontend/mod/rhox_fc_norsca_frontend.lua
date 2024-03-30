@@ -55,7 +55,7 @@ core:add_ui_created_callback(
             {"wh_dlc08_nor_mon_warwolves_0", "wh_dlc08_nor_mon_warwolves_0", "wh_dlc08_nor_mon_skinwolves_0", "hkrul_dummy_wolf_inf_chaos_marauders_0","hkrul_dummy_wolf_chaos_marauders_1"})
             mixer_add_faction_to_major_faction_list("wh_dlc08_nor_naglfarlings")
             
-            mixer_enable_custom_faction("718726083")
+            --mixer_enable_custom_faction("718726083")
             mixer_add_starting_unit_list_for_faction("mixer_nor_fjordlings", {"wh_main_nor_cav_marauder_horsemen_0"})
 			mixer_add_faction_to_major_faction_list("mixer_nor_fjordlings")
 		end		
