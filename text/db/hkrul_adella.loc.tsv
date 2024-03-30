@@ -28,7 +28,7 @@ character_skills_localised_description_hkrul_adella_special_0_3	She who follows 
 character_skills_localised_name_hkrul_adella_special_0_3	Ways of the Changer	true
 agent_subtypes_onscreen_name_override_hkrul_adella	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_adella		false
-effects_description_hkrul_adella_skeggi_ws	Weapon Strength: %+n% for Skeggi units	true
+effects_description_hkrul_adella_skeggi_ws	Weapon Strength: %+n% for Corrupted Lizard units	true
 effects_description_hkrul_adella_skeggi_recruit_rank	Recruit rank: %+n for Skeggi units	true
 effects_description_hkrul_adella_sword	Ability: "Sword of Warping''	true
 effects_description_hkrul_adella_horse	Mount: "Blóm''	true

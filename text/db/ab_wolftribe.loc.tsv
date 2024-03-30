@@ -339,12 +339,12 @@ unit_abilities_tooltip_text_wolftribe_ability_my_mother	Huern's mother - Alruna 
 unit_abilities_onscreen_name_wolftribe_ability_rally_the_tribe	Rally the Tribe	false
 unit_abilities_tooltip_text_wolftribe_ability_rally_the_tribe	Back! Once more into the fray!	true
 agent_subtypes_onscreen_name_override_scm_norsca_alfkael	Legendary Vitki	true
-agent_subtypes_description_text_override_scm_norsca_alfkael	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+agent_subtypes_description_text_override_scm_norsca_alfkael	Alfkael Bloodfather is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 land_units_onscreen_name_scm_norsca_alfkael	Alfkael the Bloodfather	true
 unit_description_short_texts_text_wolftribe_short_text_hidolfr	The Bloodfather of the Aeslings, guides them down Khorne's path whilst the tribe worship his staff ''Nithi'' - which is blessed by the Bloodgod himself.	true
 unit_description_historical_texts_text_wolftribe_long_text_hidolfr	Alfkaell, a sapphire-eyed seer draped in bearskin, was Bloodfather of the Aeslings, guiding them down Khorne's path. His staff, "Nithi," dripped with endless blood, adorned with bones of victims, a grim testament to his devotion. In battles, he stood lean and thin, yet his presence commanded fear, his voice wispy like steam, echoing Khorne's wrath	true
-unit_description_short_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
-unit_description_historical_texts_text_scm_norsca_alfkael_wolf	"Old One-Eye" is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+unit_description_short_texts_text_scm_norsca_alfkael_wolf	Alfkael Bloodfather is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
+unit_description_historical_texts_text_scm_norsca_alfkael_wolf	Alfkael Bloodfather is a figure of legend, a wanderer at home amidst the ice and snow of the northern mountains.	true
 land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael Bloodfather	false
 ui_unit_groupings_onscreen_scm_norsca_alfkael	Legendary Bloodseer	false
 ui_unit_groupings_tooltip_scm_norsca_alfkael		false
@@ -485,9 +485,9 @@ unit_abilities_tooltip_text_wolftribe_abilities_bitter_aura	Nithi's bloodied bon
 unit_abilities_onscreen_name_wolftribe_abilities_child_of_frigustrex	Child of Frigustrex	false
 unit_abilities_tooltip_text_wolftribe_abilities_child_of_frigustrex	Called by the Vitki, this king of Norsca's skies comes to the battlefield.	false
 unit_abilities_additional_ui_effects_localised_text_wolftribe_summon_child_of_frigustrex	Summons a Frost Wyrm	false
-character_trait_levels_colour_text_hkrul_defeated_trait_huern	Defeated Huern the Wolf	false
+character_trait_levels_colour_text_hkrul_defeated_trait_huern	He is just a boy who cried wolf..	false
 character_trait_levels_explanation_text_hkrul_defeated_trait_huern	Defeated Huern the Wolf	false
-character_trait_levels_onscreen_name_hkrul_defeated_trait_huern	Defeated Huern the Wolf	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_huern	The Cub Slain	false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_0		false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_1		false
 ancillaries_onscreen_name_hkrul_uldsdau_eldur	Eldur & Logi	true

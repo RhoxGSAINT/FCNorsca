@@ -12,8 +12,8 @@ hkrul_adella_skeggi_charge	charge.png	120	charge.png	battle	true
 hkrul_adella_skeggi_md	defence.png	120	defence.png	battle	true
 hkrul_adella_skeggi_leadership	morale.png	120	morale.png	battle	true
 rhox_adella_monster_direct_dummy	effect_bundle_whispers.png	2	effect_bundle_whispers.png	campaign	true
-rhox_adella_corruption_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
-rhox_adella_corruption_higher_units_dummy	reign_of_chaos.png	1	reign_of_chaos.png	campaign	true
+rhox_adella_corruption_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
+rhox_adella_corruption_higher_units_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
 rhox_adella_lzd_mon_carnosaur_kho	unit_capacity.png	1	unit_capacity.png	campaign	true
 rhox_adella_lzd_mon_stegadon_nur	unit_capacity.png	1	unit_capacity.png	campaign	true
 rhox_adella_lzd_mon_troglodon_sla	unit_capacity.png	1	unit_capacity.png	campaign	true

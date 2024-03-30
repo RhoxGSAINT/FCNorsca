@@ -28,12 +28,12 @@ core:add_ui_created_callback(
 			mixer_add_faction_to_major_faction_list("wh_main_nor_graeling")
 			
 			mixer_change_lord_name("383940030", "hkrul_birna")
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_sarl", {"wh_dlc08_nor_feral_manticore","wh_dlc08_nor_inf_marauder_hunters_1","wh_main_nor_mon_chaos_trolls","wh_main_nor_inf_chaos_marauders_1"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_sarl", {"wh_dlc08_nor_feral_manticore","hkrul_dummy_sarl_marauder_hunters_0","wh_main_nor_mon_chaos_trolls","hkrul_dummy_sarl_chaos_marauders_1"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_sarl")
 			
 			
 			mixer_change_lord_name("960993442", "hkrul_hakka")
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"hkrul_dummy_aesling_inf_marauder_champions_1","scm_fc_norsca_aesling_nor_marauder","wh_dlc08_nor_mon_war_mammoth_0","scm_fc_norsca_aesling_nor_marauder_great_weapons"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"hkrul_dummy_aesling_inf_marauder_champions_1","scm_fc_norsca_aesling_nor_marauder","hkrul_dummy_aesling_inf_marauder_berserkers_0","wh_dlc08_nor_mon_war_mammoth_0","scm_fc_norsca_aesling_nor_marauder_great_weapons"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_aesling")
 			
 			mixer_change_lord_name("1752931370", "hkrul_surtha_ek")
