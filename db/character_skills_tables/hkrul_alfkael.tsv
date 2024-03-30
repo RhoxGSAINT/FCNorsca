@@ -1,12 +1,12 @@
 key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
 #character_skills_tables;5;db/character_skills_tables/hkrul_alfkael									
-wolftribe_skill_unique_wisdom	character_general_ability.png		The Wanderer's Wisdom	13	false	false	false	0.0000	0
-wolftribe_skill_self_wise_one	character_general_ability.png		Wise One	11	false	false	false	0.0000	0
-wolftribe_skill_self_songs_sagas	item_weapon.png		Songs and Sagas	0	false	false	false	0.0000	0
-wolftribe_skill_self_mead	character_morale.png		Mead of the Gods	0	false	false	false	0.0000	0
-wolftribe_skill_self_wind_walker	character_magic.png		Wind Walker	0	false	false	false	0.0000	0
-wolftribe_skill_self_frost_father	character_movement.png		Frost Father	0	false	false	false	0.0000	0
-wolftribe_skill_self_honored_forefather	character_general_ability.png		Honored Forefather	0	false	false	false	0.0000	0
+wolftribe_skill_unique_wisdom	hkrul_alfkael_special_0_2.png		The Wanderer's Wisdom	13	false	false	false	0.0000	0
+wolftribe_skill_self_wise_one	hkrul_alfkael_special_1_4.png		Wise One	11	false	false	false	0.0000	0
+wolftribe_skill_self_songs_sagas	hkrul_alfkael_special_1_0.png		Songs and Sagas	0	false	false	false	0.0000	0
+wolftribe_skill_self_mead	hkrul_alfkael_special_1_1.png		Mead of the Gods	0	false	false	false	0.0000	0
+wolftribe_skill_self_wind_walker	hkrul_alfkael_special_1_4.png		Wind Walker	0	false	false	false	0.0000	0
+wolftribe_skill_self_frost_father	hkrul_alfkael_special_1_3.png		Frost Father	0	false	false	false	0.0000	0
+wolftribe_skill_self_honored_forefather	hkrul_alfkael_special_1_5.png		Honored Forefather	0	false	false	false	0.0000	0
 wolftribe_skill_innate_one_eye	innate_hkrul_kolsvein.png		The One-Eyed	0	true	false	false	5.0000	0
 wh_dlc08_skill_all_dummy_agent_actions_wolftribe_shaman	battle_attack.png		Actions [HIDDEN]	0	false	false	false	0.0000	0
 shaman_dummy_hailstorm	trait_human.png			0	false	false	false	0.0000	0
