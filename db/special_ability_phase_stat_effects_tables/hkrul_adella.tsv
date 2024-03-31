@@ -13,3 +13,5 @@ hkrul_soren_sack_2_3	scalar_speed	1.3500	mult
 hkrul_soren_sack_2_4	scalar_spell_mastery	1.3500	mult
 hkrul_adella_fishbrain	stat_morale	5.0000	add
 hkrul_adella_fishbrain	stat_melee_attack	5.0000	add
+hkrul_dodvakt_bite	stat_charge_bonus	15.0000	add
+hkrul_dodvakt_bite	stat_melee_attack	15.0000	add

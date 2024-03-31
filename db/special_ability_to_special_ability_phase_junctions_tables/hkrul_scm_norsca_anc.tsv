@@ -5,9 +5,9 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_norsca_shield_1	true	true	false	hkrul_norsca_shield_1
 1	hkrul_norsca_shield_2	true	false	false	hkrul_norsca_shield_2_pas
 1	hkrul_norsca_helmet_2	true	true	false	hkrul_norsca_helmet_2_pas
-1	hkrul_norsca_helmet_2	true	false	false	hkrul_norsca_helmet_2_1
-2	hkrul_norsca_helmet_2	true	false	false	hkrul_norsca_helmet_2_2
-3	hkrul_norsca_helmet_2	true	false	false	hkrul_norsca_helmet_2_3
+1	hkrul_norsca_helmet_1	true	false	false	hkrul_norsca_helmet_2_1
+2	hkrul_norsca_helmet_1	true	false	false	hkrul_norsca_helmet_2_2
+3	hkrul_norsca_helmet_1	true	false	false	hkrul_norsca_helmet_2_3
 1	hkrul_norsca_sword_4	false	false	true	hkrul_norsca_sword_4
 1	hkrul_norsca_sword_1	true	false	false	hkrul_norsca_sword_1
 1	hkrul_norsca_sword_3	true	true	false	hkrul_norsca_sword_3

@@ -76,3 +76,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_asta_food_passive	true	true	false	hkrul_asta_food_passive
 1	hkrul_asta_food	true	true	false	hkrul_asta_food
 1	hkrul_adella_fishbrain	true	true	false	hkrul_adella_fishbrain
+1	hkrul_dodvakt_bite	true	false	false	hkrul_dodvakt_bite

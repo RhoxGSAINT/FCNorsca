@@ -154,3 +154,5 @@ unit_description_short_texts_text_r1kko_adella_tze_coatl	When Tzeentch wills it,
 unit_description_short_texts_text_rhox_skeggi_dodvakt	The Dodvakt - or Deathkeepers - were formed when the Norscan settlement of Skeggi was under undead threat. A elite unit of Skeggi warriors who still defend the coastal town to this day.	false
 unit_abilities_tooltip_text_hkrul_adella_fishbrain	As the Monolith of Jarl Fishbrain lumbers about the battlefield the many trinkets and treasures he was gifted drop down, causing marauders to flock around him in search of coin.	true
 unit_abilities_onscreen_name_hkrul_adella_fishbrain	Fishbrain's Treasure	true
+unit_abilities_tooltip_text_hkrul_dodvakt_bite	The Dodvakt charge in to the fray with their snarling beasts hungry for violence.	true
+unit_abilities_onscreen_name_hkrul_dodvakt_bite	Deathkeeper's Charge	true
