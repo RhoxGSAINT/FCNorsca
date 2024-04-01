@@ -1,0 +1,16 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/rhox_icefang							
+dead_drenok_ice_golem		dead_drenok_ice_golem	hc02\wef\wef_treekin\imposter\wef_treekin_imposter	1.0000	1.0000	0.0500	
+dead_drenok_ice_bears		dead_drenok_ice_bears		1.0000	1.0000	0.1000	
+dead_drenok_greater_ice_golem		dead_drenok_greater_ice_golem	grn_idol_of_gork_imposter	1.0000	1.4000	0.0000	grn_idol_of_gork_imposter
+scm_fc_norsca_icefang_nor_marauder_javelins		ice_marauder_javelins		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_throwing_axe		ice_marauder_throwing_axe		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_spear		ice_marauder_spear		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder		ice_marauder		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_great_weapons		ice_marauder_great_weapons		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_horsemen_throwing_axe		ice_marauder_horsemen_throwing_axe		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_horsemen		ice_marauder_horsemen		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_berserker		ice_marauder_dual_axes		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_champion_0		ice_marauder_champion		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_champion_1		ice_marauder_champion_great_mace		1.0000	1.0000	0.0500	
+scm_fc_norsca_icefang_nor_marauder_horsemaster		ice_marauder_horsemasters	hu1c\chs\chs_marauders\low_poly\chs_marauder_horsemen_lowlod	1.0000	0.9500	0.0500	hu1\imposter\humanoid_imposter
