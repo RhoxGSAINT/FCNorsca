@@ -89,7 +89,7 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.PooledResourceContext(&quot;rhox_fjordling_fish&quot;)"/>
+					context_function_id="PlayersFaction.PooledResourceContext(&quot;rhox_bjornling_fish&quot;)"/>
 				<callback_with_context
 					callback_id="ContextTextLabel"
 					context_object_id="CcoCampaignPooledResource"
@@ -112,7 +112,7 @@
 				<component_image
 					this="BCB6C443-EBA1-6B8D-68D1403697810EB6"
 					uniqueguid="BCB6C443-EBA1-6B8D-68D1403697810EB6"
-					imagepath="ui/skins/default/hkrul_fjordling_fish.png"/>
+					imagepath="ui/skins/default/hkrul_bjornling_fish.png"/>
 			</componentimages>
 			<states>
 				<newstate

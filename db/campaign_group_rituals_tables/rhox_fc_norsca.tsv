@@ -15,4 +15,4 @@ rhox_sayl_feature_group	rhox_sayl_ritual		0	true
 rhox_sarg_feature	wh3_main_ritual_sla_pleasure_arena		0	true
 rhox_sarg_feature	wh3_main_ritual_sla_pleasure_hunt		0	true
 rhox_sarg_feature	wh3_main_ritual_sla_pleasure_party		0	true
-rhox_fjordling_feature	rhox_fjordling_fish_sale		0	true
+rhox_bjornling_feature_group	rhox_bjornling_fish_sale		0	true

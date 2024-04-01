@@ -34,7 +34,11 @@ core:add_listener(
 				table.insert(available_item_list, confederation_items_list[i])
 			end
 		end
-        cm:add_ancillary_to_faction(faction, available_item_list[cm:random_number(#available_item_list)],false)
+		if #available_item_list>=1 then
+            cm:add_ancillary_to_faction(faction, available_item_list[cm:random_number(#available_item_list)],false)
+        else--just give random if player has all already
+            cm:add_ancillary_to_faction(faction, confederation_items_list[cm:random_number(#confederation_items_list)],false)
+        end
     end,
     true
 );

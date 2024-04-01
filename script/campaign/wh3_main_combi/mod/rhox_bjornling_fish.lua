@@ -1,4 +1,4 @@
-local fjordling_faction = "mixer_nor_fjordlings"
+local bjornling_faction = "wh_main_nor_bjornling"
 
 local choice_string ={
     "FIRST",
@@ -13,16 +13,16 @@ local trade_candidate={
 }
 
 core:add_listener(
-    "rhox_fjordling_ritual_completed",
+    "rhox_bjornling_ritual_completed",
     "RitualCompletedEvent",
     function(context)
         local ritual = context:ritual()
         local faction = context:performing_faction();
         local faction_key = faction:name();
-        return ritual:ritual_key() == "rhox_fjordling_fish_sale" and faction:is_human()
+        return ritual:ritual_key() == "rhox_bjornling_fish_sale" and faction:is_human()
     end,
     function(context)
-        local faction = cm:get_faction(fjordling_faction)
+        local faction = cm:get_faction(bjornling_faction)
         
         trade_candidate={}--reset
 
@@ -39,9 +39,9 @@ core:add_listener(
         
         --out("Rhox Fjordling: Trade candidate Number: ".. #trade_candidate)
 
-        local dilemma_builder = cm:create_dilemma_builder("rhox_fjordling_fish_sale");
+        local dilemma_builder = cm:create_dilemma_builder("rhox_bjornling_fish_sale");
 		local payload_builder = cm:create_payload();
-        payload_builder:treasury_adjustment(1500+cm:random_number(300,-300));
+        payload_builder:treasury_adjustment(1200+cm:random_number(600,0));
         dilemma_builder:add_choice_payload("FIRST", payload_builder);
         payload_builder:clear();
         local candidate_num =#trade_candidate
@@ -49,8 +49,8 @@ core:add_listener(
             candidate_num =3
         end
         for i=1,candidate_num do
-            payload_builder:treasury_adjustment(2500+cm:random_number(500,-500));
-            payload_builder:diplomatic_attitude_adjustment(trade_candidate[i], 2)
+            payload_builder:treasury_adjustment(2000+cm:random_number(1000,0));
+            payload_builder:diplomatic_attitude_adjustment(trade_candidate[i], cm:random_number(3,1))
             dilemma_builder:add_choice_payload(choice_string[i+1], payload_builder);--1 is local
             payload_builder:clear();
         end
@@ -62,14 +62,14 @@ core:add_listener(
 )
 
 core:add_listener(
-    "rhox_fjordling_settlements_fish_sale_dilemma_issued",
+    "rhox_bjornling_settlements_fish_sale_dilemma_issued",
     "DilemmaIssuedEvent",
     function(context)
-        return context:dilemma() == "rhox_fjordling_fish_sale"
+        return context:dilemma() == "rhox_bjornling_fish_sale"
     end,
     function(context)
         core:add_listener(
-        "rhox_fjordling_dilemma_panel_listener",
+        "rhox_bjornling_dilemma_panel_listener",
         "PanelOpenedCampaign",
         function(context)
             return (context.string == "events")
@@ -91,7 +91,7 @@ core:add_listener(
                     local faction_name_string = ("[[img:"..flag_path.."/mon_24.png]][[//img]] "..common.get_localised_string("factions_screen_name_".. trade_candidate[i]:name()))
                     
 
-                    local dilemma_location = find_uicomponent(core:get_ui_root(),"events", "event_layouts", "dilemma_active", "dilemma", "background","dilemma_list", "CcoCdirEventsDilemmaChoiceDetailRecordrhox_fjordling_fish_sale"..choice_string[i+1], "choice_button", "button_txt")
+                    local dilemma_location = find_uicomponent(core:get_ui_root(),"events", "event_layouts", "dilemma_active", "dilemma", "background","dilemma_list", "CcoCdirEventsDilemmaChoiceDetailRecordrhox_bjornling_fish_sale"..choice_string[i+1], "choice_button", "button_txt")
                     if dilemma_location then
                         dilemma_location:SetText(faction_name_string)
                     end
@@ -109,28 +109,13 @@ core:add_listener(
 )
 
 
-cm:add_first_tick_callback(
-    function()
-    
-        if cm:get_local_faction_name(true) == fjordling_faction then
-            
 
-            local parent_ui = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar");
-            
-            local result = core:get_or_create_component("rhox_fjordling_ritual_button", "ui/campaign ui/rhox_fjordling_ritual_button.twui.xml", parent_ui)
-            result:SetContextObject(cco("CcoCampaignFaction", fjordling_faction))
-            local result2 = core:get_or_create_component("rhox_fjordling_resource_holder", "ui/campaign ui/rhox_fjordling_resource_holder.twui.xml", parent_ui)
-            
-        end
-        
-    end
-)
 
 
 --[[
 
 core:add_listener(
-    "rhox_fjordling_show_resource",
+    "rhox_bjornling_show_resource",
     "ForceAdoptsStance",
     function(context)
         local faction = context:military_force():faction()
