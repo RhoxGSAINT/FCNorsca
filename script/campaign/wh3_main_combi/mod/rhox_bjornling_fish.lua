@@ -108,9 +108,43 @@ core:add_listener(
     true
 )
 
+local fish_ancillaries={
+    "hkrul_norsca_fish_01",
+    "hkrul_norsca_fish_02",
+    "hkrul_norsca_fish_03",
+    "hkrul_norsca_fish_04",
+    "hkrul_norsca_fish_05",
+    "hkrul_norsca_fish_06",
+    "hkrul_norsca_fish_07",
+    "hkrul_norsca_fish_08",
+    "hkrul_norsca_fish_09",
+    "hkrul_norsca_fish_10",
+    "hkrul_norsca_fish_11",
+    "hkrul_norsca_fish_12",
+    "hkrul_norsca_fish_13",
+    "hkrul_norsca_fish_14",
+}
 
 
-
+core:add_listener(
+    "rhox_bjornling_item",
+    "CharacterTurnStart",
+    function(context)
+        local character = context:character()
+        local faction = character:faction()
+        if not character:has_military_force() then
+            return false
+        end
+        local military_force = character:military_force()
+        local base_chance = 5
+        return faction:name() == bjornling_faction and military_force:active_stance() == "MILITARY_FORCE_ACTIVE_STANCE_TYPE_DOUBLE_TIME" and cm:random_number(100,1) <= base_chance
+    end,
+    function(context)
+        local character = context:character()
+        cm:force_add_ancillary(character, fish_ancillaries[cm:random_number(#fish_ancillaries,1)], false, false)
+    end,
+    true
+)
 
 --[[
 

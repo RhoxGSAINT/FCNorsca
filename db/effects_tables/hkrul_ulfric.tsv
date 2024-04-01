@@ -16,3 +16,5 @@ hkrul_contact_shield_up	effect_bundle_shield_up.png	3	effect_bundle_shield_up.pn
 hkrul_norsca_bjornling_huscarl_cap	unit_capacity.png	300	unit_capacity.png	campaign	true
 rhox_bjornling_fish_catching	hkrul_bjornling_fish.png	1	hkrul_bjornling_fish.png	campaign	true
 rhox_bjornling_fish_feature_dummy	hkrul_bjornling_fish.png	1	hkrul_bjornling_fish.png	campaign	true
+rhox_bjornling_no_raze_feature_dummy	reign_of_chaos.png	200	reign_of_chaos.png	campaign	false
+rhox_ulfric_item_chance_dummy	item_ability.png	300	item_ability.png	battle	true

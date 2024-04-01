@@ -133,3 +133,47 @@ effects_description_rhox_bjornling_fish_catching	Fish: %+n	false
 effect_bundles_localised_description_hkrul_vandred_faction_trait		false
 effect_bundles_localised_title_hkrul_vandred_faction_trait		false
 effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Does not have access to Full Speed stance in naval, instead, they have access to fishing stance where you can gather fish and sell it to trading partners[[/col]]	false
+effects_description_rhox_bjornling_no_raze_feature_dummy	Can't raze the settlement to gain allegiance to the Chaos Gods	false
+effects_description_rhox_ulfric_item_chance_dummy	Chance to gain item from fishing: %+n%	false
+ancillaries_explanation_text_hkrul_norsca_fish_01	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_02	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_03	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_04	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_05	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_06	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_07	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_08	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_09	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_10	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_11	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_12	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_13	Gained from Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_14	Gained from Fishing	false
+ancillaries_onscreen_name_hkrul_norsca_fish_01	Oculus Infirma	false
+ancillaries_onscreen_name_hkrul_norsca_fish_02	Erik's Lost Hook	false
+ancillaries_onscreen_name_hkrul_norsca_fish_03	Bonechill Terror	false
+ancillaries_onscreen_name_hkrul_norsca_fish_04	Krakenshade Embrace	false
+ancillaries_onscreen_name_hkrul_norsca_fish_05	Blighted Blubberfish	false
+ancillaries_onscreen_name_hkrul_norsca_fish_06	Silverscale Salmon	false
+ancillaries_onscreen_name_hkrul_norsca_fish_07	Plaguepike	false
+ancillaries_onscreen_name_hkrul_norsca_fish_08	Siren's Songfish	false
+ancillaries_onscreen_name_hkrul_norsca_fish_09	Serpentine Seraph	false
+ancillaries_onscreen_name_hkrul_norsca_fish_10	Goregill Crab	false
+ancillaries_onscreen_name_hkrul_norsca_fish_11	Skullcrusher Shell	false
+ancillaries_onscreen_name_hkrul_norsca_fish_12	Celestial Cod	false
+ancillaries_onscreen_name_hkrul_norsca_fish_13	Eldagrimm Bass	false
+ancillaries_onscreen_name_hkrul_norsca_fish_14	Marienburg Floater	false
+ancillaries_colour_text_hkrul_norsca_fish_01	This repulsive starfish, bloated with the foul blessings of Nurgle, pulsates with an eerie green glow. Its numerous tentacles, lined with unblinking eyes, seem to draw in the surrounding decay like a vortex of pestilence and despair, corrupting all in its vicinity.	false
+ancillaries_colour_text_hkrul_norsca_fish_02	Crafted by the legendary fisherman Erik Losteriksson, this hook was said to be imbued with the spirit of the sea itself. Lost during his fateful voyages, its whereabouts remain a mystery, but tales whisper of its reappearance, beckoning a new master to claim its power.	false
+ancillaries_colour_text_hkrul_norsca_fish_03	This skeletal horror of the deep, once a fearsome predator, now drifts endlessly in the cold currents, a haunting reminder of the ocean's mysteries. Legends speak of sailors driven mad by its eerie presence, haunted by visions of the abyss.	false
+ancillaries_colour_text_hkrul_norsca_fish_04	This monstrous cephalopod, with eyes like pools of midnight, is said to be a harbinger of storms, its writhing limbs ensnaring vessels unlucky enough to cross its path. Its ink-black embrace heralds doom for those who dare venture too far into the deep.	false
+ancillaries_colour_text_hkrul_norsca_fish_05	A putrid, bloated fish writhing with festering sores and oozing with foul ichor. Its presence heralds decay and pestilence, spreading corruption wherever it swims.	false
+ancillaries_colour_text_hkrul_norsca_fish_06	Glittering like shards of moonlight upon the sea, this prized fish is a delicacy among Bjornling sailors. Tales are spun of ancient rites and forgotten rituals that are reawakened by the shimmering scales of this revered catch.	false
+ancillaries_colour_text_hkrul_norsca_fish_07	Twisted by the filth of Nurgle's touch, this diseased pike exudes an aura of decay. Sailors share tales of unsettling visions and morbid omens that haunt the dreams of those who encounter this putrid creature.	false
+ancillaries_colour_text_hkrul_norsca_fish_08	Whispers abound of sailors ensnared by the mesmerizing hues of this bewitched fish. Seafarers tell of haunting melodies and haunting harmonies that echo through the night, luring both friend and foe alike.	false
+ancillaries_colour_text_hkrul_norsca_fish_09	Writhing with serpentine grace, this ethereal fish is said to be touched by the ever-changing winds of Tzeentch. Mariners recount tales of shifting currents and swirling eddies that mark the passage of this elusive creature.	false
+ancillaries_colour_text_hkrul_norsca_fish_10	Bearing the scars of countless battles, this monstrous crab embodies the savagery of Khorne's warriors. Legends speak of the primal rage and unyielding fury that emanate from the clawed grasp of this fearsome crustacean.	false
+ancillaries_colour_text_hkrul_norsca_fish_11	This fearsome shell, adorned with jagged spikes and streaked with blood-red hues, is said to have been blessed by the Blood God himself. Legends tell of warriors who wielded such shells as shields, their enemies quaking in fear before the unstoppable fury of Khorne's chosen.	false
+ancillaries_colour_text_hkrul_norsca_fish_12	Shrouded in mystery, this divine fish is whispered to be a gift from the gods themselves. Legends speak of celestial blessings and divine intervention that accompany those who are favored by the presence of this sacred catch.	false
+ancillaries_colour_text_hkrul_norsca_fish_13	A plain fish common to the Sea of Claws, it holds little to no value - nor does it hold any taste. Unless one prefers the taste of salt and bone, that is.	false
+ancillaries_colour_text_hkrul_norsca_fish_14	How this floater managed to survive the frozen waters remains a mystery, yet his knowledge over the ways of men might proof valueable, as his servitude is endless after saving him from a certain death.	false
