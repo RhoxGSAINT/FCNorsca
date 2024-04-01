@@ -4,4 +4,4 @@ rhox_sayl_ritual_dilemma	false			army_morale_up	false	Event				false
 daemon_hunter_0	false	A greater daemon was slain in our most recent hunt, and our achievement has not gone unnoticed. The Four are impressed and wish to reward their rising champion, while in the distance a mighty howl can be heard echoing over the mountains. Whose favor shall we recieve?	The Attention of the Gods	messenger	false	Event				false
 daemon_hunter_1	false	We have earned the attention of the Four, but we may only receive a boon from one. Whose gift shall we receive?	A Boon from the Four	chaos_invasion	false	Event				false
 daemon_hunter_2	false	Following the wolf cry, we find ourselves in a frigid mountain valley. Before us stands an enormous white wolf, its eyes gleaming with intelligence. Hail to the Wolf God.	The Savage Hunter	god_khorne_rage	false	Event				false
-rhox_fjordling_fish_sale	false			celebration	false	Event				false
+rhox_bjornling_fish_sale	false			celebration	false	Event				false

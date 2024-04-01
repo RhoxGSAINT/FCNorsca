@@ -111,3 +111,25 @@ unit_abilities_tooltip_text_hkrul_ulfric_axe_formation	The fiercest of Bjornling
 effects_description_hkrul_norsca_bjornling_huscarl_cap	Unit capacity: %+n for Bjornling Huscarls	false
 missions_localised_title_rhox_fc_norsca_capture_ice_bay	Hafskael's Yard	false
 missions_localised_description_rhox_fc_norsca_capture_ice_bay	Seize control of the Ice Pack Bay region, home to the renowned shipyard of Hafskael. As you storm the shores and conquer the rugged cliffs, you secure access to the master shipwright's expertise, granting your tribe the coveted Huscarl units forged within these hallowed halls.\\n\\n Additionally, claiming this strategic port grants you the ability to construct mighty longships, ensuring your naval dominance in the treacherous northern seas. By securing Ice Pack Bay, you not only bolster your naval power and elite forces but also pave the way for diplomatic overtures with the Empire, particularly Nordland. Control of this vital port signals your tribe's readiness to engage in lucrative trade ventures and collaborative endeavors, laying the foundation for prosperous alliances beyond the tumultuous shores of Norsca.	false
+dilemmas_localised_description_rhox_bjornling_fish_sale	We're selling fish to the factions we have trade agreements with, who do you want to sell fish to?	false
+dilemmas_localised_title_rhox_bjornling_fish_sale	Fish selling	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_bjornling_fish_saleFIRST	Sell to locals	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_bjornling_fish_saleSECOND	Second Candidate	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_bjornling_fish_saleTHIRD	Third Candidate	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_bjornling_fish_saleFOURTH	Fourth Candidate	false
+pooled_resource_factors_display_name_negative_rhox_bjornling_fish_sell	Sold	false
+pooled_resource_factors_display_name_positive_rhox_bjornling_fish_sell	Caught	false
+pooled_resource_factors_display_name_negative_rhox_bjornling_fish_catch	Sold	false
+pooled_resource_factors_display_name_positive_rhox_bjornling_fish_catch	Caught	false
+effect_bundles_localised_description_rhox_bjornling_fish_stance	Catching Fish	false
+effect_bundles_localised_title_rhox_bjornling_fish_stance	Catching Fish	false
+rituals_description_rhox_bjornling_fish_sale	Fish selling	false
+rituals_display_name_rhox_bjornling_fish_sale	Fish selling	false
+pooled_resources_description_rhox_bjornling_fish	you can sell it for money and diplomatic relationship	false
+pooled_resources_display_name_rhox_bjornling_fish	Fish	false
+pooled_resources_negative_factors_display_name_rhox_bjornling_fish	Sold	false
+pooled_resources_positive_factors_display_name_rhox_bjornling_fish	Caught	false
+effects_description_rhox_bjornling_fish_catching	Fish: %+n	false
+effect_bundles_localised_description_hkrul_vandred_faction_trait		false
+effect_bundles_localised_title_hkrul_vandred_faction_trait		false
+effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Does not have access to Full Speed stance in naval, instead, they have access to fishing stance where you can gather fish and sell it to trading partners[[/col]]	false

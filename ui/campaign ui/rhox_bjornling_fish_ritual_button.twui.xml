@@ -5,11 +5,11 @@
 	precache_condition="IsSkinActive(&quot;warhammer3&quot;) == false">
 	<hierarchy>
 		<root this="CA889418-B4B0-6557-AC47534FA4D54858">
-            <rhox_fjordling_ritual_button this="94F8F47F-E13A-39CB-60D587066C5F31CD">
+            <rhox_bjornling_ritual_button this="94F8F47F-E13A-39CB-60D587066C5F31CD">
                 <frame this="F3E21AC6-A505-8A61-9377CD7DE50C1E8E">
                     <skulls_button this="70E435C5-F5DD-00A5-E2360ED78B8B6BA2"/>
                 </frame>
-            </rhox_fjordling_ritual_button>
+            </rhox_bjornling_ritual_button>
 		</root>
 	</hierarchy>
 	<components>
@@ -46,9 +46,9 @@
 				</default>
 			</states>
 		</root>
-        <rhox_fjordling_ritual_button
+        <rhox_bjornling_ritual_button
 			this="94F8F47F-E13A-39CB-60D587066C5F31CD"
-			id="rhox_fjordling_ritual_button"
+			id="rhox_bjornling_ritual_button"
 			offset="881.00,0.00"
 			visible="true"
 			priority="1"
@@ -60,7 +60,7 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoCampaignFaction"
-					context_function_id="RitualContextForKey(&quot;rhox_fjordling_fish_sale&quot;)"/>
+					context_function_id="RitualContextForKey(&quot;rhox_bjornling_fish_sale&quot;)"/>
 			</callbackwithcontextlist>
 			<states>
 				<default
@@ -70,7 +70,7 @@
 					height="80"
 					uniqueguid="1A127CAA-E171-B476-2D1F2137DF1207F8"/>
 			</states>
-		</rhox_fjordling_ritual_button>
+		</rhox_bjornling_ritual_button>
         <frame
 			this="F3E21AC6-A505-8A61-9377CD7DE50C1E8E"
 			id="frame"

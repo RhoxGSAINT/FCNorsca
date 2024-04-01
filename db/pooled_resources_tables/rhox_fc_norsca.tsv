@@ -3,4 +3,4 @@ key	maximum	minimum	ai_ignored	default_factor	optional_icon_path	income_policy	r
 rhox_akkorak_horse	10000	0	false	other	hkrul_akkorak_horse.png	END_OF_ROUND	false	FACTION	false	0		false	true
 rhox_sarg_devotee_spent_und	2147483647	0	false	wh2_main_resource_factor_other	icon_soul_hybrid_undivided.png	END_OF_ROUND	false	FACTION	false	1		false	true
 rhox_sarg_devotee_spent_sla	2147483647	0	false	wh2_main_resource_factor_other	icon_soul_hybrid_slaanesh.png	END_OF_ROUND	false	FACTION	false	1		false	true
-rhox_fjordling_fish	2147483647	0	false	other	hkrul_fjordling_fish.png	END_OF_ROUND	false	FACTION	false	0		false	true
+rhox_bjornling_fish	2147483647	0	false	other	hkrul_bjornling_fish.png	END_OF_ROUND	false	FACTION	false	0		false	true
