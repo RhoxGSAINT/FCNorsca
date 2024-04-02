@@ -14,3 +14,5 @@ hkrul_contact_icefang	hkrul_phase_contact_icefang.png	140	hkrul_phase_contact_ic
 hkrul_drenok_greataxe	item_ability.png	300	item_ability.png	battle	true
 rhox_drenok_ice_chance	effect_bundle_ice_units.png	140	effect_bundle_ice_units.png	battle	true
 rhox_drenok_ice_feature_dummy	effect_bundle_ice_units.png	140	effect_bundle_ice_units.png	battle	true
+rhox_drenok_ice_unit_upkeep	military_spending.png	99	military_spending.png	campaign	false
+rhox_drenok_ice_unit_strength	weapon_damage.png	97	weapon_damage.png	battle	true

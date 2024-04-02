@@ -108,3 +108,5 @@ unit_abilities_onscreen_name_hkrul_wolf_walk	Hunters of Fjirgard	false
 unit_abilities_tooltip_text_hkrul_wolf_walk	The women of Fjirgard pay tribute to the Werekin that inhabit the caves, as they rely on them to hunt precious food - be it men or beast.	false
 unit_description_historical_texts_text_dead_drenok_ice_golem		false
 unit_description_historical_texts_text_dead_drenok_greater_ice_golem		false
+effects_description_rhox_drenok_ice_unit_upkeep	Upkeep: %+n% for Ice infused units	false
+effects_description_rhox_drenok_ice_unit_strength	weapon Strength: %+n% for Ice infused units	false
