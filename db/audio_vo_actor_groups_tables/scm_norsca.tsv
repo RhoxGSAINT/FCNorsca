@@ -1,0 +1,15 @@
+name	vo_actor_1	vo_actor_2	vo_actor_3	vo_actor_4	vo_actor_5	vo_actor_6	vo_actor_7	vo_actor_8	vo_actor_9	vo_actor_10	vo_actor_11	vo_actor_12	vo_actor_13	vo_actor_14	vo_actor_15	cooldown_overlap	container
+#audio_vo_actor_groups_tables;4;db/audio_vo_actor_groups_tables/scm_norsca																	
+scm_norsca_huern	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan1															0.0000	random
+wh3_mod_vo_actor_Khorne_Kolsveinn	wh3_dlc20_vo_actor_Khorne_Exalted_Hero_of_Khorne2															0.0000	random
+wh3_mod_vo_actor_Khorne_Hakka	wh3_main_vo_actor_Khorne_Cultist_Of_Khorne1															0.0000	random
+wh_mod_vo_actor_Chaos_Rafn	wh_main_vo_actor_Chaos_ExhaltedHero1															0.0000	random
+wh_mod_vo_actor_Wood_Elves_Oda	wh2_dlc16_vo_actor_Wood_Elves_GladeCaptain2															0.0000	random
+wh_mod_vo_actor_Chaos_Lokjar	wh_main_vo_actor_Chaos_ExhaltedHero2															0.0000	random
+wh2_mod_vo_actor_VampireCoast_Verdandi	wh2_dlc11_vo_actor_VampireCoast_Fleet_Captain2															0.0000	random
+wh_mod_vo_actor_Chaos_Akkroak	wh_main_vo_actor_Chaos_Lord1															0.0000	random
+wh_mod_vo_actor_Wood_Elves_Birna	wh_dlc05_vo_actor_Wood_Elves_Female_Glade_Lord2															0.0000	random
+wh_mod_vo_actor_Dwarf_Drenok	wh_main_vo_actor_Dwarf_Lord2															0.0000	random
+wh3_mod_vo_actor_Slaanesh_Sargath	wh3_dlc20_vo_actor_Slaanesh_Chaos_Lord_of_Slaanesh2															0.0000	random
+wh3_mod_vo_actor_Slaanesh_Uzu	wh3_dlc20_vo_actor_Slaanesh_Sorcerer_of_Slaanesh2															0.0000	random
+wh_mod_vo_actor_Khorne_Hrothgar	wh3_dlc20_vo_actor_Khorne_Chaos_Lord_of_Khorne2															0.0000	random
