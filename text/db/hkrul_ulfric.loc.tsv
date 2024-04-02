@@ -83,7 +83,7 @@ ancillaries_colour_text_hkrul_ulfric_chariot	Marauder mobs are awarded even grea
 ancillaries_onscreen_name_hkrul_ulfric_chariot	Marauder Chariot	false
 land_units_onscreen_name_hkrul_ulfric_horse	Ulfric Grondal	false
 land_units_onscreen_name_hkrul_ulfric_chariot	Ulfric Grondal	false
-effects_description_rhox_ulfric_feature_dummy	Politics of Men: Influence the Kislevite civil war by sending Norscan Raiding parties to plunder Kislev territories	false
+effects_description_rhox_ulfric_feature_dummy	Influence the Kislevite civil war by sending Norscan Raiding parties to plunder Kislev territories	false
 technologies_onscreen_name_rhox_bjornling_ritual_1	Invocation of Ursun	false
 technologies_short_description_rhox_bjornling_ritual_1	The fate of Kislev is linked in many minds to the fortunes and favour of the great Bear God, Ursun.	false
 technologies_onscreen_name_rhox_bjornling_ritual_2	Invocation of Tor	false
@@ -125,30 +125,30 @@ effect_bundles_localised_description_rhox_bjornling_fish_stance	Catching Fish	fa
 effect_bundles_localised_title_rhox_bjornling_fish_stance	Catching Fish	false
 rituals_description_rhox_bjornling_fish_sale	Fish selling	false
 rituals_display_name_rhox_bjornling_fish_sale	Fish selling	false
-pooled_resources_description_rhox_bjornling_fish	you can sell it for money and diplomatic relationship	false
+pooled_resources_description_rhox_bjornling_fish	Fish is bartered in trades for currency and diplomatic standings	false
 pooled_resources_display_name_rhox_bjornling_fish	Fish	false
 pooled_resources_negative_factors_display_name_rhox_bjornling_fish	Sold	false
 pooled_resources_positive_factors_display_name_rhox_bjornling_fish	Caught	false
 effects_description_rhox_bjornling_fish_catching	Fish: %+n	false
 effect_bundles_localised_description_hkrul_vandred_faction_trait		false
 effect_bundles_localised_title_hkrul_vandred_faction_trait		false
-effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Does not have access to Full Speed stance in naval, instead, they have access to fishing stance where you can gather fish and sell it to trading partners[[/col]]	false
-effects_description_rhox_bjornling_no_raze_feature_dummy	Can't raze the settlement to gain allegiance to the Chaos Gods	false
-effects_description_rhox_ulfric_item_chance_dummy	Chance to gain item from fishing: %+n%	false
-ancillaries_explanation_text_hkrul_norsca_fish_01	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_02	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_03	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_04	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_05	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_06	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_07	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_08	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_09	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_10	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_11	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_12	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_13	Gained from Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_14	Gained from Fishing	false
+effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Fishing stance replaces Full Speed stance whilst at sea, fish can be bartered in trades[[/col]]	false
+effects_description_rhox_bjornling_no_raze_feature_dummy	Bjornlings worship both the Gods of Men and the Gods of Chaos, and thus can't pledge full allegiance to a Chaos God via razing settlements.	false
+effects_description_rhox_ulfric_item_chance_dummy	%+n% chance to drench up a unique ancillary	false
+ancillaries_explanation_text_hkrul_norsca_fish_01	Drenched up during Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_02	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_03	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_04	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_05	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_06	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_07	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_08	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_09	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_10	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_11	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_12	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_13	Drenched up whilst Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_14	Drenched up whilst Fishing	false
 ancillaries_onscreen_name_hkrul_norsca_fish_01	Oculus Infirma	false
 ancillaries_onscreen_name_hkrul_norsca_fish_02	Erik's Lost Hook	false
 ancillaries_onscreen_name_hkrul_norsca_fish_03	Bonechill Terror	false

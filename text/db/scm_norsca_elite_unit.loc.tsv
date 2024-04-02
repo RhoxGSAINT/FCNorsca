@@ -1,10 +1,10 @@
 key	text	tooltip
 #Loc;1;text/db/scm_norsca_elite_unit.loc		
-land_units_onscreen_name_rhox_graeling_champion	Elite Graeling Marauder Champion	false
-land_units_onscreen_name_rhox_baersonling_champion	Elite Baersonling Marauder Champion (Great Weapon)	false
-land_units_onscreen_name_rhox_kurgan_champion	Elite Kurgan Marauder Champion	false
-land_units_onscreen_name_rhox_kurgan_spearman	Elite Kurgan Marauder Spearmen	false
-land_units_onscreen_name_rhox_kurgan_javelin	Elite Kurgan Marauder Hunters (Javelins)	false
-land_units_onscreen_name_rhox_aesling_berserker	Elite Aesling Marauder Berserkers	false
-land_units_onscreen_name_rhox_skeggi_champion	Elite Skeggi Marauder Champion	false
-land_units_onscreen_name_rhox_yusak_devoted_marauders	Elite Yusak Devoted Marauders of Slaanesh (Spear)	false
+land_units_onscreen_name_rhox_graeling_champion	Graeling Marauder Champions	false
+land_units_onscreen_name_rhox_baersonling_champion	Baersonling Marauder Champion (Great Weapons)	false
+land_units_onscreen_name_rhox_kurgan_champion	Kurgan Marauder Champions	false
+land_units_onscreen_name_rhox_kurgan_spearman	Kurgan Marauder Spearmen	false
+land_units_onscreen_name_rhox_kurgan_javelin	Kurgan Marauder Hunters (Javelins)	false
+land_units_onscreen_name_rhox_aesling_berserker	Aesling Marauder Berserkers	false
+land_units_onscreen_name_rhox_skeggi_champion	Skeggi Marauder Champions	false
+land_units_onscreen_name_rhox_yusak_devoted_marauders	Elite Yusak Devoted Marauders of Slaanesh (Spears)	false
