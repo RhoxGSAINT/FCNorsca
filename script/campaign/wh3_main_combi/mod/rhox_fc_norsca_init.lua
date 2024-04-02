@@ -442,6 +442,12 @@ local rhox_faction_list={
                 false,
                 function(cqi)
                 end);
+                
+                --this is because they don't get allegiance
+                cm:set_saved_value("norscan_favour_lvl_3_reached_" .. faction_key, true) --this will also block hunting rewards
+                cm:complete_scripted_mission_objective(faction_key, "wh_main_short_victory", "attain_chaos_god_favour_lvl_2", true)
+                cm:complete_scripted_mission_objective(faction_key, "wh_main_long_victory", "attain_chaos_god_favour", true)
+
             end
         end,
         first_tick = function(faction, faction_key) 

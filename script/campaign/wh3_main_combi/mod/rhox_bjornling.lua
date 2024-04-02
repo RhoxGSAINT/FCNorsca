@@ -146,6 +146,32 @@ core:add_listener(
     true
 )
 
+
+local norse_god_allegiances={
+    nor_progress_crow=true,
+    nor_progress_eagle=true,
+    nor_progress_hound=true,
+    nor_progress_serpent=true,
+}
+
+
+
+
+core:add_listener(
+    "rhox_bjornling_nor_progress_changed",
+    "PooledResourceChanged",
+    function(context)
+        return norse_god_allegiances[context:resource():key()] and context:faction():name() == bjornling_faction
+    end,
+    function(context)
+        local faction_key = context:faction():name()
+        local resource_key = context:resource():key()
+        cm:faction_add_pooled_resource(faction_key, resource_key, "events", -100)
+    end,
+    true
+)
+
+
 --[[
 
 core:add_listener(

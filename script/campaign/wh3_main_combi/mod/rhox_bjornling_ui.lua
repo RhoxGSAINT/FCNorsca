@@ -45,6 +45,11 @@ cm:add_first_tick_callback(
                 end,
                 true
             )
+            
+            local norsca_gods_frame = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar", "norsca_favour")
+            if norsca_gods_frame then
+                norsca_gods_frame:SetVisible(false)
+            end
         end
     end
 )
