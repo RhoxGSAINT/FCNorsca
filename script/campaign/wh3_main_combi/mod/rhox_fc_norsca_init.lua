@@ -695,7 +695,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
-		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "scm_norsca_uldsdau", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "scm_norsca_ulsdau", faction:faction_leader():command_queue_index(), true)
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_graill", faction:faction_leader():command_queue_index(), true)
 		    if faction:is_human() then
                 rhox_transfer_region("wh3_main_combi_region_doomkeep", "wh_main_nor_graeling")

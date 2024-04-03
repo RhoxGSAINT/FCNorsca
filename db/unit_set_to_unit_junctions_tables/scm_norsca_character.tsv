@@ -82,9 +82,9 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_sarg_exalted_seeker_chariot	nor_all	false
 			hkrul_surtha_ek	all_non_chs	true
 			hkrul_surtha_ek	nor_all	false
-			scm_norsca_uldsdau	characters	false
-			scm_norsca_uldsdau	all_non_chs	true
-			scm_norsca_uldsdau	nor_all	false
+			scm_norsca_ulsdau	characters	false
+			scm_norsca_ulsdau	all_non_chs	true
+			scm_norsca_ulsdau	nor_all	false
 			nor_skin_wolf_lord	characters	false
 			nor_skin_wolf_lord	all_non_chs	true
 			nor_skin_wolf_lord	nor_all	false

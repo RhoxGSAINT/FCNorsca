@@ -71,7 +71,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_hrothgar_passive	true	false	false	hkrul_hrothgar_passive
 1	hkrul_ice_golem_stance	true	false	false	hkrul_ice_golem_stance
 1	hkrul_ice_golem_walk	true	false	false	hkrul_ice_golem_walk
-1	hkrul_wolf_walk	true	false	false	hkrul_wolf_walk
+1	hkrul_wolf_walk	true	true	false	hkrul_wolf_walk
 1	hkrul_asta_arrow	true	false	false	hkrul_asta_arrow
 1	hkrul_asta_food_passive	true	true	false	hkrul_asta_food_passive
 1	hkrul_asta_food	true	true	false	hkrul_asta_food

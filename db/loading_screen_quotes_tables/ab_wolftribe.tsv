@@ -1,8 +1,0 @@
-key	image	max_displays	weighting	first_shown_weighting	category
-#loading_screen_quotes_tables;5;db/loading_screen_quotes_tables/ab_wolftribe					
-wolftribe_loading	ui/flags/wh_dlc08_nor_naglfarlingsr/mon_64.png	-1	1	4	campaign
-wolftribe_scm_norsca_huern_loading	ui/portraits/portholes/no_culture/scm_norsca_huern.png	-1	1	3	unit
-wolftribe_hidolfr_loading	ui/portraits/portholes/no_culture/scm_norsca_alfkael.png	-1	1	3	unit
-wolftribe_scm_norsca_asta_loading	ui/portraits/portholes/no_culture/scm_norsca_asta.png	-1	1	3	unit
-wolftribe_gjalfr_loading	ui/portraits/portholes/no_culture/gjalfr.png	-1	1	3	unit
-wolftribe_scm_norsca_uldsdau_loading	ui/portraits/portholes/no_culture/scm_norsca_uldsdau.png	-1	1	3	unit

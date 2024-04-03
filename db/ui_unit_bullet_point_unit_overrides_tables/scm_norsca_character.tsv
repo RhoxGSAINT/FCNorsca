@@ -118,9 +118,9 @@ anti_large	scm_norsca_huern_wolf
 damage_dealer	scm_norsca_huern_wolf
 frenzy	scm_norsca_huern_wolf
 regeneration	scm_norsca_huern_wolf
-anti_large	scm_norsca_uldsdau
-armour_piercing	scm_norsca_uldsdau
-melee_expert	scm_norsca_uldsdau
+anti_large	scm_norsca_ulsdau
+armour_piercing	scm_norsca_ulsdau
+melee_expert	scm_norsca_ulsdau
 anti_large	scm_norsca_asta
 armour_piercing	scm_norsca_asta
 hybrid	scm_norsca_asta

@@ -349,12 +349,12 @@ land_units_onscreen_name_scm_norsca_alfkael_wolf	Alfkael Bloodfather	false
 ui_unit_groupings_onscreen_scm_norsca_alfkael	Legendary Bloodseer	false
 ui_unit_groupings_tooltip_scm_norsca_alfkael		false
 names_name_240926	Alfkael Bloodfather	false
-agent_subtypes_onscreen_name_override_scm_norsca_uldsdau	Legendary Bloodseer	true
-agent_subtypes_description_text_override_scm_norsca_uldsdau	Ulsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
-land_units_onscreen_name_scm_norsca_uldsdau	Ulsdau	true
-land_units_concealed_name_scm_norsca_uldsdau		true
-unit_description_short_texts_text_short_text_scm_norsca_uldsdau	Once an ordinary, albeit hulking, berserker, Ulsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
-unit_description_historical_texts_text_long_text_scm_norsca_uldsdau		true
+agent_subtypes_onscreen_name_override_scm_norsca_ulsdau	Legendary Bloodseer	true
+agent_subtypes_description_text_override_scm_norsca_ulsdau	Ulsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
+land_units_onscreen_name_scm_norsca_ulsdau	Ulsdau	true
+land_units_concealed_name_scm_norsca_ulsdau		true
+unit_description_short_texts_text_short_text_scm_norsca_ulsdau	Once an ordinary, albeit hulking, berserker, Ulsdau's battle-prowess multiplied manifold when he received the blessings of the werekin. Now Frostaxe is a berserker without peer, loyal only to the Wolf Chieftain who bested him.	true
+unit_description_historical_texts_text_long_text_scm_norsca_ulsdau		true
 names_name_240931	Ulsdau	false
 character_skills_localised_name_wolftribe_skill_unique_blood_berserker	Blood-Drenched Berserker	false
 character_skills_localised_name_wolftribe_skill_self_tribal_giant	Bone Pluckers	false
@@ -366,16 +366,16 @@ character_skills_localised_name_wolftribe_skill_self_blood_brother	Savage Bite	f
 character_skills_localised_name_wolftribe_skill_innate_foe_cleaver	The Foe-Cleaver	false
 character_skills_localised_description_wolftribe_skill_unique_blood_berserker	The sight of Ulsdau, dripping with the gore of his foes, is terrible indeed.	false
 character_skills_localised_description_wolftribe_skill_self_tribal_giant	Once, Ulsdau served as a bondsman in service to an Aesling jarl. So great was his stature that many thought him to be a troll.	false
-character_skills_localised_description_wolftribe_skill_self_berserker_champion	Uldsdau was the greatest among his tribe’s berserkers, with countless victories and scars accumulated over years of battle.	false
-character_skills_localised_description_wolftribe_skill_self_blessing_of_the_beast	The bloodlust of a Skin Wolf was not so different from the battle rage of a berserker, and so Uldsdau felt comfortable in his new form, emboldened by its strength and senses.	false
+character_skills_localised_description_wolftribe_skill_self_berserker_champion	Ulsdau was the greatest among his tribe’s berserkers, with countless victories and scars accumulated over years of battle.	false
+character_skills_localised_description_wolftribe_skill_self_blessing_of_the_beast	The bloodlust of a Skin Wolf was not so different from the battle rage of a berserker, and so Ulsdau felt comfortable in his new form, emboldened by its strength and senses.	false
 character_skills_localised_description_wolftribe_skill_self_jarl_slayer	When Ulsdau was blessed with the power of the werekin, he could no longer serve any master. Slaying his arrogant jarl, Ulsdau fled out into the tundra, seeking stronger foes.	false
-character_skills_localised_description_wolftribe_skill_self_contest_of_skill	Several years into his wanderings, Uldsdau found a new foe to challenge – a young man black of hair with eyes like the stormy sea. For two days did they duel upon a frozen lake, their blows ringing like thunderclaps.	false
-character_skills_localised_description_wolftribe_skill_self_blood_brother	Bested by Huern in their duel, Uldsdau was nevertheless spared by the Black Wolf. Ever since that day, Uldsdau has sworn eternal loyalty and friendship to the one man worthy of his respect.	false
+character_skills_localised_description_wolftribe_skill_self_contest_of_skill	Several years into his wanderings, Ulsdau found a new foe to challenge – a young man black of hair with eyes like the stormy sea. For two days did they duel upon a frozen lake, their blows ringing like thunderclaps.	false
+character_skills_localised_description_wolftribe_skill_self_blood_brother	Bested by Huern in their duel, Ulsdau was nevertheless spared by the Black Wolf. Ever since that day, Ulsdau has sworn eternal loyalty and friendship to the one man worthy of his respect.	false
 character_skills_localised_description_wolftribe_skill_innate_foe_cleaver	Ulsdau is a renowned berserker who once wandered Norsca in search of stronger foes.	false
-character_skills_localised_description_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
-character_skills_localised_name_wolftribe_skill_dummy_agent_actions_scm_norsca_uldsdau	[HIDDEN]	false
-ui_unit_groupings_onscreen_scm_norsca_uldsdau	Legendary Werekin	false
-ui_unit_groupings_tooltip_scm_norsca_uldsdau		false
+character_skills_localised_description_wolftribe_skill_dummy_agent_actions_scm_norsca_ulsdau	[HIDDEN]	false
+character_skills_localised_name_wolftribe_skill_dummy_agent_actions_scm_norsca_ulsdau	[HIDDEN]	false
+ui_unit_groupings_onscreen_scm_norsca_ulsdau	Legendary Werekin	false
+ui_unit_groupings_tooltip_scm_norsca_ulsdau		false
 missions_localised_title_wolftribe_nor_scm_norsca_asta	Asta of Vinnskor	true
 missions_localised_description_wolftribe_nor_scm_norsca_asta	Amidst the windswept ruins of Vinnskor, Einarr Sigdansson, the Champion of Tzeentch, uncovers a shard of hope amidst the wreckage of his shattered past. Whispers carry tales of his beloved Asta, once thought lost to the cruel blades of the Aeslings, now rumored to roam the dense forests of Bretonnia. Asta, chieftess of Vinnskor and skilled huntress, was torn from her home and sold into the clutches of a Bretonnian noble, destined to serve as a slave in a foreign court. //n//n Driven by a firestorm of vengeance and longing, Einarr embarks on a perilous journey beyond the storm-tossed seas, his resolve unyielding as he sails towards the sun-kissed shores of Bretonnia. With the promise of Asta's liberation burning brightly in his heart, Einarr sets forth to raid the lands of Bordeleaux, where rumors whisper of her elusive presence. In the heart of enemy territory, amidst the opulent halls of nobility and the twisted alleys of Bretonnian towns, lies the key to unlocking Asta's chains. 	true
 missions_localised_title_wolftribe_nor_hidolfr	The Wise One	true
@@ -453,7 +453,7 @@ unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_in
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolfguard_honorguard	Elite warriors handpicked for their skill and loyalty to defend the chieftess of the Tribe of the Wolf.	false
 unit_description_short_texts_text_wolftribe_unit_short_text_nor_wolftribe_nor_inf_wolf_champions_ror_0	All champions strive to be chosen, willing their deeds to be observed and judged. These champions are the heroes of the Tribe of the Wolf.	false
 ancillaries_onscreen_name_scm_norsca_graill_valdyr	Valdýr & Vitnir	true
-ancillaries_colour_text_scm_norsca_graill_valdyr	Uldsdau’s twin axes have served him well over the years, felling man and monster alike. Bathed in the blood of a particularly mighty frost troll, the blades emit the bitter chill of the North.	true
+ancillaries_colour_text_scm_norsca_graill_valdyr	Ulsdau’s twin axes have served him well over the years, felling man and monster alike. Bathed in the blood of a particularly mighty frost troll, the blades emit the bitter chill of the North.	true
 ancillaries_onscreen_name_wolftribe_scm_norsca_asta_ardenwood_bow	The Ardenwood Bow	true
 ancillaries_colour_text_wolftribe_scm_norsca_asta_ardenwood_bow	Forged in the depths of the Ardenwood, Asta's bow, aptly named the Ardenwood Bow, embodies the fusion of Norscan resilience and Bretonnian grace. Crafted from sturdy Ardenwood trees, it bears the marks of Asta's indomitable spirit and her relentless quest for survival. Each arrow unleashed from its string carries the whispers of Asta's determination and the fury of her longing for vengeance. As she draws back the bowstring, she channels the strength of her people and the cunning of her newfound wilderness, striking fear into the hearts of her enemies and hope into the souls of her allies	true
 ancillaries_onscreen_name_wolftribe_hidolfr_nithi	Nithi	true
@@ -490,8 +490,8 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_huern	Defeated Huer
 character_trait_levels_onscreen_name_hkrul_defeated_trait_huern	The Cub Slain	false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_0		false
 land_units_onscreen_name_wolftribe_nor_inf_wolfguard_ror_1		false
-ancillaries_onscreen_name_hkrul_uldsdau_eldur	Eldur & Logi	true
-ancillaries_colour_text_hkrul_uldsdau_eldur	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
+ancillaries_onscreen_name_hkrul_ulsdau_eldur	Eldur & Logi	true
+ancillaries_colour_text_hkrul_ulsdau_eldur	Carved from a branch of an ancient ash tree and containing a core of dragon bone, One-Eye’s staff thrums with the magic-laden winds of the northern mountains. In battle, the old wanderer can call upon these winds to blow aside enemy arrows and sap the will of would-be foes. 	true
 character_skills_localised_name_hkrul_huern_special_0_1	Tribe of the Wolf	false
 character_skills_localised_description_hkrul_huern_special_0_1	The Tribe of the Wolf stalk the Naglfarli plains in search of they're next prey, be it men or beast.	false
 effects_description_hkrul_wolf_stance	Passive Ability: "Scourge of Naglfari" when in Skin Wolf form	true
