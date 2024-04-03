@@ -74,6 +74,7 @@ cm:add_first_tick_callback(
             end
             
             
+            --[[
             core:remove_listener("rhox_bjornling_fish_listener")
             core:add_listener(
                 "rhox_bjornling_fish_listener",
@@ -88,7 +89,7 @@ cm:add_first_tick_callback(
             )
             real_timer.unregister("rhox_bjornling_fishing_real_time")
             real_timer.register_repeating("rhox_bjornling_fishing_real_time", 1000)
-            
+            --]]
         end
     end
 )
