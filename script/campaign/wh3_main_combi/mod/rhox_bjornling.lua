@@ -171,26 +171,3 @@ core:add_listener(
     true
 )
 
-
---[[
-
-core:add_listener(
-    "rhox_bjornling_show_resource",
-    "ForceAdoptsStance",
-    function(context)
-        local faction = context:military_force():faction()
-        
-        return faction:is_human() and faction:name() == "mixer_nor_fjordlings"
-    end,
-    function(context)
-        local mf = context:military_force()
-        if mf:active_stance() == "MILITARY_FORCE_ACTIVE_STANCE_TYPE_PATROL" then
-            common.set_context_value("raiding_slaves_value_" .. mf:command_queue_index(), 10)
-            --out("Rhox Fjordling: Check")
-        else
-            common.set_context_value("raiding_slaves_value_" .. mf:command_queue_index(), 0)
-        end
-    end,
-    true
-)
---]] --it does not work on MILITARY_FORCE_ACTIVE_STANCE_TYPE_PATROL as it has some TWUI issue

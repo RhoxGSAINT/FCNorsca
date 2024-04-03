@@ -3,19 +3,19 @@
 		<VARIANT_MESH_REFERENCE definition="VariantMeshes/VariantMeshDefinitions/ice_marauder_champion_base.VariantMeshDefinition"/>
 	</SLOT>
 	<SLOT attach_point="be_prop_0" name="weapon_1">
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/ice/ice_champions/props/great_weapon/ice_championn_great_weapon_01.wsmodel">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_champions\props\great_weapon\ice_championn_great_weapon_01.wsmodel">
 			<META_DATA>equipment</META_DATA>
 			<META_DATA>audio_melee_weapon_type:axe</META_DATA>
 		</VARIANT_MESH>
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/ice/ice_champions/props/great_weapon/ice_championn_great_weapon_02.wsmodel">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_champions\props\great_weapon\ice_championn_great_weapon_02.wsmodel">
 			<META_DATA>equipment</META_DATA>
 			<META_DATA>audio_melee_weapon_type:axe</META_DATA>
 		</VARIANT_MESH>
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/ice/ice_champions/props/great_weapon/ice_championn_great_weapon_03.wsmodel">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_champions\props\great_weapon\ice_championn_great_weapon_03.wsmodel">
 			<META_DATA>equipment</META_DATA>
 			<META_DATA>audio_melee_weapon_type:axe</META_DATA>
 		</VARIANT_MESH>
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hu1c/ice/ice_champions/props/great_weapon/ice_championn_great_weapon_04.wsmodel">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_champions\props\great_weapon\ice_championn_great_weapon_04.wsmodel">
 			<META_DATA>equipment</META_DATA>
 			<META_DATA>audio_melee_weapon_type:axe</META_DATA>
 		</VARIANT_MESH>

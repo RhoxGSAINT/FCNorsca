@@ -3,13 +3,6 @@
 		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\head\ice_head_01.wsmodel" />
 		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\head\ice_head_02.wsmodel" />
 	</SLOT>
-		<SLOT name="beard">
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\beards\ice_beard_01.wsmodel" />
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\beards\ice_beard_02.wsmodel" />
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\beards\ice_beard_03.wsmodel" />
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\beards\ice_beard_04.wsmodel" />
-		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\beards\ice_beard_05.wsmodel" />
-	</SLOT>
 		<SLOT name="helmet">
 		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\helmets\ice_helmet_01.wsmodel" />
 		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\ice\ice_marauders\helmets\ice_helmet_02.wsmodel" />
