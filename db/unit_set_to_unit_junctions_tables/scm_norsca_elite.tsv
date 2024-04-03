@@ -8,6 +8,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_kurgan_spearman	rhox_fc_norsca_regional_elite	false
 			rhox_skeggi_champion	rhox_fc_norsca_regional_elite	false
 			rhox_yusak_devoted_marauders	rhox_fc_norsca_regional_elite	false
+			rhox_wolftribe_marauder	rhox_fc_norsca_regional_elite	false
 			rhox_graeling_champion	all_non_chs	true
 			rhox_graeling_champion	dlc08_nor_marauders_all	false
 			rhox_graeling_champion	dlc08_nor_marauders_champions	false
@@ -92,3 +93,10 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_drenok_marauder	nor_all	false
 			rhox_drenok_marauder	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			rhox_drenok_marauder	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
+			rhox_wolftribe_marauder	all_non_chs	true
+			rhox_wolftribe_marauder	dlc08_nor_marauders_all	false
+			rhox_wolftribe_marauder	dlc08_nor_marauders_inf	false
+			rhox_wolftribe_marauder	mp_cap_unit_nor_inf_marauders_0	false
+			rhox_wolftribe_marauder	nor_all	false
+			rhox_wolftribe_marauder	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
+			rhox_wolftribe_marauder	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
