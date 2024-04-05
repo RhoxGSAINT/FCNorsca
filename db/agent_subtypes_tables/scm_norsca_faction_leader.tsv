@@ -7,7 +7,7 @@ hkrul_drenok	false	false		hkrul_drenok	wh_mod_vo_actor_Dwarf_Drenok	true	-1	fals
 hkrul_einar	false	false		hkrul_einar	wh3_dlc24_vo_actor_Tzeentch_Lord_of_Tzeentch	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_harald	false	false		hkrul_harald	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_sayl	false	true	ui/campaign ui/agents/wh_main_lore_heavens.png	hkrul_sayl	wh_dlc01_vo_actor_Chaos_SorcererLord	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
-hkrul_ulfric	false	false		hkrul_ulfric	wh_main_vo_actor_Dwarf_ThorGrimGrudgebearer	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
+hkrul_ulfric	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_dummy	false	false		hkrul_ulfric	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_hakka	false	false		hkrul_hakka	wh3_mod_vo_actor_Khorne_Hakka	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_sarg	false	false		hkrul_sarg	wh3_mod_vo_actor_Slaanesh_Sargath	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
