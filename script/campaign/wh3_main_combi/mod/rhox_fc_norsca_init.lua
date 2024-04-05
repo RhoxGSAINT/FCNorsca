@@ -398,8 +398,8 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_ulfric",
             unit_list="wh_dlc08_nor_inf_marauder_spearman_0,wh_dlc08_nor_inf_marauder_spearman_0,rhox_bjornling_huscarl_ror,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_inf_marauder_champions_0",
-            x=434,
-            y=858,
+            x=396,
+            y=757,
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
@@ -409,11 +409,11 @@ local rhox_faction_list={
         faction_trait="hkrul_ulfric_faction_trait",
         kill_previous_leader="human_only",--they're first enemy of the Wulfric, so needs to be careful
         human_only_enemy={
-            key="wh_main_nor_varg",
+            key="wh_main_nor_skaeling",
             subtype="wh_main_nor_marauder_chieftain",
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_berserkers_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_cav_chaos_chariot,wh_main_nor_cav_chaos_chariot,wh_dlc08_nor_inf_marauder_hunters_0",
-            x=430,
-            y=853
+            x=406,
+            y=757
         },
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
