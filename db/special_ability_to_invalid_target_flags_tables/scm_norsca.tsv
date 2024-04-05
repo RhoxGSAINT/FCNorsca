@@ -10,3 +10,4 @@ unit_is_not_shielded	hkrul_oda_shield
 out_of_melee	hkrul_uzul_pas_drum
 unit_is_not_large	hkrul_grail_blood_frenzy
 engaged_in_melee	hkrul_asta_food_passive
+unit_is_not_shielded	hkrul_ulfric_pas_shield

@@ -7,7 +7,6 @@ stalk	hkrul_soren_sack_2_3	positive
 causes_terror	hkrul_soren_sack_2_2	positive
 charge_defense	hkrul_ulfric_raiders	positive
 fatigue_immune	hkrul_harald_sword	positive
-unbreakable	hkrul_oda_shield	positive
 unbreakable	hkrul_hakka_gaze	positive
 executor	hkrul_einar_sword	positive
 causes_terror	hkrul_kolsvein_sword	positive
@@ -19,3 +18,9 @@ causes_fear	wolftribe_ability_rally_the_tribe	positive
 charge_defense	rhox_huscarl_shield_wall	positive
 ignore_trees	hkrul_wolf_track	positive
 devastating_flanker	hkrul_wolf_scratch	positive
+revealed	hkrul_norsca_enchanted_1	positive
+silenced	hkrul_norsca_enchanted_2	positive
+rampage	hkrul_norsca_sword_4	positive
+wallbreaker	hkrul_norsca_axe_2	positive
+unbreakable	hkrul_norsca_axe_3	positive
+flanking_immune	hkrul_ulfric_pas_shield	positive

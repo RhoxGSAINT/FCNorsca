@@ -48,3 +48,11 @@ hkrul_skill_node_ulfric_misc_06	hkrul_skill_node_ulfric_misc_03	0	0	0	0.0000	0.0
 hkrul_skill_node_ulfric_misc_06	hkrul_skill_node_ulfric_misc_04	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
 hkrul_skill_node_ulfric_misc_06	hkrul_skill_node_ulfric_misc_05	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
 hkrul_skill_node_ulfric_misc_06	hkrul_skill_node_ulfric_misc_07	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_ulfric_misc_11	hkrul_skill_node_ulfric_misc_06	0	0	0	0.0000	0.0000	REQUIRED
+hkrul_skill_node_ulfric_misc_12	hkrul_skill_node_ulfric_misc_06	0	0	0	0.0000	0.0000	REQUIRED
+hkrul_skill_node_ulfric_misc_13	hkrul_skill_node_ulfric_misc_06	0	0	0	0.0000	0.0000	REQUIRED
+hkrul_skill_node_ulfric_misc_14	hkrul_skill_node_ulfric_misc_06	0	0	0	0.0000	0.0000	REQUIRED
+hkrul_skill_node_ulfric_misc_15	hkrul_skill_node_ulfric_misc_11	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_ulfric_misc_15	hkrul_skill_node_ulfric_misc_12	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_ulfric_misc_15	hkrul_skill_node_ulfric_misc_13	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_ulfric_misc_15	hkrul_skill_node_ulfric_misc_14	0	0	0	0.0000	0.0000	SUBSET_REQUIRED

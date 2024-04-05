@@ -129,7 +129,7 @@ pooled_resources_description_rhox_bjornling_fish	Fish is bartered in trades for 
 pooled_resources_display_name_rhox_bjornling_fish	Fish	false
 pooled_resources_negative_factors_display_name_rhox_bjornling_fish	Sold	false
 pooled_resources_positive_factors_display_name_rhox_bjornling_fish	Caught	false
-effects_description_rhox_bjornling_fish_catching	Fish: %+n	false
+effects_description_rhox_bjornling_fish_catching	Fish: %+n per turn	false
 effect_bundles_localised_description_hkrul_vandred_faction_trait		false
 effect_bundles_localised_title_hkrul_vandred_faction_trait		false
 effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Fishing stance replaces Full Speed stance whilst at sea, captured fish can be bartered in trades[[/col]]	false
@@ -177,3 +177,18 @@ ancillaries_colour_text_hkrul_norsca_fish_11	This fearsome shell, adorned with j
 ancillaries_colour_text_hkrul_norsca_fish_12	Shrouded in mystery, this divine fish is whispered to be a gift from the gods themselves. Legends speak of celestial blessings and divine intervention that accompany those who are favored by the presence of this sacred catch.	false
 ancillaries_colour_text_hkrul_norsca_fish_13	A plain fish common to the Sea of Claws, it holds little to no value - nor does it hold any taste. Unless one prefers the taste of salt and bone, that is.	false
 ancillaries_colour_text_hkrul_norsca_fish_14	How this floater managed to survive the frozen waters remains a mystery, yet his knowledge over the ways of men might proof valueable, as his servitude is endless after saving him from a certain death.	false
+character_skills_localised_name_hkrul_ulfric_special_1_6	Village Expansion	false
+character_skills_localised_name_hkrul_ulfric_special_1_7	Longship Armada	false
+character_skills_localised_name_hkrul_ulfric_special_1_8	Axe of the North	false
+character_skills_localised_name_hkrul_ulfric_special_1_9	Sea's Bounty	false
+character_skills_localised_name_hkrul_ulfric_special_1_10	King's Horn	false
+character_skills_localised_description_hkrul_ulfric_special_1_6	Bjornling settlements, fortified against the harshest storms and fiercest enemies.	false
+character_skills_localised_description_hkrul_ulfric_special_1_7	Assembling a formidable flotilla, ready to dominate the seas and conquer distant lands.	false
+character_skills_localised_description_krul_ulfric_special_1_8	Skill honed through countless battles, wielding his weapon with deadly precision.	false
+character_skills_localised_description_hkrul_ulfric_special_1_9	Harvesting the ocean's abundance, providing sustenance and trade for the tribe.	false
+character_skills_localised_description_hkrul_ulfric_special_1_10	The echoing call of the Bjornling by their High Kign, summoning warriors to battle.	false
+effects_description_hkrul_ulfric_building_time_defence	Construction time: %+n for Garrison buildings	false
+effects_description_hkrul_ulfric_armour_sea	Armour: %+n when fighting at sea	false
+effects_description_hkrul_ulfric_pas_shield	Passive Ability: "Grondal's Shields"	false
+unit_abilities_onscreen_name_hkrul_ulfric_pas_shield	Grondal's Shields	false
+unit_abilities_tooltip_text_hkrul_ulfric_pas_shield	''Warriors, raise your shields! Hold fast! The Bjornling shall never falter!''	false
