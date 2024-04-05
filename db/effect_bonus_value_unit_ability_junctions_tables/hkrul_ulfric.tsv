@@ -2,3 +2,4 @@ effect	bonus_value_id	unit_ability
 #effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_ulfric		
 hkrul_ulfric_axe	enable	hkrul_ulfric_axe
 hkrul_swyrd_helm	enable	hkrul_swyrd_helm
+hkrul_ulfric_pas_shield	enable	hkrul_ulfric_pas_shield

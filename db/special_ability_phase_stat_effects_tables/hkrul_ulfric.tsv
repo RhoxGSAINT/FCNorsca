@@ -10,8 +10,9 @@ hkrul_ulfric_wall_formation_buffer	stat_missile_block_chance	10.0000	add
 hkrul_ulfric_wall_formation_buffer	scalar_charge_speed	0.7000	mult
 hkrul_ulfric_wall_formation	stat_missile_block_chance	15.0000	add
 hkrul_ulfric_wall_formation	stat_melee_defence	15.0000	add
-hkrul_ulfric_wall_formation	scalar_charge_speed	0.7000	mult
+hkrul_ulfric_wall_formation	scalar_charge_speed	0.5000	mult
 rhox_huscarl_shield_wall	stat_missile_block_chance	24.0000	add
 rhox_huscarl_shield_wall	stat_mass	1.5000	mult
 hkrul_ulfric_axe_formation	stat_melee_attack	15.0000	add
 hkrul_ulfric_axe_formation	stat_resistance_all	1.1000	mult
+hkrul_ulfric_pas_shield	stat_mass	1.3500	mult

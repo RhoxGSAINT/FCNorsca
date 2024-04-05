@@ -84,3 +84,4 @@ hkrul_asta_food	true	hkrul_asta_food		wh_type_area_of_regeneration		wh_main_anc_
 hkrul_asta_food_passive	true	hkrul_asta_food_passive		wh_type_area_of_regeneration		wh_main_anc_group_rare	true	false	passive		false
 hkrul_adella_fishbrain	false	hkrul_adella_fishbrain		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_dodvakt_bite	false	hkrul_dodvakt_bite		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_ulfric_pas_shield	true	hkrul_ulfric_pas_shield		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	passive		false

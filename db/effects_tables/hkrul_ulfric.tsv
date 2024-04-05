@@ -1,6 +1,7 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_ulfric					
 hkrul_ulfric_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_ulfric_pas_shield	item_ability.png	300	item_ability.png	battle	true
 hkrul_ulfric_crown	item_ability.png	300	item_ability.png	battle	true
 hkrul_ulfric_mammoth	mount.png	50	mount.png	both	true
 hkrul_bjornling_armour	armour.png	300	armour.png	battle	true
@@ -18,3 +19,5 @@ rhox_bjornling_fish_catching	hkrul_bjornling_fish.png	1	hkrul_bjornling_fish.png
 rhox_bjornling_fish_feature_dummy	hkrul_bjornling_fish.png	1	hkrul_bjornling_fish.png	campaign	true
 rhox_bjornling_no_raze_feature_dummy	reign_of_chaos.png	200	reign_of_chaos.png	campaign	false
 rhox_ulfric_item_chance_dummy	item_ability.png	300	item_ability.png	battle	true
+hkrul_ulfric_building_time_defence	construction.png	102	construction.png	campaign	false
+hkrul_ulfric_armour_sea	armour.png	300	armour.png	battle	true
