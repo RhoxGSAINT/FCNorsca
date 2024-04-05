@@ -121,7 +121,7 @@ pooled_resource_factors_display_name_negative_rhox_bjornling_fish_sell	Sold	fals
 pooled_resource_factors_display_name_positive_rhox_bjornling_fish_sell	Caught	false
 pooled_resource_factors_display_name_negative_rhox_bjornling_fish_catch	Sold	false
 pooled_resource_factors_display_name_positive_rhox_bjornling_fish_catch	Caught	false
-effect_bundles_localised_description_rhox_bjornling_fish_stance	Catching Fish	false
+effect_bundles_localised_description_rhox_bjornling_fish_stance	As the longships of Bjornlings slice through the waves, their keen eyes scan the waters, ready to cast their nets and hooks to harvest the bounty of the sea.	false
 effect_bundles_localised_title_rhox_bjornling_fish_stance	Catching Fish	false
 rituals_description_rhox_bjornling_fish_sale	The various ways the Bjornling tribe sells their captured fish.	false
 rituals_display_name_rhox_bjornling_fish_sale	Fishmarket	false
@@ -134,7 +134,7 @@ effect_bundles_localised_description_hkrul_vandred_faction_trait		false
 effect_bundles_localised_title_hkrul_vandred_faction_trait		false
 effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Fishing stance replaces Full Speed stance whilst at sea, captured fish can be bartered in trades[[/col]]	false
 effects_description_rhox_bjornling_no_raze_feature_dummy	Bjornlings worship the Gods of men and thus can't pledge full allegiance to a Chaos God	false
-effects_description_rhox_ulfric_item_chance_dummy	A %+n% chance to find unique ancillaries in hauled up fishing nets	false
+effects_description_rhox_ulfric_item_chance_dummy	Chance to find ancillaries in hauled up fishing nets: %+n%	false
 ancillaries_explanation_text_hkrul_norsca_fish_01	Drenched up during Fishing	false
 ancillaries_explanation_text_hkrul_norsca_fish_02	Drenched up whilst Fishing	false
 ancillaries_explanation_text_hkrul_norsca_fish_03	Drenched up whilst Fishing	false
@@ -192,3 +192,11 @@ effects_description_hkrul_ulfric_armour_sea	Armour: %+n when fighting at sea	fal
 effects_description_hkrul_ulfric_pas_shield	Passive Ability: "Grondal's Shields"	false
 unit_abilities_onscreen_name_hkrul_ulfric_pas_shield	Grondal's Shields	false
 unit_abilities_tooltip_text_hkrul_ulfric_pas_shield	''Warriors, raise your shields! Hold fast! The Bjornling shall never falter!''	false
+ancillaries_onscreen_name_hkrul_norsca_ship_5	The Kongelyg	true
+ancillaries_colour_text_hkrul_norsca_ship_5	Crafted in Hafskael's Yard, The Kongelyg, Ulfric's Kingship, towers as a Norscan marvel, feared as the scourge of Eldagrimm. Legend tells of its triumph over five Graeling Wolfships, a saga echoing through the Sea of Claws. It sails as a testament to the might of the Bjornling tribe and the prowess of its king, Ulfric Grondal. Its name strikes fear into the hearts of enemies and inspires awe among allies, a symbol of domination on the tumultuous seas.	true
+unit_abilities_onscreen_name_hkrul_norsca_kraken_bound	Kraken's Pull	false
+effects_description_hkrul_norsca_kraken_bound	Bound Ability: "Kraken's Pull"	false
+unit_abilities_tooltip_text_hkrul_norsca_kraken_bound	Few have the strength to break free once the Kraken has them within its horrid, betentacled grasp.	false
+unit_abilities_onscreen_name_hkrul_harald_king	Harald's Retinue	false
+effects_description_hkrul_harald_king	Passive Ability: "Harald's Retinue"	false
+unit_abilities_tooltip_text_hkrul_harald_king	Harald's named his finest warriors as his personal retinue, they are motivated to the core to fight and establish his rule.	false

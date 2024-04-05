@@ -3,3 +3,5 @@ phase	stat	value	how
 hkrul_harald_sword	stat_melee_damage_base	1.6000	mult
 hkrul_wolf_walk	scalar_charge_speed	1.3000	mult
 hkrul_wolf_walk	scalar_speed	1.2000	mult
+hkrul_harald_king	stat_melee_attack	15.0000	add
+hkrul_harald_king	stat_resistance_all	1.0500	mult

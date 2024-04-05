@@ -411,7 +411,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_main_nor_skaeling",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_berserkers_0,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_cav_chaos_chariot,wh_main_nor_cav_chaos_chariot,wh_dlc08_nor_inf_marauder_hunters_0",
+            unit_list="wh3_main_kho_inf_chaos_warriors_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_main_kho_inf_chaos_warriors_0,wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh3_main_kho_inf_chaos_warhounds_0",
             x=406,
             y=757
         },
