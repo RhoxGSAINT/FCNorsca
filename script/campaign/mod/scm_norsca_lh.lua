@@ -25,7 +25,7 @@ cm:add_first_tick_callback(
 	function()
         for agent_key,details in pairs(rhox_fc_norsca_lh) do
             local faction = cm:get_faction(details.faction_key)
-            if faction:is_human() then
+            if faction and faction:is_human() then
                 core:add_listener(
                     "rhox_fc_norsca_lh_building_"..agent_key,
                     "BuildingCompleted",
@@ -81,7 +81,7 @@ cm:add_first_tick_callback(
             end
         end
         local varg_faction = cm:get_faction("wh_main_nor_varg")
-        if varg_faction:is_human() == false and cm:model():turn_number() < 25 then
+        if varg_faction and varg_faction:is_human() == false and cm:model():turn_number() < 25 then
             core:add_listener(
                 "rhox_fc_norsca_lh_ai_hrothgar",
                 "FactionTurnStart",
@@ -100,7 +100,7 @@ cm:add_first_tick_callback(
         
         
         local baersonling_faction = cm:get_faction("wh_main_nor_baersonling")
-        if baersonling_faction:is_human() and cm:model():turn_number() < 5 then
+        if baersonling_faction and baersonling_faction:is_human() and cm:model():turn_number() < 5 then
             core:add_listener(
                 "rhox_fc_norsca_lh_asta_helper",
                 "FactionTurnStart",

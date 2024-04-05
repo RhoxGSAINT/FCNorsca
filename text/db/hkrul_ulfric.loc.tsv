@@ -135,7 +135,7 @@ effect_bundles_localised_title_hkrul_vandred_faction_trait		false
 effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Fishing stance replaces Full Speed stance whilst at sea, captured fish can be bartered in trades[[/col]]	false
 effects_description_rhox_bjornling_no_raze_feature_dummy	Bjornlings worship the Gods of men and thus can't pledge full allegiance to a Chaos God	false
 effects_description_rhox_ulfric_item_chance_dummy	Chance to find ancillaries in hauled up fishing nets: %+n%	false
-ancillaries_explanation_text_hkrul_norsca_fish_01	Drenched up during Fishing	false
+ancillaries_explanation_text_hkrul_norsca_fish_01	Drenched up whilst Fishing	false
 ancillaries_explanation_text_hkrul_norsca_fish_02	Drenched up whilst Fishing	false
 ancillaries_explanation_text_hkrul_norsca_fish_03	Drenched up whilst Fishing	false
 ancillaries_explanation_text_hkrul_norsca_fish_04	Drenched up whilst Fishing	false

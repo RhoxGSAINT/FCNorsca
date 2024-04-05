@@ -220,7 +220,7 @@ core:add_listener(
 
 cm:add_first_tick_callback(
 	function()
-        if cm:is_new_game() and cm:get_faction(graeling_faction):is_human() then
+        if cm:is_new_game() and cm:get_faction(graeling_faction) and cm:get_faction(graeling_faction):is_human() then
             rhox_graeling_trigger_missions()
         end
 	end
