@@ -46,3 +46,14 @@ hkrul_skill_node_ulfric_misc_12		hkrul_ulfric_special_1_7		1	8		0	0	true
 hkrul_skill_node_ulfric_misc_13		hkrul_ulfric_special_1_8		1	9		0	0	true
 hkrul_skill_node_ulfric_misc_14		hkrul_ulfric_special_1_9		1	10		0	0	true
 hkrul_skill_node_ulfric_misc_15		hkrul_ulfric_special_1_10		1	11		0	4	true
+skill_node_hkrul_ulfric_self_0		wh_dlc08_skill_nor_skin_wolf_werekin_self_dark_horror		2	0		0	0	true
+skill_node_hkrul_ulfric_self_1_1		wh_main_skill_all_all_self_devastating_charge		2	1		0	0	true
+skill_node_hkrul_ulfric_self_1_2		wh_main_skill_all_all_self_thick-skinned		2	2		0	0	true
+skill_node_hkrul_ulfric_self_1_3		wh_main_skill_all_all_self_hard_to_hit		2	3		0	0	true
+skill_node_hkrul_ulfric_self_1_4		wh_dlc08_skill_nor_skin_wolf_werekin_self_deadly_fangs		2	4		0	0	true
+skill_node_hkrul_ulfric_self_2		wh_main_skill_all_all_self_foe-seeker		2	5		0	4	true
+skill_node_hkrul_ulfric_self_3_1		wh_main_skill_all_all_self_wound-maker		2	6		0	0	true
+skill_node_hkrul_ulfric_self_3_2		wh_dlc03_skill_bst_lord_unnatural_thirst		2	7		0	0	true
+skill_node_hkrul_ulfric_self_3_3		wh_main_skill_all_all_self_indomitable		2	8		0	0	true
+skill_node_hkrul_ulfric_self_3_4		wh_dlc08_skill_nor_lords_self_quicksilver		2	9		0	0	true
+skill_node_hkrul_ulfric_self_4		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
