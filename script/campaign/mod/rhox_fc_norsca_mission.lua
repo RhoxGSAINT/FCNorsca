@@ -51,7 +51,7 @@ core:add_listener(
     function(context)
         local faction = context:faction()
         local turn = cm:model():turn_number();
-        return faction:name() == "wh_main_nor_bjornling" and faction:is_human() and turn == 3
+        return faction:name() == "wh_main_nor_bjornling" and faction:is_human() and turn == 3 and cm:get_campaign_name() ~= "cr_oldworld"
     end,
     function(context)
         local turn = cm:model():turn_number();
