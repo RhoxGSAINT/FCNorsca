@@ -107,7 +107,7 @@ cm:add_first_tick_callback(
                 function(context)
                     local faction = context:faction()
                     local turn = cm:model():turn_number();
-                    return faction:name() == "wh_main_nor_baersonling" and turn ==5
+                    return faction:name() == "wh_main_nor_baersonling" and turn ==5 and cm:get_campaign_name() ~= "cr_oldworld"
                 end,
                 function(context)
                     local faction = context:faction()
