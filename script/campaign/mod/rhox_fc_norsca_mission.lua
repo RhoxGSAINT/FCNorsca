@@ -60,7 +60,7 @@ core:add_listener(
         mm:add_new_objective("CAPTURE_REGIONS");
         mm:add_condition("region wh3_main_combi_region_pack_ice_bay");
         mm:add_condition("ignore_allies");
-        mm:add_payload("money 2500");
+        mm:add_payload("money 1000");
         mm:trigger()
     end,
     true

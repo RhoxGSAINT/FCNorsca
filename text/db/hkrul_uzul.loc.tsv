@@ -41,3 +41,5 @@ ui_unit_groupings_tooltip_hkrul_norsca_drummer_hero		false
 effects_description_hkrul_uzul_pas_drum_duration	Effect range: %+n% for "Abyssal Drumbeat"	false
 effects_description_hkrul_uzuk_vs_cathay_xp	Double experience gain for units when fighting against Cathayan factions	false
 effects_description_hkrul_uzuk_vs_cathay_post_battle_lood	Income from post-battle loot: %+n% when fighting against Cathayan factions	false
+ui_unit_bullet_point_enums_onscreen_name_hkrul_norsca_shield_wall	Shield Wall	false
+ui_unit_bullet_point_enums_tooltip_hkrul_norsca_shield_wall	The fabeled Huscarls of the Bjornling Tribe raise their shields and form a impregnable wall of steel and iron.	false
