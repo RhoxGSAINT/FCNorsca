@@ -61,10 +61,29 @@ core:add_listener(
         mm:add_condition("region wh3_main_combi_region_pack_ice_bay");
         mm:add_condition("ignore_allies");
         mm:add_payload("money 1000");
+        mm:add_payload("text_display rhox_fc_norsca_agent_dummy");
         mm:trigger()
     end,
     true
 );
+core:add_listener(
+    "rhox_fc_norsca_bjornling_turn3_mission_complete",
+    "MissionSucceeded",
+    function(context)    
+        local mission_key = context:mission():mission_record_key();
+        return mission_key == "rhox_fc_norsca_capture_ice_bay"
+    end,
+    function(context)
+        local faction = context:faction()
+        local x, y = cm:find_valid_spawn_location_for_character_from_character(faction:name(), cm:char_lookup_str(faction:faction_leader()), true, 10)
+        if x ~= -1 and y ~= -1 then
+            cm:spawn_agent_at_position(faction, x, y, "wizard", "wh_dlc08_nor_shaman_sorcerer_death")
+        end
+    end,
+    true
+)
+
+
 core:add_listener(
     "rhox_adella_final_mission_completed_ror",
     "MissionSucceeded",
