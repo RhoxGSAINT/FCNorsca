@@ -46,6 +46,7 @@ units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	Loy
 units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	Bregða	false
 character_skills_localised_description_hkrul_einar_bear	Loyal, fierce, powerful and surprisingly fast	false
 character_skills_localised_name_hkrul_einar_bear	Bregða	false
+effects_description_hkrul_einar_bear	Mount: Bregða	false
 effects_description_hkrul_einar_steelfist	Ability: "Steelfist's Wrath"	true
 unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slaid Ogres with nothing but his iron clad protected hands.	true
 unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true

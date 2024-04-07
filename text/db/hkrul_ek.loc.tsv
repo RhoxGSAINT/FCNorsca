@@ -46,6 +46,7 @@ ancillaries_colour_text_hkrul_surtha_ek_chariot	A war chariot outfitted with cop
 ancillaries_onscreen_name_hkrul_surtha_ek_chariot	Bloodspiller	false
 character_skills_localised_description_hkrul_surtha_ek_chariot	A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way.	false
 character_skills_localised_name_hkrul_surtha_ek_chariot	Bloodspiller	false
+effects_description_hkrul_surtha_ek_chariot	Mount: Bloodspiller	false
 effects_description_hkrul_surtha_chariots_unit_xp	Recruit rank: %+n for Chariot units	false
 effects_description_hkrul_surtha_chariots_melee_attack	Melee attack: %+n for Chariot units	false
 effects_description_hkrul_surtha_chariots_speed	Speed: %+n  for Chariot units	false

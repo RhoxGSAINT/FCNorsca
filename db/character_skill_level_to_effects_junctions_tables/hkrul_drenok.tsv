@@ -18,4 +18,4 @@ innate_hkrul_drenok	hkrul_enable_immortality	1	character_to_character_own	1.0000
 innate_hkrul_drenok	hkrul_drenok_wolf	1	character_to_character_own	1.0000
 innate_hkrul_drenok	hkrul_drenok_ice_attack	1	general_to_force_own	10.0000
 hkrul_drenok_chariot	wh_dlc08_effect_enable_mount_chaos_chariot	1	character_to_character_own	1.0000
-hkrul_drenok_bear	wh3_main_effect_enable_mount_warbear	1	character_to_character_own	1.0000
+hkrul_drenok_bear	hkrul_drenok_bear	1	character_to_character_own	1.0000
