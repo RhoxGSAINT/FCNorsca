@@ -131,3 +131,11 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			r1kko_adella_nur_bastiladon	hkrul_skeggi_dinos	false
 			r1kko_adella_sla_bastiladon	hkrul_skeggi_dinos	false
 			r1kko_adella_tze_bastiladon	hkrul_skeggi_dinos	false
+			r1kko_adella_kho_bastiladon	hkrul_skeggi	false
+			r1kko_adella_nur_bastiladon	hkrul_skeggi	false
+			r1kko_adella_sla_bastiladon	hkrul_skeggi	false
+			r1kko_adella_tze_bastiladon	hkrul_skeggi	false
+			r1kko_adella_kho_carnosaur	hkrul_skeggi	false
+			r1kko_adella_nur_stegadon	hkrul_skeggi	false
+			r1kko_adella_sla_troglodon	hkrul_skeggi	false
+			r1kko_adella_tze_coatl	hkrul_skeggi	false

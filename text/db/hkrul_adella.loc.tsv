@@ -156,3 +156,5 @@ unit_abilities_tooltip_text_hkrul_adella_fishbrain	As the Monolith of Jarl Fishb
 unit_abilities_onscreen_name_hkrul_adella_fishbrain	Fishbrain's Treasure	true
 unit_abilities_tooltip_text_hkrul_dodvakt_bite	The Dodvakt charge in to the fray with their snarling beasts hungry for violence.	true
 unit_abilities_onscreen_name_hkrul_dodvakt_bite	Deathkeeper's Charge	true
+effects_description_hkrul_adella_skeggi_ma	Melee attack: %+n for Corrupted Feral Dinosaur units	false
+effects_description_hkrul_adella_skeggi_upkeep	Upkeep: %+n%  for Corrupted Feral Dinosaur units	false
