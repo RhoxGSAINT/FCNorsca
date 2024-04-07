@@ -68,6 +68,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_skeggi_champion	nor_all	false
 			rhox_skeggi_champion	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			rhox_skeggi_champion	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
+			rhox_skeggi_champion	hkrul_skeggi	false
 			rhox_yusak_devoted_marauders	all_non_chs	true
 			rhox_yusak_devoted_marauders	mp_cap_unit_sla_inf_marauders_1	false
 			rhox_yusak_devoted_marauders	sla_infantry_rank7	false
