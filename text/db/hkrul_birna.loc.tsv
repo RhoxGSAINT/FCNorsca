@@ -66,3 +66,8 @@ effects_description_hkrul_birna_hunters_snipe	Attribute: Snipe for Sarl Hunter u
 effects_description_hkrul_birna_hunters_vanguard	Attribute: Vanguard Deployment for Sarl Hunter units	false
 effects_description_hkrul_birna_hunters_cap	Unit capacity: %+n for Sarl Hunter units	false
 effects_description_hkrul_birna_hunters_upkeep	Upkeep: %+n% for Sarl Hunter units	false
+unit_description_historical_texts_text_hkrul_sarl_hunters		false
+unit_description_historical_texts_text_hkrul_sarl_hunters_ror		false
+missions_localised_title_rhox_fc_norsca_capture_alexandronov	Capture alexandronov	false
+missions_localised_description_rhox_fc_norsca_capture_alexandronov	I heard the hag in that area is hot!	false
+campaign_payload_ui_details_description_rhox_fc_norsca_agent_troll_hag_dummy	Hero recruited: Giant River Troll Hag	false

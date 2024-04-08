@@ -493,7 +493,7 @@ local rhox_faction_list={
         },
         agent={
             type="wizard",
-            subtype="wh_dlc08_nor_shaman_sorcerer_death"
+            subtype="wh_dlc08_nor_shaman_sorcerer_fire"
         },
         region="wh3_main_combi_region_sarl_encampment",
         enemy={

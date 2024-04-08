@@ -200,4 +200,4 @@ unit_abilities_tooltip_text_hkrul_norsca_kraken_bound	Few have the strength to b
 unit_abilities_onscreen_name_hkrul_harald_king	Harald's Retinue	false
 effects_description_hkrul_harald_king	Passive Ability: "Harald's Retinue"	false
 unit_abilities_tooltip_text_hkrul_harald_king	Harald's named his finest warriors as his personal retinue, they are motivated to the core to fight and establish his rule.	false
-campaign_payload_ui_details_description_rhox_fc_norsca_agent_dummy	Hero recruited: Shaman-Sorcerer (Metal)	false
+campaign_payload_ui_details_description_rhox_fc_norsca_agent_shaman_metal_dummy	Hero recruited: Shaman-Sorcerer (Metal)	false

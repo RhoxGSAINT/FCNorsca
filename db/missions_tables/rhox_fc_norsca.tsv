@@ -27,3 +27,4 @@ rhox_fc_norsca_bloodfather	SCRIPTED			emp/generic	rom_event_mission.png	false	fa
 rhox_fc_norsca_asta	RAID_REGION			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_fc_norsca_capture_ice_bay	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_fc_norsca_asta_hint	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_fc_norsca_capture_alexandronov	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
