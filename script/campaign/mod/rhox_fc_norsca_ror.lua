@@ -26,6 +26,11 @@ local rhox_fc_norsca_unlockable_ror_list={
         agent_subtype="hkrul_adella",
         special_condition_for_init=true,--quest battle
     },
+    hkrul_sarl_hunters_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh_main_nor_sarl",
+        agent_subtype="hkrul_birna",
+    },
 }
 
 
@@ -72,13 +77,15 @@ cm:add_first_tick_callback(
                     return character:character_subtype(info.agent_subtype)
                 end,
                 function(context)
-                    
+                    --out("Rhox fc Norsca: Check: ".. unit_key)
                     local character = context:character()
                     local faction = character:faction()
                     
                     if faction:name() == info.init_faction and info.special_condition_for_init then
                         return false --don't do anything as it will unlock in other means
                     end
+                    
+                    --out("Rhox fc Norsca: unlocking for faction ".. faction:name())
                     cm:remove_event_restricted_unit_record_for_faction(unit_key, faction:name())
                 end,
                 true
