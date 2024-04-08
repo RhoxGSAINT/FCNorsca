@@ -17,5 +17,5 @@ wh2_main_nor_skeggi	false	r1kko_adella_nur_stegadon	true	true				true		false
 wh2_main_nor_skeggi	false	r1kko_adella_sla_troglodon	true	true				true		false
 wh2_main_nor_skeggi	false	r1kko_adella_tze_coatl	true	true				true		false
 wh2_main_nor_skeggi	false	rhox_skeggi_dodvakt	true	true				true		false
-wh_main_nor_sarl	false	hkrul_sarl_hunters	true	true				false		false
-wh_main_nor_sarl	false	hkrul_sarl_hunters_ror	true	true				false		false
+wh_main_nor_sarl	false	hkrul_sarl_hunters	true	true				true		false
+wh_main_nor_sarl	false	hkrul_sarl_hunters_ror	true	true				true		false

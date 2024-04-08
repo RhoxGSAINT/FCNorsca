@@ -81,3 +81,4 @@ hkrul_adella_fishbrain	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	
 hkrul_dodvakt_bite	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0	wh_main_unit_contact_poison	wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_ulfric_pas_shield	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_ward_save_all		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_harald_king	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_ward_save_all		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_sarl_hunters	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

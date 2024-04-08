@@ -34,7 +34,7 @@ core:add_ui_created_callback(
 			
 			mixer_change_lord_name("383940030", "hkrul_birna")
 			mixer_change_lord_name("1974292008", "hkrul_birna")--TOW
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_sarl", {"wh_dlc08_nor_feral_manticore","hkrul_dummy_sarl_marauder_hunters_0","wh_main_nor_mon_chaos_trolls","hkrul_dummy_sarl_chaos_marauders_1","hkrul_sarl_hunters_ror"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_sarl", {"wh_dlc08_nor_feral_manticore","hkrul_dummy_sarl_marauder_hunters_0","hkrul_sarl_hunters_ror","hkrul_sarl_hunters","wh_main_nor_mon_chaos_trolls","hkrul_dummy_sarl_chaos_marauders_1","hkrul_sarl_hunters_ror"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_sarl")
 			
 			
