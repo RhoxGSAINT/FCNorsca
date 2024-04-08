@@ -13,4 +13,4 @@ faction	unit	name	variant	unit_card
 	hkrul_dummy_kurgan_chaos_marauders_1			hkrul_kurgan_marauder_great_weapons
 	hkrul_dummy_aesling_inf_marauder_berserkers_0			scm_fc_norsca_aesling_nor_marauder_berserker
 	hkrul_dummy_sarl_chaos_marauders_1			scm_marauder_great_weapons_unit_card_sarl
-	hkrul_dummy_sarl_marauder_hunters_0			placeholder
+	hkrul_dummy_sarl_marauder_hunters_0			scm_fc_norsca_sarl_nor_marauder_throwing_axe

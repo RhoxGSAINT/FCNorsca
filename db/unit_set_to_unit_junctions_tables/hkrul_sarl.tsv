@@ -27,3 +27,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_sarl_hunters_ror	wh2_dlc17_wulfrik_focus_units	false
 			hkrul_sarl_hunters_ror	scm_norsca_nor_vets_marauder_hunters_marauder_horsemen_ror	false
 			hkrul_sarl_hunters_ror	wh2_main_ror_units_all	false
+			hkrul_sarl_hunters	hkrul_birna_sarl_hunters	false
+			hkrul_sarl_hunters	hkrul_birna_sarl_hunters_with_ror	false
+			hkrul_sarl_hunters_ror	hkrul_birna_sarl_hunters_with_ror	false

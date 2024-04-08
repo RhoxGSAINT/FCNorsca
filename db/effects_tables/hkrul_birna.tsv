@@ -8,3 +8,7 @@ hkrul_birna_ws_hunt_dummy	accuracy.png	300	accuracy.png	battle	true
 hkrul_birna_diplo_world_walkers	diplomacy.png	800	diplomacy.png	campaign	true
 rhox_birna_hunting_bonus	effect_bundle_sarl.png	1	effect_bundle_sarl.png	campaign	true
 rhox_birna_wood_bonus_dummy	effect_bundle_timber.png	2	effect_bundle_timber.png	campaign	true
+hkrul_birna_hunters_cap	unit_capacity.png	1	unit_capacity.png	campaign	true
+hkrul_birna_hunters_upkeep	military_spending.png	1	military_spending.png	campaign	false
+hkrul_birna_hunters_snipe	snipe.png	1	snipe.png	battle	true
+hkrul_birna_hunters_vanguard	attribute_guerrilla_deploy.png	1	attribute_guerrilla_deploy.png	battle	true
