@@ -37,7 +37,8 @@ ancillaries_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
 unit_abilities_tooltip_text_hkrul_birna_bow	The Ivory-bound Tuskweave Longbow shoots arrows guided by Birna's whispers.	true
 unit_abilities_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
 effects_description_hkrul_birna_bow	Ability: "Tuskweave Longbow''	true
-land_units_onscreen_name_hkrul_sarl_hunters	Hunters of the Kalti Delta (Marauder Hunters)	false
+land_units_onscreen_name_hkrul_sarl_hunters	Sarl Hunters	false
+land_units_onscreen_name_hkrul_sarl_hunters_ror	Stalkers of the Kalti Delta (Sarl Hunters)	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_birna	PLACEHOLDER	false
 unit_abilities_tooltip_text_hkrul_birna_gaze	Her tongue black as night whispers ill curses as those caught by her gaze freeze and wither.	true
 unit_abilities_onscreen_name_hkrul_birna_gaze	Mutant's Gaze	true
@@ -56,3 +57,4 @@ effect_bundles_localised_description_hkrul_birna_faction_trait	Champions of the 
 effect_bundles_localised_title_hkrul_birna_faction_trait	Mutants of the Sarl	false
 effects_description_rhox_birna_hunting_bonus	The Mutant Huntress: Chance to retrigger completed monster hunts upon Birna's victories over specific cultures: %+n%	false
 effects_description_rhox_birna_wood_bonus_dummy	Timber resource buildings provide additional global bonuses	false
+campaign_localised_strings_string_hkrul_sarl_hunters_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Sarl faction or have Birna in your faction[[/col]]	false
