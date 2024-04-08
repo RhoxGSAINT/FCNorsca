@@ -29,7 +29,7 @@
 			<META_DATA>equipment</META_DATA></VARIANT_MESH>
 	</SLOT>
 	<SLOT name="weapon_4" attach_point="be_prop_4" >
-		<VARIANT_MESH model="VariantMeshes/wh_variantmodels/hu1/ksl/ksl_props/ksl_archer_bow_01_projectile.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\sarl\archer\sarl_arrow.rigid_model_v2" />
 	</SLOT>
 	<SLOT name="weapon_5" attach_point="be_prop_5" />
 </VARIANT_MESH>
