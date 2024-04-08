@@ -1,90 +1,90 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_einar.loc		
-character_skills_localised_name_innate_hkrul_einar	Steelfist of Vinnskor	TRUE
-character_skills_localised_description_innate_hkrul_einar	"The Steelfist of the Baersonling is as gigantic as he is mighty, a warrior of rarely seen quality."	TRUE
-character_skills_localised_description_hkrul_einar_special_0_1	"As the Northern Warlord, Einarr's authority on the battlefield is unmatched. His presence inspires troops to fight with heightened morale and effectiveness during campaigns and battles."	TRUE
-character_skills_localised_name_hkrul_einar_special_0_1	Corrupted Furs	TRUE
-character_skills_localised_description_hkrul_einar_special_1_1	"Einarr's Norse Diplomatic Acumen improves diplomatic relations with other Norscan tribes, making alliances and trade agreements more attainable."	TRUE
-character_skills_localised_name_hkrul_einar_special_1_1	Feathers of the Raven	TRUE
-character_skills_localised_description_hkrul_einar_special_1_2	"Known for his resilience in the harsh North, Einarr's Northern Resilience reduces attrition and enhances the survival capabilities of his armies in cold climates."	TRUE
-character_skills_localised_name_hkrul_einar_special_1_2	Einarr's Horn	TRUE
-character_skills_localised_description_hkrul_einar_special_1_5	"Einarr enters the Berserker's Frenzy, an unstoppable melee rampage where his attacks become more ferocious and deadly. In this state, he disregards defense, focusing solely on dealing devastating blows to his adversaries."	TRUE
-character_skills_localised_name_hkrul_einar_special_1_5	Chaotic Runes	TRUE
-character_skills_localised_description_hkrul_einar_special_1_0	"Einarr taps into his Berserker Rage during battle, increasing his own combat prowess and that of nearby allies, turning the tide in close-quarters engagements."	TRUE
-character_skills_localised_name_hkrul_einar_special_1_0	Mutated Bites	TRUE
-character_skills_localised_description_hkrul_einar_special_1_3	"Einarr employs Viking Raider Tactics, allowing his armies to conduct swift and devastating raids on coastal settlements, disrupting enemy economies and bolstering his own treasury."	TRUE
-character_skills_localised_name_hkrul_einar_special_1_3	Steelfist	TRUE
-character_skills_localised_description_hkrul_einar_special_0_2	"Einarr's Baersonling heritage unlocks unique recruitment options for Norscan units, instilling a sense of cultural pride and loyalty within his army."	TRUE
-character_skills_localised_name_hkrul_einar_special_0_2	Baersonling Tribe	TRUE
-character_skills_localised_description_hkrul_einar_special_1_4	"Einarr's Glacial Battlefield Tactician skill provides strategic advantages in frozen landscapes, granting his armies enhanced movement and effectiveness in icy terrains."	TRUE
-character_skills_localised_name_hkrul_einar_special_1_4	Baersonling Marauders	TRUE
-agent_subtypes_onscreen_name_override_hkrul_einar	Legendary Lord	FALSE
-agent_subtypes_description_text_override_hkrul_einar		FALSE
-effects_description_hkrul_einar_sword	"Ability: ""Fangwyrm''"	TRUE
-effects_description_hkrul_einar_lord_devote	"Marauder Chieftains may devote themselves to Tzeentch, becoming powerful Chaos Lords of Tzeentch"	TRUE
-effects_description_hkrul_einar_devote	Dedicated to Tzeentch: May only devote himself to Tzeentch	TRUE
-character_trait_levels_onscreen_name_hkrul_defeated_trait_einar	Champion No-More	TRUE
-character_trait_levels_colour_text_hkrul_defeated_trait_einar	You should have known antagonists never end up well..	TRUE
-character_trait_levels_explanation_text_hkrul_defeated_trait_einar	Defeated Einarr Sigdansson	TRUE
-ancillaries_colour_text_hkrul_einar_sword	"Wielding the honor-laden title of Jarl of Vinnskor and standing proudly among the Baersonlings, Tulkir bears the weight of three decades of relentless battle on his broad shoulders. At his side, a once-magnificent blade known as Fangwyrm, now halved in valor, narrates tales of the Jarl's unyielding resilience. This magnificent weapon, snapped to less than half its former glory in the clash against the bloodbeast of the Aeslings, found renewed purpose as Einarr Sigdansson, a mighty Champion among the Baersonlings, reforged it. Despite its fracture, Fangwyrm remains a symbol of Tulkir's enduring strength and the sacrifices made in the relentless pursuit of honor and victory."	TRUE
-ancillaries_onscreen_name_hkrul_einar_sword	Fangwyrm	TRUE
-land_units_onscreen_name_hkrul_einar	Einarr Sigdansson	TRUE
-names_name_5670700355	Sigdansson	FALSE
-names_name_5670700356	Einarr	FALSE
-unit_description_short_texts_text_hkrul_einar	"A fierce Baersonling of the fallen village of Vinnskor and a mighty Champion of Tzeentch, Einarr Steelfist was marked by the Raven God when he slew a mighty Bloodbeast."	FALSE
-unit_abilities_tooltip_text_hkrul_einar_sword	"Blessed by Tzeentch, Fangwyrm is a mighty blade once wielded by Jarl Tulkir. It feeds on nearby magic and radiates immense power."	TRUE
-unit_abilities_onscreen_name_hkrul_einar_sword	Fangwyrm	TRUE
-character_skill_node_sets_enc_title_skill_node_set_hkrul_einar		FALSE
-ancillaries_colour_text_hkrul_lokjar_amulet	The amulet has the spirit of a Snow Troll bound within it. Those who wear it are said to begin taking on the traits of the Troll themselves.	TRUE
-ancillaries_onscreen_name_hkrul_lokjar_amulet	Snow Troll Amulet	TRUE
-ancillaries_colour_text_hkrul_lokjar_gorger	"The magical weapon was crafted out of the skull of a White Dragon, who was known for preferring killing his victims with one mighty bite of his enormous jaws."	FALSE
-ancillaries_onscreen_name_hkrul_lokjar_gorger	Skull Gorger	FALSE
-land_units_onscreen_name_hkrul_einar_bear	Einarr Sigdansson	FALSE
-ancillaries_colour_text_hkrul_einar_bear	"Gifted by the Lord of Change, Bregða's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	FALSE
-ancillaries_onscreen_name_hkrul_einar_bear	Bregða	FALSE
-units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	"Gifted by the Lord of Change, Bregða's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	FALSE
-units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	Bregða	FALSE
-character_skills_localised_description_hkrul_einar_bear	"Gifted by the Lord of Change, Bregða's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	FALSE
-character_skills_localised_name_hkrul_einar_bear	Bregða	FALSE
-effects_description_hkrul_einar_steelfist	"Ability: ""Steelfist's Wrath"""	TRUE
-unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slaid Ogres with nothing but his iron clad protected hands.	TRUE
-unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	TRUE
-effects_description_hkrul_einar_fury	"Ability: ""Fury of Vinnskor"""	TRUE
-unit_abilities_tooltip_text_hkrul_einar_fury	"Amidst all the lifeless bodies of the village of Vinnskor, Einarr - sole survivor - held the corpse of his son as he detonated in nothing but mindless rage."	TRUE
-unit_abilities_onscreen_name_hkrul_einar_fury	Fury of Vinnskor	TRUE
-effect_bundles_localised_description_rhox_baersonling_high_wom		FALSE
-effect_bundles_localised_title_rhox_baersonling_high_wom	Winds of Magic Power Reserve (80+)	FALSE
-missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_1_nor	Parchment & Ink	FALSE
-missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_1_nor	"Parchment has been seen falling from the skies over nearby battlefields. The scribblings upon them bind powerful magics into the pages, waiting to be unlocked by any who might claim them. Where they came from or why they litter the fields of war remains a mystery, yet one thing is for certain: every word brims with the Changer's arcane power. If the culprits behind this flurry of spells are ever to be located, questions must be asked. Perhaps those captured in battle may have tales to tell us?"	FALSE
-missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_title_wh3_dlc24_mis_tze_blue_scribes_stage_1}}	FALSE
-missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_description_wh3_dlc24_mis_tze_blue_scribes_stage_2_changeling}}	FALSE
-missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_nor	Parchment & Ink	FALSE
-missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_2_nor	"Your investigation has proven fruitful, indeed. It seems the Blue Scribes of Tzeentch ??P'tarix and Xirat'p ??are the frenzied force behind the haphazard magics that have plagued so many battlefields across the land. Better yet, a clue to their current location has now reared its head, as Chaos surges within a nearby settlement. If you act quickly, you could capture the region before the Blue Scribes have chance to move on, spreading their twisted mischief further outside of your reach."	FALSE
-missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_3_nor	Parchment & Ink	FALSE
-missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_3_nor	"Your investigation has proven fruitful, indeed. It seems the Blue Scribes of Tzeentch ??P'tarix and Xirat'p ??are the frenzied force behind the haphazard magics that have plagued so many battlefields across the land. Better yet, a clue to their current location has now reared its head, as Chaos surges within a nearby settlement. If you act quickly, you could capture the region before the Blue Scribes have chance to move on, spreading their twisted mischief further outside of your reach."	FALSE
-missions_localised_title_rhox_baersonling_tze_aekold_helbrass_stage_1_nor	A Tale of the True Path	FALSE
-missions_localised_description_rhox_baersonling_tze_aekold_helbrass_stage_1_nor	"Word has spread of a noble?�s son, a once-great Knight of the Empire, who roams the Chaos Wastes in search of a greater purpose. Most remarkably he bears the insignia of a Tzeentchian cult, the Brethren of the Golden Eagle. His loyalties had him pursued doggedly for a time by the Templars of Sigmar, the Empire?�s Witch Hunters, but once they caught up he proved his status as the greatest swordsman in his Knightly Order. Perhaps in time this Champion-in-the-making will make his way to us, but in the meantime we must ensure there are more like-minded warriors to help him embrace Chaos."	FALSE
-missions_localised_title_rhox_baersonling_tze_aekold_helbrass_stage_2_nor	A Tale of the True Path	FALSE
-missions_localised_description_rhox_baersonling_tze_aekold_helbrass_stage_2_nor	"The noble breath of the wandering Knight is carried as a whisper upon the Winds, speaking of a tall monolith he has encountered deep in the Chaos Wastes that holds history, magic and prophecy. Yet standing between the Knight and the answers leading him to Chaos??embrace is a bloodthirsty Doombull and his warherd! If this warrior is ever to reach his full potential in Tzeentch?�s estimations we must provide him with the assistance he might require to reach the revelations he seeks."	FALSE
-agent_subtypes_description_text_override_rhox_baersonling_daemon_prince_tzeentch		FALSE
-agent_subtypes_onscreen_name_override_rhox_baersonling_daemon_prince_tzeentch	Daemon Prince of Tzeentch	FALSE
-initiatives_localised_description_rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain	Character must reach rank 15	FALSE
-initiatives_localised_name_rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain	Devote to Tzeentch	FALSE
-character_skill_node_sets_enc_title_rhox_baersonling_daemon_prince_tzeentch		FALSE
-ui_text_replacements_localised_text_corruption_effect_prefix_tzeentch_rhox_baersonling	[[col:green]]	FALSE
-effect_bundles_localised_description_hkrul_einar_faction_trait	Einarr Sigdansson	FALSE
-effect_bundles_localised_title_hkrul_einar_faction_trait	Einarr Sigdansson	FALSE
-initiatives_localised_description_rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	Character must reach rank 30	FALSE
-initiatives_localised_name_rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	Ascend to Daemonhood (Tzeentch)	FALSE
-agent_subtypes_description_text_override_rhox_baersonling_chs_lord_mtze		FALSE
-agent_subtypes_onscreen_name_override_rhox_baersonling_chs_lord_mtze	Chaos Lord of Tzeentch	FALSE
-character_trait_levels_colour_text_rhox_baesonling_chieftain_to_marked_lord	His terrible Mark shows he has sworn to a new master	FALSE
-character_trait_levels_explanation_text_rhox_baesonling_chieftain_to_marked_lord		FALSE
-character_trait_levels_onscreen_name_rhox_baesonling_chieftain_to_marked_lord	Sworn to the Eagle	FALSE
-character_trait_levels_removal_text_rhox_baesonling_chieftain_to_marked_lord		FALSE
-campaign_payload_ui_details_description_rhox_fc_norsca_asta	Asta of Vinnskor is reunited with the Baersonling Tribe	FALSE
-missions_localised_title_rhox_fc_norsca_asta	Asta of Vinnskor	FALSE
-missions_localised_description_rhox_fc_norsca_asta	"Amidst the windswept ruins of Vinnskor, Einarr Sigdansson, the Champion of Tzeentch, uncovers a shard of hope amidst the wreckage of his shattered past. Whispers carry tales of his beloved Asta, once thought lost to the cruel blades of the Aeslings, now rumored to roam the dense forests of Bretonnia. Asta, chieftess of Vinnskor and skilled huntress, was torn from her home and sold into the clutches of a Bretonnian noble, destined to serve as a slave in a foreign court. //n//n Driven by a firestorm of vengeance and longing, Einarr embarks on a perilous journey beyond the storm-tossed seas, his resolve unyielding as he sails towards the sun-kissed shores of Bretonnia. With the promise of Asta's liberation burning brightly in his heart, Einarr sets forth to raid the lands of Bordeleaux, where rumors whisper of her elusive presence. In the heart of enemy territory, amidst the opulent halls of nobility and the twisted alleys of Bretonnian towns, lies the key to unlocking Asta's chains. "	FALSE
-missions_localised_title_rhox_fc_norsca_asta_hint	Ruins of Vinnskor	FALSE
-missions_localised_description_rhox_fc_norsca_asta_hint	"In the frigid expanse of the northern lands lies Vinnskor, once a thriving village of the Baersonling tribe, now desolate and overrun by our enemies. As Einarr Sigdansson, son of Sigdan, it falls upon you to reclaim what was lost and restore honor to your people. The ruins of Vinnskor hold the echoes of our ancestors, and it is time to silence the whispers of defeat that linger there. March forth with courage, for the fate of our tribe rests on your shoulders. Let the blood of our enemies stain the snow as we reclaim Vinnskor and rebuild our legacy"	FALSE
-effects_description_hkrul_einar_bear	Mount: Breg��a	FALSE
+character_skills_localised_name_innate_hkrul_einar	Steelfist of Vinnskor	true
+character_skills_localised_description_innate_hkrul_einar	"The Steelfist of the Baersonling is as gigantic as he is mighty, a warrior of rarely seen quality."	true
+character_skills_localised_description_hkrul_einar_special_0_1	"As the Northern Warlord, Einarr's authority on the battlefield is unmatched. His presence inspires troops to fight with heightened morale and effectiveness during campaigns and battles."	true
+character_skills_localised_name_hkrul_einar_special_0_1	Corrupted Furs	true
+character_skills_localised_description_hkrul_einar_special_1_1	"Einarr's Norse Diplomatic Acumen improves diplomatic relations with other Norscan tribes, making alliances and trade agreements more attainable."	true
+character_skills_localised_name_hkrul_einar_special_1_1	Feathers of the Raven	true
+character_skills_localised_description_hkrul_einar_special_1_2	"Known for his resilience in the harsh North, Einarr's Northern Resilience reduces attrition and enhances the survival capabilities of his armies in cold climates."	true
+character_skills_localised_name_hkrul_einar_special_1_2	Einarr's Horn	true
+character_skills_localised_description_hkrul_einar_special_1_5	"Einarr enters the Berserker's Frenzy, an unstoppable melee rampage where his attacks become more ferocious and deadly. In this state, he disregards defense, focusing solely on dealing devastating blows to his adversaries."	true
+character_skills_localised_name_hkrul_einar_special_1_5	Chaotic Runes	true
+character_skills_localised_description_hkrul_einar_special_1_0	"Einarr taps into his Berserker Rage during battle, increasing his own combat prowess and that of nearby allies, turning the tide in close-quarters engagements."	true
+character_skills_localised_name_hkrul_einar_special_1_0	Mutated Bites	true
+character_skills_localised_description_hkrul_einar_special_1_3	"Einarr employs Viking Raider Tactics, allowing his armies to conduct swift and devastating raids on coastal settlements, disrupting enemy economies and bolstering his own treasury."	true
+character_skills_localised_name_hkrul_einar_special_1_3	Steelfist	true
+character_skills_localised_description_hkrul_einar_special_0_2	"Einarr's Baersonling heritage unlocks unique recruitment options for Norscan units, instilling a sense of cultural pride and loyalty within his army."	true
+character_skills_localised_name_hkrul_einar_special_0_2	Baersonling Tribe	true
+character_skills_localised_description_hkrul_einar_special_1_4	"Einarr's Glacial Battlefield Tactician skill provides strategic advantages in frozen landscapes, granting his armies enhanced movement and effectiveness in icy terrains."	true
+character_skills_localised_name_hkrul_einar_special_1_4	Baersonling Marauders	true
+agent_subtypes_onscreen_name_override_hkrul_einar	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_einar		false
+effects_description_hkrul_einar_sword	"Ability: ""Fangwyrm''"	true
+effects_description_hkrul_einar_lord_devote	"Marauder Chieftains may devote themselves to Tzeentch, becoming powerful Chaos Lords of Tzeentch"	true
+effects_description_hkrul_einar_devote	Dedicated to Tzeentch: May only devote himself to Tzeentch	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_einar	Champion No-More	true
+character_trait_levels_colour_text_hkrul_defeated_trait_einar	You should have known antagonists never end up well..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_einar	Defeated Einarr Sigdansson	true
+ancillaries_colour_text_hkrul_einar_sword	"Wielding the honor-laden title of Jarl of Vinnskor and standing proudly among the Baersonlings, Tulkir bears the weight of three decades of relentless battle on his broad shoulders. At his side, a once-magnificent blade known as Fangwyrm, now halved in valor, narrates tales of the Jarl's unyielding resilience. This magnificent weapon, snapped to less than half its former glory in the clash against the bloodbeast of the Aeslings, found renewed purpose as Einarr Sigdansson, a mighty Champion among the Baersonlings, reforged it. Despite its fracture, Fangwyrm remains a symbol of Tulkir's enduring strength and the sacrifices made in the relentless pursuit of honor and victory."	true
+ancillaries_onscreen_name_hkrul_einar_sword	Fangwyrm	true
+land_units_onscreen_name_hkrul_einar	Einarr Sigdansson	true
+names_name_5670700355	Sigdansson	false
+names_name_5670700356	Einarr	false
+unit_description_short_texts_text_hkrul_einar	"A fierce Baersonling of the fallen village of Vinnskor and a mighty Champion of Tzeentch, Einarr Steelfist was marked by the Raven God when he slew a mighty Bloodbeast."	false
+unit_abilities_tooltip_text_hkrul_einar_sword	"Blessed by Tzeentch, Fangwyrm is a mighty blade once wielded by Jarl Tulkir. It feeds on nearby magic and radiates immense power."	true
+unit_abilities_onscreen_name_hkrul_einar_sword	Fangwyrm	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_einar		false
+ancillaries_colour_text_hkrul_lokjar_amulet	The amulet has the spirit of a Snow Troll bound within it. Those who wear it are said to begin taking on the traits of the Troll themselves.	true
+ancillaries_onscreen_name_hkrul_lokjar_amulet	Snow Troll Amulet	true
+ancillaries_colour_text_hkrul_lokjar_gorger	"The magical weapon was crafted out of the skull of a White Dragon, who was known for preferring killing his victims with one mighty bite of his enormous jaws."	false
+ancillaries_onscreen_name_hkrul_lokjar_gorger	Skull Gorger	false
+land_units_onscreen_name_hkrul_einar_bear	Einarr Sigdansson	false
+ancillaries_colour_text_hkrul_einar_bear	"Gifted by the Lord of Change, BregÃ°a's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
+ancillaries_onscreen_name_hkrul_einar_bear	BregÃ°a	false
+units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	"Gifted by the Lord of Change, BregÃ°a's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
+units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	BregÃ°a	false
+character_skills_localised_description_hkrul_einar_bear	"Gifted by the Lord of Change, BregÃ°a's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
+character_skills_localised_name_hkrul_einar_bear	BregÃ°a	false
+effects_description_hkrul_einar_steelfist	"Ability: ""Steelfist's Wrath"""	true
+unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slaid Ogres with nothing but his iron clad protected hands.	true
+unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true
+effects_description_hkrul_einar_fury	"Ability: ""Fury of Vinnskor"""	true
+unit_abilities_tooltip_text_hkrul_einar_fury	"Amidst all the lifeless bodies of the village of Vinnskor, Einarr - sole survivor - held the corpse of his son as he detonated in nothing but mindless rage."	true
+unit_abilities_onscreen_name_hkrul_einar_fury	Fury of Vinnskor	true
+effect_bundles_localised_description_rhox_baersonling_high_wom		false
+effect_bundles_localised_title_rhox_baersonling_high_wom	Winds of Magic Power Reserve (80+)	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_1_nor	Parchment & Ink	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_1_nor	"Parchment has been seen falling from the skies over nearby battlefields. The scribblings upon them bind powerful magics into the pages, waiting to be unlocked by any who might claim them. Where they came from or why they litter the fields of war remains a mystery, yet one thing is for certain: every word brims with the Changer's arcane power. If the culprits behind this flurry of spells are ever to be located, questions must be asked. Perhaps those captured in battle may have tales to tell us?"	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_title_wh3_dlc24_mis_tze_blue_scribes_stage_1}}	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_2_b_nor	{{tr:missions_localised_description_wh3_dlc24_mis_tze_blue_scribes_stage_2_changeling}}	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_2_nor	Parchment & Ink	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_2_nor	"Your investigation has proven fruitful, indeed. It seems the Blue Scribes of Tzeentch ??P'tarix and Xirat'p ??are the frenzied force behind the haphazard magics that have plagued so many battlefields across the land. Better yet, a clue to their current location has now reared its head, as Chaos surges within a nearby settlement. If you act quickly, you could capture the region before the Blue Scribes have chance to move on, spreading their twisted mischief further outside of your reach."	false
+missions_localised_title_rhox_baersonling_tze_blue_scribes_stage_3_nor	Parchment & Ink	false
+missions_localised_description_rhox_baersonling_tze_blue_scribes_stage_3_nor	"Your investigation has proven fruitful, indeed. It seems the Blue Scribes of Tzeentch ??P'tarix and Xirat'p ??are the frenzied force behind the haphazard magics that have plagued so many battlefields across the land. Better yet, a clue to their current location has now reared its head, as Chaos surges within a nearby settlement. If you act quickly, you could capture the region before the Blue Scribes have chance to move on, spreading their twisted mischief further outside of your reach."	false
+missions_localised_title_rhox_baersonling_tze_aekold_helbrass_stage_1_nor	A Tale of the True Path	false
+missions_localised_description_rhox_baersonling_tze_aekold_helbrass_stage_1_nor	"Word has spread of a noble?s son, a once-great Knight of the Empire, who roams the Chaos Wastes in search of a greater purpose. Most remarkably he bears the insignia of a Tzeentchian cult, the Brethren of the Golden Eagle. His loyalties had him pursued doggedly for a time by the Templars of Sigmar, the Empire?s Witch Hunters, but once they caught up he proved his status as the greatest swordsman in his Knightly Order. Perhaps in time this Champion-in-the-making will make his way to us, but in the meantime we must ensure there are more like-minded warriors to help him embrace Chaos."	false
+missions_localised_title_rhox_baersonling_tze_aekold_helbrass_stage_2_nor	A Tale of the True Path	false
+missions_localised_description_rhox_baersonling_tze_aekold_helbrass_stage_2_nor	"The noble breath of the wandering Knight is carried as a whisper upon the Winds, speaking of a tall monolith he has encountered deep in the Chaos Wastes that holds history, magic and prophecy. Yet standing between the Knight and the answers leading him to Chaos??embrace is a bloodthirsty Doombull and his warherd! If this warrior is ever to reach his full potential in Tzeentch?s estimations we must provide him with the assistance he might require to reach the revelations he seeks."	false
+agent_subtypes_description_text_override_rhox_baersonling_daemon_prince_tzeentch		false
+agent_subtypes_onscreen_name_override_rhox_baersonling_daemon_prince_tzeentch	Daemon Prince of Tzeentch	false
+initiatives_localised_description_rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain	Character must reach rank 15	false
+initiatives_localised_name_rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain	Devote to Tzeentch	false
+character_skill_node_sets_enc_title_rhox_baersonling_daemon_prince_tzeentch		false
+ui_text_replacements_localised_text_corruption_effect_prefix_tzeentch_rhox_baersonling	[[col:green]]	false
+effect_bundles_localised_description_hkrul_einar_faction_trait	Einarr Sigdansson	false
+effect_bundles_localised_title_hkrul_einar_faction_trait	Einarr Sigdansson	false
+initiatives_localised_description_rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	Character must reach rank 30	false
+initiatives_localised_name_rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	Ascend to Daemonhood (Tzeentch)	false
+agent_subtypes_description_text_override_rhox_baersonling_chs_lord_mtze		false
+agent_subtypes_onscreen_name_override_rhox_baersonling_chs_lord_mtze	Chaos Lord of Tzeentch	false
+character_trait_levels_colour_text_rhox_baesonling_chieftain_to_marked_lord	His terrible Mark shows he has sworn to a new master	false
+character_trait_levels_explanation_text_rhox_baesonling_chieftain_to_marked_lord		false
+character_trait_levels_onscreen_name_rhox_baesonling_chieftain_to_marked_lord	Sworn to the Eagle	false
+character_trait_levels_removal_text_rhox_baesonling_chieftain_to_marked_lord		false
+campaign_payload_ui_details_description_rhox_fc_norsca_asta	Asta of Vinnskor is reunited with the Baersonling Tribe	false
+missions_localised_title_rhox_fc_norsca_asta	Asta of Vinnskor	false
+missions_localised_description_rhox_fc_norsca_asta	"Amidst the windswept ruins of Vinnskor, Einarr Sigdansson, the Champion of Tzeentch, uncovers a shard of hope amidst the wreckage of his shattered past. Whispers carry tales of his beloved Asta, once thought lost to the cruel blades of the Aeslings, now rumored to roam the dense forests of Bretonnia. Asta, chieftess of Vinnskor and skilled huntress, was torn from her home and sold into the clutches of a Bretonnian noble, destined to serve as a slave in a foreign court. //n//n Driven by a firestorm of vengeance and longing, Einarr embarks on a perilous journey beyond the storm-tossed seas, his resolve unyielding as he sails towards the sun-kissed shores of Bretonnia. With the promise of Asta's liberation burning brightly in his heart, Einarr sets forth to raid the lands of Bordeleaux, where rumors whisper of her elusive presence. In the heart of enemy territory, amidst the opulent halls of nobility and the twisted alleys of Bretonnian towns, lies the key to unlocking Asta's chains. "	false
+missions_localised_title_rhox_fc_norsca_asta_hint	Ruins of Vinnskor	false
+missions_localised_description_rhox_fc_norsca_asta_hint	"In the frigid expanse of the northern lands lies Vinnskor, once a thriving village of the Baersonling tribe, now desolate and overrun by our enemies. As Einarr Sigdansson, son of Sigdan, it falls upon you to reclaim what was lost and restore honor to your people. The ruins of Vinnskor hold the echoes of our ancestors, and it is time to silence the whispers of defeat that linger there. March forth with courage, for the fate of our tribe rests on your shoulders. Let the blood of our enemies stain the snow as we reclaim Vinnskor and rebuild our legacy"	false
+effects_description_hkrul_einar_bear	Mount: Breg©£a	false
