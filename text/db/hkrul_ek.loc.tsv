@@ -1,72 +1,72 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_ek.loc		
-character_trait_levels_colour_text_hkrul_defeated_trait_ek	The wheels on the chariot go round and round..	FALSE
-character_trait_levels_explanation_text_hkrul_defeated_trait_ek	Defeated Surtha Ek	FALSE
-character_trait_levels_onscreen_name_hkrul_defeated_trait_ek	The Everchariot	FALSE
-effect_bundles_localised_description_hkrul_ek_faction_trait	"Surtha Ek's natural talent for commanding chariots quickly earned him recognition among his people, and he soon became known as the most feared chariot master in all of Norsca."	FALSE
-effect_bundles_localised_title_hkrul_ek_faction_trait	The Everchariot	FALSE
-character_skills_localised_name_innate_hkrul_surtha_ek	Chariot-Lord of the Varg	TRUE
-character_skills_localised_description_innate_hkrul_surtha_ek	"Surtha Ek, the ""Everchariot,"" looms over the battlefield astride his chariot, a relentless force of destruction and chaos."	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_0_1	"Surtha Ek bestows his blessings upon his followers, granting them increased strength, speed, and resilience in battle"	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_0_1	Thundering Charge	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_1_1	"Surtha Ek leads his warriors on daring raids, increasing their plunder and spoils of war."	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_1_1	Ride of the Varg	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_1_2	"Surtha Ek and his chariot gain increased resistance to damage, allowing them to endure prolonged battles."	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_1_2	Blades of Chaos	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_1_5	Surtha Ek's strategic genius increases the effectiveness of his army's maneuvers on the battlefield.	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_1_5	Warrior's Endurance	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_1_0	"Surtha Ek charges his chariot into enemy lines, causing massive damage and disruption."	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_1_0	Ruthless Raider	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_1_3	"Surtha Ek channels the brutal savagery of the Norscan tribes, increasing the damage output of his army."	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_1_3	Master Tactician	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_0_2	"Surtha Ek leads the Varg tribe on a campaign of conquest, expanding their territory and influence across Norsca"	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_0_2	Varg Tribe	TRUE
-character_skills_localised_description_hkrul_surtha_ek_special_1_4	"Surtha Ek's presence on the battlefield inspires his warriors to fight with unparalleled ferocity, dealing increased damage to enemy units."	TRUE
-character_skills_localised_name_hkrul_surtha_ek_special_1_4	Chariot Mastery	TRUE
-agent_subtypes_onscreen_name_override_hkrul_surtha_ek	Legendary Lord	FALSE
-agent_subtypes_description_text_override_hkrul_surtha_ek		FALSE
-unit_abilities_tooltip_text_hkrul_surtha_ek_whip	"Dreadlash is infused with chaos runes, driving Ek's chariot's horses to a frenzy while delivering searing pain to his foes"	FALSE
-unit_abilities_onscreen_name_hkrul_surtha_ek_whip	Dreadlash	FALSE
-effects_description_hkrul_surtha_ek_whip	"Ability: ""Dreadlash''"	TRUE
-effects_description_hkrul_surtha_ek_speed_up	"Ability: ""Chaotic Charge!''"	TRUE
-ancillaries_colour_text_PLACEHOLDER	Bloodspiller	TRUE
-ancillaries_onscreen_name_PLACEHOLDER	"Bloodspiller is a massive, obscure-painted chariot adorned with the skulls of fallen enemies and etched with blasphemous symbols of Chaos. Pulled by two ferocious chaos steeds, its wheels churn up the earth as it charges into battle, leaving destruction and chaos in its wake."	TRUE
-land_units_onscreen_name_hkrul_surtha_ek	Surtha Ek	TRUE
-names_name_1440700350	Ek	FALSE
-names_name_1440700351	Surtha	FALSE
-unit_description_short_texts_text_hkrul_surtha_ek	"Surtha Ek, the ""Everchariot,"" is a towering figure of muscle and fury, commanding his warriors from the back of his fearsome steed."	FALSE
-unit_description_historical_texts_text_hkrul_surtha_ek	"Surtha Ek, feared throughout the frozen wastes of Norsca as the ""Everchariot,"" is a towering figure of muscle and fury. With a mane of unkempt hair and eyes ablaze with the fervor of battle, he exudes an aura of savage authority. Clad in the tattered remnants of his enemies' garb, he wears the trophies of his conquests as badges of honor. His voice, deep and resonant, carries the weight of command as he leads his warriors into battle. But it is his mastery of the chariot that truly sets him apart, as Thunderhoof thunders across the battlefield, leaving a trail of destruction in its wake."	FALSE
-ancillaries_colour_text_hkrul_surtha_ek_speed_up	"In battle, Surtha Ek wields a whip with mastery honed through countless campaigns. Crafted from the sinew of defeated enemies and adorned with runes of chaos, the whip serves not only to drive the horses of his chariot into a frenzied charge but also to inflict searing pain upon his foes, leaving them broken and demoralized in his wake"	FALSE
-ancillaries_onscreen_name_hkrul_surtha_ek_speed_up	Dreadlash	FALSE
-character_skill_node_sets_enc_title_skill_node_set_hkrul_surtha_ek		FALSE
-land_units_onscreen_name_hkrul_surtha_ek_chariot	Surtha Ek	TRUE
-units_custom_battle_mounts_mount_name_hkrul_surtha_ekhkrul_surtha_ek_chariot	Bloodspiller	TRUE
-units_custom_battle_mounts_localised_description_hkrul_surtha_ekhkrul_surtha_ek_chariot	"A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way."	TRUE
-ancillaries_colour_text_hkrul_surtha_ek_chariot	"A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way."	FALSE
-ancillaries_onscreen_name_hkrul_surtha_ek_chariot	Bloodspiller	FALSE
-character_skills_localised_description_hkrul_surtha_ek_chariot	"A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way."	FALSE
-character_skills_localised_name_hkrul_surtha_ek_chariot	Bloodspiller	FALSE
-effects_description_hkrul_surtha_chariots_unit_xp	Recruit rank: %+n for Chariot units	FALSE
-effects_description_hkrul_surtha_chariots_melee_attack	Melee attack: %+n for Chariot units	FALSE
-effects_description_hkrul_surtha_chariots_speed	Speed: %+n  for Chariot units	FALSE
-effects_description_hkrul_surtha_chariots_charge	Charge bonus: %+n for Chariot units	FALSE
-effects_description_hkrul_surtha_chariots_fear	Attribute: Causes Fear for Chariot units	FALSE
-effects_description_hkrul_surtha_chariots_glorious	Attribute: Glorious Charge for Chariot units	FALSE
-effects_description_hkrul_surtha_chariots_upkeep	Upkeep: %+n% for Chariot units	FALSE
-unit_abilities_tooltip_text_hkrul_surtha_ek_speed_up	As Surtha takes the helm that which pulls his chariot devolves in a frenzy of mindless speed and ferociousness.	TRUE
-unit_abilities_onscreen_name_hkrul_surtha_ek_speed_up	Chaotic Charge	TRUE
-effects_description_hkrul_wolf_bite	"Ability: ""Savage Bite''"	FALSE
-unit_abilities_tooltip_text_hkrul_wolf_bite	A horrendous bite by a legendary Werekin is one only the fiercest champions recover from.	TRUE
-unit_abilities_onscreen_name_hkrul_wolf_bite	Savage Bite	TRUE
-mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	\\nReplenish this unit by achieving victories province with high Khorne corruption	FALSE
-mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	\\nReplenish this unit by achieving victories province with high Nurgle corruption	FALSE
-mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	\\nReplenish this unit by achieving victories province with high Slaanesh corruption	FALSE
-mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	\\nReplenish this unit by achieving victories province with high Tzeentch corruption	FALSE
-mercenary_unit_groups_replenishment_reason_rhox_varg_wh_main_chs_mon_chaos_spawn	\\nReplenish this unit by achieving victories province with high Chaos Undivided corruption	FALSE
-incidents_localised_description_rhox_varg_chaos_spawn_incident	"Mutations take hold of welcoming marauders, warping their body in mind in to mindless Spawn of Chaos."	FALSE
-incidents_localised_title_rhox_varg_chaos_spawn_incident	Chaos Spawns	FALSE
-effects_description_rhox_varg_auto_colonise_dummy	Any ruined region in a province where Varg controls a settlement will eventually be automatically colonized at no cost.	FALSE
-effects_description_rhox_varg_chaos_spawn_dummy	Chance to replenish Chaos Spawn units upon achieving victory in a province with high Chaos corruption.	FALSE
-effects_description_rhox_varg_chaos_spawn_chance	Chance of replenishing Chaos Spawn units after battle: %+n%	FALSE
-effects_description_effect_bundle_varg_spawn	Mutations: The mutative Vargs have a chance to replenish Chaos Spawn units upon achieving victory in a region with high chaos corruption.	FALSE
-effects_description_hkrul_surtha_ek_chariot	Mount: Bloodspiller	FALSE
+character_trait_levels_colour_text_hkrul_defeated_trait_ek	The wheels on the chariot go round and round..	false
+character_trait_levels_explanation_text_hkrul_defeated_trait_ek	Defeated Surtha Ek	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_ek	The Everchariot	false
+effect_bundles_localised_description_hkrul_ek_faction_trait	"Surtha Ek's natural talent for commanding chariots quickly earned him recognition among his people, and he soon became known as the most feared chariot master in all of Norsca."	false
+effect_bundles_localised_title_hkrul_ek_faction_trait	The Everchariot	false
+character_skills_localised_name_innate_hkrul_surtha_ek	Chariot-Lord of the Varg	true
+character_skills_localised_description_innate_hkrul_surtha_ek	"Surtha Ek, the ""Everchariot,"" looms over the battlefield astride his chariot, a relentless force of destruction and chaos."	true
+character_skills_localised_description_hkrul_surtha_ek_special_0_1	"Surtha Ek bestows his blessings upon his followers, granting them increased strength, speed, and resilience in battle"	true
+character_skills_localised_name_hkrul_surtha_ek_special_0_1	Thundering Charge	true
+character_skills_localised_description_hkrul_surtha_ek_special_1_1	"Surtha Ek leads his warriors on daring raids, increasing their plunder and spoils of war."	true
+character_skills_localised_name_hkrul_surtha_ek_special_1_1	Ride of the Varg	true
+character_skills_localised_description_hkrul_surtha_ek_special_1_2	"Surtha Ek and his chariot gain increased resistance to damage, allowing them to endure prolonged battles."	true
+character_skills_localised_name_hkrul_surtha_ek_special_1_2	Blades of Chaos	true
+character_skills_localised_description_hkrul_surtha_ek_special_1_5	Surtha Ek's strategic genius increases the effectiveness of his army's maneuvers on the battlefield.	true
+character_skills_localised_name_hkrul_surtha_ek_special_1_5	Warrior's Endurance	true
+character_skills_localised_description_hkrul_surtha_ek_special_1_0	"Surtha Ek charges his chariot into enemy lines, causing massive damage and disruption."	true
+character_skills_localised_name_hkrul_surtha_ek_special_1_0	Ruthless Raider	true
+character_skills_localised_description_hkrul_surtha_ek_special_1_3	"Surtha Ek channels the brutal savagery of the Norscan tribes, increasing the damage output of his army."	true
+character_skills_localised_name_hkrul_surtha_ek_special_1_3	Master Tactician	true
+character_skills_localised_description_hkrul_surtha_ek_special_0_2	"Surtha Ek leads the Varg tribe on a campaign of conquest, expanding their territory and influence across Norsca"	true
+character_skills_localised_name_hkrul_surtha_ek_special_0_2	Varg Tribe	true
+character_skills_localised_description_hkrul_surtha_ek_special_1_4	"Surtha Ek's presence on the battlefield inspires his warriors to fight with unparalleled ferocity, dealing increased damage to enemy units."	true
+character_skills_localised_name_hkrul_surtha_ek_special_1_4	Chariot Mastery	true
+agent_subtypes_onscreen_name_override_hkrul_surtha_ek	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_surtha_ek		false
+unit_abilities_tooltip_text_hkrul_surtha_ek_whip	"Dreadlash is infused with chaos runes, driving Ek's chariot's horses to a frenzy while delivering searing pain to his foes"	false
+unit_abilities_onscreen_name_hkrul_surtha_ek_whip	Dreadlash	false
+effects_description_hkrul_surtha_ek_whip	"Ability: ""Dreadlash''"	true
+effects_description_hkrul_surtha_ek_speed_up	"Ability: ""Chaotic Charge!''"	true
+ancillaries_colour_text_PLACEHOLDER	Bloodspiller	true
+ancillaries_onscreen_name_PLACEHOLDER	"Bloodspiller is a massive, obscure-painted chariot adorned with the skulls of fallen enemies and etched with blasphemous symbols of Chaos. Pulled by two ferocious chaos steeds, its wheels churn up the earth as it charges into battle, leaving destruction and chaos in its wake."	true
+land_units_onscreen_name_hkrul_surtha_ek	Surtha Ek	true
+names_name_1440700350	Ek	false
+names_name_1440700351	Surtha	false
+unit_description_short_texts_text_hkrul_surtha_ek	"Surtha Ek, the ""Everchariot,"" is a towering figure of muscle and fury, commanding his warriors from the back of his fearsome steed."	false
+unit_description_historical_texts_text_hkrul_surtha_ek	"Surtha Ek, feared throughout the frozen wastes of Norsca as the ""Everchariot,"" is a towering figure of muscle and fury. With a mane of unkempt hair and eyes ablaze with the fervor of battle, he exudes an aura of savage authority. Clad in the tattered remnants of his enemies' garb, he wears the trophies of his conquests as badges of honor. His voice, deep and resonant, carries the weight of command as he leads his warriors into battle. But it is his mastery of the chariot that truly sets him apart, as Thunderhoof thunders across the battlefield, leaving a trail of destruction in its wake."	false
+ancillaries_colour_text_hkrul_surtha_ek_speed_up	"In battle, Surtha Ek wields a whip with mastery honed through countless campaigns. Crafted from the sinew of defeated enemies and adorned with runes of chaos, the whip serves not only to drive the horses of his chariot into a frenzied charge but also to inflict searing pain upon his foes, leaving them broken and demoralized in his wake"	false
+ancillaries_onscreen_name_hkrul_surtha_ek_speed_up	Dreadlash	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_surtha_ek		false
+land_units_onscreen_name_hkrul_surtha_ek_chariot	Surtha Ek	true
+units_custom_battle_mounts_mount_name_hkrul_surtha_ekhkrul_surtha_ek_chariot	Bloodspiller	true
+units_custom_battle_mounts_localised_description_hkrul_surtha_ekhkrul_surtha_ek_chariot	"A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way."	true
+ancillaries_colour_text_hkrul_surtha_ek_chariot	"A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way."	false
+ancillaries_onscreen_name_hkrul_surtha_ek_chariot	Bloodspiller	false
+character_skills_localised_description_hkrul_surtha_ek_chariot	"A war chariot outfitted with copius amount of blades, well suited to running down infantries not quick enough to get out of its way."	false
+character_skills_localised_name_hkrul_surtha_ek_chariot	Bloodspiller	false
+effects_description_hkrul_surtha_chariots_unit_xp	Recruit rank: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_melee_attack	Melee attack: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_speed	Speed: %+n  for Chariot units	false
+effects_description_hkrul_surtha_chariots_charge	Charge bonus: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_fear	Attribute: Causes Fear for Chariot units	false
+effects_description_hkrul_surtha_chariots_glorious	Attribute: Glorious Charge for Chariot units	false
+effects_description_hkrul_surtha_chariots_upkeep	Upkeep: %+n% for Chariot units	false
+unit_abilities_tooltip_text_hkrul_surtha_ek_speed_up	As Surtha takes the helm that which pulls his chariot devolves in a frenzy of mindless speed and ferociousness.	true
+unit_abilities_onscreen_name_hkrul_surtha_ek_speed_up	Chaotic Charge	true
+effects_description_hkrul_wolf_bite	"Ability: ""Savage Bite''"	false
+unit_abilities_tooltip_text_hkrul_wolf_bite	A horrendous bite by a legendary Werekin is one only the fiercest champions recover from.	true
+unit_abilities_onscreen_name_hkrul_wolf_bite	Savage Bite	true
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	\\nReplenish this unit by achieving victories province with high Khorne corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	\\nReplenish this unit by achieving victories province with high Nurgle corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	\\nReplenish this unit by achieving victories province with high Slaanesh corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	\\nReplenish this unit by achieving victories province with high Tzeentch corruption	false
+mercenary_unit_groups_replenishment_reason_rhox_varg_wh_main_chs_mon_chaos_spawn	\\nReplenish this unit by achieving victories province with high Chaos Undivided corruption	false
+incidents_localised_description_rhox_varg_chaos_spawn_incident	"Mutations take hold of welcoming marauders, warping their body in mind in to mindless Spawn of Chaos."	false
+incidents_localised_title_rhox_varg_chaos_spawn_incident	Chaos Spawns	false
+effects_description_rhox_varg_auto_colonise_dummy	Any ruined region in a province where Varg controls a settlement will eventually be automatically colonized at no cost.	false
+effects_description_rhox_varg_chaos_spawn_dummy	Chance to replenish Chaos Spawn units upon achieving victory in a province with high Chaos corruption.	false
+effects_description_rhox_varg_chaos_spawn_chance	Chance of replenishing Chaos Spawn units after battle: %+n%	false
+effects_description_effect_bundle_varg_spawn	Mutations: The mutative Vargs have a chance to replenish Chaos Spawn units upon achieving victory in a region with high chaos corruption.	false
+effects_description_hkrul_surtha_ek_chariot	Mount: Bloodspiller	false

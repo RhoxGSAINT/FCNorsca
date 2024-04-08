@@ -1,0 +1,8 @@
+key	building	unit	XP	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/!!!scm_norsca_mixu_ll_override						
+27119615	wh2_main_special_empire_fort_emp_5	wh_main_emp_inf_spearmen_0	0	0	wh3_dlc20_chs_chaos_qb4	false
+27119616	wh2_main_special_empire_fort_emp_5	wh2_dlc13_emp_inf_archers_0	0	0	wh3_dlc20_chs_chaos_qb4	false
+27119617	wh2_main_special_empire_fort_emp_5	wh2_dlc13_emp_inf_archers_0	0	0	wh3_dlc20_chs_chaos_qb4	false
+7103364	wh_main_nor_stables_2	wh3_dlc20_chs_cav_chaos_knights_mkho	0	0	wh_main_nor_skaeling	true
+7103365	wh_main_nor_stables_3	wh3_dlc20_chs_cav_chaos_knights_mkho	0	0	wh_main_nor_skaeling	true
+7103366	wh_main_nor_stables_3	wh3_dlc20_chs_cav_chaos_knights_mkho_lances	0	0	wh_main_nor_skaeling	true

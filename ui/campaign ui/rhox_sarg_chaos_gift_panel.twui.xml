@@ -7461,7 +7461,7 @@
 				<component_image
 					this="B2F5CD3A-BB9D-0A7A-0667D9CED92AD434"
 					uniqueguid="B2F5CD3A-BB9D-0A7A-0667D9CED92AD434"
-					imagepath="ui/skins/default/icon_slaves.png"/>
+					imagepath="ui/skins/wh_dlc08_nor_norsca/icon_devotees_26px.png"/>
 			</componentimages>
 			<states>
 				<negative
@@ -7655,7 +7655,7 @@
 				<component_image
 					this="BDA5FA5C-1E6B-7E5E-D318576BFC373420"
 					uniqueguid="BDA5FA5C-1E6B-7E5E-D318576BFC373420"
-					imagepath="ui/skins/default/icon_slaves.png"/>
+					imagepath="ui/skins/wh_dlc08_nor_norsca/icon_devotees_26px.png"/>
 			</componentimages>
 			<states>
 				<negative
@@ -9760,7 +9760,7 @@
 				<component_image
 					this="465403A6-6F05-0E72-E7ED2C068A65C7D5"
 					uniqueguid="465403A6-6F05-0E72-E7ED2C068A65C7D5"
-					imagepath="ui/skins/default/icon_slaves.png"/>
+					imagepath="ui/skins/wh_dlc08_nor_norsca/icon_devotees_26px.png"/>
 			</componentimages>
 			<states>
 				<negative
@@ -11502,7 +11502,7 @@
 				<component_image
 					this="965E2390-A911-4BA1-9E54BE01F5C7385B"
 					uniqueguid="965E2390-A911-4BA1-9E54BE01F5C7385B"
-					imagepath="ui/skins/default/icon_slaves.png"/>
+					imagepath="ui/skins/wh_dlc08_nor_norsca/icon_devotees_26px.png"/>
 			</componentimages>
 			<states>
 				<negative
@@ -11729,7 +11729,7 @@
 				<component_image
 					this="0731C10D-F21C-EE93-4A01883D509D8A42"
 					uniqueguid="0731C10D-F21C-EE93-4A01883D509D8A42"
-					imagepath="ui/skins/default/icon_slaves.png"/>
+					imagepath="ui/skins/wh_dlc08_nor_norsca/icon_devotees_26px.png"/>
 			</componentimages>
 			<states>
 				<negative
@@ -11974,7 +11974,7 @@
 				<component_image
 					this="8E399B3A-3E18-244C-14A92F2984E143C3"
 					uniqueguid="8E399B3A-3E18-244C-14A92F2984E143C3"
-					imagepath="ui/skins/default/icon_slaves.png"/>
+					imagepath="ui/skins/wh_dlc08_nor_norsca/icon_devotees_26px.png"/>
 			</componentimages>
 			<states>
 				<negative
@@ -14487,7 +14487,7 @@
 							value="all_five"/>
 						<property
 							name="khorne_undivided"
-							value="PlayersFaction.FactionRecordContext.Key == &quot;wh3_dlc20_nor_yusak&quot;"/>
+							value="PlayersFaction.FactionRecordContext.Key == &quot;wh3_dlc20_chs_valkia&quot;"/>
 						<property
 							name="nurgle_undivided"
 							value="PlayersFaction.FactionRecordContext.Key == &quot;wh3_dlc20_chs_festus&quot;"/>
@@ -14792,7 +14792,7 @@
 				<callback_with_context
 					callback_id="ContextVisibilitySetter"
 					context_object_id="CcoStaticObject"
-					context_function_id="PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_chs_vilitch&quot; &amp;&amp; PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_nor_yusak&quot; &amp;&amp; PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_chs_festus&quot; &amp;&amp; PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_nor_yusak&quot;"/>
+					context_function_id="PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_chs_vilitch&quot; &amp;&amp; PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_chs_valkia&quot; &amp;&amp; PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_chs_festus&quot; &amp;&amp; PlayersFaction.FactionRecordContext.Key != &quot;wh3_dlc20_nor_yusak&quot;"/>
 				<callback_with_context callback_id="CallbackSoundTrigger"/>
 			</callbackwithcontextlist>
 			<states>
