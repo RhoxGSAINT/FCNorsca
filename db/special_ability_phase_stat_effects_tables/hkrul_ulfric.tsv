@@ -6,9 +6,9 @@ hkrul_ulfric_crown	stat_bonus_vs_infantry	10.0000	add
 hkrul_ulfric_crown	stat_resistance_physical	25.0000	add
 hkrul_ulfric_raiders	scalar_bracing	1.2500	mult
 hkrul_ulfric_wall_formation_buffer	stat_melee_defence	10.0000	add
-hkrul_ulfric_wall_formation_buffer	stat_missile_block_chance	10.0000	add
+hkrul_ulfric_wall_formation_buffer	stat_missile_block_chance	16.0000	add
 hkrul_ulfric_wall_formation_buffer	scalar_charge_speed	0.7000	mult
-hkrul_ulfric_wall_formation	stat_missile_block_chance	15.0000	add
+hkrul_ulfric_wall_formation	stat_missile_block_chance	25.0000	add
 hkrul_ulfric_wall_formation	stat_melee_defence	15.0000	add
 hkrul_ulfric_wall_formation	scalar_charge_speed	0.5000	mult
 rhox_huscarl_shield_wall	stat_missile_block_chance	24.0000	add

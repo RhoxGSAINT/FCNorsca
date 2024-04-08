@@ -1,113 +1,113 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_drenok.loc		
-character_skills_localised_name_innate_hkrul_drenok	Wielder of the Great Axe	true
-character_skills_localised_description_innate_hkrul_drenok	The mighty Chieftain of the Icefang Tribe has deep frozen ice running through his chaos infused veins.	true
-character_skills_localised_description_hkrul_drenok_special_0_1	Mastering the Tundra Tracking skill, Drenok's armies gain heightened visibility in snowy landscapes, allowing for better strategic positioning and ambushing opportunities.	true
-character_skills_localised_name_hkrul_drenok_special_0_1	Monolith of Frost	true
-character_skills_localised_description_hkrul_drenok_special_1_1	As a master recruiter, Drenok's Glacial Recruitment Prowess reduces the recruitment cost and time for Icefang-specific units, ensuring a formidable army loyal to the Icefang tribe.	true
-character_skills_localised_name_hkrul_drenok_special_1_1	Glacial Riders	true
-character_skills_localised_description_hkrul_drenok_special_1_2	Drenok's Frozen Ambitions accelerate the growth and development of the Icefang territories, transforming them into economic powerhouses and bastions of Norscan strength	true
-character_skills_localised_name_hkrul_drenok_special_1_2	Cry of the Axe	true
-character_skills_localised_description_hkrul_drenok_special_1_5	Drenok leaves a lasting legacy as the Greataxemaster, improving the recruitment capacity and effectiveness of Greataxe units within the Icefang tribe, ensuring a formidable and loyal force for generations to come.	true
-character_skills_localised_name_hkrul_drenok_special_1_5	Icefang's Fury	true
-character_skills_localised_description_hkrul_drenok_special_1_0	Drenok's Arctic Resilience enhances the hardiness of his forces, reducing attrition and increasing resistance to cold-related hardships during prolonged campaigns in the frozen North.	true
-character_skills_localised_name_hkrul_drenok_special_1_0	Feats and Trophies	true
-character_skills_localised_description_hkrul_drenok_special_1_3	Drenok unleashes Polar Raider Raids, enabling his armies to conduct swift and devastating raids on coastal settlements, crippling enemy economies and bolstering the Icefang treasury	true
-character_skills_localised_name_hkrul_drenok_special_1_3	Icefang Marauders	true
-character_skills_localised_description_hkrul_drenok_special_0_2	Drenok's Icy Conquest Tactics provide strategic advantages in frozen battlefields, granting his armies enhanced movement and effectiveness in snowy terrains.	true
-character_skills_localised_name_hkrul_drenok_special_0_2	Icefang Tribe	true
-character_skills_localised_description_hkrul_drenok_special_1_4	Drenok Johansen extends his influence over the icy lands of the Icefang tribe, increasing economic productivity and public order in the frozen territories under his dominion.	true
-character_skills_localised_name_hkrul_drenok_special_1_4	Icebane Bite	true
-agent_subtypes_onscreen_name_override_hkrul_drenok	Legendary Lord	false
-agent_subtypes_description_text_override_hkrul_drenok		false
-effects_description_hkrul_drenok_breath	Ability: "Frorbjorn's Breath''	true
-character_trait_levels_onscreen_name_hkrul_defeated_trait_drenok	Ice-Ice Baby	true
-character_trait_levels_colour_text_hkrul_defeated_trait_drenok	Finally a place where that cold grip of yours comes in handy, Drenok..	true
-character_trait_levels_explanation_text_hkrul_defeated_trait_drenok	Defeated Drenok Johansen	true
-ancillaries_colour_text_hkrul_drenok_axe	Forged in the heart of legend, the Great Axe of the Icefang is a colossal double-handed weapon, a relic passed down through the esteemed ancestors of the Icefang tribe. Its mighty blade bears the weight of centuries, a testament to the valor of a revered ancestor who, with unyielding determination, used the axe to slay a great, white dragon that cast its shadow across the annals of history. The weapon, etched with the frost-kissed tales of that legendary battle, now serves as a symbol of the Icefang tribe's enduring strength and the indomitable spirit of their forebears.	true
-ancillaries_onscreen_name_hkrul_drenok_axe	Great Axe of the Icefang	true
-land_units_onscreen_name_hkrul_drenok	Drenok Johansen	true
-names_name_5680700355	Johansen	false
-names_name_5680700356	Drenok	false
-unit_description_short_texts_text_hkrul_drenok	The great sagas of the Norscan tribes tell of a mighty Icefang warrior known as the "Wielder of the Great Axe".	false
-unit_abilities_tooltip_text_hkrul_drenok_breath	The breath of the ice corrupted whitebear named Frorbjorn could freeze the brightest of flames.	true
-unit_abilities_onscreen_name_hkrul_drenok_breath	Frorbjorn's Breath	true
-character_skill_node_sets_enc_title_skill_node_set_hkrul_drenok		false
-land_units_onscreen_name_hkrul_drenok_wolf	Frostfang	true
-unit_description_short_texts_text_hkrul_drenok_wolf	The Giant Ice Wolf known as Frostfang is corrupted by deep chaotic ice, his primal instincts draw him mindlessly to Great Axe of Ice.	false
-unit_abilities_additional_ui_effects_localised_text_hkrul_drenok_summon_wolf	Summons the Giant Ice Wolf known as Frostfang	false
-effects_description_hkrul_drenok_wolf	Ability: "Summon Frostfang"	true
-unit_abilities_tooltip_text_hkrul_drenok_wolf	As Drenok raises the ice infused Greataxe, corrupted creatures with ice coursing through their veins hear the call.	true
-unit_abilities_onscreen_name_hkrul_drenok_wolf	Summon Frostfang	true
-effects_description_hkrul_drenok_blast	Ability: "Icefang's Fury''	true
-unit_abilities_tooltip_text_hkrul_drenok_blast	As Drenok stomps the ground cracks form with solid black ice piercing through the surface, skewing any unwary foe.	true
-unit_abilities_onscreen_name_hkrul_drenok_blast	Icefang's Fury	true
-effects_description_hkrul_drenok_ice_attack	Melee attack: %+n for Ice infused units	false
-effects_description_hkrul_drenok_ice_speed	Speed: %+n% for Ice infused units	false
-unit_abilities_onscreen_name_hkrul_drenok_axe		false
-unit_abilities_tooltip_text_hkrul_drenok_axe		false
-unit_abilities_onscreen_name_hkrul_drenok_wolf_dummy		false
-unit_abilities_tooltip_text_hkrul_drenok_wolf_dummy		false
-effects_description_hkrul_drenok_axe		false
-character_skills_localised_description_hkrul_drenok_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
-character_skills_localised_name_hkrul_drenok_chariot	Marauder Chariot	false
-units_custom_battle_mounts_localised_description_hkrul_drenokhkrul_drenok_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
-units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_chariot	Marauder Chariot	false
-ancillaries_colour_text_hkrul_drenok_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
-ancillaries_onscreen_name_hkrul_drenok_chariot	Marauder Chariot	false
-land_units_onscreen_name_hkrul_drenok_chariot	Drenok Johansen	false
-character_skills_localised_description_hkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
-character_skills_localised_name_hkrul_drenok_bear	Frorbjorn	false
-units_custom_battle_mounts_localised_description_hkrul_drenokhkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
-units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_bear	Frorbjorn	false
-ancillaries_colour_text_hkrul_drenok_bear	Loyal, fierce, powerful and surprisingly fast	false
-ancillaries_onscreen_name_hkrul_drenok_bear	Frorbjorn	false
-effects_description_hkrul_drenok_bear	Mount: Frorbjorn	false
-land_units_onscreen_name_hkrul_drenok_bear	Drenok Johansen	false
-unit_abilities_onscreen_name_hkrul_drenok_frostwyrm	Frozen Fury	false
-unit_abilities_tooltip_text_hkrul_drenok_frostwyrm	Creatures infused with chaotic corrupted black ice unravel in a bloodthirsty frenzy when close to the Greataxe of the Icefang.	false
-effects_description_hkrul_drenok_frostwyrm	Ability: "Frozen Fury" for Chaos Frost Dragon untis	false
-effects_description_hkrul_drenok_xp	Recruit rank: %+n for Chaos Frost Dragon units	false
-effect_bundles_localised_description_hkrul_drenok_faction_trait	Drenok's journey is fraught with peril, for he seeks his father, Johan, once chieftain of the Icefangs, now possessed by a Daemon of Khorne. Their confrontation, a clash of mortal and Daemon, will shape the fate of Norsca and the New World.	false
-effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	false
-effects_description_rhox_drenok_winter_dummy	Ice Storms: Chaos infused hailstorms will be created upon capturing settlements with a Frozen or Chaotic Wasteland climate	false
-effect_bundles_localised_description_rhox_icefang_region_winter_storm	Harsh Winter	false
-effect_bundles_localised_title_rhox_icefang_region_winter_storm	Harsh Winter	false
-effects_description_rhox_drenok_winter_storm	Causes attrition to forces within region	false
-campaign_map_attritions_campaign_map_tooltip_rhox_icefang_winter	Armies will suffer losses due to [[img:icon_attrition]][[/img]]attrition when in newly conquered frozen lands of the Icefang Tribe	false
-campaign_map_attritions_unit_card_tooltip_rhox_icefang_winter	A chaos infused Hailstorm is tormenting this region, the army cannot bear the bitter cold!	false
-campaign_map_attritions_unit_immunity_text_rhox_icefang_winter	Chaos infused Hailstorm	false
-special_ability_phases_onscreen_name_hkrul_contact_icefang	[[col:red]][[img:ui/skins/default/modifier_icon_hkrul_icefang.png]][[/img]]Icefang Greataxe[[/col]]	false
-effects_description_hkrul_contact_icefang	Enables Darkfrost attacks	false
-unit_abilities_onscreen_name_hkrul_drenok_greataxe	Greataxe of the Icefang	false
-unit_abilities_tooltip_text_hkrul_drenok_greataxe	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	false
-effects_description_hkrul_drenok_greataxe	Ability: "Greataxe of the Icefang''	false
-land_units_onscreen_name_dead_drenok_ice_golem	Lesser Ice Golems	false
-land_units_onscreen_name_dead_drenok_ice_bears	Corrupted Feral Ice Bears	false
-land_units_onscreen_name_dead_drenok_greater_ice_golem	Greater Ice Golem	false
-effects_description_rhox_akkorak_horse_resource	Chaos Steeds bred: %n	false
-effect_bundles_localised_description_rhox_akkorak_purchasable_speed	Some Chaos Steeds are bred with a constant state of frenzy, causing them to reach unnatural speeds.	false
-effect_bundles_localised_title_rhox_akkorak_purchasable_speed	Frenzied Steeds	false
-effect_bundles_localised_description_rhox_akkorak_purchasable_missile_resistance	Some Chaos Steeds are bred with the unnatural scales of the plaguefather, making them more resistant.	false
-effect_bundles_localised_title_rhox_akkorak_purchasable_missile_resistance	Mutated Steeds	false
-effect_bundles_localised_description_rhox_akkorak_purchasable_melee_attack	Some Chaos Steeds are bred with unnatural appetites for flesh and blood.	false
-effect_bundles_localised_title_rhox_akkorak_purchasable_melee_attack	Bloodthirsty Steeds	false
-effects_description_rhox_drenok_ice_chance	Chance corrupted Ice Forms into units: %+n%	false
-effects_description_rhox_drenok_ice_feature_dummy	Chance corrupted ice forms into powerful Ice Spirits when winning battles in Frozen wastes	false
-incidents_localised_description_rhox_drenok_ice_unit_incident	As chaos stirs the Ice around the Greataxe molds and forms in to spirits of frost and fury.	false
-incidents_localised_title_rhox_drenok_ice_unit_incident	The ice molds	false
-mercenary_unit_groups_replenishment_reason_dead_drenok_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
-mercenary_unit_groups_replenishment_reason_dead_drenok_ice_bears	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
-mercenary_unit_groups_replenishment_reason_dead_drenok_greater_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	false
-unit_description_short_texts_text_dead_drenok_greater_ice_golem	A towering mass of Chaos corrupted Ice formed into the very essence of frost and fury, hailing from the great glaciers of the North.	false
-unit_description_short_texts_text_dead_drenok_ice_golem	Pillars of ice infused with the essence of Chaos form and flock around the wielder of the Great Axe.	false
-unit_abilities_onscreen_name_hkrul_ice_golem_stance	Glacial Myth	false
-unit_abilities_tooltip_text_hkrul_ice_golem_stance	Greater Ice Golems are often mistaken for towering glaciers shrouded in myst and hail, they're unrelenting wrath unleashed upon daring wanderers only when least expected.	false
-unit_abilities_onscreen_name_hkrul_ice_golem_walk	Pillars of Frost	false
-unit_abilities_tooltip_text_hkrul_ice_golem_walk	When lesser Ice Golems stand still they freeze up, once more returning in their rock solid state.	false
-unit_abilities_onscreen_name_hkrul_wolf_walk	Hunters of Fjirgard	false
-unit_abilities_tooltip_text_hkrul_wolf_walk	The women of Fjirgard pay tribute to the Werekin that inhabit the caves, as they rely on them to hunt precious food - be it men or beast.	false
-unit_description_historical_texts_text_dead_drenok_ice_golem		false
-unit_description_historical_texts_text_dead_drenok_greater_ice_golem		false
-effects_description_rhox_drenok_ice_unit_upkeep	Upkeep: %+n% for Ice infused units	false
-effects_description_rhox_drenok_ice_unit_strength	Weapon strength: %+n% for Ice infused units	false
+character_skills_localised_name_innate_hkrul_drenok	Wielder of the Great Axe	TRUE
+character_skills_localised_description_innate_hkrul_drenok	The mighty Chieftain of the Icefang Tribe has deep frozen ice running through his chaos infused veins.	TRUE
+character_skills_localised_description_hkrul_drenok_special_0_1	"Mastering the Tundra Tracking skill, Drenok's armies gain heightened visibility in snowy landscapes, allowing for better strategic positioning and ambushing opportunities."	TRUE
+character_skills_localised_name_hkrul_drenok_special_0_1	Monolith of Frost	TRUE
+character_skills_localised_description_hkrul_drenok_special_1_1	"As a master recruiter, Drenok's Glacial Recruitment Prowess reduces the recruitment cost and time for Icefang-specific units, ensuring a formidable army loyal to the Icefang tribe."	TRUE
+character_skills_localised_name_hkrul_drenok_special_1_1	Glacial Riders	TRUE
+character_skills_localised_description_hkrul_drenok_special_1_2	"Drenok's Frozen Ambitions accelerate the growth and development of the Icefang territories, transforming them into economic powerhouses and bastions of Norscan strength"	TRUE
+character_skills_localised_name_hkrul_drenok_special_1_2	Cry of the Axe	TRUE
+character_skills_localised_description_hkrul_drenok_special_1_5	"Drenok leaves a lasting legacy as the Greataxemaster, improving the recruitment capacity and effectiveness of Greataxe units within the Icefang tribe, ensuring a formidable and loyal force for generations to come."	TRUE
+character_skills_localised_name_hkrul_drenok_special_1_5	Icefang's Fury	TRUE
+character_skills_localised_description_hkrul_drenok_special_1_0	"Drenok's Arctic Resilience enhances the hardiness of his forces, reducing attrition and increasing resistance to cold-related hardships during prolonged campaigns in the frozen North."	TRUE
+character_skills_localised_name_hkrul_drenok_special_1_0	Feats and Trophies	TRUE
+character_skills_localised_description_hkrul_drenok_special_1_3	"Drenok unleashes Polar Raider Raids, enabling his armies to conduct swift and devastating raids on coastal settlements, crippling enemy economies and bolstering the Icefang treasury"	TRUE
+character_skills_localised_name_hkrul_drenok_special_1_3	Icefang Marauders	TRUE
+character_skills_localised_description_hkrul_drenok_special_0_2	"Drenok's Icy Conquest Tactics provide strategic advantages in frozen battlefields, granting his armies enhanced movement and effectiveness in snowy terrains."	TRUE
+character_skills_localised_name_hkrul_drenok_special_0_2	Icefang Tribe	TRUE
+character_skills_localised_description_hkrul_drenok_special_1_4	"Drenok Johansen extends his influence over the icy lands of the Icefang tribe, increasing economic productivity and public order in the frozen territories under his dominion."	TRUE
+character_skills_localised_name_hkrul_drenok_special_1_4	Icebane Bite	TRUE
+agent_subtypes_onscreen_name_override_hkrul_drenok	Legendary Lord	FALSE
+agent_subtypes_description_text_override_hkrul_drenok		FALSE
+effects_description_hkrul_drenok_breath	"Ability: ""Frorbjorn's Breath''"	TRUE
+character_trait_levels_onscreen_name_hkrul_defeated_trait_drenok	Ice-Ice Baby	TRUE
+character_trait_levels_colour_text_hkrul_defeated_trait_drenok	"Finally a place where that cold grip of yours comes in handy, Drenok.."	TRUE
+character_trait_levels_explanation_text_hkrul_defeated_trait_drenok	Defeated Drenok Johansen	TRUE
+ancillaries_colour_text_hkrul_drenok_axe	"Forged in the heart of legend, the Great Axe of the Icefang is a colossal double-handed weapon, a relic passed down through the esteemed ancestors of the Icefang tribe. Its mighty blade bears the weight of centuries, a testament to the valor of a revered ancestor who, with unyielding determination, used the axe to slay a great, white dragon that cast its shadow across the annals of history. The weapon, etched with the frost-kissed tales of that legendary battle, now serves as a symbol of the Icefang tribe's enduring strength and the indomitable spirit of their forebears."	TRUE
+ancillaries_onscreen_name_hkrul_drenok_axe	Great Axe of the Icefang	TRUE
+land_units_onscreen_name_hkrul_drenok	Drenok Johansen	TRUE
+names_name_5680700355	Johansen	FALSE
+names_name_5680700356	Drenok	FALSE
+unit_description_short_texts_text_hkrul_drenok	"The great sagas of the Norscan tribes tell of a mighty Icefang warrior known as the ""Wielder of the Great Axe""."	FALSE
+unit_abilities_tooltip_text_hkrul_drenok_breath	The breath of the ice corrupted whitebear named Frorbjorn could freeze the brightest of flames.	TRUE
+unit_abilities_onscreen_name_hkrul_drenok_breath	Frorbjorn's Breath	TRUE
+character_skill_node_sets_enc_title_skill_node_set_hkrul_drenok		FALSE
+land_units_onscreen_name_hkrul_drenok_wolf	Frostfang	TRUE
+unit_description_short_texts_text_hkrul_drenok_wolf	"The Giant Ice Wolf known as Frostfang is corrupted by deep chaotic ice, his primal instincts draw him mindlessly to Great Axe of Ice."	FALSE
+unit_abilities_additional_ui_effects_localised_text_hkrul_drenok_summon_wolf	Summons the Giant Ice Wolf known as Frostfang	FALSE
+effects_description_hkrul_drenok_wolf	"Ability: ""Summon Frostfang"""	TRUE
+unit_abilities_tooltip_text_hkrul_drenok_wolf	"As Drenok raises the ice infused Greataxe, corrupted creatures with ice coursing through their veins hear the call."	TRUE
+unit_abilities_onscreen_name_hkrul_drenok_wolf	Summon Frostfang	TRUE
+effects_description_hkrul_drenok_blast	"Ability: ""Icefang's Fury''"	TRUE
+unit_abilities_tooltip_text_hkrul_drenok_blast	"As Drenok stomps the ground cracks form with solid black ice piercing through the surface, skewing any unwary foe."	TRUE
+unit_abilities_onscreen_name_hkrul_drenok_blast	Icefang's Fury	TRUE
+effects_description_hkrul_drenok_ice_attack	Melee attack: %+n for Ice infused units	FALSE
+effects_description_hkrul_drenok_ice_speed	Speed: %+n% for Ice infused units	FALSE
+unit_abilities_onscreen_name_hkrul_drenok_axe		FALSE
+unit_abilities_tooltip_text_hkrul_drenok_axe		FALSE
+unit_abilities_onscreen_name_hkrul_drenok_wolf_dummy		FALSE
+unit_abilities_tooltip_text_hkrul_drenok_wolf_dummy		FALSE
+effects_description_hkrul_drenok_axe		FALSE
+character_skills_localised_description_hkrul_drenok_chariot	"Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished."	FALSE
+character_skills_localised_name_hkrul_drenok_chariot	Marauder Chariot	FALSE
+units_custom_battle_mounts_localised_description_hkrul_drenokhkrul_drenok_chariot	"Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished."	FALSE
+units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_chariot	Marauder Chariot	FALSE
+ancillaries_colour_text_hkrul_drenok_chariot	"Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished."	FALSE
+ancillaries_onscreen_name_hkrul_drenok_chariot	Marauder Chariot	FALSE
+land_units_onscreen_name_hkrul_drenok_chariot	Drenok Johansen	FALSE
+character_skills_localised_description_hkrul_drenok_bear	"Frorbjorn has been corrupted by black shards of ice that fell from the Icefang Monolith, his breath could freeze even the strongest in his wake."	FALSE
+character_skills_localised_name_hkrul_drenok_bear	Frorbjorn	FALSE
+units_custom_battle_mounts_localised_description_hkrul_drenokhkrul_drenok_bear	"Frorbjorn has been corrupted by black shards of ice that fell from the Icefang Monolith, his breath could freeze even the strongest in his wake."	FALSE
+units_custom_battle_mounts_mount_name_hkrul_drenokhkrul_drenok_bear	Frorbjorn	FALSE
+ancillaries_colour_text_hkrul_drenok_bear	"Frorbjorn has been corrupted by black shards of ice that fell from the Icefang Monolith, his breath could freeze even the strongest in his wake."	FALSE
+ancillaries_onscreen_name_hkrul_drenok_bear	Frorbjorn	FALSE
+land_units_onscreen_name_hkrul_drenok_bear	Drenok Johansen	FALSE
+unit_abilities_onscreen_name_hkrul_drenok_frostwyrm	Frozen Fury	FALSE
+unit_abilities_tooltip_text_hkrul_drenok_frostwyrm	Creatures infused with chaotic corrupted black ice unravel in a bloodthirsty frenzy when close to the Greataxe of the Icefang.	FALSE
+effects_description_hkrul_drenok_frostwyrm	"Ability: ""Frozen Fury"" for Chaos Frost Dragon untis"	FALSE
+effects_description_hkrul_drenok_xp	Recruit rank: %+n for Chaos Frost Dragon units	FALSE
+effect_bundles_localised_description_hkrul_drenok_faction_trait	"Drenok's journey is fraught with peril, for he seeks his father, Johan, once chieftain of the Icefangs, now possessed by a Daemon of Khorne. Their confrontation, a clash of mortal and Daemon, will shape the fate of Norsca and the New World."	FALSE
+effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	FALSE
+effects_description_rhox_drenok_winter_dummy	Ice Storms: Chaos infused hailstorms will be created upon capturing settlements with a Frozen or Chaotic Wasteland climate	FALSE
+effect_bundles_localised_description_rhox_icefang_region_winter_storm	Harsh Winter	FALSE
+effect_bundles_localised_title_rhox_icefang_region_winter_storm	Harsh Winter	FALSE
+effects_description_rhox_drenok_winter_storm	Causes attrition to forces within region	FALSE
+campaign_map_attritions_campaign_map_tooltip_rhox_icefang_winter	Armies will suffer losses due to [[img:icon_attrition]][[/img]]attrition when in newly conquered frozen lands of the Icefang Tribe	FALSE
+campaign_map_attritions_unit_card_tooltip_rhox_icefang_winter	"A chaos infused Hailstorm is tormenting this region, the army cannot bear the bitter cold!"	FALSE
+campaign_map_attritions_unit_immunity_text_rhox_icefang_winter	Chaos infused Hailstorm	FALSE
+special_ability_phases_onscreen_name_hkrul_contact_icefang	[[col:red]][[img:ui/skins/default/modifier_icon_hkrul_icefang.png]][[/img]]Icefang Greataxe[[/col]]	FALSE
+effects_description_hkrul_contact_icefang	Enables Darkfrost attacks	FALSE
+unit_abilities_onscreen_name_hkrul_drenok_greataxe	Greataxe of the Icefang	FALSE
+unit_abilities_tooltip_text_hkrul_drenok_greataxe	The essence of the great white Dragon still lingers on the frozen solid blade of the Great Axe.	FALSE
+effects_description_hkrul_drenok_greataxe	"Ability: ""Greataxe of the Icefang''"	FALSE
+land_units_onscreen_name_dead_drenok_ice_golem	Lesser Ice Golems	FALSE
+land_units_onscreen_name_dead_drenok_ice_bears	Corrupted Feral Ice Bears	FALSE
+land_units_onscreen_name_dead_drenok_greater_ice_golem	Greater Ice Golem	FALSE
+effects_description_rhox_akkorak_horse_resource	Chaos Steeds bred: %n	FALSE
+effect_bundles_localised_description_rhox_akkorak_purchasable_speed	"Some Chaos Steeds are bred with a constant state of frenzy, causing them to reach unnatural speeds."	FALSE
+effect_bundles_localised_title_rhox_akkorak_purchasable_speed	Frenzied Steeds	FALSE
+effect_bundles_localised_description_rhox_akkorak_purchasable_missile_resistance	"Some Chaos Steeds are bred with the unnatural scales of the plaguefather, making them more resistant."	FALSE
+effect_bundles_localised_title_rhox_akkorak_purchasable_missile_resistance	Mutated Steeds	FALSE
+effect_bundles_localised_description_rhox_akkorak_purchasable_melee_attack	Some Chaos Steeds are bred with unnatural appetites for flesh and blood.	FALSE
+effect_bundles_localised_title_rhox_akkorak_purchasable_melee_attack	Bloodthirsty Steeds	FALSE
+effects_description_rhox_drenok_ice_chance	Chance corrupted Ice Forms into units: %+n%	FALSE
+effects_description_rhox_drenok_ice_feature_dummy	Chance corrupted ice forms into powerful Ice Spirits when winning battles in Frozen wastes	FALSE
+incidents_localised_description_rhox_drenok_ice_unit_incident	As chaos stirs the Ice around the Greataxe molds and forms in to spirits of frost and fury.	FALSE
+incidents_localised_title_rhox_drenok_ice_unit_incident	The ice molds	FALSE
+mercenary_unit_groups_replenishment_reason_dead_drenok_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	FALSE
+mercenary_unit_groups_replenishment_reason_dead_drenok_ice_bears	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	FALSE
+mercenary_unit_groups_replenishment_reason_dead_drenok_greater_ice_golem	\\nUnit has a chance to replenish after achieving victories in Frozen or Chaos Wastes climate regions.	FALSE
+unit_description_short_texts_text_dead_drenok_greater_ice_golem	"A towering mass of Chaos corrupted Ice formed into the very essence of frost and fury, hailing from the great glaciers of the North."	FALSE
+unit_description_short_texts_text_dead_drenok_ice_golem	Pillars of ice infused with the essence of Chaos form and flock around the wielder of the Great Axe.	FALSE
+unit_abilities_onscreen_name_hkrul_ice_golem_stance	Glacial Myth	FALSE
+unit_abilities_tooltip_text_hkrul_ice_golem_stance	"Greater Ice Golems are often mistaken for towering glaciers shrouded in myst and hail, they're unrelenting wrath unleashed upon daring wanderers only when least expected."	FALSE
+unit_abilities_onscreen_name_hkrul_ice_golem_walk	Pillars of Frost	FALSE
+unit_abilities_tooltip_text_hkrul_ice_golem_walk	"When lesser Ice Golems stand still they freeze up, once more returning in their rock solid state."	FALSE
+unit_abilities_onscreen_name_hkrul_wolf_walk	Hunters of Fjirgard	FALSE
+unit_abilities_tooltip_text_hkrul_wolf_walk	"The women of Fjirgard pay tribute to the Werekin that inhabit the caves, as they rely on them to hunt precious food - be it men or beast."	FALSE
+unit_description_historical_texts_text_dead_drenok_ice_golem		FALSE
+unit_description_historical_texts_text_dead_drenok_greater_ice_golem		FALSE
+effects_description_rhox_drenok_ice_unit_upkeep	Upkeep: %+n% for Ice infused units	FALSE
+effects_description_rhox_drenok_ice_unit_strength	Weapon strength: %+n% for Ice infused units	FALSE
+effects_description_hkrul_drenok_bear	Mount: Frorbjorn	FALSE
