@@ -18,6 +18,21 @@ core:add_listener(
     true
 );
 
+core:add_listener(
+    "rhox_swyrd_inform",
+    "FactionTurnStart",
+    function(context)
+        local faction = context:faction()
+        return faction:culture() == "wh_dlc08_nor_norsca" and faction:is_human() and cm:model():turn_number() == 10
+    end,
+    function(context)
+        local faction = context:faction()
+        local incident_builder = cm:create_incident_builder("rhox_fc_norsca_swyrd_available")
+        cm:launch_custom_incident_from_builder(incident_builder, faction)
+    end,
+    true
+);
+
 
 local function norsca_leader_lost_battle(character)
     local pb = cm:model():pending_battle()
