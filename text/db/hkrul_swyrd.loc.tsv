@@ -5,24 +5,24 @@ names_name_800727191	The	false
 names_name_800727192	Ravenswyrd	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_swyrd	Ravenswyrd	false
 character_skills_localised_description_innate_hkrul_swyrd	Ravenswyrd	false
-character_skills_localised_name_innate_hkrul_swyrd	Legendary berserker	false
-agent_subtypes_description_text_override_hkrul_swyrd	Legendary berserker	false
-agent_subtypes_onscreen_name_override_hkrul_swyrd	Legendary berserker	false
+character_skills_localised_name_innate_hkrul_swyrd	Legendary Berserker	false
+agent_subtypes_description_text_override_hkrul_swyrd	Legendary Berserker	false
+agent_subtypes_onscreen_name_override_hkrul_swyrd	Legendary Berserker	false
 land_units_onscreen_name_hkrul_swyrd	The Ravenswyrd	false
-unit_description_historical_texts_text_hkrul_swyrd	A famed and mysterious berserker who shows during the Norse's darkest hour.	false
+unit_description_historical_texts_text_hkrul_swyrd	A famed and mysterious berserker who appears during the Norse's darkest hour.	false
 unit_description_historical_texts_text_calm_fc_norsca_raven	The Raven	false
-unit_description_short_texts_text_calm_fc_norsca_raven	The legendary Raven as the avatar of long lost Nordic gods protect those of Northern blood.	false
+unit_description_short_texts_text_calm_fc_norsca_raven	The legendary Raven as the avatar of long lost Nordic Gods protect those of pure Northern blood.	false
 land_units_onscreen_name_calm_fc_norsca_raven	The Raven	false
 ui_unit_bullet_point_enums_onscreen_name_rhox_fc_norsca_undying_character	The Raven	false
 ui_unit_bullet_point_enums_tooltip_rhox_fc_norsca_undying_character	As long as this unit retains its presence, characters within this unit's ability radius will not die.	false
 ui_unit_bullet_point_enums_onscreen_name_rhox_fc_norsca_dying	The Raven	false
 ui_unit_bullet_point_enums_tooltip_rhox_fc_norsca_dying	Characters within this unit's radius will take damage when this unit dies	false
 unit_abilities_onscreen_name_rhox_fc_norsca_summon_raven	The Raven	false
-unit_abilities_tooltip_text_rhox_fc_norsca_summon_raven	As the battle starts, Raven will join the Ravenswyrd. As long as Raven is alive and is around the Ravenswyrd without flying, Ravenswyrd won't die	false
+unit_abilities_tooltip_text_rhox_fc_norsca_summon_raven	As the battle starts, The Raven will join the Ravenswyrd. As long as Raven is alive and is present, Ravenswyrd won't die.	false
 unit_abilities_onscreen_name_rhox_fc_norsca_raven	The Raven	false
 unit_abilities_tooltip_text_rhox_fc_norsca_raven	As long as this unit retains its presence, characters within this unit's ability radius will not die.	false
 special_ability_phases_onscreen_name_rhox_fc_norsca_raven	The Raven	false
-effects_description_rhox_swyrd_leave_on_death_dummy	This character will leave faction and wander again if he gets wounded in battle	false
+effects_description_rhox_swyrd_leave_on_death_dummy	An affront to the Gods, the Ravenswyrd vanishes battered and injured. To appear again in the far future.	false
 incidents_localised_description_rhox_fc_norsca_swyrd_incident	In the dire aftermath of the battlefield, when defeat's bitter taste lingers, a haunting caw pierces the desolation. As shadows dance with the fading light, the Ravenswyrd emerges from the ethereal mists, his silhouette a beacon of hope. A lone raven circles overhead, its ebony wings a shield against impending doom. With an otherworldly presence, the Ravenswyrd stands amidst the fallen, a living legend summoned by the gods to turn the tide of destiny. As he raises his weapon, a surge of primal energy courses through the beleaguered warriors, and a whisper on the wind foretells that even in the darkest hour, the Ravenswyrd shall stand guardian until the End of all things.	false
 incidents_localised_title_rhox_fc_norsca_swyrd_incident	The Ravenswyrd emerges	false
 incidents_localised_description_rhox_fc_norsca_swyrd_leaves	After the battle, the Ravenswyrd leaves your faction by turning into mist. Maybe one day, he will return if your faction falls into a dire situation again.	false

@@ -59,7 +59,7 @@ effects_description_rhox_birna_hunting_bonus	The Mutant Huntress: Chance to retr
 effects_description_rhox_birna_wood_bonus_dummy	Timber resource buildings provide additional global bonuses	false
 campaign_localised_strings_string_hkrul_sarl_hunters_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Sarl faction or have Birna in your faction[[/col]]	false
 unit_abilities_tooltip_text_hkrul_sarl_hunters	The stalkers of the Kalti Delta hunt alone, moving aross the vast salt marshes soundless as fearless prolific autonomous hunters.	true
-unit_abilities_onscreen_name_hkrul_sarl_hunters	Phantoms of the Marshes	true
+unit_abilities_onscreen_name_hkrul_sarl_hunters	Phantom of the Marshes	true
 unit_description_short_texts_text_hkrul_sarl_hunters_ror	Few hunt River Trolls in their natural habitat, yet the Stalkers of the Kalti Delta venture deep into the marshes to hunt these dangerous creatures.	false
 unit_description_short_texts_text_hkrul_sarl_hunters	Sarl produce the most prolific hunters, who know how easily the role of hunter and prey can change whilst navigating treacherous terrain.	false
 effects_description_hkrul_birna_hunters_snipe	Attribute: Snipe for Sarl Hunter units	false
