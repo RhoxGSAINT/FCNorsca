@@ -161,3 +161,7 @@ mark_tzeentch	r1kko_adella_tze_coatl
 flying	r1kko_adella_tze_coatl
 hide_forest	hkrul_sarl_hunters_ror
 stalk	hkrul_sarl_hunters_ror
+immune_to_psychology	hkrul_bastiladon_slaanesh
+immune_to_psychology	r1kko_adella_sla_troglodon
+strider	hkrul_bastiladon_slaanesh
+strider	r1kko_adella_sla_troglodon
