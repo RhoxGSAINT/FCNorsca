@@ -31,6 +31,6 @@ unit_abilities_tooltip_text_hkrul_swyrd_axe	Blessed by the Ancient God entwined 
 unit_abilities_onscreen_name_hkrul_swyrd_axe	Tor's Thunderstorm	false
 unit_abilities_onscreen_name_hkrul_swyrd_helm	Ancient's Blessing	false
 unit_abilities_tooltip_text_hkrul_swyrd_helm	The Ravenswyrd is blessed by Gods long lost to time, they're essence still lingering on as he wades through frontlines.	false
-incidents_button_text_rhox_fc_norsca_swyrd_available	Gotcha	false
-incidents_localised_description_rhox_fc_norsca_swyrd_available	[WIP] The Ravenswyrd can now appear if your faction leader gets wounded in battle	false
-incidents_localised_title_rhox_fc_norsca_swyrd_available	The Ravenswyrd available	false
+incidents_button_text_rhox_fc_norsca_swyrd_available	Praise be the Gods	false
+incidents_localised_description_rhox_fc_norsca_swyrd_available	The Ravenswyrd, a spectral harbinger of strife and salvation, is said to roam these frigid lands in moments of dire need. Legends tell of his silent fury, his berserker might unleashed upon our foes.\\n\\nAs our chieftain faces the brink of defeat, know this: the Ravenswyrd's omen looms. Should our leader falter in battle, watch for the signs of his arrival. For in our darkest hour, the Ravenswyrd may yet answer the call, wielding his legendary strength to turn the tide of war.\\n\\nStay vigilant, for his coming is both a blessing and a warning—a reminder that even in the bleakest moments, hope still flickers in the heart of the North.	false
+incidents_localised_title_rhox_fc_norsca_swyrd_available	The Ravenswyrd	false
