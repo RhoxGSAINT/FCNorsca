@@ -159,11 +159,11 @@ effects_description_hkrul_sayl_warp	Ability: "The Vile's Skull"	false
 unit_abilities_tooltip_text_hkrul_sayl_warp	The skull of Schalkain the Vile still oozes with the dark magic used in the daemonic ritual Sayl enacted on him, warping pure magic from his empty eye sockets.	true
 unit_abilities_onscreen_name_hkrul_sayl_warp	The Vile's Skull	true
 special_ability_phases_onscreen_name_hkrul_sayl_skull_contact	[[col:green]][[img:ui/skins/default/modifier_icon_hkrul_sayl.png]][[/img]]The Vile's Skull[[/col]]	false
-effect_bundles_localised_description_rhox_sayl_chaos_spawn_gift	This character has fallen into Sayl's Trick and is suffering from negative bonuses. Itt'll be removed if he defeats the Dolgan faction, but he will be fallen into demise and turn into Chaos Spawn if he gets defeated by Dolgan faction again	false
+effect_bundles_localised_description_rhox_sayl_chaos_spawn_gift	This character has fallen for Sayl's trickery. He will suffer from negative effects untill achieving a victory against the Dolgan faction. His next defeat against the Dolgan faction will cause this Lord to warp into a Chaos Spawn.	false
 effect_bundles_localised_title_rhox_sayl_chaos_spawn_gift	Tricked by Sayl	false
 incidents_button_text_rhox_sayl_chaos_spawn_incident		false
-incidents_localised_description_rhox_sayl_chaos_spawn_incident	Fallen into Sayl's wit, this character and his subordinate has turned into bunch of Chaos Spawn. Now under control of your faithfuil marauder Chieftain	false
+incidents_localised_description_rhox_sayl_chaos_spawn_incident	Fallen's for Sayl's deceitful bartery, this character and it's retinue has warped into Chaos Spawn and now mindlessly serve the Dolgan and their Chieftains. 	false
 incidents_localised_title_rhox_sayl_chaos_spawn_incident	Sayl's Trickery	false
 effects_description_rhox_sayl_effect_removal_dummy	[[col:yellow]]This effect will be removed if this [[img:icon_general]][[/img]]Lord defeats an army of Sayl or if his faction is destroyed[[/col]]	false
-effects_description_rhox_sayl_chaos_sapwn_dummy	If this lord gets defeated by Sayl again, this [[img:icon_general]][[/img]]Lord will die and become a Chaos Spawn under Sayl's control	false
-effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Non-unique lord defeated by Sayl will get several disadvantages. If they're to be defeated again, they'll die and become a Chaos Spawn	false
+effects_description_rhox_sayl_chaos_sapwn_dummy	Following this [[img:icon_general]][[/img]]Lord's next defeat against the Dolgan faction, they will morph into a Chaos Spawn and die permanently. 	false
+effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Deciever: Generic Lords defeated by Sayl the Faithless may be decieved. Following a second defeat against Sayl they will morph into Chaos Spawn and die permanently. 	false
