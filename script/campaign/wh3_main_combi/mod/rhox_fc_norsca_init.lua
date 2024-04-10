@@ -241,7 +241,7 @@ local rhox_faction_list={
             if faction:is_human() then
                 rhox_transfer_region("wh3_main_combi_region_floating_mountain","wh3_main_nur_maggoth_kin")
                 rhox_transfer_region("wh3_dlc20_combi_region_dragons_death","wh3_dlc20_chs_kholek")
-                cm:force_declare_war("wh3_main_nur_maggoth_kin", "wh3_main_combi_region_floating_mountain", false, false)
+                cm:force_declare_war("wh3_main_nur_maggoth_kin", "wh3_dlc20_chs_kholek", false, false)
             end
             
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_lokjar", faction:faction_leader():command_queue_index(), true)

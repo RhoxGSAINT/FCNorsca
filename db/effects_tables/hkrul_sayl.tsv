@@ -33,3 +33,6 @@ hkrul_sayl_shaman_mastery	attribute_mastery_of_elemental_winds.png	55	attribute_
 hkrul_sayl_mastery	attribute_mastery_of_elemental_winds.png	55	attribute_mastery_of_elemental_winds.png	battle	true
 hkrul_sayl_nightmaw_melee	melee.png	255	melee.png	battle	true
 hkrul_sayl_mammoth_charge	charge.png	300	charge.png	battle	true
+rhox_sayl_effect_removal_dummy	army.png	2	army.png	campaign	true
+rhox_sayl_chaos_sapwn_dummy	belakor_daemon_prince.png	1	belakor_daemon_prince.png	campaign	true
+rhox_sayl_chaos_sapwn_feature_dummy	belakor_daemon_prince.png	1	belakor_daemon_prince.png	campaign	true

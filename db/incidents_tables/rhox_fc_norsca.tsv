@@ -29,3 +29,4 @@ rhox_varg_hrothgar_joins	false	messenger	false	Event		false		0.0000
 rhox_drenok_ice_unit_incident	false	messenger	false	Event		false		0.0000
 rhox_varg_chaos_spawn_incident	false	faction	false	Event		false		0.0000
 rhox_fc_norsca_swyrd_available	false	messenger	false	Event		true		0.0000
+rhox_sayl_chaos_spawn_incident	false	faction	false	Event		false		0.0000
