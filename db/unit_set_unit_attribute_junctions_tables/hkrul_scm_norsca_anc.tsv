@@ -1,3 +1,4 @@
 key	unit_attribute	unit_set
 #unit_set_unit_attribute_junctions_tables;0;db/unit_set_unit_attribute_junctions_tables/hkrul_scm_norsca_anc		
 hkrul_norsca_wallbreaker_marauders_set	wallbreaker	norscan_marauders
+hkrul_sayl_shaman_mastery	spell_mastery	hkrul_sayl_shaman
