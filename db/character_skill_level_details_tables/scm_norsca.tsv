@@ -84,7 +84,7 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	scm_norsca_huern_regeneration		x	11
 		1	packlord_main_skill_boons_of_the_gods_1		x	19
 		1	wolftribe_skill_unique_blood_berserker		x	12
-		1	wolftribe_skill_self_tribal_giant		x	9
+		1	wolftribe_skill_self_tribal_giant		x	10
 		1	wolftribe_skill_self_healers_touch		x	11
 		1	wolftribe_skill_unique_vengeful_daughter		x	7
 		1	wolftribe_skill_unique_resourceful_huntress		x	7
