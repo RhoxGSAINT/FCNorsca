@@ -47,7 +47,7 @@ hkrul_skill_node_einar_misc_07	hkrul_skill_node_einar_misc_02	0	0	0	0.0000	0.000
 hkrul_skill_node_einar_misc_06	hkrul_skill_node_einar_misc_03	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
 hkrul_skill_node_einar_self_03	hkrul_skill_node_einar_self_01	0	0	0	0.0000	0.0000	REQUIRED
 hkrul_skill_node_einar_self_03	hkrul_skill_node_einar_self_02	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_einar_self_04	hkrul_skill_node_einar_self_03	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_einar_self_05	hkrul_skill_node_einar_self_03	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_einar_self_04	hkrul_skill_node_einar_self_03	0	0	0	0.0000	0.0000	REQUIRED
+hkrul_skill_node_einar_self_05	hkrul_skill_node_einar_self_03	0	0	0	0.0000	0.0000	REQUIRED
 hkrul_skill_node_einar_self_06	hkrul_skill_node_einar_self_04	0	0	0	0.0000	0.0000	REQUIRED
 hkrul_skill_node_einar_self_06	hkrul_skill_node_einar_self_05	0	0	0	0.0000	0.0000	REQUIRED

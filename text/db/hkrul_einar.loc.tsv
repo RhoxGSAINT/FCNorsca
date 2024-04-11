@@ -40,12 +40,12 @@ ancillaries_onscreen_name_hkrul_lokjar_amulet	Snow Troll Amulet	true
 ancillaries_colour_text_hkrul_lokjar_gorger	"The magical weapon was crafted out of the skull of a White Dragon, who was known for preferring killing his victims with one mighty bite of his enormous jaws."	false
 ancillaries_onscreen_name_hkrul_lokjar_gorger	Skull Gorger	false
 land_units_onscreen_name_hkrul_einar_bear	Einarr Sigdansson	false
-ancillaries_colour_text_hkrul_einar_bear	"Gifted by the Lord of Change, BregÃ°a's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
-ancillaries_onscreen_name_hkrul_einar_bear	BregÃ°a	false
-units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	"Gifted by the Lord of Change, BregÃ°a's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
-units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	BregÃ°a	false
-character_skills_localised_description_hkrul_einar_bear	"Gifted by the Lord of Change, BregÃ°a's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
-character_skills_localised_name_hkrul_einar_bear	BregÃ°a	false
+ancillaries_colour_text_hkrul_einar_bear	"Gifted by the Lord of Change, Bregða's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
+ancillaries_onscreen_name_hkrul_einar_bear	Bregða	false
+units_custom_battle_mounts_localised_description_hkrul_einarhkrul_einar_bear	"Gifted by the Lord of Change, Bregða's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
+units_custom_battle_mounts_mount_name_hkrul_einarhkrul_einar_bear	Bregða	false
+character_skills_localised_description_hkrul_einar_bear	"Gifted by the Lord of Change, Bregða's stare seems to freeze even the fiercest of foes. As if he gains deep insight into the fate of those who oppose him."	false
+character_skills_localised_name_hkrul_einar_bear	Bregða	false
 effects_description_hkrul_einar_steelfist	"Ability: ""Steelfist's Wrath"""	true
 unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slaid Ogres with nothing but his iron clad protected hands.	true
 unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true
