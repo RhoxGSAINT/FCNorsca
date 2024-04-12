@@ -74,6 +74,26 @@ cm:add_first_tick_callback(
                 true
             )
             
+            core:add_listener(
+                "rhox_bjornling_winter_panel",
+                "PanelOpenedCampaign",
+                function(context)
+                    return context.string == "kislev_winter"
+                end,
+                function(context)
+                    local panel = find_uicomponent(core:get_ui_root(), "kislev_winter")
+					if not panel then
+						return
+					end
+                    local supporter = find_uicomponent(panel, "devotion_action_holder", "dy_supporters")
+                    if supporter then
+                        supporter:SetVisible(true)
+                    end
+                            
+                end,
+                true
+            )
+            
             local norsca_gods_frame = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar", "norsca_favour")
             if norsca_gods_frame then
                 norsca_gods_frame:SetVisible(false)

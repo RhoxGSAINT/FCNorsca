@@ -1,3 +1,31 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_hildr.loc		
-land_units_onscreen_name_hkrul_hildr	Hildr	false
+character_skills_localised_name_innate_hkrul_hildr	The Marked One	true
+character_skills_localised_description_innate_hkrul_hildr	The ominous rivers and mysterious tree's are no rare sight for the exploring Sea-Maiden of the Graeling.	true
+character_skills_localised_name_hkrul_hildr_special_1_0	The Challenger	true
+character_skills_localised_name_hkrul_hildr_special_1_1	Unusual Allegiances	true
+character_skills_localised_name_hkrul_hildr_special_1_2	Expert Survivalist	true
+character_skills_localised_name_hkrul_hildr_special_1_3	Inked Arrows	true
+character_skills_localised_name_hkrul_hildr_special_1_4	Maiden of the Seas	true
+character_skills_localised_name_hkrul_hildr_special_1_5	Harald's Valkyre	true
+character_skills_localised_name_hkrul_hildr_special_1_6	Monster Hunt	true
+character_skills_localised_description_hkrul_hildr_special_1_0	The Graeling are known for their ruthless raids and pillages, usually launched from their impressive fleet of longships.	true
+character_skills_localised_description_hkrul_hildr_special_1_1	hildr's skill to traverse difficult jungle terrain has proven her a valueable asset for many of explorer, be it Norscan or Dwarven.	true
+character_skills_localised_description_hkrul_hildr_special_1_2	A keen sight is both helpful when exploring as it is when taking aim.	true
+character_skills_localised_description_hkrul_hildr_special_1_3	Inked with the poisonous blood of slain skinks, hildr's arrows are as colourful as they are deadly.	true
+character_skills_localised_description_hkrul_hildr_special_1_4	Few know they're way around a mast and oar as hildr, Sea-Maiden of the Graeling.	true
+character_skills_localised_description_hkrul_hildr_special_1_5	There are not many who have Harald Whyrlas's ear, yet hildr is considered champion among Graeling.	true
+character_skills_localised_description_hkrul_hildr_special_1_6	The Sea-Maiden harnesses her skill and can bring down any monster, no matter the terrain.	true
+unit_abilities_onscreen_name_hkrul_hildr_hunt	Monster Hunt	false
+unit_abilities_tooltip_text_hkrul_hildr_hunt	As she blows the Graeling horn hunters gather for their feast: The Hunt.	false
+agent_subtypes_onscreen_name_override_hkrul_hildr	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_hildr	Hildr is a rarity, a female reaver. She is a beauty, with long blonde hair and a feminine figure that belies her strength.	false
+unit_description_short_texts_text_hkrul_hildr	Hildr is a rarity, a female reaver. She enjoys challenging the most stalwart opponents on the battlefield to single combat.	false
+names_name_7469211831	Hildr	false
+names_name_7469211830	the Reaver	false
+land_units_onscreen_name_hkrul_hildr	Hildr the Reaver	true
+effects_description_hkrul_hildr_hunt	Ability: "Monster Hunt"	false
+campaign_payload_ui_details_description_rhox_fc_norsca_hildr	Hildr joins your ranks	false
+missions_localised_title_rhox_fc_norsca_hildr	Hildr	false
+missions_localised_description_rhox_fc_norsca_hildr	Hildr will join you after the supporter race is over	false
+ui_unit_groupings_tooltip_hkrul_norsca_axe_great_hero	Great Axe Infantry	false

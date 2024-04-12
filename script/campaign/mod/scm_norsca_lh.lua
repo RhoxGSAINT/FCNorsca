@@ -6,18 +6,32 @@ local rhox_fc_norsca_lh={
         ai_turn =5,
         building_key="rhox_fc_norsca_ruins_of_vinnskor",
     },
-    scm_norsca_alfkael={--alfkael
+    scm_norsca_alfkael={
         faction_key="wh_main_nor_aesling",
         mission_key="rhox_fc_norsca_bloodfather",
         mission_condition=function(mm) 
             mm:add_new_objective("KILL_X_ENTITIES")
             mm:add_condition("total 15000")
             mm:add_payload("money 1000")
-            mm:add_payload("text_display nag_mortarch_krell_technology");
+            mm:add_payload("text_display rhox_fc_norsca_bloodfather");
             mm:trigger()
         end,
         ai_turn =5,
         building_key="rhox_fc_norsca_valmir_aesling",
+    },
+    hkrul_hildr={
+        faction_key="wh_main_nor_bjornling",
+        mission_key="rhox_fc_norsca_hildr",
+        mission_condition=function(mm) 
+            mm:add_new_objective("SCRIPTED")
+            mm:add_condition("script_key rhox_fc_norsca_kislev")
+            mm:add_condition("override_text mission_text_text_rhox_fc_norsca_hildr")
+            mm:add_payload("money 1000")
+            mm:add_payload("text_display rhox_fc_norsca_hildr");
+            mm:trigger()
+        end,
+        ai_turn =5,
+        player_trigger_turn=5,
     },
 }
 
@@ -26,28 +40,52 @@ cm:add_first_tick_callback(
         for agent_key,details in pairs(rhox_fc_norsca_lh) do
             local faction = cm:get_faction(details.faction_key)
             if faction and faction:is_human() then
-                core:add_listener(
-                    "rhox_fc_norsca_lh_building_"..agent_key,
-                    "BuildingCompleted",
-                    function(context)
-                        local building=context:building()
-                        local faction = building:faction()
-                        
-                        return faction:name() == details.faction_key and cm:get_saved_value("rhox_fc_norsca_lh_building_"..agent_key) ~=true and building:name() == details.building_key
-                    end,
-                    function(context)
-                        cm:set_saved_value("rhox_fc_norsca_lh_building_"..agent_key, true)
-                        local building=context:building()
-                        local faction = building:faction()
-                        if details.mission_type == "DB" then
-                            cm:trigger_mission(faction:name(), details.mission_key, true)
-                        else
-                            local mm = mission_manager:new(faction:name(), details.mission_key)
-                            details.mission_condition(mm)
-                        end
-                    end,
-                    true
-                );
+                if details.building_key then
+                    core:add_listener(
+                        "rhox_fc_norsca_lh_building_"..agent_key,
+                        "BuildingCompleted",
+                        function(context)
+                            local building=context:building()
+                            local faction = building:faction()
+                            
+                            return faction:name() == details.faction_key and cm:get_saved_value("rhox_fc_norsca_lh_building_"..agent_key) ~=true and building:name() == details.building_key
+                        end,
+                        function(context)
+                            cm:set_saved_value("rhox_fc_norsca_lh_building_"..agent_key, true)
+                            local building=context:building()
+                            local faction = building:faction()
+                            if details.mission_type == "DB" then
+                                cm:trigger_mission(faction:name(), details.mission_key, true)
+                            else
+                                local mm = mission_manager:new(faction:name(), details.mission_key)
+                                details.mission_condition(mm)
+                            end
+                        end,
+                        true
+                    );
+                end
+                if details.player_trigger_turn then
+                    core:add_listener(
+                        "rhox_fc_norsca_lh_turn_"..agent_key,
+                        "FactionTurnStart",
+                        function(context)
+                            local faction = context:faction()
+                        	local turn = cm:model():turn_number();
+                            
+							return faction:name() == details.faction_key and turn == details.ai_turn
+                        end,
+                        function(context)
+							local faction = context:faction()
+                            if details.mission_type == "DB" then
+                                cm:trigger_mission(faction:name(), details.mission_key, true)
+                            else
+                                local mm = mission_manager:new(faction:name(), details.mission_key)
+                                details.mission_condition(mm)
+                            end
+                        end,
+                        true
+                    );
+                end
                 core:add_listener(
                     "rhox_fc_norsca_lh_mission_"..agent_key,
                     "MissionSucceeded",
@@ -119,6 +157,30 @@ cm:add_first_tick_callback(
                     mm:trigger()
                 end,
                 false
+            );
+        end
+        
+        local bjornling_faction = cm:get_faction("wh_main_nor_bjornling")
+        if bjornling_faction and bjornling_faction:is_human() then
+            core:add_listener(
+                "rhox_fc_norsca_hildr_mission_completer",
+                "FactionTurnStart",
+                function(context)
+                    local faction = context:faction()
+                    return faction:name() == "wh_main_nor_bjornling"
+                end,
+                function(context)
+                    local faction = context:faction()
+                    
+                    local faction_katarin = cm:get_faction("wh3_main_ksl_the_ice_court")
+                    local faction_kostaltyn = cm:get_faction("wh3_main_ksl_the_great_orthodoxy")
+                    local followers_katarin = faction_katarin:pooled_resource_manager():resource("wh3_main_ksl_followers"):value()
+                    local followers_kostaltyn = faction_kostaltyn:pooled_resource_manager():resource("wh3_main_ksl_followers"):value()
+                    if followers_katarin >= 600 or followers_kostaltyn >= 600 then
+                        cm:complete_scripted_mission_objective("wh_main_nor_bjornling", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true)
+                    end
+                end,
+                true
             );
         end
 	end

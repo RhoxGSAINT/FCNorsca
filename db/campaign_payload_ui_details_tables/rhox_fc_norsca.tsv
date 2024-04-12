@@ -29,3 +29,4 @@ rhox_fc_norsca_asta	ui/campaign ui/effect_bundles/agent.png	positive	0
 rhox_fc_norsca_ancillary_dummy	ui/battle ui/ability_icons/wh_magic_item_passive_enchanted.png	positive	0
 rhox_fc_norsca_agent_shaman_metal_dummy	ui/campaign ui/effect_bundles/agent.png	positive	0
 rhox_fc_norsca_agent_troll_hag_dummy	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_fc_norsca_hildr	ui/campaign ui/effect_bundles/agent.png	positive	0
