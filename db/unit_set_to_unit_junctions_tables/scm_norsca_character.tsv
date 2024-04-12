@@ -113,3 +113,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			scm_norsca_alfkael_wolf	characters	false
 			scm_norsca_alfkael_wolf	all_non_chs	true
 			scm_norsca_alfkael_wolf	nor_all	false
+			rhox_alfkael_warshrine	characters	false
+			rhox_alfkael_warshrine	all_non_chs	true
+			rhox_alfkael_warshrine	nor_all	false
