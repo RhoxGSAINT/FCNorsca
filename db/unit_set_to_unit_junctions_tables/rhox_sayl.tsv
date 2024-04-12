@@ -41,4 +41,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_dlc08_nor_cha_shaman_sorcerer_metal_0	hkrul_sayl_shaman	false
 			wh_dlc08_nor_cha_shaman_sorcerer_metal_1	hkrul_sayl_shaman	false
 			wh_dlc08_nor_cha_shaman_sorcerer_metal_2	hkrul_sayl_shaman	false
+			scm_norsca_alfkael	hkrul_sayl_shaman	false
+			scm_norsca_alfkael_wolf	hkrul_sayl_shaman	false
+			rhox_alfkael_warshrine	hkrul_sayl_shaman	false
 			hkrul_nightmav	hkrul_sayl_nightmaw	false
