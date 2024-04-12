@@ -116,3 +116,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_alfkael_warshrine	characters	false
 			rhox_alfkael_warshrine	all_non_chs	true
 			rhox_alfkael_warshrine	nor_all	false
+			hkrul_hildr	mp_cap_group_heroes	false
+			hkrul_hildr	nor_all	false
+			hkrul_hildr	all_non_chs	false
+			hkrul_hildr	characters	false

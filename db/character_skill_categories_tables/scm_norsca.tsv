@@ -41,3 +41,5 @@ scm_norsca_asta_line1	1	0	0	scm_norsca_asta	AAAA7F
 scm_norsca_asta_line2	1	1	1	scm_norsca_asta	BAB2AE
 scm_norsca_alfkael_line1	1	0	0	scm_norsca_alfkael	AA0000
 scm_norsca_alfkael_line2	1	1	1	scm_norsca_alfkael	3F3C34
+hkrul_hildr_line1	0	0	1	hkrul_hildr	AA5500
+hkrul_hildr_line2	1	1	1	hkrul_hildr	AA557F

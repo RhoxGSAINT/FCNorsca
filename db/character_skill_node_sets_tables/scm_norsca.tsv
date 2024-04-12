@@ -28,3 +28,4 @@ wolftribe_scm_norsca_ulsdau_skills	champion	false	false				scm_norsca_ulsdau
 wolftribe_skill_node_set_scm_norsca_asta	dignitary	false	false				scm_norsca_asta
 wolftribe_skill_node_set_alfkael	wizard	false	false				scm_norsca_alfkael
 skill_node_set_hkrul_graill	champion	false	false				hkrul_graill
+skill_node_set_hkrul_hildr	champion	false	false				hkrul_hildr

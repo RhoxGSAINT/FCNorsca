@@ -9,3 +9,4 @@ rhox_fc_norsca_ruins_of_vinnskor						cai_military_group					-1	-1	0	0	0	0	0	0	-
 rhox_fc_norsca_sargath_tent						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
 rhox_fc_norsca_chaos_iceberg						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
 rhox_fc_norsca_corrupted_khemri						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
+rhox_bjornling_creatures						cai_military_group					0	0	1000	1000	1000	1000	0	0	0	0	510	510	510	510	0	0	1100	1500

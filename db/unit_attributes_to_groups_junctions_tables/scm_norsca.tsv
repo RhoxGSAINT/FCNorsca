@@ -165,3 +165,6 @@ immune_to_psychology	hkrul_bastiladon_slaanesh
 immune_to_psychology	r1kko_adella_sla_troglodon
 strider	hkrul_bastiladon_slaanesh
 strider	r1kko_adella_sla_troglodon
+hide_forest	hkrul_hildr
+charge_defense	hkrul_hildr
+encourages	hkrul_hildr
