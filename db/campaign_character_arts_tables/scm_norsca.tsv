@@ -36,3 +36,4 @@ id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_unifo
 23112022	scm_norsca_asta	0	0		none	scm_norsca_asta			wh_dlc08_campaign_nor_ship_agent	wh_dlc08_campaign_nor_ship_agent	cam_hu1d_elf_sword_and_bow	cam_agent_ship_03	cam_heavy_ship_02	0	0	0
 17112022	scm_norsca_alfkael	0	0		none	scm_norsca_alfkael			wh_dlc08_campaign_nor_ship_agent	wh_dlc08_campaign_nor_ship_agent	cam_hu1_empire_staff_and_sword	cam_agent_ship_03	cam_heavy_ship_02	0	0	0
 201735988	hkrul_graill	0	0		none	hkrul_graill			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu10_wh3_skarbrand_dual_axe	cam_agent_ship_03	cam_heavy_ship_02	0	0	0
+201735989	hkrul_hildr	0	0		none	hkrul_hildr			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hero_hu1_dlc23_ulrika_dual_swords_bow	cam_transport_ship_05	cam_transport_ship_05	0	0	0

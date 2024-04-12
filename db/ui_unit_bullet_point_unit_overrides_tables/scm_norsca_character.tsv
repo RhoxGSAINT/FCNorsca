@@ -136,3 +136,6 @@ chaos_warshrine	rhox_alfkael_warshrine
 anti_large	hkrul_graill
 melee_expert	hkrul_graill
 armour_piercing	hkrul_graill
+duellist	hkrul_hildr
+armour_piercing	hkrul_hildr
+hkrul_norsca_weak_vs_mult	hkrul_hildr

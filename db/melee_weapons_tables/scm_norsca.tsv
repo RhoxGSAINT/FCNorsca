@@ -36,3 +36,4 @@ rhox_wolftribe_marauder	0	0	21	7	1.0000	axe	axe		1	1.0000	1.2500	0.0000	false	wh
 r1kko_adella_nur_bastiladon	0	15	90	160	9.0000	axe	claw	medium	4	1.0000	1.2500	0.0000	false	wh_main_unit_contact_poison	0	10	3.7000		false
 r1kko_adella_nur_stegadon	0	18	120	300	10.0000	axe	claw	medium	7	1.5000	1.2500	0.0000	false	wh_main_unit_contact_poison	0	10	3.5000		false
 r1kko_adella_tze_bastiladon	0	15	90	160	9.0000	axe	claw	medium	4	1.0000	1.2500	0.0000	true		0	10	3.7000		false
+hkrul_hildr	0	0	150	350	2.0000	axe	axe_2h	large	1	1.0000	1.2500	0.0000	false		0	10	3.8000		false
