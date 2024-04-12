@@ -1,6 +1,0 @@
-id	mission_key	payload_key	status_key	value	target_key
-#cdir_events_mission_payloads_tables;2;db/cdir_events_mission_payloads_tables/wolftribe_heroes					
-66855927	wolftribe_nor_scm_norsca_asta	EFFECT_BUNDLE	SUCCESS	KEY[wolftribe_payload_scm_norsca_asta_join];DURATION[0];GLOBAL	default
-66855928	wolftribe_nor_hidolfr	EFFECT_BUNDLE	SUCCESS	KEY[wolftribe_payload_hidolfr_join];DURATION[0];GLOBAL	default
-66855929	wolftribe_nor_scm_norsca_asta_tow	EFFECT_BUNDLE	SUCCESS	KEY[wolftribe_payload_scm_norsca_asta_join];DURATION[0];GLOBAL	default
-66855930	wolftribe_nor_hidolfr_tow	EFFECT_BUNDLE	SUCCESS	KEY[wolftribe_payload_hidolfr_join];DURATION[0];GLOBAL	default

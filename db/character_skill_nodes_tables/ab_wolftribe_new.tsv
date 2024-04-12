@@ -69,4 +69,4 @@ nor_skin_wolf_lord_campaign_11		wh_dlc08_skill_nor_lords_campaign_spawn_of_chaos
 wh3_main_agent_action_scaling_wh_dlc08_skill_node_set_nor_skin_wolf_lord		wh3_main_skill_agent_action_success_scaling		99	0		0	0	false
 nor_skin_wolf_lord_boons_of_the_gods_1		packlord_main_skill_boons_of_the_gods_1		1	70		0	0	true
 wolftribe_skill_node_tempest_magic_dummy		shaman_dummy_hailstorm		2	11		1	0	false
-wolftribe_hidolfr_nithi		wolftribe_hidolfr_nithi		7	0		0	0	false
+wolftribe_alfkael_nithi		wolftribe_alfkael_nithi		7	0		0	0	false
