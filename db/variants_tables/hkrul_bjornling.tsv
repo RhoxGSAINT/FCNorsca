@@ -8,3 +8,6 @@ hkrul_bjornling_marauder_spear		bjornling_marauder_spear		1.0000	1.0000	0.0500
 hkrul_bjornling_marauder		bjornling_marauder		1.0000	1.0000	0.0500	
 hkrul_bjornling_marauder_1		bjornling_marauder_great_weapons		1.0000	1.0000	0.0500	
 hkrul_bjornling_ogg		prt_ogg		1.0000	1.1600	0.0000	
+rhox_bjornling_maneater		airborne_bjornling_maneater	hu13/ogr/ogr_maneater/ogr_maneater_01_imposter	1.0000	1.0500	0.0500	
+rhox_bjornling_maneater_ironfist		airborne_bjornling_maneater_ironfist	hu13/ogr/ogr_maneater/ogr_maneater_01_imposter	1.0000	1.0500	0.0500	
+rhox_bjornling_maneater_great_weapon		airborne_bjornling_maneater_great_weapon	hu13/ogr/ogr_maneater/ogr_maneater_01_imposter	1.0000	1.0500	0.0500	

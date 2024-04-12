@@ -1,0 +1,15 @@
+key	building	unit	XP	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/rhox_bjornling						
+699096222	rhox_bjornling_creatures_1	wh_dlc08_nor_mon_norscan_ice_trolls_0	0	0		false
+699096223	rhox_bjornling_creatures_1	wh_main_nor_mon_chaos_trolls	0	0		false
+699096224	rhox_bjornling_creatures_2	wh_main_nor_mon_chaos_trolls	0	0		false
+699096225	rhox_bjornling_creatures_2	wh_dlc08_nor_feral_manticore	0	0		false
+699096226	rhox_bjornling_creatures_2	wh_dlc08_nor_mon_norscan_ice_trolls_0	0	0		false
+699096227	rhox_bjornling_creatures_2	rhox_bjornling_maneater	0	0		false
+699096228	rhox_bjornling_creatures_3	wh_main_nor_mon_chaos_trolls	0	0		false
+699096229	rhox_bjornling_creatures_3	rhox_bjornling_maneater	0	0		false
+699096230	rhox_bjornling_creatures_3	wh_dlc08_nor_mon_norscan_ice_trolls_0	0	0		false
+699096231	rhox_bjornling_creatures_3	wh_dlc08_nor_feral_manticore	0	0		false
+699096232	rhox_bjornling_creatures_3	rhox_bjornling_maneater_ironfist	0	0		false
+699096233	rhox_bjornling_creatures_3	rhox_bjornling_maneater_great_weapon	0	0		false
+699096234	rhox_bjornling_creatures_3	wh_dlc08_nor_mon_frost_wyrm_0	0	0		false

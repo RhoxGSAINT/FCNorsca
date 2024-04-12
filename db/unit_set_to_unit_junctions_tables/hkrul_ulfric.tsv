@@ -25,3 +25,39 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_bjornling_huscarl_ror	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions_ror	false
 			rhox_bjornling_huscarl	hkrul_huscarl	false
 			rhox_bjornling_huscarl_ror	hkrul_huscarl	false
+			rhox_bjornling_maneater	all_ogr	false
+			rhox_bjornling_maneater	ogr_inf	false
+			rhox_bjornling_maneater	ogr_ironguts_maneaters	false
+			rhox_bjornling_maneater	ogr_maneaters_gorgers_giants_rank7	false
+			rhox_bjornling_maneater	ogr_maneaters	false
+			rhox_bjornling_maneater_ironfist	all_ogr	false
+			rhox_bjornling_maneater_ironfist	ogr_inf	false
+			rhox_bjornling_maneater_ironfist	ogr_ironguts_maneaters	false
+			rhox_bjornling_maneater_ironfist	ogr_maneaters_gorgers_giants_rank7	false
+			rhox_bjornling_maneater_ironfist	ogr_maneaters	false
+			rhox_bjornling_maneater_great_weapon	all_ogr	false
+			rhox_bjornling_maneater_great_weapon	ogr_inf	false
+			rhox_bjornling_maneater_great_weapon	ogr_ironguts_maneaters	false
+			rhox_bjornling_maneater_great_weapon	ogr_maneaters_gorgers_giants_rank7	false
+			rhox_bjornling_maneater_great_weapon	ogr_maneaters	false
+			rhox_bjornling_maneater	all_non_chs	true
+			rhox_bjornling_maneater	dlc08_nor_fimirs	false
+			rhox_bjornling_maneater	dlc08_nor_trolls_fimirs	false
+			rhox_bjornling_maneater	mp_cap_unit_nor_mon_fimir_warriors_0	false
+			rhox_bjornling_maneater	nor_all	false
+			rhox_bjornling_maneater	wh2_dlc11_nor_fimir_giant_mammoth	false
+			rhox_bjornling_maneater	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			rhox_bjornling_maneater_ironfist	all_non_chs	true
+			rhox_bjornling_maneater_ironfist	dlc08_nor_fimirs	false
+			rhox_bjornling_maneater_ironfist	dlc08_nor_trolls_fimirs	false
+			rhox_bjornling_maneater_ironfist	mp_cap_unit_nor_mon_fimir_warriors_0	false
+			rhox_bjornling_maneater_ironfist	nor_all	false
+			rhox_bjornling_maneater_ironfist	wh2_dlc11_nor_fimir_giant_mammoth	false
+			rhox_bjornling_maneater_ironfist	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			rhox_bjornling_maneater_great_weapon	all_non_chs	true
+			rhox_bjornling_maneater_great_weapon	dlc08_nor_fimirs	false
+			rhox_bjornling_maneater_great_weapon	dlc08_nor_trolls_fimirs	false
+			rhox_bjornling_maneater_great_weapon	mp_cap_unit_nor_mon_fimir_warriors_0	false
+			rhox_bjornling_maneater_great_weapon	nor_all	false
+			rhox_bjornling_maneater_great_weapon	wh2_dlc11_nor_fimir_giant_mammoth	false
+			rhox_bjornling_maneater_great_weapon	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
