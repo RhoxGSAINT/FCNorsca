@@ -94,7 +94,7 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wolftribe_skill_self_wise_one		x	11
 		1	scm_norsca_graill_valdyr		x	9
 		1	wolftribe_scm_norsca_asta_ardenwood_bow		x	10
-		1	wolftribe_hidolfr_nithi		x	18
+		1	wolftribe_alfkael_nithi		x	18
 		1	scm_norsca_huern_anci_armor_pelt		x	10
 		1	scm_norsca_huern_thralls_lament		x	8
 		1	scm_norsca_huern_chieftains_horn		x	14
@@ -102,3 +102,4 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_ulsdau_eldur		x	9
 		1	hkrul_hrothgar_special_1_0		x	9
 		1	hkrul_norsca_ship_5		x	4
+		1	rhox_alfkael_warshrine		x	13

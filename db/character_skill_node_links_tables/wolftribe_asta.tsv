@@ -1,5 +1,5 @@
 child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	link_type
-#character_skill_node_links_tables;3;db/character_skill_node_links_tables/wolftribe_rana							
+#character_skill_node_links_tables;3;db/character_skill_node_links_tables/wolftribe_asta							
 wolftribe_scm_norsca_asta_self_2	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_scm_norsca_asta_self_3	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_scm_norsca_asta_self_4	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0.0000	REQUIRED

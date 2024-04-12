@@ -1,5 +1,5 @@
 child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	link_type
-#character_skill_node_links_tables;3;db/character_skill_node_links_tables/wolftribe_shaman_hero							
+#character_skill_node_links_tables;3;db/character_skill_node_links_tables/wolftribe_alfkael							
 wolftribe_alfkael_self_02	wolftribe_alfkael_self_01	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_alfkael_self_03	wolftribe_alfkael_self_01	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_alfkael_self_04	wolftribe_alfkael_self_02	0	1	1	0.0000	0.0000	REQUIRED

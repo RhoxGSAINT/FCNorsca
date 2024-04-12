@@ -51,4 +51,6 @@ faction	unit	name	variant	unit_card
 	scm_norsca_asta_02	scm_norsca_asta_02	scm_norsca_asta	scm_norsca_asta
 	scm_norsca_alfkael	scm_norsca_alfkael	scm_norsca_alfkael	scm_norsca_alfkael
 	scm_norsca_alfkael_wolf	scm_norsca_alfkael_wolf	scm_norsca_alfkael_wolf	scm_norsca_alfkael_wolf
+	rhox_alfkael_warshrine	scm_norsca_alfkael	scm_norsca_alfkael	scm_norsca_alfkael
 	hkrul_graill	hkrul_graill	hkrul_graill	scm_norsca_graill
+	hkrul_hildr	hkrul_hildr	hkrul_hildr	hkrul_hildr
