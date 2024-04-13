@@ -29,3 +29,11 @@ campaign_payload_ui_details_description_rhox_fc_norsca_hildr	Hildr joins your ra
 missions_localised_title_rhox_fc_norsca_hildr	Hildr	false
 missions_localised_description_rhox_fc_norsca_hildr	Hildr will join you after the supporter race is over	false
 ui_unit_groupings_tooltip_hkrul_norsca_axe_great_hero	Great Axe Infantry	false
+unit_abilities_onscreen_name_hkrul_hildr_axe	Maiden's Kiss	false
+unit_abilities_tooltip_text_hkrul_hildr_axe	Men rise to her challenge, since many would be dishonoured or horribly ashamed to admit they had balked when confronted by a mere woman.	false
+effects_description_hkrul_hildr_axe	Ability: "Maiden's Kiss"	false
+ancillaries_onscreen_name_hkrul_hildr_axe	Maiden's Kiss	false
+ancillaries_colour_text_hkrul_hildr_axe	Hildr enjoys challenging the most stalwart opponents on the battlefield to single combat. Her victims rise to the challenge, since many would be dishonoured or horribly ashamed to admit they had balked when confronted by a mere woman. But the victory notches on her fearsome twin-bladed axe Maiden's Kiss count dozens of men for whom discretion would have been the better part of valour.	false
+unit_abilities_onscreen_name_hkrul_hildr_brew	Reaver's Brew	false
+unit_abilities_tooltip_text_hkrul_hildr_brew	To combat the several sea illnesses the Norscan Reavers learn to harvest the ingredients offered by the ragged tainted cliffs of Norsca for strong potions.	false
+effects_description_hkrul_hildr_brew	Ability: "Reaver's Brew"	false

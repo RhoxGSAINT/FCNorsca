@@ -80,4 +80,6 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_ulfric_pas_shield	false	true	false	hkrul_ulfric_pas_shield
 1	hkrul_harald_king	false	true	false	hkrul_harald_king
 0	hkrul_sarl_hunters	true	false	false	hkrul_sarl_hunters
-1	hkrul_hildr_hunt	true	true	false	hkrul_hildr_hunt
+1	hkrul_hildr_brew	true	true	false	hkrul_hildr_brew
+1	hkrul_hildr_axe	true	false	false	hkrul_hildr_axe_ally
+1	hkrul_hildr_axe	false	false	true	hkrul_hildr_axe_enemy

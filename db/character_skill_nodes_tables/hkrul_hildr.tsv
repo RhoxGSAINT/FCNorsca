@@ -1,6 +1,6 @@
 key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
 #character_skill_nodes_tables;6;db/character_skill_nodes_tables/hkrul_hildr									
-skill_node_hkrul_hildr_campaign_01		wh2_main_skill_all_hero_assist_army_training		5	0		0	0	true
+skill_node_hkrul_hildr_campaign_01		wh2_main_skill_all_hero_assist_army_scavenge		5	0		0	0	true
 skill_node_hkrul_hildr_campaign_03		wh2_main_skill_all_hero_passive_stimulate_growth		5	2		0	0	true
 skill_node_hkrul_hildr_campaign_04		wh2_main_skill_all_hero_hinder_settlement_assault_garrison		5	3		0	0	true
 skill_node_hkrul_hildr_campaign_05		wh2_main_skill_all_hero_hinder_agent_assassinate		5	4		0	0	true
@@ -31,3 +31,4 @@ skill_node_hkrul_hildr_unique_1		wh_dlc08_skill_nor_lords_unique_aura_of_chaos		
 skill_node_hkrul_hildr_unique_2		wh_dlc08_skill_nor_skin_wolf_werekin_unique_razor_claws		0	1		0	0	true
 skill_node_hkrul_hildr_unique_3		wh_dlc08_skill_nor_skin_wolf_werekin_unique_hardened_skin		0	2		0	0	true
 skill_node_hkrul_hildr_unique_4		wh3_main_skill_all_mentor_hero		0	12		0	0	true
+skill_node_hkrul_hildr_special_1_7		hkrul_hildr_axe		7	0		0	0	false
