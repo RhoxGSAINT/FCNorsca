@@ -123,7 +123,7 @@ pooled_resource_factors_display_name_negative_rhox_bjornling_fish_catch	Sold	fal
 pooled_resource_factors_display_name_positive_rhox_bjornling_fish_catch	Caught	false
 effect_bundles_localised_description_rhox_bjornling_fish_stance	As the longships of Bjornlings slice through the waves, their keen eyes scan the waters, ready to cast their nets and hooks to harvest the bounty of the sea.	false
 effect_bundles_localised_title_rhox_bjornling_fish_stance	Catching Fish	false
-rituals_description_rhox_bjornling_fish_sale	The various ways the Bjornling tribe sells their captured fish.	false
+rituals_description_rhox_bjornling_fish_sale	The various ways the Bjornling tribe sells their captured fish. You can sell the fish to the faction you have a trade agreement with, or to the local market for a low margin if you haven't got any trade agreement. 	false
 rituals_display_name_rhox_bjornling_fish_sale	Fishmarket	false
 pooled_resources_description_rhox_bjornling_fish	Fish is bartered in trades for currency and diplomatic standings	false
 pooled_resources_display_name_rhox_bjornling_fish	Fish	false
