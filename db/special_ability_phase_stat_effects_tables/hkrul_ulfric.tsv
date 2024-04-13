@@ -16,4 +16,5 @@ rhox_huscarl_shield_wall	stat_mass	1.5000	mult
 hkrul_ulfric_axe_formation	stat_melee_attack	15.0000	add
 hkrul_ulfric_axe_formation	stat_resistance_all	1.1000	mult
 hkrul_ulfric_pas_shield	stat_mass	1.3500	mult
-hkrul_hildr_axe_ally	stat_melee_damage_base	1.3000	mult
+hkrul_hildr_axe_ally	stat_melee_damage_base	1.2000	mult
+hkrul_hildr_axe_ally	stat_resistance_physical	1.1500	mult
