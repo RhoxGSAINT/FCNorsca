@@ -89,6 +89,11 @@ cm:add_first_tick_callback(
                     if supporter then
                         supporter:SetVisible(true)
                     end
+                    
+                    local final_threshold = find_uicomponent(panel, "devotion_bar", "devotion_follower_icon")
+                    if final_threshold then
+                        final_threshold:SetContextObject(cco("CcoCampaignGroupRecord", "rhox_bjornling_bundle_ksl_followers_5"))
+                    end
                             
                 end,
                 true

@@ -36,3 +36,6 @@ hkrul_sayl_mammoth_charge	charge.png	300	charge.png	battle	true
 rhox_sayl_effect_removal_dummy	army.png	2	army.png	campaign	true
 rhox_sayl_chaos_sapwn_dummy	belakor_daemon_prince.png	1	belakor_daemon_prince.png	campaign	true
 rhox_sayl_chaos_sapwn_feature_dummy	belakor_daemon_prince.png	1	belakor_daemon_prince.png	campaign	true
+hkrul_lokjar_cry	item_ability.png	23	item_ability.png	battle	true
+hkrul_lokjar_gorger	item_ability.png	23	item_ability.png	battle	true
+hkrul_lokjar_skull	item_ability.png	300	item_ability.png	battle	true

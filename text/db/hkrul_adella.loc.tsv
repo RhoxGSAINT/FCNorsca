@@ -32,8 +32,6 @@ effects_description_hkrul_adella_skeggi_ws	Weapon Strength: %+n% for Corrupted L
 effects_description_hkrul_adella_skeggi_recruit_rank	Recruit rank: %+n for Skeggi units	true
 effects_description_hkrul_adella_sword	Ability: "Sword of Warping''	true
 effects_description_hkrul_adella_horse	Mount: "Blóm''	true
-effects_description_hkrul_adella_horse_2	Mount: "Placeholder''	true
-effects_description_hkrul_adella_horse_3	Mount: "Placeholder''	true
 effects_description_hkrul_adella_skeggi_md	Melee defence: %+n for Skeggi units	true
 effects_description_hkrul_adella_skeggi_charge	Charge bonus: %+n for Skeggi units	true
 effects_description_hkrul_adella_skeggi_leadership	Leadership: %+n for Skeggi units	true
@@ -45,7 +43,6 @@ character_trait_levels_colour_text_hkrul_defeated_trait_adella	Lots of talks and
 character_trait_levels_explanation_text_hkrul_defeated_trait_adella	Defeated ''King'' Adella of the Thousand Mouths	true
 ancillaries_colour_text_hkrul_adella_sword	A magic sword which ignores both armour and the protective scaly skin of the Lizardmen when it strikes. It is said the vitkis of Skeggi chanted unholy incantations for seven days straight without the slightest interruption before it was deemed satisfactory by King Adella.	true
 ancillaries_onscreen_name_hkrul_adella_sword	Sword of Warping	true
-ancillaries_colour_text_hkrul_adella_horse	Placeholder Text Placeholder Text	true
 ancillaries_onscreen_name_hkrul_adella_horse	Blóm	true
 missions_localised_description_hkrul_skeggi_adella_sword_final	In the heart of Lustria's dense jungle, Adella of the Thousand Mouths, a Norscan Queen gifted with chaotic whispers, seeks the legendary "Sword of Warping" to unleash chaos against the Lizardmen. With a cadre of loyal marauders, she ventures inland for the final quest battle, the jungle humming with anticipation as Adella prepares to seize the Sword and face the cold-blooded defenders in a decisive struggle that will echo through the ancient jungle.	false
 missions_localised_title_hkrul_skeggi_adella_sword_final	Sword of Warping	false

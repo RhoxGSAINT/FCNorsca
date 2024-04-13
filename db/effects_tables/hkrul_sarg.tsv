@@ -21,3 +21,4 @@ hkrul_sarg_ambush_charge	charge.png	1	charge.png	battle	true
 hkrul_uzuk_vs_cathay_xp	experience.png	2	experience.png	campaign	true
 hkrul_uzuk_vs_cathay_post_battle_lood	income.png	2	income.png	campaign	true
 rhox_sarg_monster_direct_dummy	effect_bundle_temptation_sarg.png	2	effect_bundle_whispers.png	campaign	true
+hkrul_uzul_pas_drum_duration	magic_character.png	60	magic_character.png	battle	true

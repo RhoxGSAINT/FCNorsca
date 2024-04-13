@@ -70,3 +70,4 @@ effects_description_rhox_varg_chaos_spawn_dummy	Chance to replenish Chaos Spawn 
 effects_description_rhox_varg_chaos_spawn_chance	Chance of replenishing Chaos Spawn units after battle: %+n%	false
 effects_description_effect_bundle_varg_spawn	Mutations: The mutative Vargs have a chance to replenish Chaos Spawn units upon achieving victory in a region with high chaos corruption.	false
 effects_description_hkrul_surtha_ek_chariot	Mount: Bloodspiller	false
+effects_description_hkrul_norsca_effect_glorious_charge	Attribute: Glorious Charge	true
