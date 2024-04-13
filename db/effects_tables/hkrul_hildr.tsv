@@ -1,0 +1,5 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_hildr					
+hkrul_hildr_hunt	item_ability.png	23	item_ability.png	battle	true
+hkrul_hildr_brew	item_ability.png	23	item_ability.png	battle	true
+hkrul_hildr_axe	item_ability.png	23	item_ability.png	battle	true

@@ -12,3 +12,4 @@ unit_is_not_large	hkrul_grail_blood_frenzy
 engaged_in_melee	hkrul_asta_food_passive
 unit_is_not_shielded	hkrul_ulfric_pas_shield
 out_of_melee	hkrul_harald_king
+unit_is_not_commander_class	hkrul_hildr_axe
