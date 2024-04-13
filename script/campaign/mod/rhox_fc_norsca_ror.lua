@@ -95,6 +95,7 @@ cm:add_first_tick_callback(
 )
 
 
+
 cm:add_first_tick_callback_new(
     function()
         for unit_key, info in pairs(rhox_fc_norsca_unlockable_ror_list) do
@@ -111,3 +112,6 @@ cm:add_first_tick_callback_new(
         end
     end
 )
+
+
+------------------------------------------------------------Special one for Varg
