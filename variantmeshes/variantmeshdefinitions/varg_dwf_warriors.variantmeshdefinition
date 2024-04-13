@@ -1,0 +1,15 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes/variantmeshdefinitions/varg_dwf_crew_base.variantmeshdefinition" />
+	</SLOT>
+	<SLOT name="gun" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_crossbow_01.wsmodel" />
+	</SLOT>
+	<SLOT attach_point="be_prop_0" name="weapon_1"/>
+	<SLOT name="weapon_1" attach_point="be_prop_0" />
+	<SLOT name="weapon_2" attach_point="be_prop_1" />
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT attach_point="be_prop_3" name="weapon_3"/>
+	<SLOT attach_point="be_prop_4" name="weapon_4"/>
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+</VARIANT_MESH>

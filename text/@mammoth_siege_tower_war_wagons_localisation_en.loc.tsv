@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/@mammoth_siege_tower_war_wagons_localisation_en.loc		
+land_units_onscreen_name_wh_mod_nor_veh_mammoth_siege_tower_0	Mammoth Siege Tower	true
+unit_description_short_texts_text_wh_mod_short_text_nor_veh_mammoth_siege_tower_0	Mammoths, Dwarfs, and warmachine in one - what madness is this?!	false
+unit_abilities_tooltip_text_wh_mod_unit_passive_death_shockwave	This vehicle explodes upon destruction, doing damage to entities around it.	false
+unit_abilities_onscreen_name_wh_mod_unit_passive_death_shockwave	Deadly Demise	false
+land_units_onscreen_name_wh_mod_nor_veh_war_wagon_0	Marauder War Wagons	true
+unit_description_short_texts_text_wh_mod_short_text_nor_veh_war_wagon_0	Reinforced wooden wagons containing deadly cargos in the form of ornery javelin armed Marauders.	false
+land_units_onscreen_name_wh_mod_nor_dwf_inf_sappers	Dwarf Sappers	true
+unit_description_short_texts_text_wh_mod_short_text_nor_dwf_inf_sappers_0	Sappers are valued for their expertise in siegecraft, and these from disillusioned Norse Dwarf clans are no different.	false

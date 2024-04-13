@@ -11,3 +11,11 @@ mod_varg_marauder_berserkers		varg_marauder_zerker	hu1c\chs\chs_marauders\low_po
 mod_varg_marauder_champions		varg_marauder_champion		1.0000	1.0000	0.0500	
 mod_varg_marauder_champion_great_weapons		varg_marauder_champion_great_mace		1.0000	1.0000	0.0500	
 mod_varg_marauder_champion_halberd		varg_marauder_chariot_halberd		1.0000	1.0000	0.0500	
+mod_varg_dwf_warriors		varg_dwf_warriors	hu3/dwf/dwf_warriors/low_poly/dwf_warriors_lowlod	1.0000	1.0500	0.0500	hu3/dwf/dwf_warriors/low_poly/super_imposter
+mod_varg_dwf_warriors_great_weapons		varg_dwf_warriors_gw	hu3/dwf/dwf_warriors/low_poly/dwf_warriors_great_lowlod	1.0000	1.0500	0.0500	hu3/dwf/dwf_warriors/low_poly/super_imposter
+mod_varg_dwf_sappers		varg_dwf_sappers	hu3/dwf/dwf_warriors/low_poly/dwf_warriors_great_lowlod	1.0000	1.0500	0.0500	hu3/dwf/dwf_warriors/low_poly/super_imposter
+wh_mod_nor_war_mammoth_draught	VariantMeshes/wh_variantmodels/hq3/nor/nor_war_mammoth/tech	nor_mammoth_draughts		1.0000	1.0000	0.0300	
+wh_mod_nor_art_catapult_mounted		nor_grudgethrower_mounted		1.0000	0.9000	0.0000	
+wh_mod_varg_mahout		varg_mahout_cockpit		1.0000	1.0500	0.0500	
+wh_mod_chs_norscan_warhorse_war_wagon	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	chs_warhorse	hr1\chs\chs_warhorse\low_poly\chs_warhorse_lowlod	1.0850	1.0850	0.0000	
+wh_mod_nor_war_wagon_javelin_crew		varg_marauder_javelins		1.0000	0.9125	0.0500	

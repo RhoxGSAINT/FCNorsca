@@ -1,0 +1,10 @@
+<VARIANT_MESH>
+	<SLOT name="face">
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_head_01.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_head_02.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_head_03.wsmodel" />
+	</SLOT>
+	<SLOT name="helmet_simple_horned" >
+		<VARIANT_MESH_REFERENCE definition="variantmeshes\variantmeshdefinitions\varg_dwf_crew_helm_set1.variantmeshdefinition" />
+	</SLOT>
+</VARIANT_MESH>

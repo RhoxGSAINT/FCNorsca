@@ -7,3 +7,6 @@ hkrul_sayl	false	hkrul_sayl	wh2_dlc14_medusa_gaze	false
 hkrul_asta_bow	false	hkrul_asta_bow	bow_LH	false
 hkrul_sarl_hunters_ror	false	hkrul_sarl_hunters_ror	bow	false
 hkrul_sarl_hunters	false	hkrul_sarl_hunters	bow	false
+wh_mod_nor_bolt_siege_tower	false	wh_mod_nor_siege_tower_crossbow	bolt_large	true
+wh_mod_nor_catapult_siege_tower	false	wh_mod_dwf_siege_tower_fused_beer_keg		false
+wh_mod_nor_javelin_war_wagons	false	wh_mod_nor_war_wagons_javelin	javelin	false

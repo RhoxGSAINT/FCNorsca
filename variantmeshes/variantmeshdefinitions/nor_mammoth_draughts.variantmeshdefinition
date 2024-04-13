@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hq3\nor\nor_war_mammoth\nor_war_mammoth_toothless_draught_01.wsmodel" >
+			<META_DATA>audio_entity_type:wh_dlc_nor_mammoth</META_DATA>			<META_DATA>audio_armour_type:leather</META_DATA>			<META_DATA>audio_melee_weapon_type:unarmed</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="head" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hq3\nor\nor_war_mammoth\nor_war_mammoth_feral_tusks_01.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hq3\nor\nor_war_mammoth\nor_war_mammoth_feral_tusks_02.wsmodel" />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hq3\nor\nor_war_mammoth\nor_war_mammoth_feral_tusks_03.wsmodel" />
+	</SLOT>
+</VARIANT_MESH>

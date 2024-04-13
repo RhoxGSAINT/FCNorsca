@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="helmet_simple" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_helm_01.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_helm_04.wsmodel"  />
+	</SLOT>
+	<SLOT name="horns_02" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_horns_02.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_horns_03.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_horns_04.wsmodel"  />
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_horns_05.wsmodel"  />
+	</SLOT>
+</VARIANT_MESH>

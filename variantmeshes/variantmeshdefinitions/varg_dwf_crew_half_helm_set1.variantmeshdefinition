@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="helm_half" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_helm_03.wsmodel"  />
+	</SLOT>
+	<SLOT name="horns_01" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu3\nor\nor_dwf_artillerymen\varg_artillery_crew_horns_01.wsmodel"  />
+	</SLOT>
+</VARIANT_MESH>
