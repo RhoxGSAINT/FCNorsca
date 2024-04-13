@@ -79,3 +79,8 @@ land_units_onscreen_name_wh_mod_nor_veh_war_wagon_0	Marauder War Wagons	true
 unit_description_short_texts_text_wh_mod_short_text_nor_veh_war_wagon_0	Reinforced wooden wagons containing deadly cargos in the form of ornery javelin armed Marauders.	false
 land_units_onscreen_name_wh_mod_nor_dwf_inf_sappers	Dwarf Sappers	true
 unit_description_short_texts_text_wh_mod_short_text_nor_dwf_inf_sappers_0	Sappers are valued for their expertise in siegecraft, and these from disillusioned Norse Dwarf clans are no different.	false
+campaign_localised_strings_string_wh_mod_nor_veh_mammoth_siege_tower_0_lock	[[col:red]]This Regiment of Renown will unlock only if after completing your journey in Khemri[[/col]]	false
+missions_localised_title_rhox_fc_norsca_surtha_ror	Dwarfs	false
+missions_localised_description_rhox_fc_norsca_surtha_ror	Why?	false
+effects_description_rhox_surtha_ek_ror_dummy	Quest for special RoR will be triggered	false
+campaign_payload_ui_details_description_rhox_fc_norsca_surtha_ek_ror_dummy	Special RoR will be unlocked	false

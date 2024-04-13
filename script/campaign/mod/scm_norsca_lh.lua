@@ -5,6 +5,7 @@ local rhox_fc_norsca_lh={
         mission_type="DB",
         ai_turn =5,
         building_key="rhox_fc_norsca_ruins_of_vinnskor",
+        no_tow=true,
     },
     scm_norsca_alfkael={
         faction_key="wh_main_nor_aesling",
@@ -30,6 +31,7 @@ local rhox_fc_norsca_lh={
             mm:add_payload("text_display rhox_fc_norsca_hildr");
             mm:trigger()
         end,
+        no_tow=true,
         ai_turn =5,
         player_trigger_turn=5,
     },
@@ -47,7 +49,9 @@ cm:add_first_tick_callback(
                         function(context)
                             local building=context:building()
                             local faction = building:faction()
-                            
+                            if details.no_tow and cm:get_campaign_name() == "cr_oldworld" then
+                                return false--don't do it if this mission is not for tow
+                            end
                             return faction:name() == details.faction_key and cm:get_saved_value("rhox_fc_norsca_lh_building_"..agent_key) ~=true and building:name() == details.building_key
                         end,
                         function(context)
@@ -71,7 +75,9 @@ cm:add_first_tick_callback(
                         function(context)
                             local faction = context:faction()
                         	local turn = cm:model():turn_number();
-                            
+                            if details.no_tow and cm:get_campaign_name() == "cr_oldworld" then
+                                return false--don't do it if this mission is not for tow
+                            end
 							return faction:name() == details.faction_key and turn == details.ai_turn
                         end,
                         function(context)
@@ -167,7 +173,7 @@ cm:add_first_tick_callback(
                 "FactionTurnStart",
                 function(context)
                     local faction = context:faction()
-                    return faction:name() == "wh_main_nor_bjornling"
+                    return faction:name() == "wh_main_nor_bjornling" and cm:get_campaign_name() ~= "cr_oldworld"
                 end,
                 function(context)
                     local faction = context:faction()

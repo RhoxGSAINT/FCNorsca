@@ -115,3 +115,42 @@ cm:add_first_tick_callback_new(
 
 
 ------------------------------------------------------------Special one for Varg
+
+
+core:add_listener(
+    "rhox_fc_norsca_varg_ror",
+    "BuildingCompleted",
+    function(context)
+        local building=context:building()
+        local faction = building:faction()
+        
+        return faction:name() == "wh_main_nor_varg" and cm:get_saved_value("rhox_fc_norsca_ror_building_wh_main_nor_varg") ~=true and building:name() == "rhox_fc_norsca_corrupted_khemri" and faction:is_human()
+    end,
+    function(context)
+        cm:set_saved_value("rhox_fc_norsca_ror_building_wh_main_nor_varg", true)
+        local building=context:building()
+        local faction = building:faction()
+        local mm = mission_manager:new("wh_main_nor_varg", "rhox_fc_norsca_surtha_ror")
+        mm:add_new_objective("DEFEAT_N_ARMIES_OF_FACTION");
+        mm:add_condition("subculture wh_main_sc_dwf_dwarfs");
+        mm:add_condition("total 5");
+        mm:add_payload("text_display rhox_fc_norsca_surtha_ek_ror_dummy");
+        mm:trigger()
+    end,
+    false--no need to do twice
+);
+
+core:add_listener(
+    "rhox_fc_norsca_varg_ror_mission",
+    "MissionSucceeded",
+    function(context)
+        local faction = context:faction()
+        local mission_key = context:mission():mission_record_key();
+        return mission_key== "rhox_fc_norsca_surtha_ror"
+    end,
+    function(context)
+        local faction = context:faction()
+        cm:remove_event_restricted_unit_record_for_faction("wh_mod_nor_veh_mammoth_siege_tower_0", faction:name())
+    end,
+    false
+);
