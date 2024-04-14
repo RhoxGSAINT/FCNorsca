@@ -83,7 +83,7 @@ names_name_5670500338	Adella	false
 unit_abilities_tooltip_text_hkrul_adella_sword	A magical sword crafted from the essence of slain Cold Ones with the power to cut through any armour or scaled skin.	true
 unit_abilities_onscreen_name_hkrul_adella_sword	Sword of Warping	true
 unit_description_short_texts_text_hkrul_adella	"King" Adella of Skeggi is blessed by Tzeentch with thousands of half-inch holes which feed her with sinister plans and whispers.	false
-unit_description_short_texts_text_hkrul_skeggi_giant_ror	An astonishingly large Giant, the people of Skeggi where quick to name him after Jarl Fishbrain the Red - seeing his strength as a resemblence. The only, one might add.	false
+unit_description_short_texts_text_hkrul_skeggi_giant_ror	Massive, even for a Giant, the people of Skeggi were quick to name him after Jarl Fishbrain the Red - seeing his strength as a resemblence. The only, one might add.	false
 units_custom_battle_mounts_mount_name_hkrul_adellahkrul_adella_horse	Blóm	true
 units_custom_battle_mounts_localised_description_hkrul_adellahkrul_adella_horse	Blóm, which means flower - is Adella's pet and steed. She fed it poisonous continously as part of her experiments which caused it to deform and mutate.	true
 character_skills_localised_description_hkrul_adella_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
@@ -149,7 +149,7 @@ unit_description_short_texts_text_r1kko_adella_kho_carnosaur	Touched by Khorne t
 unit_description_short_texts_text_r1kko_adella_nur_stegadon	Nurgle has blessed this mighty beast with a hide that's both festering with rot and impregnable at the same time.	false
 unit_description_short_texts_text_r1kko_adella_sla_troglodon	Radiant and rapid. These creatures touched by Slaanesh leave his mark on any battlefield.	false
 unit_description_short_texts_text_r1kko_adella_tze_coatl	When Tzeentch wills it, magic often linger among the clouds.	false
-unit_description_short_texts_text_rhox_skeggi_dodvakt	The Dodvakt - or Deathkeepers - were formed when the Norscan settlement of Skeggi was under undead threat. A elite unit of Skeggi warriors who still defend the coastal town to this day.	false
+unit_description_short_texts_text_rhox_skeggi_dodvakt	The Dodvakt - or Deathkeepers - were formed when the Norscan settlement of Skeggi was under undead threat. Elite unit of Skeggi warriors who still defend the beaches of Skeggi.	false
 unit_abilities_tooltip_text_hkrul_adella_fishbrain	As the Monolith of Jarl Fishbrain lumbers about the battlefield the many trinkets and treasures he was gifted drop down, causing marauders to flock around him in search of coin.	true
 unit_abilities_onscreen_name_hkrul_adella_fishbrain	Fishbrain's Treasure	true
 unit_abilities_tooltip_text_hkrul_dodvakt_bite	The Dodvakt charge in to the fray with their snarling beasts hungry for violence.	true

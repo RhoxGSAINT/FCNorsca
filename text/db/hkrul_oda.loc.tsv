@@ -18,7 +18,7 @@ character_skills_localised_description_hkrul_oda_special_1_5	Not many are truste
 character_skills_localised_description_hkrul_oda_special_1_6	The elite of Skjold are the Huskarls and Shield Maidens that follow Oda in to battle, hailing from the harsh area known as Hafskael's Yard.	true
 agent_subtypes_onscreen_name_override_hkrul_oda	Legendary Hero	false
 agent_subtypes_description_text_override_hkrul_oda	Legendary Hero	false
-unit_description_short_texts_text_hkrul_oda	A rival champion once mutterd: "No living man may hinder me". His head now rests on Oda's mantle.	false
+unit_description_short_texts_text_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
 names_name_7410711831	Oda	false
 names_name_7410711830	Winterclaw	false
 land_units_onscreen_name_hkrul_oda	Oda Winterclaw	true

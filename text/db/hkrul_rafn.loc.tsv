@@ -8,7 +8,7 @@ character_skill_node_sets_enc_title_skill_node_set_hkrul_rafn	Rafn Oflatisson	fa
 agent_subtypes_description_text_override_hkrul_rafn	Legendary Hero	false
 agent_subtypes_onscreen_name_override_hkrul_rafn	Legendary Hero	false
 land_units_onscreen_name_hkrul_rafn	Rafn Oflatisson	false
-unit_description_short_texts_text_hkrul_rafn	Rafn, the son of Oflati, wields his axe the size of a stump as if it was a mere twig. His power a testiment of Baersonling strength.	false
+unit_description_short_texts_text_hkrul_rafn	Rafn, the son of Oflati, wields his axe the size of a stump as if it was a mere twig. His power a testament of Baersonling strength.	false
 unit_description_historical_texts_text_hkrul_rafn		false
 character_skills_localised_name_hkrul_rafn_special_1_0	Baersonling's Token	false
 character_skills_localised_name_hkrul_rafn_special_1_1	Asta's Recipes	false
@@ -18,7 +18,7 @@ character_skills_localised_name_hkrul_rafn_special_1_4	Clawed Pauldron	false
 character_skills_localised_name_hkrul_rafn_special_1_5	Ironfist Gauntlet	false
 character_skills_localised_description_hkrul_rafn_special_1_0	The fiercest of Baersonling warriors are chosen to bear unique tokens crafted from a mixture of rock and steel.	false
 character_skills_localised_description_hkrul_rafn_special_1_1	Rafn's obsession with the tribeswoman Asta has both to do with her looks and the way she prepares large portions of meat.	false
-character_skills_localised_description_hkrul_rafn_special_1_2	Jarl Oflati was one of the strongest warriors produced by the Village Vinnskor, his axe a testiment of his legacy.	false
+character_skills_localised_description_hkrul_rafn_special_1_2	Jarl Oflati was one of the strongest warriors produced by the Village Vinnskor, his axe a testament of his legacy.	false
 character_skills_localised_description_hkrul_rafn_special_1_3	Rafn's Belt alone weighs more than the average empiric male, yet to him it is nothing but extra support and armour.	false
 character_skills_localised_description_hkrul_rafn_special_1_4	Pauldrons the size of the average head protect Rafn's strong and humongous shoulders.	false
 character_skills_localised_description_hkrul_rafn_special_1_5	Not as strong as the Steelfist, yet Rafn's name as the Ironfist has marked his name among Baersonling lore.	false
