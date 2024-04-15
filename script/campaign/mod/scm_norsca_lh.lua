@@ -185,6 +185,9 @@ cm:add_first_tick_callback(
                     if followers_katarin >= 600 or followers_kostaltyn >= 600 then
                         cm:complete_scripted_mission_objective("wh_main_nor_bjornling", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true)
                     end
+                    if faction_katarin:is_dead() or faction_kostaltyn:is_dead() then
+                        cm:complete_scripted_mission_objective("wh_main_nor_bjornling", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true) --failsafe condition
+                    end
                 end,
                 true
             );
