@@ -50,10 +50,10 @@ unit_abilities_onscreen_name_hkrul_birna_flock	Call of Crows	true
 effects_description_hkrul_birna_ws_hunt_dummy	Range: %+n% for each completed Monster Hunt	true
 effects_description_hkrul_birna_flock	Ability: "Call of Crows"	true
 ancillary_sets_name_hkrul_birna_set	Mutant Champion of the Kalti Delta	false
-ancillary_sets_description_hkrul_birna_set	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - they're ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
+ancillary_sets_description_hkrul_birna_set	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - their ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
 effect_bundles_localised_description_rhox_birna_ws_hunt	Birna's harnasses more power with each succesful Monster Hunt	false
 effect_bundles_localised_title_rhox_birna_ws_hunt	Mutant Huntress	false
-effect_bundles_localised_description_hkrul_birna_faction_trait	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - they're ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
+effect_bundles_localised_description_hkrul_birna_faction_trait	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - their ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
 effect_bundles_localised_title_hkrul_birna_faction_trait	Mutants of the Sarl	false
 effects_description_rhox_birna_hunting_bonus	The Mutant Huntress: Chance to retrigger completed monster hunts upon Birna's victories over specific cultures: %+n%	false
 effects_description_rhox_birna_wood_bonus_dummy	Timber resource buildings provide additional global bonuses	false

@@ -1,13 +1,6 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/ab_wolftribe					
 			wh_dlc08_nor_mon_warwolves_0	ice_wolves	false
-			wolftribe_nor_inf_wolfguard_honorguard	all_non_chs	true
-			wolftribe_nor_inf_wolfguard_honorguard	dlc08_nor_marauders_all	false
-			wolftribe_nor_inf_wolfguard_honorguard	dlc08_nor_marauders_champions	false
-			wolftribe_nor_inf_wolfguard_honorguard	dlc08_nor_marauders_inf	false
-			wolftribe_nor_inf_wolfguard_honorguard	nor_all	false
-			wolftribe_nor_inf_wolfguard_honorguard	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
-			wolftribe_nor_inf_wolfguard_honorguard	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
 			wolftribe_nor_inf_wolf_champions_ror_0	all_non_chs	true
 			wolftribe_nor_inf_wolf_champions_ror_0	dlc08_nor_marauders_all	false
 			wolftribe_nor_inf_wolf_champions_ror_0	dlc08_nor_marauders_champions	false
