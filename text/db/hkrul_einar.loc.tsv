@@ -20,20 +20,20 @@ character_skills_localised_description_hkrul_einar_special_1_4	Einarr's Glacial 
 character_skills_localised_name_hkrul_einar_special_1_4	Baersonling Might	true
 agent_subtypes_onscreen_name_override_hkrul_einar	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_einar		false
-effects_description_hkrul_einar_sword	Ability: "Fangwyrm''	true
+effects_description_hkrul_einar_sword	Ability: "Alfwyrm''	true
 effects_description_hkrul_einar_lord_devote	Marauder Chieftains may devote themselves to Tzeentch, becoming powerful Chaos Lords of Tzeentch	true
 effects_description_hkrul_einar_devote	Dedicated to Tzeentch: May only devote himself to Tzeentch	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_einar	Champion No-More	true
 character_trait_levels_colour_text_hkrul_defeated_trait_einar	You should have known antagonists never end up well..	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_einar	Defeated Einarr Sigdansson	true
 ancillaries_colour_text_hkrul_einar_sword	Wielding the honor-laden title of Jarl of Vinnskor and standing proudly among the Baersonlings, Tulkir bears the weight of three decades of relentless battle on his broad shoulders. At his side, a once-magnificent blade known as Fangwyrm, now halved in valor, narrates tales of the Jarl's unyielding resilience. This magnificent weapon, snapped to less than half its former glory in the clash against the bloodbeast of the Aeslings, found renewed purpose as Einarr Sigdansson, a mighty Champion among the Baersonlings, reforged it. Despite its fracture, Fangwyrm remains a symbol of Tulkir's enduring strength and the sacrifices made in the relentless pursuit of honor and victory.	true
-ancillaries_onscreen_name_hkrul_einar_sword	Fangwyrm	true
+ancillaries_onscreen_name_hkrul_einar_sword	Alfwyrm	true
 land_units_onscreen_name_hkrul_einar	Einarr Sigdansson	true
 names_name_5670700355	Sigdansson	false
 names_name_5670700356	Einarr	false
 unit_description_short_texts_text_hkrul_einar	A fierce Baersonling of the fallen village of Vinnskor and a mighty Champion of Tzeentch, Einarr Steelfist was marked by the Raven God when he slew a mighty Bloodbeast.	false
 unit_abilities_tooltip_text_hkrul_einar_sword	Blessed by Tzeentch, Fangwyrm is a mighty blade once wielded by Jarl Tulkir. It feeds on nearby magic and radiates immense power.	true
-unit_abilities_onscreen_name_hkrul_einar_sword	Fangwyrm	true
+unit_abilities_onscreen_name_hkrul_einar_sword	Alfwyrm	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_einar		false
 ancillaries_colour_text_hkrul_lokjar_amulet	The amulet has the spirit of a Snow Troll bound within it. Those who wear it are said to begin taking on the traits of the Troll themselves.	true
 ancillaries_onscreen_name_hkrul_lokjar_amulet	Snow Troll Amulet	true

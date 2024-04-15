@@ -71,16 +71,16 @@ effects_description_rhox_varg_chaos_spawn_chance	Chance of replenishing Chaos Sp
 effects_description_effect_bundle_varg_spawn	Mutations: The mutative Vargs have a chance to replenish Chaos Spawn units upon achieving victory in a region with high chaos corruption.	false
 effects_description_hkrul_surtha_ek_chariot	Mount: Bloodspiller	false
 effects_description_hkrul_norsca_effect_glorious_charge	Attribute: Glorious Charge	true
-land_units_onscreen_name_wh_mod_nor_veh_mammoth_siege_tower_0	Mammoth Siege Tower	true
-unit_description_short_texts_text_wh_mod_short_text_nor_veh_mammoth_siege_tower_0	Mammoths, Dwarfs, and warmachine in one - what madness is this?!	false
+land_units_onscreen_name_wh_mod_nor_veh_mammoth_siege_tower_0	Surtha's Revenge	true
+unit_description_short_texts_text_wh_mod_short_text_nor_veh_mammoth_siege_tower_0	Tainted Norse Dwarfs on a Norscan siege tower towed by two Mammoths who are steered by a Chariot. A contraption only Ek could possibly design.	false
 unit_abilities_tooltip_text_wh_mod_unit_passive_death_shockwave	This vehicle explodes upon destruction, doing damage to entities around it.	false
 unit_abilities_onscreen_name_wh_mod_unit_passive_death_shockwave	Deadly Demise	false
 land_units_onscreen_name_wh_mod_nor_veh_war_wagon_0	Marauder War Wagons	true
-unit_description_short_texts_text_wh_mod_short_text_nor_veh_war_wagon_0	Reinforced wooden wagons containing deadly cargos in the form of ornery javelin armed Marauders.	false
+unit_description_short_texts_text_wh_mod_short_text_nor_veh_war_wagon_0	Reinforced wooden wagons containing hauled treasure, guarded in the form of ornery javelin armed Marauders.	false
 land_units_onscreen_name_wh_mod_nor_dwf_inf_sappers	Dwarf Sappers	true
 unit_description_short_texts_text_wh_mod_short_text_nor_dwf_inf_sappers_0	Sappers are valued for their expertise in siegecraft, and these from disillusioned Norse Dwarf clans are no different.	false
 campaign_localised_strings_string_wh_mod_nor_veh_mammoth_siege_tower_0_lock	[[col:red]]This Regiment of Renown will unlock only if after completing your journey in Khemri[[/col]]	false
-missions_localised_title_rhox_fc_norsca_surtha_ror	Dwarfs	false
-missions_localised_description_rhox_fc_norsca_surtha_ror	Why?	false
-effects_description_rhox_surtha_ek_ror_dummy	Quest for special RoR will be triggered	false
-campaign_payload_ui_details_description_rhox_fc_norsca_surtha_ek_ror_dummy	Special RoR will be unlocked	false
+missions_localised_title_rhox_fc_norsca_surtha_ror	The Tainted Dwarfs	false
+missions_localised_description_rhox_fc_norsca_surtha_ror	Not Surthara Bel-Kec, nor Settra the Imperishable may call themselves the Everchariot. This title rightfully belongs to none other than Surtha Ek. As a testament of his new title Surtha aims to construct the ultimate chariot. One that is beyond the comprehension of mere mortals. All that is required is the technology used by the Dwarf kin, technology he must claim with a violent fist.	false
+effects_description_rhox_surtha_ek_ror_dummy	A quest to unlock a unique unit ''Surtha's Revenge'' will be unlocked	false
+campaign_payload_ui_details_description_rhox_fc_norsca_surtha_ek_ror_dummy	Unique Regiment of Renown will be unlocked	false
