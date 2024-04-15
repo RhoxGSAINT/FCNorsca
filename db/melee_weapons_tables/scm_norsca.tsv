@@ -40,3 +40,4 @@ hkrul_hildr	0	0	150	350	2.0000	axe	axe_2h	large	1	1.0000	1.2500	0.0000	false		0	
 wh_mod_nor_dwf_pickaxe	0	0	10	23	1.0000	axe	hammer_dwarf		1	1.0000	2.0000	0.0000	false		0	10	4.3000		false
 wh_mod_nor_siege_tower_melee	34	0	155	370	10.0000	axe	claw	large	10	1.0000	1.2500	0.0000	false		4	2	3.5000		false
 wh_mod_nor_war_wagon_melee	0	0	21	7	3.0000	spear	unarmed	medium	4	1.0000	1.1600	0.0000	false		3	2	4.0000		false
+hkrul_norsca_ymir	0	0	85	205	6.0000	axe	claw	medium	6	1.1000	1.2500	0.0000	false		0	10	2.9000		false
