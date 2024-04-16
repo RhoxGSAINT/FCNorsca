@@ -40,4 +40,4 @@ rhox_fc_norsca_chaos_iceberg	wh_main_effect_force_all_campaign_movement_range		p
 rhox_fc_norsca_corrupted_khemri	rhox_surtha_ek_ror_dummy	IsVarg	building_to_building_own	1.0000	1.0000	0.0000
 rhox_fc_norsca_corrupted_khemri	hkrul_surtha_chariots_speed		faction_to_force_own	25.0000	12.0000	0.0000
 rhox_fc_norsca_corrupted_khemri	hkrul_surtha_chariots_upkeep		faction_to_force_own	-35.0000	-17.0000	0.0000
-rhox_fc_norsca_corrupted_khemri			faction_to_force_own	35.0000	17.0000	0.0000
+rhox_fc_norsca_corrupted_khemri	wh3_main_effect_force_stat_unit_mass_percentage_mod		faction_to_force_own	5.0000	2.0000	0.0000

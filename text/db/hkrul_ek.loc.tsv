@@ -53,7 +53,6 @@ effects_description_hkrul_surtha_chariots_charge	Charge bonus: %+n for Chariot u
 effects_description_hkrul_surtha_chariots_fear	Attribute: Causes Fear for Chariot units	false
 effects_description_hkrul_surtha_chariots_glorious	Attribute: Glorious Charge for Chariot units	false
 effects_description_hkrul_surtha_chariots_upkeep	Upkeep: %+n% for Chariot units	false
-effects_description_hkrul_surtha_chariots_mass	Unit Mass: %+n% for Chariot units	false
 unit_abilities_tooltip_text_hkrul_surtha_ek_speed_up	As Surtha takes the helm that which pulls his chariot devolves in a frenzy of mindless speed and ferociousness.	true
 unit_abilities_onscreen_name_hkrul_surtha_ek_speed_up	Chaotic Charge	true
 effects_description_hkrul_wolf_bite	Ability: "Savage Bite''	false

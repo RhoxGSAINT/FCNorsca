@@ -1,3 +1,0 @@
-faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
-#units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/scm_norsca_temp_elite										
-wh_dlc08_nor_norsca	false	wh_mod_nor_veh_war_wagon_0	true	true				true		false
