@@ -1,0 +1,117 @@
+{
+  "ProjectSettings": {
+    "Version": 1,
+    "OutputGame": "Warhammer3",
+    "BnkName": "battle_individual_magic__scm_norsca",
+    "Language": "english(uk)"
+  },
+  "Events": [
+    {
+      "Actions": [
+        "IND_Magic_HKrul_Zar_Uzelek_Drum_action_4"
+      ],
+      "Name": "IND_Magic_HKrul_Zar_Uzelek_Drum",
+      "OverrideId": 0
+    },
+    {
+      "Actions": [
+        "IND_Magic_HKrul_Oerl_Horn_Blow_action"
+      ],
+      "Name": "IND_Magic_HKrul_Oerl_Horn_Blow",
+      "OverrideId": 0
+    }
+  ],
+  "Actions": [
+    {
+      "ChildId": "86892193_random_container_50184363",
+      "Type": "Play",
+      "Name": "IND_Magic_HKrul_Zar_Uzelek_Drum_action_4",
+      "OverrideId": 0
+    },
+    {
+      "ChildId": "IND_Magic_HKrul_Oerl_Horn_Blow_sound",
+      "Type": "Play",
+      "Name": "IND_Magic_HKrul_Oerl_Horn_Blow_action",
+      "OverrideId": 0
+    }
+  ],
+  "GameSounds": [
+    {
+      "Path": "D:\\HKrul_Zar_Uzelek_Drum_Low.wav",
+      "DirectParentId": "86892193_random_container_50184363",
+      "IsDialogueEventSound": false,
+      "DialogueEvent": null,
+      "Name": "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_1",
+      "OverrideId": 0
+    },
+    {
+      "Path": "D:\\HKrul_Zar_Uzelek_Drum_Low.wav",
+      "DirectParentId": "86892193_random_container_50184363",
+      "IsDialogueEventSound": false,
+      "DialogueEvent": null,
+      "Name": "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_2",
+      "OverrideId": 0
+    },
+    {
+      "Path": "D:\\HKrul_Zar_Uzelek_Drum_High.wav",
+      "DirectParentId": "86892193_random_container_50184363",
+      "IsDialogueEventSound": false,
+      "DialogueEvent": null,
+      "Name": "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_3",
+      "OverrideId": 0
+    },
+    {
+      "Path": "D:\\HKrul_Zar_Uzelek_Drum_High.wav",
+      "DirectParentId": "86892193_random_container_50184363",
+      "IsDialogueEventSound": false,
+      "DialogueEvent": null,
+      "Name": "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_4",
+      "OverrideId": 0
+    },
+    {
+      "Path": "D:\\HKrul_Oerl_Horn_Blow.wav",
+      "DirectParentId": "37418611_mixer_63059555",
+      "IsDialogueEventSound": false,
+      "DialogueEvent": null,
+      "Name": "IND_Magic_HKrul_Oerl_Horn_Blow_sound",
+      "OverrideId": 0
+    }
+  ],
+  "ActorMixers": [
+    {
+      "DirectParentId": 140075115,
+      "Children": [
+        "86892193_random_container_50184363"
+      ],
+      "ActorMixerChildren": [],
+      "DialogueEvent": null,
+      "Name": "92983477_mixer_33339828",
+      "OverrideId": 0
+    },
+    {
+      "DirectParentId": 140075115,
+      "Children": [
+        "IND_Magic_HKrul_Oerl_Horn_Blow_sound"
+      ],
+      "ActorMixerChildren": [],
+      "DialogueEvent": null,
+      "Name": "37418611_mixer_63059555",
+      "OverrideId": 0
+    }
+  ],
+  "RandomContainers": [
+    {
+      "Children": [
+        "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_1",
+        "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_2",
+        "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_3",
+        "IND_Magic_HKrul_Zar_Uzelek_Drum_sound_4"
+      ],
+      "DirectParentId": "92983477_mixer_33339828",
+      "Name": "86892193_random_container_50184363",
+      "OverrideId": 0
+    }
+  ],
+  "DialogueEvents": [],
+  "DatStates": []
+}

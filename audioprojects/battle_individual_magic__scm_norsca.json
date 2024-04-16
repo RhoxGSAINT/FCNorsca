@@ -1,0 +1,27 @@
+{
+    "Settings": {
+      "BnkName": "battle_individual_magic__scm_norsca",
+      "Language": "english(uk)"
+    },
+  
+    "Events": [
+        {
+            "Event": "IND_Magic_HKrul_Zar_Uzelek_Drum",
+            "Mixer": "Ind Magic",
+            "Sounds": [
+                "D:\\HKrul_Zar_Uzelek_Drum_Low.wav",
+                "D:\\HKrul_Zar_Uzelek_Drum_Low.wav",
+                "D:\\HKrul_Zar_Uzelek_Drum_High.wav",
+                "D:\\HKrul_Zar_Uzelek_Drum_High.wav"
+            ]
+        },
+        {
+            "Event": "IND_Magic_HKrul_Oerl_Horn_Blow",
+            "Mixer": "Ind Magic",
+            "Sounds": [
+                "D:\\HKrul_Oerl_Horn_Blow.wav"
+            ]
+        }
+    ]
+}
+
