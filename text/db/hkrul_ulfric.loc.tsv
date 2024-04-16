@@ -220,6 +220,8 @@ culture_settlement_occupation_options_tooltip_957887882	Raze||All buildings are 
 mission_text_text_rhox_fc_norsca_hildr	See the end of Kislev supporter race by supporting either side	false
 effect_bundles_localised_description_rhox_bjornling_bundle_ksl_followers_5	You have loyalists in all places of influence and power – the devotion of Kislev's people is yours.	false
 effect_bundles_localised_title_rhox_bjornling_bundle_ksl_followers_5	Loyalist Supremacy (600)	false
-land_units_onscreen_name_hkrul_norsca_ymir	Ymir	false
+land_units_onscreen_name_hkrul_norsca_ymir	Feral Ymir	false
 unit_description_short_texts_text_hkrul_norsca_ymir	Feral and cunning hunters who prey exclusively on Humans. Unlike the Beastmen, Ymir are generally solitary creatures.	false
 unit_description_historical_texts_text_hkrul_norsca_ymir	The Ymir, also called Jeti, depending on the dialect of the Norse tribe, are great, white-furred behemoths who feature often in the tales of Norsca. For the Norscans, these monsters fulfill an important role in the passage all men must undertake if they hope to be recognised as warriors in their tribe. These young hopefuls brave the swirling snow and freezing winds to track down and face these beasts in combat. If they return with its head, they are accorded a special place in their tribe -- those who don't, don't return at all.	false
+unit_abilities_onscreen_name_hkrul_ulfric_ymir	Snowbound Stalker	false
+unit_abilities_tooltip_text_hkrul_ulfric_ymir	Ymir prey exclusively on humans, their white fur and pitch black eyes allows them to stay come close to their victims before their deadly pounce.	false

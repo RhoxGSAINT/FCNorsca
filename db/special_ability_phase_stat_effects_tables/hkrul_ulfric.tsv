@@ -19,3 +19,5 @@ hkrul_ulfric_pas_shield	stat_mass	1.3500	mult
 hkrul_hildr_axe_ally	stat_melee_damage_base	1.2500	mult
 hkrul_hildr_axe_ally	stat_resistance_physical	1.1500	mult
 hkrul_hildr_axe_enemy	stat_melee_defence	-8.0000	add
+hkrul_ulfric_ymir	stat_morale	-5.0000	add
+hkrul_ulfric_ymir	scalar_speed	0.8500	mult

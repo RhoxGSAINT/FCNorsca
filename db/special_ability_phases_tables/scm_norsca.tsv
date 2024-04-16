@@ -86,3 +86,4 @@ hkrul_hildr_hunt	30.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000
 hkrul_hildr_brew	15.0000	positive		false	false	false	0.0000	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0		wh2_dlc10_item_abilities_star_of_avelorn		false	true	true	0.0000			false	0.0080	0.0000	false	0.0000
 hkrul_hildr_axe_ally	-1.0000	positive		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_hildr_axe_enemy	-1.0000	negative		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_debuff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_ulfric_ymir	-1.0000	negative		false	false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_debuff_defence_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
