@@ -113,11 +113,8 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_skeggi_dodvakt	wh2_main_ror_units_all	false
 			rhox_skeggi_dodvakt	wh_dlc08_all_mammoths_skin_wolves_ice_wolves_hounds	false
 			hkrul_skeggi_giant_ror	all_non_chs	true
-			hkrul_skeggi_giant_ror	dlc08_nor_frost_wyrm	false
-			hkrul_skeggi_giant_ror	mp_cap_group_flying_unit	false
 			hkrul_skeggi_giant_ror	mp_cap_group_rare_single_entities	false
 			hkrul_skeggi_giant_ror	nor_all	false
-			hkrul_skeggi_giant_ror	wh2_dlc11_nor_manticore_frost_wyrm	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir_ror	false
 			hkrul_skeggi_giant_ror	wh2_main_ror_units_all	false
 			hkrul_skeggi_giant_ror	dlc08_nor_giants	false
