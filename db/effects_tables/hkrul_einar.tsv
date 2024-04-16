@@ -8,3 +8,6 @@ hkrul_einar_fury	item_ability.png	300	item_ability.png	battle	true
 hkrul_einar_bear	mount.png	50	mount.png	both	true
 rhox_fc_norsca_asta_dummy	agent.png	300	agent.png	battle	true
 rhox_baesonling_block_teleport_hidden		0		campaign	false
+rhox_einar_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
+rhox_einar_elite_weapon_strength	weapon_damage.png	461	weapon_damage.png	battle	true
+rhox_einar_elite_morale	morale.png	79	morale.png	battle	true

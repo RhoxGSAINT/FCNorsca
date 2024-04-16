@@ -49,3 +49,5 @@ hkrul_asta_food	general_ability.png	707	general_ability.png	battle	true
 hkrul_asta_food_passive	general_ability.png	707	general_ability.png	battle	true
 wolftribe_ability_enable_mimic_murderous_prowess	general_ability.png	605	general_ability.png	battle	true
 hkrul_grail_blood_frenzy	item_ability.png	23	item_ability.png	battle	true
+rhox_wolf_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
+rhox_wolf_elite_melee_defence	defence.png	124	defence.png	battle	true

@@ -1,6 +1,6 @@
 <VARIANT_MESH>
 	<SLOT name="body" >
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/character/ymir/ymir2.wsmodel" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/character/ymir/ymir.wsmodel" >
 			<META_DATA>audio_entity_type:wh3_ogr_gorger</META_DATA>			<META_DATA>audio_melee_weapon_type:unarmed</META_DATA></VARIANT_MESH>
 	</SLOT>
 	<SLOT name="weapon_1" attach_point="be_prop_0" />

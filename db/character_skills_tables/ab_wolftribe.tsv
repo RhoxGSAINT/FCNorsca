@@ -18,3 +18,4 @@ scm_norsca_huern_anci_armor_pelt	item_armour.png			10	false	false	false	0.0000	0
 scm_norsca_huern_thralls_lament	item_talisman.png			2	false	false	false	0.0000	0
 scm_norsca_huern_chieftains_horn	item_enchanted_item.png			2	false	false	false	0.0000	0
 hkrul_huern_special_0_1	hkrul_huern_special_0_1.png	Skin Wolves in Huern's service enjoy speed and skill beyond even their preternatural capabilities.	Fervent Creatures	0	false	false	false	0.0000	0
+rhox_wolf_elite	trait_innate_hkrul_huern.png			0	false	false	false	0.0000	0

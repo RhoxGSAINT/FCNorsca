@@ -39,3 +39,6 @@ rhox_sayl_chaos_sapwn_feature_dummy	belakor_daemon_prince.png	1	belakor_daemon_p
 hkrul_lokjar_cry	item_ability.png	23	item_ability.png	battle	true
 hkrul_lokjar_gorger	item_ability.png	23	item_ability.png	battle	true
 hkrul_lokjar_skull	item_ability.png	300	item_ability.png	battle	true
+rhox_sayl_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
+rhox_sayl_elite_speed	battle_movement.png	421	battle_movement.png	battle	true
+rhox_sayl_elite_weapon_strength	weapon_damage.png	461	weapon_damage.png	battle	true

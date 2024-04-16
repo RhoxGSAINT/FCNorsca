@@ -11,3 +11,6 @@ rhox_akkorak_knight_feature_dummy	merc_replen.png	1	merc_replen.png	campaign	tru
 rhox_akkorak_horse_resource	mount.png	1	mount.png	campaign	true
 hkrul_akkorak_skinwolves_armour	armour.png	300	armour.png	battle	true
 hkrul_akkorak_skinwolves_mis_res	resistance_missile.png	300	resistance_missile.png	battle	true
+rhox_akkorak_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
+rhox_akkorak_elite_speed	battle_movement.png	421	battle_movement.png	battle	true
+rhox_akkorak_elite_weapon_strength	weapon_damage.png	461	weapon_damage.png	battle	true

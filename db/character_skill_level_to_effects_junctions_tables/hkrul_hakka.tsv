@@ -24,3 +24,5 @@ hkrul_hakka_special_1_0	hkrul_hakka_berserker_speed	2	general_to_force_own	15.00
 hkrul_hakka_special_1_0	hkrul_hakka_berserker_speed	3	general_to_force_own	20.0000
 hkrul_hakka_chariot	wh3_dlc20_effect_enable_mount_chaos_chariot_dummy	1	character_to_character_own	1.0000
 hkrul_hakka_juggernaut	wh3_main_effect_enable_mount_juggernaut	1	character_to_character_own	1.0000
+rhox_hakka_elite	rhox_hakka_elite_upkeep	1	general_to_force_own	-50.0000
+rhox_hakka_elite	rhox_hakka_elite_charge	1	general_to_force_own	15.0000

@@ -124,7 +124,7 @@ local rhox_faction_list={
     wh_main_nor_baersonling ={
         leader={
             subtype="hkrul_einar",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_dlc24_tze_mon_cockatrice,wh3_main_monster_feral_ice_bears",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_dlc24_tze_mon_cockatrice,wh3_main_monster_feral_ice_bears,hkrul_norsca_ymir_ror",
             forename ="names_name_5670700356",
             familiyname ="names_name_5670700355",
         },	
@@ -144,7 +144,7 @@ local rhox_faction_list={
     wh_main_nor_bjornling ={
         leader={
             subtype="hkrul_ulfric",
-            unit_list="wh_dlc08_nor_inf_marauder_spearman_0,wh_dlc08_nor_inf_marauder_spearman_0,rhox_bjornling_huscarl_ror,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_inf_marauder_champions_0",
+             unit_list="wh_dlc08_nor_inf_marauder_spearman_0,rhox_bjornling_maneater,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_inf_chaos_marauders_1,rhox_bjornling_huscarl_ror,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_inf_marauder_champions_0",
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	

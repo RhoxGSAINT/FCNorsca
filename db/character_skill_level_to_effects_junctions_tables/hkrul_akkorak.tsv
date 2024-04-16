@@ -19,3 +19,6 @@ hkrul_akkorak_special_1_5	wh_main_effect_attribute_enable_causes_terror	1	charac
 innate_hkrul_akkorak	hkrul_enable_immortality	1	character_to_character_own	1.0000
 innate_hkrul_akkorak	hkrul_akkorak_horse	1	character_to_force_own_unseen	1.0000
 innate_hkrul_akkorak	hkrul_akkorak_horse_xp	1	general_to_force_own	3.0000
+rhox_akkorak_elite	rhox_akkorak_elite_upkeep	1	general_to_force_own	-30.0000
+rhox_akkorak_elite	rhox_akkorak_elite_speed	1	general_to_force_own	15.0000
+rhox_akkorak_elite	rhox_akkorak_elite_weapon_strength	1	general_to_force_own	20.0000

@@ -51,3 +51,4 @@ skill_node_set_hkrul_sarg	hkrul_skill_node_sarg_self_3_3	false
 skill_node_set_hkrul_sarg	hkrul_sarg_horse	false
 skill_node_set_hkrul_sarg	hkrul_sarg_chariot	false
 skill_node_set_hkrul_sarg	hkrul_sarg_exalted_seeker_chariot	false
+skill_node_set_hkrul_sarg	rhox_sarg_elite	false

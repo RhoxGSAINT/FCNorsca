@@ -31,6 +31,11 @@ local rhox_fc_norsca_unlockable_ror_list={
         init_faction="wh_main_nor_sarl",
         agent_subtype="hkrul_birna",
     },
+    hkrul_norsca_ymir_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh_main_nor_baersonling",
+        agent_subtype="hkrul_einar",
+    },
 }
 
 

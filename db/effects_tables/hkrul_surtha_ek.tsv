@@ -17,3 +17,4 @@ hkrul_hrothgar_god	item_ability.png	300	item_ability.png	battle	true
 hkrul_surtha_ek_speed_up	item_ability.png	300	item_ability.png	battle	true
 hkrul_norsca_effect_glorious_charge	hkrul_attribute_glorious.png	320	hkrul_attribute_glorious.png	both	true
 rhox_surtha_ek_ror_dummy	unit_capacity.png	1	unit_capacity.png	campaign	true
+hkrul_surtha_chariots_mass	mass.png	300	mass.png	battle	true

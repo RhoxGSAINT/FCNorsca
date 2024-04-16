@@ -11,3 +11,5 @@ hkrul_kolsvein_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_rafn_axe	item_ability.png	300	item_ability.png	battle	true
 rhox_aesling_colonise_feature_dummy	settlement.png	200	settlement.png	campaign	true
 rhox_fc_norsca_bloodfather_dummy	agent.png	300	agent.png	battle	true
+rhox_hakka_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
+rhox_hakka_elite_charge	charge.png	120	charge.png	battle	true

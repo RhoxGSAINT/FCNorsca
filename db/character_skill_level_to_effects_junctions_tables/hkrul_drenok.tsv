@@ -19,3 +19,5 @@ innate_hkrul_drenok	hkrul_drenok_wolf	1	character_to_character_own	1.0000
 innate_hkrul_drenok	hkrul_drenok_ice_attack	1	general_to_force_own	10.0000
 hkrul_drenok_chariot	wh_dlc08_effect_enable_mount_chaos_chariot	1	character_to_character_own	1.0000
 hkrul_drenok_bear	hkrul_drenok_bear	1	character_to_character_own	1.0000
+rhox_drenok_elite	rhox_drenok_elite_upkeep	1	general_to_force_own	-30.0000
+rhox_drenok_elite	rhox_drenok_elite_attack	1	general_to_force_own	20.0000

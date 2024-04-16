@@ -101,3 +101,13 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_wolftribe_marauder	nor_all	false
 			rhox_wolftribe_marauder	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			rhox_wolftribe_marauder	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions	false
+			rhox_graeling_champion	rhox_graeling_champion	false
+			rhox_baersonling_champion	rhox_baersonling_champion	false
+			rhox_kurgan_champion	rhox_kurgan	false
+			rhox_kurgan_spearman	rhox_kurgan	false
+			rhox_kurgan_javelin	rhox_kurgan	false
+			rhox_aesling_berserker	rhox_aesling_berserker	false
+			rhox_skeggi_champion	rhox_skeggi_champion	false
+			rhox_yusak_devoted_marauders	rhox_yusak_devoted_marauders	false
+			rhox_drenok_marauder	rhox_drenok_marauder	false
+			rhox_wolftribe_marauder	rhox_wolftribe_marauder	false
