@@ -4,7 +4,7 @@ hunting_camp_main			military	false	hunting_camp_main	UI\Buildings\tier_icons\tie
 hunting_camp_beast_packs			military	false	hunting_camp_barracks		1		true
 hunting_camp_shrine			military	false	hunting_camp_shrine		2		true
 hunting_camp_defence			military	false	hunting_camp_defence		3		true
-hunting_camp_hunting_parties			money	false	hunting_camp_support		4		true
-hunting_camp_thrill			money	false	hunting_camp_support		5		true
+hunting_camp_hunting_parties			money	false	hunting_camp_hunting_parties		4		true
+hunting_camp_thrill			money	false	hunting_camp_thrill		5		true
 wolftribe_greathall			money	false	wolftribe_greathall		0		true
 wolftribe_humbled_hall			money	false	wolftribe_humbled_hall		0		true
