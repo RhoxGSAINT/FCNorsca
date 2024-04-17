@@ -101,10 +101,6 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 
 
 
-
-
-
-
 local function rhox_fc_norsca_recalculate_confederation_bonus(character)
 	local faction = character:faction()
 	local faction_key = faction:name()
@@ -159,7 +155,7 @@ core:add_listener(
     end,
     function(context)
         local character = context:character()    
-        
+        local faction = character:faction()
         rhox_fc_norsca_recalculate_confederation_bonus(character)
         
     end,

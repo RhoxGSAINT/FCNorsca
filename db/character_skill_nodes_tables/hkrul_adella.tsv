@@ -52,4 +52,4 @@ hkrul_skill_node_adella_magic1_12		wh_main_skill_all_magic_all_11_arcane_conduit
 hkrul_skill_node_adella_innate		innate_hkrul_adella		6	0		1	0	false
 hkrul_skill_node_adella_unique_07		hkrul_adella_special_0_2		0	7		0	0	true
 hkrul_skill_node_adella_unique_08		hkrul_adella_special_0_3		0	8		0	0	true
-rhox_adella_elite		rhox_adella_elite	wh_dlc08_nor_norsca	0	9		0	0	true
+rhox_adella_elite		rhox_adella_elite	wh_dlc08_nor_norsca	0	9		1	0	true

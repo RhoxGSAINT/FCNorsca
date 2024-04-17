@@ -52,4 +52,4 @@ scm_norsca_huern_unique_08		scm_norsca_huern_unique_06		1	6		0	1	true
 scm_norsca_huern_anci_armor_pelt		scm_norsca_huern_anci_armor_pelt		7	0		0	0	false
 scm_norsca_huern_thralls_lament		scm_norsca_huern_thralls_lament		7	1		0	0	false
 scm_norsca_huern_chieftains_horn		scm_norsca_huern_chieftains_horn		7	2		0	0	false
-rhox_wolf_elite		rhox_wolf_elite	wh_dlc08_nor_norsca	0	8		0	0	true
+rhox_wolf_elite		rhox_wolf_elite	wh_dlc08_nor_norsca	0	8		1	0	true
