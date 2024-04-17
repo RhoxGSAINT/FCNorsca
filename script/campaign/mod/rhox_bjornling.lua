@@ -41,6 +41,7 @@ core:add_listener(
 
         local dilemma_builder = cm:create_dilemma_builder("rhox_bjornling_fish_sale");
 		local payload_builder = cm:create_payload();
+		payload_builder:faction_pooled_resource_transaction("wh3_main_ksl_followers", "events", 10, false)
         payload_builder:treasury_adjustment(1200+cm:random_number(600,0));
         dilemma_builder:add_choice_payload("FIRST", payload_builder);
         payload_builder:clear();
