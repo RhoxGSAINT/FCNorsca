@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes/wh_variantmodels/hq1/chs_stegadon/lzd_stegadon/chs_stegadon_01.wsmodel" >
+			<META_DATA>audio_armour_type:body</META_DATA>			<META_DATA>audio_entity_type:wh2_stegadon</META_DATA>			<META_DATA>audio_melee_weapon_type:unarmed</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="platform" />
+	<SLOT name="bolt" attach_point="be_prop_0" />
+</VARIANT_MESH>
