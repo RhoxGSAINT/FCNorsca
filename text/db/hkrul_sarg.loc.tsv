@@ -118,3 +118,4 @@ unit_abilities_onscreen_name_hkrul_sarg_riders	Riders of Profusion	true
 effects_description_hkrul_sarg_marauder	Ability: "Sargath's Finest'' for Slaanesh units	true
 unit_abilities_tooltip_text_hkrul_sarg_marauder	Even though he is mere a Kurgan, Sargath revels in excess like any Slaaneshi Daemon Prince, a feat that draws many spawns of the God of Excellence.	true
 unit_abilities_onscreen_name_hkrul_sarg_marauder	Sargath's Finest	true
+effects_description_rhox_sarg_monster_direct_dummy	Master Temptator: Sargath may directly face monsters within the arcanum	false

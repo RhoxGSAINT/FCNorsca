@@ -162,10 +162,12 @@ local rhox_faction_list={
 		    
 		    if faction:is_human() then
                 local target_region = cm:get_region("wh3_main_combi_region_skeggi")
-                cm:instantly_set_settlement_primary_slot_level(target_region:settlement(), 1)
-                --local target_slot = target_region:slot_list():item_at(1)
-                --cm:instantly_upgrade_building_in_region(target_slot, "wh_main_nor_garrison_2")
-                cm:heal_garrison(target_region:cqi())
+                --cm:instantly_set_settlement_primary_slot_level(target_region:settlement(), 1)
+                local target_slot = target_region:slot_list():item_at(2)
+                cm:instantly_upgrade_building_in_region(target_slot, "rhox_adella_dae_temple_tze_1")
+                local target_slot2 = target_region:slot_list():item_at(3)
+                cm:instantly_dismantle_building_in_region(target_slot2)
+                --cm:heal_garrison(target_region:cqi())
                 
                 target_region = cm:get_region("wh3_main_combi_region_ziggurat_of_dawn")
                 cm:transfer_region_to_faction("wh3_main_combi_region_ziggurat_of_dawn","wh2_main_def_ssildra_tor")
