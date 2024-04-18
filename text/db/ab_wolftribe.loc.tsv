@@ -521,3 +521,6 @@ character_skills_localised_description_rhox_alfkael_warshrine	A vast, mobile alt
 character_skills_localised_name_rhox_alfkael_warshrine	Chaos Warshrine	false
 units_custom_battle_mounts_localised_description_scm_norsca_alfkaelrhox_alfkael_warshrine	A vast, mobile altar allows the souls of the slain to be ritualistically condemned directly from the field of slaughter.	false
 units_custom_battle_mounts_mount_name_scm_norsca_alfkaelrhox_alfkael_warshrine	Chaos Warshrine	false
+character_skills_localised_description_rhox_wolf_lord_deadly_fangs	Don't go anywhere near its mouth - in fact, don't even get within snapping distance if you value your limbs.	false
+character_skills_localised_name_rhox_wolf_lord_deadly_fangs	Deadly Fangs	false
+effects_description_packlord_main_skill_boon_of_the_gods_1	Dilemma that grants this lord a powerful boon will be triggered	false
