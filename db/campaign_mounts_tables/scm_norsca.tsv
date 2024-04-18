@@ -2,7 +2,7 @@ model	animation_set	variant	scale	actor	ignore_rider_variant_scale	vfx_filter	ba
 #campaign_mounts_tables;9;db/campaign_mounts_tables/scm_norsca								
 rhox_adella_cam_mnt_adella_horse	cam_hr1_warhorse	rhox_adella_cam_mnt_adella_horse_campaign	1.0000	wh_main_vo_culture_Horse	true	0	false	0.0000
 hkrul_ulfric_mammoth	cam_lord_hq3_mammoth	hkrul_ulfric_mammoth	0.4000	vo_culture_Invalid	true	0	false	0.0000
-rhox_sayl_mammoth_shrine	cam_lord_hq3_mammoth	wh_dlc08_nor_war_mammoth_warshrine	0.4000	vo_culture_Invalid	true	0	false	0.0000
+rhox_sayl_mammoth_shrine	cam_lord_hq3_mammoth	medusa_nor_mammoth_warshrine_campaign	0.4000	vo_culture_Invalid	true	0	false	0.0000
 kurg_akkorak_horse	cam_hr1_warhorse	hkrul_akkorak_horse	1.0000	wh_main_vo_culture_Horse	false	165	false	0.0000
 rhox_einar_bear	cam_lord_be1_wh3_warbear	rhox_einar_mnt_war_bear	1.0000	wh3_main_vo_culture_Kislev	false	0	false	0.0000
 rhox_drenok_bear	cam_lord_be1_wh3_warbear	rhox_drenok_mnt_war_bear	1.0000	wh3_main_vo_culture_Kislev	false	0	false	0.0000
