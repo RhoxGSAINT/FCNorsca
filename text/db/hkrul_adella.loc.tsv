@@ -149,6 +149,7 @@ unit_description_short_texts_text_r1kko_adella_nur_stegadon	Nurgle has blessed t
 unit_description_short_texts_text_r1kko_adella_sla_troglodon	Radiant and rapid. These creatures touched by Slaanesh leave his mark on any battlefield.	false
 unit_description_short_texts_text_r1kko_adella_tze_coatl	When Tzeentch wills it, magic often linger among the clouds.	false
 unit_description_short_texts_text_rhox_skeggi_dodvakt	The Dodvakt - or Deathkeepers - were formed when the Norscan settlement of Skeggi was under undead threat. Elite unit of Skeggi warriors who still defend the beaches of Skeggi.	false
+unit_description_historical_texts_text_rhox_skeggi_dodvakt	The Dodvakt - or Deathkeepers - were formed when the Norscan settlement of Skeggi was under undead threat. Elite unit of Skeggi warriors who still defend the beaches of Skeggi.	false
 unit_abilities_tooltip_text_hkrul_adella_fishbrain	As the Monolith of Jarl Fishbrain lumbers about the battlefield the many trinkets and treasures he was gifted drop down, causing marauders to flock around him in search of coin.	true
 unit_abilities_onscreen_name_hkrul_adella_fishbrain	Fishbrain's Treasure	true
 unit_abilities_tooltip_text_hkrul_dodvakt_bite	The Dodvakt charge in to the fray with their snarling beasts hungry for violence.	true
@@ -187,3 +188,4 @@ effect_bundles_localised_description_rhox_adella_corruption_tzeentch_71-80		fals
 effect_bundles_localised_title_rhox_adella_corruption_tzeentch_71-80		false
 effect_bundles_localised_description_rhox_adella_corruption_tzeentch_81-90		false
 effect_bundles_localised_title_rhox_adella_corruption_tzeentch_81-90		false
+land_units_onscreen_name_wh_mod_nor_cav_cold_one_riders_1	The Dodvakt Spears (Cold One Riders)	false
