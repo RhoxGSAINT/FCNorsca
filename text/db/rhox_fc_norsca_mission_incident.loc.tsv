@@ -1,7 +1,7 @@
 key	text	tooltip
 #Loc;1;text/db/rhox_fc_norsca_mission_incident.loc		
 missions_localised_title_rhox_adella_landmark_mission	The Bjornling King	false
-missions_localised_description_rhox_adella_landmark_mission	The long parished Erik Losteriksson and his great son, Erik the Red first set sail to Lustria from the harsh cold wastes of Norsca. They founded the now buzzling stronghold of Skeggi. Both of Bjornling decent, a pilgrimage in their name to their ancenstral homeland would allow us to construct a Great Hall in their name to solidify Skeggi's position as one of the Great Norscan Tribes.	false
+missions_localised_description_rhox_adella_landmark_mission	The long perished Erik Losteriksson and his great son, Erik the Red first set sail to Lustria from the harsh cold wastes of Norsca. They founded the now buzzling stronghold of Skeggi. Both of Bjornling decent, a pilgrimage in their name to their ancenstral homeland would allow us to construct a Great Hall in their name to solidify Skeggi's position as one of the Great Norscan Tribes.	false
 rhox_fc_norsca_protect_dark_fortress	Prevent the Warriors of Chaos from controlling these regions or be bound to their will for eternity.	true
 missions_localised_title_rhox_fc_norsca_protect_dark_fortress	The Dark Fortress	false
 missions_localised_description_rhox_fc_norsca_protect_dark_fortress	As Chaos stirs in the frozen wastes hordes of marauding champions flood the mortal realms, binding those receptive to chaos to their will. Through Dark Fortresses that have withstood time themselves the meager Northern Tribes are forced to serve the Chaos Champions for eternity. If the Northern Tribes are to be free it is paramount we prevent these Fortresses to fall in to the hands of our Chaos brethren.	false
