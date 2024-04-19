@@ -1,0 +1,21 @@
+<model version="1">
+	<geometry>warmachines\engines\nor_mobile_siege_tower\nor_varg_siege_tower_v3_dest.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\engines\nor_mobile_siege_tower\materials\tower_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">warmachines\engines\nor_mobile_siege_tower\materials\tower_alpha_01_rigid_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">warmachines\engines\nor_mobile_siege_tower\materials\cockpit_01_rigid_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">warmachines\engines\nor_mobile_siege_tower\materials\tower_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">warmachines\engines\nor_mobile_siege_tower\materials\tower_alpha_01_rigid_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">warmachines\engines\nor_mobile_siege_tower\materials\cockpit_01_rigid_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">warmachines\engines\nor_mobile_siege_tower\materials\tower_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">warmachines\engines\nor_mobile_siege_tower\materials\tower_alpha_01_rigid_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="2">warmachines\engines\nor_mobile_siege_tower\materials\cockpit_01_rigid_alpha_on.xml.material</material>
+
+			<material lod_index="3" part_index="0">warmachines\engines\nor_mobile_siege_tower\materials\tower_01_rigid_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">warmachines\engines\nor_mobile_siege_tower\materials\tower_alpha_01_rigid_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="2">warmachines\engines\nor_mobile_siege_tower\materials\cockpit_01_rigid_alpha_on.xml.material</material>
+
+	</materials>
+</model>

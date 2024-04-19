@@ -1,0 +1,12 @@
+<model version="1">
+	<geometry>warmachines\engines\nor_mounted_grudgethrower\nor_plagueclaw_grudgethrower_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">warmachines\engines\nor_mounted_grudgethrower\materials\dwf_grudge_thrower_converted_01_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">warmachines\engines\nor_mounted_grudgethrower\materials\dwf_grudge_thrower_converted_01_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">warmachines\engines\nor_mounted_grudgethrower\materials\dwf_grudge_thrower_converted_01_weighted2_alpha_off.xml.material</material>
+
+
+	</materials>
+</model>

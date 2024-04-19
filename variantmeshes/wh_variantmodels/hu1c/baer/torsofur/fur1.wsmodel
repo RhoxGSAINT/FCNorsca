@@ -1,0 +1,17 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu1c\baer\torsofur\fur1.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\einarr\materials\emp_huntsmarshal_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\character\einarr\materials\ksl_bear_01_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\character\einarr\materials\emp_huntsmarshal_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\character\einarr\materials\ksl_bear_01_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1c\baer\torsofur\materials\emp_huntsmarshal_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1c\baer\torsofur\materials\ksl_bear_01_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1c\baer\torsofur\materials\emp_huntsmarshal_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1c\baer\torsofur\materials\ksl_bear_01_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>

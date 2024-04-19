@@ -1,0 +1,73 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\surthaek_alt\moloc_surtha_ek_v2.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_marauder_legs_acc_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu13\ogr\ogr_tyrant\materials\ogr_tyrant_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\hu1c\chs\chs_archaon\legs\materials\chs_archaon_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="15">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_02_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_marauder_legs_acc_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu13\ogr\ogr_tyrant\materials\ogr_tyrant_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="12">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="13">variantmeshes\wh_variantmodels\hu1c\chs\chs_archaon\legs\materials\chs_archaon_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="14">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="15">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_02_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_marauder_legs_acc_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu13\ogr\ogr_tyrant\materials\ogr_tyrant_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="12">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="13">variantmeshes\wh_variantmodels\hu1c\chs\chs_archaon\legs\materials\chs_archaon_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="14">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="15">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_02_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_surtha_ek_beard_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu1c\chs\chs_exalted_hero\materials\chs_exalted_hero_cape_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\character\surthaek_alt\materials\chs_marauder_legs_acc_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu13\ogr\ogr_tyrant\materials\ogr_tyrant_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="12">variantmeshes\wh_variantmodels\hu1c\chs\chs_warrior\materials\chs_warrior_torso_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="13">variantmeshes\wh_variantmodels\hu1c\chs\chs_archaon\legs\materials\chs_archaon_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="14">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="15">variantmeshes\wh_variantmodels\character\surthaek\materials\chs_marauder_chieftain_torso_02_weighted4_alpha_off.xml.material</material>
+
+	</materials>
+</model>

@@ -1,0 +1,77 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\kolsveinn_of_aesling_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_fleshhound_body_01_submesh_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_torso_0__weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_torso_01_subme_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\chs_lord_head_01_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_marauder_khorne_head_01_subm_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_skarbrand_accessories_01_sub_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_legs_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_gor_legs_01_submesh_3_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_legs_01_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="15">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_cultist_of_khorne_body_02_su_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="16">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_1_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_fleshhound_body_01_submesh_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_torso_0__weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_torso_01_subme_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\chs_lord_head_01_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_marauder_khorne_head_01_subm_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_skarbrand_accessories_01_sub_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_legs_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_gor_legs_01_submesh_3_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_legs_01_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="12">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="13">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="14">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="15">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_cultist_of_khorne_body_02_su_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="16">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_1_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_fleshhound_body_01_submesh_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_torso_0__weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_torso_01_subme_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\chs_lord_head_01_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_marauder_khorne_head_01_subm_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_skarbrand_accessories_01_sub_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_legs_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_gor_legs_01_submesh_3_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_legs_01_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="12">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="13">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="14">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="15">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_cultist_of_khorne_body_02_su_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="16">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_1_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_fleshhound_body_01_submesh_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_torso_0__weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_torso_01_subme_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\chs_lord_head_01_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_minotaur_legs_02_1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_marauder_khorne_head_01_subm_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_skarbrand_accessories_01_sub_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_exalted_hero_khorne_legs_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\bst_gor_legs_01_submesh_3_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_chosen_khorne_legs_01_submes_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="12">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="13">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_accessories_0_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="14">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="15">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_cultist_of_khorne_body_02_su_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="16">variantmeshes\wh_variantmodels\hu6\bst\kolsveinn\materials\dae_bloodthirster_head_01_submes_1_weighted4_alpha_off.xml.material</material>
+
+	</materials>
+</model>

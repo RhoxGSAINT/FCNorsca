@@ -1,0 +1,60 @@
+<model version="1">
+	<geometry>art\campaign\ships\transportship05\nor\nor_transport_ship\nor_huern_ship.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ogr_lord_ship_submesh_3_submesh__weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">art\campaign\ships\transportship05\nor\materials\nor_transport_01_submesh_0_subme_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\piece01_destruct01_lod01_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_28__weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\monolith_wolf_lod01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_1_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_2_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\bst_bonecage_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_dragon_bone_body_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_bone_skull_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ogr_lord_ship_submesh_3_submesh__weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">art\campaign\ships\transportship05\nor\materials\nor_transport_01_submesh_0_subme_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\piece01_destruct01_lod01_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_28__weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\monolith_wolf_lod01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_1_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_2_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\bst_bonecage_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_dragon_bone_body_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_bone_skull_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ogr_lord_ship_submesh_3_submesh__weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">art\campaign\ships\transportship05\nor\materials\nor_transport_01_submesh_0_subme_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\piece01_destruct01_lod01_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">art\campaign\ships\transportship05\nor\materials\chaos_bloodship_ship_submesh_96__weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\monolith_wolf_lod01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\bst_bonecage_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_dragon_bone_body_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_bone_skull_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ogr_lord_ship_submesh_3_submesh__weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">art\campaign\ships\transportship05\nor\materials\nor_transport_01_submesh_0_subme_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\piece01_destruct01_lod01_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">art\campaign\ships\transportship05\nor\materials\chaos_bloodship_ship_submesh_96__weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\monolith_wolf_lod01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\bst_bonecage_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_dragon_bone_body_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_bone_skull_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="4" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ogr_lord_ship_submesh_3_submesh__weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="1">art\campaign\ships\transportship05\nor\materials\nor_transport_01_submesh_0_subme_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\piece01_destruct01_lod01_submesh_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="3">art\campaign\ships\transportship05\nor\materials\chaos_bloodship_ship_submesh_96__weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\monolith_wolf_lod01_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chaos_bloodship_ship_submesh_3_s_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\bst_bonecage_lod01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_dragon_bone_body_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="4" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_bone_skull_01_lod1_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>

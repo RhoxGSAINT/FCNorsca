@@ -1,0 +1,97 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\lccp_h_demonaxe.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_prince_torso_brass_collar_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ksl_boyar_yuri_body_corrupted_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_demonaxe_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_giant_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_h_demonaxe_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu1\emp\emp_arch_lector\head\materials\h_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_legs_beast_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_arms_corpulent_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\bst_taurox_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_knight_khorne_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_champions\materials\chs_marauder_champions_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ogr_firebelly_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_dragon_ogre_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="15">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_hd_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="16">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_marauder_spear_1h_03_lod1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="17">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chd_lammasu_wings_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="18">variantmeshes\wh_variantmodels\hu16c\dae\dae_props\materials\dae_valkia_shield_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="19">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_wulfrik_shield_01_lod1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="20">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nur_fleshwebbing_01_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="21">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_torso_corpulent_01_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_prince_torso_brass_collar_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ksl_boyar_yuri_body_corrupted_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_demonaxe_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_giant_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_h_demonaxe_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu1\emp\emp_arch_lector\head\materials\h_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_legs_beast_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_arms_corpulent_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\bst_taurox_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_knight_khorne_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_champions\materials\chs_marauder_champions_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="12">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ogr_firebelly_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="13">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="14">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_dragon_ogre_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="15">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_hd_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="16">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_marauder_spear_1h_03_lod1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="17">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chd_lammasu_wings_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="18">variantmeshes\wh_variantmodels\hu16c\dae\dae_props\materials\dae_valkia_shield_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="19">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_wulfrik_shield_01_lod1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="20">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nur_fleshwebbing_01_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="21">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_torso_corpulent_01_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_prince_torso_brass_collar_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ksl_boyar_yuri_body_corrupted_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_demonaxe_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_giant_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_h_demonaxe_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu1\emp\emp_arch_lector\head\materials\h_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_legs_beast_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_arms_corpulent_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\bst_taurox_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_knight_khorne_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_champions\materials\chs_marauder_champions_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="12">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ogr_firebelly_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="13">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="14">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_dragon_ogre_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="15">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_hd_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="16">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_marauder_spear_1h_03_lod1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="17">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chd_lammasu_wings_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="18">variantmeshes\wh_variantmodels\hu16c\dae\dae_props\materials\dae_valkia_shield_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="19">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_wulfrik_shield_01_lod1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="20">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nur_fleshwebbing_01_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="21">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_torso_corpulent_01_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_prince_torso_brass_collar_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ksl_boyar_yuri_body_corrupted_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_demonaxe_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_giant_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_h_demonaxe_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu1\emp\emp_arch_lector\head\materials\h_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_legs_beast_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_arms_corpulent_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\bst_taurox_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\dae_knight_khorne_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_champions\materials\chs_marauder_champions_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="12">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\ogr_firebelly_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="13">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="14">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_dragon_ogre_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="15">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\lccp_hd_eyes_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="16">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chs_marauder_spear_1h_03_lod1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="17">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\chd_lammasu_wings_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="18">variantmeshes\wh_variantmodels\hu16c\dae\dae_props\materials\dae_valkia_shield_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="19">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nor_wulfrik_shield_01_lod1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="20">variantmeshes\wh_variantmodels\hu1c\dae\h_demonaxe\materials\nur_fleshwebbing_01_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="21">variantmeshes\wh_variantmodels\hu10e\dae\dae_prince\materials\dae_prince_torso_corpulent_01_weighted4_alpha_off.xml.material</material>
+
+	</materials>
+</model>

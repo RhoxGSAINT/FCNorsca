@@ -1,0 +1,53 @@
+<model version="1">
+	<geometry>art\campaign\ships\transportship05\nor\nor_transport_ship\nor_ulfric_ship.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_wall_wood_single_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_shack_wood_attach_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_agent_submesh_31_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\model_0_submesh_12_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\shack_2_lod01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="10">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_barrel_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_wall_wood_single_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_shack_wood_attach_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_agent_submesh_31_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\model_0_submesh_12_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\shack_2_lod01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="10">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_barrel_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_wall_wood_single_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_shack_wood_attach_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_agent_submesh_31_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\model_0_submesh_12_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\shack_2_lod01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="10">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_barrel_01_lod1_weighted2_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_wall_wood_single_01_lod1_sub_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_shack_wood_attach_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_02_lod1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\chs_marauder_shield_04_lod1_1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_agent_submesh_31_submesh_2_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\model_0_submesh_12_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="8">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\ksl_lord_submesh_141_submesh_55__1_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\shack_2_lod01_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="10">art\campaign\ships\transportship05\nor\nor_transport_ship\materials\gen_barrel_01_lod1_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>
