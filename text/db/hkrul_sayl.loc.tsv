@@ -99,7 +99,7 @@ character_trait_levels_explanation_text_rhox_sayl_tricker_trait_4	Tricked the Ch
 character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_4	Devious Trickster	false
 character_trait_levels_colour_text_rhox_sayl_tricker_trait_5	Sayl tricks the Chaos Gods with promises of allegiance.	false
 character_trait_levels_explanation_text_rhox_sayl_tricker_trait_5	Tricked the Chaos Gods 40 times	false
-character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_5	Ultimate Deciever	false
+character_trait_levels_onscreen_name_rhox_sayl_tricker_trait_5	Ultimate Deceiver	false
 effects_description_rhox_sayl_favour_hound	Allegiance to the Hound: %+n per turn	false
 effects_description_rhox_sayl_favour_eagle	Allegiance to the Eagle: %+n per turn	false
 effects_description_rhox_sayl_favour_crow	Allegiance to the Crow: %+n per turn	false
@@ -166,4 +166,4 @@ incidents_localised_description_rhox_sayl_chaos_spawn_incident	Fallen's for Sayl
 incidents_localised_title_rhox_sayl_chaos_spawn_incident	Sayl's Trickery	false
 effects_description_rhox_sayl_effect_removal_dummy	[[col:yellow]]This effect will be removed if this [[img:icon_general]][[/img]]Lord defeats an army of Sayl or if his faction is destroyed[[/col]]	false
 effects_description_rhox_sayl_chaos_sapwn_dummy	Following this [[img:icon_general]][[/img]]Lord's next defeat against the Dolgan faction, they will morph into a Chaos Spawn and die permanently. 	false
-effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Deciever: Generic Lords defeated by Sayl the Faithless may be decieved. Following a second defeat against Sayl they will morph into Chaos Spawn and die permanently. 	false
+effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Deceiver: Generic Lords defeated by Sayl the Faithless may be decieved. Following a second defeat against Sayl they will morph into Chaos Spawn and die permanently. 	false
