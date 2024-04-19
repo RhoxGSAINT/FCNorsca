@@ -15,7 +15,6 @@ scm_norsca_ulsdau_campaign_05		wh2_main_skill_all_hero_hinder_army_assault_units
 scm_norsca_ulsdau_campaign_06		wh2_main_skill_all_hero_reduce_action_cost		5	5		0	0	true
 scm_norsca_ulsdau_campaign_actions_dummy		wolftribe_skill_dummy_agent_actions_scm_norsca_ulsdau		8	0		1	0	false
 scm_norsca_ulsdau_skills_unique_0		wh_main_skill_chs_all_unique_aura_of_chaos		0	0		0	0	true
-scm_norsca_ulsdau_skills_unique_5		wh3_main_skill_all_mentor_hero		0	5		0	0	true
 scm_norsca_ulsdau_skills_unique_1		wh_dlc08_skill_nor_skin_wolf_werekin_unique_razor_claws		0	1		0	0	true
 scm_norsca_ulsdau_skills_unique_2		wh_dlc08_skill_nor_skin_wolf_werekin_unique_hardened_skin		0	2		0	0	true
 scm_norsca_ulsdau_skills_unique_3		wolftribe_skill_unique_blood_berserker		0	3		0	0	true

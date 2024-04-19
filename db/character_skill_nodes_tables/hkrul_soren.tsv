@@ -26,7 +26,7 @@ hkrul_skill_node_soren_magic1_05		wh_dlc03_skill_magic_beasts_flock_of_doom		2	5
 hkrul_skill_node_soren_magic1_06		wh_main_skill_all_magic_all_06_evasion		2	6		0	4	true
 hkrul_skill_node_soren_magic1_07		wh_main_skill_all_magic_all_07_earthing		2	10		0	0	true
 hkrul_skill_node_soren_magic1_08		wh_main_skill_all_magic_all_08_power_drain		2	7		0	0	true
-hkrul_skill_node_soren_magic1_09		wh2_dlc15_skill_magic_beasts_transformation_of_kadon		2	11		0	0	true
+hkrul_skill_node_soren_magic1_09		wh_dlc03_skill_magic_beasts_transformation_of_kadon		2	11		0	0	true
 hkrul_skill_node_soren_magic1_10		wh2_main_skill_magic_dark_doombolt		2	12		0	0	true
 hkrul_skill_node_soren_magic1_11		wh_main_skill_all_magic_all_11_arcane_conduit		2	13		0	4	true
 hkrul_skill_node_soren_magic1_dummy		wh2_main_skill_magic_dark_chillwind_dummy		6	11		1	0	false
