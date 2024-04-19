@@ -23,5 +23,5 @@ r1kko_adella_tze_coatl		r1kko_adella_tze_coatl		1.0000	1.0000	0.0000
 kysaro_adella_stegadon	VariantMeshes\wh_variantmodels\hq1\lzd\lzd_stegadon\tech	kysaro_adella_stegadon		1.6000	1.0000	0.0000	
 wh_mod_nor_cold_one_def	VariantMeshes\wh_variantmodels\rp3\def\def_cold_one\tech	def_cold_one	rp3\def\def_cold_one\imposter\def_cold_one_imposter	1.1500	1.0000	0.0500	
 wh_mod_nor_cold_one_lzd	VariantMeshes\wh_variantmodels\rp3\def\def_cold_one\tech	lzd_cold_one	rp3\lzd\lzd_cold_one\imposter\lzd_cold_one_imposter	1.1500	1.0000	0.0500	
-wh_mod_nor_marauder_cold_one_riders		chs_marauders	hu1c\chs\chs_marauders\low_poly\chs_marauder_lowlod	1.0000	0.9310	0.0500	
+wh_mod_nor_marauder_cold_one_riders		skg_marauder	hu1c\chs\chs_marauders\low_poly\chs_marauder_lowlod	1.0000	0.9310	0.0500	
 wh_mod_nor_marauder_cold_one_spear_riders		nor_marauders_coldone_spear	hu1c\chs\chs_marauders\low_poly\chs_marauder_lowlod	1.0000	0.9310	0.0500	
