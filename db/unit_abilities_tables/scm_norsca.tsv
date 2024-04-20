@@ -92,4 +92,4 @@ hkrul_hildr_brew	true	hkrul_soren_brew		wh_type_area_of_regeneration		wh_main_an
 hkrul_hildr_axe	true	hkrul_hildr_axe		wh_type_area_of_hexes		wh_main_anc_group_unique	true	false	passive		false
 scm_norsca_unit_passive_death_shockwave	false	wh2_main_weapon_bound_reaver_bow		wh_type_explosion		wh_main_anc_group_common	false	false	passive		false
 hkrul_ulfric_ymir	false	hkrul_ulfric_ymir		wh_type_hex		wh_main_anc_group_uncommon	false	false	passive		false
-hkrul_ulfric_ymir_ror	false	hkrul_ulfric_ymir		wh_type_hex		wh_main_anc_group_uncommon	false	false	passive		false
+hkrul_ulfric_ymir_ror	false	hkrul_ymir_ror_aura		wh_type_hex		wh_main_anc_group_rare	false	false	passive		false

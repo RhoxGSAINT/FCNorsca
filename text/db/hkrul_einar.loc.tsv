@@ -129,3 +129,5 @@ campaign_localised_strings_string_hkrul_norsca_ymir_ror_lock	[[col:red]]This Reg
 land_units_onscreen_name_hkrul_norsca_ymir_ror	Orgrim's Scourge	false
 unit_description_historical_texts_text_hkrul_norsca_ymir_ror	Deemed ''The Grandfather of all the Ymir" by Einarr Sigdansson, who faught this gigantic beast for 2 days on end before forcing it down to it's knees.	false
 unit_description_short_texts_text_hkrul_norsca_ymir_ror	Deemed ''The Grandfather of all the Ymir" by Einarr Sigdansson, who faught this gigantic beast for 2 days on end before forcing it down to it's knees.	false
+unit_abilities_onscreen_name_hkrul_ulfric_ymir_ror	Stalker of Naglfari	false
+unit_abilities_tooltip_text_hkrul_ulfric_ymir_ror	Unlike most Ymir, this gigantic beast bears the clear taint of chaos. During a snowstorm it once killed over fifty Aesling whilst remaining unseen	false
