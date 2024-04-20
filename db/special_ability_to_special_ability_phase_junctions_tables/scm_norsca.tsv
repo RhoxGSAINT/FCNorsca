@@ -84,3 +84,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_hildr_axe	true	false	false	hkrul_hildr_axe_ally
 1	hkrul_hildr_axe	false	false	true	hkrul_hildr_axe_enemy
 1	hkrul_ulfric_ymir	false	false	true	hkrul_ulfric_ymir
+1	hkrul_ulfric_ymir_ror	false	false	true	hkrul_ulfric_ymir_ror

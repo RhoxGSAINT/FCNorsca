@@ -189,3 +189,7 @@ effect_bundles_localised_title_rhox_adella_corruption_tzeentch_71-80		false
 effect_bundles_localised_description_rhox_adella_corruption_tzeentch_81-90		false
 effect_bundles_localised_title_rhox_adella_corruption_tzeentch_81-90		false
 land_units_onscreen_name_wh_mod_nor_cav_cold_one_riders_1	The Dodvakt Spears (Cold One Riders)	false
+effects_description_rhox_adella_corruption_higher_units_khorne_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Khorne corruption in your province higher than 50%.[[/col]]	false
+effects_description_rhox_adella_corruption_higher_units_nurgle_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Nurgle corruption in your province higher than 50%.[[/col]]	false
+effects_description_rhox_adella_corruption_higher_units_slaanesh_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Slaanesh corruption in your province higher than 50%.[[/col]]	false
+effects_description_rhox_adella_corruption_higher_units_tzeentch_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Tzeentch corruption in your province higher than 50%.[[/col]]	false

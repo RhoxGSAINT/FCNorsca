@@ -73,8 +73,8 @@ effects_description_hkrul_surtha_ek_chariot	Mount: Bloodspiller	false
 effects_description_hkrul_norsca_effect_glorious_charge	Attribute: Glorious Charge	true
 land_units_onscreen_name_wh_mod_nor_veh_mammoth_siege_tower_0	Surtha's Revenge	true
 unit_description_short_texts_text_wh_mod_short_text_nor_veh_mammoth_siege_tower_0	Tainted Norse Dwarfs on a Norscan siege tower towed by two Mammoths who are steered by a Chariot. A contraption only Ek could possibly design.	false
-unit_abilities_tooltip_text_wh_mod_unit_passive_death_shockwave	This vehicle explodes upon destruction, doing damage to entities around it.	false
-unit_abilities_onscreen_name_wh_mod_unit_passive_death_shockwave	Deadly Demise	false
+unit_abilities_tooltip_text_scm_norsca_unit_passive_death_shockwave	This vehicle explodes upon destruction, doing damage to entities around it.	false
+unit_abilities_onscreen_name_scm_norsca_unit_passive_death_shockwave	Deadly Demise	false
 land_units_onscreen_name_wh_mod_nor_veh_war_wagon_0	Marauder War Wagons	true
 unit_description_short_texts_text_wh_mod_short_text_nor_veh_war_wagon_0	Reinforced wooden wagons containing hauled treasure, guarded in the form of ornery javelin armed Marauders.	false
 land_units_onscreen_name_wh_mod_nor_dwf_inf_sappers	Dwarf Sappers	true

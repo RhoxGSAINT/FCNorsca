@@ -21,3 +21,5 @@ hkrul_hildr_axe_ally	stat_resistance_physical	1.1500	mult
 hkrul_hildr_axe_enemy	stat_melee_defence	-8.0000	add
 hkrul_ulfric_ymir	stat_morale	-5.0000	add
 hkrul_ulfric_ymir	scalar_speed	0.8500	mult
+hkrul_ulfric_ymir_ror	stat_morale	-5.0000	add
+hkrul_ulfric_ymir_ror	scalar_speed	0.8500	mult

@@ -64,8 +64,8 @@ core:add_ui_created_callback(
             mixer_add_faction_to_major_faction_list("wh_dlc08_nor_naglfarlings")
             
             --mixer_enable_custom_faction("718726083")
-            mixer_add_starting_unit_list_for_faction("mixer_nor_fjordlings", {"wh_main_nor_cav_marauder_horsemen_0"})
-			mixer_add_faction_to_major_faction_list("mixer_nor_fjordlings")
+            --mixer_add_starting_unit_list_for_faction("mixer_nor_fjordlings", {"wh_main_nor_cav_marauder_horsemen_0"})
+			--mixer_add_faction_to_major_faction_list("mixer_nor_fjordlings")
 		end		
 	end
 )

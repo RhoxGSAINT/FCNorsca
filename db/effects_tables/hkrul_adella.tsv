@@ -22,3 +22,7 @@ hkrul_adella_skeggi_ma	melee.png	120	melee.png	battle	true
 hkrul_adella_skeggi_upkeep	military_spending.png	1	military_spending.png	campaign	false
 rhox_adella_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
 rhox_adella_elite_defence	defence.png	120	defence.png	battle	true
+rhox_adella_corruption_higher_units_khorne_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
+rhox_adella_corruption_higher_units_nurgle_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
+rhox_adella_corruption_higher_units_slaanesh_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
+rhox_adella_corruption_higher_units_tzeentch_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true

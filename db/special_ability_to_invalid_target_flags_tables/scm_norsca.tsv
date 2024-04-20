@@ -14,3 +14,4 @@ unit_is_not_shielded	hkrul_ulfric_pas_shield
 out_of_melee	hkrul_harald_king
 unit_is_not_commander_class	hkrul_hildr_axe
 unit_is_large	hkrul_ulfric_ymir
+unit_is_large	hkrul_ulfric_ymir_ror
