@@ -1,5 +1,5 @@
 <material>
-  <name>dwf_ironbreakers_shield_03_lod1_rigid_alpha_off.xml</name>
+  <name>dwf_ironbreakers_shield_02_lod1_rigid_alpha_off.xml</name>
   <shader>shaders/rigid_character.xml.shader</shader>
   <sort_override>255</sort_override>
  <textures>
