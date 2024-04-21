@@ -33,7 +33,7 @@ NORSCA_LEGENDARY_LORDS["hkrul_surtha_ek"]=true
 NORSCA_LEGENDARY_LORDS["scm_norsca_huern"]=true
 
 
-
+initiative_cultures["wh_dlc08_nor_norsca"]=true
 
 --Baersonling upgrade
 table.insert(initiative_templates,

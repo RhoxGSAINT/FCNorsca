@@ -19,7 +19,7 @@ character_skills_localised_description_hkrul_graill_special_1_6	A flurry of razo
 unit_abilities_onscreen_name_hkrul_grail_blood_frenzy	Blood Frenzy	false
 unit_abilities_tooltip_text_hkrul_grail_blood_frenzy	With a fierce howl ushered out by their leader the Skin Wolves of the Wolf Tribe burst in to a blood thirsty frenzy.	false
 agent_subtypes_onscreen_name_override_hkrul_graill	Legendary Werekin	false
-agent_subtypes_description_text_override_hkrul_graill	Legendary Werekin	false
+agent_subtypes_description_text_override_hkrul_graill	Bloodkin of Huern, Graill has the strength of a berserker and the cunningness of a stalking predator.	false
 unit_description_short_texts_text_hkrul_graill	Twin brother of Ulsdau and legendary warrior of the Wolf Tribe, Graill's known for merging seamlessly with the Naglfari snow.	false
 names_name_7454711831	Graill	false
 land_units_onscreen_name_hkrul_graill	Graill	true

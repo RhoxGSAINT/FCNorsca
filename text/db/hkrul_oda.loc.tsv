@@ -17,7 +17,7 @@ character_skills_localised_description_hkrul_oda_special_1_4	The deep bellows of
 character_skills_localised_description_hkrul_oda_special_1_5	Not many are trusted with dealing with the High King's affairs, yet as his trusted advisor Oda deals with trivial mundane management such as keeping the savage marauders in check.	true
 character_skills_localised_description_hkrul_oda_special_1_6	The elite of Skjold are the Huskarls and Shield Maidens that follow Oda in to battle, hailing from the harsh area known as Hafskael's Yard.	true
 agent_subtypes_onscreen_name_override_hkrul_oda	Legendary Hero	false
-agent_subtypes_description_text_override_hkrul_oda	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
 unit_description_short_texts_text_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
 names_name_7410711831	Oda	false
 names_name_7410711830	Winterclaw	false
