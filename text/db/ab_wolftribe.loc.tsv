@@ -204,7 +204,7 @@ cdir_events_dilemma_choice_details_localised_choice_title_daemon_hunter_0SECOND	
 cdir_events_dilemma_choice_details_localised_choice_label_daemon_hunter_0FIRST	Accept a gift from the Four	false
 cdir_events_dilemma_choice_details_localised_choice_title_daemon_hunter_0FIRST	Our hunt has earned us the recognition of the gods. Let us see how they reward us.	false
 dilemmas_localised_title_daemon_hunter_0	The Attention of the Gods	true
-dilemmas_localised_description_daemon_hunter_0	We have slain monster, daemon, and champion in our countless hunts, and our achievement has not gone unnoticed. The Four are impressed and wish to reward their rising champion, while in the distance a mighty howl can be heard echoing over the mountains. Whose favor shall we recieve?	true
+dilemmas_localised_description_daemon_hunter_0	We have slain monster, daemon, and champion in our countless hunts, and our achievement has not gone unnoticed. The Four are impressed and wish to reward their rising champion, while in the distance a mighty howl can be heard echoing over the mountains. Whose favor shall we receive?	true
 dilemmas_localised_title_daemon_hunter_1	A Boon from the Four	true
 dilemmas_localised_description_daemon_hunter_1	We have earned the attention of the Four, but we may only receive a boon from one. Whose gift shall we receive?	true
 dilemmas_localised_title_daemon_hunter_2	The Savage Hunter	true

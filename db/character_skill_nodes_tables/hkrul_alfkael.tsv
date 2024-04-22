@@ -32,3 +32,5 @@ wolftribe_alfkael_self_05		wolftribe_skill_self_wind_walker		1	4		0	0	true
 wolftribe_alfkael_self_06		wolftribe_skill_self_frost_father		1	5		0	0	true
 wolftribe_alfkael_self_07		wolftribe_skill_self_honored_forefather		1	6		0	2	true
 rhox_alfkael_warshrine		rhox_alfkael_warshrine		0	0		0	0	true
+wolftribe_skill_node_tempest_magic_dummy		shaman_dummy_hailstorm		2	11		1	0	false
+wolftribe_alfkael_nithi		wolftribe_alfkael_nithi		7	0		0	0	false

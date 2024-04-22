@@ -4,10 +4,10 @@ wolftribe_scm_norsca_asta_self_2	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0
 wolftribe_scm_norsca_asta_self_3	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_scm_norsca_asta_self_4	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_scm_norsca_asta_self_5	wolftribe_scm_norsca_asta_self_1	0	1	1	0.0000	0.0000	REQUIRED
-wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_2	0	1	1	0.0000	0.0000	REQUIRED
-wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_3	0	1	1	0.0000	0.0000	REQUIRED
-wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_4	0	1	1	0.0000	0.0000	REQUIRED
-wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_5	0	1	1	0.0000	0.0000	REQUIRED
+wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_2	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_3	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_4	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+wolftribe_scm_norsca_asta_self_6	wolftribe_scm_norsca_asta_self_5	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
 wolftribe_scm_norsca_asta_combat_melee_1_1	wolftribe_scm_norsca_asta_combat_melee_0	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_scm_norsca_asta_combat_melee_1_2	wolftribe_scm_norsca_asta_combat_melee_0	0	1	1	0.0000	0.0000	REQUIRED
 wolftribe_scm_norsca_asta_combat_melee_1_3	wolftribe_scm_norsca_asta_combat_melee_0	0	1	1	0.0000	0.0000	REQUIRED

@@ -2,7 +2,7 @@ key	text	tooltip
 #Loc;1;text/db/hkrul_sayl.loc		
 character_skills_localised_name_innate_hkrul_sayl	Twisted Seer of the Wastes	true
 character_skills_localised_description_innate_hkrul_sayl	The master of betrayal, guile and treachery leads his Dolgan Tribe in to realms unknown.	true
-character_skills_localised_description_hkrul_sayl_special_0_1	Few dare to attempt trickery and deceit when faced with various Chaos Gods, yet Sayl masterfully attempts to decieve them.	true
+character_skills_localised_description_hkrul_sayl_special_0_1	Few dare to attempt trickery and deceit when faced with various Chaos Gods, yet Sayl masterfully attempts to deceive them.	true
 character_skills_localised_name_hkrul_sayl_special_0_1	The Faithless	true
 character_skills_localised_description_hkrul_sayl_special_1_1	Merges with the very essence of Chaos, enhancing strength and resilience. Sayl becomes a conduit for unrestrained power.	true
 character_skills_localised_name_hkrul_sayl_special_1_1	Chaos Infusion	true
@@ -70,7 +70,7 @@ mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mn
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
-rituals_description_rhox_sayl_ritual	Perform the ritual to trick the Cods and gain access to powerful Chosen units. The rewards you recieve will increase if your favour to any God is higher than 10.	false
+rituals_description_rhox_sayl_ritual	Perform the ritual to trick the Gods and gain access to powerful Chosen units. The rewards you receive will increase if your favour to any God is higher than 10.	false
 rituals_display_name_rhox_sayl_ritual	Sayl's Ritual	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilemmaFIRST	Khorne	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaFIRST	Khorne	false
@@ -80,7 +80,7 @@ cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilem
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaTHIRD	Nurgle	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_sayl_ritual_dilemmaFOURTH	Slaanesh	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_sayl_ritual_dilemmaFOURTH	Slaanesh	false
-dilemmas_localised_description_rhox_sayl_ritual_dilemma	In an effort to trick the Chaos Gods themselves, Sayl barters his earned favour to decieve any of the four Chaos Gods in to sending powerful Chosen units his way upon the false promise of dedicating his might to that Chaos God.	false
+dilemmas_localised_description_rhox_sayl_ritual_dilemma	In an effort to trick the Chaos Gods themselves, Sayl barters his earned favour to deceive any of the four Chaos Gods in to sending powerful Chosen units his way upon the false promise of dedicating his might to that Chaos God.	false
 dilemmas_localised_title_rhox_sayl_ritual_dilemma	Sayl's Trickery	false
 ritual_categories_display_name_rhox_sayl_ritual		false
 effects_description_rhox_sayl_feature_dummy	Trickster: Sayl tricks even the Chaos Gods by bartering earned favour for powerful mortal marked units	false
@@ -166,4 +166,4 @@ incidents_localised_description_rhox_sayl_chaos_spawn_incident	Fallen's for Sayl
 incidents_localised_title_rhox_sayl_chaos_spawn_incident	Sayl's Trickery	false
 effects_description_rhox_sayl_effect_removal_dummy	[[col:yellow]]This effect will be removed if this [[img:icon_general]][[/img]]Lord defeats an army of Sayl or if his faction is destroyed[[/col]]	false
 effects_description_rhox_sayl_chaos_sapwn_dummy	Following this [[img:icon_general]][[/img]]Lord's next defeat against the Dolgan faction, they will morph into a Chaos Spawn and die permanently. 	false
-effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Deceiver: Generic Lords defeated by Sayl the Faithless may be decieved. Following a second defeat against Sayl they will morph into Chaos Spawn and die permanently. 	false
+effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Deceiver: Generic Lords defeated by Sayl the Faithless may be deceived. Following a second defeat against Sayl they will morph into Chaos Spawn and die permanently. 	false

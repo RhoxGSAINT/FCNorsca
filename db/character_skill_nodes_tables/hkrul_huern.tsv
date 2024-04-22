@@ -44,11 +44,11 @@ scm_norsca_huern_self_11		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4
 scm_norsca_huern_unique_02		scm_norsca_huern_regeneration		1	0		0	0	true
 scm_norsca_huern_unique_03		ice_wolves_summon		1	1		0	0	true
 scm_norsca_huern_unique_04		scm_norsca_huern_wanderer		1	2		0	0	true
-scm_norsca_huern_unique_05		scm_norsca_huern_unique_07		1	3		0	1	true
-scm_norsca_huern_unique_06		scm_norsca_huern_mighty_huscarls		1	4		0	1	true
+scm_norsca_huern_unique_05		scm_norsca_huern_unique_07		1	3		0	2	true
+scm_norsca_huern_unique_06		scm_norsca_huern_mighty_huscarls		1	4		0	0	true
 scm_norsca_huern_aura_of_chaos		wh_dlc08_skill_nor_lords_unique_aura_of_chaos		0	6		0	0	true
-scm_norsca_huern_unique_07		alpha_wolf		1	5		0	1	true
-scm_norsca_huern_unique_08		scm_norsca_huern_unique_06		1	6		0	1	true
+scm_norsca_huern_unique_07		alpha_wolf		1	5		0	0	true
+scm_norsca_huern_unique_08		scm_norsca_huern_unique_06		1	6		0	2	true
 scm_norsca_huern_anci_armor_pelt		scm_norsca_huern_anci_armor_pelt		7	0		0	0	false
 scm_norsca_huern_thralls_lament		scm_norsca_huern_thralls_lament		7	1		0	0	false
 scm_norsca_huern_chieftains_horn		scm_norsca_huern_chieftains_horn		7	2		0	0	false

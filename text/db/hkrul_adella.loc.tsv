@@ -24,7 +24,7 @@ character_skills_localised_name_hkrul_adella_horse_3		false
 character_skills_localised_description_hkrul_adella_horse_3		false
 character_skills_localised_description_hkrul_adella_special_1_4	Trinkets blessed by Tzeentch seemingly appear at random on the trails set out for her by her many mouths.	true
 character_skills_localised_name_hkrul_adella_special_1_4	Blessed Trinkets	true
-character_skills_localised_description_hkrul_adella_special_0_3	She who follows the ways of Tzeentch may recieve his fruitful boons.	true
+character_skills_localised_description_hkrul_adella_special_0_3	She who follows the ways of Tzeentch may receive his fruitful boons.	true
 character_skills_localised_name_hkrul_adella_special_0_3	Ways of the Changer	true
 agent_subtypes_onscreen_name_override_hkrul_adella	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_adella		false
