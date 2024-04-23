@@ -423,6 +423,8 @@ core:add_listener(
                         cm:faction_add_pooled_resource(faction_key, "nor_progress_eagle", "events", 12)
                     elseif faction_key == "wh3_dlc20_nor_yusak" then
                         cm:faction_add_pooled_resource(faction_key, "nor_progress_serpent", "events", 12)
+                    elseif faction_key == "wh_main_nor_bjornling" then
+                        --do nothing
                     else
                         cm:trigger_dilemma(faction, monster_hunt_data_for_faction[monster_hunts_index[i]]["fin"]);
                     end

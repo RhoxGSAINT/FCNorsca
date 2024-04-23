@@ -44,7 +44,7 @@ core:add_listener(
         local base_chance = 100
         local bonus_chance = character:bonus_values():scripted_value("rhox_varg_bonus_chance", "value")
 
-        if character:is_at_sea() or not character:region() then
+        if character:is_at_sea() or not character:region() or character:region():is_null_interface() then
             --out("Rhox Varg: This character does not have region or is at sea")
             return false
         end

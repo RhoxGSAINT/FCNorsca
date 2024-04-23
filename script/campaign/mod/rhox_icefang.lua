@@ -77,7 +77,7 @@ core:add_listener(
         local base_chance =20
         local bonus_chance = character:bonus_values():scripted_value("rhox_drenok_bonus_chance", "value")
 
-        if character:is_at_sea() or not character:region() or not character:region():settlement() then
+        if character:is_at_sea() or not character:region() or character:region():is_null_interface() or not character:region():settlement() then
             return false
         end
         local climate = character:region():settlement():get_climate()
