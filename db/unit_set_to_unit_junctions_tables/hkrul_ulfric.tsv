@@ -77,3 +77,5 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_norsca_ymir_ror	wh2_dlc17_throgg_focus_units	false
 			hkrul_norsca_ymir_ror	wh_dlc08_all_mammoths_skin_wolves_ice_wolves_hounds	false
 			hkrul_norsca_ymir_ror	wh2_main_ror_units_all	false
+			hkrul_norsca_ymir	hkrul_ymir_all	false
+			hkrul_norsca_ymir_ror	hkrul_ymir_all	false

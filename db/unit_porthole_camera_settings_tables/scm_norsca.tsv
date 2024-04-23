@@ -2,3 +2,4 @@ key	distance	fov	phi	theta	target_x	target_y	target_z	environment_file
 #unit_porthole_camera_settings_tables;2;db/unit_porthole_camera_settings_tables/scm_norsca								
 nor_scm_norsca_ulsdau	2.6000	28.0000	190.0000	195.0000	0.1000	2.6000	0.0000	Porthole/advisor/default_porthole.lighting
 nor_scm_norsca_asta_mounted	2.6000	28.0000	190.0000	195.0000	-0.1000	2.6000	0.0000	Porthole/advisor/default_porthole.lighting
+hkrul_bear_summon	5.0000	28.0000	195.0000	195.0000	0.1000	1.8000	0.0000	Porthole/advisor/default_porthole.lighting

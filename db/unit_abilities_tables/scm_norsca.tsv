@@ -93,3 +93,7 @@ hkrul_hildr_axe	true	hkrul_hildr_axe		wh_type_area_of_hexes		wh_main_anc_group_u
 scm_norsca_unit_passive_death_shockwave	false	wh2_main_weapon_bound_reaver_bow		wh_type_explosion		wh_main_anc_group_common	false	false	passive		false
 hkrul_ulfric_ymir	false	hkrul_ulfric_ymir		wh_type_hex		wh_main_anc_group_uncommon	false	false	passive		false
 hkrul_ulfric_ymir_ror	false	hkrul_ymir_ror_aura		wh_type_hex		wh_main_anc_group_rare	false	false	passive		false
+hkrul_summon_bear	true	hkrul_summon_bearfang		wh_type_augment		wh_main_anc_group_rare	true	false	unit		false
+hkrul_summon_bear_dummy	true	hkrul_summon_bearfang		wh_type_augment		wh_main_anc_group_rare	false	true	unit		true
+hkrul_summon_ymir	true	hkrul_ymir_spawn		wh_type_augment		wh_main_anc_group_rare	true	false	unit		false
+hkrul_summon_ymir_dummy	true	hkrul_ymir_spawn		wh_type_augment		wh_main_anc_group_rare	false	true	unit		true

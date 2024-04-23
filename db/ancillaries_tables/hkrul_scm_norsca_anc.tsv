@@ -19,3 +19,5 @@ hkrul_norsca_follower_1	hkrul_norsca_follower_1	.	true	false	false	1	0	9999			fa
 hkrul_norsca_enchanted_1	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_enchanted_2	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_ship_5	hkrul_norsca_ship_5	.	false	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_enchanted_3	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
+hkrul_norsca_enchanted_4	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
