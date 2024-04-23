@@ -19,3 +19,5 @@ rhox_drenok_ice_unit_strength	weapon_damage.png	97	weapon_damage.png	battle	true
 hkrul_drenok_bear	mount.png	50	mount.png	both	true
 rhox_drenok_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
 rhox_drenok_elite_attack	melee.png	300	melee.png	battle	true
+hkrul_ymir_melee	melee.png	300	melee.png	battle	true
+hkrul_ymir_morale	morale.png	300	melee.png	battle	true
