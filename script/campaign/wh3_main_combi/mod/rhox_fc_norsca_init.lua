@@ -1,3 +1,11 @@
+RHOX_NORSCA_ADELLA_SPAWN_LOCATIONS = {	-- Startup config of spawn locations. On a new game, this is copied into the runtime NORSCA_AVAILABLE_SPAWN_LOCATIONS if adella is human
+	{152, 521},
+	{154, 565},
+	{134, 476},
+	{190, 465},
+}
+
+
 local faction_key_to_mission_key={
     wh2_dlc17_nor_deadwood_ravagers ={	"wh3_main_combi_region_the_twisted_towers"}, --Khrag   --, "wh3_main_combi_region_black_rock", "wh3_main_combi_region_the_silvered_tower_of_sorcerers" these are dark fortress but it won't affect it. I've included them as a false thinking
     wh2_main_nor_aghol={	"wh3_main_combi_region_fortress_of_the_damned"},--, "wh3_main_combi_region_the_frozen_city" 
@@ -182,6 +190,12 @@ local rhox_faction_list={
                 mm:add_payload("money 1000");
                 mm:trigger()
 
+                cm:callback(
+                    function()
+                        NORSCA_AVAILABLE_SPAWN_LOCATIONS = table.copy(RHOX_NORSCA_ADELLA_SPAWN_LOCATIONS)
+                    end,
+                    5
+                )
             end
             
 
@@ -352,7 +366,7 @@ local rhox_faction_list={
     wh_main_nor_baersonling ={
         leader={
             subtype="hkrul_einar",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_dlc24_tze_mon_cockatrice,wh3_main_monster_feral_ice_bears,hkrul_norsca_ymir_ror",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_dlc24_tze_mon_cockatrice,dead_drenok_ice_bears,hkrul_norsca_ymir_ror",
             x=729,
             y=700,
             forename ="names_name_5670700356",

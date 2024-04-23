@@ -85,9 +85,17 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			scm_norsca_ulsdau	characters	false
 			scm_norsca_ulsdau	all_non_chs	true
 			scm_norsca_ulsdau	nor_all	false
+			scm_norsca_ulsdau	scm_norsca_huern_wolf	false
+			scm_norsca_ulsdau	mp_cap_group_heroes	false
+			hkrul_graill	mp_cap_group_heroes	false
+			hkrul_graill	nor_all	false
+			hkrul_graill	scm_norsca_huern_wolf	false
+			hkrul_graill	characters	false
+			hkrul_graill	all_non_chs	true
 			nor_skin_wolf_lord	characters	false
 			nor_skin_wolf_lord	all_non_chs	true
 			nor_skin_wolf_lord	nor_all	false
+			nor_skin_wolf_lord	scm_norsca_huern_wolf	false
 			scm_norsca_huern	characters	false
 			scm_norsca_huern	all_non_chs	true
 			scm_norsca_huern	nor_all	false
@@ -95,6 +103,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			scm_norsca_huern_wolf	characters	false
 			scm_norsca_huern_wolf	all_non_chs	true
 			scm_norsca_huern_wolf	nor_all	false
+			scm_norsca_huern_wolf	hkrul_wolf_moon	false
 			scm_norsca_asta	characters	false
 			scm_norsca_asta	all_non_chs	true
 			scm_norsca_asta	nor_all	false

@@ -13,3 +13,15 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			dead_drenok_ice_golem	hkrul_drenok_ice_wolves	false
 			dead_drenok_greater_ice_golem	hkrul_drenok_ice_wolves	false
 			dead_drenok_ice_bears	hkrul_drenok_ice_wolves	false
+			dead_drenok_ice_golem	all_non_chs	true
+			dead_drenok_ice_golem	nor_all	false
+			dead_drenok_ice_golem	wh2_dlc11_nor_skin_wolves_trolls	false
+			dead_drenok_ice_golem	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots	false
+			dead_drenok_ice_bears	all_non_chs	true
+			dead_drenok_ice_bears	nor_all	false
+			dead_drenok_ice_bears	wh2_dlc11_nor_skin_wolves_trolls	false
+			dead_drenok_ice_bears	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots	false
+			dead_drenok_greater_ice_golem	all_non_chs	true
+			dead_drenok_greater_ice_golem	nor_all	false
+			dead_drenok_greater_ice_golem	wh2_dlc11_nor_skin_wolves_trolls	false
+			dead_drenok_greater_ice_golem	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots	false
