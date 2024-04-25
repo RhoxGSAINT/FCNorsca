@@ -18,5 +18,5 @@ scm_norsca_asta	false	false		scm_norsca_asta	wh2_dlc16_vo_actor_Wood_Elves_Glade
 scm_norsca_alfkael	false	true		scm_norsca_alfkael	wh_dlc08_vo_actor_Norsca_Shaman_Sorcerer	false	-1	false	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
 hkrul_graill	false	false		hkrul_graill	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_hildr	false	false		hkrul_hildr	wh2_dlc10_vo_actor_Dark_Elves_Supreme_Sorceress	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
-hkrul_skald_horn	true	false	ui/campaign ui/agents/wh3_pro11_chs_harald_hammerstorm.png	hkrul_skald_horn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	1100		
-hkrul_skald_drum	true	false	ui/campaign ui/agents/wh3_pro11_chs_harald_hammerstorm.png	hkrul_skald_drum	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	1100		
+hkrul_skald_horn	true	false	ui/campaign ui/agents/scm_fc_norsca_skald_horn.png	hkrul_skald_horn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	1100		
+hkrul_skald_drum	true	false	ui/campaign ui/agents/scm_fc_norsca_skald_drum.png	hkrul_skald_drum	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	1100		
