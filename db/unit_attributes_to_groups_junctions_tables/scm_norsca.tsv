@@ -36,6 +36,10 @@ devastating_flanker	hkrul_drenok_wolf
 hide_forest	hkrul_einar
 encourages	hkrul_einar
 mark_tzeentch	hkrul_einar
+causes_fear	hkrul_einar_bear
+encourages	hkrul_einar_bear
+hide_forest	hkrul_einar_bear
+mark_tzeentch	hkrul_einar_bear
 devastating_flanker	hkrul_akkorak
 encourages	hkrul_akkorak
 hide_forest	hkrul_akkorak

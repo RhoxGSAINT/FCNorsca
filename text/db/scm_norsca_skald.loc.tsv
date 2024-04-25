@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/scm_norsca_skald.loc		
+agent_culture_details_description_text_9880128	I like poetries	false
+agent_culture_details_onscreen_name_9880128	Skald	false
+agent_subtypes_description_text_override_hkrul_skald_horn		false
+agent_subtypes_onscreen_name_override_hkrul_skald_horn	Skald (Horn Blower)	false
+agent_subtypes_description_text_override_hkrul_skald_drum		false
+agent_subtypes_onscreen_name_override_hkrul_skald_drum	Skald (Drummer)	false
+land_units_onscreen_name_hkrul_skald_horn	Skald (Horn Blower)	false
+land_units_onscreen_name_hkrul_skald_drum	Skald (Drummer)	false

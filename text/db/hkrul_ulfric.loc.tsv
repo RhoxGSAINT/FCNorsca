@@ -4,7 +4,7 @@ character_skills_localised_name_innate_hkrul_ulfric	King of Eldagrimm	true
 character_skills_localised_description_innate_hkrul_ulfric	The High King of the Bjornlings sets his sight on the realms of men, not for war - but for commerce.	true
 character_skills_localised_description_hkrul_ulfric_special_0_1	Forged in the harsh crucible of the Norse lands, Ulfric's resilience grants him enhanced defense, making him a stalwart bulwark against the onslaught of foes.	true
 character_skills_localised_name_hkrul_ulfric_special_0_1	Huskarls of Skjold	true
-character_skills_localised_description_hkrul_ulfric_special_1_1	Known for his diplomatic finesse, Ulfric's interactions with other factions yield improved relations, making alliances and trade agreements more attainable.	true
+character_skills_localised_description_hkrul_ulfric_special_1_1	High King Ulfric leaves a lasting legacy, enhancing the growth and development of settlements under his rule. His people prosper and flourish in the shadow of Bjorn's Legacy.	true
 character_skills_localised_name_hkrul_ulfric_special_1_1	The High King	true
 character_skills_localised_description_hkrul_ulfric_special_1_2	As the Frostbound Leader, Ulfric inspires his troops with unyielding determination. Under his command, the Bjornlings fight with enhanced morale and fervor.	true
 character_skills_localised_name_hkrul_ulfric_special_1_2	The Great Hall	true
@@ -16,7 +16,7 @@ character_skills_localised_description_hkrul_ulfric_special_1_3	The Boreal Wrath
 character_skills_localised_name_hkrul_ulfric_special_1_3	Excellent Seafarers	true
 character_skills_localised_description_hkrul_ulfric_special_0_2	Ulfric's deep connection to the Bjornling heritage grants him the ability to recruit specialized units unique to his tribe, instilling a sense of cultural pride in his forces	true
 character_skills_localised_name_hkrul_ulfric_special_0_2	The Bjornling Tribe	true
-character_skills_localised_description_hkrul_ulfric_special_1_4	High King Ulfric leaves a lasting legacy, enhancing the growth and development of settlements under his rule. His people prosper and flourish in the shadow of Bjorn's Legacy.	true
+character_skills_localised_description_hkrul_ulfric_special_1_4	Known for his diplomatic finesse, Ulfric's interactions with other factions yield improved relations, making alliances and trade agreements more attainable.	true
 character_skills_localised_name_hkrul_ulfric_special_1_4	Aspirations of Commerce	true
 agent_subtypes_onscreen_name_override_hkrul_ulfric	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_ulfric		false

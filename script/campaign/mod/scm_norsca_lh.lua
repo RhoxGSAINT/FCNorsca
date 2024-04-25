@@ -78,7 +78,7 @@ cm:add_first_tick_callback(
                             if details.no_tow and cm:get_campaign_name() == "cr_oldworld" then
                                 return false--don't do it if this mission is not for tow
                             end
-							return faction:name() == details.faction_key and turn == details.ai_turn
+							return faction:name() == details.faction_key and turn == details.player_trigger_turn
                         end,
                         function(context)
 							local faction = context:faction()

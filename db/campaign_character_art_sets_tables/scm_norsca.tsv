@@ -37,3 +37,9 @@ scm_norsca_asta	dignitary				false	true	scm_norsca_asta	1.0000
 scm_norsca_alfkael	wizard				false	true	scm_norsca_alfkael	1.0000
 hkrul_graill	champion				false	true	hkrul_graill	0.7600
 hkrul_hildr	champion				false	true	hkrul_hildr	1.1100
+hkrul_skald_horn_1	spy				false	true	hkrul_skald_horn	1.0000
+hkrul_skald_horn_2	spy				false	true	hkrul_skald_horn	1.0000
+hkrul_skald_horn_3	spy				false	true	hkrul_skald_horn	1.0000
+hkrul_skald_drum_1	spy				false	true	hkrul_skald_drum	1.0000
+hkrul_skald_drum_2	spy				false	true	hkrul_skald_drum	1.0000
+hkrul_skald_drum_3	spy				false	true	hkrul_skald_drum	1.0000

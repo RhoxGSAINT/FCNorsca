@@ -129,3 +129,11 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_hildr	nor_all	false
 			hkrul_hildr	all_non_chs	false
 			hkrul_hildr	characters	false
+			hkrul_skald_horn	mp_cap_group_heroes	false
+			hkrul_skald_horn	nor_all	false
+			hkrul_skald_horn	all_non_chs	false
+			hkrul_skald_horn	characters	false
+			hkrul_skald_drum	mp_cap_group_heroes	false
+			hkrul_skald_drum	nor_all	false
+			hkrul_skald_drum	all_non_chs	false
+			hkrul_skald_drum	characters	false

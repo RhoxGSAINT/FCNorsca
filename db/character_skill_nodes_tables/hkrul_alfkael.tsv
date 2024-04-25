@@ -21,7 +21,6 @@ wolftribe_alfkael_magic_10		wh_main_skill_all_magic_all_08_power_drain		2	9		0	0
 wolftribe_alfkael_magic_11		wh2_dlc14_skilll_all_magic_all_greater_arcane_conduit		2	10		0	4	true
 wolftribe_alfkael_unique_01		wh_dlc08_skill_nor_lords_unique_aura_of_chaos		0	1		0	0	true
 wolftribe_alfkael_unique_02		wh_dlc08_skill_nor_wizards_unique_ritualistic_fury		0	2		0	0	true
-wolftribe_alfkael_unique_05		wh3_main_skill_all_mentor_hero		0	5		0	0	true
 wolftribe_alfkael_innate_01		wolftribe_skill_innate_one_eye		6	0		1	0	true
 wolftribe_alfkael_unique_04		wolftribe_skill_unique_wisdom		0	4		0	0	true
 wolftribe_alfkael_self_01		wolftribe_skill_self_wise_one		1	0		0	0	true

@@ -1,0 +1,12 @@
+attrition	unit
+#campaign_map_attrition_unit_immunities_tables;0;db/campaign_map_attrition_unit_immunities_tables/scm_norsca_skald	
+non_vampire_territory	hkrul_skald_horn
+mountain	hkrul_skald_horn
+nurgle_plague	hkrul_skald_horn
+snow	hkrul_skald_horn
+chaos_territory	hkrul_skald_horn
+non_vampire_territory	hkrul_skald_drum
+mountain	hkrul_skald_drum
+nurgle_plague	hkrul_skald_drum
+snow	hkrul_skald_drum
+chaos_territory	hkrul_skald_drum

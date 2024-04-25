@@ -17,7 +17,10 @@ local confederation_items_list={
     "hkrul_norsca_follower_1",
     "hkrul_norsca_enchanted_1",
     "hkrul_norsca_enchanted_2",
+    "hkrul_norsca_enchanted_3",
+    "hkrul_norsca_enchanted_4",
 }
+
 
 core:add_listener(
     "rhox_fc_norsca_ancillary_giver",
