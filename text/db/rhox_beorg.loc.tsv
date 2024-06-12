@@ -116,8 +116,6 @@ unit_description_historical_texts_text_hkrul_beorg_bear_sem	Bearsson was the Bla
 unit_description_short_texts_text_hkrul_beorg_bear_sem	Bearsson was the Black Sheep of the family who sought to rid himself of chaos and study poetry in Nuln, as punishment his mark of the Bear transformed him completely.	false
 unit_abilities_tooltip_text_hkrul_beorg_fang	Dark magic radiating bloodied claws are the sacred talisman of the Ursfjordings tribe, worn by Beorg Bearstruck.	true
 unit_abilities_onscreen_name_hkrul_beorg_fang	Bear-Fang Talisman	true
-unit_abilities_tooltip_text_hkrul_beorg_pal	Placeholder Text	true
-unit_abilities_onscreen_name_hkrul_beorg_pal	Fortress Wardens	true
 unit_abilities_tooltip_text_hkrul_beorg_sword	Yellowed canines are the sacred talisman of the Ursfjordings tribe, these teeth are blessed with dark magic.	true
 unit_abilities_onscreen_name_hkrul_beorg_sword	Bear-Fang Talisman	true
 unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_bear_form_disadvantages	Bear form loses stalk, ranged attack, leadership abilities	false
@@ -183,7 +181,6 @@ land_units_onscreen_name_hkrul_beorg_bear_sem	Tyeddi Bearsson	true
 land_units_onscreen_name_hkrul_beorg_brown_feral_marked	Chaos Touched Bears	true
 unit_abilities_onscreen_name_hkrul_tyeddi	Bearsson's Smite	true
 unit_abilities_tooltip_text_hkrul_tyeddi	Once a proud would be poet, all that remains of Tyeddi Bearsson is untameable fury - which he unleashes with tremendous force.	false
-effects_description_hkrul_beorg_pal		false
 ui_unit_bullet_point_enums_tooltip_hkrul_hornblower	A hornblower inspires allies with invigorating blasts from his horn, while striking fear into the hearts of enemies with its ominous resonance.	false
 ui_unit_bullet_point_enums_onscreen_name_hkrul_hornblower	Hornblower	false
 ui_unit_groupings_onscreen_hkrul_hornblower	Hornblower Infantry	false

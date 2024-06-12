@@ -1,3 +1,7 @@
+2024/JUN/12 SCM -2
+- Added missing icons for the oerl frenzy icon and building
+- Removed hkrul_beorg_pal and hkrul_beorg_sword from the DB as it wasn't used, but were confusing some of the people
+
 2024/JUN/12 SCM
 - Fixed the issue of Aesling seeing skull piles but not being able to collect them by creating another pooled resource. So you'll not be able to see the piles after the patch. If you were playing Aesling, your skull piles will reset to 5000, sorry. 
 - Removed the duplicate entry for Asta's mentor 

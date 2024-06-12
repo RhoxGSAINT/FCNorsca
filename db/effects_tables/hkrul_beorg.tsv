@@ -3,9 +3,7 @@ effect	icon	priority	icon_negative	category	is_positive_value_good
 hkrul_beorg_fang	item_ability.png	300	item_ability.png	battle	true
 hkrul_beorg_rally	item_ability.png	300	item_ability.png	battle	true
 hkrul_beorg_claw	item_ability.png	300	item_ability.png	battle	true
-hkrul_beorg_sword	item_ability.png	300	item_ability.png	battle	true
 hkrul_beorg_bear_form	item_ability.png	300	item_ability.png	battle	true
-hkrul_beorg_pal	item_ability.png	300	item_ability.png	battle	true
 hkrul_beorg_bear_ws	weapon_damage.png	97	weapon_damage.png	battle	true
 hkrul_beorg_missile_block_inf	block_character.png	22	block_character.png	battle	true
 hkrul_beorg_bear_charge	charge.png	5	charge.png	battle	true

@@ -1,6 +1,5 @@
 phase	stat	value	how
 #special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_beorg			
-hkrul_beorg_pal	stat_damage_reflection	8.0000	add
 hkrul_beorg_rally	scalar_missile_damage_base	1.3000	mult
 hkrul_beorg_rally	scalar_missile_range	1.2000	mult
 hkrul_beorg_claw	stat_melee_damage_base	1.3000	mult

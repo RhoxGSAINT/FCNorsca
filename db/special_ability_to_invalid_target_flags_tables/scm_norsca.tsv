@@ -15,3 +15,4 @@ out_of_melee	hkrul_harald_king
 unit_is_not_commander_class	hkrul_hildr_axe
 unit_is_large	hkrul_ulfric_ymir
 unit_is_large	hkrul_ulfric_ymir_ror
+is_not_missile_unit	hkrul_beorg_rally
