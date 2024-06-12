@@ -40,14 +40,14 @@ hkrul_skill_node_einar_misc_09		hkrul_einar_sword		6	20		0	0	true
 hkrul_einar_bear		hkrul_einar_bear		0	0		0	0	true
 hkrul_skill_node_einar_self_01		wh_dlc08_skill_nor_lord_self_spirit_wanderer		2	1		0	0	true
 hkrul_skill_node_einar_self_02		wh_dlc08_skill_nor_lord_self_dark_deceiver		2	2		0	0	true
-hkrul_skill_node_einar_self_03		wh_dlc08_skill_nor_lord_self_sorcery_of_the_eagle		2	3		0	2	true
+hkrul_skill_node_einar_self_03		wh_dlc08_skill_nor_lord_self_sorcery_of_the_eagle		2	3		0	4	true
 hkrul_skill_node_einar_self_04		wh3_main_skill_tze_generic_hates_nurgle		2	4		0	0	true
 hkrul_skill_node_einar_self_05		wh3_main_skill_tze_lord_army_seer_of_destiny		2	5		0	0	true
-hkrul_skill_node_einar_self_06		wh3_main_skill_tze_lord_unique_hidden_in_time		2	6		0	2	true
-rhox_einar_elite		rhox_einar_elite	wh_dlc08_nor_norsca	0	13		1	0	true
-hkrul_skill_node_einar_self_07		wh_main_skill_all_all_self_foe-seeker		2	7		0	0	true
+hkrul_skill_node_einar_self_06		wh3_main_skill_tze_lord_unique_hidden_in_time		2	6		0	0	true
+hkrul_skill_node_einar_self_07		wh_main_skill_all_all_self_foe-seeker		2	7		0	3	true
 hkrul_skill_node_einar_self_08		wh2_dlc11_skill_all_lord_self_wound-maker		2	8		0	0	true
 hkrul_skill_node_einar_self_09		wh2_dlc11_skill_all_lord_self_scarred_veteran		2	9		0	0	true
 hkrul_skill_node_einar_self_10		wh2_dlc11_skill_all_lord_self_self_indomitable		2	10		0	0	true
 hkrul_skill_node_einar_self_11		wh2_dlc11_skill_all_lord_self_blade_shield		2	11		0	0	true
 hkrul_skill_node_einar_self_12		wh_main_skill_all_all_self_deadly_onslaught		2	12		0	4	true
+rhox_einar_elite		rhox_einar_elite	wh_dlc08_nor_norsca	0	13		1	0	true

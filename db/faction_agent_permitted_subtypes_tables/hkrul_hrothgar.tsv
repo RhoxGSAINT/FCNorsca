@@ -1,21 +1,21 @@
-agent	faction	subtype
-#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_hrothgar		
-general	wh_dlc08_nor_norsca	hkrul_hrothgar
-general	wh2_main_nor_aghol	hkrul_hrothgar
-general	wh2_main_nor_skeggi	hkrul_hrothgar
-general	wh3_dlc20_nor_dolgan	hkrul_hrothgar
-general	wh3_dlc20_nor_kuj	hkrul_hrothgar
-general	wh3_dlc20_nor_kul	hkrul_hrothgar
-general	wh3_dlc20_nor_tong	hkrul_hrothgar
-general	wh3_dlc20_nor_yusak	hkrul_hrothgar
-general	wh3_dlc21_nor_wyrmkins	hkrul_hrothgar
-general	wh_dlc08_nor_naglfarlings	hkrul_hrothgar
-general	wh_dlc08_nor_vanaheimlings	hkrul_hrothgar
-general	wh_dlc08_nor_wintertooth	hkrul_hrothgar
-general	wh_main_nor_aesling	hkrul_hrothgar
-general	wh_main_nor_baersonling	hkrul_hrothgar
-general	wh_main_nor_bjornling	hkrul_hrothgar
-general	wh_main_nor_graeling	hkrul_hrothgar
-general	wh_main_nor_sarl	hkrul_hrothgar
-general	wh_main_nor_skaeling	hkrul_hrothgar
-general	wh_main_nor_varg	hkrul_hrothgar
+agent	faction	subtype	mod_disabled
+#faction_agent_permitted_subtypes_tables;1;db/faction_agent_permitted_subtypes_tables/hkrul_hrothgar			
+general	wh_dlc08_nor_norsca	hkrul_hrothgar	false
+general	wh2_main_nor_aghol	hkrul_hrothgar	false
+general	wh2_main_nor_skeggi	hkrul_hrothgar	false
+general	wh3_dlc20_nor_dolgan	hkrul_hrothgar	false
+general	wh3_dlc20_nor_kuj	hkrul_hrothgar	false
+general	wh3_dlc20_nor_kul	hkrul_hrothgar	false
+general	wh3_dlc20_nor_tong	hkrul_hrothgar	false
+general	wh3_dlc20_nor_yusak	hkrul_hrothgar	false
+general	wh3_dlc21_nor_wyrmkins	hkrul_hrothgar	false
+general	wh_dlc08_nor_naglfarlings	hkrul_hrothgar	false
+general	wh_dlc08_nor_vanaheimlings	hkrul_hrothgar	false
+general	wh_dlc08_nor_wintertooth	hkrul_hrothgar	false
+general	wh_main_nor_aesling	hkrul_hrothgar	false
+general	wh_main_nor_baersonling	hkrul_hrothgar	false
+general	wh_main_nor_bjornling	hkrul_hrothgar	false
+general	wh_main_nor_graeling	hkrul_hrothgar	false
+general	wh_main_nor_sarl	hkrul_hrothgar	false
+general	wh_main_nor_skaeling	hkrul_hrothgar	false
+general	wh_main_nor_varg	hkrul_hrothgar	false

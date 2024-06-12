@@ -1,0 +1,11 @@
+phase	stat	value	how
+#special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/hkrul_oerl			
+hkrul_oerl_axes	stat_bonus_vs_infantry	10.0000	add
+hkrul_oerl_axes	scalar_missile_damage_ap	1.3000	mult
+hkrul_oerl_frenzy	stat_resistance_physical	30.0000	add
+hkrul_oerl_horn	stat_melee_attack	20.0000	add
+hkrul_oerl_axe	stat_melee_damage_base	1.3000	mult
+hkrul_oerl_horn_enemy	stat_melee_defence	-10.0000	add
+hkrul_oerl_horn_enemy	stat_morale	-10.0000	add
+hkrul_tyeddi	scalar_splash_attack_power	1.5000	mult
+hkrul_tyeddi	stat_melee_attack	20.0000	add

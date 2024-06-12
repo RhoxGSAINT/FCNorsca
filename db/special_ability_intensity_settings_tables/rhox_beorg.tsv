@@ -1,0 +1,4 @@
+ability	default_amount	max_amount	intensity_source	intensity_type	intensity_decay_delay	intensity_decay_duration	reset_intensity_in_reinforcement_pool
+#special_ability_intensity_settings_tables;3;db/special_ability_intensity_settings_tables/rhox_beorg							
+hkrul_oerl_axes	0.0000	200.0000	kills_made	linear_multiplier	-1.0000	0.0000	false
+hkrul_oerl_frenzy	0.0000	200.0000	enemies_in_range	linear_multiplier	-1.0000	0.0000	false

@@ -1,0 +1,4 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/rhox_beorg												
+hkrul_oerl	1	2147343937		100	2147343940	hkrul_oerl	champion	hkrul_oerl	ui/portraits/portholes/no_culture/hkrul_oerl.png	988399736		true
+hkrul_beorg	1	2147343937		100	2147343940	hkrul_beorg	general	hkrul_beorg	ui/portraits/portholes/no_culture/hkrul_beorg.png	988399737		true

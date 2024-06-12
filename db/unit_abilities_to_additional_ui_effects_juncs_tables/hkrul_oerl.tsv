@@ -1,0 +1,4 @@
+ability	effect
+#unit_abilities_to_additional_ui_effects_juncs_tables;0;db/unit_abilities_to_additional_ui_effects_juncs_tables/hkrul_oerl	
+hkrul_oerl_frenzy	wh2_main_all_increases_with_enemies_in_range
+hkrul_oerl_axes	wh3_main_ability_intensity_kills

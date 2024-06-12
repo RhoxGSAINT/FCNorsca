@@ -347,20 +347,23 @@ rhox_fc_norsca_far_east_monster_hunts={
 
 cm:add_first_tick_callback_new(
     function() 
-        monster_hunts["wh2_main_nor_skeggi"]=rhox_adellia_nor_monster_hunts--they're special because they don't do old world monster hunts
-        monster_hunts["wh3_dlc20_nor_dolgan"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh3_dlc20_nor_kul"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_dlc08_nor_vanaheimlings"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_main_nor_aesling"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_main_nor_baersonling"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_main_nor_bjornling"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_main_nor_graeling"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_main_nor_sarl"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_main_nor_varg"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["mixer_nor_fjordlings"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh_dlc08_nor_naglfarlings"]=rhox_fc_norsca_nor_monster_hunts
-        monster_hunts["wh3_dlc20_nor_yusak"]=rhox_fc_norsca_far_east_monster_hunts--they're too far at east
-
+        if monster_hunts and type(monster_hunts) == "table" then
+            --out("Rhox FC Norsca: Adding monster hunts")
+            monster_hunts["wh2_main_nor_skeggi"]=rhox_adellia_nor_monster_hunts--they're special because they don't do old world monster hunts
+            monster_hunts["wh3_dlc20_nor_dolgan"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh3_dlc20_nor_kul"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_dlc08_nor_vanaheimlings"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_main_nor_aesling"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_main_nor_baersonling"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_main_nor_bjornling"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_main_nor_graeling"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_main_nor_sarl"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_main_nor_varg"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["mixer_nor_fjordlings"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh_dlc08_nor_naglfarlings"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["mixer_nor_beorg"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["wh3_dlc20_nor_yusak"]=rhox_fc_norsca_far_east_monster_hunts--they're too far at east
+        end
     end
 );
 

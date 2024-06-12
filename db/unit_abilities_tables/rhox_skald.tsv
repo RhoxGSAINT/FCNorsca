@@ -1,0 +1,10 @@
+key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
+#unit_abilities_tables;17;db/unit_abilities_tables/rhox_skald											
+rhox_skald_battle_chant	false	hkrul_battle_chant		wh_type_area_of_augments		wh_main_anc_group_common	false	false	active		false
+rhox_skald_guardian_cadence	false	hkrul_drum1		wh_type_area_of_augments		wh_main_anc_group_uncommon	false	false	active		false
+rhox_skald_fury_call	false	hkrul_horn1		wh_type_area_of_augments		wh_main_anc_group_uncommon	false	false	active		false
+rhox_skald_guardian_cadence_upgraded	true	hkrul_drum1		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	active		false
+rhox_skald_fury_call_upgraded	true	hkrul_horn1		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	active		false
+hkrul_skald_horn_passive	true	hkrul_horn_pas_1		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_skald_drum_passive	true	hkrul_drum_pas_1		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_skald_saga	true	hkrul_skald_saga		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	active		false

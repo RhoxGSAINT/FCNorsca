@@ -1,0 +1,12 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/hkrul_beorg	
+hide_forest	hkrul_beorg_bear
+causes_terror	hkrul_beorg_bear
+stalk	hkrul_beorg
+encourages	hkrul_beorg
+encourages	hkrul_beorg_bear_sem
+hide_forest	hkrul_beorg_bear_sem
+causes_fear	hkrul_beorg_bear_sem
+strider	hkrul_beorg_bear_sem
+guerrilla_deploy	hkrul_beorg_bear_sem
+ignore_trees	hkrul_beorg_bear_sem

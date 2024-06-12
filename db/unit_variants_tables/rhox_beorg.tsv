@@ -1,0 +1,10 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/rhox_beorg				
+	hkrul_oerl	hkrul_oerl	hkrul_oerl	hkrul_oerl
+	hkrul_bearmen	hkrul_bearmen	hkrul_bearmen	hkrul_bearmen
+	hkrul_beorg_brown_feral	wh3_main_monster_feral_bears	wh3_main_monster_feral_bears	wh3_main_monster_feral_bears
+	hkrul_beorg_ice_feral	wh3_main_monster_feral_ice_bears	wh3_main_monster_feral_ice_bears	wh3_main_monster_feral_ice_bears
+	hkrul_beorg_bear_sem	wh3_main_monster_feral_bears	hkrul_beorg_bear_sem	hkrul_beorg_bear_sem
+	hkrul_beorg_brown_feral_marked	phy_bears	phy_bears	hkrul_beorg_brown_feral_marked
+	hkrul_beorg	hkrul_beorg	hkrul_beorg	hkrul_beorg
+	hkrul_beorg_bear	hkrul_beorg_bear	hkrul_beorg_bear	hkrul_beorg_bear

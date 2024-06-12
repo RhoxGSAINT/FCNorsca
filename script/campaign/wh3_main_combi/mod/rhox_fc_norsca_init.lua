@@ -4,7 +4,17 @@ RHOX_NORSCA_ADELLA_SPAWN_LOCATIONS = {	-- Startup config of spawn locations. On 
 	{134, 476},
 	{190, 465},
 }
-
+local norsca_ror_table={
+    {"wh_dlc08_nor_art_hellcannon_battery", "wh_dlc08_nor_art_hellcannon_battery"},
+    {"wh_pro04_nor_mon_war_mammoth_ror_0", "wh_pro04_nor_mon_war_mammoth_ror_0"},
+    {"wh_dlc08_nor_mon_frost_wyrm_ror_0", "wh_dlc08_nor_mon_frost_wyrm_ror_0"},
+    {"wh_pro04_nor_inf_chaos_marauders_ror_0","wh_pro04_nor_inf_chaos_marauders_ror_0"}, 
+    {"wh_pro04_nor_mon_fimir_ror_0", "wh_pro04_nor_mon_fimir_ror_0"},
+    {"wh_pro04_nor_mon_marauder_warwolves_ror_0", "wh_pro04_nor_mon_warwolves_ror_0"},
+    {"wh_pro04_nor_inf_marauder_berserkers_ror_0","wh_pro04_nor_inf_marauder_berserkers_ror_0"},
+    {"wh_pro04_nor_mon_skinwolves_ror_0","wh_pro04_nor_mon_skinwolves_ror_0"}, 
+    {"wh_dlc08_nor_mon_war_mammoth_ror_1", "wh_dlc08_nor_mon_war_mammoth_ror_1"},
+}
 
 local faction_key_to_mission_key={
     wh2_dlc17_nor_deadwood_ravagers ={	"wh3_main_combi_region_the_twisted_towers"}, --Khrag   --, "wh3_main_combi_region_black_rock", "wh3_main_combi_region_the_silvered_tower_of_sorcerers" these are dark fortress but it won't affect it. I've included them as a false thinking
@@ -216,7 +226,7 @@ local rhox_faction_list={
         how_they_play="rhox_fc_norsca_dolgan_how_they_play",
         pic=800,
         faction_trait="hkrul_sayl_faction_trait",
-        kill_previous_leader=true,
+        kill_previous_leader="human_only",
         enemy={
             key="wh3_main_ogr_fleshgreeders",
         },
@@ -728,6 +738,54 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
+    mixer_nor_beorg ={
+        leader={
+            subtype="hkrul_beorg",
+            unit_list="wh_main_nor_mon_chaos_warhounds_0,hkrul_bearmen,hkrul_beorg_brown_feral,hkrul_beorg_brown_feral,hkrul_beorg_brown_feral_marked",
+            x=747,
+            y=794,
+            forename ="names_name_5677700722",
+            familiyname ="names_name_5677700721",
+        },
+        hand_over_region="wh3_main_combi_region_yetchitch",
+        region="wh3_main_combi_region_yetchitch",
+        how_they_play="rhox_iee_lccp_how_they_play_beorg",
+        pic=800,
+        faction_trait="rhox_beorg_faction_trait",
+        kill_previous_leader=true,
+        enemy={
+            key="wh3_main_ksl_ropsmenn_clan",
+            subtype="wh3_main_ksl_boyar",
+            unit_list="wh3_main_ksl_inf_kossars_0,wh3_main_ksl_inf_kossars_0,wh3_main_ksl_inf_kossars_1,wh3_main_ksl_inf_kossars_1,wh3_main_ksl_cav_horse_raiders_0",
+            x=746,
+            y=789
+        },
+        additional = function(faction, faction_key)
+            for i, ror in pairs(norsca_ror_table) do
+                cm:add_unit_to_faction_mercenary_pool(faction,ror[1],"renown",1,100,1,0.1,"","","",true,ror[2])
+            end 
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+            
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_oerl", true)
+		    
+		    local target_region = cm:get_region("wh3_main_combi_region_yetchitch")
+		    if faction:is_human() ==false then
+                cm:instantly_set_settlement_primary_slot_level(target_region:settlement(), 2)
+                local target_slot = target_region:slot_list():item_at(1)
+                cm:instantly_upgrade_building_in_region(target_slot, "wh_main_nor_garrison_2")
+            else                
+                cm:instantly_set_settlement_primary_slot_level(target_region:settlement(), 1)
+            end
+            cm:heal_garrison(target_region:cqi())
+
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    }
     --[[mixer_nor_fjordlings ={
         leader={
             subtype="wh_main_nor_marauder_chieftain",

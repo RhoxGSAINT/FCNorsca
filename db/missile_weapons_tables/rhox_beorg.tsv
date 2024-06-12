@@ -1,0 +1,3 @@
+key	precursor	default_projectile	audio_type	use_secondary_ammo_pool
+#missile_weapons_tables;11;db/missile_weapons_tables/rhox_beorg				
+hkrul_beorg_axe	false	hkrul_beorg_axe	javelin	false

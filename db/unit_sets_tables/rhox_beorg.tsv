@@ -1,0 +1,9 @@
+key	use_unit_exp_level_range	min_unit_exp_level_inclusive	max_unit_exp_level_inclusive	special_category
+#unit_sets_tables;2;db/unit_sets_tables/rhox_beorg				
+rhox_lccp_nor_vets_marauder_hunters_marauder_horsemen_ror	false	-1	-1	
+hkrul_oerl_bears	false	-1	-1	
+hkrul_oerl_hunters	false	-1	-1	
+hkrul_oerl_wolves	false	-1	-1	
+hkrul_oerl_bearmen	false	-1	-1	
+hkrul_beorg_bear	false	-1	-1	
+hkrul_vroth_horse	false	-1	-1	

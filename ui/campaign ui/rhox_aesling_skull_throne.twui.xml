@@ -64,16 +64,16 @@
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoCampaignFaction"
-					context_function_id="PooledResourceContext(&quot;wh3_main_kho_skulls&quot;)"/>
+					context_function_id="PooledResourceContext(&quot;rhox_aesling_kho_skulls&quot;)"/>
 				<callback_with_context
 					callback_id="ContextPropagator"
 					context_object_id="CcoCampaignFaction"
-					context_function_id="RitualContextForKey(&quot;wh3_main_ritual_kho_the_skull_throne&quot;)"/>
+					context_function_id="RitualContextForKey(&quot;rhox_aesling_ritual_kho_the_skull_throne&quot;)"/>
 			</callbackwithcontextlist>
 			<userproperties>
 				<property
 					name="resource_key"
-					value="wh3_main_kho_skulls"/>
+					value="rhox_aesling_kho_skulls"/>
 			</userproperties>
 			<states>
 				<default

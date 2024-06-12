@@ -1,0 +1,4 @@
+agent_subtype	clan_name	forename	other_name	surname	agent_type	spawn_behaviour	spawn_via_ui
+#unique_agents_tables;3;db/unique_agents_tables/rhox_beorg							
+hkrul_beorg		5677700722		5677700721	general	FACTION_LEADER	false
+hkrul_oerl	2147358913	7411711822	2147358913	7411711821	champion	FACTION_LEADER	false

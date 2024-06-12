@@ -5,5 +5,5 @@ hkrul_sayl_staff	stat_damage_reflection	25.0000	add
 hkrul_sayl_staff	stat_resistance_physical	20.0000	add
 hkrul_sayl_warp	scalar_missile_range	1.2000	mult
 hkrul_sayl_warp	scalar_missile_damage_base	1.2000	mult
-hkrul_sayl_skull_contact	stat_resistance_magic	0.9000	mult
+hkrul_sayl_skull_contact	stat_resistance_magic	-10.0000	add
 hkrul_sayl_skull_contact	stat_armour	-5.0000	add

@@ -3,7 +3,7 @@ building	effect	context_requirement	effect_scope	value	value_damaged	value_ruine
 rhox_fc_norsca_harald_throne	wh_main_effect_public_order_osmosis		building_to_adjacent_province	2.0000	1.0000	0.0000
 rhox_fc_norsca_harald_throne	wh_main_effect_character_stat_leadership_aura_size		faction_to_character_own	10.0000	5.0000	0.0000
 rhox_fc_norsca_harald_throne	wh_main_effect_economy_gdp_mod_all		province_to_region_own	20.0000	10.0000	0.0000
-rhox_fc_norsca_hafskael_yard	wh_main_effect_economy_gdp_trade_sea		building_to_building_own	200.0000	100.0000	0.0000
+rhox_fc_norsca_hafskael_yard	wh_main_effect_economy_gdp_trade_sea		building_to_building_own	350.0000	175.0000	0.0000
 rhox_fc_norsca_hafskael_yard	wh2_main_effect_force_army_campaign_attrition_all_sea_resistance		building_to_force_own_factionwide	-10.0000	-5.0000	0.0000
 rhox_fc_norsca_hafskael_yard	wh_main_effect_economy_trade_tariff_mod	FactionHasTrade	faction_to_faction_own_unseen	10.0000	5.0000	0.0000
 rhox_fc_norsca_kai_delta_swamp	wh2_main_effect_force_enemy_campaign_movement_range		region_to_force_enemy	-30.0000	-15.0000	0.0000
@@ -41,3 +41,5 @@ rhox_fc_norsca_corrupted_khemri	rhox_surtha_ek_ror_dummy	IsVarg	building_to_buil
 rhox_fc_norsca_corrupted_khemri	hkrul_surtha_chariots_speed		faction_to_force_own	25.0000	12.0000	0.0000
 rhox_fc_norsca_corrupted_khemri	hkrul_surtha_chariots_upkeep		faction_to_force_own	-35.0000	-17.0000	0.0000
 rhox_fc_norsca_corrupted_khemri	wh3_main_effect_force_stat_unit_mass_percentage_mod		faction_to_force_own	5.0000	2.0000	0.0000
+rhox_beorg_halls_of_urslo	hkrul_beorg_bear_defence		faction_to_force_own	5.0000	3.0000	0.0000
+rhox_beorg_halls_of_urslo	wh_main_effect_force_all_campaign_raid_income		building_to_force_own_in_adjacent_provinces	25.0000	13.0000	0.0000

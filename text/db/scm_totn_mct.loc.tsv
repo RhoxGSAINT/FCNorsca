@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/scm_totn_mct.loc		
+mct_scm_totn	Tribe of the North	false
+mct_scm_totn_description	Settings for the Tribes of the North mod	false
+mct_scm_totn_add_to_ll_pool_text	Add faction leaders to NORSCA_LEGENDARY_LORDS	false
+mct_scm_totn_add_to_ll_pool_tooltip	If leaders are in the NORSCA_LEGENDARY_LORDS table, they will get a confederation dilemma without the execution option, and won't get confederated to the enemy Norsca faction when defeated	false

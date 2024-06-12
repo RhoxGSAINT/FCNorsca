@@ -3,3 +3,13 @@ effect	icon	priority	icon_negative	category	is_positive_value_good
 hkrul_enable_immortality		0		campaign	true
 rhox_swyrd_leave_on_death_dummy	wound_time.png	1	wound_time.png	campaign	false
 hkrul_swyrd_helm	item_ability.png	300	item_ability.png	battle	true
+rhox_skald_agent_action_assist_army_improve_armour	armour.png	10	armour.png	campaign	true
+rhox_skald_agent_action_assist_army_improve_weapons	armour_piercing.png	10	armour_piercing.png	campaign	true
+rhox_skald_effect_agent_action_enable_spy_assist_army_replenish_troops	replenishment.png	101	replenishment.png	campaign	true
+rhox_skald_effect_increase_range	general_ability.png	5	general_ability.png	campaign	true
+rhox_skald_effect_disable_rhox_skald_guardian_cadence	general_ability.png	151		battle	true
+rhox_skald_effect_disable_rhox_skald_fury_call	general_ability.png	151		battle	true
+rhox_skald_effect_enable_rhox_skald_guardian_cadence_upgraded	general_ability.png	152		battle	true
+rhox_skald_effect_enable_rhox_skald_fury_call_upgraded	general_ability.png	152		battle	true
+hkrul_skald_horn_passive	general_ability.png	152		battle	true
+hkrul_skald_drum_passive	general_ability.png	152		battle	true

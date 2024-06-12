@@ -28,3 +28,5 @@ phase_is_deployment	hkrul_summon_bear
 phase_is_the_end_phase	hkrul_summon_bear
 phase_is_deployment	hkrul_summon_ymir
 phase_is_the_end_phase	hkrul_summon_ymir
+engaged_in_melee	hkrul_skald_horn_passive
+engaged_in_melee	hkrul_skald_drum_passive

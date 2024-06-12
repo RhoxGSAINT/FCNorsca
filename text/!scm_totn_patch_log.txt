@@ -1,0 +1,94 @@
+2024/JUN/12 SCM
+- Fixed the issue of Aesling seeing skull piles but not being able to collect them by creating another pooled resource. So you'll not be able to see the piles after the patch. If you were playing Aesling, your skull piles will reset to 5000, sorry. 
+- Removed the duplicate entry for Asta's mentor 
+- Fixed the issue of the hkrul_beorg_bear_sem entity having a walking speed of 15 instead of 1.5
+
+2024/MAY/25 SCM
+- Changed Rafn's bullet point to good against large from infantry as he has anti-large
+- Added MCT option so players can decide whether to allow players to add agent_subtypes in NORSCA_LEGENDARY_LORDS or not. (When they're in, they won't get confederated by AI Norsca when defeated, and dilemma with execution will fire)
+
+2024/MAY/17 SCM
+- Fixed the issue of Huern screaming when raiding and sieging
+
+2024/MAY/14 SCM
+- Changed the mentor node to updated one.
+- Changed the Mixer disable agent subtype to new CA's DB column
+
+2024/MAY/11 HKrul
+- Fixed broken Saga ability
+- Balanced upkeep
+- Added Huscarl to Landmark Garrison
+
+2024/MAY/08 SCM
+- Fixed the issue of ToD Nurgle guys seeing leftover of Kul's purchasable upgrade in the UI
+
+2024/MAY/08 SCM
+- Fixed the issue of Wolfcamps not getting Grudges
+
+2024/MAY/07 SCM
+- fixed the issue of Crown of skjold army ability not working
+
+2024/MAY/07 r1kko 
+- fixed the issue of explosion disappearing after casting spells
+2024/MAY/06 SCM -2
+Fixed the visual error of confderation scaling skill applying to Hrothyogg when it should be applied to Lenk
+
+2024/MAY/06 HKrul
+
+-Rebalanced Ymir
+-Rebalanced Skald
+
+
+2024/MAY/06 SCM
+- Fixed the issue of Beorg's init dummy leader not getting killed
+- Fixed the issue of female sound occuring at Hakka's sieging
+
+2024/MAY/05 SCM
+- Some skill node link fix mostly visual
+
+2024/MAY/04 r1kko
+- Skald model fix
+
+2024/MAY/04 SCM
+- Removed the teleport dummy effect from Einarr faction effect
+
+2024/MAY/03 SCM
+- Fixed the occurance of script break in RoC. READ FAQ THIS MOD DOES NOT SUPPORT RoC
+
+2024/MAY/02 SCM
+- Fixed the issue of Rafn having wrong indent for unique skill line
+
+2024/MAY/01 r1kko
+- Updated the Sayl's finger and boots
+
+2024/MAY/01 SCM -3
+- Dolgan's initial leader is only killed when Sayl is human as they're first enemy of Tamurakhan
+
+2024/MAY/01 SCM -2
+- Mission reward change
+- Variant selection in the custom change. 
+
+
+2024/MAY/01 SCM - HKrul
+
+- Added missing UI Bullet Points for Skald characters
+- Slightly shortened short unit description for skalds
+- Fixed an issue where Skald variants had different charge bonusses (40 and 30)
+- Fixed an issue where the Skald variants had a difference in total stats (42 / 37 and 48 / 32)
+- Increase Skald's HP to have them scale into late game better (as they have no mounts)
+- Fixed a typo in Skalds Agent actions and changed the titles to reflect their archetype.
+- Added new and worse melee weapon for Skalds to balance with Deco's Jarl champion hero.
+- Added two new abilities for Skalds. One passive per variant.
+- Created unique icons for Skalds abilities and one for Oerl's horn.
+- Changed a loc in Oerl's abilities that wrongfully refered to Huern the Wolf
+
+Suggestions: 
+
+- Custom battle instead of 2 agent types just 1 with a variant selector like the shaman mages, to prevent flooding the custom battle menu
+- Change the quest for bjornling capture pack ice bay reward to a skald (random). This will allow them to get one before Tier IV, which is a long time in their case.
+- Add unique skill line to tier 1 and perhaps add the passive abilities as character skill unlocks. 
+- Add generic item to battle item setpiece character like a potion of strength or toughness.
+
+
+2024/MAY/01 SCM
+- Init upload

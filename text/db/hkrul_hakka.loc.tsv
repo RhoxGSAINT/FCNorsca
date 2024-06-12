@@ -74,3 +74,9 @@ campaign_payload_ui_details_description_rhox_fc_norsca_bloodfather	Alfkaell the 
 missions_localised_title_rhox_fc_norsca_bloodfather	Skraevold's Bloodfather	false
 missions_localised_description_rhox_fc_norsca_bloodfather	Embark on a savage campaign, harvesting skulls from fallen foes to sate Khorne's hunger. Construct the grim altar of Valnir Aesling, its dark stone pulsating with ancient power. Perform the ritual sacrifice, invoking Alfkaell, the seer whose whispered prophecies echo the fury of Khorne himself. To beckon forth the legendary seer Alfkaell, Khorne's thirst for skulls must be quenched. Venture into battle, spill blood, and collect 15,000 skulls to offer at the altar of Valnir Aesling, where the very earth trembles with anticipation of the Blood God's favor.	false
 effects_description_rhox_fc_norsca_bloodfather_dummy	A mission is triggered to unlock a Legendary Hero	false
+pooled_resources_display_name_rhox_aesling_kho_skulls	{{tr:pooled_resources_display_name_wh3_main_kho_skulls}}	false
+pooled_resources_positive_factors_display_name_rhox_aesling_kho_skulls	{{tr:pooled_resources_positive_factors_display_name_wh3_main_kho_skulls}}	false
+pooled_resources_negative_factors_display_name_rhox_aesling_kho_skulls	{{tr:pooled_resources_negative_factors_display_name_wh3_main_kho_skulls}}	false
+pooled_resources_description_rhox_aesling_kho_skulls	{{tr:pooled_resources_description_wh3_main_kho_skulls}}	false
+rituals_display_name_rhox_aesling_ritual_kho_the_skull_throne	{{tr:rituals_display_name_wh3_main_ritual_kho_the_skull_throne}}	false
+rituals_description_rhox_aesling_ritual_kho_the_skull_throne	{{tr:rituals_description_wh3_main_ritual_kho_the_skull_throne}}	false

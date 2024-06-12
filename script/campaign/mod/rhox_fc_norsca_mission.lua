@@ -61,11 +61,16 @@ core:add_listener(
         mm:add_condition("region wh3_main_combi_region_pack_ice_bay");
         mm:add_condition("ignore_allies");
         mm:add_payload("money 1000");
-        mm:add_payload("text_display rhox_fc_norsca_agent_shaman_metal_dummy");
+        mm:add_payload("text_display rhox_fc_norsca_agent_skald_dummy");
         mm:trigger()
     end,
     true
 );
+
+local skald_types={
+    "hkrul_skald_horn",
+    "hkrul_skald_drum",
+}
 
 core:add_listener(
     "rhox_fc_norsca_bjornling_turn3_mission_complete",
@@ -75,10 +80,11 @@ core:add_listener(
         return mission_key == "rhox_fc_norsca_capture_ice_bay"
     end,
     function(context)
+        local agent_subtype = skald_types[cm:random_number(#skald_types,1)]
         local faction = context:faction()
         local x, y = cm:find_valid_spawn_location_for_character_from_character(faction:name(), cm:char_lookup_str(faction:faction_leader()), true, 10)
         if x ~= -1 and y ~= -1 then
-            local character = cm:spawn_agent_at_position(faction, x, y, "wizard", "wh_dlc08_nor_shaman_sorcerer_metal")
+            local character = cm:spawn_agent_at_position(faction, x, y, "spy", agent_subtype)
             if character then
                 cm:replenish_action_points(cm:char_lookup_str(character))
             end

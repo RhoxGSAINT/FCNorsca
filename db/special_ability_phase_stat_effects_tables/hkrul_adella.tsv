@@ -5,7 +5,7 @@ hkrul_adella_sword	stat_melee_damage_ap	1.7500	mult
 hkrul_soren_sack_1	scalar_spell_mastery	1.2500	mult
 hkrul_soren_sack_2	stat_mass	1.3000	mult
 hkrul_soren_sack_3	stat_melee_attack	30.0000	add
-hkrul_soren_sack_4	stat_resistance_all	0.9000	mult
+hkrul_soren_sack_4	stat_resistance_all	-10.0000	add
 hkrul_soren_sack_4	stat_morale	-5.0000	add
 hkrul_soren_sack_2_1	stat_melee_defence	40.0000	add
 hkrul_soren_sack_2_2	stat_damage_reflection	20.0000	add

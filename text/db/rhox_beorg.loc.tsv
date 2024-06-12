@@ -1,0 +1,190 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_beorg.loc		
+frontend_faction_leaders_frontend_description_mixer_nor_beorg	The Bearstrikken son of Bran sets out to sink his chaos-touched claws into the mortal realms of men.	false
+frontend_faction_leaders_loading_screen_text_mixer_nor_beorg	Beorg Bearstruck, a shapeshifter touched by the primal essence, carries the dual blessing and curse of bearstricken transformation. When the need arises, he morphs into a towering bear, a force of nature that strikes terror into the hearts of his foes. His warriors, the fearsome bearmen of Urslo, rally with growls and gnarls, ready to follow their chieftain southward. With every victorious conquest, Beorg's feral aura beckons feral ursine creatures to his banners. Mindless yet fierce, these feral bears join the relentless march, adding an untamed ferocity to the chaos Beorg aims to unleash. As he strings victories, the wilds respond, and the shapeshifter of Urslo's fury becomes an unstoppable force of devastation and primal might.	false
+frontend_faction_leaders_localised_action_points_mixer_nor_beorg	The Bearstrikken son of Bran sets out to sink his chaos-touched claws into the mortal realms of men.	false
+frontend_faction_leaders_localised_description_mixer_nor_beorg	The Bearstrikken son of Bran sets out to sink his chaos-touched claws into the mortal realms of men.	false
+factions_attack_desc_mixer_nor_beorg	You are attacking the Ursfjordings!	false
+factions_defend_desc_mixer_nor_beorg	You are defending against the Ursfjordings!	false
+factions_screen_adjective_mixer_nor_beorg		false
+factions_screen_name_mixer_nor_beorg	Ursfjordings	false
+factions_screen_name_when_rebels_mixer_nor_beorg	Ursfjordings Rebels	false
+loading_screen_quotes_title_hkrul_beorg	Beorg Bearstruck	false
+loading_screen_quotes_description_hkrul_beorg	Beorg, Son of Bran is a descendant of the Great Bear and is the mighty shapeshifting chieftain of the Ursfjordings Tribe.	false
+loading_screen_quotes_bulletpoints_hkrul_beorg	Special Ranged Weapon||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large||[[img:ui/battle ui/ability_icons/stalk.png]][[/img]]Stalk||Shapeshifter	false
+frontend_faction_leaders_frontend_description_cr_oldworld_political_party_nur_rotbloods		false
+frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_nur_rotbloods		false
+frontend_faction_leaders_localised_action_points_cr_oldworld_political_party_nur_rotbloods		false
+frontend_faction_leaders_localised_description_cr_oldworld_political_party_nur_rotbloods		false
+agent_subtypes_onscreen_name_override_hkrul_beorg	Descendant of the Great Bear	false
+agent_subtypes_description_text_override_hkrul_beorg		false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_beorg	Beorg Skills	false
+character_skill_node_sets_enc_title_skill_node_set_hkrul_oerl	Oerl Skills	false
+character_skills_localised_name_innate_hkrul_beorg	Bearstricken of Urslo	true
+character_skills_localised_description_innate_hkrul_beorg	The ravaging chieftain of the Ursfjording tribe is blessed by the Dark Gods.	true
+character_skills_localised_description_hkrul_beorg_special_0_1	Unknown to many, yet Beorg Bearstruck shares a blood bond with House Bokha, both descendants of the Great Bear.	true
+character_skills_localised_name_hkrul_beorg_special_0_1	Rare Descendants	true
+character_skills_localised_description_hkrul_beorg_special_1_1	Only the very finest beserkers may feast in the Halls of Urslo.	true
+character_skills_localised_name_hkrul_beorg_special_1_1	Fjord Beserkers	true
+character_skills_localised_description_hkrul_beorg_special_1_2	Bran was the legendary chieftain of Urslo and father of Beorg, who struck him down to claim his title.	true
+character_skills_localised_name_hkrul_beorg_special_1_2	Totem of Bran	true
+character_skills_localised_description_hkrul_beorg_special_1_5	The Bear Clans of Urslo serve the Dark Gods unconditionally.	true
+character_skills_localised_name_hkrul_beorg_special_1_5	Dark God's Blessings	true
+character_skills_localised_description_hkrul_beorg_special_1_0	He who fights with axe and shield is favoured among the Gods.	true
+character_skills_localised_name_hkrul_beorg_special_1_0	Path of the Tribe	true
+character_skills_localised_description_hkrul_beorg_special_1_3	The Beserkers of Ursfjord hurl they're axes as if they were mere pebbles.	true
+character_skills_localised_name_hkrul_beorg_special_1_3	Beorg's Skewers	true
+character_skills_localised_description_hkrul_beorg_special_0_2	The Legendary Ursfjord tribe is small in numbers yet great in their victories.	true
+character_skills_localised_name_hkrul_beorg_special_0_2	Ursfjordings Tribe	true
+character_skills_localised_description_hkrul_beorg_bear	Placeholder Text Placeholder Text	true
+character_skills_localised_name_hkrul_beorg_bear	Barded Warhorse	true
+character_skills_localised_name_hkrul_beorg_bear_2	Imperial Pegasus	false
+character_skills_localised_description_hkrul_beorg_bear_2	Placeholder Text Placeholder Text	false
+character_skills_localised_name_hkrul_beorg_bear_3	Imperial Griffon	false
+character_skills_localised_description_hkrul_beorg_bear_3	Placeholder Text Placeholder Text	false
+character_skills_localised_description_hkrul_beorg_special_1_4	He who chooses the Bear is worshipped by those not blessed with the feats of being Bearstricken.	true
+character_skills_localised_name_hkrul_beorg_special_1_4	Path of the Bear	true
+character_skills_localised_description_hkrul_beorg_special_1_6	The Beserkers of Urslo present their Gods offerings to they may bless their fangs, axes and claws.	true
+character_skills_localised_name_hkrul_beorg_special_1_6	Blessed Canines	true
+character_skills_localised_description_hkrul_beorg_special_1_7	The very essence of the Great Bear is channeled when the yellow glowing eyes set their sights on any prey.	true
+character_skills_localised_name_hkrul_beorg_special_1_7	Bran's Fury	true
+effects_description_hkrul_beorg_fang	Ability: "Bear-Fang Talisman''	true
+effects_description_hkrul_beorg_rally	Ability: "Beorg's Skewers''	true
+effects_description_hkrul_beorg_claw	Ability: "Bran's Fury'' when in Bear form	true
+effects_description_hkrul_beorg_bear_form	Ability: "Spirit of the Great Bear''	true
+effects_description_hkrul_beorg_bear_ws	Weapon Strength: %+n% for Bear units	true
+effects_description_hkrul_beorg_bear_3	Mount: "Imperial Griffon''	true
+effects_description_hkrul_beorg_missile_block_inf	Missile block chance: %+n% for Infantry units	false
+effects_description_hkrul_beorg_bear_ap	Armour-piercing weapon damage: %+n when in Bear form	false
+effects_description_hkrul_beorg_bear_charge	Charge bonus: %+n when in Bear form	false
+effects_description_hkrul_beorg_bear_defence	Melee Defence: %+n for Bear units	false
+effects_description_hkrul_beorg_bear_flanker	Attribute: Devastating Flanker for Bear units	false
+effects_description_hkrul_beorg_hunter_vanguard	Attribute: Vanguard Deployment for Marauder Hunter units	false
+effects_description_hkrul_beorg_missile_reload	Reload time reduction: %+n% for Marauder Hunter units	false
+effects_description_hkrul_beorg_sword		false
+effects_description_hkrul_beorg_mark	Ability: "Mark of the Bear''	false
+effects_description_rhox_beorg_bear_join_chance	Chance of ursine creatures joining Beorg after a battle victory: %+n%	false
+effects_description_rhox_beorg_dummy_1	Bearstrikken: Ursine creatures are drawn to the primal essence of Urslo and may be corrupted	false
+effects_description_rhox_beorg_dummy_2	Placeholder	false
+effect_bundles_localised_description_rhox_beorg_faction_trait	At the edge of the frozen Fjord's of Urs towers the Halls of Urslo, home of ravaging marauding Bearstrikken norsemen.	false
+effect_bundles_localised_title_rhox_beorg_faction_trait	The Ursfjordings	false
+ancillaries_colour_text_hkrul_beorg_banner	Beorg's battle-standard is borne by the hardy warrior, Oerl the Young -- a entire bearskin whose grizzly head leers out from the top. The skin is touched by the power of Chaos, and the blessings of the gods is such that the banner radiates an aura of rage that drives the already fierce Ursfjordings into a terrible battle-fury that is impossible to contain.	true
+ancillaries_onscreen_name_hkrul_beorg_banner	The Bear Banner	true
+effect_bundles_localised_title_hkrul_beorg_banner	The Bear Banner	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_beorg	Bearstrucked	true
+character_trait_levels_colour_text_hkrul_defeated_trait_beorg	Just another trophy to hang in some lavish hall	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_beorg	Defeated Beorg Bearstruck	true
+ancillaries_colour_text_hkrul_beorg_holz	Originally the Watch Captain of Ubersreik, X was drafted to serve as Captain Guard in the Fortress of Helmgart. X is a bear of a man unfased by the cold climate of the Grey Mountains and has faced all kinds of threats in the melting pot that is Ubersreik. His presence on the Fortress Walls inspire the brethren facing any foe daring enough to climb their final fate.	true
+ancillaries_onscreen_name_hkrul_beorg_holz	Captain X	true
+ancillaries_colour_text_hkrul_beorg_sword	This massive, yellowed canine is the sacred talisman of lordship amongst Beorg's people. He bears it about his neck. The talisman serves to ward off blows that would otherwise harm its wearer.	true
+ancillaries_onscreen_name_hkrul_beorg_sword	The Bear-Fang Talisman	true
+ancillaries_colour_text_hkrul_beorg_bear	Placeholder Text Placeholder Text	true
+ancillaries_onscreen_name_hkrul_beorg_bear	Barded Warhorse	true
+ancillaries_colour_text_hkrul_beorg_bear_2	Placeholder Text Placeholder Text	true
+ancillaries_onscreen_name_hkrul_beorg_bear_2	Imperial Pegasus	true
+ancillaries_colour_text_hkrul_beorg_bear_3	Placeholder Text Placeholder Text	true
+ancillaries_onscreen_name_hkrul_beorg_bear_3	Imperial Griffon	true
+building_chains_chain_tooltip_rhox_beorg_halls_of_urslo	Halls of Urslo	false
+building_culture_variants_name_rhox_beorg_halls_of_urslo	Halls of Urslo	false
+building_short_description_texts_short_description_rhox_beorg_halls_of_urslo	Nestled within frozen Ursfjord stands the imposing Great Hall of Urslo, a bastion of strength hewn from ancient timbers. Here resides Beorg, chieftain of the Bearmen, when he is not leading his warriors into battle or raiding distant lands. Beorg, a formidable were-bear of extraordinary power, commands respect and fear alike. In battle, he undergoes a savage transformation into an immense bear, bearing the revered title of Bearstruck—a symbol of lordship among his people. Under his rule, the Ursfjordings flourish as warriors of the north, their legacy echoing through the grand halls of Urslo.	false
+event_feed_strings_text_rhox_iee_lccp_how_they_play_beorg	[[img:bullet_nor_gods]][[/img]] [[col:green]]Raze settlements and raise monoliths in their place to gradually pledge[[/col]] [[url:script_link_campaign_gods]][[tooltip:{{tt:tooltip_campaign_gods}}]]Allegiance to the Gods[[/tooltip]][[/url]][[col:green]], who will each grant factionwide gifts in lieu of the others.[[/col]]\\n\\n[[img:bullet_nor_monsters]][[/img]] [[col:green]]Hunt down creatures listed in the[[/col]] [[url:script_link_campaign_monsters]][[tooltip:{{tt:tooltip_campaign_monsters}}]]Monstrous Arcanum[[/tooltip]][[/url]] [[col:green]]and defeat them in battle in return for unique and powerful trophies.[[/col]]\\n\\n[[img:rhox_beorg_dummy]][[/img]] [[col:green]]Ursine Creatures are drawn to the primal aura of the Ursfjording warriors, they may be corrupted and captured.[[/col]]\\n\\n[[img:icon_confederation]][[/img]] [[col:green]]Defeat the faction leaders of rival Norscan tribes to be given the option to form tribal[[/col]] [[sl_link:campaign_confederation]]confederations.[[/sl_link]]\\n\\nLearn more about Norsca [[url:script_link_campaign_norsca]]here[[/url]].	false
+incidents_localised_description_rhox_beorg_bear_unit_incident	After Beorg's victory, some Ursine creatures are drawn to his banner	false
+incidents_localised_title_rhox_beorg_bear_unit_incident	Ursine Creatures join your warband	false
+campaign_effect_scopes_localised_text_rhox_fc_norsca_faction_to_region_own_regiontext	\\n(all regions)	false
+land_units_onscreen_name_hkrul_beorg	Beorg Bearstruck	true
+land_units_onscreen_name_hkrul_beorg_bear	Beorg Bearstruck	true
+ui_unit_groupings_onscreen_hkrul_beorg	Throwing Axe Infantry	false
+ui_unit_groupings_tooltip_hkrul_beorg	Throwing Axe Infantry	false
+land_units_onscreen_name_hkrul_beorg_brown_feral	Captured Feral Bears	false
+land_units_onscreen_name_hkrul_beorg_ice_feral	Captured Feral Ice Bears	false
+campaign_localised_strings_string_hkrul_bearmen_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Ursfjordings faction[[/col]]	false
+campaign_localised_strings_string_hkrul_beorg_bear_sem_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Ursfjordings faction[[/col]]	false
+mercenary_unit_groups_replenishment_reason_hkrul_beorg_brown_feral	\\nReplenish this unit by achieving victories with Beorg Bearstruck	false
+mercenary_unit_groups_replenishment_reason_hkrul_beorg_brown_feral_marked	\\nReplenish this unit by achieving victories with Beorg Bearstruck	false
+mercenary_unit_groups_replenishment_reason_hkrul_beorg_ice_feral	\\nReplenish this unit by achieving victories with Beorg Bearstruck	false
+names_name_5677700722	Beorg	false
+names_name_5677700721	Bearstruck	false
+unit_description_short_texts_text_hkrul_beorg	Beorg, Son of Bran is a descendant of the Great Bear and is the mighty shapeshifting chieftain of the Ursfjordings Tribe.	false
+unit_description_historical_texts_text_hkrul_beorg	Beorg, Son of Bran is a descendant of the Great Bear and is the mighty shapeshifting chieftain of the Ursfjordings Tribe.	false
+unit_description_historical_texts_text_hkrul_oerl	Oerl the Young is the latest heir of Clan Oerl, a fearsome bear-stricken clan of Ursfjord. He wades into battle carrying a horn that radiates chaotic magic.	false
+unit_description_short_texts_text_hkrul_oerl	Oerl the Young is the latest heir of Clan Oerl, a fearsome bear-stricken clan of Ursfjord. He wades into battle carrying a horn that radiates chaotic magic.	false
+unit_description_historical_texts_text_hkrul_bearmen	Beorg, Son of Bran is a descendant of the Great Bear and is the mighty shapeshifting chieftain of the Ursfjordings Tribe.	false
+unit_description_short_texts_text_hkrul_bearmen	The Bearmen of Urslo, also known as the Tribe of the Bear by those they kill, is a band of Norscan beserkers. They are led by Beorg Bearstruck, Son of Bran.	false
+unit_description_short_texts_text_hkrul_beorg_brown_feral_marked	The corrupting essence of the Bearstricken slowly takes hold of these feral bears as their minds warp in to chaotic madness.	false
+unit_description_historical_texts_text_hkrul_beorg_brown_feral_marked	The corrupting essence of the Bearstricken slowly takes hold of these feral bears as their minds warp in to chaotic madness.	false
+unit_description_historical_texts_text_hkrul_beorg_bear_sem	Bearsson was the Black Sheep of the family who sought to rid himself of chaos and study poetry in Nuln, as punishment his mark of the Bear transformed him completely.	false
+unit_description_short_texts_text_hkrul_beorg_bear_sem	Bearsson was the Black Sheep of the family who sought to rid himself of chaos and study poetry in Nuln, as punishment his mark of the Bear transformed him completely.	false
+unit_abilities_tooltip_text_hkrul_beorg_fang	Dark magic radiating bloodied claws are the sacred talisman of the Ursfjordings tribe, worn by Beorg Bearstruck.	true
+unit_abilities_onscreen_name_hkrul_beorg_fang	Bear-Fang Talisman	true
+unit_abilities_tooltip_text_hkrul_beorg_pal	Placeholder Text	true
+unit_abilities_onscreen_name_hkrul_beorg_pal	Fortress Wardens	true
+unit_abilities_tooltip_text_hkrul_beorg_sword	Yellowed canines are the sacred talisman of the Ursfjordings tribe, these teeth are blessed with dark magic.	true
+unit_abilities_onscreen_name_hkrul_beorg_sword	Bear-Fang Talisman	true
+unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_bear_form_disadvantages	Bear form loses stalk, ranged attack, leadership abilities	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_bear_form_advantages	Form offers powerful melee attacks, abilities, and armour	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_bear_form_transform	Shapeshifts into bear form	true
+unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_human_form_disadvantages	Form loses powerful melee attacks, abilities, and armour.	true
+unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_human_form_advantages	Form gains stalk, ranged attack, leadership abilities	true
+unit_abilities_additional_ui_effects_localised_text_hkrul_beorg_human_form_transform	Shapeshifts into human form	true
+unit_abilities_onscreen_name_hkrul_beorg_human_form	Spirit of the Tribe	false
+unit_abilities_tooltip_text_hkrul_beorg_human_form	Beorg as chieftain of the Ursfjordings tribe has both ranged and leadership capabilities.	false
+unit_abilities_onscreen_name_hkrul_beorg_bear_form	Spirit of the Great Bear	false
+unit_abilities_tooltip_text_hkrul_beorg_bear_form	Blessed by the Chaos Gods, Beorg has the ability to shapeshift into that he descends from, the Great Bear.	false
+unit_abilities_onscreen_name_hkrul_beorg_rally	Beorg's Skewers	false
+unit_abilities_tooltip_text_hkrul_beorg_rally	The Bearmen hurl their axes as easy as a trained warrior would hurl a mere pebble.	false
+unit_abilities_onscreen_name_hkrul_beorg_claw	Bran's Fury	false
+unit_abilities_tooltip_text_hkrul_beorg_claw	Channeling the very essence of the Great Bear, Beorg's primal fury cuts through masses of foes.	false
+unit_abilities_onscreen_name_hkrul_beorg_mark	Mark of the Bear	false
+unit_abilities_tooltip_text_hkrul_beorg_mark	The Champions of Urslo are marked by the Great Bear, sharpening their primal instincts.	false
+character_skills_localised_name_innate_hkrul_oerl	Beserker of Urslo	true
+character_skills_localised_description_innate_hkrul_oerl	Right hand of Chieftain Beorg and fiercest of all Urslo beserkers.	true
+character_skills_localised_name_hkrul_oerl_special_1_0	Hurlers of the Fjords	true
+character_skills_localised_name_hkrul_oerl_special_1_1	Ancestral Claws	true
+character_skills_localised_name_hkrul_oerl_special_1_2	Token of the Bear	true
+character_skills_localised_name_hkrul_oerl_special_1_3	Raging Rythm	true
+character_skills_localised_name_hkrul_oerl_special_1_4	Tribal Hunters	true
+character_skills_localised_name_hkrul_oerl_special_1_5	Ursfjord Beserkers	true
+character_skills_localised_name_hkrul_oerl_special_1_6	Huern's Axe	true
+character_skills_localised_description_hkrul_oerl_special_1_0	None hurl axes further than the beserkers of the Ursfjordings tribe, catching ongoing vessels from a top the Fjords of Urslo.	true
+character_skills_localised_description_hkrul_oerl_special_1_1	All Bear-stricken clans fight with their ancestral claws strapped closely to their bodies.	true
+character_skills_localised_description_hkrul_oerl_special_1_2	The Bear Clans of Urslo are blessed by the Great one, and deem no rival clans. Especially those of the Wolf.	true
+character_skills_localised_description_hkrul_oerl_special_1_3	Blowing his horn, Oerl sends the beasts of Urslo into a frantic trans of bloodlust and rage.	true
+character_skills_localised_description_hkrul_oerl_special_1_4	Leader of the Tribal Hunters, Oerl knows the importance of catching large prey to keep his Clan fed.	true
+character_skills_localised_description_hkrul_oerl_special_1_5	The finest are considered the retinue of Chieftain Beorg, both fierce and deadly - they are the beserkers of the Ursfjord.	true
+character_skills_localised_description_hkrul_oerl_special_1_6	A corrupted axe stolen by Beorg after one of his victories against the Tribe of the Wolf, as a reward for their loyalty - he gifted it to Clan Oerl.	true
+unit_abilities_onscreen_name_hkrul_oerl_horn	Horn of Ursfjord	false
+unit_abilities_tooltip_text_hkrul_oerl_horn	As he blows his horn the marauders of the tribe chant the name of their great leader. Oblivious and careless to any harm caused to them.	false
+unit_abilities_onscreen_name_hkrul_oerl_axes	Bran's Hurl	true
+unit_abilities_tooltip_text_hkrul_oerl_axes	None hurl axes further than the beserkers of the Ursfjordings tribe, catching ongoing vessels from a top the Fjords of Urslo.	true
+unit_abilities_tooltip_text_hkrul_hkrul_oerl_frenzy	Blowing his horn, Oerl sends the beasts of Urslo into a frantic trans of bloodlust and rage.	true
+unit_abilities_onscreen_name_hkrul_oerl_frenzy	Urslo's Rage	true
+agent_subtypes_onscreen_name_override_hkrul_oerl	Beserker of Urslo	false
+agent_subtypes_description_text_override_hkrul_oerl	Beserker of Urslo	false
+names_name_7411711821	the Young	false
+names_name_7411711822	Oerl	false
+land_units_onscreen_name_hkrul_oerl	Oerl the Young	true
+effects_description_hkrul_oerl_horn	Ability: "Horn of Ursfjord"	false
+effects_description_hkrul_oerl_axes	Ability: "Bran's Hurl'' for Marauder Hunter units	false
+effects_description_hkrul_oerl_frenzy	Ability: "Urslo's Rage'' for Bear units	false
+effects_description_hkrul_oerl_bear_attack	Melee Attack: %+n for Bear units	false
+effects_description_hkrul_oerl_wolves_attack	Melee Attack: %+n for Skinwolf units	false
+effects_description_hkrul_oerl_hunters_missile_damage	Missile Damage: %+n% for Marauder Hunter units	false
+effects_description_hkrul_oerl_bear_xp	Recruit Rank: %+n for Bear units	false
+effects_description_hkrul_oerl_hunters_recruit	Recruit Rank: %+n for Marauder Hunter units	false
+effects_description_hkrul_oerl_bear_upkeep	Upkeep: %+n% for Bear units	false
+effects_description_hkrul_oerl_wolves_upkeep	Upkeep: %+n% for Skinwolf units	false
+effects_description_hkrul_oerl_bearmen_armor	Armour: %+n for Bearmen of Urslo (Throwing Axes & Shields)	false
+land_units_onscreen_name_hkrul_bearmen	Bearmen of Urslo (Throwing Axes & Shields)	true
+unit_abilities_tooltip_text_hkrul_oerl_frenzy		false
+unit_abilities_onscreen_name_hkrul_oerl_axe	Wolftribe Axe	true
+unit_abilities_tooltip_text_hkrul_oerl_axe	A corrupted axe stolen by Beorg after one of his victories against the Tribe of the Wolf, as a reward for their loyalty - he gifted it to Clan Oerl.	false
+effects_description_hkrul_oerl_axe	Ability: "Wolftribe Axe''	false
+land_units_onscreen_name_hkrul_beorg_bear_sem	Tyeddi Bearsson	true
+land_units_onscreen_name_hkrul_beorg_brown_feral_marked	Chaos Touched Bears	true
+unit_abilities_onscreen_name_hkrul_tyeddi	Bearsson's Smite	true
+unit_abilities_tooltip_text_hkrul_tyeddi	Once a proud would be poet, all that remains of Tyeddi Bearsson is untameable fury - which he unleashes with tremendous force.	false
+effects_description_hkrul_beorg_pal		false
+ui_unit_bullet_point_enums_tooltip_hkrul_hornblower	A hornblower inspires allies with invigorating blasts from his horn, while striking fear into the hearts of enemies with its ominous resonance.	false
+ui_unit_bullet_point_enums_onscreen_name_hkrul_hornblower	Hornblower	false
+ui_unit_groupings_onscreen_hkrul_hornblower	Hornblower Infantry	false
+ui_unit_groupings_tooltip_hkrul_hornblower	Hornblower Infantry	false

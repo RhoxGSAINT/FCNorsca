@@ -7,7 +7,7 @@ local min_turn = 10
 local human_norsca_exist = false
 
 core:add_listener(
-    "turn_countdown_round_start_listener",
+    "swyrd_turn_countdown_round_start_listener",
     "WorldStartRound",
     true,
     function()

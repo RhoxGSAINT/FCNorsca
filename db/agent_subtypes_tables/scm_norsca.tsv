@@ -11,12 +11,12 @@ hkrul_rafn	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_rafn
 rhox_baersonling_daemon_prince_tzeentch	false	true	ui/campaign ui/agents/wh3_main_lore_tzeentch.png	wh3_dlc20_chs_cha_daemon_prince_mtze	wh3_main_vo_actor_DaemonPrince_Generic_Tzeentch	true	-1	false	true	false	true	chs_daemon_princes	wh3_main_lore_tzeentch	names_chs_chaos	true	true	cannot_be_saved_loaded	wh3_main_vo_culture_DaemonPrince	false	true	2700		
 rhox_baersonling_chs_lord_mtze	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	wh3_dlc24_chs_cha_chaos_lord_mtze	wh3_dlc24_vo_actor_Tzeentch_Lord_of_Tzeentch	true	-1	false	true	false	true	chs_lord		names_chs_chaos	true	true	can_be_saved_loaded		false	true	900		
 hkrul_hrothgar	false	false		hkrul_hrothgar	wh_mod_vo_actor_Khorne_Hrothgar	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign	wh3_main_vo_culture_Khorne	false	true	1100		
-hkrul_uzul	false	false		hkrul_uzul	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
+hkrul_uzul	false	false		hkrul_uzul	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100		
 nor_skin_wolf_lord	true	false		nor_skin_wolf_lord	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	true	nor_skin_wolf_lord		names_nor_norsca	true	true	can_be_saved_loaded		false	true	1200		
-scm_norsca_ulsdau	false	false		scm_norsca_ulsdau	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	false	-1	false	true	false	false				false	false	cannot_be_saved_loaded		false	true	900		
-scm_norsca_asta	false	false		scm_norsca_asta	wh2_dlc16_vo_actor_Wood_Elves_GladeCaptain	false	-1	true	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
-scm_norsca_alfkael	false	true		scm_norsca_alfkael	wh_dlc08_vo_actor_Norsca_Shaman_Sorcerer	false	-1	false	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
-hkrul_graill	false	false		hkrul_graill	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
-hkrul_hildr	false	false		hkrul_hildr	wh2_dlc10_vo_actor_Dark_Elves_Supreme_Sorceress	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
+scm_norsca_ulsdau	false	false		scm_norsca_ulsdau	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
+scm_norsca_asta	false	false		scm_norsca_asta	wh2_dlc16_vo_actor_Wood_Elves_GladeCaptain	true	-1	true	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
+scm_norsca_alfkael	false	true		scm_norsca_alfkael	wh_dlc08_vo_actor_Norsca_Shaman_Sorcerer	true	-1	false	true	false	false				false	true	cannot_be_saved_loaded		false	true	900		
+hkrul_graill	false	false		hkrul_graill	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100		
+hkrul_hildr	false	false		hkrul_hildr	wh2_dlc10_vo_actor_Dark_Elves_Supreme_Sorceress	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_skald_horn	true	false	ui/campaign ui/agents/scm_fc_norsca_skald_horn.png	hkrul_skald_horn	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	1100		
 hkrul_skald_drum	true	false	ui/campaign ui/agents/scm_fc_norsca_skald_drum.png	hkrul_skald_drum	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	1100		

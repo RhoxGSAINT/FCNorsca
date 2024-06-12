@@ -17,6 +17,7 @@ local confederation_target_factions={
     wh2_main_nor_skeggi={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"faction wh2_main_lzd_hexoatl","total 1"}},
     wh3_dlc20_nor_yusak={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"subculture wh3_main_sc_cth_cathay","total 3"}},
     wh_dlc08_nor_naglfarlings={db_type=true},
+    mixer_nor_beorg={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"subculture wh3_main_sc_ksl_kislev","total 5"}},--this is beorg
     --mixer_nor_fjordlings
     --
 }
@@ -26,7 +27,6 @@ local lccp_confederation_target_factions={
     rhox_nor_firebrand_slavers={objective="INCOME_AT_LEAST_X",condition={"income 8000"}},
     rhox_nor_ravenblessed={objective="RECRUIT_AGENT",condition={"total 8",}},
     rhox_nor_khazags={objective="ACHIEVE_CHARACTER_RANK",condition={"total 1", "total2 35", "include_generals"}},
-    mixer_nur_rotbloods={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"subculture wh3_main_sc_ksl_kislev","total 5"}},--this is beorg
 }
 
 
@@ -268,4 +268,3 @@ cm:add_first_tick_callback(
         end
     end
 );
-

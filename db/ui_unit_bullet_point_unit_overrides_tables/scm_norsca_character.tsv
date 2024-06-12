@@ -84,7 +84,7 @@ flaming_attacks	hkrul_hrothgar
 armoured	hkrul_hrothgar
 armour_piercing	hkrul_hrothgar
 melee_expert	hkrul_hrothgar
-anti_infantry	hkrul_rafn
+anti_large	hkrul_rafn
 melee_expert	hkrul_rafn
 hkrul_norsca_drum	hkrul_uzul
 armour_piercing	hkrul_uzul
@@ -139,3 +139,9 @@ armour_piercing	hkrul_graill
 duellist	hkrul_hildr
 armour_piercing	hkrul_hildr
 hkrul_norsca_weak_vs_mult	hkrul_hildr
+mutually_exclusive_abilities	hkrul_skald_drum
+mutually_exclusive_abilities	hkrul_skald_horn
+hkrul_hornblower	hkrul_skald_horn
+hkrul_norsca_drum	hkrul_skald_drum
+armour_piercing	hkrul_skald_drum
+armour_piercing	hkrul_skald_horn

@@ -42,7 +42,7 @@ effects_description_hkrul_akkorak_horse_xp	Recruit rank: %+n for Horseback units
 effects_description_hkrul_akkorak_horse_global	Upkeep: %+n% for Horseback units	true
 effects_description_hkrul_akkorak_horse_melee_attack	Melee attack: %+n for Horseback units	false
 effects_description_hkrul_akkorak_horse_morale	Leadership: %+n for Horseback units	false
-effects_description_rhox_akkorak_knight_chance	Chaos Knight recruitment: %+n% replenishment chance for Chaos Knight units	false
+effects_description_rhox_akkorak_knight_chance	On turn start, %+n% chance that Chaos Knights will be added to the Summon pool	false
 effects_description_rhox_akkorak_knight_feature_dummy	Reaver of the Wastes: Akkorak the Crow is a fiercesome rider, Chaos Knights from West to East gather around his banner to prove their might.	false
 mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho	This unit will replenish over time through Pastures and Exotic Animals building chains	false
 mercenary_unit_groups_replenishment_reason_rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho_lances	This unit will replenish over time through Pastures and Exotic Animals building chains	false

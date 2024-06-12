@@ -8,3 +8,5 @@ nor_progress_serpent_events	rhox_sayl_sla	-30	absolute	default
 nor_progress_eagle_events	rhox_sayl_tze	-30	absolute	default
 rhox_akkorak_horse_upgrade	rhox_akkorak_horse_upgrade	-50	absolute	default
 rhox_bjornling_fish_sell	rhox_bjornling_fish_sale	-100	absolute	default
+rhox_aesling_kho_skulls_factor_the_skull_throne	rhox_aesling_ritual_kho_the_skull_throne	-2000	absolute	default
+rhox_aesling_kho_skulls_factor_settlement	rhox_aesling_resource_cost_kho_occupy_settlement	-2500	absolute	default

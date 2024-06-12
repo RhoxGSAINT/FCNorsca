@@ -1,0 +1,4 @@
+character_skill	character_level	upgrade_to_skill_level
+#character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/rhox_beorg		
+hkrul_beorg_banner	7	1
+hkrul_beorg_sword	14	1

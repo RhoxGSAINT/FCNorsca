@@ -1,13 +1,13 @@
 child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	link_type
 #character_skill_node_links_tables;3;db/character_skill_node_links_tables/hkrul_soren							
-hkrul_skill_node_soren_special_02	hkrul_skill_node_soren_special_01	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_soren_special_03	hkrul_skill_node_soren_special_01	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_soren_special_04	hkrul_skill_node_soren_special_01	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_soren_special_05	hkrul_skill_node_soren_special_01	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_02	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_03	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_04	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_05	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_soren_special_02	hkrul_skill_node_soren_special_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_soren_special_03	hkrul_skill_node_soren_special_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_soren_special_04	hkrul_skill_node_soren_special_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_soren_special_05	hkrul_skill_node_soren_special_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_02	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_03	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_04	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_soren_special_06	hkrul_skill_node_soren_special_05	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
 hkrul_skill_node_soren_magic1_02	hkrul_skill_node_soren_magic1_01	0	1	1	0.0000	0.0000	REQUIRED
 hkrul_skill_node_soren_magic1_03	hkrul_skill_node_soren_magic1_01	0	1	1	0.0000	0.0000	REQUIRED
 hkrul_skill_node_soren_magic1_04	hkrul_skill_node_soren_magic1_01	0	1	1	0.0000	0.0000	REQUIRED

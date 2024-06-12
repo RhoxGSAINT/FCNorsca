@@ -1,0 +1,9 @@
+order	special_ability	target_self	target_friends	target_enemies	phase
+#special_ability_to_special_ability_phase_junctions_tables;2;db/special_ability_to_special_ability_phase_junctions_tables/hkrul_oerl					
+1	hkrul_oerl_axes	true	false	false	hkrul_oerl_axes
+1	hkrul_oerl_frenzy	true	false	false	hkrul_oerl_frenzy
+1	hkrul_oerl_horn	true	true	false	hkrul_oerl_horn
+1	hkrul_oerl_axe	true	false	false	hkrul_oerl_axe
+0	hkrul_oerl_horn	false	false	true	hkrul_oerl_horn_enemy
+1	hkrul_beorg_mark	true	false	false	hkrul_beorg_mark
+1	hkrul_tyeddi	true	false	false	hkrul_tyeddi

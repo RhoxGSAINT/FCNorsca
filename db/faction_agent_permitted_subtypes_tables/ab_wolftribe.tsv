@@ -1,6 +1,6 @@
-agent	faction	subtype
-#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/ab_wolftribe		
-general	wh_dlc08_nor_naglfarlings	nor_skin_wolf_lord
-champion	wh_dlc08_nor_naglfarlings	scm_norsca_ulsdau
-dignitary	wh_dlc08_nor_naglfarlings	scm_norsca_asta
-wizard	wh_dlc08_nor_naglfarlings	scm_norsca_alfkael
+agent	faction	subtype	mod_disabled
+#faction_agent_permitted_subtypes_tables;1;db/faction_agent_permitted_subtypes_tables/ab_wolftribe			
+general	wh_dlc08_nor_naglfarlings	nor_skin_wolf_lord	false
+champion	wh_dlc08_nor_naglfarlings	scm_norsca_ulsdau	false
+dignitary	wh_dlc08_nor_naglfarlings	scm_norsca_asta	false
+wizard	wh_dlc08_nor_naglfarlings	scm_norsca_alfkael	false

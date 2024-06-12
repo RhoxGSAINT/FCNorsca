@@ -1,40 +1,40 @@
-agent	faction	subtype
-#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_adella		
-general	wh_dlc08_nor_norsca	hkrul_adella
-general	wh2_main_nor_aghol	hkrul_adella
-general	wh2_main_nor_skeggi	hkrul_adella
-general	wh3_dlc20_nor_dolgan	hkrul_adella
-general	wh3_dlc20_nor_kuj	hkrul_adella
-general	wh3_dlc20_nor_kul	hkrul_adella
-general	wh3_dlc20_nor_tong	hkrul_adella
-general	wh3_dlc20_nor_yusak	hkrul_adella
-general	wh3_dlc21_nor_wyrmkins	hkrul_adella
-general	wh_dlc08_nor_naglfarlings	hkrul_adella
-general	wh_dlc08_nor_vanaheimlings	hkrul_adella
-general	wh_dlc08_nor_wintertooth	hkrul_adella
-general	wh_main_nor_aesling	hkrul_adella
-general	wh_main_nor_baersonling	hkrul_adella
-general	wh_main_nor_bjornling	hkrul_adella
-general	wh_main_nor_graeling	hkrul_adella
-general	wh_main_nor_sarl	hkrul_adella
-general	wh_main_nor_skaeling	hkrul_adella
-general	wh_main_nor_varg	hkrul_adella
-wizard	wh_dlc08_nor_norsca	hkrul_soren
-wizard	wh2_main_nor_aghol	hkrul_soren
-wizard	wh2_main_nor_skeggi	hkrul_soren
-wizard	wh3_dlc20_nor_dolgan	hkrul_soren
-wizard	wh3_dlc20_nor_kuj	hkrul_soren
-wizard	wh3_dlc20_nor_kul	hkrul_soren
-wizard	wh3_dlc20_nor_tong	hkrul_soren
-wizard	wh3_dlc20_nor_yusak	hkrul_soren
-wizard	wh3_dlc21_nor_wyrmkins	hkrul_soren
-wizard	wh_dlc08_nor_naglfarlings	hkrul_soren
-wizard	wh_dlc08_nor_vanaheimlings	hkrul_soren
-wizard	wh_dlc08_nor_wintertooth	hkrul_soren
-wizard	wh_main_nor_aesling	hkrul_soren
-wizard	wh_main_nor_baersonling	hkrul_soren
-wizard	wh_main_nor_bjornling	hkrul_soren
-wizard	wh_main_nor_graeling	hkrul_soren
-wizard	wh_main_nor_sarl	hkrul_soren
-wizard	wh_main_nor_skaeling	hkrul_soren
-wizard	wh_main_nor_varg	hkrul_soren
+agent	faction	subtype	mod_disabled
+#faction_agent_permitted_subtypes_tables;1;db/faction_agent_permitted_subtypes_tables/hkrul_adella			
+general	wh_dlc08_nor_norsca	hkrul_adella	false
+general	wh2_main_nor_aghol	hkrul_adella	false
+general	wh2_main_nor_skeggi	hkrul_adella	false
+general	wh3_dlc20_nor_dolgan	hkrul_adella	false
+general	wh3_dlc20_nor_kuj	hkrul_adella	false
+general	wh3_dlc20_nor_kul	hkrul_adella	false
+general	wh3_dlc20_nor_tong	hkrul_adella	false
+general	wh3_dlc20_nor_yusak	hkrul_adella	false
+general	wh3_dlc21_nor_wyrmkins	hkrul_adella	false
+general	wh_dlc08_nor_naglfarlings	hkrul_adella	false
+general	wh_dlc08_nor_vanaheimlings	hkrul_adella	false
+general	wh_dlc08_nor_wintertooth	hkrul_adella	false
+general	wh_main_nor_aesling	hkrul_adella	false
+general	wh_main_nor_baersonling	hkrul_adella	false
+general	wh_main_nor_bjornling	hkrul_adella	false
+general	wh_main_nor_graeling	hkrul_adella	false
+general	wh_main_nor_sarl	hkrul_adella	false
+general	wh_main_nor_skaeling	hkrul_adella	false
+general	wh_main_nor_varg	hkrul_adella	false
+wizard	wh_dlc08_nor_norsca	hkrul_soren	false
+wizard	wh2_main_nor_aghol	hkrul_soren	false
+wizard	wh2_main_nor_skeggi	hkrul_soren	false
+wizard	wh3_dlc20_nor_dolgan	hkrul_soren	false
+wizard	wh3_dlc20_nor_kuj	hkrul_soren	false
+wizard	wh3_dlc20_nor_kul	hkrul_soren	false
+wizard	wh3_dlc20_nor_tong	hkrul_soren	false
+wizard	wh3_dlc20_nor_yusak	hkrul_soren	false
+wizard	wh3_dlc21_nor_wyrmkins	hkrul_soren	false
+wizard	wh_dlc08_nor_naglfarlings	hkrul_soren	false
+wizard	wh_dlc08_nor_vanaheimlings	hkrul_soren	false
+wizard	wh_dlc08_nor_wintertooth	hkrul_soren	false
+wizard	wh_main_nor_aesling	hkrul_soren	false
+wizard	wh_main_nor_baersonling	hkrul_soren	false
+wizard	wh_main_nor_bjornling	hkrul_soren	false
+wizard	wh_main_nor_graeling	hkrul_soren	false
+wizard	wh_main_nor_sarl	hkrul_soren	false
+wizard	wh_main_nor_skaeling	hkrul_soren	false
+wizard	wh_main_nor_varg	hkrul_soren	false

@@ -1,0 +1,3 @@
+key	location	ownership	source	target	territory
+#campaign_effect_scopes_tables;2;db/campaign_effect_scopes_tables/rhox_beorg					
+rhox_fc_norsca_faction_to_region_own_regiontext	factionwide	yours	faction	region	any

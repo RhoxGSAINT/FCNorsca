@@ -1,0 +1,4 @@
+ancillary	effect	effect_scope	value
+#ancillary_to_effects_tables;0;db/ancillary_to_effects_tables/hkrul_beorg			
+hkrul_beorg_sword	wh_main_effect_character_stat_ward_save	character_to_character_own	20.0000
+hkrul_beorg_sword	hkrul_beorg_fang	character_to_character_own	1.0000

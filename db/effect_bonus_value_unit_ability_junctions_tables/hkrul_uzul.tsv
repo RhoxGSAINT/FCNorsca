@@ -4,3 +4,5 @@ hkrul_uzul_cry	enable	hkrul_uzul_cry
 hkrul_uzul_drum	enable	hkrul_uzul_drum
 hkrul_uzul_pas_drum	enable	hkrul_uzul_pas_drum
 hkrul_uzul_pas_drum_duration	effect_range_mod	hkrul_uzul_pas_drum
+hkrul_skald_horn_passive	enable	hkrul_skald_horn_passive
+hkrul_skald_drum_passive	enable	hkrul_skald_drum_passive

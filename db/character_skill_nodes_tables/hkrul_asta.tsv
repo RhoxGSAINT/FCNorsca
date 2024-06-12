@@ -2,7 +2,6 @@ key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_o
 #character_skill_nodes_tables;6;db/character_skill_nodes_tables/hkrul_asta									
 wolftribe_scm_norsca_asta_campaign_06		wh2_main_skill_all_hero_reduce_action_cost		5	5		0	0	true
 wolftribe_scm_norsca_asta_campaign_actions_dummy		wolftribe_skill_dummy_actions_scm_norsca_asta		8	0		1	0	false
-wolftribe_scm_norsca_asta_unique_7		wh3_main_skill_all_mentor_hero		0	7		0	0	true
 wolftribe_scm_norsca_asta_campaign_01		wh2_main_skill_all_hero_assist_army_increase_mobility		5	0		0	0	true
 wolftribe_scm_norsca_asta_campaign_02		wh2_main_skill_all_hero_passive_boost_income		5	1		0	0	true
 wolftribe_scm_norsca_asta_campaign_03		wh2_main_skill_all_hero_assist_army_training		5	2		0	0	true

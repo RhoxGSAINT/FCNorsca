@@ -1,0 +1,5 @@
+id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_uniform	land_animation	sea_animation	navy_animation	land_animation_vfx_filter	sea_animation_vfx_filter	navy_animation_vfx_filter
+#campaign_character_arts_tables;0;db/campaign_character_arts_tables/rhox_beorg																
+988399736	hkrul_oerl	0	0		none	hkrul_oerl			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_oerl	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+988399737	hkrul_beorg	0	0		none	hkrul_beorg			partypus_beorg_agent_ship	partypus_beorg_agent_ship	cam_lord_hu1c_beorg_axe_and_shield	cam_heavy_ship_04	cam_heavy_ship_04	0	0	0
+988399738	hkrul_beorg_bear	0	0		none	hkrul_beorg_bear			partypus_beorg_agent_ship	partypus_beorg_agent_ship	cam_lord_hu8d_beorg_bear	cam_heavy_ship_04	cam_heavy_ship_04	0	0	0

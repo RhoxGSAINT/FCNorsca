@@ -1,0 +1,4 @@
+invalid_target	special_ability
+#special_ability_to_invalid_target_flags_tables;0;db/special_ability_to_invalid_target_flags_tables/hkrul_beorg	
+unit_is_out_fort	hkrul_beorg_pal
+is_not_missile_unit	hkrul_beorg_rally

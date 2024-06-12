@@ -1,20 +1,24 @@
-agent	faction	subtype
-#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_ulfric		
-general	wh_dlc08_nor_norsca	hkrul_ulfric
-general	wh2_main_nor_aghol	hkrul_ulfric
-general	wh_main_nor_bjornling	hkrul_ulfric
-general	wh3_dlc20_nor_dolgan	hkrul_ulfric
-general	wh3_dlc20_nor_kuj	hkrul_ulfric
-general	wh3_dlc20_nor_kul	hkrul_ulfric
-general	wh3_dlc20_nor_tong	hkrul_ulfric
-general	wh3_dlc20_nor_yusak	hkrul_ulfric
-general	wh3_dlc21_nor_wyrmkins	hkrul_ulfric
-general	wh_dlc08_nor_naglfarlings	hkrul_ulfric
-general	wh_dlc08_nor_vanaheimlings	hkrul_ulfric
-general	wh_dlc08_nor_wintertooth	hkrul_ulfric
-general	wh_main_nor_aesling	hkrul_ulfric
-general	wh_main_nor_baersonling	hkrul_ulfric
-general	wh_main_nor_graeling	hkrul_ulfric
-general	wh_main_nor_sarl	hkrul_ulfric
-general	wh_main_nor_skaeling	hkrul_ulfric
-general	wh_main_nor_varg	hkrul_ulfric
+agent	faction	subtype	mod_disabled
+#faction_agent_permitted_subtypes_tables;1;db/faction_agent_permitted_subtypes_tables/hkrul_ulfric			
+general	wh_dlc08_nor_norsca	hkrul_ulfric	false
+general	wh2_main_nor_aghol	hkrul_ulfric	false
+general	wh_main_nor_bjornling	hkrul_ulfric	false
+general	wh3_dlc20_nor_dolgan	hkrul_ulfric	false
+general	wh3_dlc20_nor_kuj	hkrul_ulfric	false
+general	wh3_dlc20_nor_kul	hkrul_ulfric	false
+general	wh3_dlc20_nor_tong	hkrul_ulfric	false
+general	wh3_dlc20_nor_yusak	hkrul_ulfric	false
+general	wh3_dlc21_nor_wyrmkins	hkrul_ulfric	false
+general	wh_dlc08_nor_naglfarlings	hkrul_ulfric	false
+general	wh_dlc08_nor_vanaheimlings	hkrul_ulfric	false
+general	wh_dlc08_nor_wintertooth	hkrul_ulfric	false
+general	wh_main_nor_aesling	hkrul_ulfric	false
+general	wh_main_nor_baersonling	hkrul_ulfric	false
+general	wh_main_nor_graeling	hkrul_ulfric	false
+general	wh_main_nor_sarl	hkrul_ulfric	false
+general	wh_main_nor_skaeling	hkrul_ulfric	false
+general	wh_main_nor_varg	hkrul_ulfric	false
+spy	wh_main_nor_bjornling	hkrul_skald_horn	false
+spy	wh_main_nor_bjornling	hkrul_skald_drum	false
+dignitary	wh_main_nor_bjornling	wh_dlc08_nor_fimir_balefiend_fire	true
+dignitary	wh_main_nor_bjornling	wh_dlc08_nor_fimir_balefiend_shadow	true

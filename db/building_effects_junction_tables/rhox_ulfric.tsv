@@ -1,0 +1,6 @@
+building	effect	context_requirement	effect_scope	value	value_damaged	value_ruined
+#building_effects_junction_tables;0;db/building_effects_junction_tables/rhox_ulfric						
+rhox_bjornling_creatures_2	rhox_skald_effect_agent_cap_increase_spy_skald		faction_to_faction_own_unseen	1.0000	1.0000	0.0000
+rhox_bjornling_creatures_2	rhox_skald_effect_agent_enable_recruitment_spy		province_to_province_own	1.0000	1.0000	0.0000
+rhox_bjornling_creatures_3	rhox_skald_effect_agent_cap_increase_spy_skald		faction_to_faction_own_unseen	1.0000	1.0000	0.0000
+rhox_bjornling_creatures_3	rhox_skald_effect_agent_enable_recruitment_spy		province_to_province_own	1.0000	1.0000	0.0000

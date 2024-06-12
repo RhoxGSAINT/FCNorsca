@@ -1,0 +1,4 @@
+alternate_unit	base_unit	type_category	type_icon	show_base_in_unit_list	id	colour	sort_order
+#units_custom_battle_types_tables;3;db/units_custom_battle_types_tables/scm_fc_norsca							
+hkrul_skald_drum	hkrul_skald_horn	type_spell_lore	ui/campaign ui/agents/scm_fc_norsca_skald_drum.png	false	2096160062	871983	0
+hkrul_skald_horn	hkrul_skald_horn	type_spell_lore	ui/campaign ui/agents/scm_fc_norsca_skald_horn.png	true	2096160063	D35F12	1

@@ -1,21 +1,21 @@
-agent	faction	subtype
-#faction_agent_permitted_subtypes_tables;0;db/faction_agent_permitted_subtypes_tables/hkrul_akkorak		
-general	wh_dlc08_nor_norsca	hkrul_akkorak
-general	wh2_main_nor_aghol	hkrul_akkorak
-general	wh2_main_nor_skeggi	hkrul_akkorak
-general	wh3_dlc20_nor_dolgan	hkrul_akkorak
-general	wh3_dlc20_nor_kuj	hkrul_akkorak
-general	wh3_dlc20_nor_kul	hkrul_akkorak
-general	wh3_dlc20_nor_tong	hkrul_akkorak
-general	wh3_dlc20_nor_yusak	hkrul_akkorak
-general	wh3_dlc21_nor_wyrmkins	hkrul_akkorak
-general	wh_dlc08_nor_naglfarlings	hkrul_akkorak
-general	wh_dlc08_nor_vanaheimlings	hkrul_akkorak
-general	wh_dlc08_nor_wintertooth	hkrul_akkorak
-general	wh_main_nor_aesling	hkrul_akkorak
-general	wh_main_nor_baersonling	hkrul_akkorak
-general	wh_main_nor_bjornling	hkrul_akkorak
-general	wh_main_nor_graeling	hkrul_akkorak
-general	wh_main_nor_sarl	hkrul_akkorak
-general	wh_main_nor_skaeling	hkrul_akkorak
-general	wh_main_nor_varg	hkrul_akkorak
+agent	faction	subtype	mod_disabled
+#faction_agent_permitted_subtypes_tables;1;db/faction_agent_permitted_subtypes_tables/hkrul_akkorak			
+general	wh_dlc08_nor_norsca	hkrul_akkorak	false
+general	wh2_main_nor_aghol	hkrul_akkorak	false
+general	wh2_main_nor_skeggi	hkrul_akkorak	false
+general	wh3_dlc20_nor_dolgan	hkrul_akkorak	false
+general	wh3_dlc20_nor_kuj	hkrul_akkorak	false
+general	wh3_dlc20_nor_kul	hkrul_akkorak	false
+general	wh3_dlc20_nor_tong	hkrul_akkorak	false
+general	wh3_dlc20_nor_yusak	hkrul_akkorak	false
+general	wh3_dlc21_nor_wyrmkins	hkrul_akkorak	false
+general	wh_dlc08_nor_naglfarlings	hkrul_akkorak	false
+general	wh_dlc08_nor_vanaheimlings	hkrul_akkorak	false
+general	wh_dlc08_nor_wintertooth	hkrul_akkorak	false
+general	wh_main_nor_aesling	hkrul_akkorak	false
+general	wh_main_nor_baersonling	hkrul_akkorak	false
+general	wh_main_nor_bjornling	hkrul_akkorak	false
+general	wh_main_nor_graeling	hkrul_akkorak	false
+general	wh_main_nor_sarl	hkrul_akkorak	false
+general	wh_main_nor_skaeling	hkrul_akkorak	false
+general	wh_main_nor_varg	hkrul_akkorak	false

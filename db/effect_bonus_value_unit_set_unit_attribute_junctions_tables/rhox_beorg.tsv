@@ -1,0 +1,4 @@
+bonus_value_id	effect	unit_set_attribute
+#effect_bonus_value_unit_set_unit_attribute_junctions_tables;0;db/effect_bonus_value_unit_set_unit_attribute_junctions_tables/rhox_beorg		
+enable	hkrul_beorg_bear_flanker	hkrul_beorg_bear_flanker
+enable	hkrul_beorg_hunter_vanguard	hkrul_beorg_hunter_vanguard

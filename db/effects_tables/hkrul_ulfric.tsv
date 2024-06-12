@@ -28,3 +28,6 @@ hkrul_hildr_hunt	item_ability.png	23	item_ability.png	battle	true
 hkrul_hildr_brew	item_ability.png	23	item_ability.png	battle	true
 hkrul_hildr_axe	item_ability.png	23	item_ability.png	battle	true
 hkrul_summon_bear	item_ability.png	23	item_ability.png	battle	true
+rhox_skald_effect_agent_cap_increase_spy_skald	scm_fc_norsca_spy_skald.png	302	scm_fc_norsca_spy_skald.png	campaign	true
+rhox_skald_effect_agent_enable_recruitment_spy	scm_fc_norsca_spy_skald.png	203	scm_fc_norsca_spy_skald.png	campaign	true
+hkrul_skald_saga	item_ability.png	23	item_ability.png	battle	true

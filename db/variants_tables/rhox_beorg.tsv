@@ -1,0 +1,11 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/rhox_beorg							
+hkrul_oerl		hkrul_oerl		1.0000	1.1400	0.0000	
+hkrul_oerl_campaign		hkrul_oerl_campaign		1.0000	1.1600	0.0000	
+hkrul_bearmen		hkrul_bearmen		1.0000	1.0400	0.0500	
+phy_bears		phy_bears		1.0000	1.1000	0.0500	
+hkrul_beorg_bear_sem		phy_bear_sem		1.0000	2.5000	0.0000	
+hkrul_beorg		hkrul_beorg		1.0000	1.1600	0.0000	
+hkrul_beorg_bear		hkrul_beorg_bear		1.0000	1.2200	0.0000	
+hkrul_beorg_campaign		hkrul_beorg_campaign		1.0000	1.1600	0.0000	
+partypus_beorg_agent_ship		partypus_beorg_agent_ship		1.0000	1.0000	0.0000	

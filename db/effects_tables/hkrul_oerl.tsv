@@ -1,0 +1,15 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_oerl					
+hkrul_oerl_axes	item_ability.png	300	item_ability.png	battle	true
+hkrul_oerl_frenzy	item_ability.png	300	item_ability.png	battle	true
+hkrul_oerl_hunters_missile_damage	ranged_damage.png	97	ranged_damage.png	battle	true
+hkrul_oerl_bearmen_armor	armour.png	97	armour.png	battle	true
+hkrul_oerl_bear_attack	melee.png	97	melee.png	battle	true
+hkrul_oerl_bear_xp	experience.png	101	experience.png	campaign	true
+hkrul_oerl_hunters_recruit	experience.png	101	experience.png	campaign	true
+hkrul_oerl_wolves_upkeep	military_spending.png	101	military_spending.png	campaign	false
+hkrul_oerl_bear_upkeep	military_spending.png	101	military_spending.png	campaign	false
+hkrul_oerl_horn	item_ability.png	23	item_ability.png	battle	true
+hkrul_oerl_axe	item_ability.png	23	item_ability.png	battle	true
+hkrul_oerl_wolves_attack	melee.png	97	melee.png	battle	true
+hkrul_beorg_mark	item_ability.png	23	item_ability.png	battle	true

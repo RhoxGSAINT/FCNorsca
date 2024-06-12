@@ -1,8 +1,8 @@
-key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade
-#incidents_tables;6;db/incidents_tables/rhox_baersonling								
-rhox_baersonling_chain_1	false	messenger	false	Event		true		0.0000
-rhox_baersonling_chain_3	false	messenger	false	Event		true		0.0000
-rhox_baersonling_chain_4	false	messenger	false	Event		true		0.0000
-rhox_baersonling_chain_5	false	messenger	false	Event		true		0.0000
-rhox_baersonling_chain_6	false	messenger	false	Event		true		0.0000
-rhox_baersonling_chain_7	false	messenger	false	Event		true		0.0000
+key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade	use_revealing_text
+#incidents_tables;7;db/incidents_tables/rhox_baersonling									
+rhox_baersonling_chain_1	false	messenger	false	Event		true		0.0000	false
+rhox_baersonling_chain_3	false	messenger	false	Event		true		0.0000	false
+rhox_baersonling_chain_4	false	messenger	false	Event		true		0.0000	false
+rhox_baersonling_chain_5	false	messenger	false	Event		true		0.0000	false
+rhox_baersonling_chain_6	false	messenger	false	Event		true		0.0000	false
+rhox_baersonling_chain_7	false	messenger	false	Event		true		0.0000	false

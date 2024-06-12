@@ -1,6 +1,6 @@
 key	text	tooltip
 #Loc;1;text/db/scm_norsca_skald.loc		
-agent_culture_details_description_text_9880128	I like poetries	false
+agent_culture_details_description_text_9880128	Skalds are the keepers of lore, part entertainer, part warrior, these individuals are held in high esteem for their knowledge and their sagas inspire Norscan warriors.	false
 agent_culture_details_onscreen_name_9880128	Skald	false
 agent_subtypes_description_text_override_hkrul_skald_horn		false
 agent_subtypes_onscreen_name_override_hkrul_skald_horn	Skald (Horn Blower)	false
@@ -8,3 +8,61 @@ agent_subtypes_description_text_override_hkrul_skald_drum		false
 agent_subtypes_onscreen_name_override_hkrul_skald_drum	Skald (Drummer)	false
 land_units_onscreen_name_hkrul_skald_horn	Skald (Horn Blower)	false
 land_units_onscreen_name_hkrul_skald_drum	Skald (Drummer)	false
+unit_description_short_texts_text_scm_norsca_skald	Skalds are the keepers of lore, the chroniclers of the histories of the Norse. Part entertainer, part warrior, these individuals are held in high esteem for their wisdom and knowledge.	false
+unit_description_historical_texts_text_scm_norsca_skald		false
+agent_actions_localised_action_name_rhox_skald_agent_action_assist_army_improve_armour	Bless the Armoury	false
+agent_actions_localised_action_description_rhox_skald_agent_action_assist_army_improve_armour	[[col:yellow]]Use the Skald's Knowledge to increases the armour of all units in the parent army by %n. Only one Skald can apply this effect at a time.[[/col]]	false
+agent_actions_localised_action_name_rhox_skald_agent_action_assist_army_improve_weapons	Bless the Blades	false
+agent_actions_localised_action_description_rhox_skald_agent_action_assist_army_improve_weapons	[[col:yellow]]Use the Skald's Knowledge to increases the missile and melee damage of all units in the parent army by %n%. Only one Skald can apply this effect at a time.[[/col]]	false
+effects_description_rhox_skald_agent_action_assist_army_improve_armour	Unlocks [[img:icon_hero]][[/img]]Hero action: [[col:yellow]]Harden Armour[[/col]]	false
+effects_description_rhox_skald_agent_action_assist_army_improve_weapons	Unlocks [[img:icon_hero]][[/img]]Hero action: [[col:yellow]]Sharpen Weapons[[/col]]	false
+character_skills_localised_name_rhox_skald_horn_campaign_sharpen	Bless the Blades	false
+character_skills_localised_description_rhox_skald_horn_campaign_sharpen	The many saga's that the Skald orates tell tales of legendary battles and hardened warriors, their words resonate and perhaps merely perceptively - increase the damage done by the Norscan retinue.	false
+character_skills_localised_name_rhox_skald_drum_campaign_harden	Bless the Armoury	false
+character_skills_localised_description_rhox_skald_drum_campaign_harden	The many saga's that the Skald orates tell tales of legendary battles and hardened warriors, their words resonate and perhaps merely perceptively - increase the effectiveness of Norscan armour.	false
+character_skills_localised_name_rhox_skald_skill_node_unique_01	{{tr:agent_action_name_replenish_troops}}	false
+character_skills_localised_description_rhox_skald_skill_node_unique_01	Those in the army can find succour or be replenished by the power of this champion.	false
+effects_description_rhox_skald_effect_agent_action_enable_spy_assist_army_replenish_troops	Unlocks [[img:icon_hero]][[/img]]Hero action: [[col:yellow]]{{tr:agent_action_name_replenish_troops}}[[/col]]	false
+unit_abilities_tooltip_text_rhox_skald_battle_chant	The Skald's rhythmic beats inspire courage and unity in the heart of battle.	false
+unit_abilities_onscreen_name_rhox_skald_battle_chant	Battle Chant	false
+unit_abilities_tooltip_text_rhox_skald_guardian_cadence	With each beat, the Skald's drum fortifies the defenses of his allies, shielding them from harm.	false
+unit_abilities_onscreen_name_rhox_skald_guardian_cadence	Guardian Cadence	false
+unit_abilities_tooltip_text_rhox_skald_fury_call	The Skald's horn unleashes a primal call to arms, fueling the fury of those who hear it.	false
+unit_abilities_onscreen_name_rhox_skald_fury_call	Fury Call	false
+unit_abilities_additional_ui_effects_localised_text_rhox_skald_exclusive	Mutually exclusive with other Skald inspiring abilities	false
+effects_description_rhox_skald_effect_agent_cap_increase_spy_skald	Hero capacity: %+n for Skald	false
+effects_description_rhox_skald_effect_agent_enable_recruitment_spy	Enables [[img:icon_hero]][[/img]]Hero recruitment: Skald	false
+character_skills_localised_name_rhox_skald_skill_node_unique_02	Echoes of Glory	false
+character_skills_localised_description_rhox_skald_skill_node_unique_02	Through ancient chants, the Skald extends the reach of his inspiring melodies, ensuring no warrior is beyond the call to battle.	false
+effects_description_rhox_skald_effect_increase_range	Effect range: %+n% for Skald inspiring abilities	false
+unit_abilities_tooltip_text_rhox_skald_guardian_cadence_upgraded	With a mighty beat, the Skald's drumming creates an impenetrable barrier around his allies, turning them into an unbreakable bulwark against the enemy's advance.	false
+unit_abilities_onscreen_name_rhox_skald_guardian_cadence_upgraded	Sentinel's Rhythm	false
+unit_abilities_tooltip_text_rhox_skald_fury_call_upgraded	The Skald's horn summons forth a raging tempest of fury, driving allies into a berserk frenzy, and striking fear into the hearts of their enemies.	false
+unit_abilities_onscreen_name_rhox_skald_fury_call_upgraded	Raging Tempest	false
+character_skills_localised_name_rhox_skald_skill_node_unique_03_horn	Raging Tempest	false
+character_skills_localised_description_rhox_skald_skill_node_unique_03_horn	The Skald's horn summons forth a raging tempest of fury, driving allies into a berserk frenzy, and striking fear into the hearts of their enemies.	false
+character_skills_localised_name_rhox_skald_skill_node_unique_03_drum	Sentinel's Rhythm	false
+character_skills_localised_description_rhox_skald_skill_node_unique_03_drum	With a mighty beat, the Skald's drumming creates an impenetrable barrier around his allies, turning them into an unbreakable bulwark against the enemy's advance.	false
+effects_description_rhox_skald_effect_disable_rhox_skald_guardian_cadence	Replaces ability: "Guardian Cadence"	false
+effects_description_rhox_skald_effect_disable_rhox_skald_fury_call	Replaces ability: "Fury Call"	false
+effects_description_rhox_skald_effect_enable_rhox_skald_guardian_cadence_upgraded	Ability: "Sentinel's Rhythm"	false
+effects_description_rhox_skald_effect_enable_rhox_skald_fury_call_upgraded	Ability: "Raging Tempest"	false
+effects_description_hkrul_skald_horn_passive	Passive Ability: Northern Warcry	false
+effects_description_hkrul_skald_drum_passive	Passive Ability: Northern March	false
+unit_abilities_tooltip_text_hkrul_skald_horn_passive	Blasts of the horn stir the fury within Norscan warriors, driving them to greater feats of strength and savagery.	false
+unit_abilities_tooltip_text_hkrul_skald_drum_passive	Beats of the battle drummer instill an unyielding resolve in Norscan warriors, turning aside blows with relentless determination.	false
+unit_abilities_onscreen_name_hkrul_skald_horn_passive	Northern Warcry	false
+unit_abilities_onscreen_name_hkrul_skald_drum_passive	Northern March	false
+character_skills_localised_name_rhox_skald_skill_node_unique_04_horn	Northern Warcry	false
+character_skills_localised_description_rhox_skald_skill_node_unique_04_horn	Blasts of the horn stir the fury within Norscan warriors, driving them to greater feats of strength and savagery.	false
+character_skills_localised_name_rhox_skald_skill_node_unique_04_drum	Northern March	false
+character_skills_localised_description_rhox_skald_skill_node_unique_04_drum	Beats of the battle drummer instill an unyielding resolve in Norscan warriors, turning aside blows with relentless determination.	false
+units_custom_battle_types_type_name_hkrul_skald_hornhkrul_skald_drumtype_spell_lore	Drummer	false
+units_custom_battle_types_localised_description_hkrul_skald_hornhkrul_skald_drumtype_spell_lore	Drummer	false
+units_custom_battle_types_type_name_hkrul_skald_hornhkrul_skald_horntype_spell_lore	Horn Blower	false
+units_custom_battle_types_localised_description_hkrul_skald_hornhkrul_skald_horntype_spell_lore	Horn Blower	false
+unit_abilities_onscreen_name_hkrul_skald_saga	Skald's Brew	false
+unit_abilities_tooltip_text_hkrul_skald_saga	Skalds serve in the High King's Great Hall as chronicler, entertainer, warrior. Yet their ability to invigorate troops with knowledge over the finest brews is lesser known.	false
+effects_description_hkrul_skald_saga	Ability: "Skald's Brew"	false
+character_skills_localised_name_hkrul_skill_node_unique_saga	Skald's Brew	false
+character_skills_localised_description_hkrul_skill_node_unique_saga	Skalds serve in the High King's Great Hall as chronicler, entertainer, warrior. Yet their ability to invigorate troops with knowledge over the finest brews is lesser known.	false

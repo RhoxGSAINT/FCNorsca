@@ -1,0 +1,7 @@
+key	chance_to_replenish	max_count	unit_record	use_partial_replenishment	max_replenish_per_turn
+#mercenary_unit_groups_tables;2;db/mercenary_unit_groups_tables/rhox_beorg					
+hkrul_bearmen	100.0000	1	hkrul_bearmen	true	0.1000
+hkrul_beorg_bear_sem	100.0000	1	hkrul_beorg_bear_sem	true	0.1000
+hkrul_beorg_brown_feral	0.0000	0	hkrul_beorg_brown_feral	true	0.0000
+hkrul_beorg_brown_feral_marked	0.0000	0	hkrul_beorg_brown_feral_marked	true	0.0000
+hkrul_beorg_ice_feral	0.0000	0	hkrul_beorg_ice_feral	true	0.0000

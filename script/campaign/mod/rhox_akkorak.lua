@@ -25,7 +25,7 @@ core:add_listener(
         local region = context:region()
         local owner_faction = region:owning_faction()
         local bonus_value = region:bonus_values():scripted_value("rhox_akkorak_knight_chance", "value")
-        return cm:model():random_percent(bonus_value) and owner_faction:name() == akkorak_faction
+        return cm:model():random_percent(bonus_value) and owner_faction and owner_faction:name() == akkorak_faction
     end,
     function(context)
         local region = context:region()

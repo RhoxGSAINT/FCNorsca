@@ -22,3 +22,5 @@ rhox_sarg_sla_3		wh3_dlc20_nor_yusak	7	rhox_sarg_sla_3	nor_mil	3	800	0	0			0	0	2
 rhox_sarg_normal_1		wh3_dlc20_nor_yusak	1	rhox_sarg_normal_1	nor_mil	3	800	0	0			0	0	-20
 rhox_sarg_normal_2		wh3_dlc20_nor_yusak	2	rhox_sarg_normal_2	nor_mil	3	800	0	0			0	0	-20
 rhox_sarg_normal_3		wh3_dlc20_nor_yusak	3	wh3_main_tech_sla_1_2	nor_mil	3	500	0	0			0	0	-20
+rhox_akkorak_knight_node_1		wh3_dlc20_nor_kul	9	wh3_dlc20_chs_und_shared_knights	nor_mil	0	800	0	0			0	0	0
+rhox_akkorak_knight_node_2		wh3_dlc20_nor_kul	9	wh_main_tech_chs_branch_5_4	nor_mil	1	800	0	0			0	0	0

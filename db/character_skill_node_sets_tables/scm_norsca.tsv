@@ -29,3 +29,5 @@ wolftribe_skill_node_set_scm_norsca_asta	dignitary	false	false				scm_norsca_ast
 wolftribe_skill_node_set_alfkael	wizard	false	false				scm_norsca_alfkael
 skill_node_set_hkrul_graill	champion	false	false				hkrul_graill
 skill_node_set_hkrul_hildr	champion	false	false				hkrul_hildr
+hkrul_skald_horn	spy	false	false				hkrul_skald_horn
+hkrul_skald_drum	spy	false	false				hkrul_skald_drum

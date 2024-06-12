@@ -1,0 +1,4 @@
+faction	vehicle
+#battle_siege_vehicle_permissions_tables;0;db/battle_siege_vehicle_permissions_tables/rhox_beorg	
+mixer_nor_beorg	nor_battering_ram
+mixer_nor_beorg	nor_siege_tower_15m

@@ -42,3 +42,20 @@ rhox_yusak_nor_marauder_chieftan_self_6		wh_main_skill_all_all_self_foe-seeker	w
 rhox_yusak_nor_marauder_chieftan_self_b_04		wh_main_skill_chs_all_unique_aura_of_chaos	wh3_dlc20_nor_yusak	2	3		0	0	true
 rhox_yusak_nor_marauder_chieftan_self_b_05		wh_main_skill_chs_lord_battle_hearts_of_iron	wh3_dlc20_nor_yusak	2	4		0	0	true
 rhox_yusak_nor_marauder_chieftan_self_b_06		wh_main_skill_chs_all_unique_eye_of_the_gods	wh3_dlc20_nor_yusak	2	5		0	0	true
+rhox_skald_horn_campaign_agent_actions_dummy		rhox_skald_horn_campaign_agent_actions_dummy		8	0		1	0	false
+rhox_skald_drum_campaign_agent_actions_dummy		rhox_skald_drum_campaign_agent_actions_dummy		8	0		1	0	false
+rhox_skald_horn_campaign_sharpen		rhox_skald_horn_campaign_sharpen		5	0		0	0	true
+rhox_skald_drum_campaign_harden		rhox_skald_drum_campaign_harden		5	0		0	0	true
+rhox_skald_skill_node_campaign_01		wh2_main_skill_all_hero_passive_boost_income		5	1		0	0	true
+rhox_skald_skill_node_campaign_02		wh2_main_skill_all_hero_hinder_settlement_damage_walls		5	2		0	0	true
+rhox_skald_skill_node_campaign_03		wh2_main_skill_all_hero_hinder_agent_assassinate		5	3		0	0	true
+rhox_skald_skill_node_campaign_04		wh2_main_skill_all_hero_hinder_army_hinder_replenishment		5	4		0	0	true
+rhox_skald_skill_node_campaign_05		wh2_main_skill_all_hero_reduce_action_cost		5	5		0	0	true
+rhox_skald_skill_node_unique_01		rhox_skald_skill_node_unique_01		4	0		0	0	true
+rhox_skald_skill_node_unique_02		rhox_skald_skill_node_unique_02		4	1		0	0	true
+rhox_skald_skill_node_unique_03_horn		rhox_skald_skill_node_unique_03_horn		4	2		0	3	true
+rhox_skald_skill_node_unique_03_drum		rhox_skald_skill_node_unique_03_drum		4	2		0	3	true
+rhox_skald_skill_node_unique_04_horn		rhox_skald_skill_node_unique_04_horn		4	3		0	0	true
+rhox_skald_skill_node_unique_04_drum		rhox_skald_skill_node_unique_04_drum		4	3		0	0	true
+hkrul_skill_node_unique_saga_drum		hkrul_skill_node_unique_saga		4	4		0	0	true
+hkrul_skill_node_unique_saga_horn		hkrul_skill_node_unique_saga		4	4		0	0	true

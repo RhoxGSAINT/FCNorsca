@@ -1,10 +1,10 @@
 child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	link_type
 #character_skill_node_links_tables;3;db/character_skill_node_links_tables/hkrul_hrothgar							
-hkrul_skill_node_hrothgar_misc_03	hkrul_skill_node_hrothgar_misc_02	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_hrothgar_misc_04	hkrul_skill_node_hrothgar_misc_02	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_hrothgar_misc_05	hkrul_skill_node_hrothgar_misc_02	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_hrothgar_misc_06	hkrul_skill_node_hrothgar_misc_02	0	0	0	0.0000	0.0000	REQUIRED
-hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_03	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_04	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_05	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
-hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_06	0	0	0	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_hrothgar_misc_03	hkrul_skill_node_hrothgar_misc_02	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_hrothgar_misc_04	hkrul_skill_node_hrothgar_misc_02	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_hrothgar_misc_05	hkrul_skill_node_hrothgar_misc_02	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_hrothgar_misc_06	hkrul_skill_node_hrothgar_misc_02	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_03	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_04	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_05	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_skill_node_hrothgar_misc_07	hkrul_skill_node_hrothgar_misc_06	0	1	1	0.0000	0.0000	SUBSET_REQUIRED

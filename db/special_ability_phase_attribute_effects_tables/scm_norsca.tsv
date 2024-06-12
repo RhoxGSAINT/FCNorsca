@@ -24,3 +24,7 @@ wallbreaker	hkrul_norsca_axe_2	positive
 unbreakable	hkrul_norsca_axe_3	positive
 flanking_immune	hkrul_ulfric_pas_shield	positive
 rampage	hkrul_hildr_axe_enemy	positive
+unbreakable	hkrul_soren_sack_2_1	positive
+cannot_die	hkrul_norsca_shield_2	positive
+cannot_die	rhox_fc_norsca_raven	positive
+invulnerable	hkrul_swyrd_helm	positive

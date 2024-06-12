@@ -240,3 +240,4 @@ ancillaries_colour_text_hkrul_norsca_enchanted_4	Forged in the depths of the pri
 effects_description_hkrul_summon_bear	Ability: "Summon Grizzleclaw"	false
 unit_abilities_onscreen_name_hkrul_summon_bear	Summon Grizzleclaw	false
 unit_abilities_tooltip_text_hkrul_summon_bear	The amulet resonates with the untamed spirits of the northern wilderness, drawing them to its bearer's side. 	false
+campaign_payload_ui_details_description_rhox_fc_norsca_agent_skald_dummy	Hero recruited: Skald	false

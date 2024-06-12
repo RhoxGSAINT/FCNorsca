@@ -1,0 +1,7 @@
+key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tech_requirement
+#mercenary_pool_to_groups_junctions_tables;1;db/mercenary_pool_to_groups_junctions_tables/rhox_beorg						
+1848694220	hkrul_bearmen	1	wh_dlc08_nor_units_of_renown_pool			
+1848694221	hkrul_beorg_bear_sem	1	wh_dlc08_nor_units_of_renown_pool			
+1848694222	hkrul_beorg_brown_feral	0	rhox_beorg_bears			
+1848694223	hkrul_beorg_brown_feral_marked	0	rhox_beorg_bears			
+1848694224	hkrul_beorg_ice_feral	0	rhox_beorg_bears			

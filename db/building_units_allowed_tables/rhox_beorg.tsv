@@ -1,0 +1,5 @@
+key	building	unit	XP	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/rhox_beorg						
+169798199	rhox_beorg_halls_of_urslo	hkrul_beorg_brown_feral	0	0		true
+169798200	rhox_beorg_halls_of_urslo	hkrul_beorg_brown_feral_marked	0	0		true
+169798201	rhox_beorg_halls_of_urslo	hkrul_beorg_ice_feral	0	0		true

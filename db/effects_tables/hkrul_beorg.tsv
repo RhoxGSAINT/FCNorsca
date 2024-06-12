@@ -1,0 +1,19 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_beorg					
+hkrul_beorg_fang	item_ability.png	300	item_ability.png	battle	true
+hkrul_beorg_rally	item_ability.png	300	item_ability.png	battle	true
+hkrul_beorg_claw	item_ability.png	300	item_ability.png	battle	true
+hkrul_beorg_sword	item_ability.png	300	item_ability.png	battle	true
+hkrul_beorg_bear_form	item_ability.png	300	item_ability.png	battle	true
+hkrul_beorg_pal	item_ability.png	300	item_ability.png	battle	true
+hkrul_beorg_bear_ws	weapon_damage.png	97	weapon_damage.png	battle	true
+hkrul_beorg_missile_block_inf	block_character.png	22	block_character.png	battle	true
+hkrul_beorg_bear_charge	charge.png	5	charge.png	battle	true
+hkrul_beorg_bear_ap	armour_piercing.png	6	armour_piercing.png	battle	true
+hkrul_beorg_bear_defence	defence.png	6	defence.png	battle	true
+hkrul_beorg_bear_flanker	devastating_flanker.png	461	devastating_flanker.png	battle	true
+hkrul_beorg_missile_reload	icon_stat_reload_time_force.png	6	icon_stat_reload_time_force.png	battle	true
+hkrul_beorg_hunter_vanguard	attribute_guerrilla_deploy.png	3	attribute_guerrilla_deploy.png	battle	true
+rhox_beorg_dummy_1	effect_bundle_beorg1.png	1	effect_bundle_beorg1.png	campaign	true
+rhox_beorg_dummy_2	effect_bundle_beorg1.png	2	effect_bundle_beorg1.png	campaign	true
+rhox_beorg_bear_join_chance	merc.png	106	merc.png	campaign	true
