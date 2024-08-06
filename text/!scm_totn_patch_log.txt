@@ -1,3 +1,24 @@
+2024/AUG/06 SCM
+- Immortality skill node has been changed to generic ones to fit with CA's 5.1.3 change
+- All of the Legendary heroes' upkeep is set to 0 to fit with CA's change
+
+2024/JUL/25 SCM
+- Changed the dark fortress mission to scripted+cm:set_scripted_mission_entity_completion_states. Thanks Grackul
+
+2024/JUL/23 SCM
+- Changed Anillary drop and steal effect scope to fit that of 5.1.2 vanilla's
+
+2024/JUL/10 SCM
+- Removed mentor skill from legendary heroes to fit with CA's change
+- Changed the script and DB of Karanak to fit that of vanilla's 5.1.1 change
+
+2024/JUN/25 Rhox
+- Changed Khorne mark's magical resistance to 35 to fit with 5.1 change
+- Added Karnak access to Hakka
+
+2024/JUN/24 medusa0
+- Added missing elephant goad model
+
 2024/JUN/12 SCM -2
 - Added missing icons for the oerl frenzy icon and building
 - Removed hkrul_beorg_pal and hkrul_beorg_sword from the DB as it wasn't used, but were confusing some of the people

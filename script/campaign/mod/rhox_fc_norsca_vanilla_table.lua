@@ -86,7 +86,7 @@ core:add_listener(
 
 
 -----------------------------Vanilla Legendary Hero thing
-------------Baesonling --nedd check
+------------Baesonling 
 table.insert(character_unlocking.character_data["aekold"]["override_allowed_factions"]["main_warhammer"], "wh_main_nor_baersonling")
 table.insert(character_unlocking.character_data["aekold"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_aekold_helbrass_stage_1_nor")
 table.insert(character_unlocking.character_data["aekold"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_aekold_helbrass_stage_2_nor")
@@ -103,6 +103,17 @@ character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baers
 character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baersonling"]["main_warhammer"]="rhox_baersonling_tze_blue_scribes_stage_1_nor"
 
 
+----Hakka
+table.insert(character_unlocking.character_data["karanak"]["override_allowed_factions"]["main_warhammer"], "wh_main_nor_aesling")
+
+character_unlocking.character_data["karanak"]["mission_keys"]["wh_main_nor_aesling"]={}
+
+
+character_unlocking.character_data["karanak"]["mission_keys"]["wh_main_nor_aesling"]["main_warhammer"] ="rhox_totn_mis_ie_nor_karanak_unlock_01"
+
+
+table.insert(character_unlocking.character_data["karanak"]["mission_chain_keys"]["main_warhammer"], "rhox_totn_mis_ie_nor_karanak_unlock_01")
+table.insert(character_unlocking.character_data["karanak"]["missions_to_trigger_dilemma"]["main_warhammer"], "rhox_totn_mis_ie_nor_karanak_unlock_01")
 
 
 

@@ -1,0 +1,4 @@
+choice_key	dilemma_key	followup_dilemma_key
+#cdir_events_dilemma_followup_dilemmas_tables;0;db/cdir_events_dilemma_followup_dilemmas_tables/scm_norsca		
+FIRST	daemon_hunter_0	daemon_hunter_1
+SECOND	daemon_hunter_0	daemon_hunter_2
