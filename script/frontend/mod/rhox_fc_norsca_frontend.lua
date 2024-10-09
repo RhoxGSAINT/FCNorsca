@@ -1,4 +1,4 @@
-
+mixer_factions_that_require_dlc["mixer_nor_beorg"]="TW_WH1_NORSCA"
 core:add_ui_created_callback(
 	function(context)
 		if vfs.exists("script/frontend/mod/mixer_frontend.lua")then
@@ -71,6 +71,9 @@ core:add_ui_created_callback(
             -------TOW ones
             mixer_change_lord_name("1266743791", "hkrul_beorg")
             mixer_enable_custom_faction("1266743791")
+            
+            mixer_change_lord_name("1140359289", "hkrul_sarg")
+			mixer_change_lord_name("1105930739", "hkrul_akkorak")
             
             --mixer_enable_custom_faction("718726083")
             --mixer_add_starting_unit_list_for_faction("mixer_nor_fjordlings", {"wh_main_nor_cav_marauder_horsemen_0"})

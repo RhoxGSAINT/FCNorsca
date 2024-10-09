@@ -395,8 +395,10 @@ local rhox_fc_norsca_monster_hunt_factions={
         wh_main_nor_graeling=true,
         wh_main_nor_sarl=true,
         wh_main_nor_varg=true,
-        wh3_dlc20_nor_yusak=true,
         mixer_nor_fjordlings=true,
+        wh_dlc08_nor_naglfarlings=true,
+        mixer_nor_beorg=true,
+        wh3_dlc20_nor_yusak=true,
 }
 
 

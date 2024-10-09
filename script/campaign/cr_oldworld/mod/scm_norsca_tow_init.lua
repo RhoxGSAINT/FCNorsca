@@ -335,8 +335,6 @@ local rhox_faction_list={
         leader={
             subtype="hkrul_beorg",
             unit_list="wh_main_nor_mon_chaos_warhounds_0,hkrul_bearmen,hkrul_beorg_brown_feral,hkrul_beorg_brown_feral,hkrul_beorg_brown_feral_marked",
-            x=1287,
-            y=1213,
             forename ="names_name_5677700722",
             familiyname ="names_name_5677700721",
         },
@@ -360,6 +358,96 @@ local rhox_faction_list={
 		    if cm:get_faction("cr_nor_ursfjordlings"):is_human() == false then
                 cm:force_confederation("mixer_nor_beorg", "cr_nor_ursfjordlings")
 		    end
+
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
+    wh3_dlc20_nor_yusak ={
+        leader={
+            subtype="hkrul_sarg",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh3_dlc20_chs_inf_chaos_warriors_msla,wh3_main_sla_inf_marauders_0,wh_dlc08_nor_cav_marauder_horsemasters_0,wh_main_nor_cav_marauder_horsemen_0,wh_main_nor_cav_marauder_horsemen_0,wh_main_nor_cav_marauder_horsemen_1",
+            forename ="names_name_1770700351",
+            familiyname ="names_name_1770700350",
+        },
+        how_they_play="rhox_fc_norsca_wh_main_nor_yusak_how_they_play",
+        pic=800,
+        faction_trait="hkrul_sarg_faction_trait",
+        kill_previous_leader=true,
+        additional = function(faction, faction_key)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_uzul", faction:faction_leader():command_queue_index(), true)
+            
+            local rhox_sarg_gift_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_main_sla_inf_daemonette_0", "daemonic_summoning", 1, 0, 4},
+                    {"wh3_main_sla_mon_keeper_of_secrets_0", "daemonic_summoning", 0, 0, 2},
+                    {"wh3_main_sla_mon_soul_grinder_0", "daemonic_summoning", 0, 0, 2},
+                    {"wh3_main_sla_mon_fiends_of_slaanesh_0", "daemonic_summoning", 0, 0, 4},
+                    {"wh_main_chs_art_hellcannon", "daemonic_summoning", 0, 0, 4},
+                    {"wh3_main_sla_veh_seeker_chariot_0", "daemonic_summoning", 0, 0, 4}
+            }
+            local rhox_sarg_faction_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_dlc20_chs_mon_warshrine", "daemonic_summoning", 0, 0, 2},
+                    {"wh3_dlc20_chs_mon_warshrine_msla", "daemonic_summoning", 0, 0, 2},
+            }
+            rhox_add_warriors_units(cm:get_faction(faction_key), rhox_sarg_gift_units);
+            rhox_add_faction_pool_units(cm:get_faction(faction_key), rhox_sarg_faction_units);
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
+    wh3_dlc20_nor_kul ={
+        leader={
+            subtype="hkrul_akkorak",
+            unit_list="wh_dlc08_nor_cav_marauder_horsemasters_0,wh_dlc08_nor_cav_marauder_horsemasters_0,wh_main_chs_cav_chaos_knights_1,wh_main_chs_cav_chaos_knights_0,wh_main_chs_cav_chaos_knights_0,wh_main_nor_cav_marauder_horsemen_0",
+            forename ="names_name_3670700351",
+            familiyname ="names_name_3670700350",
+        },	
+        agent={
+            type="dignitary",
+            subtype="wh_dlc08_nor_fimir_balefiend_fire"
+        },
+        how_they_play="rhox_fc_norsca_kul_how_they_play",
+        pic=800,
+        faction_trait="hkrul_akkorak_faction_trait",
+        kill_previous_leader=true,
+        additional = function(faction, faction_key)
+            local function rhox_add_faction_akkorak_pool_units (faction_obj, unit_group)
+                for i, v in pairs(unit_group) do
+                    cm:add_unit_to_faction_mercenary_pool(
+                        faction_obj,
+                        v[1], -- key
+                        v[2], -- recruitment source
+                        v[3], -- count
+                        v[4], --replen chance
+                        v[5], -- max units
+                        0, -- max per turn
+                        "",	--faction restriction
+                        "",	--subculture restriction
+                        "",	--tech restriction
+                        false, --partial
+                        "rhox_akkorak_"..v[1]
+                    );
+                end	
+            end
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+            local rhox_akkorak_units = {
+                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
+                    {"wh3_dlc20_chs_cav_chaos_knights_mkho", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mkho_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_main_tze_cav_chaos_knights_0", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mtze_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mnur", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_mnur_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_msla", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh3_dlc20_chs_cav_chaos_knights_msla_lances", "daemonic_summoning_belakor", 0, 0, 20},
+                    {"wh_main_chs_cav_chaos_knights_0", "daemonic_summoning_belakor", 1, 0, 20},
+                    {"wh_main_chs_cav_chaos_knights_1", "daemonic_summoning_belakor", 1, 0, 20},
+            }
+            
+            rhox_add_faction_akkorak_pool_units(faction, rhox_akkorak_units)
 
         end,
         first_tick = function(faction, faction_key) 

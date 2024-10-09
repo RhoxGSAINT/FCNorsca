@@ -1,3 +1,20 @@
+2024/SEP/4 SCM
+- Added DLC lock to Beorg faction
+
+2024/AUG/26 SCM
+- Fixed TOW spawn postion of Beorg
+- Added Kul & Yusak support for TOW
+
+2024/AUG/21 SCM
+- Fixed the campaign group of Skeggi diplomacy
+- CDIR military quality change to fit with 5.2 vanilla
+
+2024/AUG/16 SCM -2
+- Fixed the issue of Wolf Tribe and Beorg's monster hunt getting broken upon finishing the hunt. Thanks Wert!
+
+2024/AUG/16 SCM
+- Fixed the broken wall climbing animation of Sarl archer and Sarl archer RoR
+
 2024/AUG/06 SCM
 - Immortality skill node has been changed to generic ones to fit with CA's 5.1.3 change
 - All of the Legendary heroes' upkeep is set to 0 to fit with CA's change
