@@ -1,3 +1,6 @@
+2024/OCT/09 medusa0
+- Now Oda on manticore has 360 degree shot
+
 2024/SEP/4 SCM
 - Added DLC lock to Beorg faction
 

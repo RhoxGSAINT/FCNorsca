@@ -29,6 +29,10 @@ mark_khorne	hkrul_hakka
 hide_forest	hkrul_oda
 mounted_fire_move	hkrul_oda
 encourages	hkrul_oda
+hide_forest	hkrul_oda_manticore
+mounted_fire_move	hkrul_oda_manticore
+encourages	hkrul_oda_manticore
+flying	hkrul_oda_manticore
 causes_fear	hkrul_drenok_wolf
 hide_forest	hkrul_drenok_wolf
 strider	hkrul_drenok_wolf
