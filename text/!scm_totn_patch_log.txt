@@ -1,3 +1,6 @@
+2024/NOV/01 SCM
+- Increased special Marauder Berserker variety to meet the vanilla's change
+
 2024/OCT/09 medusa0
 - Now Oda on manticore has 360 degree shot
 
