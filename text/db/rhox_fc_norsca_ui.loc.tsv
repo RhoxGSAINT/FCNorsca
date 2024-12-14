@@ -22,3 +22,4 @@ ui_text_replacements_localised_text_tech_pooled_resource_cost_tooltip_nor_progre
 ui_text_replacements_localised_text_tech_pooled_resource_cost_tooltip_nor_progress_eagle	In order to research this technology, this amount will be deducted from your [[img:icon_god_eagle]][[/img]]Allegiance to the Eagle	false
 ui_text_replacements_localised_text_tech_pooled_resource_cost_tooltip_nor_progress_hound	In order to research this technology, this amount will be deducted from your [[img:icon_god_hound]][[/img]]Allegiance to the Hound.	false
 ui_text_replacements_localised_text_tech_pooled_resource_cost_tooltip_nor_progress_serpent	In order to research this technology, this amount will be deducted from your [[img:icon_god_snake]][[/img]]Allegiance to the Serpent.	false
+ui_text_replacements_localised_text_scrap_panel_button_tooltip_rhox_kul	Unit Upgrades||Use [[img:hkrul_akkorak_horse]][[/img]]Chaos Steeds to increase your units’ battle capabilities.	false

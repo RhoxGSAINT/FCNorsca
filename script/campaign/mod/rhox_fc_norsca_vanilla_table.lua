@@ -1,87 +1,3 @@
-local add_ll_to_pool = true
-
-
-local function rhox_totn_add_ll_to_ll_pool(add)
-    if not NORSCA_LEGENDARY_LORDS or not type(NORSCA_LEGENDARY_LORDS) == "table" then
-        return --don't do anything if this table exists
-    end
-
-    if add then
-        NORSCA_LEGENDARY_LORDS["hkrul_adella"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_akkorak"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_birna"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_drenok"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_einar"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_harald"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_sayl"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_ulfric"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_hakka"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_hrothgar"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_sarg"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_surtha_ek"]=true
-        NORSCA_LEGENDARY_LORDS["scm_norsca_huern"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_beorg"]=true
-        NORSCA_LEGENDARY_LORDS["hkrul_beorg_bear"]=true
-    else
-        NORSCA_LEGENDARY_LORDS["hkrul_adella"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_akkorak"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_birna"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_drenok"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_einar"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_harald"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_sayl"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_ulfric"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_hakka"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_hrothgar"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_sarg"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_surtha_ek"]=nil
-        NORSCA_LEGENDARY_LORDS["scm_norsca_huern"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_beorg"]=nil
-        NORSCA_LEGENDARY_LORDS["hkrul_beorg_bear"]=nil
-    end
-end
-
-
-core:add_listener(
-    "rhox_totn_mct_initialize",
-    "MctInitialized",
-    true,
-    function(context)
-        
-        local mct = context:mct()
-
-        local my_mod = mct:get_mod_by_key("scm_totn")
-
-        
-        local add_ll_to_pool_option = my_mod:get_option_by_key("add_to_ll_pool")
-        add_ll_to_pool = add_ll_to_pool_option:get_finalized_setting()
-                
-        rhox_totn_add_ll_to_ll_pool(add_ll_to_pool)
-    end,
-    true
-)
-
-core:add_listener(
-    "rhox_totn_mct_finalized",
-    "MctOptionSettingFinalized",
-    true,
-    function(context)
-        
-        local mct = context:mct()
-
-        local my_mod = mct:get_mod_by_key("scm_totn")
-
-        
-        local add_ll_to_pool_option = my_mod:get_option_by_key("add_to_ll_pool")
-        add_ll_to_pool = add_ll_to_pool_option:get_finalized_setting()
-                
-        rhox_totn_add_ll_to_ll_pool(add_ll_to_pool) 
-    end,
-    true
-)
-
-
-
 
 
 
@@ -90,8 +6,8 @@ core:add_listener(
 table.insert(character_unlocking.character_data["aekold"]["override_allowed_factions"]["main_warhammer"], "wh_main_nor_baersonling")
 table.insert(character_unlocking.character_data["aekold"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_aekold_helbrass_stage_1_nor")
 table.insert(character_unlocking.character_data["aekold"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_aekold_helbrass_stage_2_nor")
-character_unlocking.character_data["aekold"]["mission_keys"]["wh_main_nor_baersonling"]={}
-character_unlocking.character_data["aekold"]["mission_keys"]["wh_main_nor_baersonling"]["main_warhammer"]="rhox_baersonling_tze_aekold_helbrass_stage_1_nor"
+character_unlocking.character_data["aekold"]["starting_mission_keys"]["wh_main_nor_baersonling"]={}
+character_unlocking.character_data["aekold"]["starting_mission_keys"]["wh_main_nor_baersonling"]["main_warhammer"]="rhox_baersonling_tze_aekold_helbrass_stage_1_nor"
 
 table.insert(character_unlocking.character_data["scribes"]["override_allowed_factions"]["main_warhammer"], "wh_main_nor_baersonling")
 table.insert(character_unlocking.character_data["scribes"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_blue_scribes_stage_1_nor")
@@ -99,22 +15,23 @@ table.insert(character_unlocking.character_data["scribes"]["mission_chain_keys"]
 table.insert(character_unlocking.character_data["scribes"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_blue_scribes_stage_2_nor")
 table.insert(character_unlocking.character_data["scribes"]["mission_chain_keys"]["main_warhammer"], "rhox_baersonling_tze_blue_scribes_stage_3_nor")
 table.insert(character_unlocking.character_data["scribes"]["missions_to_trigger_dilemma"]["main_warhammer"], "rhox_baersonling_tze_blue_scribes_stage_3_nor")
-character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baersonling"]={}
-character_unlocking.character_data["scribes"]["mission_keys"]["wh_main_nor_baersonling"]["main_warhammer"]="rhox_baersonling_tze_blue_scribes_stage_1_nor"
+character_unlocking.character_data["scribes"]["starting_mission_keys"]["wh_main_nor_baersonling"]={}
+character_unlocking.character_data["scribes"]["starting_mission_keys"]["wh_main_nor_baersonling"]["main_warhammer"]="rhox_baersonling_tze_blue_scribes_stage_1_nor"
 
 
 ----Hakka
 table.insert(character_unlocking.character_data["karanak"]["override_allowed_factions"]["main_warhammer"], "wh_main_nor_aesling")
 
-character_unlocking.character_data["karanak"]["mission_keys"]["wh_main_nor_aesling"]={}
-
-
-character_unlocking.character_data["karanak"]["mission_keys"]["wh_main_nor_aesling"]["main_warhammer"] ="rhox_totn_mis_ie_nor_karanak_unlock_01"
-
+character_unlocking.character_data["karanak"]["starting_mission_keys"]["wh_main_nor_aesling"]={}
+character_unlocking.character_data["karanak"]["starting_mission_keys"]["wh_main_nor_aesling"]["main_warhammer"] ="rhox_totn_mis_ie_nor_karanak_unlock_01"
 
 table.insert(character_unlocking.character_data["karanak"]["mission_chain_keys"]["main_warhammer"], "rhox_totn_mis_ie_nor_karanak_unlock_01")
 table.insert(character_unlocking.character_data["karanak"]["missions_to_trigger_dilemma"]["main_warhammer"], "rhox_totn_mis_ie_nor_karanak_unlock_01")
 
+table.insert(character_unlocking.character_data["skarr"]["override_allowed_factions"], "wh_main_nor_aesling")
+table.insert(character_unlocking.character_data["skarr"]["required_buildings"], "wh_main_nor_military_3")
+
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_aesling")
 
 
 initiative_cultures["wh_dlc08_nor_norsca"]=true
@@ -193,7 +110,5 @@ cm:add_first_tick_callback(
         campaign_traits.legendary_lord_defeated_traits["hkrul_beorg"] ="hkrul_defeated_trait_beorg"
 
         campaign_traits.legendary_lord_defeated_traits["hkrul_bjornling_ogg"] ="hkrul_defeated_trait_ogg" 
-        
-        rhox_totn_add_ll_to_ll_pool(add_ll_to_pool)
 	end
 )

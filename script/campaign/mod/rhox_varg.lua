@@ -25,6 +25,23 @@ core:add_listener(
     true
 )
 
+
+core:add_listener(
+    "rhox_Hrothgar_CharacterCreated",--for the unique agent setting
+    "CharacterCreated",
+    function(context)
+        local character = context:character();
+
+        return character:character_subtype_key()=="hkrul_hrothgar";
+    end,
+    function(context)
+        local character = context:character();
+        cm:set_character_unique(cm:char_lookup_str(character),true)
+    end,
+    true
+);
+
+
 local corruption_to_unit={
     wh3_main_corruption_chaos="wh_main_chs_mon_chaos_spawn",
     wh3_main_corruption_khorne="wh3_main_kho_mon_spawn_of_khorne_0",

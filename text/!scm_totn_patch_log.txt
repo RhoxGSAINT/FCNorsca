@@ -1,3 +1,13 @@
+2024/DEC/14 SCM
+- Some 6.0 DB key changes
+- Increased berserker variant's charge to 42 to meet vanilla's change
+- Added wrath and skullreaper to Aesling. Mostly due to LHs
+- Added access to Skarr and Scyla to Aesling
+- Changed stance thing to effect way. 
+- Kul's scrap upgrade is extremely wonky now. (Red resource cost even if you have enough resources, upgrade button being always active, upgrade panel button appearing and disappearing) Everything needs to be done in a script way, but I lack the enthusiasm to fix it, it works, so you can use it nonetheless
+- Now the Legendary character is set to unique to satisfy Skulltaker's Legendary lord condition
+- Now, all LL factions from this mod are non-executable. Since the script doesn't care whether the target is a vanilla playable faction, you don't have to worry about AI don't confederate themselves issue, and the MCT is removed.
+
 2024/NOV/01 SCM
 - Increased special Marauder Berserker variety to meet the vanilla's change
 

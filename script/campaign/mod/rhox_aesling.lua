@@ -10,11 +10,13 @@ core:add_listener(
         local region = context:garrison_residence():settlement_interface():region()
         local character = context:character()
 
-        khorne_spawned_armies:spawn_army(region, character)
+        khorne_spawned_armies:spawn_army(character, false, false)
         
     end,
     true
 );
+
+
 
 core:add_listener(
     "rhox_aesling_CharacterPerformsSettlementOccupationMajorbuildingupdate",

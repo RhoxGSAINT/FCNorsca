@@ -524,6 +524,7 @@ cm:add_first_tick_callback_new(
                 "",
                 true,
                 function(cqi)
+                    cm:set_character_unique(cm:char_lookup_str(cqi),true)
                 end
             );
             if faction_info.kill_previous_leader == "human_only" then
