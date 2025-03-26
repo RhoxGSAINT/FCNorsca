@@ -1,3 +1,8 @@
+2024/Mar/26 SCM 
+- Added some compat main_units table
+- Removed mixer disabling hero function
+- Removed supporter race and incarnation from Bjornling
+
 2024/JAN/12 SCM
 - Gave all Norsca factions access to Scyla as vanilla playable factions gain access to them
 
