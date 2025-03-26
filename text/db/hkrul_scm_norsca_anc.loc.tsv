@@ -97,11 +97,15 @@ ancillary_sets_name_hkrul_norsca_set_5	Bransùil's Trinkets	false
 ancillary_sets_description_hkrul_norsca_set_5	Bransùil was a student of Kar Odacen who joined Sigmar in his quest. His magic concealed Sigmar and his comrades from a large Skaven warband. Although controversial amongst Norscans Vitki's, as some view his enchanted items as blasphemous, there is strong magical essence around them.	false
 ancillaries_explanation_text_hkrul_norsca_helmet_1	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_helmet_2	Gifted by defeated enemy Legendary Lord	false
+ancillaries_explanation_text_hkrul_norsca_helmet_3	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_shield_1	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_shield_2	Gifted by defeated enemy Legendary Lord	false
+ancillaries_explanation_text_hkrul_norsca_shield_3	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_axe_1	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_axe_2	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_axe_3	Gifted by defeated enemy Legendary Lord	false
+ancillaries_explanation_text_hkrul_norsca_axe_4	Gifted by defeated enemy Legendary Lord	false
+ancillaries_explanation_text_hkrul_norsca_axe_5	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_sword_1	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_sword_2	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_sword_3	Gifted by defeated enemy Legendary Lord	false
@@ -111,5 +115,28 @@ ancillaries_explanation_text_hkrul_norsca_ship_2	Gifted by defeated enemy Legend
 ancillaries_explanation_text_hkrul_norsca_ship_3	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_ship_4	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_follower_1	Gifted by defeated enemy Legendary Lord	false
+ancillaries_explanation_text_hkrul_norsca_follower_2	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_enchanted_1	Gifted by defeated enemy Legendary Lord	false
 ancillaries_explanation_text_hkrul_norsca_enchanted_2	Gifted by defeated enemy Legendary Lord	false
+ancillaries_onscreen_name_hkrul_norsca_axe_4	Ravensbite	true
+ancillaries_colour_text_hkrul_norsca_axe_4	The axe formerly owned by the Legendary Keorl Thunderhand, it is carved from the heart of an ancient thunderbolt that struck the Norscan tundra. The Stormcaller Maul crackles with the power of the storm. Warriors who carry this axe are said to command the fury of lightning itself, their every strike accompanied by the deafening roar of thunder.	true
+effects_description_hkrul_norsca_axe_4	Ability: "Ravensbite''	true
+unit_abilities_tooltip_text_hkrul_norsca_axe_4	The blade hums with dark power, said to carry the souls of those it slays to the blood wolf himself.	true
+unit_abilities_onscreen_name_hkrul_norsca_axe_4	Ravensbite	true
+ancillaries_onscreen_name_hkrul_norsca_axe_5	Howlcleaver	true
+ancillaries_colour_text_hkrul_norsca_axe_5	A wicked axe said to be quenched in the blood of a slain chieftain. It is whispered that those struck by it hear the distant cawing of hungry crows, their fate already sealed as carrion for the beasts of the battlefield.	true
+effects_description_hkrul_norsca_axe_5	Passive Ability: "Howlcleaver''	true
+unit_abilities_tooltip_text_hkrul_norsca_axe_5	The legendary axe sings with each swing, its eerie wail striking fear into the hearts of lesser men.	true
+unit_abilities_onscreen_name_hkrul_norsca_axe_5	Howlcleaver	true
+ancillaries_onscreen_name_hkrul_norsca_helmet_3	Skullsplitter’s Visage	true
+ancillaries_colour_text_hkrul_norsca_helmet_3	A helm forged from the skull of a great warlord, still bearing the scars of a thousand battles.	true
+effects_description_hkrul_norsca_helmet_3	Ability: "Skullsplitter’s Visage''	true
+unit_abilities_tooltip_text_hkrul_norsca_helmet_3	A helm forged from the skull of a great warlord, still bearing the scars of a thousand battles.	true
+unit_abilities_onscreen_name_hkrul_norsca_helmet_3	Skullsplitter’s Visage	true
+ancillaries_onscreen_name_hkrul_norsca_shield_3	Havoc’s Embrace	true
+ancillaries_colour_text_hkrul_norsca_shield_3	Havoc’s Embrace – A cursed shield, taken from the ruins of a fallen Norse Dwarven temple, it whispers to its wielder, urging them to never falter - or they will face a death for worse than to be found on the battlefield.	true
+effects_description_hkrul_norsca_shield_3	Ability: "Havoc’s Embrace''	true
+unit_abilities_tooltip_text_hkrul_norsca_shield_3	A cursed shield, taken from the ruins of a fallen Norse Dwarven temple, it whispers to its wielder, urging them to never falter.	true
+unit_abilities_onscreen_name_hkrul_norsca_shield_3	Havoc’s Embrace	true
+ancillaries_onscreen_name_hkrul_norsca_follower_2	Yrsa Bloodsong	true
+ancillaries_colour_text_hkrul_norsca_follower_2	A skald-warrior whose songs of conquest stir the hearts of the next generation of raiders. She sings of old glories and future triumphs, her voice carrying over the din of battle, instilling courage in warriors who march to war under her verses.	true

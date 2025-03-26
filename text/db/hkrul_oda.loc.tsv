@@ -2,29 +2,29 @@ key	text	tooltip
 #Loc;1;text/db/hkrul_oda.loc		
 character_skills_localised_name_innate_hkrul_oda	Shieldmaiden of Skjold	true
 character_skills_localised_description_innate_hkrul_oda	The legendary Shieldmaiden of Skjold is as much the King's asset as her popularity is his threat.	true
-character_skills_localised_name_hkrul_oda_special_1_0	Oda's Shieldwall	true
+character_skills_localised_name_hkrul_oda_special_1_0	Winterclaw's Bulwark	true
 character_skills_localised_name_hkrul_oda_special_1_1	Maidens of Horvenghaast	true
 character_skills_localised_name_hkrul_oda_special_1_2	Winterclaw's Saga	true
 character_skills_localised_name_hkrul_oda_special_1_3	Steelforged Shields	true
 character_skills_localised_name_hkrul_oda_special_1_4	Oda's Horn	true
 character_skills_localised_name_hkrul_oda_special_1_5	King's Paymaster	true
-character_skills_localised_name_hkrul_oda_special_1_6	Hafskael's Huskarls	true
+character_skills_localised_name_hkrul_oda_special_1_6	Winterclaw's Huskarls	true
 character_skills_localised_description_hkrul_oda_special_1_0	With a mighty cry Oda organizes her Huskarls and Shield-Maidens in line, forming an impenetrable wall of shields and meat.	true
 character_skills_localised_description_hkrul_oda_special_1_1	Norscans flock to Horvenghaast to trade and partake in the famed "Duelling Circles," rooftop fighting rituals sacred to Khorne.	true
 character_skills_localised_description_hkrul_oda_special_1_2	Oda Winterclaw has sailed every corner of the Bjornling coast, serving as it's guardian and champion.	true
 character_skills_localised_description_hkrul_oda_special_1_3	Steel imported from Pack Ice Bay is used to forge the finest shields for the King's frontlines.	true
 character_skills_localised_description_hkrul_oda_special_1_4	The deep bellows of Oda's Horn break winds and clouds as they invigor friendly troops.	true
 character_skills_localised_description_hkrul_oda_special_1_5	Not many are trusted with dealing with the High King's affairs, yet as his trusted advisor Oda deals with trivial mundane management such as keeping the savage marauders in check.	true
-character_skills_localised_description_hkrul_oda_special_1_6	The elite of Skjold are the Huskarls and Shield Maidens that follow Oda in to battle, hailing from the harsh area known as Hafskael's Yard.	true
+character_skills_localised_description_hkrul_oda_special_1_6	The elite of Skjold are the Huskarls and Shield Maidens that follow Oda in to battle, often trained on the towering island of Horvenghaast.	true
 agent_subtypes_onscreen_name_override_hkrul_oda	Legendary Hero	false
 agent_subtypes_description_text_override_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
 unit_description_short_texts_text_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
 names_name_7410711831	Oda	false
 names_name_7410711830	Winterclaw	false
 land_units_onscreen_name_hkrul_oda	Oda Winterclaw	true
-effects_description_hkrul_oda_shield	Ability: "Oda's Shieldwall"	true
+effects_description_hkrul_oda_shield	Ability: "Winterclaw's Bulwark"	true
 unit_abilities_tooltip_text_hkrul_oda_shield	With a mighty cry Oda organizes her Huskarls and Shield-Maidens in line, forming a impenetrable wall of shields and meat.	false
-unit_abilities_onscreen_name_hkrul_oda_shield	Oda's Shieldwall	false
+unit_abilities_onscreen_name_hkrul_oda_shield	Winterclaw's Bulwark	false
 effects_description_hkrul_bjornling_upkeep	Upkeep: %+n% for Huscarl units	false
 effects_description_hkrul_bjornling_global_recruit_time	Global recruitment duration: %+n turns for Marauder Champions	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_oda		false

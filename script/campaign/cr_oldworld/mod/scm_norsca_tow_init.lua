@@ -222,7 +222,8 @@ local rhox_faction_list={
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
-		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_mortensen", faction:faction_leader():command_queue_index(), true)
 
         end,
         first_tick = function(faction, faction_key) 

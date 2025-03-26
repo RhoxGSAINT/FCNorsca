@@ -1,0 +1,31 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/hkrul_late_frost									
+innate_hkrul_mortensen	innate_hkrul_birna.png			0	true	false	false	100.0000	0
+hkrul_mortensen_special_1_0	hkrul_mortensen_special_1_0.png			0	false	false	false	0.0000	0
+hkrul_mortensen_special_1_1	hkrul_mortensen_special_1_1.png			0	false	false	false	0.0000	0
+hkrul_mortensen_special_1_2	hkrul_mortensen_special_1_2.png			0	false	false	false	0.0000	0
+hkrul_mortensen_special_1_3	hkrul_mortensen_special_1_3.png			0	false	false	false	0.0000	0
+hkrul_mortensen_special_1_4	hkrul_mortensen_special_1_4.png			0	false	false	false	0.0000	0
+hkrul_mortensen_special_1_5	hkrul_mortensen_special_1_5.png			0	false	false	false	0.0000	0
+hkrul_mortensen_special_1_6	hkrul_mortensen_special_1_6.png			0	false	false	false	0.0000	0
+hkrul_mortensen_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+innate_hkrul_geimdall	innate_hkrul_geimdall.png			0	true	false	false	100.0000	0
+hkrul_geimdall_special_1_0	hkrul_geimdall_special_1_0.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_1_1	hkrul_geimdall_special_1_1.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_1_2	hkrul_geimdall_special_1_2.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_1_3	hkrul_geimdall_special_1_3.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_1_4	hkrul_geimdall_special_1_4.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_1_5	hkrul_geimdall_special_1_5.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_1_6	hkrul_geimdall_special_1_6.png			0	false	false	false	0.0000	0
+hkrul_geimdall_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_0_1	hkrul_geimdall_special_0_1.png			0	false	false	false	0.0000	0
+hkrul_geimdall_special_0_2	hkrul_geimdall_special_0_2.png			0	false	false	false	0.0000	0
+hkrul_geimdall_sword	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_mortensen_horse	mount_warhorse.png	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	Norscan Warhorse	3	false	false	false	0.0000	0
+hkrul_mortensen_chariot	mount_chaos_chariot.png	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	Marauder Chariot	9	false	false	false	0.0000	0
+hkrul_geimdall_health	character_health.png			0	false	false	false	0.0000	0
+hkrul_geimdall_horn	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_geimdall_ship	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_deadly_onslaught_foot_birna	wh_main_character_abilities_deadly_onslaught.png	The war is endless. The cycle of charging, clashing, and bloody hand-to-hand fighting is without end. It will never stop.	Deadly Onslaught	0	false	false	false	0.0000	0
+hkrul_deadly_onslaught_foot_harald	wh_main_character_abilities_deadly_onslaught.png	The war is endless. The cycle of charging, clashing, and bloody hand-to-hand fighting is without end. It will never stop.	Deadly Onslaught	0	false	false	false	0.0000	0
+hkrul_deadly_onslaught_foot_geimdall	wh_main_character_abilities_deadly_onslaught.png	The war is endless. The cycle of charging, clashing, and bloody hand-to-hand fighting is without end. It will never stop.	Deadly Onslaught	0	false	false	false	0.0000	0

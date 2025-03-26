@@ -32,6 +32,35 @@ table.insert(character_unlocking.character_data["skarr"]["override_allowed_facti
 table.insert(character_unlocking.character_data["skarr"]["required_buildings"], "wh_main_nor_military_3")
 
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_aesling")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_beorg")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh2_main_nor_skeggi")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh3_dlc20_nor_dolgan")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh3_dlc20_nor_kul")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_dlc08_nor_vanaheimlings")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_baersonling")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_graeling")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_sarl")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_varg")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh3_dlc20_nor_yusak")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_dlc08_nor_naglfarlings")
+
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_fjordlings")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 initiative_cultures["wh_dlc08_nor_norsca"]=true
@@ -108,6 +137,8 @@ cm:add_first_tick_callback(
         campaign_traits.legendary_lord_defeated_traits["hkrul_surtha_ek"] ="hkrul_defeated_trait_surtha_ek" 
         campaign_traits.legendary_lord_defeated_traits["scm_norsca_huern"] ="hkrul_defeated_trait_huern" 
         campaign_traits.legendary_lord_defeated_traits["hkrul_beorg"] ="hkrul_defeated_trait_beorg"
+        campaign_traits.legendary_lord_defeated_traits["hkrul_yngve"] ="hkrul_defeated_trait_yngve"
+        campaign_traits.legendary_lord_defeated_traits["hkrul_geimdall"] ="hkrul_defeated_trait_geimdall"
 
         campaign_traits.legendary_lord_defeated_traits["hkrul_bjornling_ogg"] ="hkrul_defeated_trait_ogg" 
 	end

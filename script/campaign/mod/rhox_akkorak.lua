@@ -92,15 +92,21 @@ cm:add_first_tick_callback(
                 function(context)
                     
 
-                    return context.string ~= "button_purchase_unit_upgrades" 
+                    return context.string == "button_purchase_unit_upgrades" 
                     
                 end,
                 function(context)
-                    local upgrade_button = find_uicomponent(core:get_ui_root(), "units_panel_scrap_upgrades", "button_upgrade");
-                    if upgrade_button then
-                        upgrade_button:SetVisible(true)
-                        upgrade_button:SetState("active")
-                    end
+                    cm:callback(
+                        function()
+                            local upgrade_button = find_uicomponent(core:get_ui_root(), "units_panel_scrap_upgrades", "button_upgrade");
+                            if upgrade_button then
+                                upgrade_button:SetVisible(true)
+                                upgrade_button:SetState("active")
+                            end
+                        end,
+                        0.1
+                    )
+                    
                 end,
                 true
             )

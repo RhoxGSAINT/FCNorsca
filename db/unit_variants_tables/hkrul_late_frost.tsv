@@ -1,0 +1,10 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/hkrul_late_frost				
+	hkrul_mortensen	hkrul_mortensen	hkrul_mortensen	hkrul_mortensen
+	hkrul_geimdall	hkrul_geimdall	hkrul_geimdall	hkrul_geimdall
+	hkrul_mortensen_chariot	hkrul_mortensen	hkrul_mortensen	hkrul_mortensen
+	hkrul_mortensen_horse	hkrul_mortensen	hkrul_mortensen	hkrul_mortensen
+	hkrul_yngve	hkrul_yngve	hkrul_yngve	hkrul_yngve
+	hkrul_yngve_chariot	hkrul_yngve	hkrul_yngve	hkrul_yngve
+	hkrul_yngve_horse	hkrul_yngve	hkrul_yngve	hkrul_yngve
+	hkrul_yngve_manticore	hkrul_yngve	hkrul_yngve	hkrul_yngve

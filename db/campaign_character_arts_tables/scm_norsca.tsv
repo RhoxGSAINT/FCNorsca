@@ -43,3 +43,4 @@ id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_unifo
 201735993	hkrul_skald_drum_1	0	0		none	hkrul_skald_drum_1			wh_dlc08_campaign_nor_ship_agent	wh_dlc08_campaign_nor_ship_agent	cam_hu1c_chaos_axe_and_shield	cam_agent_ship_03	cam_heavy_ship_02	0	0	0
 201735994	hkrul_skald_drum_2	0	0		none	hkrul_skald_drum_2			wh_dlc08_campaign_nor_ship_agent	wh_dlc08_campaign_nor_ship_agent	cam_hu1c_chaos_axe_and_shield	cam_agent_ship_03	cam_heavy_ship_02	0	0	0
 201735995	hkrul_skald_drum_3	0	0		none	hkrul_skald_drum_3			wh_dlc08_campaign_nor_ship_agent	wh_dlc08_campaign_nor_ship_agent	cam_hu1c_chaos_axe_and_shield	cam_agent_ship_03	cam_heavy_ship_02	0	0	0
+263871729	hkrul_yngve	0	0		none	hkrul_yngve			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu1c_wh3_boris_glaive	cam_transport_ship_05	cam_transport_ship_05	0	0	0

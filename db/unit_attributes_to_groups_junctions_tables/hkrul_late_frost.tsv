@@ -1,0 +1,9 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/hkrul_late_frost	
+hide_forest	hkrul_mortensen
+hide_forest	hkrul_geimdall
+charge_defense	hkrul_geimdall
+encourages	hkrul_mortensen
+encourages	hkrul_geimdall
+hide_forest	hkrul_yngve
+encourages	hkrul_yngve

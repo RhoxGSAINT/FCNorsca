@@ -70,6 +70,7 @@ effect_bundles_localised_description_rhox_beorg_faction_trait	At the edge of the
 effect_bundles_localised_title_rhox_beorg_faction_trait	The Ursfjordings	false
 ancillaries_colour_text_hkrul_beorg_banner	Beorg's battle-standard is borne by the hardy warrior, Oerl the Young -- a entire bearskin whose grizzly head leers out from the top. The skin is touched by the power of Chaos, and the blessings of the gods is such that the banner radiates an aura of rage that drives the already fierce Ursfjordings into a terrible battle-fury that is impossible to contain.	true
 ancillaries_onscreen_name_hkrul_beorg_banner	The Bear Banner	true
+effect_bundles_localised_title_hkrul_yngve_banner	Urska's Banner	false
 effect_bundles_localised_title_hkrul_beorg_banner	The Bear Banner	false
 character_trait_levels_onscreen_name_hkrul_defeated_trait_beorg	Bearstrucked	true
 character_trait_levels_colour_text_hkrul_defeated_trait_beorg	Just another trophy to hang in some lavish hall	true

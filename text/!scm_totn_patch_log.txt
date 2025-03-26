@@ -1,3 +1,11 @@
+2024/JAN/12 SCM
+- Gave all Norsca factions access to Scyla as vanilla playable factions gain access to them
+
+2024/DEC/14 SCM -3
+- Some scrap upgrade script update
+
+2024/DEC/14 SCM -2 
+- Added factions into the mixer_confederate_dilemma_no_execute faction set to follow Mixer's change
 2024/DEC/14 SCM
 - Some 6.0 DB key changes
 - Increased berserker variant's charge to 42 to meet vanilla's change

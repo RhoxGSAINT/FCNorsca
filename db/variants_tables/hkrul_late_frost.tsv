@@ -1,0 +1,7 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/hkrul_late_frost							
+hkrul_mortensen		phy_lars		1.0000	1.1400	0.0000	
+hkrul_geimdall		hkrul_geimdall		1.0000	1.1900	0.0000	
+hkrul_yngve		hkrul_yngve		1.0000	1.2000	0.0000	
+hkrul_yngve_cam_mnt_yngve_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	chs_warhorse	hr1\chs\chs_warhorse\low_poly\chs_warhorse_lowlod	1.0000	1.0000	0.0500	
+hkrul_yngve_mnt_yngve_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	chs_warhorse	hr1\chs\chs_warhorse\low_poly\chs_warhorse_lowlod	1.0000	1.0000	0.0500	

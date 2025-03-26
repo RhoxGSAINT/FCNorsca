@@ -1,0 +1,62 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_norsca_loading_screen_qoutes_.loc		
+loading_screen_quotes_title_hkrul_birna	Birna the Huntress	false
+loading_screen_quotes_description_hkrul_birna	Birna is akin to a shieldmaiden of the old sagas, a woman who seizes her own glories by her own hand. Since birth, she had been marked by the gods with a tongue as black as a crow's feather--long, thin and fluted like a bird's-from which she can give a trilling note that creatures of the sky can understand, and be understood by her.	false
+loading_screen_quotes_bulletpoints_hkrul_birna	Special Ranged Weapon||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large||[[img:ui/battle ui/ability_icons/stalk.png]][[/img]]Stalk	false
+loading_screen_quotes_title_hkrul_ulfric	High King Ulfric Grondal	false
+loading_screen_quotes_description_hkrul_ulfric	"Form a shield wall. If we are to die, let us go to the Gods with honour, standing on a pile of bones and broken skulls. Unfurl the banner and sound the Warcry; we are Norsemen and will not be taken easily."\\n\\n~ High King Ulfric Grondal of the Bjornling tribe	false
+loading_screen_quotes_bulletpoints_hkrul_ulfric	Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_geimdall	High Jarl Geimdall	false
+loading_screen_quotes_description_hkrul_geimdall	High Jarl Geimdall joined Ulfric Grondal on his expedition to raid and plunder the southlands, during their voyage they were stranged on a deserted Island. Soon after, hordes of undead surrounded the Norse. It was only through Geimdall's valor the Bjornling Huscarls made it back to cold shores of Skjold.	false
+loading_screen_quotes_bulletpoints_hkrul_geimdall	Hornblower||Shield Wall	false
+loading_screen_quotes_title_hkrul_oda	Oda Winterclaw	false
+loading_screen_quotes_description_hkrul_oda	Oda Winterclaw is a Jarl of Bjornling Tribe, a rarity - being the only female amongst Grondal's retinue. Yet no man dares to challenge her position, let alone her combat prowess.	false
+loading_screen_quotes_bulletpoints_hkrul_oda	Hybrid Weapon Infantry||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large	false
+loading_screen_quotes_title_hkrul_hakka	Hakka the Aesling	false
+loading_screen_quotes_description_hkrul_hakka	"From the West came the brazen-armoured warriors of Hakka the Aesling, his axe-men drawn up in brutal column, each accompanied by packs of blood-crazed gorespawn and flayed hounds snapping at their leashes."\\n\\n—The warband of Hakka makes its way to the battle of K'datha	false
+loading_screen_quotes_bulletpoints_hkrul_hakka	Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_sayl	Sayl the Faithless	false
+loading_screen_quotes_description_hkrul_sayl	Sayl the Faithless, the "Twisted Seer of the Wastes," is the infamous Kurgan arch-sorcerer of the Dolgan tribe. Sayl is an utterly self-serving egotist and practiced murderer. His road to power lies in his total mastery of betrayal, guile and treachery which has seen him rise supreme over other rivals whose arcane powers were greater than his and even powerful Chaos Champions who have enjoyed the favour of the Dark Gods.	false
+loading_screen_quotes_bulletpoints_hkrul_sayl	Spellcaster||Special Ranged Weapon	false
+loading_screen_quotes_title_hkrul_surtha	Surtha Ek	false
+loading_screen_quotes_description_hkrul_surtha	"Beyond your comprehension!"\\n\\n—Surtha Ek of the Varg tribe	false
+loading_screen_quotes_bulletpoints_hkrul_surtha	The Everchariot||Whip Infantry	false
+loading_screen_quotes_title_hkrul_huern	Huern the Wolf	false
+loading_screen_quotes_description_hkrul_huern	Huern the Wolf is the leader of the Tribe of the Wolf, a battle hardened Norscan tribe who find themselves in a decade long feude with the Bearstrikken warriors of the Usfjordings tribe. He has twin sons, Graill and Ulsdau - who both carry Morrslieb's blessing.	false
+loading_screen_quotes_bulletpoints_hkrul_huern	Shape Shifter||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_hildr	Hildr the Reaver	false
+loading_screen_quotes_description_hkrul_hildr	Hildr is a rarity, a female reaver. Some whisper that she is actually blessed of the Ruinous Powers, and bears a mark of their favour somewhere on her lithe body, but she does not claim that glory.\\nShe enjoys challenging the most stalwart opponents on the battlefield to single combat. Her victims rise to the challenge, since many would be dishonoured or horribly ashamed to admit they had balked when confronted by a mere woman. But the victory notches on her fearsome twin-bladed axe Maiden's Kiss count dozens of men for whom discretion would have been the better part of valour.	false
+loading_screen_quotes_bulletpoints_hkrul_hildr	Duelist||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_sarg	Sargath the Vain	false
+loading_screen_quotes_description_hkrul_sarg	"From the east came Sargath the Vain, horse-lord of the Yurtsak, at whose bequest the paramours of Slaanesh had given themselves up to his service"\\n\\n—The host of Sargath the Vain makes its way to the battle of K'datha	false
+loading_screen_quotes_bulletpoints_hkrul_sarg	Very Fast||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_rafn	Rafn Oflatisson	false
+loading_screen_quotes_description_hkrul_rafn	Rafn Oflattison is a towering warrior from the Baersonling tribe, who was said to have slain over a hundred of Aesling marauders when the Aesling raided the village of Vinnskor.	false
+loading_screen_quotes_bulletpoints_hkrul_rafn	[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large	false
+loading_screen_quotes_title_hkrul_einar	Einarr Sigdansson	false
+loading_screen_quotes_description_hkrul_einar	Einarr Sigdansson, also called Einarr Steelfist, is a fierce Norscan Reaver and Champion of Tzeentch. After the murder of his tribe at the hands of a Bloodbeast summoned by their rivals, the Aeslings, Einarr, found himself the sole survivor. Seeking revenge for his people and respite from his survivor's guilt, he set off on a perilous quest deep into the Chaos Wastes, intent on stealing an arcane treasure of Nurgle, the Chaos God of disease and decay	false
+loading_screen_quotes_title_hkrul_harald	Harald Whyrlas	false
+loading_screen_quotes_description_hkrul_harald	The warlord of the Graeling, Harald Whyrlas has an ambition to unite all the tribes of Norsca into one nation, using intimidation and the promise of stability.	false
+loading_screen_quotes_bulletpoints_hkrul_harald	Formidable||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_swyrd	The Ravenswyrd	false
+loading_screen_quotes_description_hkrul_swyrd	The Ravenswyrd is a mysterious Norse Berserker who appears at his people's time of need. It is said he was chosen by the gods to protect the Norse until the End of all things. He is accompanied by a Raven that accompanies him and protects him from almost all harm.	false
+loading_screen_quotes_bulletpoints_hkrul_swyrd	Protected by the Raven||[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry	false
+loading_screen_quotes_title_hkrul_akkorak	Akkorak the Crow	false
+loading_screen_quotes_description_hkrul_akkorak	Akkorak the Crow, also known as the "Butcher of Teska" and the "Reaver of the Nine Wastes," is a Chaos Lord and member of the Kurgan Kul tribe. He was named Chieftain of the tribe through a violent spree of duels with other contenders.	false
+loading_screen_quotes_title_hkrul_uzul	Zar Uzelek	false
+loading_screen_quotes_description_hkrul_uzul	Zar Uzulek is the Kurgan battle drummer of the Yusak tribe and the right hand of Sargath the Vain. His rythmic blows and chants invigorate the warriors of the Yusak tribe to new levels of violence and ecstacy.	false
+loading_screen_quotes_bulletpoints_hkrul_uzul	Battle Drummer||Support-Infantry	false
+loading_screen_quotes_title_hkrul_drenok	Drenok Johansen	false
+loading_screen_quotes_description_hkrul_drenok	Drenok Johansen, also known as the "Wielder of the Great Axe," is a mighty Marauder Chieftain hailing from the Norscan Icefang tribe.	false
+loading_screen_quotes_bulletpoints_hkrul_drenok	Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_graill	Graill	false
+loading_screen_quotes_description_hkrul_graill	Graill, son of Huern the Wolf and twin brother to Ulsdau - is a mighty Ulfwerener, blessed by the Blood Wolf himself. He fought in countless battles between the feuding Tribe of the Wolf and the Ursfjordings tribe.	false
+loading_screen_quotes_bulletpoints_hkrul_graill	Damage Dealer||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_asta	Asta of Vinnskor	false
+loading_screen_quotes_description_hkrul_asta	Asta of Vinnskor, wife to Baersonling chieftain Einarr Sigdansson - is a revered healer. Norscans - even Kislevites travelled to the far northern shores in search of her powers. A mere few actually returned.	false
+loading_screen_quotes_title_hkrul_ulsdau	Ulsdau	false
+loading_screen_quotes_description_hkrul_ulsdau	Ulsdau, son of Huern the Wolf and twin brother to Graill - is a mighty Ulfwerener, blessed by the Blood Wolf himself. He fought in countless battles between the feuding Tribe of the Wolf and the Ursfjordings tribe.	false
+loading_screen_quotes_bulletpoints_hkrul_ulsdau	Damage Dealer||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+loading_screen_quotes_title_hkrul_yngve	Yngve Aarseth	false
+loading_screen_quotes_description_hkrul_yngve	Yngve Aarseth is a deranged and powerful seer. He is greatly respected – and feared – throughout Norsca. His eyes were torn out long ago when he was held captive by a malicious band of Black Orcs, Aarseth claims that his physical blindness allows him to "see all truth". The wizened old seer refuses to serve any of the jarls, even when they threaten him with torture or imprisonment.	false
+loading_screen_quotes_bulletpoints_hkrul_yngve	Spell Caster||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large	false

@@ -1,0 +1,5 @@
+agent_subtype	clan_name	forename	other_name	surname	agent_type	spawn_behaviour	spawn_via_ui
+#unique_agents_tables;3;db/unique_agents_tables/hkrul_late_frost							
+hkrul_mortensen	2147358913	7610711831	2147358913	7610711830	champion	FACTION_LEADER	false
+hkrul_geimdall	2147358913	7610711834	2147358913	7610711833	general	FACTION_LEADER	false
+hkrul_yngve		5670700633		5670700632	general	FACTION_LEADER	false

@@ -3,7 +3,7 @@ key	bonus_v_large	bonus_v_infantry	damage	ap_damage	weapon_length	melee_weapon_t
 hkrul_beorg	35	0	300	120	3.0000	axe	axe	large	8	1.0000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_beorg_bear	0	40	175	300	2.0000	axe	creatures_claws	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_beorg_axe	25	0	315	100	3.0000	axe	axe	large	8	1.0000	1.2500	0.0000	false		0	10	4.0000		false
-hkrul_oerl	0	20	285	155	3.0000	axe	axe	large	8	1.0000	1.2500	0.0000	false		0	10	4.0000		false
+hkrul_oerl	0	20	290	155	3.0000	axe	axe	large	8	1.0000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_bearmen	0	5	32	12	1.0000	axe	axe		1	1.0000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_beorg_bear_sem	0	25	110	250	5.0000	axe	creatures_claws	large	8	2.0000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_beorg_bear_touched	0	30	41	35	5.0000	axe	creatures_claws	large	3	1.0000	1.2500	0.0000	false		3	2	4.0000		false

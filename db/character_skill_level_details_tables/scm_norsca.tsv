@@ -1,4 +1,4 @@
-faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
 #character_skill_level_details_tables;1;db/character_skill_level_details_tables/scm_norsca						
 		1	hkrul_adella_special_0_1		x	16
 		1	hkrul_adella_special_1_0		x	9
@@ -109,3 +109,12 @@ faction_key	campaign_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_skill_node_unique_saga		x	8
 		1	rhox_skald_skill_node_unique_04_horn		x	5
 		1	rhox_skald_skill_node_unique_04_drum		x	5
+		1	hkrul_norsca_ship_6		x	8
+		1	hkrul_mortensen_horse		x	7
+		1	hkrul_mortensen_chariot		x	15
+		1	hkrul_yngve_special_0_1		x	9
+		1	hkrul_yngve_special_1_0		x	9
+		1	hkrul_yngve_special_0_2		x	15
+		1	hkrul_yngve_horse		x	9
+		1	hkrul_yngve_chariot		x	17
+		1	hkrul_yngve_manticore		x	21

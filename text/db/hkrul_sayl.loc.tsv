@@ -151,6 +151,8 @@ effects_description_hkrul_sayl_mammoth_rank	Recruit rank: %+n for Mammoth units	
 effects_description_hkrul_sayl_mammoth_infantry	Bonus vs Infantry: %+n for Mammoth units	false
 effects_description_hkrul_sayl_shaman_upkeep	Upkeep: %+n% for Shaman Sorcerers	false
 effects_description_hkrul_shaman_speed	Speed: %+n% for Shaman Sorcerers	false
+effects_description_hkrul_shaman_leadership	Leadership: %+n for Shaman Sorcerers	false
+effects_description_hkrul_shaman_melee_defence	Melee defence: %+n for Shaman Sorcerers	false
 effects_description_hkrul_sayl_mammoth_charge	Charge bonus: %+n% for Mammoth units	false
 effects_description_hkrul_sayl_shaman_mastery	Attribute: Mastery of the Elemental Winds for embedded Shaman Sorcerer [[img:icon_hero]][[/img]]Heroes	false
 effects_description_hkrul_sayl_mastery	Attribute: Mastery of the Elemental Winds	false

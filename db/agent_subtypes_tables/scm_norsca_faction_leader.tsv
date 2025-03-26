@@ -13,3 +13,4 @@ hkrul_hakka	false	false		hkrul_hakka	wh3_mod_vo_actor_Khorne_Hakka	true	-1	false
 hkrul_sarg	false	false		hkrul_sarg	wh3_mod_vo_actor_Slaanesh_Sargath	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_surtha_ek	false	false		hkrul_surtha_ek	wh_main_vo_actor_Chaos_MarauderChieftain	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
 scm_norsca_huern	false	false		scm_norsca_huern	scm_norsca_huern	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	900		
+hkrul_yngve	false	true	ui/campaign ui/agents/wh_main_lore_life.png	hkrul_yngve	wh_dlc08_vo_actor_Norsca_Shaman_Sorcerer	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		

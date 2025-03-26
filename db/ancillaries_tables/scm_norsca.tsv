@@ -9,7 +9,7 @@ hkrul_birna_bow	wh_main_anc_armour	.	false	false	false	1	0	9999			false	false	fa
 hkrul_birna_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_drenok_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_drenok_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_chariot		1	0		false	false	true	all
-hkrul_drenok_bear	wh3_main_anc_mount_war_bear	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_bear		1	0		false	false	true	all
+hkrul_drenok_bear	wh3_main_anc_mount_war_bear	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_drenok_bear		200	0		false	false	true	all
 hkrul_einar_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_einar_bear	wh3_main_anc_mount_war_bear	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_einar_bear		1	0		false	false	true	all
 hkrul_harald_sword	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
@@ -48,3 +48,6 @@ scm_norsca_huern_anci_armor_pelt	wh_main_anc_armour	.	false	false	false	1	0	9999
 hkrul_ulsdau_eldur	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 rhox_alfkael_warshrine	wh_main_anc_mount_warshrine	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	rhox_alfkael_warshrine		1	0		false	false	true	all
 hkrul_hildr_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_mortensen_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_mortensen_horse		1	0		false	false	true	all
+hkrul_mortensen_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_mortensen_chariot		1	0		false	false	true	all
+hkrul_geimdall_horn	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all

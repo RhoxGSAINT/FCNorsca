@@ -1,0 +1,9 @@
+character_skill	character_level	upgrade_to_skill_level
+#character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/hkrul_late_frost		
+hkrul_geimdall_sword	8	1
+hkrul_geimdall_horn	12	1
+hkrul_yngve_horse	10	1
+hkrul_yngve_chariot	17	1
+hkrul_yngve_banner	11	1
+hkrul_geimdall_ship	18	1
+hkrul_yngve_manticore	21	1

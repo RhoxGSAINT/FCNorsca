@@ -2,11 +2,15 @@ key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	s
 #ancillaries_tables;0;db/ancillaries_tables/hkrul_scm_norsca_anc																												
 hkrul_norsca_helmet_1	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_helmet_2	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
+hkrul_norsca_helmet_3	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_shield_1	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_shield_2	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
+hkrul_norsca_shield_3	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_axe_1	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_axe_2	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_axe_3	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_norsca_axe_4	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_norsca_axe_5	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_sword_1	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_sword_2	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_sword_3	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
@@ -16,8 +20,10 @@ hkrul_norsca_ship_2	hkrul_norsca_ship_2	.	true	false	false	1	0	9999			false	fals
 hkrul_norsca_ship_3	hkrul_norsca_ship_3	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_ship_4	hkrul_norsca_ship_4	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_follower_1	hkrul_norsca_follower_1	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_follower_2	hkrul_norsca_follower_2	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_enchanted_1	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_enchanted_2	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_ship_5	hkrul_norsca_ship_5	.	false	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_enchanted_3	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_norsca_enchanted_4	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
+hkrul_norsca_ship_6	hkrul_norsca_ship_6	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all

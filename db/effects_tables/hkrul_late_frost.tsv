@@ -1,0 +1,28 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_late_frost					
+hkrul_enable_immortality		0		campaign	true
+hkrul_mortensen_time	turns.png	331	turns.png	campaign	false
+hkrul_mortensen_shield	item_ability.png	300	item_ability.png	battle	true
+hkrul_mortensen_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_rally	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_sword	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_shield	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_shield_pas	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_command	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_horn	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_skald_recruit	exalted_hero.png	104	exalted_hero.png	campaign	true
+hkrul_mortensen_rally	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_shielded_xp_gain	experience.png	298	experience.png	campaign	true
+hkrul_geimdall_shielded_armour	armour.png	300	armour.png	battle	true
+hkrul_yngve_gaze	item_ability.png	300	item_ability.png	battle	true
+hkrul_norscan_giant_recruit_rank	experience.png	300	experience.png	campaign	true
+hkrul_norscan_giant_missile_res	resistance_missile.png	301	resistance_missile.png	battle	true
+hkrul_yngve_rune	item_ability.png	300	item_ability.png	battle	true
+hkrul_geimdall_shielded_melee_defence	defence.png	300	defence.png	battle	true
+hkrul_geimdall_ships_mis_res	resistance_missile.png	300	resistance_missile.png	battle	true
+hkrul_geimdall_ships_speed	battle_movement.png	301	battle_movement.png	battle	true
+hkrul_geimdall_wall_formation	item_ability.png	300	item_ability.png	battle	true
+hkrul_deadly_onslaught_foot_birna	item_ability.png	300	item_ability.png	battle	true
+hkrul_deadly_onslaught_foot_harald	item_ability.png	300	item_ability.png	battle	true
+hkrul_deadly_onslaught_foot_geimdall	item_ability.png	300	item_ability.png	battle	true

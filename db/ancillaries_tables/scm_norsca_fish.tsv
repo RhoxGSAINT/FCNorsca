@@ -1,16 +1,22 @@
 key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	start_date	end_date	avatar_skill	avatar_special_ability	legendary_item	mp_exclusive	is_wife_ancillary	category	min_starting_age	max_starting_age	min_expiry_age	max_expiry_age	immortal	provided_bodyguard_unit	provided_banner	uniqueness_score	turns_before_swap_allowed	subcategory	randomly_dropped	can_be_stolen	can_be_destroyed	faction_set
 #ancillaries_tables;0;db/ancillaries_tables/scm_norsca_fish																												
-hkrul_norsca_fish_01	hkrul_norsca_fish_01	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			49	0	follower	false	false	true	all
-hkrul_norsca_fish_02	hkrul_norsca_fish_02	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
-hkrul_norsca_fish_03	hkrul_norsca_fish_03	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
-hkrul_norsca_fish_04	hkrul_norsca_fish_04	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			49	0	follower	false	false	true	all
-hkrul_norsca_fish_05	hkrul_norsca_fish_05	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
-hkrul_norsca_fish_06	hkrul_norsca_fish_06	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
-hkrul_norsca_fish_07	hkrul_norsca_fish_07	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			99	0	follower	false	false	true	all
-hkrul_norsca_fish_08	hkrul_norsca_fish_08	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
+hkrul_norsca_fish_01	hkrul_norsca_fish_01	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_02	hkrul_norsca_fish_02	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_03	hkrul_norsca_fish_03	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_04	hkrul_norsca_fish_04	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_05	hkrul_norsca_fish_05	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_06	hkrul_norsca_fish_06	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_07	hkrul_norsca_fish_07	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_08	hkrul_norsca_fish_08	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_fish_09	hkrul_norsca_fish_09	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
-hkrul_norsca_fish_10	hkrul_norsca_fish_10	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			99	0	follower	false	false	true	all
-hkrul_norsca_fish_11	hkrul_norsca_fish_11	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
-hkrul_norsca_fish_12	hkrul_norsca_fish_12	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			100	0	follower	false	false	true	all
-hkrul_norsca_fish_13	hkrul_norsca_fish_13	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			10	0	follower	false	false	true	all
-hkrul_norsca_fish_14	hkrul_norsca_fish_14	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			35	0	follower	false	false	true	all
+hkrul_norsca_fish_10	hkrul_norsca_fish_10	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_11	hkrul_norsca_fish_11	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_12	hkrul_norsca_fish_12	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_13	hkrul_norsca_fish_13	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_14	hkrul_norsca_fish_14	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_15	hkrul_norsca_fish_15	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_16	hkrul_norsca_fish_16	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_17	hkrul_norsca_fish_17	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_18	hkrul_norsca_fish_18	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_19	hkrul_norsca_fish_19	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_20	hkrul_norsca_fish_20	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all

@@ -28,3 +28,7 @@ unbreakable	hkrul_soren_sack_2_1	positive
 cannot_die	hkrul_norsca_shield_2	positive
 cannot_die	rhox_fc_norsca_raven	positive
 invulnerable	hkrul_swyrd_helm	positive
+melee_disabled	hkrul_geimdall_command	positive
+fatigue_immune	hkrul_geimdall_horn	positive
+silenced	hkrul_geimdall_horn_enemy	positive
+strider	hkrul_sarl_hunters	positive

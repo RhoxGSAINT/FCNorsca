@@ -1,0 +1,80 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_geimdall_.loc		
+character_skills_localised_name_innate_hkrul_geimdall	The King's Huscarl	true
+character_skills_localised_description_innate_hkrul_geimdall	As the High Jarl, Geimdall is a loyal warmonger found always at King Ulfric's side - having joined him on countless raids and expeditions.	true
+character_skills_localised_name_hkrul_geimdall_special_1_0	The King's Retinue	true
+character_skills_localised_name_hkrul_geimdall_special_1_1	Hornborg's Chandlery	true
+character_skills_localised_name_hkrul_geimdall_special_1_2	Hafskael's Yard	true
+character_skills_localised_name_hkrul_geimdall_special_1_3	The Island of Morr	true
+character_skills_localised_name_hkrul_geimdall_special_1_4	Devoted to Odrall	true
+character_skills_localised_name_hkrul_geimdall_special_1_5	Hand of the Bjornling	true
+character_skills_localised_name_hkrul_geimdall_special_1_6	Huscarl of Legend	true
+character_skills_localised_description_hkrul_geimdall_special_1_0	A top an elevated rise surrounded by stockades is the King's Hall, where Ulfric and his most loyal Jarls reside. It's a pinnacle of Bjornling strength.	true
+character_skills_localised_description_hkrul_geimdall_special_1_1	Hornborg is a Norse Dwarf who runs an oddity shop in Skjold. Adventurers and Kings from all over travel to Skjold to barter with the stubborn dwarf, for among his trinkets are ancient artifacts of immense value.	true
+character_skills_localised_description_hkrul_geimdall_special_1_2	Hafskael's Yard is a shipyard located at the base of Skjold's cliff. Here, the legendary shipbuilder Hafskael and his apprenctice Lars make longboats that would instill envy in the best sailors known to men.	true
+character_skills_localised_description_hkrul_geimdall_special_1_3	Geimdall's Kingship joined the expedition led by High King Ulfric which led them to a deserted island inhabited by undead monks. Both warriors barely made it out with their lives intact.	true
+character_skills_localised_description_hkrul_geimdall_special_1_4	Many of Bjornling warriors worship Odrall, who unlike in the lore of men, is known as a great wanderer and seafarer to the Norse.	true
+character_skills_localised_description_hkrul_geimdall_special_1_5	Geimdall is argueably the strongest warrior among the Bjornling people, rivaled only by Oda Winterclaw and the High King himself. He has the loyalty of most Huscarl's, having led them in countless of raids.	true
+character_skills_localised_description_hkrul_geimdall_special_1_6	Geimdall was not born a Norse noble, but has earned his title serving as a Huscarl. Skald's sing songs of the countless times he commanded the shield wall in battle.	true
+agent_subtypes_description_text_override_hkrul_geimdall	As a Bjornling Jarl, Geimdall is a loyal warmonger found always at King Ulfric's side - having joined him on countless raids and expeditions.	false
+agent_subtypes_onscreen_name_override_hkrul_geimdall	Legendary Huscarl	false
+unit_abilities_onscreen_name_hkrul_geimdall_shield_pas	Oathbound Bulwark	true
+unit_description_short_texts_text_hkrul_geimdall	Jarl Geimdall earned his title by leading the Huscarls of Oseberg when they followed King Ulfric on his quest to raid the Island of Lord Morr. 	false
+names_name_7610711834	High Jarl	false
+names_name_7610711833	Geimdall	false
+land_units_onscreen_name_hkrul_geimdall	High Jarl Geimdall	true
+character_skills_localised_name_hkrul_geimdall_special_0_1	Oseberg's Line	true
+character_skills_localised_name_hkrul_geimdall_special_0_2	Skjold's Shield Wall	true
+character_skills_localised_description_hkrul_geimdall_special_0_1	Geimdall's origins lay in Oseberg, the very stronghold Erik the Lost set out from on his expedition to Lustria. It is home to the finest warriors of the Bjornling tribe.	true
+character_skills_localised_description_hkrul_geimdall_special_0_2	Geimdall is entrusted by the High King to lead the Bjornling Huscarl's in to battle, being the only one besides the High King having led the Bjornling tribe as a whole in to battle.	true
+effects_description_hkrul_geimdall_helm	Passive Ability: "Oseberg's Champion" when on foot	false
+effects_description_hkrul_geimdall_shield	Ability: "PLACEHOLDER"	false
+effects_description_hkrul_geimdall_rally	Ability: "The Drakkenguard"	false
+effects_description_hkrul_geimdall_sword	Ability: "Havthrymr" when on foot	false
+unit_abilities_tooltip_text_hkrul_geimdall_shield_pas	Bound by honor and brotherhood, the Huscarls raise their shields as one, forming an unbreakable wall that turns aside the rain of arrows	true
+unit_abilities_onscreen_name_hkrul_geimdall_sword	Havthrymr	true
+unit_abilities_tooltip_text_hkrul_geimdall_sword	A blade tempered by northern winds and salt, Havthrymr has cloven shields and skulls alike.	true
+unit_abilities_tooltip_text_hkrul_geimdall_rally	A vessel of legend, Drakkenguard was built from the ribs of a leviathan felled by Bjornling warriors and bound with iron said to be blessed by the gods. It does not sail—it hunts.	true
+unit_abilities_onscreen_name_hkrul_geimdall_rally	The Drakkenguard	true
+unit_abilities_onscreen_name_hkrul_geimdall_helm	Oseberg's Champion	true
+unit_abilities_tooltip_text_hkrul_geimdall_helm	Geimdall, the pride of Oseberg, stands as its greatest champion, following in the footsteps of legends like Erik the Lost and Erik Losteriksson, his name destined to be carved into the sagas of the north.	true
+unit_abilities_onscreen_name_hkrul_geimdall_shield	PLACEHOLDER	true
+effects_description_hkrul_geimdall_shield_pas	Passive Ability: "Oathbound Bulwark"	false
+unit_abilities_tooltip_text_hkrul_geimdall_shield	PLACEHOLDER	true
+ancillaries_onscreen_name_hkrul_geimdall_sword	Havthrymr	false
+ancillaries_colour_text_hkrul_geimdall_sword	A finely honed blade, its steel tempered by the cold northern winds and the salt of the sea. Havthrymr has split shields and skulls alike in countless battles, its edge never dulling, its name whispered in reverence by those who know the fury of the Bjornling Huscarls.	false
+ancillaries_explanation_text_hkrul_geimdall_sword		false
+ancillaries_colour_text_hkrul_geimdall_horn	Carved from the horn of a sea-beast slain in ancient times, Bjornsmál is more than a war horn—it is the voice of the Bjornlings' fury. Its deep, mournful call rolls across the waves like a storm, stirring the blood of warriors and calling them to battle. To hear it is to know that war has come, and no man, beast, or god can silence its roar.	false
+ancillaries_onscreen_name_hkrul_geimdall_horn	Bjornsmál	false
+effects_description_hkrul_geimdall_horn	Ability: "Bjornsmál's Fury"	false
+unit_abilities_tooltip_text_hkrul_geimdall_horn	Carved from the horn of a slain sea-beast, Bjornsmál's deep call echoes like a storm, stirring Bjornling Huscarls to battle.	false
+unit_abilities_onscreen_name_hkrul_geimdall_horn	Bjornsmál's Fury	false
+effects_description_hkrul_geimdall_command	Ability: "Shield Wall!"	false
+unit_abilities_tooltip_text_hkrul_geimdall_command	With bellowing shouts and violent gestures the natural leader of the Huscarls molds the shield wall into a impregnable bulwark of Northern might.	false
+unit_abilities_onscreen_name_hkrul_geimdall_command	Shield Wall!	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_geimdall_command	Can not engage in melee combat when actively commanding the shield wall	false
+character_skills_localised_name_hkrul_geimdall_health	Norscan Diet	true
+character_skills_localised_description_hkrul_geimdall_health	From raw meat to salted fish, the Bjornling are known to live the true carnivor way - taking all the graceful Gods offer their lands.	true
+effects_description_hkrul_geimdall_skald_recruit	Hero recruit rank: %+n for Skalds	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_geimdall	The Shattered Shield	true
+character_trait_levels_colour_text_hkrul_defeated_trait_geimdall	Men! Shield, W-..hat?!	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_geimdall	Defeated High Jarl Geimdall	true
+effects_description_hkrul_geimdall_shielded_armour	Armour: %+n for Shielded Marauder units	false
+effects_description_hkrul_geimdall_shielded_melee_defence	Melee defence: %+n for Shielded Marauder units	false
+effects_description_hkrul_geimdall_shielded_xp_gain	Unit experience gain: %+n% for Shielded Marauder units	false
+ancillaries_colour_text_hkrul_geimdall_ship	No traitor has ever stepped aboard Geimdall's Kingship and lived to tell the tale—its hull carries the weight of Geimdall’s unwavering honor. Legends say that the ship itself remembers betrayal, the timbers creaking with whispers of broken vows. Those who break their oaths to the High Jarl find no refuge upon its deck, for the sea itself conspires against them—storms rise without warning, ropes snap like strangling hands, and the water drags them down, never to be seen again. Only those whose word is iron may sail beneath its banners, for treachery finds no quarter on the Oathbreaker’s Bane.	false
+ancillaries_onscreen_name_hkrul_geimdall_ship	The Oathbreaker’s Bane	false
+effects_description_hkrul_geimdall_ships_mis_res	Missile resistance: %+n% for Norscan Longship units\\n\\n[[col:red]][[i]]Note: Requires the Norscan Longship mod to be activated.[[/i]][[/col]]	false
+effects_description_hkrul_geimdall_ships_speed	Speed: %+n% for Norscan Longship units\\n\\n[[col:red]][[i]]Note: Requires the Norscan Longship mod to be activated.[[/i]][[/col]]	false
+unit_abilities_tooltip_text_hkrul_geimdall_wall_formation	The men trained by the King's Huscarls raise their shields with choreographical precision.	false
+unit_abilities_onscreen_name_hkrul_geimdall_wall_formation	Geimdall's Shield Wall	false
+effects_description_hkrul_geimdall_wall_formation	Ability: "Geimdall's Shield Wall" for Shielded Marauder units	false
+effects_description_hkrul_deadly_onslaught_foot_birna	Ability: "Deadly Onslaught" when on foot	false
+effects_description_hkrul_deadly_onslaught_foot_harald	Ability: "Deadly Onslaught" when on foot	false
+effects_description_hkrul_deadly_onslaught_foot_geimdall	Ability: "Deadly Onslaught" when on foot	false
+character_skills_localised_name_hkrul_deadly_onslaught_foot_birna	Deadly Onslaught	true
+character_skills_localised_description_hkrul_deadly_onslaught_foot_birna	The war is endless. The cycle of charging, clashing, and bloody hand-to-hand fighting is without end. It will never stop.	true
+character_skills_localised_name_hkrul_deadly_onslaught_foot_harald	Deadly Onslaught	true
+character_skills_localised_description_hkrul_deadly_onslaught_foot_harald	The war is endless. The cycle of charging, clashing, and bloody hand-to-hand fighting is without end. It will never stop.	true
+character_skills_localised_name_hkrul_deadly_onslaught_foot_geimdall	Deadly Onslaught	true
+character_skills_localised_description_hkrul_deadly_onslaught_foot_geimdall	The war is endless. The cycle of charging, clashing, and bloody hand-to-hand fighting is without end. It will never stop.	true

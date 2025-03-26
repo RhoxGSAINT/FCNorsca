@@ -87,7 +87,8 @@ melee_expert	hkrul_hrothgar
 anti_large	hkrul_rafn
 melee_expert	hkrul_rafn
 hkrul_norsca_drum	hkrul_uzul
-armour_piercing	hkrul_uzul
+anti_infantry	hkrul_uzul
+melee_expert	hkrul_uzul
 armour_piercing	hkrul_sarg
 melee_expert	hkrul_sarg
 melee_expert	hkrul_sarg_horse

@@ -2,12 +2,10 @@ character_item	character_name
 #battle_set_piece_armies_characters_items_tables;0;db/battle_set_piece_armies_characters_items_tables/scm_norsca	
 hkrul_adella_sword	hkrul_adella
 hkrul_akkorak_spear	hkrul_akkorak
-hkrul_birna_sword	hkrul_birna
 hkrul_birna_bow	hkrul_birna
 hkrul_drenok_axe	hkrul_drenok
 hkrul_einar_sword	hkrul_einar
 hkrul_hakka_axe	hkrul_hakka
-hkrul_harald_sword	hkrul_harald
 hkrul_sayl_staff	hkrul_sayl
 hkrul_sayl_teeth	hkrul_sayl
 hkrul_ulfric_axe	hkrul_ulfric
@@ -22,3 +20,4 @@ scm_norsca_graill_valdyr	hkrul_graill
 wolftribe_alfkael_nithi	scm_norsca_alfkael
 hkrul_ulsdau_eldur	scm_norsca_ulsdau
 hkrul_hildr_axe	hkrul_hildr
+hkrul_norsca_ship_6	hkrul_oda

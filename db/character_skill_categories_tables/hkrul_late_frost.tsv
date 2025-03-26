@@ -1,0 +1,8 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_late_frost					
+hkrul_mortensen_line1	0	0	1	hkrul_mortensen	00007F
+hkrul_mortensen_line2	1	1	1	hkrul_mortensen	AAAA7F
+hkrul_geimdall_line1	0	0	1	hkrul_geimdall	FFAFDF
+hkrul_geimdall_line2	1	1	1	hkrul_geimdall	AAAA7F
+hkrul_yngve_line1	0	0	1	hkrul_yngve	555500
+hkrul_yngve_line2	1	1	1	hkrul_yngve	AAAA7F

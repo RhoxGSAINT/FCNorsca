@@ -42,7 +42,7 @@ core:add_listener(
         local dilemma_builder = cm:create_dilemma_builder("rhox_bjornling_fish_sale");
 		local payload_builder = cm:create_payload();
 		payload_builder:faction_pooled_resource_transaction("wh3_main_ksl_followers", "events", 10, false)
-        payload_builder:treasury_adjustment(1200+cm:random_number(600,0));
+        payload_builder:treasury_adjustment(1600+cm:random_number(900,0));
         dilemma_builder:add_choice_payload("FIRST", payload_builder);
         payload_builder:clear();
         local candidate_num =#trade_candidate
@@ -50,7 +50,7 @@ core:add_listener(
             candidate_num =3
         end
         for i=1,candidate_num do
-            payload_builder:treasury_adjustment(2000+cm:random_number(1000,0));
+            payload_builder:treasury_adjustment(2250+cm:random_number(1400,0));
             payload_builder:diplomatic_attitude_adjustment(trade_candidate[i], cm:random_number(3,1))
             dilemma_builder:add_choice_payload(choice_string[i+1], payload_builder);--1 is local
             payload_builder:clear();
@@ -124,6 +124,12 @@ local fish_ancillaries={
     "hkrul_norsca_fish_12",
     "hkrul_norsca_fish_13",
     "hkrul_norsca_fish_14",
+    "hkrul_norsca_fish_15",
+    "hkrul_norsca_fish_16",
+    "hkrul_norsca_fish_17",
+    "hkrul_norsca_fish_18",
+    "hkrul_norsca_fish_19",
+    "hkrul_norsca_fish_20",
 }
 
 
@@ -137,7 +143,7 @@ core:add_listener(
             return false
         end
         local military_force = character:military_force()
-        local base_chance = 5
+        local base_chance = 11
         return faction:name() == bjornling_faction and military_force:active_stance() == "MILITARY_FORCE_ACTIVE_STANCE_TYPE_DOUBLE_TIME" and cm:random_number(100,1) <= base_chance
     end,
     function(context)

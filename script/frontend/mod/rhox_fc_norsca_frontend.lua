@@ -40,7 +40,7 @@ core:add_ui_created_callback(
 			
 			mixer_change_lord_name("960993442", "hkrul_hakka")
 			mixer_change_lord_name("311474807", "hkrul_hakka")--TOW
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"hkrul_dummy_aesling_inf_marauder_champions_1","scm_fc_norsca_aesling_nor_marauder","hkrul_dummy_aesling_inf_marauder_berserkers_0","wh_dlc08_nor_mon_war_mammoth_0","scm_fc_norsca_aesling_nor_marauder_great_weapons"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_aesling", {"hkrul_dummy_aesling_inf_marauder_champions_1","scm_fc_norsca_aesling_nor_marauder","wh3_main_kho_inf_flesh_hounds_of_khorne_0","hkrul_dummy_aesling_inf_marauder_berserkers_0","wh_dlc08_nor_mon_war_mammoth_0","scm_fc_norsca_aesling_nor_marauder_great_weapons"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_aesling")
 			
 			mixer_change_lord_name("1752931370", "hkrul_surtha_ek")

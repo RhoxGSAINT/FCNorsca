@@ -1,0 +1,5 @@
+key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
+#character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/hkrul_late_frost							
+skill_node_set_hkrul_mortensen	champion	false	false				hkrul_mortensen
+skill_node_set_hkrul_geimdall	general	false	false				hkrul_geimdall
+skill_node_set_hkrul_yngve	general	false	false				hkrul_yngve

@@ -1,0 +1,4 @@
+key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_actor_group	show_in_ui	cap	has_female_name	can_gain_xp	loyalty_is_applicable	contributes_to_agent_cap	recruitment_category	magic_lore	names_group	can_be_loaned	recruitable	saving_settings	audio_vo_culture_override	spam_click_vo_enabled	can_equip_ancillaries	cost	recruitment_button_active_icon_path	recruitment_button_background_icon_path
+#agent_subtypes_tables;2;db/agent_subtypes_tables/hkrul_late_frost																							
+hkrul_mortensen	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_mortensen	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
+hkrul_geimdall	false	false		hkrul_geimdall	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		

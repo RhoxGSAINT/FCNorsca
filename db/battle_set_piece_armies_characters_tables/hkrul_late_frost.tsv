@@ -1,0 +1,5 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/hkrul_late_frost												
+hkrul_mortensen	1	2147343937		100	2147343940	hkrul_mortensen	champion	hkrul_mortensen	ui/portraits/portholes/no_culture/hkrul_mortensen.png	266765936		true
+hkrul_geimdall	1	2147343937		100	2147343940	hkrul_geimdall	general	hkrul_geimdall	ui/portraits/portholes/no_culture/hkrul_geimdall.png	266765937		true
+hkrul_yngve	1	2147343937		100	2147343940	hkrul_yngve	general	hkrul_yngve	ui/portraits/portholes/no_culture/hkrul_yngve.png	263871729		true

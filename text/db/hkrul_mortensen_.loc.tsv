@@ -1,0 +1,48 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_mortensen_.loc		
+character_skills_localised_name_innate_hkrul_mortensen	Olric's Thane	true
+character_skills_localised_description_innate_hkrul_mortensen	Lars Mortensen is a towering warrior, hardened by years of mercenary bloodshed, yet ever guided by the cold, unyielding will of Olric.	true
+character_skills_localised_name_hkrul_mortensen_special_1_0	Olric's Oath	true
+character_skills_localised_name_hkrul_mortensen_special_1_1	Pledge of the Ursash	true
+character_skills_localised_name_hkrul_mortensen_special_1_2	Mercenary of Men	true
+character_skills_localised_name_hkrul_mortensen_special_1_3	Warrior’s Gale	true
+character_skills_localised_name_hkrul_mortensen_special_1_4	Old World Carpentry	true
+character_skills_localised_name_hkrul_mortensen_special_1_5	Devoted Pilgrim	true
+character_skills_localised_name_hkrul_mortensen_special_1_6	Norse Blooded	true
+character_skills_localised_description_hkrul_mortensen_special_1_0	Lars has sworn himself to the path of the hunter-warrior, honoring Olric through battle and hardship. His unwavering faith steels his resolve, allowing him to fight on even when others would falter, for to break an oath to Olric is to invite the storm’s wrath	true
+character_skills_localised_description_hkrul_mortensen_special_1_1	Having servered in the ranks of many of warband, Lars Mortensen know's how to command a staunch line of shields.	true
+character_skills_localised_description_hkrul_mortensen_special_1_2	His time among Imperial knights and Tilean duellists has refined his swordplay, making him a deadlier opponent for men and beast.	true
+character_skills_localised_description_hkrul_mortensen_special_1_3	Lars has survived countless campaigns, making him resilient to pain and unshaken by the horrors of war.	true
+character_skills_localised_description_hkrul_mortensen_special_1_4	Having lived on the shores of Nordland, Lars Mortensen was employed by a local Baron to help construct several coastal towns. His innate ability with carpentry was not left unnoticed.	true
+character_skills_localised_description_hkrul_mortensen_special_1_5	Having traveled the lands of men visiting several sacred sites of Olric, Lars understands their ways, making him invaluable in dealing with foreigners and their weaknesses	true
+character_skills_localised_description_hkrul_mortensen_special_1_6	In battle the Norse fight with unmachted ferocity, making them popular mercenaries for warlord's daring enough to take these savage men under their employ.	true
+agent_subtypes_onscreen_name_override_hkrul_mortensen	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_mortensen	Mortensen's devotion to Olric is as fiery as his Norse heritage driven lust for plunder and battle.	false
+unit_description_short_texts_text_hkrul_mortensen	Lars Mortensen is a towering warrior, hardened by years of mercenary bloodshed, yet ever guided by the cold, unyielding will of Olric.	false
+names_name_7610711831	Lars	false
+names_name_7610711830	Mortensen	false
+land_units_onscreen_name_hkrul_mortensen	Lars Mortensen	true
+effects_description_hkrul_mortensen_shield	Passive Ability: "Prayer of the Ursash"	false
+unit_abilities_tooltip_text_hkrul_mortensen_shield	In battle, Lars Mortensen is known to mutter the prayer of the Ursash. A common prayer amongst Olric worshippers, used to ask their deity God to protect Norse farmsteads.	true
+unit_abilities_onscreen_name_hkrul_mortensen_shield	Prayer of the Ursash	true
+effects_description_hkrul_mortensen_axe	Ability: "Smite of the Devout"	false
+unit_abilities_tooltip_text_hkrul_mortensen_axe	With staunch devotion to Olric, Mortensen's strikes channel the essence of his faith in his wrathful God.	true
+unit_abilities_onscreen_name_hkrul_mortensen_axe	Smite of the Devout	true
+effects_description_hkrul_mortensen_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
+units_custom_battle_mounts_localised_description_hkrul_mortensenhkrul_mortensen_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_mortensenhkrul_mortensen_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_mortensenhkrul_mortensen_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_mortensenhkrul_mortensen_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_mortensen_horse	Lars Mortensen	true
+land_units_onscreen_name_hkrul_mortensen_chariot	Lars Mortensen	true
+ancillaries_colour_text_hkrul_mortensen_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+ancillaries_onscreen_name_hkrul_mortensen_horse	Norscan Warhorse	false
+ancillaries_colour_text_hkrul_mortensen_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_mortensen_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_mortensen_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+character_skills_localised_name_hkrul_mortensen_horse	Norscan Warhorse	false
+character_skills_localised_description_hkrul_mortensen_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_mortensen_chariot	Marauder Chariot	false
+unit_abilities_tooltip_text_hkrul_mortensen_rally	For Norscans, Olric resembles the hunt - the everlasting thrill of slaying that which is thrice or more the size of one mere marauder. When Olric answers, the beasts and monsters seem only a fraction or their original might.	false
+unit_abilities_onscreen_name_hkrul_mortensen_rally	Olric's Prayer	true
+effects_description_hkrul_mortensen_rally	Ability: "Prayer to Olric"	false

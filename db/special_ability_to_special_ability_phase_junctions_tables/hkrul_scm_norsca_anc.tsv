@@ -13,3 +13,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_norsca_sword_3	true	true	false	hkrul_norsca_sword_3
 1	hkrul_norsca_axe_2	true	true	false	hkrul_norsca_axe_2
 1	hkrul_norsca_axe_3	true	false	false	hkrul_norsca_axe_3
+1	hkrul_norsca_helmet_3	true	false	false	hkrul_norsca_helmet_3

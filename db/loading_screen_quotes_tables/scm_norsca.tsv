@@ -1,0 +1,26 @@
+key	image	max_displays	weighting	first_shown_weighting	category
+#loading_screen_quotes_tables;5;db/loading_screen_quotes_tables/scm_norsca					
+hkrul_beorg	ui/portraits/portholes/no_culture/hkrul_beorg_bear.png	-1	1	1	generic
+hkrul_birna	ui/portraits/portholes/no_culture/hkrul_birna.png	-1	1	1	generic
+hkrul_ulfric	ui/portraits/portholes/no_culture/hkrul_ulfric.png	-1	1	1	generic
+hkrul_geimdall	ui/portraits/portholes/no_culture/hkrul_geimdall.png	-1	1	1	generic
+hkrul_oda	ui/portraits/portholes/no_culture/hkrul_oda.png	-1	1	1	generic
+hkrul_hakka	ui/portraits/portholes/no_culture/hkrul_hakka.png	-1	1	1	generic
+hkrul_sayl	ui/portraits/portholes/no_culture/hkrul_sayl.png	-1	1	1	generic
+hkrul_surtha	ui/portraits/portholes/no_culture/medusa_surtha_ek_0.png	-1	1	1	generic
+hkrul_ulsdau	ui/portraits/portholes/no_culture/scm_norsca_ulsdau.png	-1	1	1	generic
+hkrul_adella	ui/portraits/portholes/no_culture/hkrul_adella.png	-1	1	1	generic
+hkrul_soren	ui/portraits/portholes/no_culture/hkrul_soren.png	-1	1	1	generic
+hkrul_akkorak	ui/portraits/portholes/no_culture/hkrul_akkorak.png	-1	1	1	generic
+hkrul_drenok	ui/portraits/portholes/no_culture/hkrul_drenok.png	-1	1	1	generic
+hkrul_einar	ui/portraits/portholes/no_culture/hkrul_einar.png	-1	1	1	generic
+hkrul_harald	ui/portraits/portholes/no_culture/hkrul_harald.png	-1	1	1	generic
+hkrul_swyrd	ui/portraits/portholes/no_culture/hkrul_swyrd.png	-1	1	1	generic
+hkrul_rafn	ui/portraits/portholes/no_culture/hkrul_rafn.png	-1	1	1	generic
+hkrul_uzul	ui/portraits/portholes/no_culture/hkrul_uzkulek.png	-1	1	1	generic
+hkrul_sarg	ui/portraits/portholes/no_culture/hkrul_sargath.png	-1	1	1	generic
+hkrul_asta	ui/portraits/portholes/no_culture/scm_norsca_asta.png	-1	1	1	generic
+hkrul_graill	ui/portraits/portholes/no_culture/scm_norsca_graill.png	-1	1	1	generic
+hkrul_hildr	ui/portraits/portholes/no_culture/hkrul_hildr.png	-1	1	1	generic
+hkrul_huern	ui/portraits/portholes/no_culture/scm_norsca_huern.png	-1	1	1	generic
+hkrul_yngve	ui/portraits/portholes/no_culture/hkrul_yngve.png	-1	1	1	generic

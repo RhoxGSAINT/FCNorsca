@@ -2,3 +2,4 @@ key	localised_description	localised_title	bundle_target	priority	ui_icon	is_glob
 #effect_bundles_tables;4;db/effect_bundles_tables/rhox_beorg								
 hkrul_beorg_banner			character	1	public_order.png	true	false	true
 rhox_beorg_faction_trait			faction	1	effect_bundle_beorg.png	true	false	true
+hkrul_yngve_banner			character	1	public_order.png	true	false	true

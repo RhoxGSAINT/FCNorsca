@@ -241,3 +241,17 @@ effects_description_hkrul_summon_bear	Ability: "Summon Grizzleclaw"	false
 unit_abilities_onscreen_name_hkrul_summon_bear	Summon Grizzleclaw	false
 unit_abilities_tooltip_text_hkrul_summon_bear	The amulet resonates with the untamed spirits of the northern wilderness, drawing them to its bearer's side. 	false
 campaign_payload_ui_details_description_rhox_fc_norsca_agent_skald_dummy	Hero recruited: Skald	false
+ancillaries_onscreen_name_hkrul_norsca_ship_6	The Drakkenguard	true
+ancillaries_colour_text_hkrul_norsca_ship_6	A vessel of legend, Drakkenguard was built from the ribs of a leviathan felled by Bjornling warriors and bound with iron said to be blessed by the gods. It does not sail—it hunts, prowling the seas like a beast of the deep, shielding its crew with the wrath of the storm itself. It was gifted to Oda Winterclaw by the High King Ulfric Grondal after Winterclaw's clan backed the High King during the Bjornling expedition to the Southlands.	true
+ancillaries_onscreen_name_hkrul_norsca_fish_15	Trolltooth Sturgeon	false
+ancillaries_onscreen_name_hkrul_norsca_fish_16	Barnacle-Crusted Hoard	false
+ancillaries_onscreen_name_hkrul_norsca_fish_17	Nightmare Eel	false
+ancillaries_onscreen_name_hkrul_norsca_fish_18	The Black Depths Horn	false
+ancillaries_onscreen_name_hkrul_norsca_fish_19	Glowfin Devil	false
+ancillaries_onscreen_name_hkrul_norsca_fish_20	Doomhammer Shark	false
+ancillaries_colour_text_hkrul_norsca_fish_15	A massive, ancient fish with jagged, troll-like teeth. Said to have a lifespan longer than most empires, its bones are often carved into talismans.	false
+ancillaries_colour_text_hkrul_norsca_fish_16	A heavy sack of ancient gold coins, encrusted with barnacles and seaweed, pulled from the depths by sheer luck. Whether plunder from a long-lost raider fleet or an offering to some forgotten god, its discovery fills the warband’s coffers, easing the burden of upkeep.	false
+ancillaries_colour_text_hkrul_norsca_fish_17	A writhing, yellow-skinned monstrosity with glowing red eyes. It is believed to feast on the souls of drowned sailors, cursing those who dare consume it.	false
+ancillaries_colour_text_hkrul_norsca_fish_18	This massive, barnacle-encrusted horn, eerily shaped like the fossilized remains of some ancient sea beast, was dredged up from the depths. When blown, it unleashes a deep, reverberating war cry that stirs the blood of warriors and sends shivers through those who hear it.	false
+ancillaries_colour_text_hkrul_norsca_fish_19	A deep-sea fish that radiates an eerie blue glow in the dark waters. Sailors claim it lures ships into treacherous reefs with its ghostly light.	false
+ancillaries_colour_text_hkrul_norsca_fish_20	A monstrous fish with a wide, blunted head like a warhammer, used to batter prey and even small boats. Legends claim it was once the war-beast of a fallen sea god, doomed to wander the depths in eternal rage.	false

@@ -4,7 +4,7 @@ mana_below_50%	hkrul_adella_sword
 moving	hkrul_akkorak_spear
 morale_is_higher_than_wavering	hkrul_birna_sword
 morale_is_higher_than_wavering	hkrul_drenok_axe
-no_friendly_spells_active	hkrul_einar_sword
+mana_equal_or_above_value_15	hkrul_einar_sword
 engaged_in_melee	hkrul_hakka_axe
 health_below_75%	hkrul_harald_sword
 no_enemy_spells_active	hkrul_sayl_mist

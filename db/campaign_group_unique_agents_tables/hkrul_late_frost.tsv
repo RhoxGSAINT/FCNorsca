@@ -1,0 +1,5 @@
+campaign_group	unique_agent	base_charges
+#campaign_group_unique_agents_tables;0;db/campaign_group_unique_agents_tables/hkrul_late_frost		
+wh_dlc08_feature_norsca	hkrul_mortensen	1
+wh_dlc08_feature_norsca	hkrul_geimdall	1
+wh_dlc08_feature_norsca	hkrul_yngve	1

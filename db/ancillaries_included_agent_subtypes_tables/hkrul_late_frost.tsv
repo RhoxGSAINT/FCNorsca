@@ -1,0 +1,9 @@
+agent_subtype	ancillary
+#ancillaries_included_agent_subtypes_tables;0;db/ancillaries_included_agent_subtypes_tables/hkrul_late_frost	
+hkrul_geimdall	hkrul_geimdall_sword
+hkrul_yngve	hkrul_yngve_horse
+hkrul_yngve	hkrul_yngve_chariot
+hkrul_yngve	hkrul_yngve_banner
+hkrul_geimdall	hkrul_geimdall_horn
+hkrul_geimdall	hkrul_geimdall_ship
+hkrul_yngve	hkrul_yngve_manticore

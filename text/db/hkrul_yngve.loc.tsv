@@ -1,0 +1,68 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_yngve.loc		
+character_skills_localised_name_innate_hkrul_yngve	The Sightless Seer	true
+character_skills_localised_description_innate_hkrul_yngve	Yngve Aarseth sees deeper than sight, his blood-soaked visions foretelling doom with chilling certainty.	true
+character_skills_localised_description_hkrul_yngve_special_0_1	When Aarseth proclaims the coming of a great storm, wise men take shelter, for he is never wrong.	true
+character_skills_localised_name_hkrul_yngve_special_0_1	Harbinger of the Long Winter	true
+character_skills_localised_description_hkrul_yngve_special_1_1	Spirits of the fallen whisper their secrets to him, guiding his hand in matters of war and prophecy.	true
+character_skills_localised_name_hkrul_yngve_special_1_1	Spectral Counsel	true
+character_skills_localised_description_hkrul_yngve_special_1_2	No secret is hidden from Aarseth; he glimpses the strands of fate and whispers truths no mortal should know.	true
+character_skills_localised_name_hkrul_yngve_special_1_2	Threads of the Future	true
+character_skills_localised_description_hkrul_yngve_special_1_5	Though eyeless, his gaze burns into the soul, revealing hidden fears and buried guilt.	true
+character_skills_localised_name_hkrul_yngve_special_1_5	Fatebinder	true
+character_skills_localised_name_hkrul_yngve_special_1_0	Runes of the Sightless	true
+character_skills_localised_description_hkrul_yngve_special_1_3	He speaks not in riddles but in certainty, guiding warbands toward victory—or destruction.	true
+character_skills_localised_description_hkrul_yngve_special_1_0	When he speaks of death, even the mightiest jarls shudder, for his visions always come to pass.	true
+character_skills_localised_name_hkrul_yngve_special_1_3	The Bones Reveal	true
+character_skills_localised_description_hkrul_yngve_special_0_2	His touch alone can mark a warrior for greatness… or curse them to an early grave.	true
+character_skills_localised_name_hkrul_yngve_special_0_2	The Hollow-Eyed	true
+character_skills_localised_description_hkrul_yngve_special_1_4	Beasts do not attack him; they recognize a kinship deeper than speech, yielding to his presence.	true
+character_skills_localised_name_hkrul_yngve_special_1_4	The Wilds Obey	true
+agent_subtypes_onscreen_name_override_hkrul_yngve	Legendary Seer	false
+agent_subtypes_description_text_override_hkrul_yngve		false
+effects_description_hkrul_sayl_mist	Ability: "Traitor’s Mist''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_yngve	In the Land of the Blind	true
+character_trait_levels_colour_text_hkrul_defeated_trait_yngve	Even one-eyed is King...	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_yngve	Defeated Yngve Aarseth	true
+ancillaries_colour_text_hkrul_sayl_staff	Twisted and serpentine, the Viperous Staff is the malevolent artifact wielded by Sayl the Faithless. Its dark coils writhe with venomous enchantments, embodying the treacherous essence of its master. Crafted in the shadows of forbidden sorceries, the staff is both a conduit and a weapon, its bite carrying the deadly poison of chaos. In Sayl's hands, the Viperous Staff becomes an instrument of damnation, striking with the insidious force that befits a servant of the ever-shifting tides of Chaos.	true
+ancillaries_onscreen_name_hkrul_sayl_staff	Viperous Staff	true
+land_units_onscreen_name_hkrul_yngve	Yngve Aarseth	true
+names_name_5670700632	Aarseth	false
+names_name_5670700633	Yngve	false
+unit_description_short_texts_text_hkrul_yngve	Yngve Aarseth is a feared seer, his blind gaze piercing fate itself, his blood-soaked visions foretelling doom with eerie certainty.	false
+unit_description_historical_texts_text_hkrul_yngve	Yngve Aarseth is an enigma wrapped in fear and prophecy. His blind gaze pierces deeper than sight, unraveling fates with chilling certainty, while his blood-soaked visions have doomed warriors before they even set foot on the battlefield	false
+unit_abilities_onscreen_name_hkrul_yngve_gaze	Grim Prophecy	true
+unit_abilities_tooltip_text_hkrul_yngve_gaze	Like a weaver plucking at a frayed cord, Aarseth names the moment a warrior's fate is cut, sending shivers through their ranks.	true
+effects_description_hkrul_yngve_gaze	Ability: "Grim Prophecy"	false
+ancillaries_colour_text_hkrul_yngve_banner	A weathered banner, blessed by Urska, the shaman of the Seafarer’s Shrine. Those who offer her a feast or silver are granted visions from the deep—cryptic whispers of coming storms, lost treasures, or unseen dangers lurking beyond the horizon.	true
+ancillaries_onscreen_name_hkrul_yngve_banner	Banner of Urska	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_sayl		false
+units_custom_battle_mounts_localised_description_hkrul_yngvehkrul_yngve_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_yngvehkrul_yngve_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_yngve_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_yngve_chariot	Marauder Chariot	false
+ancillaries_colour_text_hkrul_yngve_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_yngve_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_yngve_chariot	Yngve Aarseth	false
+units_custom_battle_mounts_localised_description_hkrul_yngvehkrul_yngve_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_yngvehkrul_yngve_horse	Norscan Warhorse	false
+character_skills_localised_description_hkrul_yngve_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+character_skills_localised_name_hkrul_yngve_horse	Norscan Warhorse	false
+ancillaries_colour_text_hkrul_yngve_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+ancillaries_onscreen_name_hkrul_yngve_horse	Norscan Warhorse	false
+land_units_onscreen_name_hkrul_yngve_horse	Yngve Aarseth	false
+effects_description_hkrul_norscan_giant_recruit_rank	Recruit rank: %+n for Norscan giant units	false
+effects_description_hkrul_norscan_giant_missile_res	Missile resistance: %n% for Norscan giant units	false
+missions_localised_title_hkrul_nor_yngve1	The Sightless Seer	false
+missions_localised_description_hkrul_nor_yngve1	The winds of Norsca carry whispers of fate, and Yngve Aarseth, the blind prophet, has spoken: 'Gather the voices of the storm, and I shall walk with thee.' He cares not for steel, only for those who see beyond the veil.	false
+missions_localised_mission_completed_text_hkrul_nor_yngve1		false
+unit_abilities_onscreen_name_hkrul_yngve_rune	Sightless Rune	true
+unit_abilities_tooltip_text_hkrul_yngve_rune	Scrawled in blood and ash, Aarseth’s foretelling leaves no doubt—death approaches, and the weak-willed falter before its shadow.	true
+effects_description_hkrul_yngve_rune	Ability: "Sightless Rune"	false
+character_skills_localised_description_hkrul_yngve_manticore	A tattered and old Manticore summoned by the foul whispers uttered by Yngve during one of his many rituals.	false
+character_skills_localised_name_hkrul_yngve_manticore	Manticore	false
+ancillaries_colour_text_hkrul_yngve_manticore	A tattered and old Manticore summoned by the foul whispers uttered by Yngve during one of his many rituals.	false
+ancillaries_onscreen_name_hkrul_yngve_manticore	Manticore	false
+units_custom_battle_mounts_localised_description_hkrul_yngvehkrul_yngve_manticore	A tattered and old Manticore summoned by the foul whispers uttered by Yngve during one of his many rituals.	false
+units_custom_battle_mounts_mount_name_hkrul_yngvehkrul_yngve_manticore	Manticore	false
+land_units_onscreen_name_hkrul_yngve_manticore	Yngve Aarseth	false

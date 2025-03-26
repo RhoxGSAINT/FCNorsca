@@ -20,7 +20,7 @@ character_skills_localised_description_hkrul_birna_special_1_4	Known for her exc
 character_skills_localised_name_hkrul_birna_special_1_4	Feathers of the Huntress	true
 agent_subtypes_onscreen_name_override_hkrul_birna	Legendary Lord	false
 agent_subtypes_description_text_override_hkrul_birna		false
-effects_description_hkrul_birna_sword	Ability: "Whalesong's Bane''	true
+effects_description_hkrul_birna_sword	Ability: "Whalesong's Bane'' when on foot	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_birna	The Hunted Huntress	true
 character_trait_levels_colour_text_hkrul_defeated_trait_birna	What's the matter? Somebody cut out your tongue?	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_birna	Defeated Birna the Huntress	true

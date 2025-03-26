@@ -1,0 +1,18 @@
+key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
+#unit_abilities_tables;17;db/unit_abilities_tables/hkrul_late_frost											
+hkrul_mortensen_shield	true	hkrul_mortensen_prayer2		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_mortensen_axe	true	hkrul_mortensen_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_geimdall_rally	true	hkrul_geimdall_rally		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	active		false
+hkrul_geimdall_shield_pas	true	hkrul_geimdall_raise		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	passive		false
+hkrul_geimdall_helm	true	hkrul_geimdall_helm		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_geimdall_sword	true	hkrul_geimdall_sword2		wh_type_breath		wh_main_anc_group_rare	true	false	active		false
+hkrul_geimdall_command	true	hkrul_geimdall_shield		wh_type_augment		wh_main_anc_group_unique	true	false	active		false
+hkrul_geimdall_horn	true	hkrul_geimdall_horn2		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	active		false
+hkrul_mortensen_rally	true	hkrul_mortensen_rally		wh_type_hex		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_shield_3	true	hkrul_norsca_shield_3		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_axe_5	true	hkrul_norsca_axe_5		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_norsca_helmet_3	true	hkrul_norsca_helmet_3		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_norsca_axe_4	true	hkrul_norsca_axe_4		wh_type_area_of_direct_damage		wh_main_anc_group_rare	true	false	active		false
+hkrul_yngve_gaze	true	hkrul_yngve_gaze		wh_type_hex		wh_main_anc_group_rare	true	false	active		false
+hkrul_yngve_rune	true	hkrul_yngve_rune		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
+hkrul_geimdall_wall_formation	true	hkrul_geimdall_shield2		wh_type_formation		wh_main_anc_group_uncommon	false	false	active		false

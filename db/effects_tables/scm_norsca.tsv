@@ -13,3 +13,7 @@ rhox_skald_effect_enable_rhox_skald_guardian_cadence_upgraded	general_ability.pn
 rhox_skald_effect_enable_rhox_skald_fury_call_upgraded	general_ability.png	152		battle	true
 hkrul_skald_horn_passive	general_ability.png	152		battle	true
 hkrul_skald_drum_passive	general_ability.png	152		battle	true
+hkrul_norsca_helmet_3	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_shield_3	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_axe_4	item_ability.png	300	item_ability.png	battle	true
+hkrul_norsca_axe_5	item_ability.png	300	item_ability.png	battle	true

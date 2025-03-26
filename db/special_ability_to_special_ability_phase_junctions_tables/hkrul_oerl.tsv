@@ -6,4 +6,6 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_oerl_axe	true	false	false	hkrul_oerl_axe
 0	hkrul_oerl_horn	false	false	true	hkrul_oerl_horn_enemy
 1	hkrul_beorg_mark	true	false	false	hkrul_beorg_mark
+1	hkrul_geimdall_command	true	false	false	hkrul_geimdall_command
+1	hkrul_geimdall_command	false	true	false	hkrul_geimdall_command_area
 1	hkrul_tyeddi	true	false	false	hkrul_tyeddi

@@ -475,7 +475,7 @@ local rhox_faction_list={
     wh_main_nor_graeling ={
         leader={
             subtype="hkrul_harald",
-            unit_list="wh_dlc08_nor_inf_marauder_berserkers_0,wh_dlc08_nor_inf_marauder_berserkers_0,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_mon_skinwolves_1,wh_main_nor_mon_chaos_warhounds_1,rhox_graeling_werekin_of_fijgard",
+            unit_list="wh_dlc08_nor_inf_marauder_berserkers_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_berserkers_0,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_mon_skinwolves_1,wh_main_nor_mon_chaos_warhounds_1,wh_main_nor_mon_chaos_warhounds_1,rhox_graeling_werekin_of_fijgard",
             x=488,
             y=827,
             forename ="names_name_5670700351",
@@ -510,10 +510,6 @@ local rhox_faction_list={
             forename ="names_name_5682700361",
             familiyname ="names_name_5682700360",
         },
-        agent={
-            type="wizard",
-            subtype="wh_dlc08_nor_shaman_sorcerer_fire"
-        },
         region="wh3_main_combi_region_sarl_encampment",
         enemy={
             key="wh3_main_ksl_brotherhood_of_the_bear",
@@ -531,7 +527,8 @@ local rhox_faction_list={
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
-		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_mortensen", faction:faction_leader():command_queue_index(), true)
 
         end,
         first_tick = function(faction, faction_key) 
@@ -540,7 +537,7 @@ local rhox_faction_list={
     wh_main_nor_aesling ={
         leader={
             subtype="hkrul_hakka",
-            unit_list="wh_dlc08_nor_inf_marauder_champions_1,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,wh_dlc08_nor_mon_war_mammoth_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
+            unit_list="wh_dlc08_nor_inf_marauder_champions_1,wh3_main_kho_inf_flesh_hounds_of_khorne_0,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,wh_dlc08_nor_mon_war_mammoth_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
             x=638,
             y=858,
             forename ="names_name_2570700351",

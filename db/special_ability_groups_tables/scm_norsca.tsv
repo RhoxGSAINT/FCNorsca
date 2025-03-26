@@ -4,3 +4,4 @@ hkrul_adella_lore	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	
 hkrul_soren_lore	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	0	false	lore_dark_magic	Play_WH_UI_Ability_Click_Generic_Death	true	885493081	Dark	true	555500
 hkrul_sayl_lore	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	0	false	lore_tzeentch	Play_WH_UI_Ability_Click_Generic_Death	true	885493080	Tzeentch	true	2370FF
 scm_norsca_lore_alfkael	ui/battle ui/ability_icons/wh2_main_lore_passive_combined.png	0	0	false	lore_ice	Play_WH_UI_Ability_Click_Generic_Heavens	true	58396647	Ice	true	1F7487
+hkrul_yngve_lore	UI\Battle UI\ability_icons\wh2_main_lore_passive_combined.png	0	0	false	lore_ice	Play_WH_UI_Ability_Click_Generic_Death	true	885493083	Ice	true	1F7487

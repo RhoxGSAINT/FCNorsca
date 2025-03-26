@@ -1,0 +1,81 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\geimdall\geimdall.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\hravenswyrd\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\character\hskald\materials\ksl_bear_armour_light_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\character\geimdall\materials\horn_weighted2_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\character\geimdall\materials\ksl_gryphon_legion_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\character\hskald\materials\chd_wolf_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\character\oda\materials\emp_huntsmarshal_body_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\character\geimdall\materials\headind_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu1e\cth\cth_alchemist\materials\cth_alchemist_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\character\geimdall\materials\body.mo.003_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\bodyror\materials\ksl_boyar_slavin_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub1\materials\dae_marauder_tzeentch_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub2\materials\ksl_druzhina_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\brt_paladin_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\character\geimdall\materials\model_0.001_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\hu1c\kurg\chs_marauder_champions\head\materials\cth_jade_warrior_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="15">variantmeshes\wh_variantmodels\character\hakka\materials\chs_ring_03_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="16">variantmeshes\wh_variantmodels\character\geimdall\materials\daga_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="17">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\chs_marauder_chieftain_legs_03_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\character\hravenswyrd\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\character\hskald\materials\ksl_bear_armour_light_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\character\geimdall\materials\horn_weighted2_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\character\geimdall\materials\ksl_gryphon_legion_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\character\hskald\materials\chd_wolf_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\character\oda\materials\emp_huntsmarshal_body_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\character\geimdall\materials\headind_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu1e\cth\cth_alchemist\materials\cth_alchemist_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\character\geimdall\materials\body.mo.003_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\bodyror\materials\ksl_boyar_slavin_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub1\materials\dae_marauder_tzeentch_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub2\materials\ksl_druzhina_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="12">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\brt_paladin_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="13">variantmeshes\wh_variantmodels\character\geimdall\materials\model_0.001_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="14">variantmeshes\wh_variantmodels\hu1c\kurg\chs_marauder_champions\head\materials\cth_jade_warrior_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="15">variantmeshes\wh_variantmodels\character\hakka\materials\chs_ring_03_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="16">variantmeshes\wh_variantmodels\character\geimdall\materials\daga_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="17">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\chs_marauder_chieftain_legs_03_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\character\hravenswyrd\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\character\hskald\materials\ksl_bear_armour_light_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\character\geimdall\materials\horn_weighted2_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\character\geimdall\materials\ksl_gryphon_legion_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\character\hskald\materials\chd_wolf_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\character\oda\materials\emp_huntsmarshal_body_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\character\geimdall\materials\headind_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu1e\cth\cth_alchemist\materials\cth_alchemist_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\character\geimdall\materials\body.mo.003_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\bodyror\materials\ksl_boyar_slavin_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub1\materials\dae_marauder_tzeentch_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub2\materials\ksl_druzhina_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="12">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\brt_paladin_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="13">variantmeshes\wh_variantmodels\character\geimdall\materials\model_0.001_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="14">variantmeshes\wh_variantmodels\hu1c\kurg\chs_marauder_champions\head\materials\cth_jade_warrior_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="15">variantmeshes\wh_variantmodels\character\hakka\materials\chs_ring_03_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="16">variantmeshes\wh_variantmodels\character\geimdall\materials\daga_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="17">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\chs_marauder_chieftain_legs_03_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\character\hravenswyrd\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\character\hskald\materials\ksl_bear_armour_light_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\character\geimdall\materials\horn_weighted2_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\character\geimdall\materials\ksl_gryphon_legion_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\character\hskald\materials\chd_wolf_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\character\oda\materials\emp_huntsmarshal_body_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\character\geimdall\materials\headind_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu1e\cth\cth_alchemist\materials\cth_alchemist_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\character\geimdall\materials\body.mo.003_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\bodyror\materials\ksl_boyar_slavin_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub1\materials\dae_marauder_tzeentch_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu1c\husk\huskarl\body\sub2\materials\ksl_druzhina_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="12">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\brt_paladin_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="13">variantmeshes\wh_variantmodels\character\geimdall\materials\model_0.001_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="14">variantmeshes\wh_variantmodels\hu1c\kurg\chs_marauder_champions\head\materials\cth_jade_warrior_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="15">variantmeshes\wh_variantmodels\character\hakka\materials\chs_ring_03_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="16">variantmeshes\wh_variantmodels\character\geimdall\materials\daga_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="17">variantmeshes\wh_variantmodels\character\beorgunit\sub1\materials\chs_marauder_chieftain_legs_03_weighted4_alpha_on.xml.material</material>
+
+	</materials>
+</model>

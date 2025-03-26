@@ -79,3 +79,10 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_norsca_ymir_ror	wh2_main_ror_units_all	false
 			hkrul_norsca_ymir	hkrul_ymir_all	false
 			hkrul_norsca_ymir_ror	hkrul_ymir_all	false
+			wh_dlc08_nor_inf_marauder_champions_0	hkrul_norsca_shielded	false
+			wh_main_nor_inf_chaos_marauders_0	hkrul_norsca_shielded	false
+			wh_pro04_nor_inf_chaos_marauders_ror_0	hkrul_norsca_shielded	false
+			rhox_bjornling_huscarl	hkrul_norsca_shielded	false
+			rhox_bjornling_huscarl_ror	hkrul_norsca_shielded	false
+			deco_nor_huskarls	hkrul_norsca_shielded	false
+			deco_nor_maidens	hkrul_norsca_shielded	false

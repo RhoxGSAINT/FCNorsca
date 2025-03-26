@@ -2,6 +2,8 @@ attribute	attribute_group
 #unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/scm_norsca	
 hide_forest	hkrul_birna
 encourages	hkrul_birna
+stalk	hkrul_birna
+mounted_fire_move	hkrul_birna
 hide_forest	hkrul_drenok
 encourages	hkrul_drenok
 hide_forest	hkrul_rafn
@@ -12,6 +14,7 @@ hide_forest	hkrul_lokjar
 encourages	hkrul_lokjar
 hide_forest	hkrul_sayl
 encourages	hkrul_sayl
+immune_to_psychology	hkrul_sayl
 hide_forest	hkrul_ulfric
 encourages	hkrul_ulfric
 hide_forest	hkrul_verdandi
