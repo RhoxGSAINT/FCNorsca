@@ -31,11 +31,10 @@ cm:add_first_tick_callback(
 
         
             local parent_ui = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar");
-            --[[
             local result = core:get_or_create_component("rhox_bjornling_winter_button", "ui/campaign ui/rhox_bjornling_button_frame.twui.xml", parent_ui)
             result:SetContextObject(cco("CcoCampaignFaction", bjornling_faction))
+            result:SetVisible(true)
             local result2 = core:get_or_create_component("rhox_bjornling_devotion_holder", "ui/campaign ui/rhox_bjornling_devotion_holder.twui.xml", parent_ui)
-            --]]
             local result3 = core:get_or_create_component("rhox_bjornling_ritual_button", "ui/campaign ui/rhox_bjornling_fish_ritual_button.twui.xml", parent_ui)
             result3:SetContextObject(cco("CcoCampaignFaction", bjornling_faction))
             local result4 = core:get_or_create_component("rhox_bjornling_resource_holder", "ui/campaign ui/rhox_bjornling_fish_resource_holder.twui.xml", parent_ui)
@@ -71,18 +70,15 @@ cm:add_first_tick_callback(
                 end,
                 true
             )
-            --[[
             core:add_listener(
-                "rhox_bjornling_winter_panel",
-                "PanelOpenedCampaign",
+                'rhox_totn_bjornling_clicked_winter_button',
+                'ComponentLClickUp',
                 function(context)
-                    return context.string == "kislev_winter"
+                    return context.string == "winter_button" 
+                    
                 end,
                 function(context)
-                    local panel = find_uicomponent(core:get_ui_root(), "kislev_winter")
-					if not panel then
-						return
-					end
+                    local panel = core:get_or_create_component("rhox_bjornling_winter_panel", "ui/campaign ui/kislev_winter.twui.xml", core:get_ui_root())
                     local supporter = find_uicomponent(panel, "devotion_action_holder", "dy_supporters")
                     if supporter then
                         supporter:SetVisible(true)
@@ -92,11 +88,27 @@ cm:add_first_tick_callback(
                     if final_threshold then
                         final_threshold:SetContextObject(cco("CcoCampaignGroupRecord", "rhox_bjornling_bundle_ksl_followers_5"))
                     end
-                            
                 end,
                 true
             )
-            --]]
+            
+            core:add_listener(
+                'rhox_totn_bjornling_clicked_winter_panel_close_button',
+                'ComponentLClickUp',
+                function(context)
+                    return context.string == "button_minimise" 
+                    
+                end,
+                function(context)
+                    local panel = find_uicomponent(core:get_ui_root(), "rhox_bjornling_winter_panel")
+                    if panel then
+                        panel:Destroy()
+                    end
+                    
+                end,
+                true
+            )
+            
             local norsca_gods_frame = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar", "norsca_favour")
             if norsca_gods_frame then
                 norsca_gods_frame:SetVisible(false)
