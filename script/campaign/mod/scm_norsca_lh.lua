@@ -21,7 +21,7 @@ local rhox_fc_norsca_lh={
         building_key="rhox_fc_norsca_valmir_aesling",
     },
     hkrul_hildr={
-        faction_key="wh_main_nor_bjornling",
+        faction_key="mixer_nor_geimdall_huscarls",
         mission_key="rhox_fc_norsca_hildr",
         mission_condition=function(mm) 
             mm:add_new_objective("SCRIPTED")
@@ -166,14 +166,14 @@ cm:add_first_tick_callback(
             );
         end
         
-        local bjornling_faction = cm:get_faction("wh_main_nor_bjornling")
-        if bjornling_faction and bjornling_faction:is_human() then
+        local geimdall_faction = cm:get_faction("mixer_nor_geimdall_huscarls")
+        if geimdall_faction and geimdall_faction:is_human() then
             core:add_listener(
                 "rhox_fc_norsca_hildr_mission_completer",
                 "FactionTurnStart",
                 function(context)
                     local faction = context:faction()
-                    return faction:name() == "wh_main_nor_bjornling" and cm:get_campaign_name() ~= "cr_oldworld"
+                    return faction:name() == "mixer_nor_geimdall_huscarls" and cm:get_campaign_name() ~= "cr_oldworld"
                 end,
                 function(context)
                     local faction = context:faction()
@@ -183,10 +183,10 @@ cm:add_first_tick_callback(
                     local followers_katarin = faction_katarin:pooled_resource_manager():resource("wh3_main_ksl_followers"):value()
                     local followers_kostaltyn = faction_kostaltyn:pooled_resource_manager():resource("wh3_main_ksl_followers"):value()
                     if followers_katarin >= 600 or followers_kostaltyn >= 600 then
-                        cm:complete_scripted_mission_objective("wh_main_nor_bjornling", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true)
+                        cm:complete_scripted_mission_objective("mixer_nor_geimdall_huscarls", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true)
                     end
                     if faction_katarin:is_dead() or faction_kostaltyn:is_dead() then
-                        cm:complete_scripted_mission_objective("wh_main_nor_bjornling", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true) --failsafe condition
+                        cm:complete_scripted_mission_objective("mixer_nor_geimdall_huscarls", "rhox_fc_norsca_hildr", "rhox_fc_norsca_kislev", true) --failsafe condition
                     end
                 end,
                 true

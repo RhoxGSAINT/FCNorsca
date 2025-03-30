@@ -23,7 +23,7 @@ rhox_graeling_mission_wh2_main_nor_skeggi	false	faction	false	Event		false		0.00
 rhox_graeling_mission_wh3_dlc20_nor_yusak	false	faction	false	Event		false		0.0000	false
 rhox_graeling_mission_wh_dlc08_nor_naglfarlings	false	faction	false	Event		false		0.0000	false
 rhox_fc_norsca_darkfortress	false	defeat	false	Event		true		0.0000	false
-rhox_bjornling_turn_two_incident	false	faction	false	Event		true		0.0000	false
+rhox_geimdall_turn_two_incident	false	faction	false	Event		true		0.0000	false
 rhox_fc_norsca_darkfortress_lost	false	defeat	false	Event		true		0.0000	false
 rhox_varg_hrothgar_joins	false	messenger	false	Event		false		0.0000	false
 rhox_drenok_ice_unit_incident	false	messenger	false	Event		false		0.0000	false

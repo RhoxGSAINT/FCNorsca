@@ -83,7 +83,6 @@ ancillaries_colour_text_hkrul_ulfric_chariot	Marauder mobs are awarded even grea
 ancillaries_onscreen_name_hkrul_ulfric_chariot	Marauder Chariot	false
 land_units_onscreen_name_hkrul_ulfric_horse	Ulfric Grondal	false
 land_units_onscreen_name_hkrul_ulfric_chariot	Ulfric Grondal	false
-effects_description_rhox_ulfric_feature_dummy	Influence the Kislevite civil war by sending Norscan Raiding parties to plunder Kislev territories	false
 technologies_onscreen_name_rhox_bjornling_ritual_1	Invocation of Ursun	false
 technologies_short_description_rhox_bjornling_ritual_1	The fate of Kislev is linked in many minds to the fortunes and favour of the great Bear God, Ursun.	false
 technologies_onscreen_name_rhox_bjornling_ritual_2	Invocation of Tor	false
@@ -92,9 +91,6 @@ technologies_onscreen_name_rhox_bjornling_ritual_3	Invocation of Salyak	false
 technologies_short_description_rhox_bjornling_ritual_3	The goddess of healing and comfort, Salyak teaches common sense and sound care, but will not save those whose time has come.	false
 technologies_onscreen_name_rhox_bjornling_ritual_4	Invocation of Dazh	false
 technologies_short_description_rhox_bjornling_ritual_4	The god of fire and the sun, it was Dazh who took the secret of flame from the sun and gave it to the ancient warrior chiefs	false
-incidents_button_text_rhox_bjornling_turn_two_incident	To the Longships!	false
-incidents_localised_description_rhox_bjornling_turn_two_incident	Embrace the winds of fate, for the Bjornlings, renowned sailors and explorers of the northern seas, hold sway over more than just the tempests of the ocean. As the realms of men tremble in the throes of civil discord, you stand poised at the helm of destiny. The great divide between the Orthodox faithful and the Ice Court in Kislev offers a stage for your grand machinations.\\n\\n By unleashing the fury of Norscan raiding parties upon the lands of your choosing, you sow the seeds of chaos and discord, tipping the scales of power in favor of your favored faction. Yet, amidst the turmoil, a greater prize awaits – the favor of the Kislevite gods themselves. Gather the devotion of your raids and beckon forth the blessings of these ancient deities to shape the very course of history. Will you champion the devout Orthodoxy or stand alongside the defiant Ice Court? The choice is yours, and the fate of Kislev hangs in the balance.	false
-incidents_localised_title_rhox_bjornling_turn_two_incident	The Kislevite Civil War	false
 effects_description_hkrul_ulfric_wall_formation	Ability: "Eldagrimm Shield Wall"	true
 unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
 unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Eldagrimm Shield Wall	false
@@ -218,8 +214,6 @@ building_short_description_texts_short_description_rhox_bjornling_creatures_2	Pe
 building_short_description_texts_short_description_rhox_bjornling_creatures_3	Built upon the ancient burial grounds of giants, this stable is a monument to the strength and resilience of the North. Within its walls, the mighty beasts of the tundra are bred and raised, their thunderous gallop shaking the very foundations of the earth. Here, amidst the howling winds and swirling snows, the bond between man and beast is forged in fire and blood.	false
 culture_settlement_occupation_options_tooltip_957887882	Raze||All buildings are destroyed and the settlement is torched. The previous owners will like you a lot less.	false
 mission_text_text_rhox_fc_norsca_hildr	See the end of Kislev supporter race by supporting either side	false
-effect_bundles_localised_description_rhox_bjornling_bundle_ksl_followers_5	You have loyalists in all places of influence and power – the devotion of Kislev's people is yours.	false
-effect_bundles_localised_title_rhox_bjornling_bundle_ksl_followers_5	Loyalist Supremacy (600)	false
 land_units_onscreen_name_hkrul_norsca_ymir	Feral Ymir	false
 unit_description_short_texts_text_hkrul_norsca_ymir	Feral and cunning hunters who prey exclusively on Humans. Unlike the Beastmen, Ymir are generally solitary creatures.	false
 unit_description_historical_texts_text_hkrul_norsca_ymir	The Ymir, also called Jeti, depending on the dialect of the Norse tribe, are great, white-furred behemoths who feature often in the tales of Norsca. For the Norscans, these monsters fulfill an important role in the passage all men must undertake if they hope to be recognised as warriors in their tribe. These young hopefuls brave the swirling snow and freezing winds to track down and face these beasts in combat. If they return with its head, they are accorded a special place in their tribe -- those who don't, don't return at all.	false
@@ -255,8 +249,6 @@ ancillaries_colour_text_hkrul_norsca_fish_17	A writhing, yellow-skinned monstros
 ancillaries_colour_text_hkrul_norsca_fish_18	This massive, barnacle-encrusted horn, eerily shaped like the fossilized remains of some ancient sea beast, was dredged up from the depths. When blown, it unleashes a deep, reverberating war cry that stirs the blood of warriors and sends shivers through those who hear it.	false
 ancillaries_colour_text_hkrul_norsca_fish_19	A deep-sea fish that radiates an eerie blue glow in the dark waters. Sailors claim it lures ships into treacherous reefs with its ghostly light.	false
 ancillaries_colour_text_hkrul_norsca_fish_20	A monstrous fish with a wide, blunted head like a warhammer, used to batter prey and even small boats. Legends claim it was once the war-beast of a fallen sea god, doomed to wander the depths in eternal rage.	false
-effect_bundles_localised_description_hkrul_geimdall_faction_trait	Geimdall, the right hand of High King Ulfric Grondal, is both warlord and spiritual guide to the Bjornling huscarls. His loyalty to Ulfric is unshakable, his axe ever at the king’s command. A veteran of countless raids, he dreams not of mere plunder but conquest—his eyes set upon Bretonnia, where he vows to bring low the chivalric lords and raise the Bjornling banners over their stone keeps.	false
-effect_bundles_localised_title_hkrul_geimdall_faction_trait	The King's Huscarl	false
 effect_bundles_localised_description_hkrul_yngve_faction_trait	Placeholder	false
 effect_bundles_localised_title_hkrul_yngve_faction_trait	The Sightless Seer	false
 culture_settlement_occupation_options_tooltip_957887883	Raze||All buildings are destroyed and the settlement is torched. The previous owners will like you a lot less.	false

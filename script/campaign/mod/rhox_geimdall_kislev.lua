@@ -14,7 +14,7 @@ local current_winner = ""
 
 cm:add_first_tick_callback(
     function()
-        local bjornling_faction= cm:get_faction("wh_main_nor_bjornling")
+        local bjornling_faction= cm:get_faction("mixer_nor_geimdall_huscarls")
         if bjornling_faction and bjornling_faction:is_human() then   
             rhox_bjornling_setup_kislev_devotion()
         end

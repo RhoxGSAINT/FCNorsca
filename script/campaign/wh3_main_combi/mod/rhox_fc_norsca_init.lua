@@ -363,47 +363,6 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
-    mixer_nor_geimdall_huscarls ={
-        leader={
-            subtype="hkrul_geimdall",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
-            x=390,
-            y=695,
-            forename ="names_name_7610711834",
-            familiyname ="names_name_7610711833",
-        },
-        agent={	
-            type="spy",
-            subtype="hkrul_skald_drum"
-        },
-        region="wh3_main_combi_region_languille",        
-        how_they_play="rhox_fc_norsca_geimdall_how_they_play",
-        pic=800,
-        faction_trait="hkrul_geimdall_faction_trait",
-        kill_previous_leader=true,
-        enemy={
-            key="wh_main_vmp_mousillon",
-            subtype="wh_main_vmp_lord",
-            unit_list="wh_main_brt_art_field_trebuchet,wh_main_vmp_inf_skeleton_warriors_0,wh_main_vmp_inf_skeleton_warriors_0,wh_main_vmp_inf_skeleton_warriors_0,wh_main_vmp_mon_varghulf",
-            x=395,
-            y=688
-        },
-        additional = function(faction, faction_key)
-            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
-		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
-            cm:make_diplomacy_available(faction_key, "wh_main_nor_bjornling")
-            cm:force_make_trade_agreement(faction_key, "wh_main_nor_bjornling")
-            if faction:is_human() then
-                --this is because they don't get allegiance
-                cm:set_saved_value("norscan_favour_lvl_3_reached_" .. faction_key, true) --this will also block hunting rewards
-                cm:complete_scripted_mission_objective(faction_key, "wh_main_short_victory", "attain_chaos_god_favour_lvl_2", true)
-                cm:complete_scripted_mission_objective(faction_key, "wh_main_long_victory", "attain_chaos_god_favour", true)
-
-            end
-        end,
-        first_tick = function(faction, faction_key) 
-        end
-    },
     wh_main_nor_baersonling ={
         leader={
             subtype="hkrul_einar",
@@ -503,6 +462,48 @@ local rhox_faction_list={
                 function(cqi)
                 end);
                 
+                --this is because they don't get allegiance
+                cm:set_saved_value("norscan_favour_lvl_3_reached_" .. faction_key, true) --this will also block hunting rewards
+                cm:complete_scripted_mission_objective(faction_key, "wh_main_short_victory", "attain_chaos_god_favour_lvl_2", true)
+                cm:complete_scripted_mission_objective(faction_key, "wh_main_long_victory", "attain_chaos_god_favour", true)
+
+            end
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },
+    mixer_nor_geimdall_huscarls ={
+        leader={
+            subtype="hkrul_geimdall",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+            x=390,
+            y=695,
+            forename ="names_name_7610711834",
+            familiyname ="names_name_7610711833",
+        },
+        agent={	
+            type="spy",
+            subtype="hkrul_skald_drum"
+        },
+        region="wh3_main_combi_region_languille",        
+        how_they_play="rhox_fc_norsca_geimdall_how_they_play",
+        pic=800,
+        faction_trait="hkrul_geimdall_faction_trait",
+        kill_previous_leader=true,
+        enemy={
+            key="wh_main_vmp_mousillon",
+            subtype="wh_main_vmp_lord",
+            unit_list="wh_main_brt_art_field_trebuchet,wh_main_vmp_inf_skeleton_warriors_0,wh_main_vmp_inf_skeleton_warriors_0,wh_main_vmp_inf_skeleton_warriors_0,wh_main_vmp_mon_varghulf",
+            x=395,
+            y=688
+        },
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_unit_to_faction_mercenary_pool(faction,"wh_pro04_nor_mon_fimir_ror_0","renown",0,0,0,0,"","","",true,"wh_pro04_nor_mon_fimir_ror_0")
+            cm:make_diplomacy_available(faction_key, "wh_main_nor_bjornling")
+            cm:force_make_trade_agreement(faction_key, "wh_main_nor_bjornling")
+            if faction:is_human() then
                 --this is because they don't get allegiance
                 cm:set_saved_value("norscan_favour_lvl_3_reached_" .. faction_key, true) --this will also block hunting rewards
                 cm:complete_scripted_mission_objective(faction_key, "wh_main_short_victory", "attain_chaos_god_favour_lvl_2", true)
@@ -1008,7 +1009,7 @@ cm:add_first_tick_callback_new(
 )
 
 local turn2_incidents={
-    --wh_main_nor_bjornling="rhox_bjornling_turn_two_incident"
+    mixer_nor_geimdall_huscarls="rhox_geimdall_turn_two_incident"
 }
 cm:add_first_tick_callback(
 	function()

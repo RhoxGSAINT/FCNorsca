@@ -41,4 +41,4 @@ packlord_hunter_reward_olr			character	1	mannslieb_full_moon.png	false	false	tru
 wh_mod_lord_trait_nor_naglfarings			faction	1	effect_bundle_huern.png	true	false	true
 wolftribe_payload_scm_norsca_asta_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
 wolftribe_payload_alfkael_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
-rhox_bjornling_bundle_ksl_followers_5	You have loyalists in all places of influence and power – the devotion of Kislev's people is yours.	Loyalist Supremacy (600)	faction	1	kislev_acolyte.png	true	false	true
+rhox_geimdall_bundle_ksl_followers_5	You have loyalists in all places of influence and power – the devotion of Kislev's people is yours.	Loyalist Supremacy (600)	faction	1	kislev_acolyte.png	true	false	true

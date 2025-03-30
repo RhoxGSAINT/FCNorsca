@@ -1,3 +1,10 @@
+2025/Mar/30 SCM 
+- Removed Fimir RoR from Geimdall
+- Added some UI script for them too
+- Moved Kislev supporter things to Geimdall too
+- Moved Hidr mission to Geimdall
+- Moved turn 2 incident to Geimdall too
+
 2025/Mar/26 SCM 
 - Now turn 2 incident for Bjornling doesn't fire (as it talks about the civil war)
 - Now Bjornling doesn't have access to 4 techs that upgraded Kislev god offering

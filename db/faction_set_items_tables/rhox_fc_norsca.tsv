@@ -20,7 +20,7 @@ id	culture	faction	remove	set	subculture
 1819575207		wh_main_nor_sarl	false	mixer_confederate_dilemma_no_execute	
 1819575208		wh_main_nor_varg	false	mixer_confederate_dilemma_no_execute	
 1819575209		mixer_nor_fjordlings	false	mixer_confederate_dilemma_no_execute	
-1819575213		mixer_nor_geimdall_huscarls	false	mixer_confederate_dilemma_no_execute	
 1819575210		wh3_dlc20_nor_yusak	false	mixer_confederate_dilemma_no_execute	
 1819575211		wh_main_nor_skaeling	false	mixer_confederate_dilemma_no_execute	
 1819575212		wh_dlc08_nor_naglfarlings	false	mixer_confederate_dilemma_no_execute	
+1819575213		mixer_nor_geimdall_huscarls	false	mixer_confederate_dilemma_no_execute	

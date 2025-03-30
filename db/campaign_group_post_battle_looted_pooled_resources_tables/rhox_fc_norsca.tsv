@@ -1,5 +1,5 @@
 campaign_group	resource_factor	base_multiplier	exponent	exponent_multiplier	maximum	minimum	base_amount	scope
 #campaign_group_post_battle_looted_pooled_resources_tables;0;db/campaign_group_post_battle_looted_pooled_resources_tables/rhox_fc_norsca								
-rhox_bjornling_devotion_group	wh3_main_ksl_devotion_factor_fighting_chaos	0.0005	0.0100	5.0000	300	0	0	FACTION
+rhox_geimdall_devotion_group	wh3_main_ksl_devotion_factor_fighting_chaos	0.0005	0.0100	5.0000	300	0	0	FACTION
 rhox_bjornling_follower_group	wh3_main_ksl_followers_factor_fighting_kislev	-1.0000	1.0000	-1.0000	0	-2	0	FACTION
 rhox_sarg_feature	wh3_main_sla_devotees_factor_captives	0.1000	0.5000	0.2000	750	0	0	FACTION
