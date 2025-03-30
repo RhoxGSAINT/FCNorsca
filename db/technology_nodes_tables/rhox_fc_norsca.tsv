@@ -1,9 +1,9 @@
 key	campaign_key	faction_key	indent	technology_key	technology_node_set	tier	research_points_required	cost_per_round	food_cost	optional_ui_group	resource_cost	required_parents	pixel_offset_x	pixel_offset_y
 #technology_nodes_tables;0;db/technology_nodes_tables/rhox_fc_norsca														
-rhox_bjornling_ritual_1		wh2_dlc09_tmb_tombking_qb1	9	rhox_bjornling_ritual_1	nor_mil	0	800	0	0			0	0	0
-rhox_bjornling_ritual_2		wh2_dlc09_tmb_tombking_qb1	9	rhox_bjornling_ritual_2	nor_mil	1	800	0	0			0	0	0
-rhox_bjornling_ritual_3		wh2_dlc09_tmb_tombking_qb1	9	rhox_bjornling_ritual_3	nor_mil	2	800	0	0			0	0	0
-rhox_bjornling_ritual_4		wh2_dlc09_tmb_tombking_qb1	9	rhox_bjornling_ritual_4	nor_mil	3	800	0	0			0	0	0
+rhox_bjornling_ritual_1		wh_main_nor_bjornling	9	rhox_bjornling_ritual_1	nor_mil	0	800	0	0			0	0	0
+rhox_bjornling_ritual_2		wh_main_nor_bjornling	9	rhox_bjornling_ritual_2	nor_mil	1	800	0	0			0	0	0
+rhox_bjornling_ritual_3		wh_main_nor_bjornling	9	rhox_bjornling_ritual_3	nor_mil	2	800	0	0			0	0	0
+rhox_bjornling_ritual_4		wh_main_nor_bjornling	9	rhox_bjornling_ritual_4	nor_mil	3	800	0	0			0	0	0
 rhox_sayl_kho_1		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_1	nor_mil	0	1	0	0		rhox_sayl_kho	0	0	-50
 rhox_sayl_kho_2		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_2	nor_mil	1	1	0	0		rhox_sayl_kho	0	0	-50
 rhox_sayl_kho_3		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_3	nor_mil	2	1	0	0		rhox_sayl_kho	0	0	-50
