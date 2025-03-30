@@ -2,3 +2,5 @@ faction	vehicle
 #battle_siege_vehicle_permissions_tables;0;db/battle_siege_vehicle_permissions_tables/scm_norsca	
 mixer_nor_fjordlings	nor_battering_ram
 mixer_nor_fjordlings	nor_siege_tower_15m
+mixer_nor_geimdall_huscarls	nor_battering_ram
+mixer_nor_geimdall_huscarls	nor_siege_tower_15m

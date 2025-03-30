@@ -133,7 +133,7 @@ effects_description_rhox_bjornling_fish_catching	Fish: %+n per turn	false
 effect_bundles_localised_description_hkrul_vandred_faction_trait		false
 effect_bundles_localised_title_hkrul_vandred_faction_trait		false
 effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Fishing stance replaces Full Speed stance whilst at sea, captured fish can be bartered in trades[[/col]]	false
-effects_description_rhox_bjornling_no_raze_feature_dummy	Bjornlings worship the Gods of men and thus can't pledge full allegiance to a Chaos God	false
+effects_description_rhox_bjornling_no_raze_feature_dummy	Bjornlings worship both the gods of men and Chaos, and thus can't pledge full allegiance to a Chaos god.	false
 effects_description_rhox_ulfric_item_chance_dummy	Chance to find ancillaries in hauled up fishing nets: %+n%	false
 ancillaries_explanation_text_hkrul_norsca_fish_01	Drenched up whilst Fishing	false
 ancillaries_explanation_text_hkrul_norsca_fish_02	Drenched up whilst Fishing	false
@@ -255,3 +255,8 @@ ancillaries_colour_text_hkrul_norsca_fish_17	A writhing, yellow-skinned monstros
 ancillaries_colour_text_hkrul_norsca_fish_18	This massive, barnacle-encrusted horn, eerily shaped like the fossilized remains of some ancient sea beast, was dredged up from the depths. When blown, it unleashes a deep, reverberating war cry that stirs the blood of warriors and sends shivers through those who hear it.	false
 ancillaries_colour_text_hkrul_norsca_fish_19	A deep-sea fish that radiates an eerie blue glow in the dark waters. Sailors claim it lures ships into treacherous reefs with its ghostly light.	false
 ancillaries_colour_text_hkrul_norsca_fish_20	A monstrous fish with a wide, blunted head like a warhammer, used to batter prey and even small boats. Legends claim it was once the war-beast of a fallen sea god, doomed to wander the depths in eternal rage.	false
+effect_bundles_localised_description_hkrul_geimdall_faction_trait	Geimdall, the right hand of High King Ulfric Grondal, is both warlord and spiritual guide to the Bjornling huscarls. His loyalty to Ulfric is unshakable, his axe ever at the king’s command. A veteran of countless raids, he dreams not of mere plunder but conquest—his eyes set upon Bretonnia, where he vows to bring low the chivalric lords and raise the Bjornling banners over their stone keeps.	false
+effect_bundles_localised_title_hkrul_geimdall_faction_trait	The King's Huscarl	false
+effect_bundles_localised_description_hkrul_yngve_faction_trait	Placeholder	false
+effect_bundles_localised_title_hkrul_yngve_faction_trait	The Sightless Seer	false
+culture_settlement_occupation_options_tooltip_957887883	Raze||All buildings are destroyed and the settlement is torched. The previous owners will like you a lot less.	false

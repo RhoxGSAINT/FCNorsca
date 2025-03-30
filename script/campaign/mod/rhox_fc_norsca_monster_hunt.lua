@@ -360,6 +360,7 @@ cm:add_first_tick_callback_new(
             monster_hunts["wh_main_nor_sarl"]=rhox_fc_norsca_nor_monster_hunts
             monster_hunts["wh_main_nor_varg"]=rhox_fc_norsca_nor_monster_hunts
             monster_hunts["mixer_nor_fjordlings"]=rhox_fc_norsca_nor_monster_hunts
+            monster_hunts["mixer_nor_geimdall_huscarls"]=rhox_fc_norsca_nor_monster_hunts
             monster_hunts["wh_dlc08_nor_naglfarlings"]=rhox_fc_norsca_nor_monster_hunts
             monster_hunts["mixer_nor_beorg"]=rhox_fc_norsca_nor_monster_hunts
             monster_hunts["wh3_dlc20_nor_yusak"]=rhox_fc_norsca_far_east_monster_hunts--they're too far at east
@@ -396,6 +397,7 @@ local rhox_fc_norsca_monster_hunt_factions={
         wh_main_nor_sarl=true,
         wh_main_nor_varg=true,
         mixer_nor_fjordlings=true,
+        mixer_nor_geimdall_huscarls=true,
         wh_dlc08_nor_naglfarlings=true,
         mixer_nor_beorg=true,
         wh3_dlc20_nor_yusak=true,
