@@ -650,7 +650,7 @@ cm:add_first_tick_callback_new(
 )
 
 local turn2_incidents={
-    wh_main_nor_bjornling="rhox_bjornling_turn_two_incident"
+    --wh_main_nor_bjornling="rhox_bjornling_turn_two_incident"
 }
 cm:add_first_tick_callback(
 	function()
