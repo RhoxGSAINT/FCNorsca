@@ -1,3 +1,4 @@
 faction_key	variant_name
 #climbing_ladders_meshes_definitions_tables;0;db/climbing_ladders_meshes_definitions_tables/scm_norsca	
 mixer_nor_fjordlings	wh_main_glb_siege_ladder_02
+mixer_nor_geimdall_huscarls	wh_main_glb_siege_ladder_02

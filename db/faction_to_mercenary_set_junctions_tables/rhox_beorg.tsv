@@ -2,3 +2,4 @@ faction	mercenary_set
 #faction_to_mercenary_set_junctions_tables;0;db/faction_to_mercenary_set_junctions_tables/rhox_beorg	
 mixer_nor_beorg	wh_dlc08_nor_units_of_renown_pool
 mixer_nor_beorg	rhox_beorg_bears
+mixer_nor_geimdall_huscarls	wh_dlc08_nor_units_of_renown_pool

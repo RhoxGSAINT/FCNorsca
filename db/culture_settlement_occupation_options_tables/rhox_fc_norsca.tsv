@@ -2,3 +2,4 @@ id	settlement_option	captive_option_outcome	settlement_type	acting_army_faction_
 #culture_settlement_occupation_options_tables;5;db/culture_settlement_occupation_options_tables/rhox_fc_norsca																										
 957887881	occupation_decision_colonise	none			0		0	rhox_aesling_colonise_group	wh3_main_bundle_vulnerable_colonize	1		occupy_khorne	0.0000	1.0000	rhox_aesling_resource_cost_kho_occupy_settlement	true	-1	true	rhox_aesling_resource_cost_kho_occupy_settlement	0.0000						0.0000
 957887882	occupation_decision_raze_without_occupy	none			0		0	rhox_bjornling_occupation_group		0		raze	100.0000	0.2000		false	-1	true		0.0000						0.0000
+957887883	occupation_decision_raze_without_occupy	none			0		0	hkrul_geimdall_occupation_group		0		raze	100.0000	0.2000		false	-1	true		0.0000						0.0000

@@ -1,3 +1,4 @@
 faction	unit	general_portrait	general_uniform
 #unit_general_details_tables;0;db/unit_general_details_tables/rhox_beorg			
 mixer_nor_beorg	hkrul_beorg_bear	ui/portraits/portholes/no_culture/hkrul_beorg_bear.png	
+mixer_nor_geimdall_huscarls	hkrul_geimdall	ui/portraits/portholes/no_culture/hkrul_geimdall.png	

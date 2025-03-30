@@ -12,3 +12,5 @@ hkrul_hakka_faction_trait			faction	1	effect_bundle_aesling.png	true	false	true
 hkrul_ek_faction_trait			faction	1	effect_bundle_varg.png	true	false	true
 hkrul_sarg_faction_trait			faction	1	effect_bundle_yusak.png	true	false	true
 hkrul_vandred_faction_trait			faction	1		true	false	true
+hkrul_geimdall_faction_trait			faction	1	effect_bundle_geimdall.png	true	false	true
+hkrul_yngve_faction_trait			faction	1	effect_bundle_yngve.png	true	false	true

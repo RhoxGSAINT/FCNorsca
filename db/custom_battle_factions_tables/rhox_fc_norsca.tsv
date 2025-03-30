@@ -1,3 +1,4 @@
 faction_key	sort_order	culture_sort_order
 #custom_battle_factions_tables;1;db/custom_battle_factions_tables/rhox_fc_norsca		
 mixer_nor_fjordlings	300	210
+mixer_nor_geimdall_huscarls	301	210

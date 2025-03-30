@@ -52,6 +52,11 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own",
 		value="2",
 	},
+    hkrul_geimdall={
+		effect="wh_main_effect_force_stat_armour",
+		scope="character_to_force_own",
+		value="2",
+	},
 	hkrul_sarg={
 		effect="wh_main_effect_force_stat_speed",
 		scope="character_to_force_own",
