@@ -1,4 +1,27 @@
-2025/Mar/30 SCM 
+2025/APR/SCM
+- Fixed an issue where Hakka the Aesling had the wrong mount mentioned
+- Increased size of Hakka the Aesling on the campaign map when mounted
+- Added missing campaign anim for mounted Mortensen
+- Added Alfskael the Bloodseer to Hakka's TOW Start
+- Increased Growth Alfskael deilvers from his unique skills to 20
+- Fixed certain intensity settings filling up too quickly
+- Changed Geimdall's confederation bonus from armour to melee defence to prevent overlap with Akkorak
+- Changed Ulfric's confederation bonus from melee defence to income from trade tariffs
+- Slightly nerfed Einarr's WS, nerfed MA when on foot and buffed LD when mounted
+- Fixed several loc typo's
+- Fixed a bug where the portholes of Quest Battle enemies where missing a correct link for quest battle set pieces 
+- New monsterhunt for Birna, removed bonus to World Walkers from faction bundle. 
+- New Narrative for Einarr
+- Ulfric confed bonus to port income
+- Increaded Thorgar confed to 5%
+- Slight buff to Birna HP and MA
+- Moved campaign specific heroes to the campaign exlusive section of custom battle to follow the norscan heroes gained as campaign rewards format
+- Created unique VFX and a CSC for Einarr's Steelfist ability
+
+
+
+
+- 2025/Mar/30 SCM 
 - Removed Fimir RoR from Geimdall
 - Added some UI script for them too
 - Moved Kislev supporter things to Geimdall too

@@ -1,0 +1,8 @@
+key	primary_melee_weapon	primary_missile_weapon
+#battle_entity_stats_tables;2;db/battle_entity_stats_tables/!dead_scm_longships		
+wh_nor_javelin_longship		wh_nor_javelin_longship
+wh_nor_throwing_axe_longship		wh_nor_throwing_axe_longship
+mod_sarl_birna_longship		hkrul_birna
+mod_sarl_hunter_longship		hkrul_sarl_hunters_longship
+scm_nor_javelin_longship		scm_nor_javelin_longship
+scm_nor_throwing_axe_longship		scm_nor_throwing_axe_longship

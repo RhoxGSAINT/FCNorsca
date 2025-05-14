@@ -1,0 +1,24 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/hkrul_nor_surp	
+hide_forest	hkrul_olg
+charge_defense	hkrul_olg
+hide_forest	hkrul_tuula
+charge_defense	hkrul_tuula
+causes_fear	hkrul_haftagg
+encourages	hkrul_haftagg
+guerrilla_deploy	hkrul_haftagg
+hide_forest	hkrul_haftagg
+strider	hkrul_haftagg
+hide_forest	hkrul_olaf
+charge_defense	hkrul_olaf
+mark_khorne	hkrul_olaf
+mark_khorne	hkrul_tuula
+causes_fear	hkrul_olaf_mammoth
+causes_terror	hkrul_olaf_mammoth
+encourages	hkrul_olaf_mammoth
+mark_khorne	hkrul_olaf_mammoth
+hide_forest	hkrul_usta
+encourages	hkrul_usta
+hide_forest	hkrul_kammler
+encourages	hkrul_kammler
+mark_tzeentch	hkrul_kammler

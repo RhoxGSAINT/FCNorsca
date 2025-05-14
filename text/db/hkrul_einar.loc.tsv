@@ -90,44 +90,60 @@ missions_localised_description_rhox_fc_norsca_asta_hint	In the frigid expanse of
 effects_description_hkrul_einar_bear	Mount: Bregða	false
 effects_description_rhox_fc_norsca_asta_dummy	A mission is triggered to unlock a Legendary Hero	false
 effects_description_rhox_baesonling_block_teleport_hidden	HIDDEN Blocks teleport stance	false
-incidents_button_text_rhox_baersonling_chain_1	incidents_button_text_rhox_baersonling_chain_1	false
-incidents_localised_description_rhox_baersonling_chain_1	incidents_localised_description_rhox_baersonling_chain_1	false
-incidents_localised_title_rhox_baersonling_chain_1	incidents_localised_title_rhox_baersonling_chain_1	false
-incidents_button_text_rhox_baersonling_chain_3	incidents_button_text_rhox_baersonling_chain_3	false
-incidents_localised_description_rhox_baersonling_chain_3	incidents_localised_description_rhox_baersonling_chain_3	false
-incidents_localised_title_rhox_baersonling_chain_3	incidents_localised_title_rhox_baersonling_chain_3	false
-incidents_button_text_rhox_baersonling_chain_4	incidents_button_text_rhox_baersonling_chain_4	false
-incidents_localised_description_rhox_baersonling_chain_4	incidents_localised_description_rhox_baersonling_chain_4	false
-incidents_localised_title_rhox_baersonling_chain_4	incidents_localised_title_rhox_baersonling_chain_4	false
-incidents_button_text_rhox_baersonling_chain_5	incidents_button_text_rhox_baersonling_chain_5	false
-incidents_localised_description_rhox_baersonling_chain_5	incidents_localised_description_rhox_baersonling_chain_5	false
-incidents_localised_title_rhox_baersonling_chain_5	incidents_localised_title_rhox_baersonling_chain_5	false
-incidents_button_text_rhox_baersonling_chain_6	incidents_button_text_rhox_baersonling_chain_6	false
-incidents_localised_description_rhox_baersonling_chain_6	incidents_localised_description_rhox_baersonling_chain_6	false
-incidents_localised_title_rhox_baersonling_chain_6	incidents_localised_title_rhox_baersonling_chain_6	false
-incidents_button_text_rhox_baersonling_chain_7	incidents_button_text_rhox_baersonling_chain_7	false
-incidents_localised_description_rhox_baersonling_chain_7	incidents_localised_description_rhox_baersonling_chain_7	false
-incidents_localised_title_rhox_baersonling_chain_7	incidents_localised_title_rhox_baersonling_chain_7	false
+incidents_button_text_rhox_baersonling_chain_1	Heed the Words	false
+incidents_localised_description_rhox_baersonling_chain_1	A raven speaks in your dream, perched upon a shadowed cairn. Its words are soft but carry power: "All can be as it once was." You awaken with those words carved into your thoughts, their truth echoing louder than your doubts.	false
+incidents_localised_title_rhox_baersonling_chain_1	The Raven’s Whisper	false
+incidents_button_text_rhox_baersonling_chain_3	The Wolf	false
+incidents_button_text_rhox_baersonling_chain_3b	The Witch	false
+incidents_localised_description_rhox_baersonling_chain_3	Einarr kneels where Asta died, the ruins silent around him. The raven returns—and this time, it reveals its true form. It is no mere bird, but the Raven God himself: Tzeentch. He offers a pact: reclaim an artifact stolen by Nurgle, and time itself shall be turned back. Asta, Vinnskor, all may be restored. But no path is free of cost. To reach the Palace of Nurgle, Einarr must gather strength. He must choose his allies—will it be the witch or the wolf?	false
+incidents_localised_title_rhox_baersonling_chain_3	Pact at the Grave	false
+incidents_button_text_rhox_baersonling_chain_4	Begin the Crossing	false
+incidents_localised_description_rhox_baersonling_chain_4	Tzeentch commands it: cross the Frozen Sea, leave behind what was once familiar. In the Chaos Wastes, Einarr must forge new alliances, break old oaths, and face horrors not born of man. And as the miles pass, so too does the clarity of thought—he begins to forget his own name.	false
+incidents_localised_title_rhox_baersonling_chain_4	The Icy Crossing	false
+incidents_button_text_rhox_baersonling_chain_5	The Berserker	false
+incidents_button_text_rhox_baersonling_chain_5b	The Cultist	false
+incidents_localised_description_rhox_baersonling_chain_5	Two armies clash in the mist: one a host of shimmering sorcery, the other of iron and rage. Scouts whisper that both armies seek to slay Bubos, the dragon that guards the gate to the Palace of Nurgle. Surely, should Einarr aid one, they would reveal its location. Tzeentch urges a decision. There is no neutrality in the Wastes. Will you side with the cultist or the warrior?	false
+incidents_localised_title_rhox_baersonling_chain_5	The Two Hosts	false
+incidents_button_text_rhox_baersonling_chain_6	Advance to the Palace	false
+incidents_localised_description_rhox_baersonling_chain_6	The air thickens with decay. Bubos lies dead, and the gates of the Plague God's domain rise ahead. But something stirs within you, a presence clawing up through your spine. You no longer know if the thoughts in your mind are your own. The Wastes do not forget, nor do they forgive. You march as a man twisted by prophecy.	false
+incidents_localised_title_rhox_baersonling_chain_6	The Final Threshold	false
+incidents_button_text_rhox_baersonling_chain_7	Lead the Charge	false
+incidents_localised_description_rhox_baersonling_chain_7	Madness has taken you, and yet your hand is steady. The Palace of Nurgle must fall. The warband marches behind a broken man with fire in his eyes. Skoroth, Lord of the Palace, awaits within. The final door creaks open on hinges of rot and bone. Einarr’s destiny is no longer his own.	false
+incidents_localised_title_rhox_baersonling_chain_7	The Siege of Filth	false
 campaign_payload_ui_details_description_rhox_baersonling_your_journey_continues	Your journey continues	false
-missions_localised_title_rhox_baersonling_chain_1	missions_localised_title_rhox_baersonling_chain_1	false
-missions_localised_description_rhox_baersonling_chain_1	missions_localised_description_rhox_baersonling_chain_1	false
-missions_localised_title_rhox_baersonling_chain_2	missions_localised_title_rhox_baersonling_chain_2	false
-missions_localised_description_rhox_baersonling_chain_2	missions_localised_description_rhox_baersonling_chain_2	false
-missions_localised_title_rhox_baersonling_chain_3	missions_localised_title_rhox_baersonling_chain_3	false
-missions_localised_description_rhox_baersonling_chain_3	missions_localised_description_rhox_baersonling_chain_3	false
-missions_localised_title_rhox_baersonling_chain_4	missions_localised_title_rhox_baersonling_chain_4	false
-missions_localised_description_rhox_baersonling_chain_4	missions_localised_description_rhox_baersonling_chain_4	false
-missions_localised_title_rhox_baersonling_chain_5	missions_localised_title_rhox_baersonling_chain_5	false
-missions_localised_description_rhox_baersonling_chain_5	missions_localised_description_rhox_baersonling_chain_5	false
-missions_localised_title_rhox_baersonling_chain_6	missions_localised_title_rhox_baersonling_chain_6	false
-missions_localised_description_rhox_baersonling_chain_6	missions_localised_description_rhox_baersonling_chain_6	false
-missions_localised_title_rhox_baersonling_chain_7	missions_localised_title_rhox_baersonling_chain_7	false
-missions_localised_description_rhox_baersonling_chain_7	missions_localised_description_rhox_baersonling_chain_7	false
-missions_localised_title_rhox_baersonling_chain_8	missions_localised_title_rhox_baersonling_chain_8	false
-missions_localised_description_rhox_baersonling_chain_8	missions_localised_description_rhox_baersonling_chain_8	false
+missions_localised_title_rhox_baersonling_chain_1	Palace of the Plaguelord: The Aesling Raid	false
+missions_localised_description_rhox_baersonling_chain_1	Relive the Aesling onslaught in your dreams. The rage it brings may yet be shaped into purpose.In flame and blood, the seeds of vengeance are sown.	false
+missions_localised_title_rhox_baersonling_chain_2	Palace of the Plaguelord: Whispers of Faith	false
+missions_localised_description_rhox_baersonling_chain_2	Reach rank 5 to begin forging the strength needed to shape your fate and challenge the will of the gods. A leader’s worth is not born but carved in the fires of battle.	false
+missions_localised_title_rhox_baersonling_chain_3	Palace of the Plaguelord: Ashes of Vinnskor	false
+missions_localised_description_rhox_baersonling_chain_3	Take back the remains of Vinnskor and restore a foothold for your scattered people. Begin rebuilding the future from ash and memory. From shattered stones, the Baerson legacy will rise anew	false
+missions_localised_title_rhox_baersonling_chain_4	Palace of the Plaguelord: The Witch or The Wolf	false
+missions_localised_description_rhox_baersonling_chain_4b	The wild path calls. Recruit two Werekin heroes to lead your fury across the blighted North. Let tooth and claw be your guide through the dark woods ahead.	false
+missions_localised_description_rhox_baersonling_chain_4	Winds of sorcery stir. Recruit two Shaman Sorcerers to guide you through Tzeentch’s twisting schemes. The skein of fate is tangled—only the witches may know how to pull the right thread.	false
+missions_localised_title_rhox_baersonling_chain_5	Palace of the Plaguelord: The Icy Crossing	false
+missions_localised_description_rhox_baersonling_chain_5	Raid the Monolith of Bubonicus, defiling Nurgle’s claim and staking your place in the Wastes.Let your warband's banner be planted in blight, not bowed before it.	false
+missions_localised_title_rhox_baersonling_chain_6	Palace of the Plaguelord: The Rotborn Gatekeeper	false
+missions_localised_description_rhox_baersonling_chain_6	Defeat Bubos the Plague-Dragon who guards the Lake of Rot. The path to the Plaguelord’s Palace lies beyond. One winged beast blocks your path—tear it from the sky.	false
+missions_localised_title_rhox_baersonling_chain_7	Palace of the Plaguelord: The Final Push	false
+missions_localised_description_rhox_baersonling_chain_7	Destroy the Tallymen of Pestilence, the Maggot Host, and the Maggoth Kin. Break their hold on the Wastes.Leave no spawn of rot to fester in your wake.	false
+missions_localised_title_rhox_baersonling_chain_8	Palace of the Plaguelord: The Palace of Rot	false
+missions_localised_description_rhox_baersonling_chain_8	Defeat Skoroth and burn his Palace down. Tear down the gates and claim what was promised by the raven.Let the foul crown fall beneath the heel of vengeance.	false
 campaign_localised_strings_string_hkrul_norsca_ymir_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Baersonling Tribe or have Einarr Sigdansson in your faction[[/col]]	false
 land_units_onscreen_name_hkrul_norsca_ymir_ror	Orgrim's Scourge	false
 unit_description_historical_texts_text_hkrul_norsca_ymir_ror	Deemed ''The Grandfather of all the Ymir" by Einarr Sigdansson, who faught this gigantic beast for two days on end before forcing it down to it's knees.	false
 unit_description_short_texts_text_hkrul_norsca_ymir_ror	Deemed ''The Grandfather of all the Ymir" by Einarr Sigdansson, who faught this gigantic beast for two days on end before forcing it down to it's knees.	false
 unit_abilities_onscreen_name_hkrul_ulfric_ymir_ror	Stalker of Naglfari	false
 unit_abilities_tooltip_text_hkrul_ulfric_ymir_ror	Unlike most Ymir, this gigantic beast bears the clear taint of chaos. During a snowstorm it once killed over fifty Aesling whilst remaining unseen	false
+effects_description_hkrul_einar_feature_dummy	Follow Einarr on his narrative driven journey as Tzeentch sends him to the gates of Nurgle's palace	false
+incidents_button_text_rhox_baersonling_chain_2	Begin the journey north!	false
+incidents_localised_description_rhox_baersonling_chain_2	Far from the shattered halls of Vinnskor, Einarr Sigdansson dreams of a black-winged messenger. The raven speaks of oaths unbroken and bloodlines yet unextinguished - "Return to Vinnskor," it cries, "for what was lost may yet be taken back."-  Driven by vision and vengeance, Einarr knows his destiny lies not in wandering foreign shores, but in leading the Baersonlings home—to reclaim their honour and their land by axe and fire.	false
+incidents_localised_title_rhox_baersonling_chain_2	The Raven’s Dream	false
+incidents_button_text_rhox_baersonling_chain_8	Keep the Festerheart	false
+incidents_button_text_rhox_baersonling_chain_8b	Accept the bargain	false
+incidents_localised_description_rhox_baersonling_chain_8	Skoroth is dead. The raven speaks again—but now in a voice like cracking ice. It is no longer Tzeentch, but Yth’nitzzilik, daemon of deceit. You were never dealing with a god. The pact was a lie, the promise a poison. But the Festerheart lies in your hands, pulsing. Asta... could yet return. You feel betrayed, tricked—and yet, what choice remains?	false
+incidents_localised_title_rhox_baersonling_chain_8	Choose Your Fate	false
+incidents_button_text_rhox_baersonling_chain_0	Awaken From the Nightmare	false
+incidents_localised_description_rhox_baersonling_chain_0	You have fled with your people into exile, the Baersonlings broken and scattered. Vinnskor, your homeland, was lost to an Aesling raid of brutal fury. Now, in restless sleep, the gods mock your powerlessness—you are made to relive the attack again and again. Blood, fire, and the scream that ended your world echo endlessly. Your wife falls each time. You never reach her in time.	false
+incidents_localised_title_rhox_baersonling_chain_0	The Dream of Vinnskor	false
+ancillaries_colour_text_hkrul_bubos_eye	This sickly, jaundiced orb was hacked from the skull of Bubos, the Dragon of the Lakes of Rot. Though long dead, the eye still weeps pus and stares unblinking into realms unseen. Those who bear it feel a slow pulse of festering power, as if the eye is ever searching, ever watching — draining the life of nearby foes with its lingering, necrotic glare.	false
+ancillaries_onscreen_name_hkrul_bubos_eye	Eye of Bubos	false

@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_orgrim_.loc		
+character_skills_localised_name_innate_hkrul_orgrim	Born of Tooth and Snow	true
+character_skills_localised_description_innate_hkrul_orgrim	"The North remembers those who survive its bite."	true
+character_skills_localised_name_hkrul_orgrim_special_1_0	Kin-Slayer’s Mark	true
+character_skills_localised_name_hkrul_orgrim_special_1_1	Last Howl of Vinnskor	true
+character_skills_localised_name_hkrul_orgrim_special_1_2	Alone with the Kill	true
+character_skills_localised_name_hkrul_orgrim_special_1_3	The Grey Curse	true
+character_skills_localised_name_hkrul_orgrim_special_1_4	Exile’s Hunger	true
+character_skills_localised_name_hkrul_orgrim_special_1_5	Wolf of the Wind	true
+character_skills_localised_name_hkrul_orgrim_special_1_6	The Hunter’s Share	true
+character_skills_localised_description_hkrul_orgrim_special_1_0	He knows the scent of every tribe in Norsca. Increases movement speed when raiding or pursuing enemy armies.	true
+character_skills_localised_description_hkrul_orgrim_special_1_1	A rage-fuelled ability that boosts Orgrim’s melee stats drastically when surrounded or outnumbered.	true
+character_skills_localised_description_hkrul_orgrim_special_1_2	Orgrim thrives when isolated from allies. Gains physical resistance and increased weapon strength when unsupported.	true
+character_skills_localised_description_hkrul_orgrim_special_1_3	He tracks the blood of traitors across snow, steel, and time.	true
+character_skills_localised_description_hkrul_orgrim_special_1_4	Wolf in skin and soul, Orgrim hunts those he once called kin.	true
+character_skills_localised_description_hkrul_orgrim_special_1_5	Flesh of wolf, fury of man – Orgrim is vengeance with fangs.	true
+character_skills_localised_description_hkrul_orgrim_special_1_6	He tracks the blood of traitors across snow, steel, and time.	true
+agent_subtypes_onscreen_name_override_hkrul_orgrim	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_orgrim	His scent carries the promise of death; Orgrim always finds his prey.	false
+unit_description_short_texts_text_hkrul_orgrim	His scent carries the promise of death; Orgrim always finds his prey.	false
+unit_description_historical_texts_text_hkrul_orgrim	Once a member of the dreaded Aesling tribe, Orgrim was cast out for a crime none dare speak aloud — a betrayal so bitter it turned blood against blood. He did not die in exile. He became something worse. Through frost and madness, Orgrim’s soul twisted with the hunger of the wolf. Now a werekin, he walks the snow as both man and beast, tracking the scent of his former kin across the north. His fangs find the throat of every Aesling he hunts. For Einarr Sigdansson, he is a loyal companion. For the Aeslings, he is the nightmare behind every blizzard howl.	false
+names_name_2610712831	Orgrim	false
+names_name_2610712830	the Wanderer	false
+land_units_onscreen_name_hkrul_orgrim	Orgrim the Wanderer	true
+effects_description_hkrul_orgrim_shield	Passive Ability: "The Pale One"	false
+unit_abilities_tooltip_text_hkrul_orgrim_shield	The beast does not sleep. He watches. He waits.	true
+unit_abilities_onscreen_name_hkrul_orgrim_shield	The Pale One	true
+effects_description_hkrul_orgrim_axe	Ability: "Greyblood’s Mark"	false
+unit_abilities_tooltip_text_hkrul_orgrim_axe	Even in defeat, the ghost of the hunt stalks your shadow.	true
+unit_abilities_onscreen_name_hkrul_orgrim_axe	Greyblood’s Mark	true
+effects_description_hkrul_orgrim_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false

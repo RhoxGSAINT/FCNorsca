@@ -1,0 +1,62 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_norsca_quest_battle_einar.loc		
+scripted_objectives_localised_text_hkrul_baerson_einar_bubos_cygors	"Steel your hearts, Baersonlings! Today we carve a path through rot and ruin! For our dead, for our home—tear the beast from the sky!"	false
+scripted_objectives_localised_text_hkrul_baerson_einar_bubos_main_objective	Defeat Bubos to reveal the location of Nurgle's Palace.	false
+scripted_objectives_localised_text_hkrul_baerson_einar_bubos_start_battle	Bring down Bubos the Vile!	false
+battle_set_pieces_localised_description_hkrul_baerson_einar_bubos	At the edge of the Lake of Rot, Einarr Sigdansson faces his greatest trial. Bubos, Nurgle’s ancient wyrm, rises from the tainted waters to block the path to the Palace of Plagues. Its breath rots steel, its wings spread corruption, and its bloated body bears the weight of a thousand dying worlds. To reach the heart of Nurgle’s domain and claim the artifact promised by Tzeentch, Einarr must bring down the foul beast. Victory or death—there is no other fate upon these poisoned shores.	false
+battle_set_pieces_localised_name_hkrul_baerson_einar_bubos	The Lake of Rot	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_bubos_enemy_beastmen_main	Bubos the Vile	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_bubos_enemy_beastmen_reserve	Nurgle Swarm	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_bubos_player	Baersonling Tribe	false
+loading_screen_quotes_description_hkrul_baerson_einar_bubos_player	Through blood, ice, and madness, Einarr Sigdansson has carved a path deep into the Wastes, his people hardened by horrors beyond mortal reckoning. Now, before the rotted gates of Nurgle’s Palace, a final guardian rises — Bubos, the festering wyrm of the Lake of Rot. It is no mortal beast that blocks the way, but a creature bloated on plague and blasphemy, ancient and monstrous. Its wings drip with corruption; its breath withers flesh and steel alike. There can be no retreat, no second chance. Slay the dragon, or perish in the filth of a false god’s domain. The Palace lies beyond... but so does the final test of will, faith, and vengeance.	false
+loading_screen_quotes_title_hkrul_baerson_einar_bubos_player	The Lake of Rot	false
+missions_localised_description_hkrul_baerson_einar_bubos_battle	At the threshold of Nurgle’s Palace, Einarr faces Bubos, the Lake of Rot’s foul guardian. To reach the artifact and fulfill his bargain, he must slay the beast born of filth and corruption.	false
+missions_localised_title_hkrul_baerson_einar_bubos_battle	The Lake of Rot	false
+missions_localised_mission_completed_text_hkrul_baerson_einar_bubos_battle		false
+scripted_objectives_localised_description_hkrul_baerson_einar_bubos_cygors		false
+scripted_objectives_localised_description_hkrul_baerson_einar_bubos_main_objective		false
+scripted_objectives_localised_description_hkrul_baerson_einar_bubos_start_battle		false
+land_units_onscreen_name_hkrul_bubos_boss	Bubos the Vile	false
+unit_description_short_texts_text_hkrul_bubos_boss	Bubos, the festering wyrm of Nurgle, is a rotting, plague-swollen dragon whose breath spreads decay across the battlefield.	false
+unit_description_historical_texts_text_hkrul_bubos_boss	Bubos is an ancient, plague-ridden dragon, swollen with Nurgle’s blessings and reeking of death. His foul breath carries diseases that can rot an army before a blade is drawn, and his very flesh weeps corruption.	false
+names_name_3110711834	Bubos	false
+names_name_3110711833	the Vile	false
+land_units_onscreen_name_hkrul_baerson_inf_marauder_champions_0	Baersonling Champions	false
+land_units_onscreen_name_hkrul_baerson_inf_marauder_champions_1	Baersonling Champions (Great Weapons)	false
+land_units_onscreen_name_hkrul_baerson_inf_marauder_hunters_1	Baersonling Hunters (Javelins)	false
+land_units_onscreen_name_hkrul_baerson_inf_marauder_hunters_0	Baersonling Hunters (Throwing Axes)	false
+land_units_onscreen_name_hkrul_baerson_inf_marauder_spearman_0	Baersonling Spearmen	false
+land_units_onscreen_name_hkrul_baerson_inf_chaos_marauders_0	Baersonling Marauders	false
+land_units_onscreen_name_hkrul_baerson_inf_chaos_marauders_1	Baersonling Marauders (Great Weapons)	false
+unit_abilities_onscreen_name_hkrul_bubos_breath	Fumes of the Festering Depths	false
+unit_abilities_tooltip_text_hkrul_bubos_breath	Bubos's rotting exhalation dredged from the lakebed, thick with plague and despair.	false
+unit_abilities_onscreen_name_hkrul_bubos_eye	Gaze of Bubos the Vile	false
+unit_abilities_tooltip_text_hkrul_bubos_eye	Within the gaze of Bubos, wounds fester, breath shortens, and death crawls nearer with every heartbeat.	false
+unit_abilities_onscreen_name_hkrul_bubos_eye_weak	Gaze of Bubos the Vile	false
+unit_abilities_tooltip_text_hkrul_bubos_eye_weak	Within the gaze of Bubos, wounds fester, breath shortens, and death crawls nearer with every heartbeat.	false
+effects_description_hkrul_bubos_eye_weak	Passive Ability: "Gaze of Bubos the Vile"	false
+scripted_subtitles_localised_text_hkrul_baerson_einar_bubos_pt_01	Wounds, grief, memory, loss — but I shall carve new fate from rot and bone!	false
+scripted_subtitles_localised_text_hkrul_baerson_einar_bubos_pt_02	I came for vengeance, for blood and fire — not this bloated wyrm of filth and despair!	false
+scripted_subtitles_localised_text_hkrul_baerson_einar_bubos_pt_03	One clear path through plague and ruin...	false
+scripted_subtitles_localised_text_hkrul_baerson_einar_bubos_pt_04	…blended with filth from the Lake of Rot, births boils, blight, and ruinous thought!	false
+scripted_subtitles_localised_text_hkrul_baerson_einar_bubos_pt_05	Stand firm, Baersonling blades — the beast is near, and the stench dares us to draw steel!	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_bubos	Rotwurm Reaper	true
+character_trait_levels_colour_text_hkrul_defeated_trait_bubos	The beast lies broken, but the stench lingers still — a reminder that decay can be conquered.	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_bubos	Defeated Bubos the Vile	true
+battle_set_pieces_localised_description_hkrul_baerson_einar_aesling	They came screaming out of the white — Aesling raiders with axes alight in the red dawn. Einarr stands alone in this dreamscape, surrounded by flickering phantoms of those he could not save. Among them, the bloodbeast that tore his wife from the world. But dreams are not only torment — they are crucibles. Let Einarr’s anguish be sharpened into wrath. He struck at its hide again and again, but not even vengeance could raise the dead.	false
+battle_set_pieces_localised_name_hkrul_baerson_einar_aesling	The Fall of Vinnskor	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_reinforcement	Aesling of Skraevold	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_enemy	Aesling of Skraevold	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_ally	Asta of Vinnskor	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_player	Baersonling Tribe	false
+missions_localised_description_hkrul_baerson_einar_aesling_battle	The raven’s call has unlocked something within Einarr — a memory buried in blood. In restless sleep, he is dragged back to Vinnskor, forced to watch his kin fall and his wife slain by the monstrous Aesling bloodbeast. Only by facing this nightmare can Einarr begin the path toward vengeance and reclaim what was lost.	false
+missions_localised_title_hkrul_baerson_einar_aesling_battle	Dreams of Ruin	false
+missions_localised_mission_completed_text_hkrul_baerson_einar_aesling_battle		false
+loading_screen_quotes_description_hkrul_baerson_einar_aesling_player	It begins in stillness — the snow, the smoke, the stench of blood not yet spilled. Vinnskor lives again in dream, but death walks its alleys once more. In the hush before slaughter, Einarr sees himself powerless, his blade heavy, his cries drowned in silence. This is no simple memory — it is prophecy inverted, a lesson etched in blood and regret. He ran to her side — too slow, too late — and the beast was already feeding.	false
+loading_screen_quotes_title_hkrul_baerson_einar_aesling_player	Dreams of Ruin	false
+land_units_onscreen_name_hkrul_skraevold	Bloodbeast of Skraevold	false
+unit_description_short_texts_text_hkrul_skraevold	Born of snow and slaughter, the Bloodbeast of Skraevold howls only for ruin.	false
+unit_description_historical_texts_text_hkrul_skraevold	The Bloodbeast of Skraevold is no mere monster, but a spawn of Chaos gifted to the Aeslings during one of their bloodiest raids. Towering over men, with sinew taut as steel and fur matted with the gore of a hundred feasts, it tore through the village of Vinnskor like an avatar of Khorne. There, it slew Einarr’s wife before his eyes, the memory of her lifeless body forever seared into his soul. Since that day, the beast has haunted his dreams, and perhaps — in some cursed corner of reality — still walks.	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_kolsveinn	Vinnskor Avenged	true
+character_trait_levels_colour_text_hkrul_defeated_trait_kolsveinn	The nightmare is over — the beast has bled.	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_kolsveinn	Defeated Jarl Kolsveinn of Skraevold	true

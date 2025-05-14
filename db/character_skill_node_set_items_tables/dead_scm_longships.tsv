@@ -1,0 +1,5 @@
+set	item	mod_disabled
+#character_skill_node_set_items_tables;0;db/character_skill_node_set_items_tables/dead_scm_longships		
+skill_node_set_hkrul_geimdall	hkrul_geimdall_longship	false
+skill_node_set_hkrul_birna	hkrul_birna_longship	false
+skill_node_set_hkrul_harald	hkrul_harald_longship	false

@@ -99,7 +99,7 @@ land_units_onscreen_name_rhox_bjornling_huscarl	Bjornling Huscarls	false
 land_units_onscreen_name_rhox_bjornling_huscarl_ror	Bulwark of Skjold (Huscarls)	false
 unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer.	false
 unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of the High King, they occupy Skjold's Great Hall. Each member of their ranks has surpassed insufferable challenges on the cliffs of Horvenghaast.	false
-campaign_localised_strings_string_rhox_bjornling_huscarl_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe or have Ulfric Grondal in your faction[[/col]]	false
+campaign_localised_strings_string_rhox_bjornling_huscarl_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Geimdall's Huscarls or have High Jarl Geimdall in your faction[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_onscreen_name_hkrul_ulfric_axe_formation	Axes of Horvenghaast	false
@@ -249,6 +249,10 @@ ancillaries_colour_text_hkrul_norsca_fish_17	A writhing, yellow-skinned monstros
 ancillaries_colour_text_hkrul_norsca_fish_18	This massive, barnacle-encrusted horn, eerily shaped like the fossilized remains of some ancient sea beast, was dredged up from the depths. When blown, it unleashes a deep, reverberating war cry that stirs the blood of warriors and sends shivers through those who hear it.	false
 ancillaries_colour_text_hkrul_norsca_fish_19	A deep-sea fish that radiates an eerie blue glow in the dark waters. Sailors claim it lures ships into treacherous reefs with its ghostly light.	false
 ancillaries_colour_text_hkrul_norsca_fish_20	A monstrous fish with a wide, blunted head like a warhammer, used to batter prey and even small boats. Legends claim it was once the war-beast of a fallen sea god, doomed to wander the depths in eternal rage.	false
-effect_bundles_localised_description_hkrul_yngve_faction_trait	Placeholder	false
+effect_bundles_localised_description_hkrul_yngve_faction_trait	Yngve Aarseth is a deranged and powerful seer. He is greatly respected – and feared – throughout Norsca. His eyes were torn out long ago when he was held captive by a malicious band of Goblin raiders, Aarseth claims that his physical blindness allows him to "see all truth". The wizened old seer refuses to serve any of the jarls, even when they threaten him with torture or imprisonment. He knows that the jarls are too frightened of his powers to carry out their threats	false
 effect_bundles_localised_title_hkrul_yngve_faction_trait	The Sightless Seer	false
 culture_settlement_occupation_options_tooltip_957887883	Raze||All buildings are destroyed and the settlement is torched. The previous owners will like you a lot less.	false
+campaign_localised_strings_string_nor_longship_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe or have Ulfric Grondal in your faction[[/col]]	false
+effects_description_hkrul_ulfric_port_income	Income from Ports: %+n% for each confederated Norscan tribe	false
+land_units_onscreen_name_hkrul_bloodfjord_inf_marauder_champions_1	Bloodfjord Champions (Great Weapons)	true
+land_units_onscreen_name_hkrul_bloodfjord_inf_marauder_champions_0	Bloodfjord Champions	true

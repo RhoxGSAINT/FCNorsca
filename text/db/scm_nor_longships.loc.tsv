@@ -1,0 +1,69 @@
+key	text	tooltip
+#Loc;1;text/db/scm_nor_longships.loc		
+unit_description_short_texts_text_nor_longship_ror	A seat of salt and splinters, hauled from the gut of the sea—too cursed even for Ulfric's hall.	false
+unit_description_historical_texts_text_nor_longship_ror	Among the salt-stung Bjornling fleets, few ships are spoken of in such hushed awe as The Trawled Throne. A wide-bellied longship with warped ribs and an unnatural keel, she is said to have once dredged up a barnacle-encrusted throne from the seafloor off the jagged cliffs of Kronfjall—an immense seat of carved stone and rotted gold, engraved with runes no scholar has yet dared to translate.	false
+ui_unit_bullet_point_enums_onscreen_name_lacks_melee	Lacks Melee	false
+ui_unit_bullet_point_enums_tooltip_lacks_melee	This unit lacks melee attacks	false
+land_units_onscreen_name_nor_longship_ror	The Trawled Throne (Norscan Longship)	false
+land_units_concealed_name_nor_longship_ror		false
+unit_abilities_tooltip_text_scm_longship_mists	The cold mists surrounding the longship lashes out at any who dare attack its hull, as if the vessel is defending itself.	false
+unit_abilities_onscreen_name_scm_longship_mists	Maleficent Mists	false
+special_ability_phases_onscreen_name_scm_longship_mists		false
+unit_abilities_tooltip_text_scm_longship_pas_buff	Any who worship the Dark Gods are affected by the energy emanating from the star atop the longship.	false
+unit_abilities_onscreen_name_scm_longship_pas_buff	Icon of the Dark Powers	false
+special_ability_phases_onscreen_name_scm_longship_pas_buff		false
+land_units_onscreen_name_hkrul_birna_longship	Birna the Huntress	false
+land_units_concealed_name_hkrul_birna_longship		false
+units_custom_battle_mounts_mount_name_hkrul_birnahkrul_birna_longship	The Brinefang	true
+units_custom_battle_mounts_localised_description_hkrul_birnahkrul_birna_longship	Built from the driftwood of drowned trees and lashed with river-serpent hide, The Brinefang is as much a beast of the delta as the trolls it hunts, its hull streaked with salt and scars of battle.	true
+land_units_onscreen_name_hkrul_harald_longship	Harald Whyrlas	false
+land_units_concealed_name_hkrul_harald_longship		false
+units_custom_battle_mounts_mount_name_hkrul_haraldhkrul_harald_longship	Wyrmrunner	true
+units_custom_battle_mounts_localised_description_hkrul_haraldhkrul_harald_longship	A vessel swift enough to outrun even the serpents of the deep, its oars pull like the beating wings of a dragon.	true
+units_custom_battle_mounts_mount_name_hkrul_geimdallhkrul_geimdall_longship	The Oathbreaker’s Bane	true
+units_custom_battle_mounts_localised_description_hkrul_geimdallhkrul_geimdall_longship	No traitor has ever stepped aboard Geimdall's Kingship and lived to tell the tale—its hull carries the weight of Geimdall’s unwavering honor. Legends say that the very ship itself remembers betrayal.	true
+land_units_onscreen_name_hkrul_geimdall_longship	High Jarl Geimdall	false
+land_units_concealed_name_hkrul_geimdall_longship		false
+ui_unit_groupings_onscreen_hkrul_norsca_longship_lord	Norscan Longship	false
+ui_unit_groupings_onscreen_hkrul_norsca_longship_ror	Norscan Longship	false
+ancillaries_colour_text_hkrul_geimdall_longship	No traitor has ever stepped aboard Geimdall's Kingship and lived to tell the tale—its hull carries the weight of Geimdall’s unwavering honor. Legends say that the very ship itself remembers betrayal.	true
+ancillaries_onscreen_name_hkrul_geimdall_longship	Oathbreaker's Bane	true
+ancillaries_colour_text_hkrul_birna_longship	Built from the driftwood of drowned trees and lashed with river-serpent hide, The Brinefang is as much a beast of the delta as the trolls it hunts, its hull streaked with salt and scars of battle.	true
+ancillaries_onscreen_name_hkrul_birna_longship	The Brinefang	true
+ancillaries_colour_text_hkrul_harald_longship	A vessel swift enough to outrun even the serpents of the deep, its oars pull like the beating wings of a dragon.	true
+ancillaries_onscreen_name_hkrul_harald_longship	Wyrmrunner	true
+character_skills_localised_name_hkrul_geimdall_longship	The Oathbreaker’s Bane	false
+character_skills_localised_name_hkrul_birna_longship	The Brinefang	false
+character_skills_localised_name_hkrul_harald_longship	Wyrmrunner	false
+character_skills_localised_description_hkrul_geimdall_longship	No traitor has ever stepped aboard Geimdall's Kingship and lived to tell the tale—its hull carries the weight of Geimdall’s unwavering honor. Legends say that the very ship itself remembers betrayal.	false
+character_skills_localised_description_hkrul_birna_longship	Built from the driftwood of drowned trees and lashed with river-serpent hide, The Brinefang is as much a beast of the delta as the trolls it hunts, its hull streaked with salt and scars of battle.	false
+character_skills_localised_description_hkrul_harald_longship	A vessel swift enough to outrun even the serpents of the deep, its oars pull like the beating wings of a dragon.	false
+effects_description_hkrul_geimdall_longship	Mount: The Oathbreaker’s Bane	false
+effects_description_hkrul_birna_longship	Mount: The Brinefang	false
+effects_description_hkrul_harald_longship	Mount: Wyrmrunner	false
+unit_abilities_tooltip_text_scm_longship_mists_bjornling	The sharpened stakes surrounding the longship impale any who dare attack its hull, as if the vessel is defending itself.	false
+unit_abilities_onscreen_name_scm_longship_mists_bjornling	Reinforced Hull	false
+unit_abilities_tooltip_text_scm_longship_pas_buff_bjornling	With rythmic prowess the Longship's drummer dictates the tempo of collective assault and defence, molding the huscarls and marauders in to one organized horde.	false
+unit_abilities_onscreen_name_scm_longship_pas_buff_bjornling	Skald's Rythm	false
+unit_abilities_tooltip_text_scm_longship_geimdall_storm	With a blast of the war horn, the skies churn and the sea answers his call.	false
+unit_abilities_onscreen_name_scm_longship_geimdall_storm	Oathbreaker's Storm	false
+unit_abilities_tooltip_text_scm_longship_harald_heal	Dripping meat and steaming stew are hurled from the king’s ship—fuel for frenzied slaughter.	false
+unit_abilities_onscreen_name_scm_longship_harald_heal	Whyrlas's Leftovers	false
+unit_abilities_tooltip_text_scm_longship_harald_heal2	What Harald doesn’t eat, his warriors do—feasting mid-battle, their bloodlust stoked by bone and broth.	false
+unit_abilities_onscreen_name_scm_longship_harald_heal2	Graeling's Feast	false
+unit_abilities_tooltip_text_hkrul_longship_spawn	Wounded but unbroken, the longship belches forth warriors ready to die for their Jarl.	false
+unit_abilities_onscreen_name_hkrul_longship_spawn	Marauders Emerge!	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_longship_spawn	Spawns a unit of Shielded Marauders	false
+unit_abilities_onscreen_name_hkrul_longship_spawn2	Huscarls Emerge!	false
+unit_abilities_additional_ui_effects_localised_text_hkrul_longship_spawn2	Spawns a unit of Marauder Champions	false
+unit_abilities_tooltip_text_hkrul_longship_spawn2	As the hull cracks and blood runs, the Huscarls rise from below, axes eager for vengeance.	false
+unit_abilities_onscreen_name_hkrul_longship_kraken	Mermedus's Pull	false
+unit_abilities_tooltip_text_hkrul_longship_kraken	Few have the strength to break free once the Kraken has them within its horrid, betentacled grasp.	false
+unit_abilities_onscreen_name_hkrul_longship_tidecall	Tidecall	false
+unit_abilities_tooltip_text_hkrul_longship_tidecall	The sea is summoned, and a great tide coalesces upon the battlefield to drench all those that oppose the caster.	false
+unit_abilities_onscreen_name_hkrul_longship_denizens	Denizens of the Deep	false
+unit_abilities_tooltip_text_hkrul_longship_denizens	Some things should never rise above the waves or be seen by mortal eyes.	false
+unit_abilities_tooltip_text_hkrul_birna_net	No troll escapes the Huntress’ net—its limbs tangled, its fate sealed by tooth and steel.	false
+unit_abilities_onscreen_name_hkrul_birna_net	Traps of the Salt Marshes	false
+unit_abilities_tooltip_text_hkrul_birna_bomb	From the mist and grass, the Sarl hunters loose their arrows—seen only when the killing starts.	false
+unit_abilities_onscreen_name_hkrul_birna_bomb	Fogtipped Arrows	false

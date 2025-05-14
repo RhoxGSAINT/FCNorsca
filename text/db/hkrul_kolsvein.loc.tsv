@@ -31,3 +31,5 @@ effects_description_hkrul_kolsvein_spit	Ability: "Mutatious Spit"	true
 effects_description_hkrul_kolsvein_sword	Ability: "Hound's Twinblades"	false
 unit_abilities_onscreen_name_hkrul_kolsvein_sword	Hound's Twinblades	false
 unit_abilities_tooltip_text_hkrul_kolsvein_sword	Blessed by Kharnath are the twinblades wielded by the fiercesome Jarl Kolsveinn of Skraevold, their blades infused with the blood of their victims.	false
+unit_abilities_onscreen_name_hkrul_skraevold_fury	Flesh-Fed Strength	false
+unit_abilities_tooltip_text_hkrul_skraevold_fury	Each kill leaves it stronger, heavier, more unstoppable.	false

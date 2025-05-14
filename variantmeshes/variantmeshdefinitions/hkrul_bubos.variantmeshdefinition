@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\dr1\dae\phy_nurgle_dragon\phy_nurgle_dragon_01.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_hef_dragon_large_black</META_DATA>			<META_DATA>audio_armour_type:body</META_DATA>			<META_DATA>audio_melee_weapon_type:unarmed</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -16,3 +16,6 @@ hkrul_sarg	ui/campaign ui/skills/innate_hkrul_yusak.png
 hkrul_huern	ui/campaign ui/skills/trait_innate_hkrul_huern.png
 hkrul_yngve	ui/campaign ui/skills/innate_hkrul_yngve.png
 hkrul_geimdall	ui/campaign ui/skills/innate_hkrul_geimdall.png
+hkrul_ziege	ui/campaign ui/skills/hkrul_innate_ziege.png
+hkrul_bubos	ui/campaign ui/effect_bundles/trait_nurgle.png
+hkrul_kolsveinn	ui/campaign ui/skills/innate_hkrul_kolsvein.png

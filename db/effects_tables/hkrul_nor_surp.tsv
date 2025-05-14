@@ -1,0 +1,28 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_nor_surp					
+hkrul_enable_immortality		0		campaign	true
+hkrul_olg_time	turns.png	130	turns.png	campaign	false
+hkrul_olg_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_olg_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_tuula_bound	item_ability.png	300	item_ability.png	battle	true
+hkrul_tuula_rally	item_ability.png	300	item_ability.png	battle	true
+hkrul_tuula_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_haftagg_time	turns.png	130	turns.png	campaign	false
+hkrul_haftagg_shield	item_ability.png	300	item_ability.png	battle	true
+hkrul_haftagg_roar	item_ability.png	300	item_ability.png	battle	true
+hkrul_olaf_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_olaf_rally	item_ability.png	300	item_ability.png	battle	true
+hkrul_olaf_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_olaf_retinue	item_ability.png	300	item_ability.png	battle	true
+hkrul_olg_spit	item_ability.png	300	item_ability.png	battle	true
+hkrul_khorne_bomb	item_ability.png	300	item_ability.png	battle	true
+hkrul_heroes_def	defence.png	432	defence.png	battle	true
+hkrul_olaf_mammoth	mount.png	50	mount.png	both	true
+hkrul_olaf_spear_dummy	hkrul_effect_bundle_olaf.png	1	hkrul_effect_bundle_olaf.png	campaign	true
+hkrul_olaf_income_raiding	income.png	101	income.png	campaign	true
+hkrul_berus_spit	item_ability.png	300	item_ability.png	battle	true
+hkrul_berus_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_usta_spit	item_ability.png	300	item_ability.png	battle	true
+hkrul_usta_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_usta_time	turns.png	130	turns.png	campaign	false
+hkrul_berus_time	turns.png	130	turns.png	campaign	false

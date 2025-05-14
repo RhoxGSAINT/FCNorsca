@@ -1,0 +1,8 @@
+agent_subtype	ancillary
+#ancillaries_included_agent_subtypes_tables;0;db/ancillaries_included_agent_subtypes_tables/hkrul_nor_surp	
+hkrul_tuula	hkrul_tuula_axe
+hkrul_olaf	hkrul_olaf_axe
+hkrul_tuula	hkrul_tuula_chariot
+hkrul_olg	hkrul_olg_chariot
+hkrul_olaf	hkrul_olaf_chariot
+hkrul_olaf	hkrul_olaf_mammoth

@@ -1,0 +1,21 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/hkrul_eyri									
+innate_hkrul_eyri	innate_hkrul_eyri.png			0	true	false	false	100.0000	0
+hkrul_eyri_special_1_0	hkrul_eyri_special_1_0.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_1	hkrul_eyri_special_1_1.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_2	hkrul_eyri_special_1_2.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_3	hkrul_eyri_special_1_3.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_4	hkrul_eyri_special_1_4.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_5	hkrul_eyri_special_1_5.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_0_1	hkrul_eyri_special_0_1.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_0_2	hkrul_eyri_special_0_2.png			0	false	false	false	0.0000	0
+hkrul_eyri_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_eyri_crown	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_eyri_horse	mount_chaos_steed.png			0	false	false	false	0.0000	0
+hkrul_eyri_chariot	mount_chaos_chariot.png			0	false	false	false	0.0000	0
+hkrul_eyri_mammoth	mount_mammoth.png		Eyristaad's Might	0	false	false	false	0.0000	0
+hkrul_eyri_special_1_6	hkrul_eyri_special_1_6.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_7	hkrul_eyri_special_1_7.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_8	hkrul_eyri_special_1_8.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_9	hkrul_eyri_special_1_9.png			0	false	false	false	0.0000	0
+hkrul_eyri_special_1_10	hkrul_eyri_special_1_10.png			0	false	false	false	0.0000	0

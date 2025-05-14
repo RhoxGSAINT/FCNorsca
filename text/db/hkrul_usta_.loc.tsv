@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_usta_.loc		
+character_skills_localised_name_innate_hkrul_usta	Crone of the North	true
+character_skills_localised_description_innate_hkrul_usta	"I have buried kings and burned prophets. Do not speak to me of fate."	true
+character_skills_localised_name_hkrul_usta_special_1_0	Seer-Wanderer	true
+character_skills_localised_name_hkrul_usta_special_1_1	The Third Path	true
+character_skills_localised_name_hkrul_usta_special_1_2	Witchfire Surge	true
+character_skills_localised_name_hkrul_usta_special_1_3	Hex of the Lost	true
+character_skills_localised_name_hkrul_usta_special_1_4	Talisman-Burdened	true
+character_skills_localised_name_hkrul_usta_special_1_5	Cursebinder	true
+character_skills_localised_name_hkrul_usta_special_1_6	Hag-Touched	true
+character_skills_localised_description_hkrul_usta_special_1_0	"I go where omens point and leave where they bleed."	true
+character_skills_localised_description_hkrul_usta_special_1_1	She walks the way between fate and ruin.	true
+character_skills_localised_description_hkrul_usta_special_1_2	Her advice comes laced with truth and venom.	true
+character_skills_localised_description_hkrul_usta_special_1_3	Those who turn from her words vanish in snow and shadow.	true
+character_skills_localised_description_hkrul_usta_special_1_4	She bears charms that make grown men weep.	true
+character_skills_localised_description_hkrul_usta_special_1_5	She reads what the fire leaves behind.	true
+character_skills_localised_description_hkrul_usta_special_1_6	She made a bargain once — no one knows with whom, or for what.	true
+agent_subtypes_onscreen_name_override_hkrul_usta	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_usta	Wreathed in talismans and curses, she is prophecy given flesh.	false
+unit_description_short_texts_text_hkrul_usta	Usta sees what others cannot, and says what others dare not.	false
+unit_description_historical_texts_text_hkrul_usta	Usta the Witch is feared in every hall north of Troll Country, for hers is the name whispered when auguries go dark. One of the last true hag-seers of Norsca, she walks alone, wandering from coast to crater, muttering to stones and bones alike. No jarl has ever claimed her, though many have tried — those who pressed too hard now serve as stories told to frighten children. When Einarr Sigdansson saw the end in his dreams, it was Usta he sought. And when she saw his fate, she chose to walk beside it.	false
+names_name_2610712841	Usta	false
+names_name_2610712840	the Witch	false
+land_units_onscreen_name_hkrul_usta	Usta the Witch	true
+effects_description_hkrul_usta_shield	Passive Ability: "Echo of Prophecy"	false
+unit_abilities_tooltip_text_hkrul_usta_shield	"They feed me names, and I whisper them to death."	true
+unit_abilities_onscreen_name_hkrul_usta_shield	Echo of Prophecy	true
+effects_description_hkrul_usta_axe	Ability: "Crone’s Curse"	false
+unit_abilities_tooltip_text_hkrul_usta_axe	"What she touched lingers. What she saw, you now fear."	true
+unit_abilities_onscreen_name_hkrul_usta_axe	Crone’s Curse	true
+effects_description_hkrul_usta_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false

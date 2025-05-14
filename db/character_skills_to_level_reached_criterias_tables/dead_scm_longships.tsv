@@ -1,0 +1,5 @@
+character_skill	character_level	upgrade_to_skill_level
+#character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/dead_scm_longships		
+hkrul_geimdall_longship	22	1
+hkrul_birna_longship	22	1
+hkrul_harald_longship	22	1

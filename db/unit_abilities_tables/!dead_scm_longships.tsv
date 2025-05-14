@@ -1,0 +1,16 @@
+key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
+#unit_abilities_tables;17;db/unit_abilities_tables/!dead_scm_longships											
+scm_longship_mists	false	hkrul_boat_mist		wh_type_area_of_direct_damage		wh_main_anc_group_uncommon	true	false	passive		false
+scm_longship_pas_buff	false	hkrul_boat_pas		wh_type_area_of_augments		wh_main_anc_group_uncommon	false	false	passive		false
+scm_longship_mists_bjornling	false	hkrul_boat_mist2		wh_type_area_of_direct_damage		wh_main_anc_group_uncommon	true	false	passive		false
+scm_longship_pas_buff_bjornling	false	hkrul_boat_drum		wh_type_area_of_augments		wh_main_anc_group_uncommon	false	false	passive		false
+scm_longship_geimdall_storm	false	hkrul_boat_storm		wh_type_bombardment		wh_main_anc_group_unique	true	false	bound		false
+scm_longship_harald_heal	false	hkrul_harald_fed		wh_type_area_of_regeneration		wh_main_anc_group_uncommon	true	false	passive		false
+scm_longship_harald_heal2	false	hkrul_harald_heal		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
+hkrul_longship_spawn	false	hkrul_boat_pas_spawn2		wh_type_summon_unit		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_longship_spawn2	false	hkrul_boat_pas_spawn		wh_type_summon_unit		wh_main_anc_group_rare	true	false	passive		false
+hkrul_longship_kraken	false	wh2_dlc11_spell_deep_krakens_pull		wh_type_vortex		wh_main_anc_group_rare	true	false	bound		false
+hkrul_longship_tidecall	false	wh2_dlc11_spell_deep_tidecall		wh_type_breath		wh_main_anc_group_common	true	false	active		false
+hkrul_longship_denizens	false	wh2_dlc11_spell_deep_denizens_of_the_deep		wh_type_summon_unit		wh_main_anc_group_uncommon	true	false	active		false
+hkrul_birna_net	false	hkrul_birna_trap		wh_type_hex		wh_main_anc_group_rare	true	false	bound		false
+hkrul_birna_bomb	false	hkrul_longship_arrow		wh_type_bombardment		wh_main_anc_group_rare	true	false	active		false

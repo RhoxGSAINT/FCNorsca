@@ -1,0 +1,15 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/hkrul_nor_surp				
+	hkrul_olg	hkrul_olg	hkrul_olg	hkrul_olg
+	hkrul_tuula	hkrul_tuula	hkrul_tuula	hkrul_tuula
+	hkrul_haftagg	hkrul_haftagg	hkrul_haftagg	hkrul_haftagg
+	hkrul_olaf	hkrul_olaf	hkrul_olaf	hkrul_olaf
+	hkrul_olg_chariot	hkrul_olg	hkrul_olg	hkrul_olg
+	hkrul_tuula_chariot	hkrul_tuula	hkrul_tuula	hkrul_tuula
+	hkrul_olaf_chariot	hkrul_olaf	hkrul_olaf	hkrul_olaf
+	hkrul_olaf_mammoth	hkrul_olaf	hkrul_olaf	hkrul_olaf
+	hkrul_orgrim	hkrul_orgrim	hkrul_orgrim	a_character_placeholder
+	hkrul_berus	hkrul_berus	hkrul_berus	a_character_placeholder
+	hkrul_usta	hkrul_usta	hkrul_usta	a_character_placeholder
+	hkrul_kammler	hkrul_kammler	hkrul_kammler	a_character_placeholder
+	hkrul_eyri	hkrul_eyri	hkrul_eyri	hkrul_eyri

@@ -36,6 +36,7 @@ ancillaries_colour_text_hkrul_birna_bow	Amid the frozen tundra, a skilled bowyer
 ancillaries_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
 unit_abilities_tooltip_text_hkrul_birna_bow	The Ivory-bound Tuskweave Longbow shoots arrows guided by Birna's whispers.	true
 unit_abilities_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
+effects_description_hkrul_birna_feature_hunt	Birna has access to a unique instantly unlocked monster hunt to hunt the Boartusk Warbeast	true
 effects_description_hkrul_birna_bow	Ability: "Tuskweave Longbow''	true
 land_units_onscreen_name_hkrul_sarl_hunters	Sarl Hunters	false
 land_units_onscreen_name_hkrul_sarl_hunters_ror	Stalkers of the Kalti Delta (Sarl Hunters)	false
@@ -44,8 +45,9 @@ unit_abilities_tooltip_text_hkrul_birna_gaze	Her tongue black as night whispers 
 unit_abilities_onscreen_name_hkrul_birna_gaze	Mutant's Gaze	true
 effects_description_hkrul_birna_diplo_world_walkers	Relationship: %+n to [[img:ui/flags/wh_dlc08_nor_norsca/mon_24.png]][[/img]] World Walkers	true
 effects_description_hkrul_ulfric_diplo_nordland	Relationship: %+n to [[img:ui/flags/wh_main_emp_nordland/mon_24.png]][[/img]] Nordland	true
+effects_description_hkrul_ulfric_diplo_geimdall	Relationship: %+n to [[img:ui/flags/mixer_nor_geimdall_huscarls/mon_24.png]][[/img]] Geimdall's Huscarls	true
 effects_description_hkrul_geimdall_diplo_bjornling	Relationship: %+n to [[img:ui/flags/wh_main_nor_bjornling/mon_24.png]][[/img]] Bjornling	true
-effects_description_hkrul_birna_gaze	Ability: "Mutant's Gaze"	true
+effects_description_hkrul_birna_gaze	Ability: "Mutant's Gaze" when on foot	true
 unit_abilities_tooltip_text_hkrul_birna_flock	Her tongue releases a trilling note that creatures of the sky can understand, calling a murderous flock of crows to unlease fury on her foes.	true
 unit_abilities_onscreen_name_hkrul_birna_flock	Call of Crows	true
 effects_description_hkrul_birna_ws_hunt_dummy	Range: %+n% for each completed Monster Hunt	true
@@ -56,7 +58,7 @@ effect_bundles_localised_description_rhox_birna_ws_hunt	Birna's harnasses more p
 effect_bundles_localised_title_rhox_birna_ws_hunt	Mutant Huntress	false
 effect_bundles_localised_description_hkrul_birna_faction_trait	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - their ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
 effect_bundles_localised_title_hkrul_birna_faction_trait	Mutants of the Sarl	false
-effects_description_rhox_birna_hunting_bonus	The Mutant Huntress: Chance to retrigger completed monster hunts upon Birna's victories over specific cultures: %+n%	false
+effects_description_rhox_birna_hunting_bonus	Has a chance to retrigger completed monster hunts upon Birna's victories over specific cultures: %+n%	false
 effects_description_rhox_birna_wood_bonus_dummy	Timber resource buildings provide additional global bonuses	false
 campaign_localised_strings_string_hkrul_sarl_hunters_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Sarl faction or have Birna in your faction[[/col]]	false
 unit_abilities_tooltip_text_hkrul_sarl_hunters	The stalkers of the Kalti Delta hunt alone, moving aross the vast salt marshes soundless as fearless prolific autonomous hunters.	true
@@ -69,10 +71,16 @@ effects_description_hkrul_birna_hunters_cap	Unit capacity: %+n for Sarl Hunter u
 effects_description_hkrul_birna_hunters_upkeep	Upkeep: %+n% for Sarl Hunter units	false
 unit_description_historical_texts_text_hkrul_sarl_hunters		false
 unit_description_historical_texts_text_hkrul_sarl_hunters_ror		false
-missions_localised_title_rhox_fc_norsca_capture_alexandronov	Capture the Salt Marshes	false
+missions_localised_title_rhox_fc_norsca_capture_alexandronov	Claim the Salt Marshes	false
 missions_localised_description_rhox_fc_norsca_capture_alexandronov	In the heart of the treacherous Kalti Delta lies the formidable Castle of Alexandronov, a bastion that guards the marshes with an iron grip. Birna the Huntress has set her sights on this strategic fortress, knowing that its capture would grant her tribe dominion over the marshlands. To achieve this, she must navigate the perilous terrain, facing the dangers of the marshes and the defenders of the castle. But if she succeeds, her tribe will gain unfettered access to the bountiful hunting grounds, securing their place as masters of the marshes. And in a stroke of cunning, Birna manages to subjugate a river troll hag to her bidding, further solidifying her hold over the region.	false
 campaign_payload_ui_details_description_rhox_fc_norsca_agent_troll_hag_dummy	Hero recruited: Giant River Troll Hag	false
 unit_description_short_texts_text_hkrul_birna_river_trolls	Birna's mutatious allure subjugated these River Trolls of the Kalti Delta to sniff out their kin amidst the Salt Marshes.	false
 land_units_onscreen_name_hkrul_birna_river_trolls	Birna's Retinue (River Trolls)	false
 ui_unit_groupings_tooltip_hkrul_norsca_missile_bow		false
 ui_unit_groupings_tooltip_hkrul_norsca_missile_bow_lord		false
+campaign_localised_strings_string_hkrul_boartusk_mammoth_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Sarl faction or have Birna in your faction[[/col]]	false
+ancillaries_colour_text_hkrul_boartusk_horn	Torn from the skull of the swamp-horror Mogwrath, this slick, lidless eye still twitches with hateful awareness. Set into a crude charm and hung from Birna’s belt, it grants visions through fog and darkness, guiding her arrow and revealing prey that hides where even light dares not go.	true
+ancillaries_onscreen_name_hkrul_boartusk_horn	Mogwrath's Eye	true
+unit_abilities_tooltip_text_hkrul_boartusk_horn	The corrupted eye pulses with unnatural sight, marking prey with a silent curse. Enemies within the area become more vulnerable to missile fire, as their armour and resistance seem to wither beneath its stare.	true
+unit_abilities_onscreen_name_hkrul_boartusk_horn	Mogwrath's Eye	true
+effects_description_hkrul_boartusk_horn	Ability: "Mogwrath's Eye''	false

@@ -1,0 +1,46 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_tuula_.loc		
+character_skills_localised_name_innate_hkrul_tuula	Crimson Pact	true
+character_skills_localised_description_innate_hkrul_tuula	Marked by blood, bound by steel, Tuula leads with a whisper and kills with precision.	true
+character_skills_localised_name_hkrul_tuula_special_1_0	Red Communion	true
+character_skills_localised_name_hkrul_tuula_special_1_1	Voice of the Flame-Circle	true
+character_skills_localised_name_hkrul_tuula_special_1_2	Precision of the Bloodwolf	true
+character_skills_localised_name_hkrul_tuula_special_1_3	Chosen Without Chains	true
+character_skills_localised_name_hkrul_tuula_special_1_4	Seer of Slaughter	true
+character_skills_localised_name_hkrul_tuula_special_1_5	Bloodhair's Benediction	true
+character_skills_localised_name_hkrul_tuula_special_1_6	Warbound by Blood	true
+character_skills_localised_description_hkrul_tuula_special_1_0	She offers no prayers—only blood. And the Blood God listens.	true
+character_skills_localised_description_hkrul_tuula_special_1_1	At tribal moots, Tuula’s voice cuts through growls and boasts like her axe through bone.	true
+character_skills_localised_description_hkrul_tuula_special_1_2	Tuula doesn’t rage—she stalks, she waits, she kills.	true
+character_skills_localised_description_hkrul_tuula_special_1_3	Unlike others, Tuula did not beg for Khorne’s gaze. She earned it—and resents nothing.	true
+character_skills_localised_description_hkrul_tuula_special_1_4	Tuula sees more than the moment—she sees the outcome, and bends the present to meet it.	true
+character_skills_localised_description_hkrul_tuula_special_1_5	Khorne watches Tuula closely, for her fury is focused, not mindless.	true
+character_skills_localised_description_hkrul_tuula_special_1_6	Tuula and Olaf are more than husband and wife—they are war-forged soulmates.	true
+agent_subtypes_description_text_override_hkrul_tuula	Marked by blood, bound by steel, Tuula leads with a whisper and kills with precision.	false
+agent_subtypes_onscreen_name_override_hkrul_tuula	Legendary Hero	false
+unit_description_short_texts_text_hkrul_tuula	Chosen by no one, claimed by nothing—Tuula Bloodhair carves her fate in blood alone.	false
+names_name_4610711834	Tuula	false
+names_name_4610711833	Bloodhair	false
+land_units_onscreen_name_hkrul_tuula	Tuula Bloodhair	true
+land_units_onscreen_name_hkrul_tuula_chariot	Tuula Bloodhair	true
+effects_description_hkrul_tuula_bound	Passive Ability: "Bound by Blood"	false
+effects_description_hkrul_tuula_rally	Ability: "Red Resolve"	false
+effects_description_hkrul_tuula_axe	Passive Ability: "Woundtongue"	false
+unit_abilities_onscreen_name_hkrul_tuula_axe	Woundtongue	true
+unit_abilities_tooltip_text_hkrul_tuula_axe	It whispers not to Tuula, but to her prey—the sound of it tearing flesh is like a name spoken backwards.	true
+unit_abilities_tooltip_text_hkrul_tuula_rally	Her words are few, but the weight they carry drives her warriors beyond fear, beyond pain, beyond mercy.	true
+unit_abilities_onscreen_name_hkrul_tuula_rally	Red Resolve	true
+unit_abilities_onscreen_name_hkrul_tuula_bound	Bound by Blood	true
+unit_abilities_tooltip_text_hkrul_tuula_bound	When Tuula is near, Olaf becomes more than a warrior—he becomes the hand of wrath itself.	true
+ancillaries_onscreen_name_hkrul_tuula_axe	Woundtongue	false
+ancillaries_colour_text_hkrul_tuula_axe	There are weapons that roar, and weapons that sing—but Woundtongue whispers. Forged from warped blacksteel and tipped with blood that never dries, the axe earned its name from the way it slides into flesh like a secret. It does not cleave with brute force but slices with uncanny precision, finding the spaces between ribs, beneath plate, and under thought. Some say Tuula did not forge it, nor win it—but woke with it clutched in her hands after a night of dreams she does not recall. Its edge was already stained red.	false
+ancillaries_explanation_text_hkrul_tuula_axe		false
+units_custom_battle_mounts_localised_description_hkrul_tuulahkrul_tuula_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_tuulahkrul_tuula_chariot	Khornate Chariot	false
+character_skills_localised_name_hkrul_tuula_chariot	Khornate Chariot	true
+character_skills_localised_description_hkrul_tuula_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	true
+ancillaries_colour_text_hkrul_tuula_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_tuula_chariot	Khornate Chariot	false
+loading_screen_quotes_description_hkrul_tuula	Silent in step and savage in strike, Tuula leads not with rage, but with cold, crimson purpose.	false
+loading_screen_quotes_title_hkrul_tuula	Tuula Bloodhair	false
+loading_screen_quotes_bulletpoints_hkrul_tuula	[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry	false

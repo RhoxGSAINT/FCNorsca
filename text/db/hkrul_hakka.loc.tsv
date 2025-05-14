@@ -50,15 +50,15 @@ land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_horsemen_throwing_ax
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_throwing_axe	Aesling Hunters (Throwing Axes)	false
 land_units_onscreen_name_scm_fc_norsca_aesling_nor_marauder_javelins	Aesling Hunters (Javelins)	false
 character_skills_localised_description_hkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
-character_skills_localised_name_hkrul_hakka_chariot	Marauder Chariot	false
+character_skills_localised_name_hkrul_hakka_chariot	Gorebeast Chariot	false
 character_skills_localised_description_hkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
 character_skills_localised_name_hkrul_hakka_juggernaut	Juggernaut	false
 units_custom_battle_mounts_localised_description_hkrul_hakkahkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
-units_custom_battle_mounts_mount_name_hkrul_hakkahkrul_hakka_chariot	Marauder Chariot	false
+units_custom_battle_mounts_mount_name_hkrul_hakkahkrul_hakka_chariot	Gorebeast Chariot	false
 units_custom_battle_mounts_localised_description_hkrul_hakkahkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
 units_custom_battle_mounts_mount_name_hkrul_hakkahkrul_hakka_juggernaut	Juggernaut	false
 ancillaries_colour_text_hkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
-ancillaries_onscreen_name_hkrul_hakka_chariot	Marauder Chariot	false
+ancillaries_onscreen_name_hkrul_hakka_chariot	Gorebeast Chariot	false
 ancillaries_colour_text_hkrul_hakka_juggernaut	Mighty beasts of groaning iron and brass, taller than a man and possessed of a crushing mass.	false
 ancillaries_onscreen_name_hkrul_hakka_juggernaut	Juggernaut	false
 character_skill_level_details_localised_description_1hkrul_hakka_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
@@ -82,3 +82,4 @@ rituals_display_name_rhox_aesling_ritual_kho_the_skull_throne	{{tr:rituals_displ
 rituals_description_rhox_aesling_ritual_kho_the_skull_throne	{{tr:rituals_description_wh3_main_ritual_kho_the_skull_throne}}	false
 missions_localised_title_rhox_totn_mis_ie_nor_karanak_unlock_01	{{tr:missions_localised_title_wh3_pro12_mis_ie_kho_karanak_unlock_01}}	false
 missions_localised_description_rhox_totn_mis_ie_nor_karanak_unlock_01	{{tr:missions_localised_description_wh3_pro12_mis_ie_kho_karanak_unlock_01}}	false
+campaign_localised_strings_string_hkrul_skraevold_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Aesling or have Hakka the Aesling in your faction[[/col]]	false

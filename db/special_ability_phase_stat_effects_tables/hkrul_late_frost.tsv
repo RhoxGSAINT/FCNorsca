@@ -31,3 +31,11 @@ hkrul_geimdall_wall_formation_buffer	scalar_charge_speed	0.6000	mult
 hkrul_geimdall_wall_formation	stat_missile_block_chance	15.0000	add
 hkrul_geimdall_wall_formation	stat_melee_defence	10.0000	add
 hkrul_geimdall_wall_formation	scalar_charge_speed	0.4000	mult
+hkrul_ziege_cry	stat_morale	-20.0000	add
+hkrul_boartusk_horn	stat_armour	-35.0000	add
+hkrul_boartusk_horn	stat_resistance_missile	-20.0000	add
+hkrul_boartusk_horn	scalar_speed	0.7000	mult
+hkrul_bubos_eye	stat_melee_defence	-8.0000	add
+hkrul_bubos_eye_weak	stat_melee_defence	-5.0000	add
+hkrul_skraevold_fury	stat_damage_reflection	15.0000	add
+hkrul_skraevold_fury	stat_morale	20.0000	add

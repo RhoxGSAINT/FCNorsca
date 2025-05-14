@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_kammler_.loc		
+character_skills_localised_name_innate_hkrul_kammler	The Path-Reader	true
+character_skills_localised_description_innate_hkrul_kammler	"Every step you take, I foresaw. Every mistake, I rehearsed."	true
+character_skills_localised_name_hkrul_kammler_special_1_0	Fractured Insight	true
+character_skills_localised_name_hkrul_kammler_special_1_1	Soul-Eater’s Touch	true
+character_skills_localised_name_hkrul_kammler_special_1_2	Sorcery of the Labyrinth	true
+character_skills_localised_name_hkrul_kammler_special_1_3	Silken Threads of Fate	true
+character_skills_localised_name_hkrul_kammler_special_1_4	Architect of Conflict	true
+character_skills_localised_name_hkrul_kammler_special_1_5	Daemon’s Bargain	true
+character_skills_localised_name_hkrul_kammler_special_1_6	Master of Misstep	true
+character_skills_localised_description_hkrul_kammler_special_1_0	Every war is a plan with many layers.	true
+character_skills_localised_description_hkrul_kammler_special_1_1	A sliver of the Soul-Eater pulses still — and whispers.	true
+character_skills_localised_description_hkrul_kammler_special_1_2	Knowledge bleeds, but von Kammler does not flinch.	true
+character_skills_localised_description_hkrul_kammler_special_1_3	He sees what others call madness and names it prophecy.	true
+character_skills_localised_description_hkrul_kammler_special_1_4	Each spell twists, reflects, and doubles back.	true
+character_skills_localised_description_hkrul_kammler_special_1_5	He offers truths, for a price you’ll only understand too late	true
+character_skills_localised_description_hkrul_kammler_special_1_6	You never fight him — only where he was.	true
+agent_subtypes_onscreen_name_override_hkrul_kammler	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_kammler	kammler's devotion to Olric is as fiery as his Norse heritage driven lust for plunder and battle.	false
+unit_description_short_texts_text_hkrul_kammler	Von Kammler was once bound by crystal and madness, now unshackled and worse for it.	false
+unit_description_historical_texts_text_hkrul_kammler	Ernst von Kammler, once a mortal sorcerer of the Empire, vanished beyond the Frozen Sea in pursuit of secrets buried in the Chaos Wastes. There, he found the Soul-Eater — a crystalline prison of impossible knowledge and shifting lies. Bound to it for years, he became its guardian and victim, twisted by Tzeentch’s will. His liberation came at the hands of Einarr Steelfist, though whether this was salvation or manipulation is still unclear. Now he serves not through loyalty, but through the certainty that this path leads to destiny — or damnation.	false
+names_name_2610712844	Ernst	false
+names_name_2610712843	von Kammler	false
+land_units_onscreen_name_hkrul_kammler	Ernst von Kammler	true
+effects_description_hkrul_kammler_shield	Passive Ability: "Soul-Eater’s Shadow"	false
+unit_abilities_tooltip_text_hkrul_kammler_shield	"I was shattered once. That only made me sharper."	true
+unit_abilities_onscreen_name_hkrul_kammler_shield	Soul-Eater’s Shadow	true
+effects_description_hkrul_kammler_axe	Ability: "Shard of the Soul-Eater"	false
+unit_abilities_tooltip_text_hkrul_kammler_axe	 A jagged crystal that radiates impossible knowledge — and madness.	true
+unit_abilities_onscreen_name_hkrul_kammler_axe	Shard of the Soul-Eater	true
+effects_description_hkrul_kammler_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false

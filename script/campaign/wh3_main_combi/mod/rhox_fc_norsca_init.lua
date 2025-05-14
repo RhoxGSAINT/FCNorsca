@@ -413,7 +413,7 @@ local rhox_faction_list={
     wh_main_nor_bjornling ={
         leader={
             subtype="hkrul_ulfric",
-            unit_list="wh_dlc08_nor_inf_marauder_spearman_0,hkrul_norsca_ymir,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_inf_chaos_marauders_1,rhox_bjornling_huscarl_ror,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_inf_marauder_champions_0",
+            unit_list="hkrul_norsca_ymir,wh_dlc08_nor_inf_marauder_hunters_1,nor_longship_ror,wh_dlc08_nor_mon_norscan_giant_0,rhox_bjornling_huscarl",
             x=396,
             y=757,
             forename ="names_name_5270700351",
@@ -475,7 +475,7 @@ local rhox_faction_list={
     mixer_nor_geimdall_huscarls ={
         leader={
             subtype="hkrul_geimdall",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
             x=390,
             y=695,
             forename ="names_name_7610711834",
@@ -579,7 +579,7 @@ local rhox_faction_list={
     wh_main_nor_aesling ={
         leader={
             subtype="hkrul_hakka",
-            unit_list="wh_dlc08_nor_inf_marauder_champions_1,wh3_main_kho_inf_flesh_hounds_of_khorne_0,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,wh_dlc08_nor_mon_war_mammoth_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
+            unit_list="wh_dlc08_nor_inf_marauder_champions_1,hkrul_skraevold,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
             x=638,
             y=858,
             forename ="names_name_2570700351",
@@ -1009,7 +1009,10 @@ cm:add_first_tick_callback_new(
 )
 
 local turn2_incidents={
-    mixer_nor_geimdall_huscarls="rhox_geimdall_turn_two_incident"
+    mixer_nor_geimdall_huscarls="rhox_geimdall_turn_two_incident",
+    wh_main_nor_sarl="hkrul_birna_turn_two_incident",
+    mixer_nor_snaegr="hkrul_olaf_turn_two_incident",
+    wh_main_nor_baersonling="rhox_baersonling_chain_1",
 }
 cm:add_first_tick_callback(
 	function()

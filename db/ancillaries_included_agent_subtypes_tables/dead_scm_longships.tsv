@@ -1,0 +1,5 @@
+agent_subtype	ancillary
+#ancillaries_included_agent_subtypes_tables;0;db/ancillaries_included_agent_subtypes_tables/dead_scm_longships	
+hkrul_geimdall	hkrul_geimdall_longship
+hkrul_birna	hkrul_birna_longship
+hkrul_harald	hkrul_harald_longship

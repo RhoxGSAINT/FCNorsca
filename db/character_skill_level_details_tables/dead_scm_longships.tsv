@@ -1,0 +1,5 @@
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/dead_scm_longships						
+		1	hkrul_geimdall_longship		x	22
+		1	hkrul_birna_longship		x	22
+		1	hkrul_harald_longship		x	22

@@ -25,7 +25,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_dlc08_nor_mon_norscan_ice_trolls_0	wh3_dlc20_chs_und_all	false
 			wh_dlc08_nor_mon_skinwolves_0	wh3_dlc20_chs_und_all	false
 			wh_dlc08_nor_mon_skinwolves_1	wh3_dlc20_chs_und_all	false
-			wh_dlc08_nor_mon_war_mammoth_0	wh3_dlc20_chs_und_all	false
+			hkrul_boartusk_mammoth_ror	wh3_dlc20_chs_und_all	false
 			wh_dlc08_nor_mon_war_mammoth_1	wh3_dlc20_chs_und_all	false
 			wh_dlc08_nor_mon_war_mammoth_2	wh3_dlc20_chs_und_all	false
 			wh_dlc08_nor_mon_war_mammoth_ror_1	wh3_dlc20_chs_und_all	false
@@ -62,7 +62,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_dlc08_nor_mon_norscan_ice_trolls_0	wh3_dlc20_chs_unmarked_units	false
 			wh_dlc08_nor_mon_skinwolves_0	wh3_dlc20_chs_unmarked_units	false
 			wh_dlc08_nor_mon_skinwolves_1	wh3_dlc20_chs_unmarked_units	false
-			wh_dlc08_nor_mon_war_mammoth_0	wh3_dlc20_chs_unmarked_units	false
+			hkrul_boartusk_mammoth_ror	wh3_dlc20_chs_unmarked_units	false
 			wh_dlc08_nor_mon_war_mammoth_1	wh3_dlc20_chs_unmarked_units	false
 			wh_dlc08_nor_mon_war_mammoth_2	wh3_dlc20_chs_unmarked_units	false
 			wh_dlc08_nor_mon_war_mammoth_ror_1	wh3_dlc20_chs_unmarked_units	false

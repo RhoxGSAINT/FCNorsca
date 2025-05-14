@@ -22,3 +22,11 @@ loading_screen_quotes_title_hkrul_bjornling_ulfric_crown_final_battle	The Crown 
 loading_screen_quotes_bulletpoints_hkrul_bjornling_ulfric_crown_final_battle		false
 agent_subtypes_description_text_override_hkrul_bjornling_ogg		false
 agent_subtypes_onscreen_name_override_hkrul_bjornling_ogg	Ogg Halfheart	false
+unit_abilities_onscreen_name_hkrul_ziege_cry	Ziege's Smite	true
+unit_abilities_tooltip_text_hkrul_ziege_cry	Devoured by fury uncommon to man, Ziege lets out a bellowing roar - frigthening both men and beast a like.	false
+effects_description_hkrul_ziege_cry	Ability: "Ziege's Smite"	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_ziege	Frenzied No-More	true
+character_trait_levels_colour_text_hkrul_defeated_trait_ziege	You were never worthy of the Spear.. Little Red Rabbit..	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_ziege	Defeated Willi Ziege	true
+land_units_onscreen_name_hkrul_ziege	Willi Ziege	true
+agent_subtypes_onscreen_name_override_hkrul_ziege	Willi Ziege	false

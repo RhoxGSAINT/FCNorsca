@@ -1,0 +1,19 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/dead_scm_longships							
+nor_longship_ror	warmachines/aircraft/nor_longship/totn_longship_tech	ror_longship		1.0000	1.0000	0.0000	
+nor_drummer		nor_drummer		1.0000	0.9500	0.0000	
+nor_captain		nor_captain		1.0000	1.2200	0.0100	
+nor_shrinemaster		nor_shrinemaster		1.0000	1.0000	0.0000	
+sarl_birna_longship	warmachines/aircraft/nor_longship/sarl_longship_tech/	sarl_longship		1.0000	0.9700	0.0000	
+gra_longship	warmachines/aircraft/gra_longship/gra_longship_tech/	gra_longship		1.0000	1.0200	0.0000	
+gra_drummer		gra_drummer		1.0000	0.9500	0.0000	
+phy_harald_longship		phy_harald_longship		1.0000	1.0000	0.0100	
+gra_shrinemaster		gra_shrinemaster		1.0000	1.0000	0.0000	
+gra_marauder_dual_axes_longship		gra_marauder_dual_axes		1.0000	1.0000	0.0000	
+gra_marauder_javelins_longship		gra_marauder_javelins		1.0000	1.0000	0.0000	
+hkrul_geimdall_longship	warmachines/aircraft/nor_longship/totn_longship_tech	gei_longship		1.0000	1.0600	0.0000	
+bjo_marauder_dual_axes_longship		bjornling_marauder_throwing_axe		1.0000	1.0000	0.0000	
+bjo_marauder_javelins_longship		bjornling_marauder_javelins		1.0000	1.0000	0.0000	
+scm_mod_campaign_gra_longship	art\campaign\chariots\cam_cch1\chs_marauder_chariot\longship_tech	campaign_gra_longship_mount		1.0000	2.0000	0.0000	
+scm_mod_campaign_sarl_longship	art\campaign\chariots\cam_cch1\chs_marauder_chariot\longship_tech	campaign_sarl_longship_mount		1.0000	2.0000	0.0000	
+scm_mod_campaign_gei_longship	art\campaign\chariots\cam_cch1\chs_marauder_chariot\longship_tech	campaign_gei_longship_mount		1.0000	2.0000	0.0000	

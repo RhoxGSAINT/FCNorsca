@@ -2,3 +2,4 @@ id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_unifo
 #campaign_character_arts_tables;0;db/campaign_character_arts_tables/hkrul_late_frost																
 266765936	hkrul_mortensen	0	0		none	hkrul_mortensen			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_chaos_axe_and_shield	cam_transport_ship_05	cam_transport_ship_05	0	0	0
 266765937	hkrul_geimdall	0	0		none	hkrul_geimdall			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_chaos_axe_and_shield	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+263871741	hkrul_boartusk_boss	0	0		none	hkrul_boartusk_boss			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_chaos_axe_and_shield	cam_transport_ship_05	cam_transport_ship_05	0	0	0

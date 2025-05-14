@@ -1,0 +1,7 @@
+agent_subtype	ancillary	rank	instant	is_quest_battle
+#character_ancillary_quest_ui_details_tables;2;db/character_ancillary_quest_ui_details_tables/hkrul_nor_surp				
+hkrul_tuula	hkrul_tuula_axe	9	true	false
+hkrul_olaf	hkrul_olaf_axe	9	true	false
+hkrul_olaf	hkrul_olaf_helm	14	true	false
+hkrul_olg	hkrul_olg_axe	7	true	false
+hkrul_olg	hkrul_olg_helm	11	true	false

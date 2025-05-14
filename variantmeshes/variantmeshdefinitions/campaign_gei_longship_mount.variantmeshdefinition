@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="chariot" >
+		<VARIANT_MESH model="art/campaign/chariots/cam_cch1/chs_marauder_chariot/gei_longship_campaign.wsmodel" ></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

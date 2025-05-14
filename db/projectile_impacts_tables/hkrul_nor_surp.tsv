@@ -1,0 +1,4 @@
+key	water	sails	mud	grass	road	rock	sand	snow	leather	wood	blood	camera_shake
+#projectile_impacts_tables;11;db/projectile_impacts_tables/hkrul_nor_surp												
+hkrul_khorne_bomb	wh_main_impact_medium_water		hkrul_khorne_bomb_impact	hkrul_khorne_bomb_impact	hkrul_khorne_bomb_impact	hkrul_khorne_bomb_impact	hkrul_khorne_bomb_impact	hkrul_khorne_bomb_impact	hkrul_khorne_bomb_explosion	hkrul_khorne_bomb_impact		wh_main_unit_impact_light
+hkrul_olg_spit	hkrul_olg_spit_impact		hkrul_olg_spit_impact	hkrul_olg_spit_impact	hkrul_olg_spit_impact	hkrul_olg_spit_impact	hkrul_olg_spit_impact	hkrul_olg_spit_impact	hkrul_olg_spit_impact	hkrul_olg_spit_impact		

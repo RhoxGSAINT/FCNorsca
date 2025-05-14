@@ -1,0 +1,11 @@
+character_skill	character_level	upgrade_to_skill_level
+#character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/hkrul_nor_surp		
+hkrul_tuula_axe	9	1
+hkrul_olaf_axe	9	1
+hkrul_olaf_helm	14	1
+hkrul_olg_axe	7	1
+hkrul_olg_helm	11	1
+hkrul_tuula_chariot	12	1
+hkrul_olg_chariot	12	1
+hkrul_olaf_chariot	16	1
+hkrul_olaf_mammoth	23	1

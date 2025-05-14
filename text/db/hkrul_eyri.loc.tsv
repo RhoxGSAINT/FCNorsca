@@ -1,0 +1,76 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_eyri.loc		
+character_skills_localised_name_innate_hkrul_eyri	Saltcoin Prince	true
+character_skills_localised_description_innate_hkrul_eyri	"I built a kingdom out of plunder and persuasion. Let eyri choke on it."	true
+character_skills_localised_description_hkrul_eyri_special_0_1	"Everything has a price — and I’m the one who sets it."	true
+character_skills_localised_name_hkrul_eyri_special_0_1	Goldfinger	true
+character_skills_localised_description_hkrul_eyri_special_1_1	Sail, strike, steal. Repeat.	true
+character_skills_localised_name_hkrul_eyri_special_1_1	Coin Before Creed	true
+character_skills_localised_description_hkrul_eyri_special_1_2	His tongue is silver, his purse is full, and his troll is always hungry.	true
+character_skills_localised_name_hkrul_eyri_special_1_2	Cutthroat Outcut	true
+character_skills_localised_description_hkrul_eyri_special_1_5	He calls himself merchant, but his axes are redder than his ledgers.	true
+character_skills_localised_name_hkrul_eyri_special_1_5	Golden Tongue	true
+character_skills_localised_description_hkrul_eyri_special_1_0	The troll obeys only one master — and he’s paid well.	true
+character_skills_localised_name_hkrul_eyri_special_1_0	Bartered Oaths	true
+character_skills_localised_description_hkrul_eyri_special_1_3	Loyalty is fine, but gold shines brighter.	true
+character_skills_localised_name_hkrul_eyri_special_1_3	Rogue of Kronfjall	true
+character_skills_localised_description_hkrul_eyri_special_0_2	One word from him and enemies lower their prices... or their guards.	true
+character_skills_localised_name_hkrul_eyri_special_0_2	Sea-League Syndicate	true
+character_skills_localised_description_hkrul_eyri_special_1_4	If there’s profit in it, Eyri will find the way.	true
+character_skills_localised_name_hkrul_eyri_special_1_4	Grompf’s Stomp	true
+agent_subtypes_onscreen_name_override_hkrul_eyri	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_eyri		false
+effects_description_hkrul_eyri_axe	Ability: "Coincleavers''	true
+character_trait_levels_onscreen_name_hkrul_defeated_trait_eyri	Plundered Purse	true
+character_trait_levels_colour_text_hkrul_defeated_trait_eyri	He dealt in lies and gold — and lost both.	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_eyri	Defeated Eyri Goldfinder	true
+ancillaries_colour_text_hkrul_eyri_axe	Eyri Goldfinger’s infamous twin axes — Coincleavers — are as symbolic as they are deadly. Forged by a disgraced dwarf runesmith deep in the fjords of Norsca, the blades were once part of an unbreakable lockbox made to guard royal tithes. Eyri slew the smith, melted down the box, and reforged it into weapons that would "unlock" the riches of others.	true
+ancillaries_onscreen_name_hkrul_eyri_axe	Coincleavers	true
+land_units_onscreen_name_hkrul_eyri	Eyri Goldfinger	true
+names_name_1270700350	Goldfinger	false
+names_name_1270700351	Eyri	false
+unit_description_short_texts_text_hkrul_eyri	A schemer, a trader, a raider — always with a coin in his hand and a dagger behind his back.	false
+unit_description_historical_texts_text_hkrul_eyri	Eyri Goldfinger, self-styled Lord of Eyristaad, is as much a merchant as he is a raider — the distinction, to him, is simply one of formality. Though sworn to High King eyri Grondal as a loyal Bjornling, he operates on the fringe of loyalty, brokering deals across the Sea of Claws and skimming war profits with equal delight. His cunning tongue and quick blades have earned him both coin and contempt in equal measure.	false
+unit_abilities_tooltip_text_hkrul_eyri_axe	Each swing seals a pact, each kill a debt repaid in red.	true
+unit_abilities_onscreen_name_hkrul_eyri_axe	Coincleavers	true
+character_skill_node_sets_enc_title_skill_node_set_hkrul_eyri		false
+effect_bundles_localised_description_hkrul_eyri_faction_trait	In Eyristaad, loyalty is bought, sold, and often bartered for salted fish. Goldfinger’s wealth has kept the trolls fed, the ships floating, and the blades sharpened. Some claim he’s struck secret pacts with foreign lords, or even daemons. Eyri denies it all — while sipping Bretonnian brandy and calculating interest on war.	false
+effect_bundles_localised_title_hkrul_eyri_faction_trait	Salt and Coin	false
+character_skills_localised_description_hkrul_eyri_mammoth	From the icy caves beneath Mount Kronfjall, this mammoth was captured after ten men died luring it from its lair.	false
+character_skills_localised_name_hkrul_eyri_mammoth	Kronfjall Thunderhoof	false
+land_units_onscreen_name_hkrul_eyri_mammoth	Eyri Goldfinger	false
+units_custom_battle_mounts_localised_description_hkrul_eyrihkrul_ulfric_mammoth	Kronfjall Thunderhoof	false
+units_custom_battle_mounts_mount_name_hkrul_eyrihkrul_ulfric_mammoth	Kronfjall Thunderhoof	false
+effects_description_hkrul_eyri_mammoth	Mount: Kronfjall Thunderhoof	false
+ancillaries_colour_text_hkrul_eyri_mammoth	From the icy caves beneath Mount Kronfjall, this mammoth was captured after ten men died luring it from its lair.	false
+ancillaries_onscreen_name_hkrul_eyri_mammoth	Kronfjall Thunderhoof	false
+effects_description_hkrul_eyri_crown	Ability: "Standard of Salt and Coin"	false
+ancillaries_colour_text_hkrul_eyri_crown	This banner is stitched from coastal sailcloth dyed deep grey-blue, flecked with blood-rust and frayed by sea spray. Its sigil — a golden kraken clutching a balance scale — marks it unmistakably as the flag of Eyristaad and the Goldfinger fleet. To Eyri’s men, it is a symbol of opportunity. Where it flies, coin flows and enemies bleed. To his rivals, it is the promise of treachery — for this banner is raised not in honour or loyalty, but in pursuit of gain.	false
+ancillaries_onscreen_name_hkrul_eyri_crown	Standard of Salt and Coin	false
+effects_description_hkrul_eyri_raiders	Ability: "Bribewind Raiders" for Marauder units	true
+unit_abilities_tooltip_text_hkrul_eyri_raiders	Goldfinger's retinue knows when to fight... and when to sail away richer.	false
+unit_abilities_onscreen_name_hkrul_eyri_raiders	Bribewind Raiders	false
+units_custom_battle_mounts_localised_description_hkrul_eyrihkrul_ulfric_horse	Said to have trampled more merchants than hoarded treasure, this beast knows the scent of gold and blood alike.	false
+units_custom_battle_mounts_mount_name_hkrul_eyrihkrul_ulfric_horse	Coinhoof	false
+units_custom_battle_mounts_localised_description_hkrul_eyrihkrul_ulfric_chariot	Once a travelling merchant’s wagon, now converted into a blood-slick war chariot that rolls over both coin and corpses.	false
+units_custom_battle_mounts_mount_name_hkrul_eyrihkrul_ulfric_chariot	Tradebreaker Cart	false
+character_skills_localised_description_hkrul_eyri_horse	Said to have trampled more merchants than hoarded treasure, this beast knows the scent of gold and blood alike.	false
+character_skills_localised_name_hkrul_eyri_horse	Coinhoof	false
+character_skills_localised_description_hkrul_eyri_chariot	Once a travelling merchant’s wagon, now converted into a blood-slick war chariot that rolls over both coin and corpses.	false
+character_skills_localised_name_hkrul_eyri_chariot	Tradebreaker Cart	false
+ancillaries_colour_text_hkrul_eyri_horse	Said to have trampled more merchants than hoarded treasure, this beast knows the scent of gold and blood alike.	false
+ancillaries_onscreen_name_hkrul_eyri_horse	Coinhoof	false
+ancillaries_colour_text_hkrul_eyri_chariot	Once a travelling merchant’s wagon, now converted into a blood-slick war chariot that rolls over both coin and corpses.	false
+ancillaries_onscreen_name_hkrul_eyri_chariot	Tradebreaker Cart	false
+land_units_onscreen_name_hkrul_eyri_horse	Eyri Goldfinger	false
+land_units_onscreen_name_hkrul_eyri_chariot	Eyri Goldfinger	false
+character_skills_localised_name_hkrul_eyri_special_1_6	Twin-Blade Barter	false
+character_skills_localised_name_hkrul_eyri_special_1_7	Ledgers of Blood	false
+character_skills_localised_name_hkrul_eyri_special_1_8	Imperial Entanglements	false
+character_skills_localised_name_hkrul_eyri_special_1_9	Sea-League Syndicate	false
+character_skills_localised_name_hkrul_eyri_special_1_10	Goldfinger	false
+character_skills_localised_description_hkrul_eyri_special_1_6	"Grompf follows coin and blood. I give him both."	false
+character_skills_localised_description_hkrul_eyri_special_1_7	 A coat lined with coins and contracts, blessed by no gods, yet proof against many blades.	false
+character_skills_localised_description_hkrul_eyri_special_1_8	"I trade loyalty like fish. Fresh or rotten — I always make a profit."	false
+character_skills_localised_description_hkrul_eyri_special_1_9	The troll obeys only one master — and he’s paid well.	false
+character_skills_localised_description_hkrul_eyri_special_1_10	A true son of the coast — fast, ruthless, and unrelenting.	false

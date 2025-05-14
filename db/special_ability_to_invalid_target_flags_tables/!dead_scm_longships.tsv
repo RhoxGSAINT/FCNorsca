@@ -1,0 +1,5 @@
+invalid_target	special_ability
+#special_ability_to_invalid_target_flags_tables;0;db/special_ability_to_invalid_target_flags_tables/!dead_scm_longships	
+flying_currently	hkrul_longship_kraken
+on_a_platform	hkrul_longship_kraken
+climbing_manning_eq_on_platform	hkrul_longship_denizens

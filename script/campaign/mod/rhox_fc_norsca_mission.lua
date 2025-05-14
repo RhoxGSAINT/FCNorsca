@@ -21,6 +21,10 @@ local agent_subtype_to_level_and_mission={
     hkrul_adella={
         level= 7,
         mission= "hkrul_skeggi_adella_sword_final"
+     },
+    hkrul_birna={
+        level= 14,
+        mission= "hkrul_sarl_birna_bogtusk_final_battle"       
     },
 }
 
@@ -96,28 +100,6 @@ core:add_listener(
 
 
 core:add_listener(
-    "rhox_fc_norsca_sarl_turn3_mission",
-    "FactionTurnStart",
-    function(context)
-        local faction = context:faction()
-        local turn = cm:model():turn_number();
-        return faction:name() == "wh_main_nor_sarl" and faction:is_human() and turn == 3 and cm:get_campaign_name() ~= "cr_oldworld"
-    end,
-    function(context)
-        local turn = cm:model():turn_number();
-        local faction = context:faction()
-        local mm = mission_manager:new(faction:name(), "rhox_fc_norsca_capture_alexandronov")
-        mm:add_new_objective("CAPTURE_REGIONS");
-        mm:add_condition("region wh3_main_combi_region_castle_alexandronov");
-        mm:add_condition("ignore_allies");
-        mm:add_payload("money 1000");
-        mm:add_payload("text_display rhox_fc_norsca_agent_troll_hag_dummy");
-        mm:trigger()
-    end,
-    true
-);
-
-core:add_listener(
     "rhox_fc_norsca_sarl_turn3_mission_complete",
     "MissionSucceeded",
     function(context)    
@@ -149,6 +131,19 @@ core:add_listener(
     function(context)
         local faction_key = context:faction():name()
         cm:remove_event_restricted_unit_record_for_faction("hkrul_skeggi_giant_ror", faction_key)
+    end,
+    true
+)
+core:add_listener(
+    "hkrul_birna_final_mission_completed_ror",
+    "MissionSucceeded",
+    function(context)    
+        local mission_key = context:mission():mission_record_key();
+        return mission_key == "hkrul_sarl_birna_bogtusk_final_battle"
+    end,
+    function(context)
+        local faction_key = context:faction():name()
+        cm:remove_event_restricted_unit_record_for_faction("hkrul_boartusk_mammoth_ror", faction_key)
     end,
     true
 )

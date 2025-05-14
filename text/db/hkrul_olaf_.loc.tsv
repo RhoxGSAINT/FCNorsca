@@ -1,0 +1,125 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_olaf_.loc		
+character_skills_localised_name_innate_hkrul_olaf	The Red Tide	true
+character_skills_localised_description_innate_hkrul_olaf	"I am not a man. I am the crimson storm that wears a man’s face!"	true
+character_skills_localised_name_hkrul_olaf_special_1_0	Three-Headed Terror	true
+character_skills_localised_name_hkrul_olaf_special_1_1	Fjordborn Raiders	true
+character_skills_localised_name_hkrul_olaf_special_1_2	Blood Demands Tribute	true
+character_skills_localised_name_hkrul_olaf_special_1_3	Salt and Smoke	true
+character_skills_localised_name_hkrul_olaf_special_1_4	Seer’s Bond	true
+character_skills_localised_name_hkrul_olaf_special_1_5	Bane of the Southlands	true
+character_skills_localised_name_hkrul_olaf_special_1_6	Daemon’s Hunger	true
+character_skills_localised_description_hkrul_olaf_special_1_0	In the mist, he appears a monster—warrior and twin bears all snarling as one.	true
+character_skills_localised_description_hkrul_olaf_special_1_1	The Viggslatra do not knock at doors. They burn them down.	true
+character_skills_localised_description_hkrul_olaf_special_1_2	Olaf does not conquer for spoils, but to honor the Blood God.	true
+character_skills_localised_description_hkrul_olaf_special_1_3	The coastal winds carry the scent of fire, blood, and vengeance	true
+character_skills_localised_description_hkrul_olaf_special_1_4	Tuula’s whispers in the dark steer Olaf toward destiny	true
+character_skills_localised_description_hkrul_olaf_special_1_5	From Marienburg to Bordeleaux, mothers still whisper warnings of red-haired devils from the sea.	true
+character_skills_localised_description_hkrul_olaf_special_1_6	S’iba’aht hungers, and Olaf feeds it without hesitation.	true
+agent_subtypes_description_text_override_hkrul_olaf	Three heads seem to snarl in the mist—two of bear, one of berserker chief.	false
+agent_subtypes_onscreen_name_override_hkrul_olaf	Legendary Lord	false
+unit_abilities_onscreen_name_hkrul_olaf_retinue	Bloodsworn Retinue	true
+unit_description_short_texts_text_hkrul_olaf	A mountain of rage and blood, Olaf leads his warband with feral fury and Khorne’s blessing.	false
+unit_description_historical_texts_text_hkrul_olaf	Towering over his warband, Olaf Wolfhound is both warlord and beast. His frizzled mane of red hair and twin bear pelts lend him an unholy silhouette, like some three-headed god of battle. Fueled by a ceaseless fury, Olaf commands his Skaeling kin with brutal clarity and unwavering devotion to Khorne. Each raid, each slaughter, is a hymn in blood to his patron god—and few can match his zeal.	false
+names_name_3610711834	Olaf	false
+names_name_3610711833	Wolfhound	false
+land_units_onscreen_name_hkrul_olaf	Olaf Wolfhound	true
+character_skills_localised_name_hkrul_olaf_special_0_1	Southbound Marauders	true
+character_skills_localised_name_hkrul_olaf_special_0_2	Viggslatra Skaeling	true
+character_skills_localised_description_hkrul_olaf_special_0_1	"They breathe salt, chant Khorne’s name, and laugh as fire devours towns."	true
+character_skills_localised_description_hkrul_olaf_special_0_2	The longships of Viggslatra strike like lightning, and retreat only when the enemy is ash.	true
+effects_description_hkrul_olaf_helm	Passive Ability: "Warhide of the Nine Winters"	false
+effects_description_hkrul_olaf_rally	Ability: "Roar of the Three-Headed Beast"	false
+effects_description_hkrul_olaf_axe	Ability: "Gorehook"	false
+unit_abilities_tooltip_text_hkrul_olaf_retinue	Handpicked by Olaf and baptized in the blood of his enemies, his warband fights with ruthless precision at his side.	true
+unit_abilities_onscreen_name_hkrul_olaf_axe	Gorehook	true
+unit_abilities_tooltip_text_hkrul_olaf_axe	Its cruel, serrated edge tears flesh more than it cuts, dragging enemies screaming to the ground.	true
+unit_abilities_tooltip_text_hkrul_olaf_rally	Olaf bellows with the voice of man and bear, a thunderous cry that breaks courage like brittle bone.	true
+unit_abilities_onscreen_name_hkrul_olaf_rally	Roar of the Three-Headed Beast	true
+effects_description_hkrul_olaf_retinue	Passive Ability: "Bloodsworn Retinue"	false
+ancillaries_onscreen_name_hkrul_olaf_axe	Gorehook	false
+ancillaries_onscreen_name_hkrul_olaf_helm	Warhide of the Nine Winters	false
+ancillaries_colour_text_hkrul_olaf_axe	Crude and cruel in design, Gorehook is more a butcher’s tool than a warrior’s weapon. Forged in the black smoke of a Skaeling war-forge and quenched in the blood of thralls, the axe’s jagged crescent edge is serrated and curved inward like a beast’s fang. It does not slice cleanly—it rips, mauls, and drags. Victims struck by Gorehook are often left writhing on the ground, hamstrung or bleeding out as Olaf steps over them to find his next target.	false
+ancillaries_explanation_text_hkrul_olaf_axe		false
+unit_abilities_onscreen_name_hkrul_khorne_bomb	Crimson Rain	true
+unit_abilities_tooltip_text_hkrul_khorne_bomb	S’iba’aht feasts, its crimson hunger guiding it toward a worthy soul. The air screams, and the spear strikes like a god’s judgment—seeking blood, not mercy.	true
+ancillaries_colour_text_hkrul_olaf_helm		false
+ancillaries_explanation_text_hkrul_olaf_helm	Forged in exile and consecrated in blood, this mantle is crafted from the pelts of nine dire bears—one for each brutal winter Olaf endured alone in the Howling North after defying and slaying his tribe’s old chieftain. Of the nine, three were slain with bare hands beneath a blood moon, their massive skulls now mounted upon Olaf’s shoulders as a fearsome trophy. Their snarling visages frame him in battle, giving the impression of a three-headed beast rising from a blizzard of gore. The cloak never freezes, never stiffens, and seems to repel fire and poison as if nature itself dares not offend its wearer. The Warhide is more than protection—it is proof that Olaf has already survived a fate harsher than death.	false
+unit_abilities_onscreen_name_hkrul_olaf_helm	Warhide of the Nine Winters	true
+unit_abilities_tooltip_text_hkrul_olaf_helm	Taken from beasts hunted during Olaf’s exile in the Howling North, this cloak has never grown stiff with frost.	true
+land_units_onscreen_name_hkrul_olaf_chariot	Olaf Wolfhound	true
+units_custom_battle_mounts_localised_description_hkrul_olafhkrul_olaf_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_olafhkrul_olaf_chariot	Khornate Chariot	false
+character_skills_localised_name_hkrul_olaf_chariot	Khornate Chariot	true
+character_skills_localised_description_hkrul_olaf_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	true
+effects_description_hkrul_khorne_bomb	Ability: "Crimson Rain"	false
+effects_description_hkrul_olaf_spear_dummy	Follow Olaf and Tuula on their quest to find the legendary spear - Crimson Rain - within the Empiric Heartland	false
+ancillaries_colour_text_hkrul_khorne_bomb	When fed the lifeblood of the slain, the spear glows with an inner, hellish light. But it is not merely a weapon—it is a prison. If left without slaughter, S’iba’aht grows quiet, its power waning until it slumbers again for centuries. When awakened, it speaks not with words but with yearning: visions, rage, and urges that twist even the strongest minds. It does not ask to be wielded. It chooses. When fed the lifeblood of the slain, the spear glows with an inner, hellish light. But it is not merely a weapon—it is a prison. If left without slaughter, S’iba’aht grows quiet, its power waning until it slumbers again for centuries. When awakened, it speaks not with words but with yearning: visions, rage, and urges that twist even the strongest minds. It does not ask to be wielded. It chooses.	false
+ancillaries_explanation_text_hkrul_khorne_bomb		false
+ancillaries_onscreen_name_hkrul_khorne_bomb	Crimson Rain	false
+effects_description_hkrul_heroes_def	Melee defence: %+n for embedded [[img:icon_hero]][[/img]]Heroes	false
+ancillaries_colour_text_hkrul_olaf_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_olaf_chariot	Khornate Chariot	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_olaf	Howl Silenced	false
+character_trait_levels_colour_text_hkrul_defeated_trait_olaf	The Three-Headed Beast has been muzzled—though the skulls he offered still grin.	false
+character_trait_levels_explanation_text_hkrul_defeated_trait_olaf	Defeated Jarl Olaf Wolfhound	false
+loading_screen_quotes_description_hkrul_olaf	Wreathed in bearskin and fury, Olaf bellows Khorne’s wrath and charges headlong into blood-soaked glory.	false
+loading_screen_quotes_title_hkrul_olaf	Jarl Olaf Wolfhound	false
+loading_screen_quotes_bulletpoints_hkrul_olaf	[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry||Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
+effect_bundles_localised_title_hkrul_olaf_faction_trait	The Crimson Call	false
+effect_bundles_localised_description_hkrul_olaf_faction_trait	Across blood-slick shores and frostbitten stone, Olaf and Tuula chased whispers of the daemon-spear. Drawn by dreams and screams, they crossed the Sea of Claws, guided by S’iba’aht’s distant call. Each battle won fed the spear’s stirring hunger; each slain foe a step closer to the relic’s return.	false
+event_feed_strings_text_rhox_fc_norsca_olaf_how_they_play	{{tr:how_they_play_norsca}}	false
+factions_attack_desc_mixer_nor_snaegr	You are attacking the Bloodfjord Tribe!	false
+factions_defend_desc_mixer_nor_snaegr	You are defending against the Bloodfjord Tribe!	false
+factions_screen_adjective_mixer_nor_snaegr		false
+factions_screen_name_mixer_nor_snaegr	Bloodfjord Tribe	false
+factions_screen_name_when_rebels_mixer_nor_snaegr	Rebel Bloodfjord Tribe	false
+frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_nor_snaegr	In the howling dark of Norsca’s coasts, where the wind flays skin and gods demand blood, Olaf Wolfhound marches to war—not alone, but bound in sacred slaughter to his crimson-haired bride, Tuula Bloodhair. Their union is no simple love—it is a pact forged in fury, battle, and the worship of Khorne. Together, they chase the maddening whispers of a daemon-forged spear, long thought lost, its name buried in slaughtered tongues. S’iba’aht calls to them in dreams and rage, and neither Olaf nor Tuula will rest until its thirst is quenched in oceans of gore. Let the world tremble—for where Olaf goes, so too goes Tuula, and where they walk, war follows.	false
+incidents_button_text_hkrul_olaf_turn_two_incident	Continue the bloodshed!	false
+incidents_localised_description_hkrul_olaf_turn_two_incident	In the restless hours after battle, Olaf dreams of a spear bathed in blood-red mist. Tuula wakes from visions of black iron piercing the heart of a dying god. The images fade with the morning frost, dismissed as tricks of fatigue and battle-lust. Yet somewhere—beyond smoke and ruin—a greater power watches, weighing their worth. The raiding continues. For now.	false
+incidents_localised_title_hkrul_olaf_turn_two_incident	The First Flash	false
+character_skills_localised_description_hkrul_olaf_mammoth	Olaf’s mount crushes flesh and faith alike—pulping priests and princes beneath its wrath.	false
+character_skills_localised_name_hkrul_olaf_mammoth	Braymaw the Red	false
+land_units_onscreen_name_hkrul_olaf_mammoth	Jarl Olaf Wolfhound	false
+units_custom_battle_mounts_localised_description_hkrul_olafhkrul_olaf_mammoth	Blood seeps from its tusks even before battle. None know why. None ask.	false
+units_custom_battle_mounts_mount_name_hkrul_olafhkrul_olaf_mammoth	Braymaw the Red	false
+effects_description_hkrul_olaf_mammoth	Mount: Braymaw the Red	false
+ancillaries_colour_text_hkrul_olaf_mammoth	Blood seeps from its tusks even before battle. None know why. None ask.	false
+ancillaries_onscreen_name_hkrul_olaf_mammoth	Braymaw the Red	false
+incidents_button_text_hkrul_olaf_turn_three_incident	Cross the Sea of Claws!	false
+incidents_localised_description_hkrul_olaf_turn_three_incident	The dreams no longer whisper—they roar. Olaf awakens with blood on his fists. Tuula's eyes burn with a fevered light. Crimson Rain howls from beyond the horizon, a siren cry of slaughter and promise. It is no longer a fleeting image—it is a command. The spear calls them to cross the Sea of Claws and tear through the lands of men to claim their destiny.	false
+incidents_localised_title_hkrul_olaf_turn_three_incident	The Crimson Call	false
+incidents_button_text_hkrul_olaf_turn_four_incident	Plunder the coast!	false
+incidents_localised_description_hkrul_olaf_turn_four_incident	The spear whispers through crashing waves and burning foam. It is close—closer. Tuula sees it in the bloodied surf, Olaf hears it in the thunder of cannon-fire. The towns of Nordland tremble beneath black sails, their priests clutching relics, their temples hiding something… perhaps the thing. The sea brings truth, and Khorne demands the price for it. Every pyre, every skull, every desecrated shrine brings Crimson Rain closer to hand. If the Empire will not give it freely, then we shall take everything.	false
+incidents_localised_title_hkrul_olaf_turn_four_incident	Salt and Ash, Blood and Bone	false
+incidents_button_text_hkrul_olaf_turn_five_incident	March to Middenheim!	false
+incidents_localised_description_hkrul_olaf_turn_five_incident	The gods grow louder. In her sleep, Tuula claws at the walls. Olaf has taken to muttering in his fury. The voice of the spear cries out through fire and fog, guiding their march ever southward—toward Middenheim, the Wolf-City. A priest dwells there, cloaked in lies and gold, guarding the truth of Crimson Rain. He will not speak willingly. Let his cathedral burn, let his screams echo through the mountain—let Sigmar’s stronghold become Khorne’s feast.	false
+incidents_localised_title_hkrul_olaf_turn_five_incident	The Priest of Middenheim	false
+missions_localised_mission_completed_text_hkrul_olaf_spear_3	The Search Continues	false
+missions_localised_title_hkrul_olaf_spear_3	Crimon Rain: The Tithe of Flame	false
+missions_localised_description_hkrul_olaf_spear_3	Crimson Rain is not merely found—it is earned. The spear is a relic of slaughter, a daemon that drinks not just blood, but the smoke of burning cities and the gold stolen from broken hands. It demands a tithe—a path of ruin paid in plunder and desecration. Villages must burn. Coffers must be cracked. Only then will the spear offer its next whisper. To follow the trail, you must leave one behind.	false
+missions_localised_mission_completed_text_hkrul_olaf_spear_2	The Search Continues	false
+missions_localised_title_hkrul_olaf_spear_2	Crimon Rain: Salt and Ash, Blood and Bone	false
+missions_localised_description_hkrul_olaf_spear_2	The trail leads to Nordland’s coast. The spear’s voice grows louder with each burning village. Its presence must be near. Sacking settlements may reveal those hiding knowledge—or guarding something greater	false
+missions_localised_mission_completed_text_hkrul_olaf_spear_1	The Search Begins	false
+missions_localised_title_hkrul_olaf_spear_1	Crimon Rain: The Call of Crimson Rain	false
+missions_localised_description_hkrul_olaf_spear_1	Tuula hears the spear in her dreams; Olaf feels it in his blood. The daemon-forged weapon known as Crimson Rain is no longer dormant. Its call echoes across the Sea of Claws. The trail begins—somewhere south, in the lands of men.	false
+missions_localised_mission_completed_text_hkrul_olaf_spear_4	The Search Continues	false
+missions_localised_title_hkrul_olaf_spear_4	Crimon Rain: The Priest of Middenheim	false
+missions_localised_description_hkrul_olaf_spear_4	A priest in Middenheim is said to know of the spear’s last location. The trail points to the Wolf-City, where faith and steel entwine. He will not speak freely—Middenheim must fall.	false
+missions_localised_mission_completed_text_hkrul_olaf_spear_5	The Spear is revealed	false
+missions_localised_title_hkrul_olaf_spear_5	Crimon Rain: Only One May Bleed for It	false
+missions_localised_description_hkrul_olaf_spear_5	The final piece falls into place. Crimson Rain lies hidden in a monastery at Dreizack. But another has heard the call: General Willi Ziege, an Empire champion. The Blood God demands a final trial. Only one may wield the spear.	false
+missions_localised_mission_completed_text_hkrul_olaf_spear_0	The Spear Calls	false
+missions_localised_title_hkrul_olaf_spear_0	Crimon Rain: Trial of Worth	false
+missions_localised_description_hkrul_olaf_spear_0	Before the daemon within Crimson Rain will call out in full, Olaf must prove himself a true vessel of slaughter. Khorne does not grant his gifts to the untested. Only through victory and bloodshed will Olaf earn the spear’s attention.	false
+incidents_localised_description_hkrul_olaf_turn_seven_incident	The monastery lies in ruins. The spear, Crimson Rain, now rests in Olaf’s hands—dripping not with blood, but with raw, pulsing power. Within its blade, the daemon S’iba’aht stirs, no longer slumbering, but fully awake and aware. Khorne watches. A choice must be made. To bind the daemon is to master its power—Olaf remains in control, wielding the weapon as a brutal extension of his will. But to release it… is to unchain S’iba’aht's true form. A new warbringer shall rise in Olaf’s place. Flesh will melt, reality will twist—and the spear will walk.	false
+incidents_localised_title_hkrul_olaf_turn_seven_incident	The Bloodbound Choice	false
+incidents_button_text_hkrul_olaf_turn_seven_incident_1	Bind the Daemon: The spear is mine to wield.	false
+incidents_button_text_hkrul_olaf_turn_seven_incident_2	Release the Daemon: Let S’iba’aht rise in blood and wrath.	false
+incidents_button_text_hkrul_olaf_turn_six_incident	Ride to Dreizack!	false
+incidents_localised_description_hkrul_olaf_turn_six_incident	At last, the dream sharpens into sight. Crimson Rain lies in Dreizack, sealed deep within a forgotten monastery built on holy fear and mortar-fed myths. But the spear does not whisper now—it screams. And not to Olaf alone. Willi Ziege, champion of the Empire, has heard the call. He marches not to defend—but to claim. To wield it. To cheat the Blood God of his rightful hound. There can be no sharing of this prize. No delay. The mountain must burn, and Ziege must die.	false
+incidents_localised_title_hkrul_olaf_turn_six_incident	Only One May Bleed For It	false
+effects_description_hkrul_olaf_income_raiding	Income from raiding: %+n% for each confederated Norscan tribe	false
+land_units_onscreen_name_scm_fc_norsca_bloodfjord_nor_marauder_spear	Marauder Spearmen	false
+land_units_onscreen_name_scm_fc_norsca_bloodfjord_nor_marauder_javelins	Marauder Hunters (Javelins)	false

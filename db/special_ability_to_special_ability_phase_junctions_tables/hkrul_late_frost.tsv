@@ -15,3 +15,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_yngve_rune	true	true	false	hkrul_yngve_rune
 1	hkrul_geimdall_wall_formation	true	false	false	hkrul_geimdall_wall_formation_buffer
 2	hkrul_geimdall_wall_formation	true	false	false	hkrul_geimdall_wall_formation
+1	hkrul_ziege_cry	false	false	true	hkrul_ziege_cry
+1	hkrul_boartusk_horn	false	false	true	hkrul_boartusk_horn
+1	hkrul_bubos_eye	false	false	true	hkrul_bubos_eye
+1	hkrul_bubos_eye_weak	false	false	true	hkrul_bubos_eye_weak

@@ -16,6 +16,7 @@ hkrul_mortensen_rally	item_ability.png	300	item_ability.png	battle	true
 hkrul_geimdall_shielded_xp_gain	experience.png	298	experience.png	campaign	true
 hkrul_geimdall_shielded_armour	armour.png	300	armour.png	battle	true
 hkrul_yngve_gaze	item_ability.png	300	item_ability.png	battle	true
+hkrul_ziege_cry	item_ability.png	300	item_ability.png	battle	true
 hkrul_norscan_giant_recruit_rank	experience.png	300	experience.png	campaign	true
 hkrul_norscan_giant_missile_res	resistance_missile.png	301	resistance_missile.png	battle	true
 hkrul_yngve_rune	item_ability.png	300	item_ability.png	battle	true
@@ -26,3 +27,5 @@ hkrul_geimdall_wall_formation	item_ability.png	300	item_ability.png	battle	true
 hkrul_deadly_onslaught_foot_birna	item_ability.png	300	item_ability.png	battle	true
 hkrul_deadly_onslaught_foot_harald	item_ability.png	300	item_ability.png	battle	true
 hkrul_deadly_onslaught_foot_geimdall	item_ability.png	300	item_ability.png	battle	true
+hkrul_boartusk_horn	item_ability.png	300	item_ability.png	battle	true
+hkrul_bubos_eye_weak	item_ability.png	300	item_ability.png	battle	true

@@ -1,0 +1,4 @@
+key	image	max_displays	weighting	first_shown_weighting	category
+#loading_screen_quotes_tables;5;db/loading_screen_quotes_tables/hkru_nor_surp					
+hkrul_olaf	ui/portraits/portholes/no_culture/hkrul_olaf.png	-1	1	1	generic
+hkrul_tuula	ui/portraits/portholes/no_culture/hkrul_tuula.png	-1	1	1	generic

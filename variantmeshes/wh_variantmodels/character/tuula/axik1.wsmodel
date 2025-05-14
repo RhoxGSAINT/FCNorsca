@@ -1,0 +1,7 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\tuula\axik1.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\tuula/materials/axik_rigid_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\character\tuula/materials/grn_orc_savage_big_uns_head_arm_rigid_alpha_off.xml.material</material>
+	</materials>
+</model>

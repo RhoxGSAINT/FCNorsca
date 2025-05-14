@@ -97,3 +97,4 @@ rhox_skald_fury_call_upgraded	-1.0000	positive		false	false	0.0000	0.0000	0.0000
 hkrul_skald_horn_passive	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_skald_drum_passive	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_skald_saga	5.0000	positive		false	false	-0.0100	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_morale		false	true	true	0.0000			false	0.0080	0.0000	false	0.0000
+hkrul_skraevold_fury	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

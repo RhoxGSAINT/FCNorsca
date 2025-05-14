@@ -12,3 +12,4 @@ hkrul_birna_hunters_cap	unit_capacity.png	1	unit_capacity.png	campaign	true
 hkrul_birna_hunters_upkeep	military_spending.png	1	military_spending.png	campaign	false
 hkrul_birna_hunters_snipe	snipe.png	1	snipe.png	battle	true
 hkrul_birna_hunters_vanguard	attribute_guerrilla_deploy.png	1	attribute_guerrilla_deploy.png	battle	true
+hkrul_birna_feature_hunt	hkrul_effect_bundle_hunt_dummy.png	1	hkrul_effect_bundle_hunt_dummy.png	campaign	true

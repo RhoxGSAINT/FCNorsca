@@ -1,0 +1,20 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\tuula\tuula.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\tuula\materials\dlc02_stump_head_hu1c_lod1_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\character\tuula\materials\ksl_archer_head_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\character\tuula\materials\dae_khornataur_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\character\tuula\materials\vmp_cairn_wraith_skull_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\character\tuula\materials\hef_handmaiden_everqueen_head_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\character\tuula\materials\brt_battle_pilgrims_torso_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\character\tuula\materials\def_supreme_sorceress_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\character\tuula\materials\def_supreme_sorceress_head_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\character\tuula\materials\ksl_ulrika_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\character\tuula\materials\bst_doombull_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\character\tuula\materials\chs_marauder_chieftain_legs_03_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\character\tuula\materials\ksl_ice_guard_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\character\tuula\materials\grn_orc_savage_big_uns_head_arm_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\character\tuula\materials\chs_ring_04_lod01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\character\tuula\materials\ksl_ulrika_body_01_1_weighted4_alpha_on.xml.material</material>
+	</materials>
+</model>

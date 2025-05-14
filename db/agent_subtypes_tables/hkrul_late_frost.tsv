@@ -2,3 +2,6 @@ key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_
 #agent_subtypes_tables;2;db/agent_subtypes_tables/hkrul_late_frost																							
 hkrul_mortensen	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_mortensen	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100		
 hkrul_geimdall	false	false		hkrul_geimdall	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100		
+hkrul_ziege	false	false		hkrul_ziege	wh_dlc04_vo_actor_Empire_Arch_Lector	true	-1	false	true	false	false				false	true	cannot_be_loaded_in_campaign		false	true	1350		
+hkrul_boartusk_boss	false	false		hkrul_boartusk_boss	wh_dlc08_vo_actor_Norsca_Skin_Wolf_Werekin	true	-1	false	true	false	false				false	false	cannot_be_loaded_in_campaign		false	true	3740		
+hkrul_bubos_boss	false	false		hkrul_bubos_boss	wh_main_vo_actor_default	true	-1	false	true	false	false				false	false	cannot_be_loaded_in_campaign		false	true	3740		

@@ -4,7 +4,7 @@ hkrul_adella	0	25	250	100	3.0000	sword	sword	medium	5	1.3000	0.7500	0.0000	false
 hkrul_adella_chariot	0	45	250	100	3.0000	sword	sword	medium	5	1.3000	0.7500	0.0000	false		0	10	4.0000		false
 hkrul_soren	40	0	150	210	3.0000	spear	staff	large	5	1.0000	0.5000	0.0000	false		0	10	4.0000		false
 hkrul_birna	0	30	240	190	3.0000	sword	sword	medium	5	1.0000	0.7500	0.0000	false		0	10	4.0000		false
-hkrul_einar	0	35	165	320	7.0000	sword	sword	large	6	1.0000	1.2500	0.0000	true		0	10	4.0000		false
+hkrul_einar	0	30	165	310	7.0000	sword	sword	large	6	1.0000	1.2500	0.0000	true		0	10	4.0000		false
 hkrul_harald	0	30	170	330	7.0000	sword	sword	large	6	1.0000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_nightmaw	0	30	200	210	2.0000	axe	creatures_claws	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_sayl	0	0	255	100	3.0000	sword	sword	medium	5	1.3000	0.7500	0.0000	true		0	10	4.0000		false
@@ -17,7 +17,7 @@ hkrul_oda	0	15	250	125	3.0000	sword	sword	medium	8	1.0000	0.7500	0.0000	false	hk
 hkrul_drenok_wolf	20	0	95	200	6.0000	axe	creatures_claws	medium	4	1.5000	1.0000	0.0000	false	wh_dlc08_unit_contact_frostbite	0	10	2.9000		false
 hkrul_hrothgar	0	30	300	200	3.0000	axe	axe	large	7	1.0000	1.0000	1.0000	false		0	10	4.0000		false
 hkrul_akkorak	25	0	125	285	3.0000	lance	spear	medium	8	1.0000	0.5000	0.0000	false		0	10	4.0000		false
-hkrul_ulfric	0	25	150	335	1.0000	axe	axe	medium	8	1.5000	1.0000	0.0000	false		0	10	4.0000		false
+hkrul_ulfric	0	25	155	340	1.0000	axe	axe	medium	8	1.5000	1.0000	0.0000	false		0	10	4.0000		false
 hkrul_ulfric_chariot	0	45	150	335	1.0000	axe	axe	medium	8	1.5000	1.0000	0.0000	false		0	10	4.0000		false
 hkrul_swyrd	0	0	225	350	1.0000	axe	axe	medium	8	1.5000	1.0000	0.0000	false		0	10	4.0000		false
 hkrul_rafn	30	0	90	300	1.0000	axe	axe	medium	8	1.5000	1.0000	0.0000	false		0	10	4.0000		false
@@ -53,3 +53,4 @@ scm_norsca_wolftribe_skin_wolf_lord	41	0	160	280	2.0000	axe	creatures_claws	medi
 scm_norsca_huern_wolf_claw	41	0	170	280	2.0000	axe	creatures_claws	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_bear_summon	0	0	100	200	5.0000	axe	creatures_claws	large	7	2.0000	1.2500	0.0000	false		0	10	4.0000		false
 hkrul_axe_skald	0	0	285	115	3.0000	axe	axe	large	8	1.0000	1.0000	0.0000	false		0	10	4.0000		false
+hkrul_skraevold	0	30	245	210	2.0000	axe	creatures_claws	medium	4	1.5000	1.2500	0.0000	false		0	10	4.0000		false

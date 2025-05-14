@@ -1,0 +1,19 @@
+<VARIANT_MESH>
+	<SLOT name="head" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\phy_emp_captain\phy_emp_captain_01.wsmodel" >
+			<META_DATA>audio_entity_type:wh2_pro08_human_male_LORD_Felix</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_1" attach_point="be_prop_0" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1\phy_emp_captain\props\phy_emp_captain_sword_01.wsmodel" >
+			<META_DATA>audio_melee_weapon_type:sword</META_DATA></VARIANT_MESH>
+	</SLOT>
+	<SLOT name="weapon_2" attach_point="be_prop_1" />
+	<SLOT name="shield" attach_point="be_prop_2" />
+	<SLOT name="weapon_3" attach_point="be_prop_3" />
+	<SLOT name="weapon_4" attach_point="be_prop_4" />
+	<SLOT name="weapon_5" attach_point="be_prop_5" />
+	<SLOT name="body" >
+		<VARIANT_MESH model="" >
+			<META_DATA>audio_armour_type:chainmail</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

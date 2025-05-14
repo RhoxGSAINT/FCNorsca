@@ -1,0 +1,5 @@
+model	animation_set	variant	scale	actor	ignore_rider_variant_scale	vfx_filter	banner_relative_to_mount	prebattle_separation_offset
+#campaign_mounts_tables;9;db/campaign_mounts_tables/dead_scm_longships								
+scm_mod_cam_mnt_gra_longship	cam_wm_marauder_chariot	scm_mod_campaign_gra_longship	0.4200	wh_dlc08_vo_culture_Norsca	false	0	false	0.0000
+scm_mod_cam_mnt_sarl_longship	cam_wm_marauder_chariot	scm_mod_campaign_sarl_longship	0.4200	wh_dlc08_vo_culture_Norsca	false	0	false	0.0000
+scm_mod_cam_mnt_gei_longship	cam_wm_marauder_chariot	scm_mod_campaign_gei_longship	0.4200	wh_dlc08_vo_culture_Norsca	false	0	false	0.0000

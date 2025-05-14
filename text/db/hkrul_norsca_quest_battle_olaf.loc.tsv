@@ -1,0 +1,43 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_norsca_quest_battle_olaf.loc		
+battle_set_pieces_localised_name_hkrul_bloodtide_olaf_spear_final_battle	The Crimson Vault	false
+battle_set_pieces_localised_description_hkrul_bloodtide_olaf_spear_final_battle	The spear no longer whispers,—it screams. As Olaf and Tuula draw closer, the sky turns crimson red - storms gather as Khorne revels in the slaughter that is to come. The trail ends here, deep in the hills of the Empire, in a forgotten monastic fortress wreathed in grey stone and sigmarite superstition. Within lies Crimson Rain, entombed in chains, surrounded by wards, and guarded by the Empire’s finest templars, witch hunters, and priests. The monastery will fall. The gods will see who is stronger—Sigmar’s martyrs or Khorne’s chosen.	false
+names_name_9224250101	Willi	false
+names_name_9224250100	Ziege	false
+names_name_9224250103	Erich	false
+names_name_9224250102	Granholm	false
+loading_screen_quotes_description_hkrul_bloodtide_olaf_spear_final_battle	For leagues, Olaf and Tuula have carved a crimson path across the Empire—burning villages, toppling castles, tearing relics from priest and prince alike. And now, beyond these final hills, lies the monastery where the weapon waits, wrapped in chains of silver and scripture. The spear hungers. Olaf aches. Tuula grins. Crimson Rain does not wish to be found—it wishes to be wielded. Let the faithful scream. Let the walls shake. Let Sigmar’s last bastion fall beneath the wrath of Khorne’s wolves.	false
+loading_screen_quotes_title_hkrul_bloodtide_olaf_spear_final_battle	The Crimson Vault	false
+missions_localised_mission_completed_text_hkrul_bloodtide_olaf_spear_final_battle	The Crimson Rain claimed	false
+missions_localised_title_hkrul_bloodtide_olaf_spear_final_battle	The Crimson Vault	false
+missions_localised_description_hkrul_bloodtide_olaf_spear_final_battle	The spear no longer whispers,—it screams. As Olaf and Tuula draw closer, the sky turns crimson red - storms gather as Khorne revels in the slaughter that is to come. The trail ends here, deep in the hills of the Empire, in a forgotten monastic fortress wreathed in grey stone and sigmarite superstition. Within lies Crimson Rain, entombed in chains, surrounded by wards, and guarded by the Empire’s finest templars, witch hunters, and priests. The monastery will fall. The gods will see who is stronger—Sigmar’s martyrs or Khorne’s chosen.	false
+scripted_subtitles_localised_text_hkrul_bloodtide_olaf_spear_final_battle_pt_01	See them kneel! See them clutch their prayers like broken shields.	false
+scripted_subtitles_localised_text_hkrul_bloodtide_olaf_spear_final_battle_pt_02	S’iba’aht calls; its hunger is ruin! It is here! Now we take what was promised—now Crimson Rain drinks deep!	false
+scripted_subtitles_localised_text_hkrul_bloodtide_olaf_spear_final_battle_pt_03	Kill for blood, kill for S’iba’aht’s scream, kill! That is why we were forged! KILL!	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_defender_1	Ziege's Bears	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_defender_2	Salzenmund	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_defender_3	Nordland	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_defender_5	Middenheim	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_player	Jarl Olaf Wolfhound	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_player_ally	Aatu Arm-Tearer	false
+battle_set_piece_armies_army_onscreen_name_hkrul_bloodtide_olaf_spear_final_battle_player_ally_cav	Jarl Olaf Wolfhound	false
+scripted_objectives_localised_description_hkrul_bloodtide_olaf_spear_final_battle_hint_ally_dead		false
+scripted_objectives_localised_description_hkrul_bloodtide_olaf_spear_final_battle_hint_artillery		false
+scripted_objectives_localised_description_hkrul_bloodtide_olaf_spear_final_battle_hint_karl_dead		false
+scripted_objectives_localised_description_hkrul_bloodtide_olaf_spear_final_battle_hint_louen_dead		false
+scripted_objectives_localised_description_hkrul_bloodtide_olaf_spear_final_battle_hint_objective		false
+scripted_objectives_localised_description_hkrul_bloodtide_olaf_spear_final_battle_hint_reinforcements_pegsus		false
+scripted_objectives_localised_text_hkrul_bloodtide_olaf_spear_final_battle_hint_ally_dead	Aatu is on the verge of retreat! The Blood Father will be displeased! Watch our right flank!	false
+scripted_objectives_localised_text_hkrul_bloodtide_olaf_spear_final_battle_hint_artillery	Look there up the hill! Nordland’s cannons speak from the ridge—so be it! Let their thunder feed the storm of Khorne!	false
+scripted_objectives_localised_text_hkrul_bloodtide_olaf_spear_final_battle_hint_karl_dead	The Bear of Grevenfeld, Willi Ziege, is defeated!	false
+scripted_objectives_localised_text_hkrul_bloodtide_olaf_spear_final_battle_hint_louen_dead	The commander of the Salzenmund state army, Felix Lowe, is defeated!	false
+scripted_objectives_localised_text_hkrul_bloodtide_olaf_spear_final_battle_hint_objective	Within the walls of that monastery lies Crimson Rain. CHARGE! Up the hill! Break them for the Blood God: slay their prophet – crush their creed!	false
+scripted_objectives_localised_text_hkrul_bloodtide_olaf_spear_final_battle_hint_reinforcements_pegsus	Middenheim sends its hounds to attack our left flank—proof of the spear’s worth! Let them come. More skulls for Khorne!	false
+names_name_9224250106	Aatu	false
+names_name_9224250105	Arm-Tearer	false
+unit_abilities_onscreen_name_hkrul_boartusk_shatter	Gut-Staggering Stomp	true
+unit_abilities_tooltip_text_hkrul_boartusk_shatter	A single stomp breaks the hearts of lesser beasts and bends the will of mortals.	true
+unit_abilities_onscreen_name_hkrul_boartusk_helm	Brine-Hardened Hide	true
+unit_abilities_tooltip_text_hkrul_boartusk_helm	Their skin is salt-cured like aged meat, near-impervious to arrow and axe alike.	true
+unit_abilities_onscreen_name_hkrul_boartusk_helm_weak	Brine-Hardened Hide	true
+unit_abilities_tooltip_text_hkrul_boartusk_helm_weak	Their skin is salt-cured like aged meat, near-impervious to arrow and axe alike.	true

@@ -1,0 +1,76 @@
+<shader_library file="fx/particle_vfx_library.hlsl"/><vfx revision="2" construction_type="2" enable_in_ted="false" camera_following="false" ref_spawn_speed="-1.00">
+	<!-- EMITTERS-->
+	<emitters></emitters>
+	<!-- BEHAVIOUR_CHAINS-->
+	<behaviour_chains></behaviour_chains>
+	<!-- EFFECT RENDER STACKS-->
+	<effect_render_stacks></effect_render_stacks>
+</vfx><vfx_references>
+	<vfx inst_name="main" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="0.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="fist_impact_decal" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="impact_distortion" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="impact_dust_wave" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="earth_ripple" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="impact_rocks" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="impact_glow_circle" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="30" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="30.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="60" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="60.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="90" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="90.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="120" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="120.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="150" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="150.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="180" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="180.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="210" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="210.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="240" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="240.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="270" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="270.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="300" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="300.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="330" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="330.00" rot_z="0.00" start_time_min="3.00" start_time_max="3.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="rock_ripple_circle_section" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+	<vfx inst_name="bonecrusher_hand_anticipation" vfx_ref="wh3_main_lib_great_maw_bonecrusher" notes="" scale_min="1.00" scale_max="1.00" pos_x="0.00" pos_y="0.00" pos_z="0.00" rot_x="0.00" rot_y="0.00" rot_z="0.00" start_time_min="0.00" start_time_max="0.00" infinite_life="true" simulation_speed_multiplier="1.00">
+		<emitter name="bonecrusher_gauntlet" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="decal_glow" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="decal_aim_circles" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="glow_build" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="fist_glow_build" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="glow_beam_down" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+		<emitter name="embers_dissapate" enable="true" tint_min_r="0.00" tint_min_g="1.00" tint_min_b="13.00" tint_min_a="1.00" tint_max_r="0.00" tint_max_g="1.00" tint_max_b="13.00" tint_max_a="1.00" particle_lifetime_bias_min="0.00" particle_lifetime_bias_max="0.00" emitter_lifetime_bias_min="0.00" emitter_lifetime_bias_max="0.00" spawn_rate_scale_factor_min="1.00" spawn_rate_scale_factor_max="1.00" sound_record=""/>
+	</vfx>
+</vfx_references><!-- EDITOR DATA--><editor_data>
+	<effect_components>
+		<component id="main"/>
+		<component id="30"/>
+		<component id="60"/>
+		<component id="90"/>
+		<component id="120"/>
+		<component id="150"/>
+		<component id="180"/>
+		<component id="210"/>
+		<component id="240"/>
+		<component id="270"/>
+		<component id="300"/>
+		<component id="330"/>
+		<component id="bonecrusher_hand_anticipation"/>
+	</effect_components>
+</editor_data>

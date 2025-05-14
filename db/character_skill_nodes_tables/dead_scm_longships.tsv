@@ -1,0 +1,5 @@
+key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/dead_scm_longships									
+hkrul_geimdall_longship		hkrul_geimdall_longship		0	1		0	0	true
+hkrul_birna_longship		hkrul_birna_longship		0	1		0	0	true
+hkrul_harald_longship		hkrul_harald_longship		0	1		0	0	true

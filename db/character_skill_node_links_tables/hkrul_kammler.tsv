@@ -1,0 +1,26 @@
+child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	link_type
+#character_skill_node_links_tables;3;db/character_skill_node_links_tables/hkrul_kammler							
+hkrul_kammler_self_02	hkrul_kammler_self_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_self_03	hkrul_kammler_self_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_self_04	hkrul_kammler_self_02	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_self_04	hkrul_kammler_self_03	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_self_05	hkrul_kammler_self_04	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_self_06	hkrul_kammler_self_04	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_self_07	hkrul_kammler_self_05	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_self_07	hkrul_kammler_self_06	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_02	hkrul_kammler_magic_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_03	hkrul_kammler_magic_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_04	hkrul_kammler_magic_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_05	hkrul_kammler_magic_01	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_06	hkrul_kammler_magic_02	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_06	hkrul_kammler_magic_03	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_06	hkrul_kammler_magic_04	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_06	hkrul_kammler_magic_05	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_07	hkrul_kammler_magic_06	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_08	hkrul_kammler_magic_06	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_09	hkrul_kammler_magic_06	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_10	hkrul_kammler_magic_06	0	1	1	0.0000	0.0000	REQUIRED
+hkrul_kammler_magic_11	hkrul_kammler_magic_07	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_11	hkrul_kammler_magic_08	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_11	hkrul_kammler_magic_09	0	1	1	0.0000	0.0000	SUBSET_REQUIRED
+hkrul_kammler_magic_11	hkrul_kammler_magic_10	0	1	1	0.0000	0.0000	SUBSET_REQUIRED

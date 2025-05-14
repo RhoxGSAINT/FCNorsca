@@ -1,0 +1,15 @@
+effect	bonus_value_id	unit_ability
+#effect_bonus_value_unit_ability_junctions_tables;0;db/effect_bonus_value_unit_ability_junctions_tables/hkrul_nor_surp		
+hkrul_olg_helm	enable	hkrul_olg_helm
+hkrul_olg_axe	enable	hkrul_olg_axe
+hkrul_tuula_rally	enable	hkrul_tuula_rally
+hkrul_tuula_bound	enable	hkrul_tuula_bound
+hkrul_tuula_axe	enable	hkrul_tuula_axe
+hkrul_haftagg_shield	enable	hkrul_haftagg_shield
+hkrul_haftagg_roar	enable	hkrul_haftagg_roar
+hkrul_olaf_rally	enable	hkrul_olaf_rally
+hkrul_olaf_retinue	enable	hkrul_olaf_retinue
+hkrul_olaf_helm	enable	hkrul_olaf_helm
+hkrul_olaf_axe	enable	hkrul_olaf_axe
+hkrul_olg_spit	enable	hkrul_olg_spit
+hkrul_khorne_bomb	enable	hkrul_khorne_bomb

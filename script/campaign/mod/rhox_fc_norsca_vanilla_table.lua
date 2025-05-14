@@ -38,11 +38,11 @@ table.insert(character_unlocking.character_data["scyla"]["override_allowed_facti
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh3_dlc20_nor_kul")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_dlc08_nor_vanaheimlings")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_graeling")
-table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_sarl")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_varg")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_dlc08_nor_naglfarlings")
 
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_fjordlings")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_snaegr")
 
 
 
@@ -137,7 +137,11 @@ cm:add_first_tick_callback(
         campaign_traits.legendary_lord_defeated_traits["hkrul_beorg"] ="hkrul_defeated_trait_beorg"
         campaign_traits.legendary_lord_defeated_traits["hkrul_yngve"] ="hkrul_defeated_trait_yngve"
         campaign_traits.legendary_lord_defeated_traits["hkrul_geimdall"] ="hkrul_defeated_trait_geimdall"
-
+        campaign_traits.legendary_lord_defeated_traits["hkrul_olaf"] ="hkrul_defeated_trait_olaf"
+        
+        campaign_traits.legendary_lord_defeated_traits["hkrul_ziege"] ="hkrul_defeated_trait_ziege"
         campaign_traits.legendary_lord_defeated_traits["hkrul_bjornling_ogg"] ="hkrul_defeated_trait_ogg" 
+        campaign_traits.legendary_lord_defeated_traits["hkrul_bubos_boss"] ="hkrul_defeated_trait_bubos"
+        campaign_traits.legendary_lord_defeated_traits["hkrul_kolsveinn"] ="hkrul_defeated_trait_kolsveinn" 
 	end
 )

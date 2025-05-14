@@ -1,0 +1,10 @@
+id	names_group	type	gender	frequency
+#names_tables;0;db/names_tables/hkrul_norsca_qb_sur				
+9224250101	names_emp_empire	forename	m	1
+9224250100	names_emp_empire	family_name	m	1
+9224250103	names_emp_empire	forename	m	1
+9224250102	names_emp_empire	family_name	m	1
+9224250106	names_nor_norsca	forename	m	1
+9224250105	names_nor_norsca	family_name	m	1
+3110711833	names_nur_nurgle	family_name	m	1
+3110711834	names_nur_nurgle	forename	m	1

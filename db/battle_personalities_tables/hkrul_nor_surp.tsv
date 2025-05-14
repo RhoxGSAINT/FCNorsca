@@ -1,0 +1,9 @@
+key	man_animations_table	variant	battle_entity	battle_entity_stats	autonomous_rider_hero	autonomous_rider_can_shoot_in_melee	can_only_be_used_by_draught
+#battle_personalities_tables;12;db/battle_personalities_tables/hkrul_nor_surp							
+hkrul_olg	hu1_phy_olaf_01	hkrul_olg	hkrul_olg		false	true	false
+hkrul_haftagg	hu1_phy_olaf_01	hkrul_haftagg	hkrul_haftagg		false	true	false
+hkrul_tuula_chariot_rider	hu1_settra_wm_tomb_chariot01_2handed_halberd	hkrul_tuula	wh_main_infantry_rider_character_blood		true	true	false
+hkrul_olg_chariot_rider	hu1c_chaos_wm_chariot_halberd	hkrul_olg	wh_main_infantry_rider_character_blood		true	true	false
+hkrul_olaf_chariot_rider	hu1c_chaos_wm_chariot_halberd	hkrul_olaf	wh3_dlc20_chs_cha_lord_hero		true	true	false
+hkrul_olaf_mammoth_rider	hu1c_wulfrik_hq3_wb_sword_and_shield	hkrul_olaf_mammoth_rider	wh_main_infantry_rider		true	true	false
+hkrul_orgrim	hu1_phy_olaf_01	hkrul_orgrim	hkrul_orgrim		false	true	false

@@ -1,0 +1,24 @@
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/hkrul_nor_surp						
+		1	hkrul_olg_special_1_0		x	9
+		1	hkrul_tuula_special_1_0		x	9
+		1	hkrul_tuula_special_0_1		x	6
+		1	hkrul_tuula_special_0_2		x	15
+		1	hkrul_tuula_axe		x	8
+		1	hkrul_haftagg_special_1_0		x	9
+		1	hkrul_olaf_special_1_0		x	9
+		1	hkrul_olaf_special_0_1		x	6
+		1	hkrul_olaf_special_0_2		x	15
+		1	hkrul_olaf_axe		x	8
+		1	hkrul_olaf_helm		x	13
+		1	hkrul_olg_helm		x	10
+		1	hkrul_olg_axe		x	6
+		1	hkrul_tuula_chariot		x	12
+		1	hkrul_olg_chariot		x	12
+		1	hkrul_olaf_chariot		x	17
+		1	hkrul_olaf_mammoth		x	23
+		1	hkrul_orgrim_special_1_0		x	7
+		1	hkrul_berus_special_1_0		x	9
+		1	hkrul_usta_special_1_0		x	9
+		1	hkrul_kammler_special_1_0		x	9
+		1	hkrul_eyri_special_1_0		x	9

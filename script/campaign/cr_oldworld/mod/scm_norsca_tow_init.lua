@@ -157,7 +157,7 @@ local rhox_faction_list={
     wh_main_nor_bjornling ={
         leader={
             subtype="hkrul_ulfric",
-             unit_list="wh_dlc08_nor_inf_marauder_spearman_0,rhox_bjornling_maneater,wh_dlc08_nor_inf_marauder_hunters_1,wh_main_nor_inf_chaos_marauders_1,rhox_bjornling_huscarl_ror,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_inf_marauder_champions_0",
+             unit_list="rhox_bjornling_huscarl,hkrul_norsca_ymir,wh_dlc08_nor_inf_marauder_hunters_1,nor_longship_ror,wh_dlc08_nor_mon_norscan_giant_0",
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
@@ -170,7 +170,6 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 		    cm:add_unit_to_faction_mercenary_pool(faction,"wh_pro04_nor_mon_fimir_ror_0","renown",0,0,0,0,"","","",true,"wh_pro04_nor_mon_fimir_ror_0")
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_oda", faction:faction_leader():command_queue_index(), true)
-            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_hildr", faction:faction_leader():command_queue_index(), true)
             cm:make_diplomacy_available(faction_key, "wh_main_emp_nordland")
             cm:force_make_trade_agreement(faction_key, "wh_main_emp_nordland")
             
@@ -232,7 +231,7 @@ local rhox_faction_list={
     wh_main_nor_aesling ={
         leader={
             subtype="hkrul_hakka",
-            unit_list="wh_dlc08_nor_inf_marauder_champions_1,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,wh_dlc08_nor_mon_war_mammoth_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
+            unit_list="wh_dlc08_nor_inf_marauder_champions_1,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,hkrul_skraevold,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
             forename ="names_name_2570700351",
             familiyname ="names_name_2570700350",
         },
@@ -244,10 +243,36 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_kolsveinn", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "scm_norsca_alfkael", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_olaf", faction:faction_leader():command_queue_index(), true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_tuula", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end
     },
+    cr_nor_brennuns ={
+        leader={
+            subtype="hkrul_yngve",
+            unit_list="wh_dlc08_nor_feral_manticore,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_mon_norscan_giant_0,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_inf_marauder_hunters_1",
+            forename ="names_name_5670700633",
+            familiyname ="names_name_5670700632",
+        },	
+        agent={
+            type="champion",
+            subtype="wh_dlc08_nor_skin_wolf_werekin"            
+        },
+        region="cr_oldworld_region_crow_brethren_roost",
+        how_they_play="rhox_fc_norsca_brennuns_how_they_play",
+        pic=800,
+        faction_trait="hkrul_yngve_faction_trait",
+        kill_previous_leader="human_only",--they're first target of Azazel, so needs to be careful
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },    
     wh_main_nor_varg ={
         leader={
             subtype="hkrul_surtha_ek",
@@ -364,6 +389,72 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
+    mixer_nor_geimdall_huscarls = {
+    leader = {
+        subtype = "hkrul_geimdall",
+        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+        forename = "names_name_7610711834",
+        familiyname = "names_name_7610711833",  -- Fixed typo
+    },
+    hand_over_region = "cr_oldworld_region_oseberg",
+    region = "cr_oldworld_region_oseberg",
+
+    agent = {    
+        type = "spy",
+        subtype = "hkrul_skald_drum"
+    },
+
+    how_they_play = "rhox_fc_norsca_geimdall_how_they_play",
+    pic = 800,
+    faction_trait = "hkrul_geimdall_faction_trait",
+    kill_previous_leader = true,
+
+    additional = function(faction, faction_key)
+        cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1", faction_key, "norsca_monster_hunt_ror_unlock")
+        cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+        cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_hildr", true)
+        cm:force_declare_war("mixer_nor_geimdall_huscarls", "cr_teb_order_of_the_blazing_sun", false, false)
+
+        if faction:is_human() then
+            -- This is because they don't get allegiance
+            cm:set_saved_value("norscan_favour_lvl_3_reached_" .. faction_key, true) -- This will also block hunting rewards
+            cm:complete_scripted_mission_objective(faction_key, "wh_main_short_victory", "attain_chaos_god_favour_lvl_2", true)
+            cm:complete_scripted_mission_objective(faction_key, "wh_main_long_victory", "attain_chaos_god_favour", true)
+        end
+    end,
+
+    first_tick = function(faction, faction_key)
+        -- Placeholder for potential first-tick logic
+    end
+    },
+    mixer_nor_snaegr = {
+    leader = {
+        subtype = "hkrul_olaf",
+        unit_list = "wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh_main_chs_art_hellcannon,wh3_dlc20_chs_inf_chaos_marauders_mkho,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_feral_manticore,wh_dlc08_nor_mon_warwolves_0,wh3_main_kho_inf_flesh_hounds_of_khorne_0",
+        forename = "names_name_3610711834",
+        familiyname = "names_name_3610711833",  -- Fixed typo
+    },
+    hand_over_region = "cr_oldworld_region_aarvik",
+    region = "cr_oldworld_region_aarvik",
+
+    agent = {    
+        type = "wizard",
+        subtype = "wh_dlc08_nor_shaman_sorcerer_fire"
+    },
+
+    how_they_play = "rhox_fc_norsca_olaf_how_they_play",
+    pic = 800,
+    faction_trait = "hkrul_olaf_faction_trait",
+    kill_previous_leader = true,
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_tuula", true)
+		    cm:force_declare_war("mixer_nor_snaegr", "wh_main_nor_skaeling", false, false)
+        end,
+        first_tick = function(faction, faction_key) 
+        end
+    },   
     wh3_dlc20_nor_yusak ={
         leader={
             subtype="hkrul_sarg",
@@ -650,7 +741,10 @@ cm:add_first_tick_callback_new(
 )
 
 local turn2_incidents={
-    mixer_nor_geimdall_huscarls="rhox_geimdall_turn_two_incident"
+    mixer_nor_geimdall_huscarls="rhox_geimdall_turn_two_incident",
+    wh_main_nor_sarl="hkrul_birna_turn_two_incident",
+    mixer_nor_snaegr="hkrul_olaf_turn_two_incident",
+    wh_main_nor_baersonling="rhox_baersonling_chain_1",
 }
 cm:add_first_tick_callback(
 	function()

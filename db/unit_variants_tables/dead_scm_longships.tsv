@@ -1,0 +1,7 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/dead_scm_longships				
+	nor_longship_ror	nor_longship_ror	nor_longship_ror	scm_longship_ror
+	hkrul_birna_longship	birna_longship	sarl_birna_longship	hkrul_birna
+	hkrul_harald_longship	hkrul_harald_longship	gra_longship	hkrul_harald
+	hkrul_geimdall_longship	hkrul_geimdall_longship	hkrul_geimdall_longship	hkrul_geimdall
+	hkrul_boartusk_mammoth_ror	hkrul_boartusk_mammoth_ror	hkrul_boartusk_mammoth_ror	hkrul_boartusk_mammoth_ror

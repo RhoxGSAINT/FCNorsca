@@ -28,3 +28,16 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_birna	hkrul_birna_foot	false
 			hkrul_harald	hkrul_harald_foot	false
 			hkrul_geimdall	hkrul_geimdall_foot	false
+			hkrul_boartusk_boss	mp_cap_group_single_entities	false
+			hkrul_boartusk_boss	mp_cap_group_extended_roster	false
+			hkrul_bubos_boss	all_units_excluding_flying	true
+			hkrul_skraevold	wh2_main_ror_units_all	false
+			hkrul_skraevold	all_non_chs	false
+			hkrul_skraevold	dlc08_nor_giants	false
+			hkrul_skraevold	dlc08_nor_monsters	false
+			hkrul_skraevold	mp_cap_group_rare_single_entities	false
+			hkrul_skraevold	mp_cap_group_single_entities	false
+			hkrul_skraevold	mp_cap_unit_nor_mon_giant	false
+			hkrul_skraevold	nor_all	false
+			hkrul_skraevold	wh2_dlc11_nor_fimir_giant_mammoth	false
+				wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false

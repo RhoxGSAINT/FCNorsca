@@ -1,0 +1,5 @@
+bonus_value_id	effect	unit_set
+#effect_bonus_value_ids_unit_sets_tables;0;db/effect_bonus_value_ids_unit_sets_tables/hkrul_nor_surp		
+recruit_time_mod	hkrul_olg_time	dlc08_nor_marauders_champions
+recruit_time_mod	hkrul_haftagg_time	dlc08_nor_marauders_champions
+melee_defence_mod	hkrul_heroes_def	heroes

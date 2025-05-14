@@ -1,0 +1,6 @@
+phase	stat	value	how
+#special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/!dead_scm_longships			
+scm_longship_pas_buff	stat_melee_attack	5.0000	add
+scm_longship_pas_buff	stat_melee_defence	5.0000	add
+scm_longship_pas_buff_bjornling	stat_mass	1.2000	mult
+scm_longship_pas_buff_bjornling	stat_melee_defence	10.0000	add

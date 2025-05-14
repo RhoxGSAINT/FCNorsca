@@ -1,0 +1,11 @@
+granted_ancillary	skill	level
+#character_skill_level_to_ancillaries_junctions_tables;1;db/character_skill_level_to_ancillaries_junctions_tables/hkrul_nor_surp		
+hkrul_tuula_axe	hkrul_tuula_axe	1
+hkrul_olaf_axe	hkrul_olaf_axe	1
+hkrul_olaf_helm	hkrul_olaf_helm	1
+hkrul_olg_helm	hkrul_olg_helm	1
+hkrul_olg_axe	hkrul_olg_axe	1
+hkrul_tuula_chariot	hkrul_tuula_chariot	1
+hkrul_olg_chariot	hkrul_olg_chariot	1
+hkrul_olaf_chariot	hkrul_olaf_chariot	1
+hkrul_olaf_mammoth	hkrul_olaf_mammoth	1

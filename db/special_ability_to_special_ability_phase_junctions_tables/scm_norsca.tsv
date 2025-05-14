@@ -94,3 +94,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_skald_horn_passive	true	true	false	hkrul_skald_horn_passive
 1	hkrul_skald_drum_passive	true	true	false	hkrul_skald_drum_passive
 1	hkrul_skald_saga	true	true	false	hkrul_skald_saga
+1	hkrul_skraevold_fury	true	false	false	hkrul_skraevold_fury

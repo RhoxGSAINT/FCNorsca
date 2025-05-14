@@ -1,0 +1,32 @@
+key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/hkrul_usta									
+hkrul_usta_campaign_01		wh2_main_skill_all_hero_assist_army_scouting		5	0		0	0	true
+hkrul_usta_campaign_02		wh2_main_skill_all_hero_passive_spread_corruption_chs		5	1		0	0	true
+hkrul_usta_campaign_03		wh2_main_skill_all_hero_hinder_settlement_steal_technology		5	2		0	0	true
+hkrul_usta_campaign_04		wh2_main_skill_all_hero_hinder_agent_wound		5	3		0	0	true
+hkrul_usta_campaign_05		wh2_main_skill_all_hero_hinder_army_block_army		5	4		0	0	true
+hkrul_usta_campaign_06		wh2_main_skill_all_hero_reduce_action_cost		5	5		0	0	true
+hkrul_usta_campaign_actions_dummy		wh_dlc08_skill_all_dummy_agent_actions_hkrul_usta		8	0		1	0	false
+hkrul_usta_magic_01		wh_main_skill_all_magic_metal_01_searing_doom		2	0		0	0	true
+hkrul_usta_magic_02		wh_dlc03_skill_magic_beasts_wild_heart		2	1		0	0	true
+hkrul_usta_magic_03		wh_dlc03_skill_magic_beasts_flock_of_doom		2	2		0	0	true
+hkrul_usta_magic_04		wh_dlc03_skill_magic_beasts_panns_impenetrable_pelt		2	3		0	0	true
+hkrul_usta_magic_05		wh_main_skill_all_magic_metal_02_plague_of_rust		2	4		0	0	true
+hkrul_usta_magic_06		wh_main_skill_all_magic_all_06_evasion		2	5		0	4	true
+hkrul_usta_magic_07		wh_main_skill_all_magic_metal_05_gehennas_golden_hounds		2	6		0	0	true
+hkrul_usta_magic_08		wh_main_skill_all_magic_metal_09_transmutation_of_lead		2	7		0	0	true
+hkrul_usta_magic_09		wh_main_skill_all_magic_all_07_earthing		2	8		0	0	true
+hkrul_usta_magic_10		wh_main_skill_all_magic_all_08_power_drain		2	9		0	0	true
+hkrul_usta_magic_11		wh2_dlc14_skilll_all_magic_all_greater_arcane_conduit		2	10		0	4	true
+hkrul_usta_unique_01		wh_dlc08_skill_nor_lords_unique_aura_of_chaos		0	1		0	0	true
+hkrul_usta_unique_02		wh_dlc08_skill_nor_wizards_unique_ritualistic_fury		0	2		0	0	true
+hkrul_usta_innate_01		hkrul_usta_innate		6	0		1	0	true
+hkrul_usta_unique_04		hkrul_usta_special_0_2		0	4		0	0	true
+hkrul_usta_self_01		hkrul_usta_special_1_0		1	0		0	0	true
+hkrul_usta_self_02		hkrul_usta_special_1_1		1	1		0	0	true
+hkrul_usta_self_03		hkrul_usta_special_1_2		1	2		0	0	true
+hkrul_usta_self_04		hkrul_usta_special_1_3		1	3		0	2	true
+hkrul_usta_self_05		hkrul_usta_special_1_4		1	4		0	0	true
+hkrul_usta_self_06		hkrul_usta_special_1_5		1	5		0	0	true
+hkrul_usta_self_07		hkrul_usta_special_1_6		1	6		0	2	true
+wolftribe_skill_node_tempest_magic_dummy		hkrul_usta_dummy_seering_doom		2	11		1	0	false

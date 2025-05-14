@@ -1,0 +1,18 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_nor_surp					
+hkrul_olg_line1	0	0	1	hkrul_olg	550000
+hkrul_olg_line2	1	1	1	hkrul_olg	AA0000
+hkrul_tuula_line1	0	0	1	hkrul_tuula	550000
+hkrul_tuula_line2	1	1	1	hkrul_tuula	AAA06C
+hkrul_haftagg_line1	0	0	1	hkrul_haftagg	AAAAFF
+hkrul_haftagg_line2	1	1	1	hkrul_haftagg	00007F
+hkrul_olaf_line1	0	0	1	hkrul_olaf	550000
+hkrul_olaf_line2	1	1	1	hkrul_olaf	AAA06C
+hkrul_orgrim_line1	0	0	1	hkrul_orgrim	AAAA7F
+hkrul_orgrim_line2	1	1	1	hkrul_orgrim	5500FF
+hkrul_berus_line1	0	0	1	hkrul_berus	AA0000
+hkrul_berus_line2	1	1	1	hkrul_berus	000000
+hkrul_usta_line1	0	0	1	hkrul_usta	00AA7F
+hkrul_usta_line2	1	1	1	hkrul_usta	000000
+hkrul_kammler_line1	0	0	1	hkrul_kammler	00557F
+hkrul_kammler_line2	1	1	1	hkrul_kammler	AAAA7F

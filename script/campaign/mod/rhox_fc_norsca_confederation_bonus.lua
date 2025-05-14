@@ -38,9 +38,9 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		value="5",
 	},
 	hkrul_ulfric={
-		effect="wh_main_effect_force_stat_melee_defence",
-		scope="character_to_force_own",
-		value="2",
+		effect="wh_main_effect_economy_gdp_mod_trade_sea",
+		scope="faction_to_region_own",
+		value="5",
 	},
 	hkrul_hakka={
 		effect="wh_main_effect_force_stat_charge_bonus_pct",
@@ -53,9 +53,14 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		value="2",
 	},
     hkrul_geimdall={
-		effect="wh_main_effect_force_stat_armour",
+		effect="wh_main_effect_force_stat_melee_defence",
 		scope="character_to_force_own",
 		value="2",
+	},
+    hkrul_olaf={
+		effect="wh_main_effect_force_all_campaign_raid_income",
+		scope="character_to_force_own",
+		value="5",		
 	},
 	hkrul_sarg={
 		effect="wh_main_effect_force_stat_speed",
@@ -90,7 +95,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 	hkrul_thorgar={
 		effect="wh_main_effect_economy_gdp_mod_all",
 		scope="character_to_region_own_provincewide",
-		value="2",
+		value="5",
 	},
 	hkrul_vroth={
 		effect="wh3_main_effect_force_stat_unit_mass_percentage_mod",

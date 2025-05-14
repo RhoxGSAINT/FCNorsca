@@ -49,3 +49,6 @@ effects_description_rhox_wolf_elite_upkeep	Upkeep: %+n% for Tribe of the Wolf Ma
 effects_description_rhox_wolf_elite_melee_defence	Melee Defence: %+n for Tribe of the Wolf Marauder	false
 character_skills_localised_description_rhox_adella_elite	After bending the knee to Wulfric, the ultimate challenger, this chieftain and the warband that follows him are at the Wanderer's disposal. Their finest warriors will proof valueable in the battles to come.	false
 character_skills_localised_name_rhox_adella_elite	Loyal to the Wanderer	false
+land_units_onscreen_name_hkrul_boartusk_mammoth_ror	Tuskling of Mogwrath (Feral Mammoth)	false
+unit_description_short_texts_text_hkrul_boartusk_mammoth_ror	The last of a cursed litter, raised on the flesh of drowned warhounds.	false
+unit_description_historical_texts_text_hkrul_boartusk_mammoth_ror	The last of a cursed litter, raised on the flesh of drowned warhounds.	false

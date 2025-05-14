@@ -1,0 +1,9 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_eyri					
+hkrul_eyri_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_eyri_pas_shield	item_ability.png	300	item_ability.png	battle	true
+hkrul_eyri_crown	item_ability.png	300	item_ability.png	battle	true
+hkrul_eyri_mammoth	mount.png	50	mount.png	both	true
+hkrul_eyri_horse	mount.png	50	mount.png	both	true
+hkrul_eyri_chariot	mount.png	50	mount.png	both	true
+hkrul_eyri_raiders	item_ability.png	300	item_ability.png	battle	true

@@ -1,0 +1,7 @@
+invalid_usage_flag	special_ability
+#special_ability_to_invalid_usage_flags_tables;0;db/special_ability_to_invalid_usage_flags_tables/hkrul_nor_surp	
+climbing	hkrul_olaf_axe
+climbing	hkrul_khorne_bomb
+climbing	hkrul_olg_spit
+engaged_in_melee	hkrul_olg_spit
+climbing	hkrul_boartusk_shatter

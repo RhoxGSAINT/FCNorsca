@@ -1,0 +1,41 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_norsca_quest_battle_birna.loc		
+battle_set_pieces_localised_name_hkrul_sarl_birna_bogtusk_final_battle	Monster Hunt: The Mire-Damned Colossus	false
+battle_set_pieces_localised_description_hkrul_sarl_birna_bogtusk_final_battle	The salt-crusted bogs of the Kalti Delta churn and seethe, and the mist stinks of rotted flesh. The trail of broken trees and crushed bones ends here, where the ancient monster stirs. Mogwrath the Bogtusk rises from his muck-lair, drawn by the horn-blasts of the Sarl and the iron will of Birna herself. There will be no retreat. No respite. Only the clash of bone, tusk, and steel in a mire that drinks the blood of both hunter and hunted. Today, a legend of the salt marshes dies—or a legend of the Sarl is born.	false
+loading_screen_quotes_description_hkrul_sarl_birna_bogtusk_final_battle	The Kalti Delta is no place for men or gods. It is a land of brine, decay, and drowning dreams. But it is here that Birna, Huntress of the Sarl, must face the oldest terror of the marshes—Mogwrath the Bogtusk. The beast is not simply flesh and fury; it is the spirit of the Delta made monstrous, a towering curse of salt, mud, and endless hunger. To fell it is to carve her name into the very bones of the land itself. She does not fight for coin, nor for glory. She fights because none else can.	false
+loading_screen_quotes_title_hkrul_sarl_birna_bogtusk_final_battle	The Wrath of Mogwrath	false
+missions_localised_mission_completed_text_hkrul_sarl_birna_bogtusk_final_battle	Mogwrath the Bogtusk slain	false
+missions_localised_title_hkrul_sarl_birna_bogtusk_final_battle	The Mire-Damned Colossus	false
+missions_localised_description_hkrul_sarl_birna_bogtusk_final_battle	In the heart of the Kalti Delta, the mire heaves and a monster stirs. Mogwrath the Bogtusk rises from its lair, drawn by Birna’s challenge. Here, in the blood-choked marshes, hunter and beast will meet. Only one will leave the swamp alive.	false
+scripted_objectives_localised_text_hkrul_sarl_birna_bogtusk_final_battle_ai_hint_objective	Sons and daughters of the Sarl, sharpen your spears and harden your hearts! The mire unleashes its beast—but today, we carve our legend into its flesh!	false
+scripted_objectives_localised_text_hkrul_sarl_birna_bogtusk_final_battle_reinforcements_arrive	Beastmen surge from the mists, answering Mogwrath’s call. Hold fast!	false
+scripted_objectives_localised_text_hkrul_sarl_birna_bogtusk_final_battle_reinforcements_hint	Rumbling and roaring can be heard in the distance, drawing closer...	false
+scripted_objectives_localised_text_hkrul_sarl_birna_bogtusk_final_battle_objective	Defeat Mogwrath the Bogtusk and its allies!	false
+scripted_objectives_localised_text_hkrul_sarl_birna_bogtusk_final_battle_reinforcements_hurt	Whenever the Beast wavers, it sheds our arrows as if they were flies! The Bogtusk seems to heal whenever it is close to falling!	false
+land_units_onscreen_name_hkrul_sarl_inf_marauder_berserkers_0	Sarl Berserkers	false
+land_units_onscreen_name_hkrul_sarl_inf_marauder_champions_0	Sarl Champions	false
+land_units_onscreen_name_hkrul_sarl_inf_marauder_champions_1	Sarl Champions (Great Weapons)	false
+land_units_onscreen_name_hkrul_sarl_inf_marauder_hunters_1	Sarl Hunters (Javelins)	false
+land_units_onscreen_name_hkrul_sarl_inf_marauder_hunters_0	Sarl Hunters (Throwing Axes)	false
+land_units_onscreen_name_hkrul_sarl_inf_marauder_spearman_0	Sarl Spearmen	false
+land_units_onscreen_name_hkrul_sarl_inf_chaos_marauders_0	Sarl Marauders	false
+land_units_onscreen_name_hkrul_sarl_inf_chaos_marauders_1	Sarl Marauders (Great Weapons)	false
+battle_set_piece_armies_army_onscreen_name_hkrul_sarl_birna_bogtusk_final_battle_stage_1	Mogwrath the Bogtusk	false
+battle_set_piece_armies_army_onscreen_name_hkrul_sarl_birna_bogtusk_final_battle_stage_1_reinforcement_1	Mogwrath the Bogtusk	false
+battle_set_piece_armies_army_onscreen_name_hkrul_sarl_birna_bogtusk_final_battle_stage_1_reinforcement_2	Mogwrath the Bogtusk	false
+battle_set_piece_armies_army_onscreen_name_hkrul_sarl_birna_bogtusk_final_battle_1_player_bogtusk	Birna the Huntress	false
+incidents_button_text_hkrul_birna_turn_two_incident	Begin the Hunt	false
+incidents_localised_description_hkrul_birna_turn_two_incident	The salt winds shift. Old scars in the land open anew. The Sarl speak of Mogwrath—the Bogtusk—an ancient beast that churns the Kalti Delta into a graveyard of bone and muck. Its spoor fouls the waters. Its shadow blots the mist. If Birna would prove herself the greatest huntress of her age, the beast must fall by her hand alone. The hunt begins.	false
+incidents_localised_title_hkrul_birna_turn_two_incident	The Call of the Marsh	false
+missions_localised_title_hkrul_sarl_birna_bogtusk_mission_1	Monster Hunt: The Mire-Damned Colossus	false
+missions_localised_title_hkrul_sarl_birna_bogtusk_mission_2	Monster Hunt: The Mire-Damned Colossus	false
+missions_localised_title_hkrul_sarl_birna_bogtusk_mission_3	Monster Hunt: The Mire-Damned Colossus	false
+missions_localised_title_hkrul_sarl_birna_bogtusk_mission_4	Monster Hunt: The Mire-Damned Colossus	false
+missions_localised_description_hkrul_sarl_birna_bogtusk_mission_1	The Kalti Delta is the heart of Sarl hunting traditions. Its mastery is essential for both survival and honour. Without it, Birna’s people cannot reclaim their place among the great tribes of Norsca.	false
+missions_localised_description_hkrul_sarl_birna_bogtusk_mission_2	The marshes demand skilled hunters. Birna must gather her finest archers and trackers from the Sarl tribes to prepare for the great hunt. Their arrows will be the teeth of her campaign into the south.	false
+missions_localised_description_hkrul_sarl_birna_bogtusk_mission_3	The trail leads the hunters east. Fort Jakova stands as a foreign foothold in hunting grounds that should belong to the Sarl. A brutal raid will weaken their claim and remind the world of the old ways. Blood on the snow is the only language outsiders understand.	false
+missions_localised_description_hkrul_sarl_birna_bogtusk_mission_4	No hunt is complete without the fury of the beast. Birna must bind a Skinwolf to her cause, a creature born of the wilds and forged for slaughter. Their senses will be detrimental in finding the Bogtusk. Its howl will mark the true beginning of the great hunt.	false
+missions_localised_mission_completed_text_hkrul_sarl_birna_bogtusk_mission_1	The Hunt Continues	false
+missions_localised_mission_completed_text_hkrul_sarl_birna_bogtusk_mission_2	The Hunt Continues	false
+missions_localised_mission_completed_text_hkrul_sarl_birna_bogtusk_mission_3	The Hunt Continues	false
+missions_localised_mission_completed_text_hkrul_sarl_birna_bogtusk_mission_4	The Hunt Continues	false

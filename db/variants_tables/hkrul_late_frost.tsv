@@ -5,3 +5,6 @@ hkrul_geimdall		hkrul_geimdall		1.0000	1.1900	0.0000
 hkrul_yngve		hkrul_yngve		1.0000	1.2000	0.0000	
 hkrul_yngve_cam_mnt_yngve_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	chs_warhorse	hr1\chs\chs_warhorse\low_poly\chs_warhorse_lowlod	1.0000	1.0000	0.0500	
 hkrul_yngve_mnt_yngve_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	chs_warhorse	hr1\chs\chs_warhorse\low_poly\chs_warhorse_lowlod	1.0000	1.0000	0.0500	
+hkrul_boartusk_boss		hkrul_boartusk_boss		1.0000	1.4000	0.0000	
+hkrul_boartusk_mammoth_ror		hkrul_boartusk_boss		1.0000	0.9100	0.0000	
+hkrul_bubos_boss		hkrul_bubos		1.0000	2.1000	0.0000	

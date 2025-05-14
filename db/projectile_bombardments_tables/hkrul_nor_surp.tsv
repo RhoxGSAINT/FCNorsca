@@ -1,0 +1,3 @@
+bombardment_key	arrival_window	num_projectiles	projectile_type	radius_spread	start_time	launch_source	launch_vfx	launch_height	audio_type	launch_height_underground	randomise_launch	deterministic_launch_cadence
+#projectile_bombardments_tables;7;db/projectile_bombardments_tables/hkrul_nor_surp												
+hkrul_khorne_bomb	0.5000	1	hkrul_khorne_bomb	6.0000	4.0000	above_target	hkrul_khorne_bomb_spawn	150	wh_main_spell_dark_magic_doombolt	75	true	false

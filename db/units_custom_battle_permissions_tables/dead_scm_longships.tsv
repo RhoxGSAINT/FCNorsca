@@ -1,0 +1,7 @@
+faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
+#units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/dead_scm_longships										
+wh_dlc08_nor_norsca	false	nor_longship_ror	true	true				false		false
+wh_main_nor_sarl	true	hkrul_birna_longship	true	true	ui/portraits/portholes/no_culture/hkrul_birna.png	hkrul_birna	hkrul_birna	true		false
+wh_main_nor_graeling	true	hkrul_harald_longship	true	true	ui/portraits/portholes/no_culture/hkrul_harald.png	hkrul_harald	hkrul_harald	true		false
+wh_main_nor_bjornling	true	hkrul_geimdall_longship	true	true	ui/portraits/portholes/no_culture/hkrul_geimdall.png	hkrul_geimdall	hkrul_geimdall	true		false
+wh_dlc08_nor_norsca	false	hkrul_boartusk_mammoth_ror	true	true				true		false

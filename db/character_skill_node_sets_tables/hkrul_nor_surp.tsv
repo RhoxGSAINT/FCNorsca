@@ -1,0 +1,11 @@
+key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
+#character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/hkrul_nor_surp							
+skill_node_set_hkrul_olg	champion	false	false				hkrul_olg
+skill_node_set_hkrul_tuula	champion	false	false				hkrul_tuula
+skill_node_set_hkrul_haftagg	champion	false	false				hkrul_haftagg
+skill_node_set_hkrul_olaf	general	false	false				hkrul_olaf
+skill_node_set_hkrul_orgrim	champion	false	false				hkrul_orgrim
+skill_node_set_hkrul_berus	champion	false	false				hkrul_berus
+skill_node_set_hkrul_usta	wizard	false	false				hkrul_usta
+hkrul_skill_node_set_kammler	wizard	false	false				hkrul_kammler
+skill_node_set_hkrul_eyri	general	false	false				hkrul_eyri

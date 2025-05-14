@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="warmachines\aircraft\gra_longship\gra_longship_01.wsmodel" >
+			<META_DATA>audio_material:metal</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

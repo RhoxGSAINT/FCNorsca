@@ -24,3 +24,7 @@ id	culture	faction	remove	set	subculture
 1819575211		wh_main_nor_skaeling	false	mixer_confederate_dilemma_no_execute	
 1819575212		wh_dlc08_nor_naglfarlings	false	mixer_confederate_dilemma_no_execute	
 1819575213		mixer_nor_geimdall_huscarls	false	mixer_confederate_dilemma_no_execute	
+1819575214		mixer_nor_snaegr	false	mixer_confederate_dilemma_no_execute	
+1819575215		cr_nor_brennuns	false	mixer_confederate_dilemma_no_execute	
+1819575216		mixer_nor_snaegr	false	FavouredCorruptionKhorne	
+1819575217		mixer_nor_snaegr	true	FavouredCorruptionUndivided	

@@ -18,3 +18,7 @@ hkrul_yngve_gaze	25.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	f
 hkrul_yngve_rune	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_morale	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_geimdall_wall_formation	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		hkrul_geimdall_wall_formation		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_geimdall_wall_formation_buffer	15.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0				false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_ziege_cry	20.0000	negative		false	false	0.0000	0.0000	0.0000	2.0000	170	1	false	0.0000	0.0000	false	0		wh_main_generic_debuff_attack	wh_ability_negative	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_boartusk_horn	20.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		hkrul_boartusk_horn	wh_ability_negative	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_bubos_eye	-1.0000	negative		false	false	0.0000	0.0000	0.0000	1.5000	16	7	false	0.0000	0.0000	false	0		hkrul_bubos_eye		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_bubos_eye_weak	-1.0000	negative		false	false	0.0000	0.0000	0.0000	1.0000	9	4	false	0.0000	0.0000	false	0		hkrul_bubos_eye		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

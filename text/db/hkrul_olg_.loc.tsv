@@ -1,0 +1,46 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_olg_.loc		
+character_skills_localised_name_innate_hkrul_olg	Brine-Blessed Champion	true
+character_skills_localised_description_innate_hkrul_olg	"My blade corrodes, but it never breaks—same as me."	true
+character_skills_localised_name_hkrul_olg_special_1_0	Salt-Crusted Endurance	true
+character_skills_localised_name_hkrul_olg_special_1_1	Mermedus's Rust	true
+character_skills_localised_name_hkrul_olg_special_1_2	Blood for Salt	true
+character_skills_localised_name_hkrul_olg_special_1_3	Flesh-Laden Decks	true
+character_skills_localised_name_hkrul_olg_special_1_4	Rusted Offering	true
+character_skills_localised_name_hkrul_olg_special_1_5	Cruel Interrogator	true
+character_skills_localised_name_hkrul_olg_special_1_6	Brine-Blessed Butcher	true
+character_skills_localised_description_hkrul_olg_special_1_0	His encrusted skin and warped physiology make Olg unnaturally hardy against fatigue and pain.	true
+character_skills_localised_description_hkrul_olg_special_1_1	His weapons are corroded by brine, but they bite through steel like rot through wood.	true
+character_skills_localised_description_hkrul_olg_special_1_2	Though Olg never prayed to Khorne, the Blood God seems to answer him all the same.	true
+character_skills_localised_description_hkrul_olg_special_1_3	The winds of the northern coast whisper plunder, and Olg listens well.	true
+character_skills_localised_description_hkrul_olg_special_1_4	Olg leaves heaps of rusted weapons and torn armor at sea’s edge—silent tribute to unseen powers.	true
+character_skills_localised_description_hkrul_olg_special_1_5	Olg seeks forbidden knowledge from prisoners, often dragging secrets from them before their final breath.	true
+character_skills_localised_description_hkrul_olg_special_1_6	The Skaelings believe his vomit is the bile of Khorne himself—proof of divine fury.	true
+agent_subtypes_onscreen_name_override_hkrul_olg	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_olg	Olg Blóðsalt is the Brine Drinker: not yet a legend, but already feared like one.	false
+unit_description_short_texts_text_hkrul_olg	He was blessed to survive, cursed to corrode — Olg’s fury steers him deeper into ruinous tides, Khorne's gaze looming over his every battle.	false
+names_name_1610711831	Olg	false
+names_name_1610711830	Blódsalt	false
+land_units_onscreen_name_hkrul_olg	Olg Blódsalt	true
+effects_description_hkrul_olg_helm	Passive Ability: "The Saltmask"	false
+unit_abilities_tooltip_text_hkrul_olg_helm	A Skaeling relic long thought lost, the mask fuses to its wearer and feeds them visions of drowned empires.	true
+unit_abilities_onscreen_name_hkrul_olg_helm	The Saltmask	true
+effects_description_hkrul_olg_axe	Ability: "Brinehewer"	false
+unit_abilities_tooltip_text_hkrul_olg_axe	Pitted and bloated with oxidized salt, this axe leaves a trail of hissing corrosion across the wounds it inflicts.	true
+unit_abilities_onscreen_name_hkrul_olg_axe	Brinehewer	true
+effects_description_hkrul_olg_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
+units_custom_battle_mounts_localised_description_hkrul_olghkrul_olg_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_olghkrul_olg_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_olg_chariot	Olg Blódsalt	true
+unit_abilities_onscreen_name_hkrul_olg_spit	Brine Drinker’s Curse	true
+unit_abilities_tooltip_text_hkrul_olg_spit	Olg can unleash a torrent of burning salt vomit, blinding enemies and corroding metal with unnatural fury.	true
+effects_description_hkrul_olg_spit	Ability: "Brine Drinker’s Curse"	false
+unit_description_historical_texts_text_hkrul_olg	Olg Blóðsalt is a young Skaeling captain whose name already echoes across the northern fjords and salt-scarred coastlines. At just nineteen, he bears the mark of the gods—though whether as a blessing or a curse, none can say for certain. His body is bloated and crusted with a layer of wet, clinging salt, the result of the dreaded Brine Drinker mutation. Pale-skinned and red-haired, he moves with a strange, sluggish grace, his presence both unsettling and magnetic. In battle, Olg fights with a fury born not of ambition, but of bitter resentment—resentment for the twisted gift that ages him before his time and marks him as other among his kin.	true
+ancillaries_onscreen_name_hkrul_olg_axe	Brinehewer	false
+ancillaries_colour_text_hkrul_olg_axe	At first glance, Brinehewer appears more like driftwood and scrap than a weapon—its haft swollen and warped by the sea, its blade mottled with rust, algae, and flaking barnacles. But in Olg Blóðsalt’s grip, the axe becomes a living extension of his cursed form. Forged long ago by a mad Skaeling blacksmith who quenched his blades in brine and blood, Brinehewer drinks deeply from every wound it inflicts. When it strikes, the corroded edge hisses, releasing bursts of caustic mist that eat away at armor and sear flesh with salt-laced agony. Legends say the axe does not merely kill—it preserves the bitterness of its victims, binding their fury into its pitted iron for the next swing. Few can stand before it twice.	false
+ancillaries_colour_text_hkrul_olg_helm	The Saltmask is a corroded helm that clings to Olg Blóðsalt’s face like a second, blistered skin. Forged from bronze and iron dredged up from a sunken altar deep beneath the Kalti Delta, the mask was once a ceremonial tribute to a forgotten sea god. Now, it has fused to Olg’s features, its inner surface crusted with brine and jagged salt formations that draw blood with every breath he takes. The Saltmask reeks of damp decay and whispers with every wave, muffling Olg’s voice into a low, rasping gurgle. Yet in battle, it grants him terrifying clarity—his enemies seem sluggish and distant, like figures drowning in deep water. Some claim the mask sees for him, drawn to weakness and fear, guiding his axe toward those most ripe for ruin. Others say it hungers as he does, and that one day, it will drown him from within.	false
+ancillaries_onscreen_name_hkrul_olg_helm	The Saltmask	false
+character_skills_localised_name_hkrul_olg_chariot	Marauder Chariot	true
+character_skills_localised_description_hkrul_olg_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	true
+ancillaries_colour_text_hkrul_olg_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_olg_chariot	Marauder Chariot	false

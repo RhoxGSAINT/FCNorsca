@@ -12,6 +12,11 @@ local rhox_fc_norsca_unlockable_ror_list={
     },
     rhox_bjornling_huscarl_ror={
         culture="wh_dlc08_nor_norsca",
+        init_faction="mixer_nor_geimdall_huscarls",
+        agent_subtype="hkrul_geimdall",
+    },
+    nor_longship_ror={
+        culture="wh_dlc08_nor_norsca",
         init_faction="wh_main_nor_bjornling",
         agent_subtype="hkrul_ulfric",
     },
@@ -26,10 +31,21 @@ local rhox_fc_norsca_unlockable_ror_list={
         agent_subtype="hkrul_adella",
         special_condition_for_init=true,--quest battle
     },
+    hkrul_boartusk_mammoth_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh_main_nor_sarl",
+        agent_subtype="hkrul_birna",
+        special_condition_for_init=true,--quest battle        
+    },
     hkrul_sarl_hunters_ror={
         culture="wh_dlc08_nor_norsca",
         init_faction="wh_main_nor_sarl",
         agent_subtype="hkrul_birna",
+    },
+    hkrul_skraevold={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh_main_nor_aesling",
+        agent_subtype="hkrul_hakka",        
     },
     hkrul_norsca_ymir_ror={
         culture="wh_dlc08_nor_norsca",

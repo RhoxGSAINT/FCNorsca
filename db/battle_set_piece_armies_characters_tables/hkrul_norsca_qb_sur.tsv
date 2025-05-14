@@ -1,0 +1,16 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/hkrul_norsca_qb_sur												
+hkrul_olaf_cb	20	3610711834		100	3610711833	hkrul_olaf	general	hkrul_olaf	ui/portraits/portholes/no_culture/hkrul_olaf.png	266555939		true
+hkrul_tuula_cb	15	2147343937		100	2147343940	hkrul_tuula	champion	hkrul_tuula	ui/portraits/portholes/no_culture/hkrul_tuula.png	266555937		true
+hkrul_bloodtide_olaf_spear_final_battle_brt_general	17	2147345417		100	2147345469	wh_main_brt_cha_lord_3	general	wh_main_brt_lord	ui/portraits/portholes/no_culture/brt_lords_campaign_01_0.png	3194		true
+hkrul_bloodtide_olaf_spear_final_battle_ziege	18	9224250101		100	9224250100	hkrul_ziege	general	hkrul_ziege	ui/portraits/portholes/no_culture/hkrul_ziege.png	263871730		true
+hkrul_bloodtide_olaf_spear_final_battle_erich	15	9224250103		100	9224250102	wh_dlc04_emp_cha_arch_lector_2	general	wh_dlc04_emp_arch_lector	ui/portraits/portholes/no_culture/emp_arch_lector_campaign_03_0.png	5434		true
+hkrul_killgore_cb	12	739309651		100	889885632	wh3_main_ie_nor_cha_exalted_hero_mkho_killgore_slaymaim	champion	wh3_main_ie_nor_killgore_slaymaim	ui/portraits/portholes/no_culture/dae_kho_chaos_lord_campaign_01_0.png	698098786		true
+hkrul_aatu_cb	10	9224250106		100	9224250105	wh_main_nor_cha_marauder_chieftan_0	general	wh_main_nor_marauder_chieftain	ui/portraits/portholes/no_culture/nor_marauder_chieftain_campaign_01_0.png	3509	wh_main_skill_node_set_chs_lord	true
+hkrul_birna_cb	17	5682700361		100	5682700360	hkrul_birna	general	hkrul_birna	ui/portraits/portholes/no_culture/hkrul_birna.png	203871723		true
+hkrul_boartusk_boss_cb	25	7170700355		100	7170700354	hkrul_boartusk_boss	general	hkrul_boartusk_boss	ui/portraits/portholes/no_culture/hkrul_boartusk_boss.png	263871741		true
+hkrul_mortensen_cb	8	7610711831		100	7610711830	hkrul_mortensen	champion	hkrul_mortensen	ui/portraits/portholes/no_culture/hkrul_mortensen.png	266765936		true
+hkrul_einar_cb	17	5670700356		100	5670700355	hkrul_einar	general	hkrul_einar	ui/portraits/portholes/no_culture/hkrul_einar.png	203871725		true
+hkrul_rafn_cb	14	7410711833		100	7410711832	hkrul_rafn	champion	hkrul_rafn	ui/portraits/portholes/no_culture/hkrul_rafn.png	201735975		true
+hkrul_bubos_boss	25	3110711834		100	3110711833	hkrul_bubos_boss	general	hkrul_bubos_boss	ui/portraits/portholes/no_culture/hkrul_bubos.png	266555944		true
+hkrul_einar_cb_0	6	5670700356		100	5670700355	hkrul_einar	general	hkrul_einar	ui/portraits/portholes/no_culture/hkrul_einar.png	203871725		true
