@@ -514,6 +514,93 @@ local rhox_faction_list={
         first_tick = function(faction, faction_key) 
         end
     },
+    mixer_nor_bloodfjord ={
+        leader={
+            subtype="hkrul_olaf",
+            unit_list="wh3_main_kho_inf_chaos_warriors_1,wh_main_nor_inf_chaos_marauders_0,wh3_main_kho_inf_chaos_warriors_0,wh_main_chs_art_hellcannon,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_feral_manticore,wh_dlc08_nor_mon_warwolves_0,wh3_main_kho_inf_flesh_hounds_of_khorne_0",
+            x=564,
+            y=799,
+            forename ="names_name_3610711834",
+            familiyname ="names_name_3610711833",
+        },
+        agent={	
+            type="wizard",
+            subtype="wh_dlc08_nor_shaman_sorcerer_fire"
+        },
+        region="wh3_main_combi_region_longship_graveyard",        
+        how_they_play="rhox_fc_norsca_olaf_how_they_play",
+        pic=800,
+        faction_trait="hkrul_olaf_faction_trait",
+        kill_previous_leader=true,
+        enemy={
+            key="wh_main_nor_skaeling",        
+        },
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_tuula", faction:faction_leader():command_queue_index(), true)		    
+            cm:make_diplomacy_available(faction_key, "wh_main_nor_aesling")
+        end,
+        first_tick = function(faction, faction_key) 
+        end        
+    },
+    mixer_nor_cult_of_mermedus ={
+        leader={
+            subtype="hkrul_goftur",
+            unit_list="hkrul_shark_2,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_inf_marauder_hunters_1",
+            x=371,
+            y=420,
+            forename ="names_name_7610711234",
+            familiyname ="names_name_7610711233",
+        },
+        region="wh3_main_combi_region_nuja",        
+        how_they_play="rhox_fc_norsca_goftur_how_they_play",
+        pic=800,
+        faction_trait="hkrul_goftur_faction_trait",
+        kill_previous_leader=true,
+        enemy={
+            key="wh_main_teb_estalia", 
+        },
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_olg", faction:faction_leader():command_queue_index(), true)
+            if vfs.exists("script/campaign/mod/cataph_teb_defeat.lua") then
+                cm:force_declare_war(faction_key, "mixer_teb_estalia", false, false)
+            end
+            cm:make_diplomacy_available(faction_key, "wh_main_nor_bjornling")
+        end,
+        first_tick = function(faction, faction_key) 
+        end        
+    },    
+    mixer_nor_snaegr ={
+        leader={
+            subtype="hkrul_grydal",
+            unit_list="wh3_main_kho_inf_chaos_warriors_1,wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0,wh_dlc08_nor_mon_war_mammoth_0,wh3_dlc20_chs_mon_warshrine_mkho,wh3_main_kho_inf_chaos_warhounds_0,wh3_main_kho_inf_flesh_hounds_of_khorne_0",
+            x=824,
+            y=902,
+            forename ="names_name_7610711131",
+            familiyname ="names_name_7610711130",
+        },
+        agent={	
+            type="wizard",
+            subtype="wh_dlc08_nor_shaman_sorcerer_fire"
+        },
+        region="wh3_main_combi_region_the_burning_monolith",        
+        how_they_play="rhox_fc_norsca_grydal_how_they_play",
+        pic=800,
+        faction_trait="hkrul_grydal_faction_trait",
+        kill_previous_leader=true,
+        enemy={
+            key="wh3_main_kho_bloody_sword",          
+        },
+        additional = function(faction, faction_key)
+            cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
+		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
+        end,
+        first_tick = function(faction, faction_key) 
+        end        
+    },    
     wh_main_nor_graeling ={
         leader={
             subtype="hkrul_harald",
@@ -579,7 +666,7 @@ local rhox_faction_list={
     wh_main_nor_aesling ={
         leader={
             subtype="hkrul_hakka",
-            unit_list="wh_dlc08_nor_inf_marauder_champions_1,hkrul_skraevold,wh_dlc08_nor_inf_marauder_berserkers_0,scm_fc_norsca_aesling_nor_marauder,scm_fc_norsca_aesling_nor_marauder,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
+            unit_list="wh_dlc08_nor_inf_marauder_champions_1,hkrul_skraevold,wh_dlc08_nor_inf_marauder_berserkers_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1",
             x=638,
             y=858,
             forename ="names_name_2570700351",
@@ -1007,13 +1094,29 @@ cm:add_first_tick_callback_new(
 		end
     end
 )
+core:add_listener(
+    "TOTNIHATECDIRFactionTurnStart",
+    "FactionTurnStart",
+    function(context)
+        return context:faction():name() == "mixer_nor_snaegr" and cm:turn_number() == 2
+    end,
+    function(context) 
+        local faction = context:faction()
+        local faction_key = faction:name()
 
+        cm:trigger_mission(faction_key, "hkrul_grydal_snaegr_hall_ime", true)
+    end, 
+    true
+)
 local turn2_incidents={
     mixer_nor_geimdall_huscarls="rhox_geimdall_turn_two_incident",
     wh_main_nor_sarl="hkrul_birna_turn_two_incident",
-    mixer_nor_snaegr="hkrul_olaf_turn_two_incident",
+    mixer_nor_bloodfjord="hkrul_olaf_turn_two_incident",
+    mixer_nor_snaegr="hkrul_grydal_turn_two_incident",   
+    mixer_nor_cult_of_mermedus="hkrul_goftur_turn_two_incident",    
     wh_main_nor_baersonling="rhox_baersonling_chain_1",
 }
+
 cm:add_first_tick_callback(
 	function()
         for faction_key, faction_info in pairs(rhox_faction_list) do

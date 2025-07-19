@@ -1,7 +1,7 @@
 id	duration	effect_type	requested_stance	cant_move	freeze_fatigue	fatigue_change_ratio	inspiration_aura_range_mod	ability_recharge_change	hp_change_frequency	damage_amount	max_damaged_entities	resurrect	mana_regen_mod	mana_max_depletion_mod	imbue_magical	imbue_ignition	imbue_contact	phase_display	phase_audio	is_hidden_in_ui	affects_allies	affects_enemies	replenish_ammo	composite_scene_group	spreading	freeze_recharge	heal_amount	barrier_heal_amount	remove_magical	execute_ratio
 #special_ability_phases_tables;44;db/special_ability_phases_tables/hkrul_late_frost																														
 hkrul_mortensen_shield	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_ward_save_all		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
-hkrul_mortensen_axe	35.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_mortensen_axe	35.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_geimdall_rally	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_geimdall_shield_pas	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_geimdall_helm	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
@@ -22,3 +22,4 @@ hkrul_ziege_cry	20.0000	negative		false	false	0.0000	0.0000	0.0000	2.0000	170	1	
 hkrul_boartusk_horn	20.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		hkrul_boartusk_horn	wh_ability_negative	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_bubos_eye	-1.0000	negative		false	false	0.0000	0.0000	0.0000	1.5000	16	7	false	0.0000	0.0000	false	0		hkrul_bubos_eye		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_bubos_eye_weak	-1.0000	negative		false	false	0.0000	0.0000	0.0000	1.0000	9	4	false	0.0000	0.0000	false	0		hkrul_bubos_eye		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_godi_club	35.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0	wh_dlc06_unit_contact_sundered_armour	wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

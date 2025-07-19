@@ -43,8 +43,6 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_adella	Defeated ''K
 ancillaries_colour_text_hkrul_adella_sword	A magic sword which ignores both armour and the protective scaly skin of the Lizardmen when it strikes. It is said the vitkis of Skeggi chanted unholy incantations for seven days straight without the slightest interruption before it was deemed satisfactory by King Adella.	true
 ancillaries_onscreen_name_hkrul_adella_sword	Sword of Warping	true
 ancillaries_onscreen_name_hkrul_adella_horse	Blóm	true
-missions_localised_description_hkrul_skeggi_adella_sword_final	In the heart of Lustria's dense jungle, Adella of the Thousand Mouths, a Norscan Queen gifted with chaotic whispers, seeks the legendary "Sword of Warping" to unleash chaos against the Lizardmen. With a cadre of loyal marauders, she ventures inland for the final quest battle, the jungle humming with anticipation as Adella prepares to seize the Sword and face the cold-blooded defenders in a decisive struggle that will echo through the ancient jungle.	false
-missions_localised_title_hkrul_skeggi_adella_sword_final	Sword of Warping	false
 land_units_onscreen_name_hkrul_adella	Adella of the Thousand Mouths	true
 land_units_onscreen_name_hkrul_adella_horse	Adella of the Thousand Mouths	true
 land_units_onscreen_name_hkrul_adella_chariot	Adella of the Thousand Mouths	false
@@ -141,6 +139,7 @@ effects_description_rhox_adella_lzd_mon_coatl_tze	Unit capacity: %+n for Tzeentc
 land_units_onscreen_name_rhox_skeggi_dodvakt	The Dodvakt (Cold One Riders)	false
 campaign_localised_strings_string_rhox_skeggi_dodvakt_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Skeggi Tribe or have Adella of the Thousand Mouths in your faction[[/col]]	false
 campaign_localised_strings_string_hkrul_skeggi_giant_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you complete the quest battle if you're a Skeggi faction, otherwise, you have to ally or Confederate the Skeggi Tribe or have Adella of the Thousand Mouths in your faction[[/col]]	false
+campaign_localised_strings_string_hkrul_shark_3_lock	[[col:red]]This Regiment of Renown will unlock after receiving Mermedus Gift playing as Gröftur, otherwise, you have to ally or Confederate the Servants of Mermedus[[/col]]	false
 unit_description_short_texts_text_r1kko_adella_kho_bastiladon	Touched by the Blood God these mighty beasts are wild and untamed with a bloodthirsty appetite for violence.	false
 unit_description_short_texts_text_r1kko_adella_nur_bastiladon	Touched by the Earthfather this Bastiladon moves slower, yet their hide as mutated to a thick pestering substenance.	false
 unit_description_short_texts_text_r1kko_adella_sla_bastiladon	Touched by the God of Excess this Bastiladon moves at unnatural speed, marauding about the battlefield.	false

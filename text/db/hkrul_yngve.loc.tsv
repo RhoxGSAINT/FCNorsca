@@ -20,12 +20,9 @@ character_skills_localised_description_hkrul_yngve_special_1_4	Beasts do not att
 character_skills_localised_name_hkrul_yngve_special_1_4	The Wilds Obey	true
 agent_subtypes_onscreen_name_override_hkrul_yngve	Legendary Seer	false
 agent_subtypes_description_text_override_hkrul_yngve		false
-effects_description_hkrul_sayl_mist	Ability: "Traitor’s Mist''	true
 character_trait_levels_onscreen_name_hkrul_defeated_trait_yngve	In the Land of the Blind	true
 character_trait_levels_colour_text_hkrul_defeated_trait_yngve	Even one-eyed is King...	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_yngve	Defeated Yngve Aarseth	true
-ancillaries_colour_text_hkrul_sayl_staff	Twisted and serpentine, the Viperous Staff is the malevolent artifact wielded by Sayl the Faithless. Its dark coils writhe with venomous enchantments, embodying the treacherous essence of its master. Crafted in the shadows of forbidden sorceries, the staff is both a conduit and a weapon, its bite carrying the deadly poison of chaos. In Sayl's hands, the Viperous Staff becomes an instrument of damnation, striking with the insidious force that befits a servant of the ever-shifting tides of Chaos.	true
-ancillaries_onscreen_name_hkrul_sayl_staff	Viperous Staff	true
 land_units_onscreen_name_hkrul_yngve	Yngve Aarseth	true
 names_name_5670700632	Aarseth	false
 names_name_5670700633	Yngve	false
@@ -35,8 +32,7 @@ unit_abilities_onscreen_name_hkrul_yngve_gaze	Grim Prophecy	true
 unit_abilities_tooltip_text_hkrul_yngve_gaze	Like a weaver plucking at a frayed cord, Aarseth names the moment a warrior's fate is cut, sending shivers through their ranks.	true
 effects_description_hkrul_yngve_gaze	Ability: "Grim Prophecy"	false
 ancillaries_colour_text_hkrul_yngve_banner	A weathered banner, blessed by Urska, the shaman of the Seafarer’s Shrine. Those who offer her a feast or silver are granted visions from the deep—cryptic whispers of coming storms, lost treasures, or unseen dangers lurking beyond the horizon.	true
-ancillaries_onscreen_name_hkrul_yngve_banner	Banner of Urska	true
-character_skill_node_sets_enc_title_skill_node_set_hkrul_sayl		false
+ancillaries_onscreen_name_hkrul_yngve_banner	Banner of the Brennuns	true
 units_custom_battle_mounts_localised_description_hkrul_yngvehkrul_yngve_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
 units_custom_battle_mounts_mount_name_hkrul_yngvehkrul_yngve_chariot	Marauder Chariot	false
 character_skills_localised_description_hkrul_yngve_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
@@ -66,3 +62,7 @@ ancillaries_onscreen_name_hkrul_yngve_manticore	Manticore	false
 units_custom_battle_mounts_localised_description_hkrul_yngvehkrul_yngve_manticore	A tattered and old Manticore summoned by the foul whispers uttered by Yngve during one of his many rituals.	false
 units_custom_battle_mounts_mount_name_hkrul_yngvehkrul_yngve_manticore	Manticore	false
 land_units_onscreen_name_hkrul_yngve_manticore	Yngve Aarseth	false
+missions_localised_title_hkrul_grydal_snaegr_hall	Take Back the Hall	false
+missions_localised_description_hkrul_grydal_snaegr_hall	Your ancestors howl for vengeance. The Hall of the Snaegr lies defiled, its gates broken by Skaeling hands. Egil Styrbjorn squats where only blood-bound kin should stand. This shame cannot go unanswered — not if you are to ascend. Raise your axe. Reclaim your legacy. Let the bones of pretenders litter the threshold.	false
+missions_localised_title_hkrul_grydal_snaegr_hall_ime	Take Back the Hall	false
+missions_localised_description_hkrul_grydal_snaegr_hall_ime	Your ancestors howl for vengeance. The Hall of the Snaegr lies defiled, its gates broken by Skaeling hands. Egil Styrbjorn squats where only blood-bound kin should stand. This shame cannot go unanswered — not if you are to ascend. Raise your axe. Reclaim your legacy. Let the bones of pretenders litter the threshold.	false

@@ -21,11 +21,11 @@ agent_subtypes_description_text_override_hkrul_berus	Exiled by monsters, reborn 
 unit_description_short_texts_text_hkrul_berus	A brute of speed and malice, Berus slaughters with deliberate treachery.	false
 unit_description_historical_texts_text_hkrul_berus	Berus was once of the Dolgan, a northern tribe hardened by snow and war. He served Sayl the Faithless, enduring horrors in return for power, until the day he turned on Sayl's pet Chaos Spawn, Nightmaw. Exiled for his defiance, Berus fled with nothing but his fury. Time in the Wastes honed his brutality – he became fast, brutal, cunning. When Einarr Sigdansson marched on the north, it was Berus who offered paths through cursed lands only he had survived. But even now, treachery stirs beneath his loyalty.	false
 names_name_2610712838	Berus	false
-names_name_2610712837	the Berserker	false
-land_units_onscreen_name_hkrul_berus	Berus the Berserker	true
-effects_description_hkrul_berus_helm	Passive Ability: "Twin of Ash and Bone "	false
-unit_abilities_tooltip_text_hkrul_berus_helm	Berus’ second axe, taken from a Chaos warrior he butchered mid-charge.	true
-unit_abilities_onscreen_name_hkrul_berus_helm	Twin of Ash and Bone 	true
-effects_description_hkrul_berus_axe	Ability: "Wyrdripper"	false
+names_name_2610712837	of Veigs	false
+land_units_onscreen_name_hkrul_berus	Berus of Veigs	true
+effects_description_hkrul_berus_eye	Passive Ability: "Eyes on the Weak"	false
+unit_abilities_tooltip_text_hkrul_berus_eye	He leaves a red trail behind, not from his wounds, but others’.	true
+unit_abilities_onscreen_name_hkrul_berus_eye	Eyes on the Weak	true
+effects_description_hkrul_berus_axe	Ability: "Forsworn's Grin"	false
 unit_abilities_tooltip_text_hkrul_berus_axe	Rusted, jagged, and enchanted by accident, this axe drinks spite from its wielder’s veins.	true
-unit_abilities_onscreen_name_hkrul_berus_axe	Wyrdripper	true
+unit_abilities_onscreen_name_hkrul_berus_axe	Forsworn's Grin	true

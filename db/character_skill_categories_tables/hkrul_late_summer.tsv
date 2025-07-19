@@ -1,0 +1,10 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_late_summer					
+hkrul_grydal_line1	0	0	1	hkrul_grydal	550000
+hkrul_grydal_line2	1	1	1	hkrul_grydal	AA0000
+hkrul_goftur_line1	0	0	1	hkrul_goftur	00007F
+hkrul_goftur_line2	1	1	1	hkrul_goftur	55557F
+hkrul_mermedus_line1	0	0	1	hkrul_mermedus	550000
+hkrul_mermedus_line2	1	1	1	hkrul_mermedus	AAAA7F
+hkrul_urf_line1	0	0	1	hkrul_urf	550000
+hkrul_urf_line2	1	1	1	hkrul_urf	AAAA7F

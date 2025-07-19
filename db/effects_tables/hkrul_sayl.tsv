@@ -44,3 +44,5 @@ rhox_sayl_elite_speed	battle_movement.png	421	battle_movement.png	battle	true
 rhox_sayl_elite_weapon_strength	weapon_damage.png	461	weapon_damage.png	battle	true
 hkrul_shaman_leadership	morale.png	300	morale.png	battle	true
 hkrul_shaman_melee_defence	defence.png	300	defence.png	battle	true
+hkrul_sharks_melee	melee.png	255	melee.png	battle	true
+hkrul_sharks_melee_defence	defence.png	255	defence.png	battle	true

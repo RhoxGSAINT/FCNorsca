@@ -12,6 +12,7 @@ hkrul_ulfric_raiders	item_ability.png	300	item_ability.png	battle	true
 hkrul_norsca_kraken_bound	item_ability.png	300	item_ability.png	battle	true
 hkrul_bjornling_upkeep	military_spending.png	300	military_spending.png	campaign	false
 hkrul_bjornling_global_recruit_time	turns.png	300	turns.png	campaign	false
+hkrul_yngve_norscan_giant_recruit_global	turns.png	300	turns.png	campaign	false
 hkrul_ulfric_diplo_nordland	diplomacy.png	300	diplomacy.png	campaign	true
 rhox_geimdall_feature_dummy	effect_bundle_geimdall.png	1	effect_bundle_geimdall.png	campaign	true
 hkrul_contact_shield_up	effect_bundle_shield_up.png	3	effect_bundle_shield_up.png	battle	true
@@ -34,3 +35,5 @@ rhox_skald_effect_agent_enable_recruitment_spy	scm_fc_norsca_spy_skald.png	203	s
 hkrul_skald_saga	item_ability.png	23	item_ability.png	battle	true
 hkrul_geimdall_diplo_bjornling	diplomacy.png	300	diplomacy.png	campaign	true
 hkrul_ulfric_diplo_geimdall	diplomacy.png	300	diplomacy.png	campaign	true
+hkrul_ulfric_diplo_eyri	diplomacy.png	301	diplomacy.png	campaign	true
+hkrul_bjornling_fish_dummy	hkrul_bjornling_fish.png	252	hkrul_bjornling_fish.png	campaign	true

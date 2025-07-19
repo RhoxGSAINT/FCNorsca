@@ -4,6 +4,8 @@ rhox_baersonling_chain_1	SCRIPTED			emp/generic	rom_event_mission.png	false	fals
 rhox_baersonling_chain_2	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_3	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_4	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_baersonling_chain_4b	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_baersonling_chain_b	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_5	RAID_REGION			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_6	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_7	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false

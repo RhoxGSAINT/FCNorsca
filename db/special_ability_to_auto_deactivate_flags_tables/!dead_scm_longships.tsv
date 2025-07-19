@@ -5,3 +5,4 @@ health_above_75%	hkrul_longship_spawn
 health_above_75%	hkrul_longship_spawn2
 out_of_melee	hkrul_bubos_eye
 out_of_melee	hkrul_bubos_eye_weak
+health_above_50%	hkrul_olg_summon

@@ -1,5 +1,6 @@
 key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade	use_revealing_text
 #incidents_tables;7;db/incidents_tables/hkrul_nor_surp									
+hkrul_eyri_turn_two_incident	false	eyri_1	false	Event		true		0.0000	false
 hkrul_olaf_turn_two_incident	false	crimson_rain_1	false	Event		true		0.0000	false
 hkrul_olaf_turn_three_incident	false	crimson_rain_2	false	Event		true		0.0000	false
 hkrul_olaf_turn_four_incident	false	crimson_rain_3	false	Event		true		0.0000	false
@@ -7,3 +8,6 @@ hkrul_olaf_turn_five_incident	false	crimson_rain_4	false	Event		true		0.0000	fal
 hkrul_olaf_turn_six_incident	false	crimson_rain_5	false	Event		true		0.0000	false
 hkrul_olaf_turn_seven_incident	false	crimson_rain_6	false	Event		true		0.0000	false
 hkrul_birna_turn_two_incident	false	boartusk_birna_1	false	Event		true		0.0000	false
+hkrul_goftur_turn_two_incident	false	groftur_1	false	Event		true		0.0000	false
+hkrul_grydal_turn_two_incident	false	grydal_1	false	Event		true		0.0000	false
+hkrul_skjold_turn_two_incident	false	ulfric_1	false	Event		true		0.0000	false

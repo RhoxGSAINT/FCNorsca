@@ -23,10 +23,9 @@ unit_description_historical_texts_text_hkrul_kammler	Ernst von Kammler, once a m
 names_name_2610712844	Ernst	false
 names_name_2610712843	von Kammler	false
 land_units_onscreen_name_hkrul_kammler	Ernst von Kammler	true
-effects_description_hkrul_kammler_shield	Passive Ability: "Soul-Eater’s Shadow"	false
-unit_abilities_tooltip_text_hkrul_kammler_shield	"I was shattered once. That only made me sharper."	true
-unit_abilities_onscreen_name_hkrul_kammler_shield	Soul-Eater’s Shadow	true
-effects_description_hkrul_kammler_axe	Ability: "Shard of the Soul-Eater"	false
-unit_abilities_tooltip_text_hkrul_kammler_axe	 A jagged crystal that radiates impossible knowledge — and madness.	true
-unit_abilities_onscreen_name_hkrul_kammler_axe	Shard of the Soul-Eater	true
-effects_description_hkrul_kammler_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
+effects_description_hkrul_kammler_hand	Ability: "The Withering Hand"	false
+unit_abilities_tooltip_text_hkrul_kammler_hand	Subtle at first — a tremor, a paling of the flesh — until only the caster remains whole.	true
+unit_abilities_onscreen_name_hkrul_kammler_hand	The Withering Hand	true
+unit_abilities_tooltip_text_hkrul_kammler_time	A jagged crystal that radiates impossible knowledge — and madness.	true
+unit_abilities_onscreen_name_hkrul_kammler_time	Soul-Eater's Hunger	true
+effects_description_hkrul_kammler_time	Ability: "Soul-Eater's Hunger"	false

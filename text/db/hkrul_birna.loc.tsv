@@ -36,7 +36,7 @@ ancillaries_colour_text_hkrul_birna_bow	Amid the frozen tundra, a skilled bowyer
 ancillaries_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
 unit_abilities_tooltip_text_hkrul_birna_bow	The Ivory-bound Tuskweave Longbow shoots arrows guided by Birna's whispers.	true
 unit_abilities_onscreen_name_hkrul_birna_bow	Tuskweave Longbow	true
-effects_description_hkrul_birna_feature_hunt	Birna has access to a unique instantly unlocked monster hunt to hunt the Boartusk Warbeast	true
+effects_description_hkrul_birna_feature_hunt	Birna has access to a unique instantly unlocked monster hunt to kill the Boartusk Warbeast	true
 effects_description_hkrul_birna_bow	Ability: "Tuskweave Longbow''	true
 land_units_onscreen_name_hkrul_sarl_hunters	Sarl Hunters	false
 land_units_onscreen_name_hkrul_sarl_hunters_ror	Stalkers of the Kalti Delta (Sarl Hunters)	false
@@ -46,6 +46,7 @@ unit_abilities_onscreen_name_hkrul_birna_gaze	Mutant's Gaze	true
 effects_description_hkrul_birna_diplo_world_walkers	Relationship: %+n to [[img:ui/flags/wh_dlc08_nor_norsca/mon_24.png]][[/img]] World Walkers	true
 effects_description_hkrul_ulfric_diplo_nordland	Relationship: %+n to [[img:ui/flags/wh_main_emp_nordland/mon_24.png]][[/img]] Nordland	true
 effects_description_hkrul_ulfric_diplo_geimdall	Relationship: %+n to [[img:ui/flags/mixer_nor_geimdall_huscarls/mon_24.png]][[/img]] Geimdall's Huscarls	true
+effects_description_hkrul_ulfric_diplo_eyri	Relationship: %+n to [[img:ui/flags/mixer_nor_eyristaad/mon_24.png]][[/img]] Eyristaad	true
 effects_description_hkrul_geimdall_diplo_bjornling	Relationship: %+n to [[img:ui/flags/wh_main_nor_bjornling/mon_24.png]][[/img]] Bjornling	true
 effects_description_hkrul_birna_gaze	Ability: "Mutant's Gaze" when on foot	true
 unit_abilities_tooltip_text_hkrul_birna_flock	Her tongue releases a trilling note that creatures of the sky can understand, calling a murderous flock of crows to unlease fury on her foes.	true
@@ -84,3 +85,5 @@ ancillaries_onscreen_name_hkrul_boartusk_horn	Mogwrath's Eye	true
 unit_abilities_tooltip_text_hkrul_boartusk_horn	The corrupted eye pulses with unnatural sight, marking prey with a silent curse. Enemies within the area become more vulnerable to missile fire, as their armour and resistance seem to wither beneath its stare.	true
 unit_abilities_onscreen_name_hkrul_boartusk_horn	Mogwrath's Eye	true
 effects_description_hkrul_boartusk_horn	Ability: "Mogwrath's Eye''	false
+effects_description_hkrul_ulfric_diplo_marienburg	Relationship: %+n to [[img:ui/flags/wh_main_emp_marienburg/mon_24.png]][[/img]] Marienburg	true
+effects_description_hkrul_goftur_shark_cap	Unit capacity: %+n for Harrowfin Shark units	false

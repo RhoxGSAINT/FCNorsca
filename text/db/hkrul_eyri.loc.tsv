@@ -3,14 +3,14 @@ key	text	tooltip
 character_skills_localised_name_innate_hkrul_eyri	Saltcoin Prince	true
 character_skills_localised_description_innate_hkrul_eyri	"I built a kingdom out of plunder and persuasion. Let eyri choke on it."	true
 character_skills_localised_description_hkrul_eyri_special_0_1	"Everything has a price — and I’m the one who sets it."	true
-character_skills_localised_name_hkrul_eyri_special_0_1	Goldfinger	true
+character_skills_localised_name_hkrul_eyri_special_0_1	Eyristaad Conclave	true
 character_skills_localised_description_hkrul_eyri_special_1_1	Sail, strike, steal. Repeat.	true
 character_skills_localised_name_hkrul_eyri_special_1_1	Coin Before Creed	true
 character_skills_localised_description_hkrul_eyri_special_1_2	His tongue is silver, his purse is full, and his troll is always hungry.	true
 character_skills_localised_name_hkrul_eyri_special_1_2	Cutthroat Outcut	true
 character_skills_localised_description_hkrul_eyri_special_1_5	He calls himself merchant, but his axes are redder than his ledgers.	true
 character_skills_localised_name_hkrul_eyri_special_1_5	Golden Tongue	true
-character_skills_localised_description_hkrul_eyri_special_1_0	The troll obeys only one master — and he’s paid well.	true
+character_skills_localised_description_hkrul_eyri_special_1_0	Said to leave a trail of glittering coin upon the waves, this longship's hull is adorned with hammered gold filigree and gromril rivets. Rumour holds it sails faster when coin is near.	true
 character_skills_localised_name_hkrul_eyri_special_1_0	Bartered Oaths	true
 character_skills_localised_description_hkrul_eyri_special_1_3	Loyalty is fine, but gold shines brighter.	true
 character_skills_localised_name_hkrul_eyri_special_1_3	Rogue of Kronfjall	true
@@ -67,10 +67,43 @@ land_units_onscreen_name_hkrul_eyri_chariot	Eyri Goldfinger	false
 character_skills_localised_name_hkrul_eyri_special_1_6	Twin-Blade Barter	false
 character_skills_localised_name_hkrul_eyri_special_1_7	Ledgers of Blood	false
 character_skills_localised_name_hkrul_eyri_special_1_8	Imperial Entanglements	false
-character_skills_localised_name_hkrul_eyri_special_1_9	Sea-League Syndicate	false
+character_skills_localised_name_hkrul_eyri_special_1_9	Rags to Riches	false
 character_skills_localised_name_hkrul_eyri_special_1_10	Goldfinger	false
 character_skills_localised_description_hkrul_eyri_special_1_6	"Grompf follows coin and blood. I give him both."	false
 character_skills_localised_description_hkrul_eyri_special_1_7	 A coat lined with coins and contracts, blessed by no gods, yet proof against many blades.	false
 character_skills_localised_description_hkrul_eyri_special_1_8	"I trade loyalty like fish. Fresh or rotten — I always make a profit."	false
-character_skills_localised_description_hkrul_eyri_special_1_9	The troll obeys only one master — and he’s paid well.	false
+character_skills_localised_description_hkrul_eyri_special_1_9	“Gold for blood—slay well, and Eyri will see you paid in weight.”	false
 character_skills_localised_description_hkrul_eyri_special_1_10	A true son of the coast — fast, ruthless, and unrelenting.	false
+factions_attack_desc_mixer_nor_eyristaad	You are attacking Eyristaad!	false
+factions_defend_desc_mixer_nor_eyristaad	You are defending against Eyristaad!	false
+factions_screen_adjective_mixer_nor_eyristaad		false
+factions_screen_name_mixer_nor_eyristaad	Eyristaad	false
+factions_screen_name_when_rebels_mixer_nor_eyristaad	Rebel Eyristaad Warriors	false
+frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_nor_eyristaad	In the shadow of Kronfjall’s lightning-crowned peak, where gold is weighed as heavily as blood, Eyri Goldfinger plots beneath a cloak of loyalty. A sworn vassal to High King Grondal in word alone, Eyri barters silver and secrets across the Sea of Claws, weaving coin into power while the High King sleeps. But the north burns—Icefang raiders, draped in frost and madness, descend upon Eyristaad’s borders with cold fury in their eyes. Between fire and frost, Eyri sharpens his twin axes, knowing one truth above all: loyalty is for fools, but wealth buys everything... even kingship.	false
+land_units_onscreen_name_hkrul_godi	Grompf Arm-Tearer	false
+unit_description_short_texts_text_hkrul_godi	A thick-skulled brute with a taste for grog and gore, Grompf follows Eyri Goldfinger out of habit... and hunger.	false
+unit_description_historical_texts_text_hkrul_godi	There are trolls, and then there is Grompf — a regenerating, battle-scarred beast who has served Eyri Goldfinger longer than most mercenaries keep their limbs. Towering over men and stinking of algae, Grompf is no ordinary lackey; he is a walking siege weapon, a living reminder of Eyri's recklessness and genius. 'Killed' more times than anyone cares to count, Grompf simply gets back up again, his flesh knitting back together with horrifying ease. Though utterly dim-witted, he has a primitive loyalty to Eyri, often dragging spoils — or prisoners — to his master like a slobbering hound.	false
+unit_abilities_tooltip_text_hkrul_godi_club	His club carved from a sea beast’s jaw, perfect for smashing humans.	false
+unit_abilities_onscreen_name_hkrul_godi_club	Krakkentooth	false
+event_feed_strings_text_rhox_fc_norsca_goftur_how_they_play	[[img:hkrul_goftur_ambition]][[/img]][[col:green]]Aid Gröftur on fulfilling his [[col:yellow]]Path to Glory[[/col]] and obtain the powerful gifts of [[col:yellow]]Mermedus[[/col]] and ascend as his[[col:yellow]] Avatar[[/col]].[[/col]]\\n\\n[[img:bullet_nor_gods]][[/img]] [[col:green]]Raze settlements and raise monoliths in their place to gradually pledge[[/col]] [[url:script_link_campaign_gods]][[tooltip:{{tt:tooltip_campaign_gods}}]]Allegiance to the Gods[[/tooltip]][[/url]][[col:green]], who will each grant factionwide gifts in lieu of the others.[[/col]]\\n\\n[[img:bullet_nor_monsters]][[/img]] [[col:green]]Hunt down creatures listed in the[[/col]] [[url:script_link_campaign_monsters]][[tooltip:{{tt:tooltip_campaign_monsters}}]]Monstrous Arcanum[[/tooltip]][[/url]] [[col:green]]and defeat them in battle in return for unique and powerful trophies.[[/col]]\\n\\n[[img:icon_confederation]][[/img]] [[col:green]]Defeat the faction leaders of rival Norscan tribes to be given the option to form tribal[[/col]] [[sl_link:campaign_confederation]]confederations.[[/sl_link]]\\n\\nLearn more about Norsca [[url:script_link_campaign_norsca]]here[[/url]].	false
+event_feed_strings_text_rhox_fc_norsca_grydal_how_they_play	[[img:hkrul_grydal_ambition]][[/img]][[col:green]] Jarl Grydal may be set on a [[col:yellow]]Path to Glory[[/col]] and obtain the powerful gifts of [[col:yellow]]Khorne[[/col]] and ascend as his forefather[[col:yellow]] Urlfdaemonkin[[/col]].[[/col]]\\n\\n[[img:bullet_nor_gods]][[/img]] [[col:green]]Raze settlements and raise monoliths in their place to gradually pledge[[/col]] [[url:script_link_campaign_gods]][[tooltip:{{tt:tooltip_campaign_gods}}]]Allegiance to the Gods[[/tooltip]][[/url]][[col:green]], who will each grant factionwide gifts in lieu of the others.[[/col]]\\n\\n[[img:bullet_nor_monsters]][[/img]] [[col:green]]Hunt down creatures listed in the[[/col]] [[url:script_link_campaign_monsters]][[tooltip:{{tt:tooltip_campaign_monsters}}]]Monstrous Arcanum[[/tooltip]][[/url]] [[col:green]]and defeat them in battle in return for unique and powerful trophies.[[/col]]\\n\\n[[img:icon_confederation]][[/img]] [[col:green]]Defeat the faction leaders of rival Norscan tribes to be given the option to form tribal[[/col]] [[sl_link:campaign_confederation]]confederations.[[/sl_link]]\\n\\nLearn more about Norsca [[url:script_link_campaign_norsca]]here[[/url]].	false
+event_feed_strings_text_rhox_fc_norsca_eyri_how_they_play	{{tr:how_they_play_norsca}}	false
+incidents_button_text_hkrul_eyri_turn_two_incident	Begin Eyri’s Ambition	false
+incidents_localised_description_hkrul_eyri_turn_two_incident	From the steep, storm-lashed slopes of Kronfjall, Eyri Goldfinger casts his gaze southward. His network of raiders, traders, and smugglers spreads like salt on the wind—seeping into coastal towns, choking trade routes, and buying loyalty where axes alone will not do. Though he speaks oaths to High King Grondal, Eyri builds an empire of coin and cunning, where longships carry timber one way and plunder the other. The Icefang grow restless in the north, and Grondal's suspicions fester—but opportunity lies ahead, and Eyri intends to seize it before either threat closes in.	false
+incidents_localised_title_hkrul_eyri_turn_two_incident	Salt, Coin, and Steel	false
+ancillaries_colour_text_hkrul_eyri_banner	Stitched from sailcloth soaked in brine and battle, this banner bears the golden kraken of Eyristaad clutching a balance scale—coin and axe held in equal weight. Salt-encrusted and fraying, it has flown above merchant convoys, sacked ports, and drowned fortresses alike. To Eyri’s allies, it is a promise of profit; to his enemies, a warning that diplomacy may yet come... before the fire. Wherever this standard rises, trade flows, treaties unravel, and someone always ends up paying the price.	true
+ancillaries_onscreen_name_hkrul_eyri_banner	Banner of Salt and Coin	true
+effects_description_hkrul_eyri_cash	Ability: "Salt-Gold Promises"	true
+unit_abilities_tooltip_text_hkrul_eyri_cash	A raider’s trust lies in coin, and Eyri never underpays a killer.	false
+unit_abilities_onscreen_name_hkrul_eyri_cash	Salt-Gold Promises	false
+unit_abilities_tooltip_text_hkrul_eyri_ring	A tribute to broken oaths—worn on the ring and thumb, they tighten with greed.	false
+unit_abilities_onscreen_name_hkrul_eyri_ring	Oathgeld & Thumbbite	false
+ancillaries_colour_text_hkrul_eyri_ring	Oathgeld & Thumbbite were once wedding rings of a long-dead merchant-lord, cursed to drive their bearer mad with hunger for wealth. Now, they empower Eyri with uncanny agility and a mind honed for deals, plunder, and swift betrayal.	true
+ancillaries_onscreen_name_hkrul_eyri_ring	Oathgeld & Thumbbite	true
+effects_description_hkrul_eyri_ring	Passive Ability: "Oathgeld & Thumbbite"	true
+effects_description_eyri_killshot_multi	Ability: "Hail of Cuts"	false
+effects_description_eyri_killshot	Ability: "Dead Man’s Dividend"	false
+unit_abilities_onscreen_name_eyri_killshot	Dead Man’s Dividend	false
+unit_abilities_tooltip_text_eyri_killshot	A single, perfectly timed throw from a hidden blade — swift, silent, and sunk deep between the ribs.	false
+unit_abilities_onscreen_name_eyri_killshot_multi	Hail of Cuts	false
+unit_abilities_tooltip_text_eyri_killshot_multi	A sudden flurry of razor-sharp daggers from beneath his cloak — more than enough to turn the tide.	false

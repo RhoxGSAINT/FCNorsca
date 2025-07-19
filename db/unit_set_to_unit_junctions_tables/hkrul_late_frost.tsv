@@ -18,6 +18,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_yngve_horse	nor_all	false
 			hkrul_yngve_horse	all_non_chs	true
 			nor_longship	hkrul_norsca_longship	false
+			nor_longship_ror	hkrul_norsca_longship	false
 			wh_dlc08_nor_inf_marauder_champions_0	hkrul_norsca_shielded_no_huscarls	false
 			wh_main_nor_inf_chaos_marauders_0	hkrul_norsca_shielded_no_huscarls	false
 			wh_pro04_nor_inf_chaos_marauders_ror_0	hkrul_norsca_shielded_no_huscarls	false
@@ -40,4 +41,47 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skraevold	mp_cap_unit_nor_mon_giant	false
 			hkrul_skraevold	nor_all	false
 			hkrul_skraevold	wh2_dlc11_nor_fimir_giant_mammoth	false
-				wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			hkrul_skraevold	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			hkrul_godi	wh2_main_ror_units_all	false
+			hkrul_godi	all_non_chs	false
+			hkrul_godi	dlc08_nor_trolls_fimirs	false
+			hkrul_godi	dlc08_nor_trolls	false
+			hkrul_godi	monsters	false
+			hkrul_godi	mp_cap_unit_nor_mon_trolls	false
+			hkrul_godi	nor_all	false
+			hkrul_godi	units_with_hp_regen	false
+			hkrul_godi	wh2_dlc11_nor_skin_wolves_trolls	false
+			hkrul_godi	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			hkrul_godi	wh2_dlc17_throgg_focus_units_excluding_fimir	false
+			hkrul_godi	wh2_dlc17_throgg_focus_units	false
+			hkrul_shark_2	wh2_main_ror_units_all	false
+			hkrul_shark_2	all_non_chs	false
+			hkrul_shark_2	dlc08_nor_giants	false
+			hkrul_shark_2	dlc08_nor_monsters	false
+			hkrul_shark_2	mp_cap_group_rare_single_entities	false
+			hkrul_shark_2	mp_cap_group_single_entities	false
+			hkrul_shark_2	mp_cap_unit_nor_mon_giant	false
+			hkrul_shark_2	nor_all	false
+			hkrul_shark_2	wh2_dlc11_nor_fimir_giant_mammoth	false
+			hkrul_shark_2	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			hkrul_shark_2	hkrul_shark_2	false
+			hkrul_shark_3	wh2_main_ror_units_all	false
+			hkrul_shark_3	all_non_chs	false
+			hkrul_shark_3	dlc08_nor_giants	false
+			hkrul_shark_3	dlc08_nor_monsters	false
+			hkrul_shark_3	mp_cap_group_rare_single_entities	false
+			hkrul_shark_3	mp_cap_group_single_entities	false
+			hkrul_shark_3	mp_cap_unit_nor_mon_giant	false
+			hkrul_shark_3	nor_all	false
+			hkrul_shark_3	wh2_dlc11_nor_fimir_giant_mammoth	false
+			hkrul_shark_3	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			hkrul_shark_1	all_non_chs	false
+			hkrul_shark_1	dlc08_nor_giants	false
+			hkrul_shark_1	dlc08_nor_monsters	false
+			hkrul_shark_1	mp_cap_group_rare_single_entities	false
+			hkrul_shark_1	mp_cap_group_single_entities	false
+			hkrul_shark_1	mp_cap_unit_nor_mon_giant	false
+			hkrul_shark_1	nor_all	false
+			hkrul_shark_1	wh2_dlc11_nor_fimir_giant_mammoth	false
+			hkrul_shark_1	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
+			hkrul_shark_2	hkrul_goftur_shark_cap	false

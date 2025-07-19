@@ -17,8 +17,8 @@
 - Slight buff to Birna HP and MA
 - Moved campaign specific heroes to the campaign exlusive section of custom battle to follow the norscan heroes gained as campaign rewards format
 - Created unique VFX and a CSC for Einarr's Steelfist ability
-
-
+- Birna's river troll retinue now has a unique unit card
+- Reduced wind up time for some abilities
 
 
 - 2025/Mar/30 SCM 

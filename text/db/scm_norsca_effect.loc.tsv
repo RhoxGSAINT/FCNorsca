@@ -21,3 +21,4 @@ effects_description_rhox_varg_confederation_effect	Weapon strength: %+n% for Cha
 effects_description_rhox_wolf_confederation_effect	Weapon strength: %+n% for Skin Wolf, Norscan Ice Wolves & Norscan Warhound units for each confederated Norscan tribe	false
 effects_description_rhox_geimdall_confederation_effect	Armour: %+n for each confederated Norscan tribe	false
 effects_description_rhox_trade_confederation_effect	Income from trade tariffs %+n% for each confederated Norscan tribe	false
+effects_description_rhox_port_confederation_effect	Income from Ports %+n% for each confederated Norscan tribe	false

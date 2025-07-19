@@ -45,7 +45,23 @@ local rhox_fc_norsca_unlockable_ror_list={
     hkrul_skraevold={
         culture="wh_dlc08_nor_norsca",
         init_faction="wh_main_nor_aesling",
-        agent_subtype="hkrul_hakka",        
+        agent_subtype="hkrul_hakka",
+    },
+    hkrul_shark_2={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="mixer_nor_cult_of_mermedus",
+        agent_subtype="hkrul_goftur",
+    },
+    hkrul_shark_3={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="mixer_nor_cult_of_mermedus",
+        agent_subtype="hkrul_goftur",
+        special_condition_for_init=true,--quest battle         
+    },
+    hkrul_godi={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="mixer_nor_eyristaad",
+        agent_subtype="hkrul_eyri",         
     },
     hkrul_norsca_ymir_ror={
         culture="wh_dlc08_nor_norsca",

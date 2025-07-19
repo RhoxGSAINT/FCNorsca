@@ -1,0 +1,6 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/hkrul_late_summer												
+hkrul_grydal	1	2147343937		100	2147343940	hkrul_grydal	general	hkrul_grydal	ui/portraits/portholes/no_culture/hkrul_grydal.png	266765980		true
+hkrul_goftur	1	2147343937		100	2147343940	hkrul_goftur	general	hkrul_goftur	ui/portraits/portholes/no_culture/hkrul_goftur.png	266765981		true
+hkrul_mermedus	1	2147343937		100	2147343940	hkrul_mermedus	general	hkrul_mermedus	ui/portraits/portholes/no_culture/hkrul_mermedus.png	266765982		true
+hkrul_urf	1	2147343937		100	2147343940	hkrul_urf	general	hkrul_urf	ui/portraits/portholes/no_culture/hkrul_urf.png	266765983		true

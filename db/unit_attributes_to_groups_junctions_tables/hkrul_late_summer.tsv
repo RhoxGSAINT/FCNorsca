@@ -1,0 +1,20 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/hkrul_late_summer	
+hide_forest	hkrul_grydal
+charge_defense	hkrul_grydal
+hide_forest	hkrul_goftur
+charge_defense	hkrul_goftur
+mark_khorne	hkrul_grydal
+causes_fear	hkrul_shark_1
+strider	hkrul_shark_1
+hide_forest	hkrul_mermedus
+charge_defense	hkrul_mermedus
+hide_forest	hkrul_urf
+charge_defense	hkrul_urf
+causes_fear	hkrul_shark_3
+strider	hkrul_shark_3
+unbreakable	hkrul_shark_3
+unbreakable	hkrul_shark_1
+causes_fear	hkrul_grydal_warshrine
+hide_forest	hkrul_grydal_warshrine
+mark_khorne	hkrul_grydal_warshrine

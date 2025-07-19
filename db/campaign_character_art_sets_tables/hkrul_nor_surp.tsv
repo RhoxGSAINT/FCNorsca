@@ -8,5 +8,7 @@ hkrul_bubos_boss	general				false	true	hkrul_bubos_boss	0.8000
 hkrul_orgrim	champion				false	true	hkrul_orgrim	1.1100
 hkrul_berus	champion				false	true	hkrul_berus	1.1100
 hkrul_usta	wizard				false	true	hkrul_usta	1.1200
-hkrul_kammler	wizard				false	true	hkrul_kammler	1.1200
+hkrul_kammler	wizard				false	true	hkrul_kammler	0.9000
 hkrul_eyri	general				false	true	hkrul_eyri	1.1100
+hkrul_hafskael	champion				false	true	hkrul_hafskael	1.1100
+hkrul_skoroth_boss	general				false	true	hkrul_skoroth_boss	1.0000

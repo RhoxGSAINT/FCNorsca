@@ -1,0 +1,58 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_hafskael_.loc		
+character_skills_localised_name_innate_hkrul_hafskael	Tidebound Fury	true
+character_skills_localised_description_innate_hkrul_hafskael	“Every tide bends to those who build the shore.”	true
+character_skills_localised_name_hkrul_hafskael_special_1_0	Master Shipwright	true
+character_skills_localised_name_hkrul_hafskael_special_1_1	Seabound Expansion	true
+character_skills_localised_name_hkrul_hafskael_special_1_2	Salt-forged Resolve	true
+character_skills_localised_name_hkrul_hafskael_special_1_3	Pier Wrecker	true
+character_skills_localised_name_hkrul_hafskael_special_1_4	Salt and Stone Doctrine	true
+character_skills_localised_name_hkrul_hafskael_special_1_5	Dockyard Dominion	true
+character_skills_localised_name_hkrul_hafskael_special_1_6	Wavebreaker	true
+character_skills_localised_description_hkrul_hafskael_special_1_0	The clang of his hammer marks both construction and destruction — and always conquest.	true
+character_skills_localised_description_hkrul_hafskael_special_1_1	“Trade is war by other means.”	true
+character_skills_localised_description_hkrul_hafskael_special_1_2	"With this, a mere gesture can bring fleets to heel — or raise the storm."	true
+character_skills_localised_description_hkrul_hafskael_special_1_3	With hammer in hand, Hafskael builds ports, smashes skulls, and commands the sea.	true
+character_skills_localised_description_hkrul_hafskael_special_1_4	A master shipwright and war-priest, he brings divine fury and naval might in equal measure.	true
+character_skills_localised_description_hkrul_hafskael_special_1_5	"When this banner flies, ships do not sink — and men do not flee."	true
+character_skills_localised_description_hkrul_hafskael_special_1_6	Harbinger of storms and stone, Hafskael carves empires from both seawater and granite.	true
+agent_subtypes_onscreen_name_override_hkrul_hafskael	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_hafskael	hafskael's devotion to Olric is as fiery as his Norse heritage driven lust for plunder and battle.	false
+unit_description_short_texts_text_hkrul_hafskael	Storm-builder. Hull-mender. Breaker of men and wood alike.	false
+unit_description_historical_texts_text_hkrul_hafskael	Where lesser jarls seek plunder, Hafskael builds legacies. Through port, pier, and prow, he has turned a meagre coastal village into a maritime superpower. With his enchanted hammer — a relic said to be forged in the furnace of a drowned god — he brings the might of the sea to every battle. Longships led by Hafskael strike like waves upon a cliff, relentless and crushing.	false
+names_name_1270700382	Jarl	false
+names_name_1270700381	Hafskael	false
+land_units_onscreen_name_hkrul_hafskael	Jarl Hafskael	true
+effects_description_hkrul_hafskael_shield	Passive Ability: "Shatterwake Blow"	false
+unit_abilities_tooltip_text_hkrul_hafskael_shield	A brutal downward strike infused with maritime force, causing tremors and shattering formations like a breaking wave.	true
+unit_abilities_onscreen_name_hkrul_hafskael_shield	Shatterwake Blow	true
+effects_description_hkrul_hafskael_axe	Ability: "Dockiron's Oath"	false
+unit_abilities_tooltip_text_hkrul_hafskael_axe	With a bellow and a runed strike against the longship’s prow, Hafskael breathes life back into the timber and steel.	true
+unit_abilities_onscreen_name_hkrul_hafskael_axe	Dockiron's Oath	true
+effects_description_hkrul_hafskael_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
+units_custom_battle_mounts_localised_description_hkrul_hafskaelhkrul_mortensen_chariot	The prow is sharpened like a ram, its wheels reinforced with anchor-flukes — built to split ranks like reefs split hulls.	false
+units_custom_battle_mounts_mount_name_hkrul_hafskaelhkrul_mortensen_chariot	Breaker’s Keel	false
+land_units_onscreen_name_hkrul_hafskael_chariot	Jarl Hafskael	true
+ancillaries_onscreen_name_hkrul_hafskael_axe	Dockiron's Oath	false
+ancillaries_colour_text_hkrul_hafskael_axe	Simple in make, brutal in purpose. Dockiron bears no ornate sigils or runes — only the scars of years spent raising piers and collapsing skulls. Once a tool for driving mooring stakes into hard stone, its dense weight and unforgiving face now serve Hafskael on the battlefield. Blood cakes the haft where pitch once clung, and every impact rings with the sound of breaking boards... or bones.	false
+ancillaries_colour_text_hkrul_hafskael_chariot	The prow is sharpened like a ram, its wheels reinforced with anchor-flukes — built to split ranks like reefs split hulls.	false
+ancillaries_onscreen_name_hkrul_hafskael_chariot	Breaker’s Keel	false
+effects_description_hkrul_hafskael_chariot	Mount: "Breaker’s Keel"	false
+ancillaries_onscreen_name_hkrul_hafskael_charm	Figurehead of Hrimross	false
+ancillaries_colour_text_hkrul_hafskael_charm	This humble, sea-worn figurehead of a galloping steed was once mounted beneath the prow of the Sternwolf, a legendary longship. Now worn as a talisman by Hafskael, it carries the blessing of the sea gods and the ancestral strength of the Bjornling fleet. It still smells faintly of salt, pitch, and a battle long past.	false
+effects_description_hkrul_hafskael_charm	Passive Ability: "Hrimross's Charm" for Longship units	false
+effects_description_hkrul_hafskael_longship_ws	Missile strength: %+n% for Longship units	false
+effects_description_hkrul_hafskael_longship_mass	Unit mass: %+n% for Longship units	false
+effects_description_hkrul_hafskael_longship_upkeep	Upkeep: %+n% for Longship units	false
+effects_description_hkrul_hafskael_longship_time	Global recruitment duration: %+n turn for Longship units	false
+effects_description_hkrul_hafskael_longship_time_local	Local recruitment duration: %+n turn for Longship units	false
+unit_abilities_tooltip_text_hkrul_hafskael_ship_buff	A wooden talisman to ward the ship, the warrior, and the soul.	true
+unit_abilities_onscreen_name_hkrul_hafskael_ship_buff	Hrimross's Charm	true
+effects_description_hkrul_norsca_economy_buff	Income from Slaver's Camp buildings: %+n%	false
+effects_description_hkrul_upkeep_heroes_campaign_test	Upkeep for Skald heroes: %+n%	false
+effects_description_hkrul_hafskael_dummy	Jarl Hafskael is recruited as a Legendary Hero	false
+effects_description_hkrul_yngve_eye	Passive Ability: "Eye of the Longfather" for Norscan Giant units	false
+unit_abilities_tooltip_text_hkrul_yngve_eye	Ancient echoes stir in the marrow of the earth. The giants hear — and they answer with fury ands tomped ground.	true
+unit_abilities_onscreen_name_hkrul_yngve_eye	Eye of the Longfather	true
+ancillaries_onscreen_name_hkrul_yngve_eye	Eye of the Longfather	false
+ancillaries_colour_text_hkrul_yngve_eye	A single polished eye-stone, cold to the touch and veined like a glacier, said to have fallen from the skull of the first giant ever slain by man — or so the skalds sing. Yngve Aarseth found it embedded in a troll mound, and since then, no Norscan giant has raised its fist in anger toward him. Instead, they stand straighter when he draws near, their brows furrowed as if in reverence… or confusion. Some whisper that the Eye doesn’t merely remind the giants of the past — it allows them to see through it.	false

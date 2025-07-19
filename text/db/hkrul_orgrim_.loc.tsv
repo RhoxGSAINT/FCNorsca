@@ -18,15 +18,16 @@ character_skills_localised_description_hkrul_orgrim_special_1_5	Flesh of wolf, f
 character_skills_localised_description_hkrul_orgrim_special_1_6	He tracks the blood of traitors across snow, steel, and time.	true
 agent_subtypes_onscreen_name_override_hkrul_orgrim	Legendary Hero	false
 agent_subtypes_description_text_override_hkrul_orgrim	His scent carries the promise of death; Orgrim always finds his prey.	false
-unit_description_short_texts_text_hkrul_orgrim	His scent carries the promise of death; Orgrim always finds his prey.	false
+unit_description_short_texts_text_hkrul_orgrim	Born anew in the Chaos Wastes, Orgrim is mutation given form and fury.	false
 unit_description_historical_texts_text_hkrul_orgrim	Once a member of the dreaded Aesling tribe, Orgrim was cast out for a crime none dare speak aloud — a betrayal so bitter it turned blood against blood. He did not die in exile. He became something worse. Through frost and madness, Orgrim’s soul twisted with the hunger of the wolf. Now a werekin, he walks the snow as both man and beast, tracking the scent of his former kin across the north. His fangs find the throat of every Aesling he hunts. For Einarr Sigdansson, he is a loyal companion. For the Aeslings, he is the nightmare behind every blizzard howl.	false
 names_name_2610712831	Orgrim	false
 names_name_2610712830	the Wanderer	false
 land_units_onscreen_name_hkrul_orgrim	Orgrim the Wanderer	true
+effects_description_hkrul_orgrim_morale_khorne	Enemy leadership: %+n for Khornate units	false
 effects_description_hkrul_orgrim_shield	Passive Ability: "The Pale One"	false
 unit_abilities_tooltip_text_hkrul_orgrim_shield	The beast does not sleep. He watches. He waits.	true
 unit_abilities_onscreen_name_hkrul_orgrim_shield	The Pale One	true
-effects_description_hkrul_orgrim_axe	Ability: "Greyblood’s Mark"	false
+effects_description_hkrul_orgrim_axe	Ability: "Greyblood’s Fang"	false
 unit_abilities_tooltip_text_hkrul_orgrim_axe	Even in defeat, the ghost of the hunt stalks your shadow.	true
-unit_abilities_onscreen_name_hkrul_orgrim_axe	Greyblood’s Mark	true
+unit_abilities_onscreen_name_hkrul_orgrim_axe	Greyblood’s Fang	true
 effects_description_hkrul_orgrim_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false

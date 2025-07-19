@@ -1,5 +1,19 @@
 attrition	faction
 #campaign_map_attrition_faction_immunities_tables;0;db/campaign_map_attrition_faction_immunities_tables/hkrul_nor_surp	
+chaos_territory	mixer_nor_bloodfjord
+chaos_wastes	mixer_nor_bloodfjord
+disease	mixer_nor_bloodfjord
+mountain	mixer_nor_bloodfjord
+non_vampire_territory	mixer_nor_bloodfjord
+nurgle_plague	mixer_nor_bloodfjord
+snow	mixer_nor_bloodfjord
+chaos_territory	mixer_nor_eyristaad
+chaos_wastes	mixer_nor_eyristaad
+disease	mixer_nor_eyristaad
+mountain	mixer_nor_eyristaad
+non_vampire_territory	mixer_nor_eyristaad
+nurgle_plague	mixer_nor_eyristaad
+snow	mixer_nor_eyristaad
 chaos_territory	mixer_nor_snaegr
 chaos_wastes	mixer_nor_snaegr
 disease	mixer_nor_snaegr
@@ -7,3 +21,11 @@ mountain	mixer_nor_snaegr
 non_vampire_territory	mixer_nor_snaegr
 nurgle_plague	mixer_nor_snaegr
 snow	mixer_nor_snaegr
+chaos_territory	mixer_nor_cult_of_mermedus
+chaos_wastes	mixer_nor_cult_of_mermedus
+disease	mixer_nor_cult_of_mermedus
+mountain	mixer_nor_cult_of_mermedus
+non_vampire_territory	mixer_nor_cult_of_mermedus
+nurgle_plague	mixer_nor_cult_of_mermedus
+snow	mixer_nor_cult_of_mermedus
+deep_sea	mixer_nor_cult_of_mermedus

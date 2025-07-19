@@ -1,3 +1,5 @@
 attribute	phase	attribute_type
 #special_ability_phase_attribute_effects_tables;1;db/special_ability_phase_attribute_effects_tables/hkrul_nor_surp		
 causes_fear	hkrul_olaf_retinue	positive
+causes_terror	hkrul_haftagg_shield	positive
+strider	hkrul_hafskael_ship_buff	positive

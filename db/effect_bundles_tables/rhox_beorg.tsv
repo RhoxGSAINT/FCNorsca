@@ -3,3 +3,5 @@ key	localised_description	localised_title	bundle_target	priority	ui_icon	is_glob
 hkrul_beorg_banner			character	1	public_order.png	true	false	true
 rhox_beorg_faction_trait			faction	1	effect_bundle_beorg.png	true	false	true
 hkrul_yngve_banner			character	1	public_order.png	true	false	true
+hkrul_eyri_banner			character	1	public_order.png	true	false	true
+hkrul_grydal_banner			character	1	public_order.png	true	false	true

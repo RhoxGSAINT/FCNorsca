@@ -1,0 +1,6 @@
+agent_subtype	clan_name	forename	other_name	surname	agent_type	spawn_behaviour	spawn_via_ui
+#unique_agents_tables;3;db/unique_agents_tables/hkrul_late_summer							
+hkrul_grydal	2147358913	7610711131	2147358913	7610711130	general	FACTION_LEADER	false
+hkrul_goftur	2147358913	7610711234	2147358913	7610711233	general	FACTION_LEADER	false
+hkrul_mermedus	2147358913	7610711236	2147358913	7610711235	general	FACTION_LEADER	false
+hkrul_urf	2147358913	7610711238	2147358913	7610711237	general	FACTION_LEADER	false

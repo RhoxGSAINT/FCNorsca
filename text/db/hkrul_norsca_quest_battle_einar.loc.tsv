@@ -60,3 +60,13 @@ unit_description_historical_texts_text_hkrul_skraevold	The Bloodbeast of Skraevo
 character_trait_levels_onscreen_name_hkrul_defeated_trait_kolsveinn	Vinnskor Avenged	true
 character_trait_levels_colour_text_hkrul_defeated_trait_kolsveinn	The nightmare is over — the beast has bled.	true
 character_trait_levels_explanation_text_hkrul_defeated_trait_kolsveinn	Defeated Jarl Kolsveinn of Skraevold	true
+names_name_3110711854	Skoroth	false
+names_name_3110711853	the Plaguelord	false
+land_units_onscreen_name_hkrul_skoroth_boss	Skoroth the Plaguelord	false
+unit_description_short_texts_text_hkrul_skoroth_boss	He speaks in wheezes and rot — a prophet of corruption and king of filth	false
+unit_description_historical_texts_text_hkrul_skoroth_boss	Skoroth the Plaguelord was once a mortal priest of Nurgle, festering in the ruins of a thousand failed empires. Now he is something more — a bloated, glistening prophet of decay who strides through battlefield and village alike, spreading disease not with fury but with absolute devotion. He does not roar. He speaks softly, with breath thick as swamp gas. Around him, crops wilt, walls flake, and men sicken. He has survived wounds that would fell giants, not through strength but by refusing to die — and teaching others to do the same, painfully.	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_skoroth	Festering End	true
+character_trait_levels_colour_text_hkrul_defeated_trait_skoroth	"No plague can shake a soul that's faced Skoroth and lived."	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_skoroth	Defeated Skoroth the Plaguelord	true
+unit_abilities_onscreen_name_hkrul_skoroth_pas	Blightfeast Ascendant	false
+unit_abilities_tooltip_text_hkrul_skoroth_pas	With every corpse, his strength swells. The rot is not decay — it is fuel.	false

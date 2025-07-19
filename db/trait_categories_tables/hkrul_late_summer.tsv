@@ -1,0 +1,5 @@
+category	icon_path
+#trait_categories_tables;0;db/trait_categories_tables/hkrul_late_summer	
+hkrul_grydal	ui/campaign ui/skills/innate_trait_grydal.png
+hkrul_goftur	ui/campaign ui/skills/innate_trait_goftur.png
+hkrul_skoroth	ui/campaign ui/skills/innate_trait_goftur.png

@@ -1,0 +1,9 @@
+unit	military_group
+#units_to_groupings_military_permissions_tables;0;db/units_to_groupings_military_permissions_tables/hkrul_late_summer	
+hkrul_grydal	wh_main_group_norsca
+hkrul_goftur	wh_main_group_norsca
+hkrul_mermedus	wh_main_group_norsca
+hkrul_urf	wh_main_group_norsca
+hkrul_shark_1	wh_main_group_norsca
+hkrul_skald_horn	wh_main_group_norsca
+hkrul_skeggi_inf_marauder_champions_0	wh_main_group_norsca
