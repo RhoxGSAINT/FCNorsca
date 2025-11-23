@@ -1,6 +1,0 @@
-base_unit	mounted_unit	icon_name
-#units_custom_battle_mounts_tables;1;db/units_custom_battle_mounts_tables/hkrul_nor_surp		
-hkrul_olg	hkrul_olg_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
-hkrul_olaf	hkrul_olaf_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
-hkrul_tuula	hkrul_tuula_chariot	ui/campaign ui/mounts/mount_chaos_chariot.png
-hkrul_olaf	hkrul_olaf_mammoth	ui/campaign ui/mounts/mount_mammoth.png

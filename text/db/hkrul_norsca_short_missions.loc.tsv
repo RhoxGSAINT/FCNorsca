@@ -13,25 +13,3 @@ unit_description_short_texts_text_hkrul_boartusk_boss	An ancient horror, Mogwrat
 unit_description_historical_texts_text_hkrul_boartusk_boss	Few beasts have rooted themselves so deeply into the fear-etched songs of the Sarl tribes as Mogwrath the Bogtusk. Said to have thundered forth from the depths of the mire in the First Winter, when the Kalti Delta first turned brackish, Mogwrath is a blighted fusion of mammoth and swamp-boar—its hide pocked with barnacles, its tusks eroded and re-formed by the salt tides of a thousand years. Some seers claim it is a daemon-bound relic of the Great Maw, while others speak of a primal godlet, banished and cursed to drown forever in muck and memory.	false
 unit_description_short_texts_text_hkrul_ziege	A veteran of a hundred wars, Ziege's blade thirsts as fiercely as he does.	false
 unit_description_historical_texts_text_hkrul_ziege	Willi Ziege is no common sellsword. Among mercenaries of the Empire, his name is spoken with reverence and fear. He has stood in shieldwalls broken by Beastmen, led forlorn charges through Druchii bolts, and faced necromantic horrors without flinching. Battle is his prayer; the clash of blades, his litany.	false
-dilemmas_localised_title_bjornling_dilemma_1	The Mutant of the Wharf	false
-dilemmas_localised_description_bjornling_dilemma_1	Lars, the finest apprentice shipwright in a generation — and Hafskael’s own — has been discovered to bear signs of mutation. Faint webbing between his fingers. Eyes that glint just a shade too bright in the dark. Word spreads quickly through the wharf, and soon up to the longhall. Among the Bjornlings, such deformity is not tolerated, no matter the man’s worth. Tradition is clear: mutants are cast from the Cliffs of Skjold to the sea below — death by waves, witnessed by kin. Yet Lars is invaluable, his designs have kept Bjornling ships unchallenged.	false
-cdir_events_dilemma_choice_details_localised_choice_label_bjornling_dilemma_1FIRST	Spare the Builder, Shield the Wharf	false
-cdir_events_dilemma_choice_details_localised_choice_title_bjornling_dilemma_1FIRST	Quietly cover up Lars’ affliction and keep him in service.	false
-cdir_events_dilemma_choice_details_localised_choice_label_bjornling_dilemma_1SECOND	Cast Him to the Deep	false
-cdir_events_dilemma_choice_details_localised_choice_title_bjornling_dilemma_1SECOND	Adhere to tradition. Lars is hurled from the cliffs of Skjold.	false
-effect_bundles_localised_title_bjornling_bundle_1_1	Spare the Builder, Shield the Wharf	false
-effect_bundles_localised_description_bjornling_bundle_1_1	“The dock must hold. The storm can wait.”	false
-effect_bundles_localised_title_bjornling_bundle_1_2	Cast Him to the Deep	false
-effect_bundles_localised_description_bjornling_bundle_1_2	“None bear marks and live. Not even the gifted.”	false
-effect_bundles_localised_title_hkrul_grydal_momentum	Bloodkindled Momentum	false
-effect_bundles_localised_description_hkrul_grydal_momentum	With the Hall reclaimed and the stain of Skaeling insult washed away in gore, the Snaegr march with purpose once more. Spears are gripped tighter. War cries ring louder. Every warrior knows their jarl walks the path to godhood — and they will spill oceans of blood to see it done.	false
-dilemmas_localised_title_bjornling_dilemma_fish_overload	The Spoil of Plenty	false
-dilemmas_localised_description_bjornling_dilemma_fish_overload	The fish holds are full to bursting — barrels creak, the smell turns sharp, and gulls gather in screaming flocks. What was once a bounty is now on the edge of spoil. Do you sell the surplus, feed the warbands, or share the sea’s reward with your oarsmen? Delay too long, and even the finest catch will rot in the sun.	false
-cdir_events_dilemma_choice_details_localised_choice_label_bjornling_dilemma_fish_overloadFIRST	Sell Through Local Ports	false
-cdir_events_dilemma_choice_details_localised_choice_title_bjornling_dilemma_fish_overloadFIRST	Unload the bulk before the stench draws flies — the coin will flow for a short while.	false
-cdir_events_dilemma_choice_details_localised_choice_label_bjornling_dilemma_fish_overloadSECOND	Feed the Warbands	false
-cdir_events_dilemma_choice_details_localised_choice_title_bjornling_dilemma_fish_overloadSECOND	Distribute salted stores to your warriors — bellies full, wounds mend faster.	false
-cdir_events_dilemma_choice_details_localised_choice_label_bjornling_dilemma_fish_overloadTHIRD	Fuel the Sailing Crews	false
-cdir_events_dilemma_choice_details_localised_choice_title_bjornling_dilemma_fish_overloadTHIRD	Let the oarsmen feast — fresh meat makes strong arms and faster crossings.	false
-cdir_events_dilemma_choice_details_localised_choice_label_bjornling_dilemma_fish_overloadFOURTH	Do Nothing – Store the Catch	false
-cdir_events_dilemma_choice_details_localised_choice_title_bjornling_dilemma_fish_overloadFOURTH	Keep the barrels sealed and hope for colder winds. But fish kept too long... always turns.	false

@@ -23,4 +23,3 @@ hkrul_norsca_md_siege_theirs	defence.png	120	defence.png	battle	true
 hkrul_norsca_phys_res_norsca	resistance_physical.png	122	resistance_physical.png	battle	true
 hkrul_norsca_melee_damage_norsca	weapon_damage.png	121	weapon_damage.png	battle	true
 hkrul_norsca_wallbreaker_marauders	hkrul_effect_wallbreaker.png	2	hkrul_effect_wallbreaker.png	battle	true
-hkrul_norsca_post_battle_sea_dummy	income.png	120	income.png	campaign	true

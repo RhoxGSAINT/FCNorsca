@@ -51,30 +51,3 @@ building_short_description_texts_short_description_rhox_fc_norsca_chaos_iceberg	
 building_chains_chain_tooltip_rhox_fc_norsca_corrupted_khemri	The Corrupted Pyramid of Khemri	false
 building_culture_variants_name_rhox_fc_norsca_corrupted_khemri	The Corrupted Pyramid of Khemri	false
 building_short_description_texts_short_description_rhox_fc_norsca_corrupted_khemri	In the heart of the desert of Khemri stands the once-proud pyramid, now corrupted by chaos, a testament to the conquest of Surtha Ek, Chariot Lord of the Varg. Renowned for his unparalleled skill on the chariot, Surtha Ek's prowess rivals even that of Settra the Imperishable himself. As Surtha Ek crossed continents and sacked the pyramid, he settled a feud that spanned worlds, asserting the dominance of the Varg even in the unforgiving sands of Khemri. Now, chaos marks adorn the rubble of the great pyramid, a chilling reminder of the Varg's unrelenting might and the chaos that now reigns in Khemri.	false
-building_chains_chain_tooltip_hkrul_norsca_duel_circle	Duelling Circles of Horvenghaast	false
-building_short_description_texts_short_description_hkrul_norsca_duel_circle	High above the chasm-marked cliffs Horvenghaast, flat circles  ring with steel and screams. Here, warriors duel beneath the gaze of Khorne — not for coin, but for honour, blood, and ascent. These sacred fighting circles draw Norscans, Skaelings, and even exiled champions seeking favour through death. The blood spilled in these rooftop rites feeds the stones and marks the strongest with Khorne’s favour.	false
-building_culture_variants_name_hkrul_norsca_duel_circle	Duelling Circles of Horvenghaast	false
-building_chains_chain_tooltip_hkrul_norsca_snaegr_hall	Hall of the Snaegr	false
-building_short_description_texts_short_description_hkrul_norsca_snaegr_hall	Carved into blood-slick mountain rock, the Hall of the Snaegr is a fortress-temple to violence. Its walls echo with war chants, and the skulls of conquered foes line its gore-drenched galleries. Here, the warriors of the Snaegr offer blood to Urlfdaemonkin, and the Moon-time of Ulf is awaited like a second birth. Only the strongest survive the trials within. The weak feed the flame — or the warriors.	false
-building_culture_variants_name_hkrul_norsca_snaegr_hall	Hall of the Snaegr	false
-building_chains_chain_tooltip_hkrul_norsca_mermedus_temple	Seafarers’ Shrine	false
-building_short_description_texts_short_description_hkrul_norsca_mermedus_temple	At the foot of the cliffs, where tides rise and retreat like the breath of a drowned god, lies the Seafarers’ Shrine — an ancient, barnacle-clad sea cave echoing with half-forgotten prayers. At high tide, waist-deep waters flood its hollow, while at low tide, pilgrims tread carefully across jagged stone to kneel in brine and gloom. Here the Norse pay homage to a dozen fickle sea spirits — many adopted from foreign tongues — in the hope one might answer when death looms on the waves.	false
-building_culture_variants_name_hkrul_norsca_mermedus_temple	Seafarers’ Shrine	false
-unit_abilities_tooltip_text_hkrul_moon_time	"The blood moon rises. Bones twist. Rage burns. I hear Urlfdaemonkin’s voice in my veins."	true
-unit_abilities_onscreen_name_hkrul_moon_time	Moon-Time of Urlf	true
-effects_description_hkrul_moon_time	Passive Ability: "Moon-Time of Urlf" for Werekin Champions	false
-unit_abilities_tooltip_text_hkrul_mermedus_mark	"I feel his teeth beneath the waves, guiding my prow. He is with me."	true
-unit_abilities_onscreen_name_hkrul_mermedus_mark	Mark of Mermedus	true
-effects_description_hkrul_mermedus_mark	Passive Ability: "Mark of Mermedus" when fighting at sea	false
-unit_abilities_tooltip_text_hkrul_circle_blooded	"I’ve bled on the clifftops of Horvenghaast — I’ll bleed you just the same."	true
-unit_abilities_onscreen_name_hkrul_circle_blooded	Circle-Blooded	true
-effects_description_hkrul_circle_blooded	Passive Ability: "Circle-Blooded" for Marauder Chieftains	false
-unit_abilities_tooltip_text_hkrul_wolf_hunter	They speared the wolves of Huern, and now turn their sharpened wrath upon larger beasts still.	true
-unit_abilities_onscreen_name_hkrul_wolf_hunter	Wolfsbane Brotherhood	true
-effects_description_hkrul_wolf_hunter	Passive Ability: "Wolfsbane Brotherhood" for Marauder Spearmen units	false
-building_chains_chain_tooltip_hkrul_norsca_barrows	Barrows of Bragnir	false
-building_short_description_texts_short_description_hkrul_norsca_barrows	Beneath the misty hills of Bragnir lie the barrows of long-dead kings — stoic Bjornling chieftains entombed in stone and saga.Their deeds echo in the songs of skalds, for it is here that the greatest tales are forged and passed down. Pilgrims and poets alike wander these ridges, seeking the weight of legacy beneath the turf. In the valleys below, where kelp-fed soil yields rare bounty, life blossoms among the dead.	false
-building_culture_variants_name_hkrul_norsca_barrows	Barrows of Bragnir	false
-building_chains_chain_tooltip_hkrul_norsca_erik_tomb	Erik the Lost's Tomb	false
-building_short_description_texts_short_description_hkrul_norsca_erik_tomb	Battered by fog and storm, the coasts of Albion yield few secrets — save for one. High on a lonely bluff stands the tomb of Erik the Lost, greatest of Norse explorers, who met his end charting the unknowable. Shrouded in mist and legend alike, the site draws bold pilgrims and curious captains, each seeking his legacy or blessing. Those who find it speak of dreams filled with stormlight, sea-spirits… and the call to voyage ever farther.	false
-building_culture_variants_name_hkrul_norsca_erik_tomb	Erik the Lost's Tomb	false

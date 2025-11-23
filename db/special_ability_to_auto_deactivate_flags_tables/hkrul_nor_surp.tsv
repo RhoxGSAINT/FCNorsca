@@ -2,7 +2,3 @@ deactivate_flag	special_ability
 #special_ability_to_auto_deactivate_flags_tables;0;db/special_ability_to_auto_deactivate_flags_tables/hkrul_nor_surp	
 health_above_25%	hkrul_boartusk_helm
 health_above_20%	hkrul_boartusk_helm_weak
-unit_is_not_charging	hkrul_haftagg_shield
-out_of_melee	hkrul_berus_eye
-engaged_in_melee	hkrul_oda_shield2
-health_above_20%	hkrul_goftur_avatar

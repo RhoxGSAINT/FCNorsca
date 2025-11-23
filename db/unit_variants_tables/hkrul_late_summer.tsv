@@ -1,9 +1,0 @@
-faction	unit	name	variant	unit_card
-#unit_variants_tables;5;db/unit_variants_tables/hkrul_late_summer				
-	hkrul_grydal	hkrul_grydal	hkrul_grydal	hkrul_grydal
-	hkrul_goftur	hkrul_goftur	hkrul_goftur	hkrul_goftur
-	hkrul_shark_1	hkrul_shark_1	hkrul_shark_1	hkrul_shark_1
-	hkrul_mermedus	hkrul_mermedus	hkrul_mermedus	hkrul_mermedus
-	hkrul_urf	hkrul_urf	hkrul_urf	hkrul_urf
-	hkrul_shark_2	hkrul_shark_2	hkrul_shark_2	hkrul_hammerhead
-	hkrul_shark_3	hkrul_shark_3	hkrul_shark_3	hkrul_sharkalt

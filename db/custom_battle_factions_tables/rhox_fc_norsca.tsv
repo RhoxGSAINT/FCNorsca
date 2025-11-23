@@ -2,8 +2,4 @@ faction_key	sort_order	culture_sort_order
 #custom_battle_factions_tables;1;db/custom_battle_factions_tables/rhox_fc_norsca		
 mixer_nor_fjordlings	300	210
 mixer_nor_geimdall_huscarls	301	210
-mixer_nor_bloodfjord	302	210
-mixer_nor_eyristaad	303	210
-mixer_nor_snaegr	306	210
-cr_nor_servants_of_mermedus	311	210
-mixer_nor_cult_of_mermedus	312	210
+mixer_nor_snaegr	302	210

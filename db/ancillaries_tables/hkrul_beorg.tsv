@@ -2,4 +2,3 @@ key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	s
 #ancillaries_tables;0;db/ancillaries_tables/hkrul_beorg																												
 hkrul_beorg_banner	hkrul_beorg_banner	.	false	false	false	1	0	9999			false	false	false	general	16	30	30	50	true		hkrul_beorg_banner	200	1	banner	false	false	true	all
 hkrul_beorg_sword	wh_main_anc_talisman	.	false	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			200	0		false	false	true	all
-hkrul_eyri_banner	hkrul_eyri_banner	.	true	false	false	1	0	9999			false	false	false	general	16	30	30	50	true		hkrul_eyri_banner	200	1	banner	false	false	true	all

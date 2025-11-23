@@ -23,9 +23,9 @@ unit_description_historical_texts_text_hkrul_usta	Usta the Witch is feared in ev
 names_name_2610712841	Usta	false
 names_name_2610712840	the Witch	false
 land_units_onscreen_name_hkrul_usta	Usta the Witch	true
-effects_description_hkrul_usta_gaze	Ability: "Woundbound Curse"	false
-unit_abilities_tooltip_text_hkrul_usta_gaze	Usta plunges a bone needle into the doll, and her enemy howls in shared torment.	true
-unit_abilities_onscreen_name_hkrul_usta_gaze	Woundbound Curse	true
+effects_description_hkrul_usta_shield	Passive Ability: "Echo of Prophecy"	false
+unit_abilities_tooltip_text_hkrul_usta_shield	"They feed me names, and I whisper them to death."	true
+unit_abilities_onscreen_name_hkrul_usta_shield	Echo of Prophecy	true
 effects_description_hkrul_usta_axe	Ability: "Crone’s Curse"	false
 unit_abilities_tooltip_text_hkrul_usta_axe	"What she touched lingers. What she saw, you now fear."	true
 unit_abilities_onscreen_name_hkrul_usta_axe	Crone’s Curse	true

@@ -1,12 +1,12 @@
 key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
 #unit_abilities_tables;17;db/unit_abilities_tables/hkrul_nor_surp											
-hkrul_olg_helm	true	hkrul_olg_mask		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_olg_helm	true	hkrul_olg_prayer		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_olg_axe	true	hkrul_olg_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_tuula_rally	true	hkrul_tuula_rally		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	active		false
 hkrul_tuula_bound	true	hkrul_tuula_bound		wh_type_area_of_ward_save		wh_main_anc_group_unique	true	false	passive		false
 hkrul_tuula_axe	true	hkrul_tuula_axe		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_haftagg_shield	true	hkrul_haftagg_shield		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
-hkrul_haftagg_roar	true	hkrul_haftagg_roar		wh_type_hex		wh_main_anc_group_uncommon	true	false	active		false
+hkrul_haftagg_shield	true	hkrul_haftagg_prayer		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
+hkrul_haftagg_roar	true	hkrul_haftagg_roar		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_olaf_rally	true	hkrul_olaf_hex		wh_type_hex		wh_main_anc_group_rare	true	false	active		false
 hkrul_olaf_retinue	true	hkrul_tuula_axes		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	passive		false
 hkrul_olaf_helm	true	hkrul_olaf_helm		wh_type_augment		wh_main_anc_group_unique	true	false	passive		false
@@ -16,19 +16,3 @@ hkrul_olg_spit	true	hkrul_olg_spit		wh_type_magic_missile		wh_main_anc_group_unc
 hkrul_boartusk_shatter	false	hkrul_boartusk_stomp		wh_type_breath		wh_main_anc_group_unique	true	false	active		false
 hkrul_boartusk_helm	false	hkrul_boartusk_helm		wh_type_regeneration		wh_main_anc_group_rare	true	false	passive		false
 hkrul_boartusk_helm_weak	false	hkrul_boartusk_helm		wh_type_regeneration		wh_main_anc_group_rare	true	false	passive		false
-hkrul_eyri_axe	true	hkrul_eyri_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
-hkrul_eyri_raiders	true	hkrul_eyri_raider		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_eyri_cash	true	hkrul_eyri_rally		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
-hkrul_eyri_ring	true	hkrul_eyri_ring		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_hafskael_shield	true	hkrul_hafskael_prayer		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
-hkrul_hafskael_axe	true	hkrul_hafskael_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
-hkrul_orgrim_axe	true	hkrul_orgrim_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
-hkrul_berus_eye	true	hkrul_berus_eye		wh_type_hex		wh_main_anc_group_rare	true	false	passive		false
-hkrul_berus_axe	true	hkrul_berus_axe		wh_type_breath		wh_main_anc_group_rare	true	false	active		false
-hkrul_usta_gaze	true	hkrul_usta_doll		wh_type_hex		wh_main_anc_group_rare	true	false	active		false
-hkrul_kammler_time	true	hkrul_kammler_orb		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_kammler_hand	true	hkrul_kammler_hand		wh_type_augment_of_the_winds		wh_main_anc_group_rare	true	false	active		false
-hkrul_hafskael_ship_buff	true	hkrul_hafskael_ship		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
-hkrul_oda_shield2	true	hkrul_oda_shield2		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	passive		false
-hkrul_goftur_children	true	hkrul_goftur_children		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_goftur_avatar	true	hkrul_goftur_avatar		wh_type_regeneration		wh_main_anc_group_rare	true	false	passive		false

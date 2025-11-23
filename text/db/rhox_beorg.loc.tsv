@@ -70,8 +70,6 @@ effect_bundles_localised_description_rhox_beorg_faction_trait	At the edge of the
 effect_bundles_localised_title_rhox_beorg_faction_trait	The Ursfjordings	false
 ancillaries_colour_text_hkrul_beorg_banner	Beorg's battle-standard is borne by the hardy warrior, Oerl the Young -- a entire bearskin whose grizzly head leers out from the top. The skin is touched by the power of Chaos, and the blessings of the gods is such that the banner radiates an aura of rage that drives the already fierce Ursfjordings into a terrible battle-fury that is impossible to contain.	true
 ancillaries_onscreen_name_hkrul_beorg_banner	The Bear Banner	true
-effect_bundles_localised_title_hkrul_eyri_banner	Banner of Salt and Coin	false
-effect_bundles_localised_title_hkrul_grydal_banner	Banner of the Snaegr	false
 effect_bundles_localised_title_hkrul_yngve_banner	Urska's Banner	false
 effect_bundles_localised_title_hkrul_beorg_banner	The Bear Banner	false
 character_trait_levels_onscreen_name_hkrul_defeated_trait_beorg	Bearstrucked	true
@@ -87,8 +85,8 @@ ancillaries_colour_text_hkrul_beorg_bear_2	Placeholder Text Placeholder Text	tru
 ancillaries_onscreen_name_hkrul_beorg_bear_2	Imperial Pegasus	true
 ancillaries_colour_text_hkrul_beorg_bear_3	Placeholder Text Placeholder Text	true
 ancillaries_onscreen_name_hkrul_beorg_bear_3	Imperial Griffon	true
-building_chains_chain_tooltip_rhox_beorg_halls_of_urslo	Hall of Urslo	false
-building_culture_variants_name_rhox_beorg_halls_of_urslo	Hall of Urslo	false
+building_chains_chain_tooltip_rhox_beorg_halls_of_urslo	Halls of Urslo	false
+building_culture_variants_name_rhox_beorg_halls_of_urslo	Halls of Urslo	false
 building_short_description_texts_short_description_rhox_beorg_halls_of_urslo	Nestled within frozen Ursfjord stands the imposing Great Hall of Urslo, a bastion of strength hewn from ancient timbers. Here resides Beorg, chieftain of the Bearmen, when he is not leading his warriors into battle or raiding distant lands. Beorg, a formidable were-bear of extraordinary power, commands respect and fear alike. In battle, he undergoes a savage transformation into an immense bear, bearing the revered title of Bearstruck—a symbol of lordship among his people. Under his rule, the Ursfjordings flourish as warriors of the north, their legacy echoing through the grand halls of Urslo.	false
 event_feed_strings_text_rhox_iee_lccp_how_they_play_beorg	[[img:bullet_nor_gods]][[/img]] [[col:green]]Raze settlements and raise monoliths in their place to gradually pledge[[/col]] [[url:script_link_campaign_gods]][[tooltip:{{tt:tooltip_campaign_gods}}]]Allegiance to the Gods[[/tooltip]][[/url]][[col:green]], who will each grant factionwide gifts in lieu of the others.[[/col]]\\n\\n[[img:bullet_nor_monsters]][[/img]] [[col:green]]Hunt down creatures listed in the[[/col]] [[url:script_link_campaign_monsters]][[tooltip:{{tt:tooltip_campaign_monsters}}]]Monstrous Arcanum[[/tooltip]][[/url]] [[col:green]]and defeat them in battle in return for unique and powerful trophies.[[/col]]\\n\\n[[img:rhox_beorg_dummy]][[/img]] [[col:green]]Ursine Creatures are drawn to the primal aura of the Ursfjording warriors, they may be corrupted and captured.[[/col]]\\n\\n[[img:icon_confederation]][[/img]] [[col:green]]Defeat the faction leaders of rival Norscan tribes to be given the option to form tribal[[/col]] [[sl_link:campaign_confederation]]confederations.[[/sl_link]]\\n\\nLearn more about Norsca [[url:script_link_campaign_norsca]]here[[/url]].	false
 incidents_localised_description_rhox_beorg_bear_unit_incident	After Beorg's victory, some Ursine creatures are drawn to his banner	false
@@ -188,5 +186,3 @@ ui_unit_bullet_point_enums_tooltip_hkrul_hornblower	A hornblower inspires allies
 ui_unit_bullet_point_enums_onscreen_name_hkrul_hornblower	Hornblower	false
 ui_unit_groupings_onscreen_hkrul_hornblower	Hornblower Infantry	false
 ui_unit_groupings_tooltip_hkrul_hornblower	Hornblower Infantry	false
-ui_unit_groupings_onscreen_scm_hero_great_hammer	Hammer Infantry	false
-ui_unit_groupings_tooltip_scm_hero_great_hammer	Hammer Infantry	false

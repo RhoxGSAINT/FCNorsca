@@ -1,6 +1,6 @@
 set	item	mod_disabled
 #character_skill_node_set_items_tables;0;db/character_skill_node_set_items_tables/hkrul_usta		
-skill_node_set_hkrul_usta	hkrul_usta_magic_dummy	false
+skill_node_set_hkrul_usta	wolftribe_skill_node_tempest_magic_dummy	false
 skill_node_set_hkrul_usta	hkrul_usta_campaign_01	false
 skill_node_set_hkrul_usta	hkrul_usta_campaign_02	false
 skill_node_set_hkrul_usta	hkrul_usta_campaign_03	false
@@ -22,6 +22,7 @@ skill_node_set_hkrul_usta	hkrul_usta_magic_11	false
 skill_node_set_hkrul_usta	hkrul_usta_unique_01	false
 skill_node_set_hkrul_usta	hkrul_usta_unique_02	false
 skill_node_set_hkrul_usta	hkrul_usta_innate_01	false
+skill_node_set_hkrul_usta	hkrul_usta_unique_04	false
 skill_node_set_hkrul_usta	hkrul_usta_self_01	false
 skill_node_set_hkrul_usta	hkrul_usta_self_02	false
 skill_node_set_hkrul_usta	hkrul_usta_self_03	false

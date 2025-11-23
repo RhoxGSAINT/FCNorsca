@@ -11,13 +11,3 @@ id	choice_key	dilemma_key	payload_key	value	target_key
 1156146843	THIRD	wh2_dlc08_nor_confederate_generic	TEXT_DISPLAY	LOOKUP[rhox_fc_norsca_ancillary_dummy]	default
 1156146844	SECOND	wh2_dlc08_nor_confederate_generic_no_execution	TEXT_DISPLAY	LOOKUP[rhox_fc_norsca_ancillary_dummy]	default
 1156146845	THIRD	wh2_dlc08_nor_confederate_generic	EFFECT_BUNDLE	KEY[rhox_fc_norsca_spared_leader];DURATION[5]	default
-1156146846	FIRST	bjornling_dilemma_1	EFFECT_BUNDLE	KEY[bjornling_bundle_1_1];DURATION[6]	default
-1156146847	FIRST	bjornling_dilemma_1	ADD_ANCILLARY	ANCILLARY_KEY[hkrul_norsca_lars]	default
-1156146848	SECOND	bjornling_dilemma_1	EFFECT_BUNDLE	KEY[bjornling_bundle_1_2];DURATION[6]	default
-1156146849	FIRST	bjornling_dilemma_fish_overload	EFFECT_BUNDLE	KEY[bjornling_bundle_fish_1];DURATION[6]	default
-1156146850	SECOND	bjornling_dilemma_fish_overload	EFFECT_BUNDLE	KEY[bjornling_bundle_fish_2];DURATION[6]	default
-1156146851	THIRD	bjornling_dilemma_fish_overload	EFFECT_BUNDLE	KEY[bjornling_bundle_fish_3];DURATION[6]	default
-1156146855	FOURTH	bjornling_dilemma_fish_overload	TEXT_DISPLAY	LOOKUP[hkrul_fish_keep_dummy]	default
-1156146854	SECOND	bjornling_dilemma_fish_overload	FACTION_POOLED_RESOURCE_TRANSACTION	RESOURCE[rhox_bjornling_fish];FACTOR[rhox_bjornling_fish_sell];AMOUNT[-350];REQUIRED;CONTEXT[absolute]	default
-1156146853	FIRST	bjornling_dilemma_fish_overload	FACTION_POOLED_RESOURCE_TRANSACTION	RESOURCE[rhox_bjornling_fish];FACTOR[rhox_bjornling_fish_sell];AMOUNT[-350];REQUIRED;CONTEXT[absolute]	default
-1156146852	THIRD	bjornling_dilemma_fish_overload	FACTION_POOLED_RESOURCE_TRANSACTION	RESOURCE[rhox_bjornling_fish];FACTOR[rhox_bjornling_fish_sell];AMOUNT[-350];REQUIRED;CONTEXT[absolute]	default

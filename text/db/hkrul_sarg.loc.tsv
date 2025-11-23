@@ -43,6 +43,8 @@ land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_horsemen_throwing_axe	
 land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder	Yusak Marauders	false
 land_units_onscreen_name_scm_fc_norsca_yusak_nor_marauder_great_weapons	Yusak Marauders (Great Weapons)	false
 campaign_localised_strings_string_rhox_sarg_gift_button_tooltip	Gifts of Chaos||Use your harvested [[img:icon_devotees]][[/img]]Devotees to claim powerful rewards from Slaanesh	false
+frontend_faction_leaders_frontend_description_mixer_ime_nor_yusak		false
+frontend_faction_leaders_loading_screen_text_mixer_ime_nor_yusak		false
 frontend_faction_leaders_localised_action_points_mixer_ime_nor_yusak		false
 frontend_faction_leaders_localised_description_mixer_ime_nor_yusak		false
 pooled_resources_description_rhox_sarg_devotee_spent_und	Sacrificing [[img:icon_devotees]][[/img]]Devotees to Chaos Undivided unlocks additional Gifts of Chaos.	false

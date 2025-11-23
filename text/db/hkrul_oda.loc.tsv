@@ -19,15 +19,14 @@ character_skills_localised_description_hkrul_oda_special_1_6	The elite of Skjold
 agent_subtypes_onscreen_name_override_hkrul_oda	Legendary Hero	false
 agent_subtypes_description_text_override_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
 unit_description_short_texts_text_hkrul_oda	A rival champion once muttered: "No living man may hinder me". His head now rests on Oda's mantle.	false
-names_name_7410711831	Jarl Oda	false
+names_name_7410711831	Oda	false
 names_name_7410711830	Winterclaw	false
-land_units_onscreen_name_hkrul_oda	Jarl Oda Winterclaw	true
+land_units_onscreen_name_hkrul_oda	Oda Winterclaw	true
 effects_description_hkrul_oda_shield	Ability: "Winterclaw's Bulwark"	true
 unit_abilities_tooltip_text_hkrul_oda_shield	With a mighty cry Oda organizes her Huskarls and Shield-Maidens in line, forming a impenetrable wall of shields and meat.	false
 unit_abilities_onscreen_name_hkrul_oda_shield	Winterclaw's Bulwark	false
 effects_description_hkrul_bjornling_upkeep	Upkeep: %+n% for Huscarl units	false
 effects_description_hkrul_bjornling_global_recruit_time	Global recruitment duration: %+n turns for Marauder Champions	false
-effects_description_hkrul_yngve_norscan_giant_recruit_global	Global recruitment duration: %+n turns for Norscan Giants	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_oda		false
 unit_description_historical_texts_text_hkrul_oda		false
 character_skills_localised_description_hkrul_oda_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
@@ -36,20 +35,15 @@ units_custom_battle_mounts_localised_description_hkrul_odahkrul_oda_horse	The ho
 units_custom_battle_mounts_mount_name_hkrul_odahkrul_oda_horse	Norscan Warhorse	false
 ancillaries_colour_text_hkrul_oda_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
 ancillaries_onscreen_name_hkrul_oda_horse	Norscan Warhorse	false
-land_units_onscreen_name_hkrul_oda_horse	Jarl Oda Winterclaw	false
+land_units_onscreen_name_hkrul_oda_horse	Oda Winterclaw	false
 ui_unit_groupings_tooltip_hkrul_norsca_javelin_hero		false
 effects_description_hkrul_contact_shield_up	''Keep the Shields up!'' stance for Marauder Champion units	false
 special_ability_phases_onscreen_name_hkrul_contact_shield_up	[[col:green]][[img:ui/skins/default/modifier_icon_hkrul_shield.png]][[/img]]Keep the Shields up![[/col]]	false
-land_units_onscreen_name_hkrul_oda_manticore	Jarl Oda Winterclaw	true
+land_units_onscreen_name_hkrul_oda_manticore	Oda Winterclaw	true
 units_custom_battle_mounts_mount_name_hkrul_odahkrul_oda_manticore	Manticore	true
 units_custom_battle_mounts_localised_description_hkrul_odahkrul_oda_manticore	Oda claimed this mighty beast from a defeated Chaos Lord.	true
 ancillaries_colour_text_hkrul_oda_manticore	Oda claimed this mighty beast from a defeated Chaos Lord.	false
 ancillaries_onscreen_name_hkrul_oda_manticore	Manticore	false
-land_units_concealed_name_hkrul_oda_manticore	Jarl Oda Winterclaw	false
+land_units_concealed_name_hkrul_oda_manticore	Oda Winterclaw	false
 character_skills_localised_description_hkrul_oda_manticore	Oda claimed this mighty beast from a defeated Chaos Lord.	false
 character_skills_localised_name_hkrul_oda_manticore	Manticore	false
-effects_description_hkrul_oda_shield2	Passive Ability: "Skjoldrheim's Respite"	true
-unit_abilities_tooltip_hkrul_oda_shield2	“No wall stood that day — but she did.”	false
-unit_abilities_onscreen_name_hkrul_oda_shield2	Skjoldrheim's Respite	false
-ancillaries_colour_text_hkrul_oda_shield	Forged in secret during the Long Cold by the shieldmaidens of Skjold, Skjoldrheim is more than a shield — it is a symbol of lineage, sacrifice, and survival. Crafted from lack alderwood soaked in glacier-water, reinforced with riveted storm-steel, and bound with braided horsehair, its surface bears no heraldry. Instead, it is carved with deep runes of defiance and ancestral oathmarks — each notch a battle stood, not fled. Passed down through the matriarchal lines of shieldmaidens, the shield was said to have once held fast against a three-day siege at the Howling Steps	false
-ancillaries_onscreen_name_hkrul_oda_shield	Skjoldrheim	false

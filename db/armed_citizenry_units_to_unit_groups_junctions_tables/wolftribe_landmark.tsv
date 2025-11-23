@@ -1,0 +1,4 @@
+id	priority	unit	unit_group
+#armed_citizenry_units_to_unit_groups_junctions_tables;0;db/armed_citizenry_units_to_unit_groups_junctions_tables/wolftribe_landmark			
+31648055	950	wh_dlc08_nor_mon_skinwolves_1	wolftribe_nor_mon_skinwolves_1
+31648056	650	wh_dlc08_nor_mon_warwolves_0	wolftribe_nor_mon_warwolves_0

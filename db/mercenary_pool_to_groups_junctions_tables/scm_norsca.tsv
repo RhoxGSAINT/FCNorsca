@@ -37,8 +37,5 @@ key	group	initial_unit_count	pool	faction_requirement	subculture_requirement	tec
 1052539254	wh_mod_nor_veh_mammoth_siege_tower_0	0	wh_dlc08_nor_units_of_renown_pool			
 1052539255	hkrul_norsca_ymir_ror	0	wh_dlc08_nor_units_of_renown_pool			
 1052539256	nor_longship_ror	0	wh_dlc08_nor_units_of_renown_pool			
-1052539257	hkrul_boartusk_mammoth_ror	0	wh_dlc08_nor_units_of_renown_pool		wh_dlc08_sc_nor_norsca	
+1052539257	hkrul_boartusk_mammoth_ror	1	wh_dlc08_nor_units_of_renown_pool		wh_dlc08_sc_nor_norsca	
 1052539258	hkrul_skraevold	0	wh_dlc08_nor_units_of_renown_pool			
-1052539259	hkrul_godi	0	wh_dlc08_nor_units_of_renown_pool			
-1052539260	hkrul_shark_2	0	wh_dlc08_nor_units_of_renown_pool			
-1052539261	hkrul_shark_3	0	wh_dlc08_nor_units_of_renown_pool			

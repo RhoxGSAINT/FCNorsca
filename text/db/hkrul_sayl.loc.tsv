@@ -156,8 +156,6 @@ effects_description_hkrul_shaman_melee_defence	Melee defence: %+n for Shaman Sor
 effects_description_hkrul_sayl_mammoth_charge	Charge bonus: %+n% for Mammoth units	false
 effects_description_hkrul_sayl_shaman_mastery	Attribute: Mastery of the Elemental Winds for embedded Shaman Sorcerer [[img:icon_hero]][[/img]]Heroes	false
 effects_description_hkrul_sayl_mastery	Attribute: Mastery of the Elemental Winds	false
-effects_description_hkrul_sharks_melee	Melee attack: %+n for Shark units	false
-effects_description_hkrul_sharks_melee_defence	Melee defence: %+n for Shark units	false
 effects_description_hkrul_sayl_nightmaw_melee	Melee attack: %+n for Nightmaw	false
 effects_description_hkrul_sayl_warp	Ability: "The Vile's Skull"	false
 unit_abilities_tooltip_text_hkrul_sayl_warp	The skull of Schalkain the Vile still oozes with the dark magic used in the daemonic ritual Sayl enacted on him, warping pure magic from his empty eye sockets.	true
@@ -171,6 +169,3 @@ incidents_localised_title_rhox_sayl_chaos_spawn_incident	Sayl's Trickery	false
 effects_description_rhox_sayl_effect_removal_dummy	[[col:yellow]]This effect will be removed if this [[img:icon_general]][[/img]]Lord defeats an army of Sayl or if his faction is destroyed[[/col]]	false
 effects_description_rhox_sayl_chaos_sapwn_dummy	Following this [[img:icon_general]][[/img]]Lord's next defeat against the Dolgan faction, they will morph into a Chaos Spawn and die permanently. 	false
 effects_description_rhox_sayl_chaos_sapwn_feature_dummy	Deceiver: Generic Lords defeated by Sayl the Faithless may be deceived. Following a second defeat against Sayl they will morph into Chaos Spawn and die permanently. 	false
-effects_description_hkrul_goftur_shark_ws	Weapon Strength: %+n% for Shark units	false
-effects_description_hkrul_eyri_ship_effect	Grants the [[col:yellow]]Gildwake Longship[[/col]] as ancillary	false
-effects_description_hkrul_raid_stance_cost	Raid stance movement cost %n%	true

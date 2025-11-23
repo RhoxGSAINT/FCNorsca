@@ -12,9 +12,3 @@ id	dilemma_key	option_key	value	target
 5346358	daemon_hunter_0	CND_ROUNDS_UNTIL_NEXT	1	default
 5861556	daemon_hunter_0	CND_CULTURE	wh_dlc08_nor_norsca	default
 1873479	daemon_hunter_0	CND_FIRST_ROUND	1	default
-610278	bjornling_dilemma_1	CND_FACTION	wh_main_nor_bjornling	default
-610279	bjornling_dilemma_1	CND_FIRST_ROUND	2	default
-610280	bjornling_dilemma_1	CND_UNIQUE		default
-610277	bjornling_dilemma_1	GEN_TARGET_NONE		default
-610281	bjornling_dilemma_1	CND_MIN_COASTAL_REGIONS_OWNED	8	default
-610276	bjornling_dilemma_1	VAR_CHANCE	100	default

@@ -192,42 +192,5 @@ cm:add_first_tick_callback(
                 true
             );
         end
-		local bjornling_faction = cm:get_faction("wh_main_nor_bjornling")
-        if bjornling_faction then
-			if bjornling_faction:is_human() then
-				core:add_listener(
-					"rhox_fc_norsca_lh_building_hafskael",
-					"BuildingCompleted",
-					function(context)
-						local building = context:building()
-						local faction = building:faction()
-						return faction:name() == "wh_main_nor_bjornling" and not cm:get_saved_value("rhox_fc_norsca_lh_building_hafskael") and building:name() == "rhox_fc_norsca_hafskael_yard"
-					end,
-					function(context)
-						cm:set_saved_value("rhox_fc_norsca_lh_building_hafskael", true)
-						local building = context:building()
-						local faction = building:faction()
-
-						cm:spawn_unique_agent(faction:command_queue_index(),"hkrul_hafskael", true)
-					end,
-					true
-				)
-			elseif not bjornling_faction:is_human() and cm:model():turn_number() < 5 then
-				core:add_listener(
-					"rhox_fc_norsca_lh_ai_hafskael",
-					"FactionTurnStart",
-					function(context)
-						local faction = context:faction()
-						local turn = cm:model():turn_number();
-						return faction:name() == "wh_main_nor_bjornling " and turn == 5
-					end,
-					function(context)
-						local faction = context:faction()
-						cm:spawn_unique_agent(faction:command_queue_index(),"hkrul_hafskael", true)
-					end,
-					false
-				)
-			end
-        end
 	end
 )

@@ -3,11 +3,8 @@ key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	s
 hkrul_geimdall_sword	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 hkrul_yngve_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_yngve_horse		1	0		false	false	false	all
 hkrul_yngve_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_yngve_chariot		1	0		false	false	false	all
-hkrul_yngve_banner	hkrul_yngve_banner	.	true	false	false	1	0	9999			false	false	false	general	16	30	30	50	true		hkrul_yngve_banner	200	1	banner	false	false	true	all
-hkrul_geimdall_ship	hkrul_geimdall_ship	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_yngve_banner	hkrul_yngve_banner	.	true	false	false	1	0	9999			false	false	false	general	16	30	30	50	true		hkrul_yngve_banner	200	1	banner	false	false	false	all
+hkrul_geimdall_ship	hkrul_geimdall_ship	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	false	all
 hkrul_yngve_manticore	wh_main_anc_mount_manticore	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_yngve_manticore		1	0		false	false	false	all
-hkrul_bubos_eye	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
-hkrul_boartusk_horn	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
-hkrul_eyri_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
-hkrul_eyri_ring	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
-hkrul_goftur_token	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
+hkrul_bubos_eye	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	all
+hkrul_boartusk_horn	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	all

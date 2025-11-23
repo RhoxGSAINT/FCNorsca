@@ -48,7 +48,7 @@ character_skills_localised_description_hkrul_surtha_ek_chariot	A war chariot out
 character_skills_localised_name_hkrul_surtha_ek_chariot	Bloodspiller	false
 effects_description_hkrul_surtha_chariots_unit_xp	Recruit rank: %+n for Chariot units	false
 effects_description_hkrul_surtha_chariots_melee_attack	Melee attack: %+n for Chariot units	false
-effects_description_hkrul_surtha_chariots_speed	Speed: %+n for Chariot units	false
+effects_description_hkrul_surtha_chariots_speed	Speed: %+n  for Chariot units	false
 effects_description_hkrul_surtha_chariots_charge	Charge bonus: %+n for Chariot units	false
 effects_description_hkrul_surtha_chariots_fear	Attribute: Causes Fear for Chariot units	false
 effects_description_hkrul_surtha_chariots_glorious	Attribute: Glorious Charge for Chariot units	false

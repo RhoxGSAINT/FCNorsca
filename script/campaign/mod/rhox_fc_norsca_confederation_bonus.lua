@@ -27,16 +27,6 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own",
 		value="3",
 	},
-	hkrul_eyri={
-		effect="wh_main_effect_economy_trade_tariff_mod",
-		scope="character_to_faction_unseen",
-		value="5",		
-	},
-	hkrul_grydal={
-		effect="wh3_main_effect_force_all_campaign_movement_range_post_raze_bonus",
-		scope="character_to_character_own",
-		value="5",			
-	},
 	hkrul_sayl={
 		effect="wh3_main_effect_winds_of_magic_pool_cap",
 		scope="character_to_force_own_unseen",
@@ -49,7 +39,7 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 	},
 	hkrul_ulfric={
 		effect="wh_main_effect_economy_gdp_mod_trade_sea",
-		scope="character_to_region_own_factionwide",
+		scope="faction_to_region_own",
 		value="5",
 	},
 	hkrul_hakka={
@@ -77,11 +67,6 @@ local rhox_fc_norsca_subtype_to_conf_effect={
 		scope="character_to_force_own",
 		value="5",
 	},
-	hkrul_goftur={
-		effect="hkrul_norsca_post_battle_sea",
-		scope="character_to_force_own",
-		value="5",
-	},	
 	scm_norsca_huern={
 		effect="wh_dlc08_effect_force_stat_weapon_strength_skin_wolves_warhounds",
 		scope="character_to_force_own",

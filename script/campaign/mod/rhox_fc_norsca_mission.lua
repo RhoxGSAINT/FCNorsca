@@ -99,49 +99,6 @@ core:add_listener(
 
 
 
-core:add_listener(
-    "rhox_fc_norsca_sarl_turn3_mission",
-    "FactionTurnStart",
-    function(context)
-        local faction = context:faction()
-        local turn = cm:model():turn_number();
-        return faction:name() == "wh_main_nor_sarl" and faction:is_human() and turn == 3 and cm:get_campaign_name() ~= "cr_oldworld"
-    end,
-    function(context)
-        local turn = cm:model():turn_number();
-        local faction = context:faction()
-        local mm = mission_manager:new(faction:name(), "rhox_fc_norsca_capture_alexandronov")
-        mm:add_new_objective("CAPTURE_REGIONS");
-        mm:add_condition("region wh3_main_combi_region_castle_alexandronov");
-        mm:add_condition("ignore_allies");
-        mm:add_payload("money 1000");
-        mm:add_payload("text_display rhox_fc_norsca_agent_troll_hag_dummy");
-        mm:trigger()
-    end,
-    true
-);
-
-core:add_listener(
-    "rhox_fc_norsca_sarl_turn3_mission_complete",
-    "MissionSucceeded",
-    function(context)    
-        local mission_key = context:mission():mission_record_key();
-        return mission_key == "rhox_fc_norsca_capture_alexandronov"
-    end,
-    function(context)
-        local faction = context:faction()
-        local x, y = cm:find_valid_spawn_location_for_character_from_character(faction:name(), cm:char_lookup_str(faction:faction_leader()), true, 10)
-        if x ~= -1 and y ~= -1 then
-            local character = cm:spawn_agent_at_position(faction, x, y, "runesmith", "wh2_dlc15_grn_river_troll_hag")
-            if character then
-                cm:add_character_model_override(character, "wh2_dlc15_art_set_grn_river_troll_hag_01");
-                cm:replenish_action_points(cm:char_lookup_str(character))
-            end
-        end
-        
-    end,
-    true
-)
 
 core:add_listener(
     "rhox_adella_final_mission_completed_ror",

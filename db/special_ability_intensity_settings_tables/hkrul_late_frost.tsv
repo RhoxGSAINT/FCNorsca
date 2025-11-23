@@ -3,4 +3,3 @@ ability	default_amount	max_amount	intensity_source	intensity_type	intensity_deca
 hkrul_mortensen_shield	1.0000	200.0000	nearby_all_deaths	linear_multiplier	-1.0000	0.0000	false
 hkrul_geimdall_helm	1.0000	2000.0000	damage_taken	linear_multiplier	-1.0000	0.0000	false
 hkrul_norsca_axe_5	1.0000	200.0000	nearby_all_deaths	linear_multiplier	-1.0000	0.0000	false
-hkrul_skraevold_fury	0.0000	200.0000	kills_made	linear_multiplier	-1.0000	0.0000	false

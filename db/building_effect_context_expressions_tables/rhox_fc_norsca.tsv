@@ -5,4 +5,3 @@ IsBaersonling	Owner.RecordKeyIsOneOf("wh_main_nor_baersonling")	true
 IsAesling	Owner.RecordKeyIsOneOf("wh_main_nor_aesling")	true
 IsVarg	Owner.RecordKeyIsOneOf("wh_main_nor_varg")	true
 IsSarl	Owner.RecordKeyIsOneOf("wh_main_nor_sarl")	true
-IsBjornling	Owner.RecordKeyIsOneOf("wh_main_nor_bjornling")	true

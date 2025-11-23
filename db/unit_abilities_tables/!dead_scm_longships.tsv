@@ -14,4 +14,3 @@ hkrul_longship_tidecall	false	wh2_dlc11_spell_deep_tidecall		wh_type_breath		wh_
 hkrul_longship_denizens	false	wh2_dlc11_spell_deep_denizens_of_the_deep		wh_type_summon_unit		wh_main_anc_group_uncommon	true	false	active		false
 hkrul_birna_net	false	hkrul_birna_trap		wh_type_hex		wh_main_anc_group_rare	true	false	bound		false
 hkrul_birna_bomb	false	hkrul_longship_arrow		wh_type_bombardment		wh_main_anc_group_rare	true	false	active		false
-hkrul_olg_summon	true	hkrul_olg_summon		wh_type_summon_unit		wh_main_anc_group_rare	true	false	passive		false

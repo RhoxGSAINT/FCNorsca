@@ -30,7 +30,7 @@ skill_node_hkrul_olg_self_4		wh_main_skill_all_all_self_deadly_onslaught		2	10		
 skill_node_hkrul_olg_unique_1		wh_dlc08_skill_nor_lords_unique_aura_of_chaos		0	2		0	0	true
 skill_node_hkrul_olg_unique_2		wh_dlc08_skill_nor_skin_wolf_werekin_unique_razor_claws		0	3		0	0	true
 skill_node_hkrul_olg_unique_3		wh_dlc08_skill_nor_skin_wolf_werekin_unique_hardened_skin		0	4		0	0	true
-skill_node_hkrul_olg_unique_5		hkrul_olg_chariot		0	0		0	0	true
+skill_node_hkrul_olg_unique_5		hkrul_olaf_chariot		0	0		0	0	true
 skill_node_hkrul_olg_unique_4		wh3_main_skill_all_mentor_hero		0	12		0	0	true
-hkrul_olg_helm		hkrul_olg_helm		6	25		0	0	true
-hkrul_olg_axe		hkrul_olg_axe		6	26		0	0	true
+hkrul_olg_helm		hkrul_olg_helm		6	20		0	0	true
+hkrul_olg_axe		hkrul_olg_axe		6	20		0	0	true

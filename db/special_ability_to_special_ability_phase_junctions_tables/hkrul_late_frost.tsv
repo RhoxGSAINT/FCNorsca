@@ -19,4 +19,3 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_boartusk_horn	false	false	true	hkrul_boartusk_horn
 1	hkrul_bubos_eye	false	false	true	hkrul_bubos_eye
 1	hkrul_bubos_eye_weak	false	false	true	hkrul_bubos_eye_weak
-1	hkrul_godi_club	true	false	false	hkrul_godi_club

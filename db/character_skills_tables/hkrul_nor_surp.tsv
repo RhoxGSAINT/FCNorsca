@@ -1,6 +1,6 @@
 key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
 #character_skills_tables;5;db/character_skills_tables/hkrul_nor_surp									
-innate_hkrul_olg	innate_trait_goftur.png			0	true	false	false	100.0000	0
+innate_hkrul_olg	innate_trait_olaf.png			0	true	false	false	100.0000	0
 hkrul_olg_special_1_0	hkrul_olg_special_1_0.png			0	false	false	false	0.0000	0
 hkrul_olg_special_1_1	hkrul_olg_special_1_1.png			0	false	false	false	0.0000	0
 hkrul_olg_special_1_2	hkrul_olg_special_1_2.png			0	false	false	false	0.0000	0
@@ -21,7 +21,7 @@ hkrul_tuula_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000
 hkrul_tuula_special_0_1	hkrul_tuula_special_0_1.png			0	false	false	false	0.0000	0
 hkrul_tuula_special_0_2	hkrul_tuula_special_0_2.png			0	false	false	false	0.0000	0
 hkrul_tuula_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-innate_hkrul_haftagg	innate_hkrul_ulfric.png			0	true	false	false	100.0000	0
+innate_hkrul_haftagg	innate_hkrul_olaf.png			0	true	false	false	100.0000	0
 hkrul_haftagg_special_1_0	hkrul_haftagg_special_1_0.png			0	false	false	false	0.0000	0
 hkrul_haftagg_special_1_1	hkrul_haftagg_special_1_1.png			0	false	false	false	0.0000	0
 hkrul_haftagg_special_1_2	hkrul_haftagg_special_1_2.png			0	false	false	false	0.0000	0
@@ -30,7 +30,7 @@ hkrul_haftagg_special_1_4	hkrul_haftagg_special_1_4.png			0	false	false	false	0.
 hkrul_haftagg_special_1_5	hkrul_haftagg_special_1_5.png			0	false	false	false	0.0000	0
 hkrul_haftagg_special_1_6	hkrul_haftagg_special_1_6.png			0	false	false	false	0.0000	0
 hkrul_haftagg_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-innate_hkrul_olaf	innate_trait_olaf.png			0	true	false	false	100.0000	0
+innate_hkrul_olaf	innate_hkrul_olaf.png			0	true	false	false	100.0000	0
 hkrul_olaf_special_1_0	hkrul_olaf_special_1_0.png			0	false	false	false	0.0000	0
 hkrul_olaf_special_1_6	hkrul_olaf_special_1_6.png			0	false	false	false	0.0000	0
 hkrul_olaf_special_1_5	hkrul_olaf_special_1_5.png			0	false	false	false	0.0000	0
@@ -56,7 +56,7 @@ hkrul_orgrim_special_1_3	hkrul_orgrim_special_1_3.png			0	false	false	false	0.00
 hkrul_orgrim_special_1_4	hkrul_orgrim_special_1_4.png			0	false	false	false	0.0000	0
 hkrul_orgrim_special_1_5	hkrul_orgrim_special_1_5.png			0	false	false	false	0.0000	0
 hkrul_orgrim_special_1_6	hkrul_orgrim_special_1_6.png			0	false	false	false	0.0000	0
-innate_hkrul_orgrim	innate_hkrul_einar.png			0	true	false	false	100.0000	0
+innate_hkrul_orgrim	innate_hkrul_einar.png			0	false	false	false	0.0000	0
 innate_hkrul_berus	innate_hkrul_einar.png			0	true	false	false	100.0000	0
 hkrul_berus_special_1_0	hkrul_berus_special_1_0.png			0	false	false	false	0.0000	0
 hkrul_berus_special_1_1	hkrul_berus_special_1_1.png			0	false	false	false	0.0000	0
@@ -66,14 +66,3 @@ hkrul_berus_special_1_4	hkrul_berus_special_1_4.png			0	false	false	false	0.0000
 hkrul_berus_special_1_5	hkrul_berus_special_1_5.png			0	false	false	false	0.0000	0
 hkrul_berus_special_1_6	hkrul_berus_special_1_6.png			0	false	false	false	0.0000	0
 hkrul_berus_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-innate_hkrul_hafskael	innate_hkrul_ulfric.png			0	true	false	false	100.0000	0
-hkrul_hafskael_special_1_0	hkrul_hafskael_special_1_0.png			0	false	false	false	0.0000	0
-hkrul_hafskael_special_1_1	hkrul_hafskael_special_1_1.png			0	false	false	false	0.0000	0
-hkrul_hafskael_special_1_2	hkrul_hafskael_special_1_2.png			0	false	false	false	0.0000	0
-hkrul_hafskael_special_1_3	hkrul_hafskael_special_1_3.png			0	false	false	false	0.0000	0
-hkrul_hafskael_special_1_4	hkrul_hafskael_special_1_4.png			0	false	false	false	0.0000	0
-hkrul_hafskael_special_1_5	hkrul_hafskael_special_1_5.png			0	false	false	false	0.0000	0
-hkrul_hafskael_special_1_6	hkrul_hafskael_special_1_6.png			0	false	false	false	0.0000	0
-hkrul_hafskael_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-hkrul_hafskael_charm	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-hkrul_hafskael_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0

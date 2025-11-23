@@ -2,13 +2,3 @@ key	localised_description	localised_title	bundle_target	priority	ui_icon	is_glob
 #effect_bundles_tables;4;db/effect_bundles_tables/hkrul_nor_surp								
 hkrul_olaf_faction_trait			faction	1	effect_bundle_olaf.png	true	false	true
 hkrul_asta_debuff			force	1	effect_bundle_olaf.png	true	false	true
-hkrul_eyri_faction_trait			faction	1	effect_bundle_eyri.png	true	false	true
-bjornling_bundle_1_1			faction	1	hkrul_effect_lars.png	true	false	true
-bjornling_bundle_1_2			faction	1	public_order.png	true	false	true
-hkrul_grydal_faction_trait			faction	1	effect_bundle_grydal.png	true	false	true
-hkrul_goftur_faction_trait			faction	1	effect_bundle_goftur.png	true	false	true
-hkrul_grydal_momentum			faction	1	hkrul_grydal_momentum.png	true	false	true
-hkrul_bjornling_momentum			faction	1	hkrul_ulfric_momentum.png	true	false	true
-bjornling_bundle_fish_1			faction	1	bjornling_bundle_fish_1.png	true	false	true
-bjornling_bundle_fish_2			faction	1	bjornling_bundle_fish_2.png	true	false	true
-bjornling_bundle_fish_3			faction	1	bjornling_bundle_fish_3.png	true	false	true

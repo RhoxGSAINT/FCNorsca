@@ -1,7 +1,0 @@
-<VARIANT_MESH>
-	<SLOT name="body" >
-		<VARIANT_MESH model="variantmeshes/wh_variantmodels/character/shark/shark.wsmodel" >
-			<META_DATA>audio_armour_type:body</META_DATA>
-		</VARIANT_MESH>
-	</SLOT>
-</VARIANT_MESH>

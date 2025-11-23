@@ -29,13 +29,13 @@ character_skills_localised_description_hkrul_geimdall_special_0_1	Geimdall's ori
 character_skills_localised_description_hkrul_geimdall_special_0_2	Geimdall is entrusted by the High King to lead the Bjornling Huscarl's in to battle, being the only one besides the High King having led the Bjornling tribe as a whole in to battle.	true
 effects_description_hkrul_geimdall_helm	Passive Ability: "Oseberg's Champion" when on foot	false
 effects_description_hkrul_geimdall_shield	Ability: "PLACEHOLDER"	false
-effects_description_hkrul_geimdall_rally	Ability: "Cry of the Reaver"	false
+effects_description_hkrul_geimdall_rally	Ability: "The Drakkenguard"	false
 effects_description_hkrul_geimdall_sword	Ability: "Havthrymr" when on foot	false
 unit_abilities_tooltip_text_hkrul_geimdall_shield_pas	Bound by honor and brotherhood, the Huscarls raise their shields as one, forming an unbreakable wall that turns aside the rain of arrows	true
 unit_abilities_onscreen_name_hkrul_geimdall_sword	Havthrymr	true
 unit_abilities_tooltip_text_hkrul_geimdall_sword	A blade tempered by northern winds and salt, Havthrymr has cloven shields and skulls alike.	true
-unit_abilities_tooltip_text_hkrul_geimdall_rally	“Hers is a voice they follow not from loyalty, but from the promise of slaughter.”	true
-unit_abilities_onscreen_name_hkrul_geimdall_rally	Cry of the Reaver	true
+unit_abilities_tooltip_text_hkrul_geimdall_rally	A vessel of legend, Drakkenguard was built from the ribs of a leviathan felled by Bjornling warriors and bound with iron said to be blessed by the gods. It does not sail—it hunts.	true
+unit_abilities_onscreen_name_hkrul_geimdall_rally	The Drakkenguard	true
 unit_abilities_onscreen_name_hkrul_geimdall_helm	Oseberg's Champion	true
 unit_abilities_tooltip_text_hkrul_geimdall_helm	Geimdall, the pride of Oseberg, stands as its greatest champion, following in the footsteps of legends like Erik the Lost and Erik Losteriksson, his name destined to be carved into the sagas of the north.	true
 unit_abilities_onscreen_name_hkrul_geimdall_shield	PLACEHOLDER	true
@@ -87,4 +87,3 @@ effect_bundles_localised_description_rhox_geimdall_bundle_ksl_followers_5	You ha
 effect_bundles_localised_title_rhox_geimdall_bundle_ksl_followers_5	Loyalist Supremacy (600)	false
 effect_bundles_localised_description_hkrul_geimdall_faction_trait	Geimdall, the right hand of High King Ulfric Grondal, is both warlord and spiritual guide to the Bjornling huscarls. His loyalty to Ulfric is unshakable, his axe ever at the king’s command. A veteran of countless raids, he dreams not of mere plunder but conquest—his eyes set upon Bretonnia, where he vows to bring low the chivalric lords and raise the Bjornling banners over their stone keeps.	false
 effect_bundles_localised_title_hkrul_geimdall_faction_trait	The King's Huscarl	false
-effects_description_hkrul_marauder_xp_gain	Unit experience gain: %+n% for Marauder units	false

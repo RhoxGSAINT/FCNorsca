@@ -1,6 +1,7 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_adella					
 			hkrul_skeggi_giant_ror	hkrul_skeggi	false
+			rhox_skeggi_champion	hkrul_skeggi	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_fimir_giant_mammoth	false
 			hkrul_skeggi_giant_ror	wh2_dlc11_nor_vets_trolls_frost_wyrm_giant_mammoth_fimir	false
 			r1kko_adella_kho_carnosaur	rhox_adella_lzd_mon_carnosaur_kho	false

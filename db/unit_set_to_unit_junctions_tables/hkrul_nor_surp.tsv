@@ -35,11 +35,3 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_kammler	all_non_chs	true
 			hkrul_eyri	nor_all	false
 			hkrul_eyri	all_non_chs	true
-			wh_pro04_nor_inf_marauder_berserkers_ror_0	hkrul_nor_berserker_ror	false
-			hkrul_hafskael	mp_cap_group_heroes	false
-			hkrul_hafskael	nor_all	false
-			hkrul_hafskael	all_non_chs	true
-			hkrul_skald_horn	hkrul_skalds	false
-			hkrul_skald_drum	hkrul_skalds	false
-			hkrul_skeggi_giant_ror	hkrul_norsca_giants	false
-			wh_dlc08_nor_mon_norscan_giant_0	hkrul_norsca_giants	false

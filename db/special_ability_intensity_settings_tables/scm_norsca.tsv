@@ -10,4 +10,4 @@ hkrul_wolf_walk	1.0000	200.0000	nearby_all_deaths	linear_multiplier	-1.0000	0.00
 hkrul_dodvakt_bite	1.0000	200.0000	enemy_in_range_low_morale	linear_multiplier	-1.0000	0.0000	false
 hkrul_skald_horn_passive	1.0000	200.0000	nearby_all_deaths	linear_multiplier	-1.0000	0.0000	false
 hkrul_skald_drum_passive	1.0000	200.0000	nearby_all_deaths	linear_multiplier	-1.0000	0.0000	false
-hkrul_wolf_hunter	1.0000	100.0000	time_in_melee	linear_multiplier	-1.0000	0.0000	false
+hkrul_skraevold_fury	0.0000	300.0000	nearby_all_deaths	linear_multiplier	-1.0000	0.0000	false

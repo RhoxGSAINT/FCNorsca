@@ -83,4 +83,3 @@ rituals_description_rhox_aesling_ritual_kho_the_skull_throne	{{tr:rituals_descri
 missions_localised_title_rhox_totn_mis_ie_nor_karanak_unlock_01	{{tr:missions_localised_title_wh3_pro12_mis_ie_kho_karanak_unlock_01}}	false
 missions_localised_description_rhox_totn_mis_ie_nor_karanak_unlock_01	{{tr:missions_localised_description_wh3_pro12_mis_ie_kho_karanak_unlock_01}}	false
 campaign_localised_strings_string_hkrul_skraevold_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Aesling or have Hakka the Aesling in your faction[[/col]]	false
-campaign_localised_strings_string_hkrul_godi_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Eyristaad or have Eyri Goldfinger in your faction[[/col]]	false

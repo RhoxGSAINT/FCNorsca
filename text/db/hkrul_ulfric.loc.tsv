@@ -95,11 +95,10 @@ effects_description_hkrul_ulfric_wall_formation	Ability: "Eldagrimm Shield Wall"
 unit_abilities_tooltip_text_hkrul_ulfric_wall_formation	On the ragged shores and frozen cliffs the warriors of the Bjornling stand immoveable and steadfast, eager to welcome any daring foe.	false
 unit_abilities_onscreen_name_hkrul_ulfric_wall_formation	Eldagrimm Shield Wall	false
 unit_description_historical_texts_text_hkrul_huscarl	Elite household troops of the Norscan Jarls and High Kings. Comprised of the finest warriors the Eldagrimm region has to offer. Well-equipped by their masters and fiercely loyal fighters.	false
-unit_description_historical_texts_text_hkrul_huscarl_ror	Among the longhalls of the Bjornlings, no name is spoken with more pride than that of Haraldur and his loyal Shieldbrothers. These warriors are not merely bodyguards, but the living memory of ancient traditions — men who uphold the sacred rites of battle with axe, shield, and savage honour. Their feasts are loud, their contests brutal, and their hatred for Greenskins legendary. Haraldur’s Shieldbrothers once carved a path through Orc lands under a sky stained red with their fury, and to this day, they remain a symbol of disciplined bloodletting and the unbreakable bond of shieldwall brotherhood.	false
 land_units_onscreen_name_rhox_bjornling_huscarl	Bjornling Huscarls	false
-land_units_onscreen_name_rhox_bjornling_huscarl_ror	Haraldur’s Huscarls (Huscarls)	false
-unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors Eldagrimm has to offer.	false
-unit_description_short_texts_text_hkrul_huscarl_ror	Veterans of feast and fury, bonded in blood and shieldwall alike. When they march, old war-songs rise with them.	false
+land_units_onscreen_name_rhox_bjornling_huscarl_ror	Bulwark of Skjold (Huscarls)	false
+unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors the Eldagrimm region has to offer.	false
+unit_description_short_texts_text_hkrul_huscarl_ror	The personal guard of the High King, they occupy Skjold's Great Hall. Each member of their ranks has surpassed insufferable challenges on the cliffs of Horvenghaast.	false
 campaign_localised_strings_string_rhox_bjornling_huscarl_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Geimdall's Huscarls or have High Jarl Geimdall in your faction[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
@@ -257,62 +256,3 @@ campaign_localised_strings_string_nor_longship_ror_lock	[[col:red]]This Regiment
 effects_description_hkrul_ulfric_port_income	Income from Ports: %+n% for each confederated Norscan tribe	false
 land_units_onscreen_name_hkrul_bloodfjord_inf_marauder_champions_1	Bloodfjord Champions (Great Weapons)	true
 land_units_onscreen_name_hkrul_bloodfjord_inf_marauder_champions_0	Bloodfjord Champions	true
-ancillaries_onscreen_name_hkrul_norsca_fish_21	Crimson Deepclaw	false
-ancillaries_onscreen_name_hkrul_norsca_fish_22	Whalejaw Oyster	false
-ancillaries_onscreen_name_hkrul_norsca_fish_23	Losteriksson’s Last Chart	false
-ancillaries_onscreen_name_hkrul_norsca_fish_24	Banner of the Bloodwake	false
-ancillaries_onscreen_name_hkrul_norsca_fish_25	Wrecker’s Fortune	false
-ancillaries_onscreen_name_hkrul_norsca_fish_26	Talisman of the Twin Sharks	false
-ancillaries_onscreen_name_hkrul_norsca_fish_27	Figurehead of Asuryan’s Fang	false
-ancillaries_onscreen_name_hkrul_norsca_fish_28	Skarlati Dreki	false
-ancillaries_onscreen_name_hkrul_norsca_fish_29	Ledger of Salt Contracts	false
-ancillaries_onscreen_name_hkrul_norsca_fish_30	Priest of Mermedus	false
-ancillaries_onscreen_name_hkrul_norsca_fish_31	Ironmouth Shell	false
-ancillaries_colour_text_hkrul_norsca_fish_21	A hulking, many-clawed lobster with eyes like molten gold and a shell harder than dwarfen steel. Cook it… if you dare.	false
-ancillaries_colour_text_hkrul_norsca_fish_22	Prised from the fossilised mouth of a whale-sized oyster dragged up from trenchwater depths, this pearl glows faintly and hums in your hand.	false
-ancillaries_colour_text_hkrul_norsca_fish_23	A sea-warped scroll sealed in waxed sharkskin, said to have belonged to Erik Losteriksson himself. It charts an impossible route — one that crosses seas not known to exist.	false
-ancillaries_colour_text_hkrul_norsca_fish_24	Stitched with squid ink and eldritch knots, this tattered banner once flew above the infamous Bloodwake, a pirate ship thought destroyed.	false
-ancillaries_colour_text_hkrul_norsca_fish_25	A barnacle-encrusted chest caught in tangled nets, still chained shut. Inside: a king’s ransom and a coin bearing the face of no known empire.	false
-ancillaries_colour_text_hkrul_norsca_fish_26	Carved from seaglass and obsidian, this amulet depicts two sharks circling endlessly. A relic of the deep cults of Mermedus, god of watery death.	false
-ancillaries_colour_text_hkrul_norsca_fish_27	A whitewood figurehead carved in the likeness of an eagle-wreathed lion, pried from a sunken Elven warship. Its runes still shimmer.	false
-ancillaries_colour_text_hkrul_norsca_fish_28	The purple-lacquered prow of a longship, part of a fleet assembled decades ago to challenge a Dark Elf Black Ark. The conflict was so terrible that every ship, even the Ark, was sunk. Save for a dozen hardy survivors clinging to it, this dragon prow was all that remained, and was preserved as a monument to Norscan fearlessness.  	false
-ancillaries_colour_text_hkrul_norsca_fish_29	This waterproofed book details black-market trade pacts, tribute routes, and forbidden ports. Marienburgers would kill to have it back.	false
-ancillaries_colour_text_hkrul_norsca_fish_30	A disturbing character, with large staring eyes uncomfortably reminiscent of a dead fish. Although he wears foulsmelling robes, where the backs of his hands and neck are exposed, one can see the short, white, sea-urchin spines that cover the dorsal half of his body.	false
-ancillaries_colour_text_hkrul_norsca_fish_31	Thick with age and rusted coral, this shell cannot be opened. Nor should it. It whispers under the moon.	false
-ancillaries_explanation_text_hkrul_norsca_fish_15	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_16	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_17	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_18	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_19	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_20	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_21	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_22	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_23	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_24	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_25	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_26	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_27	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_28	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_29	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_30	Drenched up whilst Fishing	false
-ancillaries_explanation_text_hkrul_norsca_fish_31	Drenched up whilst Fishing	false
-ancillaries_onscreen_name_hkrul_norsca_lars	Lars Oar-Mender	false
-ancillaries_colour_text_hkrul_norsca_lars	Lars is Hafskael’s most gifted apprentice. He has an instinctive understanding of wood and can shape a keel with almost supernatural ability to create the swiftest, most controllable ship. But Lars is secretly mutating — a long spiny dorsal fin is growing from his back.	false
-campaign_localised_strings_string_hkrul_shark_2_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Servants of Mermedus or have Gröftur Fiskauga in your faction[[/col]]	false
-ancillaries_onscreen_name_hkrul_norsca_fish_32	Guildergill	false
-ancillaries_colour_text_hkrul_norsca_fish_32	The Guildergill is a sleek, saltfish native to the delta waters near Marienburg. Its glimmering scales resemble hammered silver, making it as attractive to merchants as to chefs. Lightly smoked or pan-seared with spice from Lustria, it is a staple on Marienburger banquet tables and a favourite of guildmasters looking to impress.	false
-incidents_button_text_hkrul_skjold_turn_two_incident	Reclaim the Cliffs	false
-incidents_localised_description_hkrul_skjold_turn_two_incident	Skjold still looms above the breakers — jagged, wind-beaten, and cold with old blood. But its halls echo with foreign voices now. Where once the High King ruled, upstarts squat and sharpen their spears on your legacy. The hearth-fires are not dead… they are waiting. Skjold is not merely a fortress. It is your name carved into stone — and every day it stands without you is shame.	false
-incidents_localised_title_hkrul_skjold_turn_two_incident	The Throne Above the Sea	false
-missions_localised_title_hkrul_ulfric_skjold	Return to Skjold	false
-missions_localised_description_hkrul_ulfric_skjold	The cliff-crown calls. Skjold is yours by right, blood, and fire. No pretender shall sit where the High King belongs. Take it. Cleanse it. Raise your banner where the winds scream loudest. The stones remember your name, and the sea roars for your return. Let your enemies learn what it means to steal from a king.	false
-missions_localised_mission_completed_text_hkrul_ulfric_skjold		false
-effect_bundles_localised_description_hkrul_bjornling_momentum	With Skjold once more beneath the High King's banner, the longships sail faster, the harbours bustle with tribute, and salt-stained warriors speak your name with reverence. The sea — once silent — now sings of conquest.	false
-effect_bundles_localised_title_hkrul_bjornling_momentum	The High King Returns	false
-effect_bundles_localised_description_bjornling_bundle_fish_2	With salted meat in their bellies, your warriors recover faster and hunger only for war.	false
-effect_bundles_localised_title_bjornling_bundle_fish_2	Fishblood Fortitude	false
-effect_bundles_localised_description_bjornling_bundle_fish_1	The holds are lighter, the coffers heavier — fresh trade flows from every coastal town.	false
-effect_bundles_localised_title_bjornling_bundle_fish_1	Saltsilver Surge	false
-effect_bundles_localised_description_bjornling_bundle_fish_3	Fed and full of vigour, the rowing drums beat faster — no sail nor wind outpaces you now.	false
-effect_bundles_localised_title_bjornling_bundle_fish_3	Bounty at Oar	false
-effects_description_hkrul_ws_sea	Weapon strength: %+n% when fighting at sea	false
