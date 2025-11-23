@@ -24,29 +24,29 @@ character_skills_localised_name_rhox_skald_skill_node_unique_01	{{tr:agent_actio
 character_skills_localised_description_rhox_skald_skill_node_unique_01	Those in the army can find succour or be replenished by the power of this champion.	false
 effects_description_rhox_skald_effect_agent_action_enable_spy_assist_army_replenish_troops	Unlocks [[img:icon_hero]][[/img]]Hero action: [[col:yellow]]{{tr:agent_action_name_replenish_troops}}[[/col]]	false
 unit_abilities_tooltip_text_rhox_skald_battle_chant	The Skald's rhythmic beats inspire courage and unity in the heart of battle.	false
-unit_abilities_onscreen_name_rhox_skald_battle_chant	Battle Chant	false
+unit_abilities_onscreen_name_rhox_skald_battle_chant	Skaldfire Cry	false
 unit_abilities_tooltip_text_rhox_skald_guardian_cadence	With each beat, the Skald's drum fortifies the defenses of his allies, shielding them from harm.	false
-unit_abilities_onscreen_name_rhox_skald_guardian_cadence	Guardian Cadence	false
+unit_abilities_onscreen_name_rhox_skald_guardian_cadence	Oathskin Pulse	false
 unit_abilities_tooltip_text_rhox_skald_fury_call	The Skald's horn unleashes a primal call to arms, fueling the fury of those who hear it.	false
-unit_abilities_onscreen_name_rhox_skald_fury_call	Fury Call	false
+unit_abilities_onscreen_name_rhox_skald_fury_call	Wargale Roar	false
 unit_abilities_additional_ui_effects_localised_text_rhox_skald_exclusive	Mutually exclusive with other Skald inspiring abilities	false
-effects_description_rhox_skald_effect_agent_cap_increase_spy_skald	Hero capacity: %+n for Skald	false
+effects_description_rhox_skald_effect_agent_cap_increase_spy_skald	Hero capacity: %+n for Skalds	false
 effects_description_rhox_skald_effect_agent_enable_recruitment_spy	Enables [[img:icon_hero]][[/img]]Hero recruitment: Skald	false
 character_skills_localised_name_rhox_skald_skill_node_unique_02	Echoes of Glory	false
 character_skills_localised_description_rhox_skald_skill_node_unique_02	Through ancient chants, the Skald extends the reach of his inspiring melodies, ensuring no warrior is beyond the call to battle.	false
 effects_description_rhox_skald_effect_increase_range	Effect range: %+n% for Skald inspiring abilities	false
 unit_abilities_tooltip_text_rhox_skald_guardian_cadence_upgraded	With a mighty beat, the Skald's drumming creates an impenetrable barrier around his allies, turning them into an unbreakable bulwark against the enemy's advance.	false
-unit_abilities_onscreen_name_rhox_skald_guardian_cadence_upgraded	Sentinel's Rhythm	false
+unit_abilities_onscreen_name_rhox_skald_guardian_cadence_upgraded	Drums of Stoneblood	false
 unit_abilities_tooltip_text_rhox_skald_fury_call_upgraded	The Skald's horn summons forth a raging tempest of fury, driving allies into a berserk frenzy, and striking fear into the hearts of their enemies.	false
-unit_abilities_onscreen_name_rhox_skald_fury_call_upgraded	Raging Tempest	false
-character_skills_localised_name_rhox_skald_skill_node_unique_03_horn	Raging Tempest	false
+unit_abilities_onscreen_name_rhox_skald_fury_call_upgraded	Horn of the Hunt-Caller	false
+character_skills_localised_name_rhox_skald_skill_node_unique_03_horn	Horn of the Hunt-Caller	false
 character_skills_localised_description_rhox_skald_skill_node_unique_03_horn	The Skald's horn summons forth a raging tempest of fury, driving allies into a berserk frenzy, and striking fear into the hearts of their enemies.	false
-character_skills_localised_name_rhox_skald_skill_node_unique_03_drum	Sentinel's Rhythm	false
+character_skills_localised_name_rhox_skald_skill_node_unique_03_drum	Drums of Stoneblood	false
 character_skills_localised_description_rhox_skald_skill_node_unique_03_drum	With a mighty beat, the Skald's drumming creates an impenetrable barrier around his allies, turning them into an unbreakable bulwark against the enemy's advance.	false
-effects_description_rhox_skald_effect_disable_rhox_skald_guardian_cadence	Replaces ability: "Guardian Cadence"	false
-effects_description_rhox_skald_effect_disable_rhox_skald_fury_call	Replaces ability: "Fury Call"	false
-effects_description_rhox_skald_effect_enable_rhox_skald_guardian_cadence_upgraded	Ability: "Sentinel's Rhythm"	false
-effects_description_rhox_skald_effect_enable_rhox_skald_fury_call_upgraded	Ability: "Raging Tempest"	false
+effects_description_rhox_skald_effect_disable_rhox_skald_guardian_cadence	Replaces ability: "Oathskin Pulse"	false
+effects_description_rhox_skald_effect_disable_rhox_skald_fury_call	Replaces ability: "Wargale Roar"	false
+effects_description_rhox_skald_effect_enable_rhox_skald_guardian_cadence_upgraded	Ability: "Drums of Stoneblood"	false
+effects_description_rhox_skald_effect_enable_rhox_skald_fury_call_upgraded	Ability: "Horn of the Hunt-Caller"	false
 effects_description_hkrul_skald_horn_passive	Passive Ability: Northern Warcry	false
 effects_description_hkrul_skald_drum_passive	Passive Ability: Northern March	false
 unit_abilities_tooltip_text_hkrul_skald_horn_passive	Blasts of the horn stir the fury within Norscan warriors, driving them to greater feats of strength and savagery.	false
@@ -66,3 +66,8 @@ unit_abilities_tooltip_text_hkrul_skald_saga	Skalds serve in the High King's Gre
 effects_description_hkrul_skald_saga	Ability: "Skald's Brew"	false
 character_skills_localised_name_hkrul_skill_node_unique_saga	Skald's Brew	false
 character_skills_localised_description_hkrul_skill_node_unique_saga	Skalds serve in the High King's Great Hall as chronicler, entertainer, warrior. Yet their ability to invigorate troops with knowledge over the finest brews is lesser known.	false
+character_skills_localised_name_rhox_skald_skill_node_unique_06	Chant of Shieldsplitters	false
+character_skills_localised_description_rhox_skald_skill_node_unique_06	They cry out the names of wolf-born heroes — Bjarki, Svanhild, Hrothgar — and the blood remembers.	false
+unit_abilities_onscreen_name_hkrul_skald_rally	Chant of Shieldsplitters	false
+unit_abilities_tooltip_text_hkrul_skald_rally	They cry out the names of wolf-born heroes — Bjarki, Svanhild, Hrothgar — and the blood remembers.	false
+effects_description_hkrul_skald_rally	Ability: "Chant of Shieldsplitters"	false

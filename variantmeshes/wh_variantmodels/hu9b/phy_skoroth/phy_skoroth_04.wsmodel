@@ -1,0 +1,69 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu9b\phy_skoroth\phy_skoroth_04.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu13\cst\cst_bloated_corpse\materials\cst_bloated_corpse_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1\dae\dae_cultist_of_nurgle\materials\dae_cultist_of_nurgle_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_exalted_great_unclean_pale_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu9b\dae\dae_exalted_great_unclean_one\materials\dae_exalted_great_unclean_one_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\bc4\dae\dae_rot_beast\materials\dae_rot_beast_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_skulltaker_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\hef_alith_anar_body_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\merged_emp_wizard_light_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_body_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_head_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_internal2_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\dr1\vmp\vmp_zombie_dragon\materials\vmp_zombie_dragon_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu13\cst\cst_bloated_corpse\materials\cst_bloated_corpse_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1\dae\dae_cultist_of_nurgle\materials\dae_cultist_of_nurgle_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_exalted_great_unclean_pale_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu9b\dae\dae_exalted_great_unclean_one\materials\dae_exalted_great_unclean_one_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\bc4\dae\dae_rot_beast\materials\dae_rot_beast_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_skulltaker_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\hef_alith_anar_body_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\merged_emp_wizard_light_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_body_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="12">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_head_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="13">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_internal2_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="14">variantmeshes\wh_variantmodels\dr1\vmp\vmp_zombie_dragon\materials\vmp_zombie_dragon_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu13\cst\cst_bloated_corpse\materials\cst_bloated_corpse_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1\dae\dae_cultist_of_nurgle\materials\dae_cultist_of_nurgle_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_exalted_great_unclean_pale_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu9b\dae\dae_exalted_great_unclean_one\materials\dae_exalted_great_unclean_one_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\bc4\dae\dae_rot_beast\materials\dae_rot_beast_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_skulltaker_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\hef_alith_anar_body_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\merged_emp_wizard_light_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_body_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="12">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_head_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="13">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_internal2_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="14">variantmeshes\wh_variantmodels\dr1\vmp\vmp_zombie_dragon\materials\vmp_zombie_dragon_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu13\cst\cst_bloated_corpse\materials\cst_bloated_corpse_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1\dae\dae_cultist_of_nurgle\materials\dae_cultist_of_nurgle_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_exalted_great_unclean_pale_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu9b\dae\dae_exalted_great_unclean_one\materials\dae_exalted_great_unclean_one_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_accessories_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu13e\dae\dae_festus\materials\dae_festus_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\bc4\dae\dae_rot_beast\materials\dae_rot_beast_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\dae_skulltaker_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\hef_alith_anar_body_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\merged_emp_wizard_light_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_body_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="12">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_head_skoroth_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="13">variantmeshes\wh_variantmodels\hu9b\phy_skoroth\materials\ogr_greasus_internal2_skoroth_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="14">variantmeshes\wh_variantmodels\dr1\vmp\vmp_zombie_dragon\materials\vmp_zombie_dragon_weighted4_alpha_on.xml.material</material>
+
+	</materials>
+</model>

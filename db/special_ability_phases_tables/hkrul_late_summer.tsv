@@ -24,3 +24,10 @@ hkrul_circle_blooded	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0
 hkrul_mermedus_mark	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_wolf_hunter	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_yngve_eye	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_haraldur_tankard	-1.0000	positive		false	false	0.0000	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0				false	true	true	0.0000			false	0.0010	0.0000	false	0.0000
+hkrul_haraldur_rally	35.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_haraldur_rally_enemy	35.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0				false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_haraldur_shield	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_ward_save_all		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_skald_rally	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence	wh_ability_positive	false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_tuula_mark	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_snaegr_mark	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

@@ -1,0 +1,25 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\phy_ernst_von_kammler_mace_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_disc_of_tzeentch_02_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_prince_sword_2h_03_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu14\dae\dae_props\materials\dae_disc_of_tzeentch_01_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\merged_dae_vilitch_01_mace_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_disc_of_tzeentch_02_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_prince_sword_2h_03_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu14\dae\dae_props\materials\dae_disc_of_tzeentch_01_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\merged_dae_vilitch_01_mace_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_disc_of_tzeentch_02_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_prince_sword_2h_03_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu14\dae\dae_props\materials\dae_disc_of_tzeentch_01_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\merged_dae_vilitch_01_mace_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_disc_of_tzeentch_02_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\dae_prince_sword_2h_03_mace_rigid_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu14\dae\dae_props\materials\dae_disc_of_tzeentch_01_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu13\phy_ernst_von_kammler\props\materials\merged_dae_vilitch_01_mace_rigid_alpha_off.xml.material</material>
+
+	</materials>
+</model>

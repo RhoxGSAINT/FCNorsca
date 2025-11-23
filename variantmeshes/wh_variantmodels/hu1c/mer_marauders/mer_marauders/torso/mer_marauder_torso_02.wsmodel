@@ -1,0 +1,44 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\torso\mer_marauder_torso_02.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_plates_02_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu1c\mer_champions\torso\materials\dae_marauder_slaanesh_helmet_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_skullreaper_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_wrathmonger\materials\dae_wrathmonger_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\helmet\materials\shark_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\shark_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_plates_02_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu1c\mer_champions\torso\materials\dae_marauder_slaanesh_helmet_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_skullreaper_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_wrathmonger\materials\dae_wrathmonger_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\helmet\materials\shark_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\shark_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_plates_02_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu1c\mer_champions\torso\materials\dae_marauder_slaanesh_helmet_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_skullreaper_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_wrathmonger\materials\dae_wrathmonger_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\helmet\materials\shark_submesh_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\shark_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_1_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_1_weighted4_alpha_on.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_bloodspeaker_plates_02_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu1c\mer_champions\torso\materials\dae_marauder_slaanesh_helmet_01__weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_skullreaper_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_wrathmonger\materials\dae_wrathmonger_body_01_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\helmet\materials\shark_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\shark_submesh_0_weighted2_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu1c\mer_marauders\mer_marauders\legs\materials\dae_cultist_of_khorne_body_01_weighted2_alpha_off.xml.material</material>
+
+	</materials>
+</model>

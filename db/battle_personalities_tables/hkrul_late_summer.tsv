@@ -1,3 +1,4 @@
 key	man_animations_table	variant	battle_entity	battle_entity_stats	autonomous_rider_hero	autonomous_rider_can_shoot_in_melee	can_only_be_used_by_draught
 #battle_personalities_tables;12;db/battle_personalities_tables/hkrul_late_summer							
 hkrul_grydal	ba1_drop_bat	hkrul_grydal	hkrul_grydal		false	true	false
+hkrul_haraldur_chariot	hu1c_wh3_norsca_wm_javelin_lord	hkrul_haraldur_chariot	wh_main_infantry_rider_character_blood	hkrul_haraldur_rider_entity_stats	true	true	false

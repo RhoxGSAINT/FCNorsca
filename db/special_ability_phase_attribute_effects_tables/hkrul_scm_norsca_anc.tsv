@@ -9,3 +9,7 @@ unbreakable	hkrul_norsca_helmet_3	positive
 unbreakable	hkrul_eyri_axe	positive
 executor	hkrul_grydal_breath	positive
 silenced	hkrul_grydal_hand	negative
+causes_fear	hkrul_haraldur_rally_enemy	negative
+causes_fear	hkrul_haraldur_rally	positive
+immune_to_psychology	hkrul_haraldur_rally_enemy	negative
+unyielding_assault	hkrul_tuula_mark	positive

@@ -6,3 +6,6 @@ hkrul_boartusk_horn		wh_main_generic_banner_debuff	hkrul_boartusk_horn_entity_de
 hkrul_bubos_eye		wh_main_generic_banner_buff	hkrul_bubos_eye_entity_debuff	top	true
 hkrul_mermedus_damage		wh_main_generic_banner_buff	hkrul_mermedus_damage	top	true
 hkrul_mermedus_helm_entity			hkrul_mermedus_helm_entity	top	true
+hkrul_skald_brew		wh_main_generic_banner_buff	hkrul_skald_brew	top	true
+hkrul_hildr_brew		wh_main_generic_banner_buff	hkrul_hildr_brew	top	true
+hkrul_festerheart_entity			hkrul_festerheart_entity	top	true

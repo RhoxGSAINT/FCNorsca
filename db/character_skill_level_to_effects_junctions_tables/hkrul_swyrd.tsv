@@ -1,3 +1,4 @@
 character_skill_key	effect_key	level	effect_scope	value
 #character_skill_level_to_effects_junctions_tables;1;db/character_skill_level_to_effects_junctions_tables/hkrul_swyrd				
 innate_hkrul_swyrd	rhox_swyrd_leave_on_death_dummy	1	character_to_character_own	15.0000
+innate_hkrul_swyrd	wh_main_effect_agent_movement_range_mod	1	character_to_character_own	50.0000

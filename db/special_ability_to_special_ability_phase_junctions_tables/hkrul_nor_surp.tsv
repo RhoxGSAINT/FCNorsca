@@ -27,3 +27,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_goftur_sword	true	false	false	hkrul_goftur_sword
 1	hkrul_goftur_children	true	false	false	hkrul_goftur_children
 0	hkrul_goftur_avatar	true	false	false	hkrul_goftur_avatar
+1	hkrul_festerheart	true	false	false	hkrul_festerheart

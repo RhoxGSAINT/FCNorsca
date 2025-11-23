@@ -516,6 +516,7 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_unit_to_faction_mercenary_pool(faction,"wh_pro04_nor_mon_fimir_ror_0","renown",0,0,0,0,"","","",true,"wh_pro04_nor_mon_fimir_ror_0")
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_haraldur", faction:faction_leader():command_queue_index(), true)		    
             cm:make_diplomacy_available(faction_key, "wh_main_nor_bjornling")
             cm:force_make_trade_agreement(faction_key, "wh_main_nor_bjornling")
             if faction:is_human() then
@@ -553,7 +554,11 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
-            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_tuula", faction:faction_leader():command_queue_index(), true)		    
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_tuula", faction:faction_leader():command_queue_index(), true)		
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_inf_chosen_mkho","renown",0,100,20,0,"","","",true,"wh3_dlc20_chs_inf_chosen_mkho")
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_mon_warshrine_mkho","renown",0,100,20,0,"","","",true,"wh3_dlc20_chs_mon_warshrine_mkho")
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_inf_chaos_warriors_1","renown",0,100,20,0,"","","",true,"wh3_main_kho_inf_chaos_warriors_1")             
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_mon_spawn_of_khorne_0","renown",0,100,20,0,"","","",true,"wh3_main_kho_mon_spawn_of_khorne_0")            
             cm:make_diplomacy_available(faction_key, "wh_main_nor_aesling")
         end,
         first_tick = function(faction, faction_key) 

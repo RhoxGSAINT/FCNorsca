@@ -10,6 +10,7 @@ hkrul_geimdall_shield	item_ability.png	300	item_ability.png	battle	true
 hkrul_geimdall_shield_pas	item_ability.png	300	item_ability.png	battle	true
 hkrul_geimdall_command	item_ability.png	300	item_ability.png	battle	true
 hkrul_geimdall_horn	item_ability.png	300	item_ability.png	battle	true
+hkrul_tuula_mark	item_ability.png	300	item_ability.png	battle	true
 hkrul_usta_gaze	item_ability.png	300	item_ability.png	battle	true
 hkrul_geimdall_skald_recruit	exalted_hero.png	104	exalted_hero.png	campaign	true
 hkrul_mortensen_rally	item_ability.png	300	item_ability.png	battle	true
@@ -31,3 +32,8 @@ hkrul_deadly_onslaught_foot_geimdall	item_ability.png	300	item_ability.png	battl
 hkrul_boartusk_horn	item_ability.png	300	item_ability.png	battle	true
 hkrul_bubos_eye_weak	item_ability.png	300	item_ability.png	battle	true
 hkrul_marauder_xp_gain	experience.png	298	experience.png	campaign	true
+hkrul_norscan_ogres_xp_gain	experience.png	298	experience.png	campaign	true
+hkrul_norscan_ogres_melee_defence	defence.png	300	defence.png	battle	true
+hkrul_norscan_ogres_speed	battle_movement.png	301	battle_movement.png	battle	true
+hkrul_norscan_ogres_armour	armour.png	154	armour.png	battle	true
+hkrul_norscan_ogres_melee_attack	melee.png	155	melee.png	battle	true

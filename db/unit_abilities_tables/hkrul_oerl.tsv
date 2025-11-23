@@ -2,7 +2,7 @@ key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is
 #unit_abilities_tables;17;db/unit_abilities_tables/hkrul_oerl											
 hkrul_oerl_axes	true	hkrul_oerl_axes		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_oerl_frenzy	true	hkrul_oerl_frenzy		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
-hkrul_oerl_horn	true	hkrul_horn2		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
+hkrul_oerl_horn	true	hkrul_horn_ursfjordings		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	active		false
 hkrul_oerl_axe	true	hkrul_oerl_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_beorg_mark	true	hkrul_beorg_claw3		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_tyeddi	false	hkrul_beorg_tyeddi		wh_type_augment		wh_main_anc_group_rare	true	false	active		false

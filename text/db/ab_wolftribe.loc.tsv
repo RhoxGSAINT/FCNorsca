@@ -278,7 +278,8 @@ effects_description_vanguard_ice_wolves	Vanguard deployment for Norscan Ice Wolv
 effects_description_recr_cost_red_skin_wolves	Recruitment cost reduction: %+n% for Skinwolves	true
 effects_description_wh_main_lord_enable_abilities_blessing_of_the_hound	Ability: "The Beast Within"	true
 effects_description_enable_ice_wolves_summon	Ability: "Call of the Pack"	true
-unit_abilities_additional_ui_effects_localised_text_ice_wolves_summon	 Summons a pack of Giant Wolves	true
+unit_abilities_additional_ui_effects_localised_text_hkrul_sibat	Calls upon the released Daemon	true
+unit_abilities_additional_ui_effects_localised_text_ice_wolves_summon	Summons a pack of Giant Wolves	true
 unit_abilities_additional_ui_effects_localised_text_ice_wolves_summon_no_degrade	Giant Wolves will not degrade	true
 unit_abilities_additional_ui_effects_localised_text_wh_main_transform_to_blessing_of_the_wolf_form	Transform to Skin Wolf form	true
 effects_description_skin_wolf_enable_terror	Attribute: Causes Terror for Skin Wolf units and Skin Wolf transformation	true

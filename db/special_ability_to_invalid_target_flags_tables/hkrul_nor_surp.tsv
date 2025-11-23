@@ -2,7 +2,6 @@ invalid_target	special_ability
 #special_ability_to_invalid_target_flags_tables;0;db/special_ability_to_invalid_target_flags_tables/hkrul_nor_surp	
 unit_tier1_kills	hkrul_tuula_rally
 unit_is_large	hkrul_olaf_rally
-has_khorne_mark	hkrul_olaf_retinue
 flying_currently	hkrul_olaf_axe
 on_a_platform	hkrul_olaf_axe
 flying_currently	hkrul_olg_spit

@@ -86,3 +86,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_bjornling_huscarl_ror	hkrul_norsca_shielded	false
 			deco_nor_huskarls	hkrul_norsca_shielded	false
 			deco_nor_maidens	hkrul_norsca_shielded	false
+			rhox_bjornling_maneater	hkrul_norscan_ogres	false
+			rhox_bjornling_maneater_ironfist	hkrul_norscan_ogres	false
+			rhox_bjornling_maneater_great_weapon	hkrul_norscan_ogres	false

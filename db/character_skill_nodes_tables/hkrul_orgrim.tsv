@@ -26,7 +26,7 @@ skill_node_hkrul_orgrim_self_3_1		wh_main_skill_all_all_self_wound-maker		2	6		0
 skill_node_hkrul_orgrim_self_3_2		wh_dlc03_skill_bst_lord_unnatural_thirst		2	7		0	0	true
 skill_node_hkrul_orgrim_self_3_3		wh_main_skill_all_all_self_indomitable		2	8		0	0	true
 skill_node_hkrul_orgrim_self_3_4		wh_dlc08_skill_nor_lords_self_quicksilver		2	9		0	0	true
-skill_node_hkrul_orgrim_self_4		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
+skill_node_hkrul_orgrim_self_4		wh3_dlc24_skill_all_all_self_colossal_strike		2	10		0	4	true
 skill_node_hkrul_orgrim_unique_1		wh_dlc08_skill_nor_lords_unique_aura_of_chaos		0	0		0	0	true
 skill_node_hkrul_orgrim_unique_2		wh_dlc08_skill_nor_skin_wolf_werekin_unique_razor_claws		0	1		0	0	true
 skill_node_hkrul_orgrim_unique_3		wh_dlc08_skill_nor_skin_wolf_werekin_unique_hardened_skin		0	2		0	0	true

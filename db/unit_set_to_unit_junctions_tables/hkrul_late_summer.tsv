@@ -36,3 +36,11 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh3_main_kho_inf_chaos_warriors_1	hkrul_kho_warriors_snaegr	false
 			wh3_main_kho_inf_chaos_warriors_2	hkrul_kho_warriors_snaegr	false
 			wh_dlc08_nor_inf_marauder_spearman_0	hkrul_marauder_spearmen	false
+			nor_shield_spear	hkrul_marauder_spearmen	false
+			hkrul_haraldur_chariot	mp_cap_group_heroes	false
+			hkrul_haraldur_chariot	nor_all	false
+			hkrul_haraldur	mp_cap_group_heroes	false
+			hkrul_haraldur	nor_all	false
+			rhox_bjornling_huscarl_ror	rhox_bjornling_huscarl_ror	false
+			hkrul_sibat	nor_all	false
+			hkrul_sibat	all_non_chs	true

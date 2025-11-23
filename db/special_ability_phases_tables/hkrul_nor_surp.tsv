@@ -26,3 +26,4 @@ hkrul_oda_shield2	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	
 hkrul_goftur_sword	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	false	false	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_goftur_children	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_goftur_avatar	1.1000	positive		false	false	0.0000	0.0000	0.0000	1.1000	0	0	false	0.0000	0.0000	false	0		hkrul_mermedus_helm_entity		false	true	true	0.0000			false	0.2500	0.0000	false	0.0000
+hkrul_festerheart	1.1000	positive		false	false	0.0000	0.0000	0.0000	1.1000	0	0	false	0.0000	0.0000	false	0		hkrul_festerheart_entity		false	true	true	0.0000			false	0.2500	0.0000	false	0.0000

@@ -24,3 +24,10 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_moon_time	true	false	false	hkrul_moon_time
 1	hkrul_wolf_hunter	true	false	false	hkrul_wolf_hunter
 1	hkrul_yngve_eye	true	false	false	hkrul_yngve_eye
+1	hkrul_haraldur_tankard	true	false	false	hkrul_haraldur_tankard
+1	hkrul_haraldur_rally	true	true	false	hkrul_haraldur_rally
+0	hkrul_haraldur_rally	false	false	true	hkrul_haraldur_rally_enemy
+1	hkrul_haraldur_shield	false	true	false	hkrul_haraldur_shield
+1	hkrul_skald_rally	true	true	false	hkrul_skald_rally
+1	hkrul_tuula_mark	true	false	false	hkrul_tuula_mark
+1	hkrul_snaegr_mark	true	false	false	hkrul_snaegr_mark

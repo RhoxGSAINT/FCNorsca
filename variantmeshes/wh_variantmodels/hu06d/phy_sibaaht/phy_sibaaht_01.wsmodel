@@ -1,0 +1,69 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\phy_sibaaht_01.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_body_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu6f\dae\dae_bloodletter\materials\dae_bloodletter_herald_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_herald_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodthirster_exalted_acces_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu12\dae\dae_skarr\materials\dae_skarr_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_black_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_01_feet_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_horns_teeth_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_valkia_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_warshrine_base_khorne_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\ksl_elemental_beast_claws_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\hu6d\ksl\ksl_elemental_beast\materials\ksl_elemental_beast_weighted4_alphaoff_dissolve.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_body_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu6f\dae\dae_bloodletter\materials\dae_bloodletter_herald_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_herald_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodthirster_exalted_acces_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu12\dae\dae_skarr\materials\dae_skarr_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_black_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_01_feet_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_horns_teeth_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_valkia_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="12">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_warshrine_base_khorne_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="13">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\ksl_elemental_beast_claws_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="14">variantmeshes\wh_variantmodels\hu6d\ksl\ksl_elemental_beast\materials\ksl_elemental_beast_weighted4_alphaoff_dissolve.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_body_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu6f\dae\dae_bloodletter\materials\dae_bloodletter_herald_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_herald_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodthirster_exalted_acces_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu12\dae\dae_skarr\materials\dae_skarr_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_black_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_01_feet_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_horns_teeth_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_valkia_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="12">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_warshrine_base_khorne_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="13">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\ksl_elemental_beast_claws_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="14">variantmeshes\wh_variantmodels\hu6d\ksl\ksl_elemental_beast\materials\ksl_elemental_beast_weighted4_alphaoff_dissolve.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_body_01__weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu6f\dae\dae_bloodletter\materials\dae_bloodletter_herald_accessories_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodletter_herald_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_bloodthirster_exalted_acces_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu10\dae\dae_skarbrand\materials\dae_skarbrand_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu12\dae\dae_skarr\materials\dae_skarr_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_skulltaker_01_black_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_01_feet_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_slaughterbrute_horns_teeth_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_valkia_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="12">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\dae_warshrine_base_khorne_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="13">variantmeshes\wh_variantmodels\hu06d\phy_sibaaht\materials\ksl_elemental_beast_claws_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="14">variantmeshes\wh_variantmodels\hu6d\ksl\ksl_elemental_beast\materials\ksl_elemental_beast_weighted4_alphaoff_dissolve.xml.material</material>
+
+	</materials>
+</model>

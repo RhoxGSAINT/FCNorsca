@@ -3,7 +3,7 @@ army_name	ai_army_tactic	approach_angle	army_emblem	army_model	deployment_zone_i
 hkrul_baerson_einar_bubos_enemy_beastmen_main		0	test_emblem_army_01	266555944	0	wh3_main_nur_nurgle_qb1	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
 hkrul_baerson_einar_bubos_enemy_beastmen_reserve		0	test_emblem_army_01	527584524	1	wh3_main_nur_nurgle_qb2	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000	ui\flags\wh3_main_nur_septic_claw	false
 hkrul_baerson_einar_bubos_player		0	test_emblem_army_01	203871725	0	wh_main_nor_baersonling	false	false	true	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
-hkrul_baerson_einar_aesling_ally		0	test_emblem_army_01	5448	1	wh_main_nor_norsca_qb1	true	false	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000		false
-hkrul_baerson_einar_aesling_enemy		0	test_emblem_army_01	3447	0	wh_main_nor_aesling	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
-hkrul_baerson_einar_aesling_reinforcement		270	test_emblem_army_01	3447	1	wh_main_nor_aesling	false	true	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000		false
+ga_player_ally		0	test_emblem_army_01	5448	1	wh_main_nor_norsca_qb1	true	false	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000		false
+ga_ai_01		0	test_emblem_army_01	203871730	0	wh_main_nor_norsca_qb1	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000	ui\flags\wh_main_nor_aesling	false
+hkrul_baerson_einar_aesling_reinforcement		270	test_emblem_army_01	3509	0	wh_main_nor_norsca_qb2	false	true	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000	ui\flags\wh_main_nor_aesling	false
 hkrul_baerson_einar_aesling_player		0	test_emblem_army_01	203871725	0	wh_main_nor_baersonling	false	false	true	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false

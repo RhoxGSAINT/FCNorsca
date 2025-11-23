@@ -42,9 +42,3 @@ wh_mod_lord_trait_nor_naglfarings			faction	1	effect_bundle_huern.png	true	false
 wolftribe_payload_scm_norsca_asta_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
 wolftribe_payload_alfkael_join			faction	1	hunter_effect_icons_imperial_supplies.png	true	false	true
 rhox_geimdall_bundle_ksl_followers_5	You have loyalists in all places of influence and power – the devotion of Kislev's people is yours.	Loyalist Supremacy (600)	faction	1	kislev_acolyte.png	true	false	true
-hkrul_beorg_banner			character	1	public_order.png	true	false	true
-rhox_beorg_faction_trait			faction	1	effect_bundle_beorg.png	true	false	true
-hkrul_yngve_banner			character	1	public_order.png	true	false	true
-hkrul_eyri_banner			character	1	public_order.png	true	false	true
-hkrul_grydal_banner			character	1	public_order.png	true	false	true
-rhox_baersonling_teleport			faction	1	corruption_tzeentch.png	true	false	true

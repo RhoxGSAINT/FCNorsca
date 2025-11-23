@@ -48,3 +48,16 @@ hkrul_grydal_banner	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_grydal_special_0_1	hkrul_grydal_special_0_1.png			0	false	false	false	0.0000	0
 hkrul_grydal_special_0_2	hkrul_grydal_special_0_2.png			0	false	false	false	0.0000	0
 hkrul_grydal_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+innate_hkrul_haraldur	innate_hkrul_ulfric.png			0	true	false	false	100.0000	0
+hkrul_haraldur_special_1_0	hkrul_haraldur_special_1_0.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_1_1	hkrul_haraldur_special_1_1.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_1_2	hkrul_haraldur_special_1_2.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_1_3	hkrul_haraldur_special_1_3.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_1_4	hkrul_haraldur_special_1_4.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_1_5	hkrul_haraldur_special_1_5.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_1_6	hkrul_haraldur_special_1_5.png			0	false	false	false	0.0000	0
+hkrul_haraldur_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_haraldur_special_0_1	hkrul_haraldur_special_0_1.png			0	false	false	false	0.0000	0
+hkrul_haraldur_sword	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_haraldur_shield	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_haraldur_tankard	mount_barded_warhorse.png			0	false	false	false	0.0000	0

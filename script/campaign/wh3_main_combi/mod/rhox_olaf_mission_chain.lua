@@ -21,8 +21,9 @@ local mission_to_next={
         mm:add_condition("region wh3_main_combi_region_norden");
         mm:add_condition("region wh3_main_combi_region_aarnau");
         mm:add_condition("total 4");
-        mm:add_payload("money 1000");
-        mm:add_payload("text_display rhox_baersonling_your_journey_continues");
+        mm:add_payload("money 3000");    
+        mm:add_payload("grant_agent{location ;military_force_cqi ;agent_key runesmith;agent_subtype_key wh3_main_kho_cultist;ap_factor 100;}")
+        mm:add_payload("text_display rhox_bloodfjord_your_journey_continues");
         mm:trigger()
     end,
     hkrul_olaf_spear_2=function() 
@@ -32,9 +33,11 @@ local mission_to_next={
         local mm = mission_manager:new(faction:name(), "hkrul_olaf_spear_3")
         mm:add_new_objective("RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING");
         mm:add_condition("region wh3_main_combi_region_middenheim");
-        mm:add_condition("total 1");
-        mm:add_payload("money 1000");
-        mm:add_payload("text_display rhox_baersonling_your_journey_continues");
+        mm:add_condition("region wh3_main_combi_region_hergig");        
+        mm:add_condition("total 2");
+        mm:add_payload("money 4000");
+        mm:add_payload("add_mercenary_to_faction_pool{unit_key wh3_main_kho_inf_chaos_warriors_1;amount 2;}")
+        mm:add_payload("text_display rhox_bloodfjord_your_journey_continues");
         mm:trigger()
     end,
     hkrul_olaf_spear_3=function() 
@@ -47,10 +50,14 @@ local mission_to_next={
         local faction = cm:get_faction(olaf_faction_key)
         local dilemma_builder = cm:create_dilemma_builder("hkrul_olaf_turn_seven_incident");
 		local payload_builder = cm:create_payload();
-        --payload_builder:text_display("rhox_baersonling_hkrul_usta_joins")
+        payload_builder:faction_ancillary_gain("hkrul_crimson_rain_1")
+        payload_builder:spawn_agent("champion", "wh3_dlc20_chs_exalted_hero_mkho", "", false, 1.0)
+        payload_builder:faction_pooled_resource_transaction("nor_progress_hound", "events", 50, false);
         dilemma_builder:add_choice_payload("FIRST", payload_builder);
         payload_builder:clear();
-        --payload_builder:text_display("rhox_baersonling_hkrul_orgrim_joins")
+        payload_builder:faction_ancillary_gain("hkrul_crimson_rain_2")
+        payload_builder:spawn_agent("champion", "wh3_dlc20_chs_exalted_hero_mkho", "", false, 1.0)
+        payload_builder:faction_pooled_resource_transaction("nor_progress_hound", "events", 50, false);
         dilemma_builder:add_choice_payload("SECOND", payload_builder);
         payload_builder:clear();
         cm:launch_custom_dilemma_from_builder(dilemma_builder, faction);

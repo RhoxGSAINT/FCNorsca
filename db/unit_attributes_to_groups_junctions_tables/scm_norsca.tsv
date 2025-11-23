@@ -131,6 +131,7 @@ unbreakable	scm_norsca_asta_02_attributes
 charge_defense_vs_large	scm_norsca_asta_attributes
 unbreakable	scm_norsca_asta_attributes
 hide_forest	hkrul_huscarls
+encourages	hkrul_huscarls
 encourages	hkrul_hrothgar
 hide_forest	hkrul_hrothgar
 mark_khorne	hkrul_hrothgar

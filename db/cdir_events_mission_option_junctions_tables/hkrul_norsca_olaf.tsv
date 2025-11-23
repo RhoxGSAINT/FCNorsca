@@ -1,6 +1,6 @@
 id	mission_key	option_key	value	target
 #cdir_events_mission_option_junctions_tables;2;db/cdir_events_mission_option_junctions_tables/hkrul_norsca_olaf				
-1497734430	hkrul_olaf_spear_0	VAR_OBJECTIVE_AMOUNT_INT	5	default
+1497734430	hkrul_olaf_spear_0	VAR_OBJECTIVE_AMOUNT_INT	7	default
 1497734431	hkrul_olaf_spear_0	GEN_TARGET_CHARACTER		default
 1497734432	hkrul_olaf_spear_0	GEN_CND_AGENT_SUBTYPE	hkrul_olaf	default
 1497734433	hkrul_olaf_spear_0	VAR_CHANCE	100	default

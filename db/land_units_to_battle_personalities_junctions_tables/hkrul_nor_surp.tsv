@@ -7,3 +7,5 @@ hkrul_olg_chariot_rider	hkrul_olg_chariot	autonomous_rider	ap_crewposition_1	-1	
 wh_dlc08_nor_all_marauder_chariot_rider1	hkrul_olaf_chariot	autonomous_rider	ap_crewposition_0	-1	true
 hkrul_olaf_chariot_rider	hkrul_olaf_chariot	autonomous_rider	ap_crewposition_1	-1	true
 hkrul_olaf_mammoth_rider	hkrul_olaf_mammoth	officer	ap_howdahcrew_0	-1	true
+wh_dlc08_nor_all_marauder_chariot_rider1	hkrul_haraldur_chariot	autonomous_rider	ap_crewposition_0	-1	true
+hkrul_haraldur_chariot	hkrul_haraldur_chariot	autonomous_rider	ap_crewposition_1	-1	true

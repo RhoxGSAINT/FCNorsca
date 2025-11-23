@@ -2,7 +2,7 @@ id	mission_key	payload_key	status_key	value	target_key
 #cdir_events_mission_payloads_tables;2;db/cdir_events_mission_payloads_tables/hkrul_norsca_qb_sur					
 34445030012	hkrul_bloodtide_olaf_spear_final_battle	TREASURY	SUCCESS	AMOUNT[15000]	default
 34445030013	hkrul_bloodtide_olaf_spear_final_battle	EFFECT_BUNDLE	SUCCESS	KEY[wh3_dlc20_payload_effect_casualty_replenishment];DURATION[2]	default
-34445030014	hkrul_bloodtide_olaf_spear_final_battle	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[hkrul_crimson_rain]	default
+34445030032	hkrul_bloodtide_olaf_spear_final_battle	ADD_MERCENARY_TO_FACTION_POOL	SUCCESS	AMOUNT[2];UNIT[wh3_dlc20_chs_inf_chosen_mkho]	default
 34445030015	hkrul_sarl_birna_bogtusk_final_battle	TREASURY	SUCCESS	AMOUNT[10000]	default
 34445030016	hkrul_sarl_birna_bogtusk_final_battle	EFFECT_BUNDLE	SUCCESS	KEY[wh3_dlc20_payload_effect_casualty_replenishment];DURATION[2]	default
 34445030017	hkrul_sarl_birna_bogtusk_final_battle	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[hkrul_boartusk_horn]	default
@@ -20,4 +20,3 @@ id	mission_key	payload_key	status_key	value	target_key
 34445030029	hkrul_ulfric_skjold	TREASURY	SUCCESS	AMOUNT[1250]	default
 34445030030	hkrul_grydal_snaegr_hall_ime	EFFECT_BUNDLE	SUCCESS	KEY[hkrul_grydal_momentum];DURATION[10]	default
 34445030031	hkrul_grydal_snaegr_hall_ime	TREASURY	SUCCESS	AMOUNT[8250]	default
-34445030032	hkrul_baerson_einar_palace_battle	TREASURY	SUCCESS	AMOUNT[4000]	default

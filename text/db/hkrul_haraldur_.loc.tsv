@@ -1,0 +1,61 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_haraldur_.loc		
+character_skills_localised_name_innate_hkrul_haraldur	Fist of the Huscarls	true
+character_skills_localised_description_innate_hkrul_haraldur	"Geimdall is the voice. I am the blow."	true
+character_skills_localised_name_hkrul_haraldur_special_1_0	Feaster of Barrels	true
+character_skills_localised_name_hkrul_haraldur_special_1_1	The Shieldmarches 	true
+character_skills_localised_name_hkrul_haraldur_special_1_2	Shieldbarge Crush	true
+character_skills_localised_name_hkrul_haraldur_special_1_3	Fist of the High Jarl	true
+character_skills_localised_name_hkrul_haraldur_special_1_4	Hurl of the First Spear	true
+character_skills_localised_name_hkrul_haraldur_special_1_5	Ironhide Wallbreaker	true
+character_skills_localised_name_hkrul_haraldur_special_1_6	The Stone-Silent Sentinel	true
+character_skills_localised_description_hkrul_haraldur_special_1_0	He drinks as he fights — endlessly, without pause, and never defeated.	true
+character_skills_localised_description_hkrul_haraldur_special_1_1	Where Haraldur walks, Huscarls rally. Roads crack beneath his weight and will.	true
+character_skills_localised_description_hkrul_haraldur_special_1_2	His charge hits like a mammoth wearing plate.	true
+character_skills_localised_description_hkrul_haraldur_special_1_3	Chosen by High Jarl Geimdall to break sieges, shieldwalls, and spirits alike.	true
+character_skills_localised_description_hkrul_haraldur_special_1_4	A single throw begins the bloodshed — and ends many lives.	true
+character_skills_localised_description_hkrul_haraldur_special_1_5	Spears that crack shields; shieldwork that crushes skulls. That is Haraldur’s craft.	true
+character_skills_localised_description_hkrul_haraldur_special_1_6	Station him anywhere — and none shall pass without cost.	true
+agent_subtypes_description_text_override_hkrul_haraldur	When Geimdall commands, Haraldur answers — with crushing force and unmatched fury.	false
+agent_subtypes_onscreen_name_override_hkrul_haraldur	Legendary Huscarl	false
+unit_description_short_texts_text_hkrul_haraldur	A towering killer and rallying symbol, Haraldur is the wrath of the shieldwall made flesh.	false
+unit_description_historical_texts_text_hkrul_haraldur	Among the Huscarls of the Bjornling, none loom larger — physically or in legend — than Haraldur. Towering, shaven-headed, and scarred by countless battles, he is a walking fortress armed with a massive spear and unshakable resolve. Where High Jarl Geimdall is the mind of the shieldwall, Haraldur is its fist, its hammer-blow, its answer to any insult. Few words pass his lips, but when they do, Huscarls march faster, and warriors grip their weapons tighter.	false
+names_name_1610711834	Jarl	false
+names_name_1610711833	Haraldur	false
+land_units_onscreen_name_hkrul_haraldur	Jarl Haraldur	true
+character_skills_localised_name_hkrul_haraldur_special_0_1	Champion of the Feast-Halls	true
+character_skills_localised_description_hkrul_haraldur_special_0_1	Just the rumour of him unmans weak commanders before blades are drawn.	true
+effects_description_hkrul_haraldur_tankard	Passive Ability: "Foambeard’s Draught"	false
+effects_description_hkrul_haraldur_shield	Ability: "Shield of Wyr-Stone"	false
+effects_description_hkrul_haraldur_rally	Ability: "Bellow of the Huskarl Host"	false
+effects_description_hkrul_haraldur_killshot	Ability: "The Fellhewer"	false
+unit_abilities_onscreen_name_hkrul_haraldur_killshot	The Fellhewer	true
+unit_abilities_tooltip_text_hkrul_haraldur_killshot	Three casts. Three kills. No mercy for monsters.	true
+unit_abilities_tooltip_text_hkrul_haraldur_rally	A single roar from their silent giant, and the shieldwall marches like a storm given voice.	true
+unit_abilities_onscreen_name_hkrul_haraldur_rally	Bellow of the Huskarl Host	true
+unit_abilities_onscreen_name_hkrul_haraldur_tankard	Foambeard’s Draught	true
+unit_abilities_tooltip_text_hkrul_haraldur_tankard	Once belonged to the infamous Dwarf pirate Foambeard. Smells like salt and regret — tastes like courage.	true
+unit_abilities_onscreen_name_hkrul_haraldur_shield	Shield of Wyr-Stone	true
+unit_abilities_tooltip_text_hkrul_haraldur_shield	Said to have once deflected a dragon’s breath during a raid on the coast.	true
+ancillaries_onscreen_name_hkrul_haraldur_sword	The Fellhewer	false
+ancillaries_colour_text_hkrul_haraldur_sword	Fellhewer is no ornate relic, no daemon-forged abomination, nor dwarfen rune-thrust marvel — it is brutal Norscan craftsmanship at its most primal. A spear of ashwood thick as a man's forearm, its tip is a jagged shard of wyrdstone-steel, hammered flat with the weight of storms and sharpened on glacier-stone. It bears no inscriptions, only deep battle-notches and dark stains that no sea can wash away. Forged long ago in the Bjornling tribe's coastal forge-pits, it was intended as a ship-spear to slay sea serpents and krakens that threatened the longships. But in Haraldur's hand, it found new purpose — hurled from behind the shieldwall, it has ended trolls, shaggy mammoths, and worse. Some say it chooses when to strike, not Haraldur, for he only throws when death is already near.	false
+ancillaries_explanation_text_hkrul_haraldur_sword	Mighty Spear	false
+ancillaries_onscreen_name_hkrul_haraldur_shield	Shield of Wyr-Stone	false
+ancillaries_colour_text_hkrul_haraldur_shield	Fashioned from a slab of wyr-stone scavenged from the ruins of a Chaos-tainted keep, this shield is heavier than most men can lift. Runes of warding and endurance line its battered face, their glow dulled by age but not by function. Haraldur used it to withstand a firewyrm’s breath during a raid in the east, and since then, the shield has become a symbol of steadfastness and defiance. Those who strike it claim to hear whispers — the voice of the wyrm whose flame could not burn it.	false
+ancillaries_explanation_text_hkrul_haraldur_shield		false
+ancillaries_onscreen_name_hkrul_haraldur_tankard	Foambeard’s Draught	false
+ancillaries_colour_text_hkrul_haraldur_tankard	Plundered from the wreck of the Deepwhisker, this iron-bound tankard once sloshed on the belt of Skarrik Foambeard, the infamous Dwarf privateer who roamed the Sea of Claws in the age of salt and steel. The brew within — a thick, sea-aged ale flavoured with barnacle sap and powdered coral — somehow still refills after every battle, whether Haraldur wills it or not. Its warmth steadies the hand and hollows the fear, emboldening Haraldur with the strength of old sea-raiders past.	false
+ancillaries_explanation_text_hkrul_haraldur_tankard		false
+ui_unit_groupings_onscreen_hkrul_haraldur	Spear Infantry	false
+ui_unit_groupings_tooltip_hkrul_haraldur		false
+effects_description_hkrul_spearmen_bvl	Bonus vs Large: %+n for Marauder Spearmen units	false
+effects_description_hkrul_mawherd_bvl	Bonus vs Large: %+n for The Great Mawherd of Bloodfjord	false
+effects_description_hkrul_spearmen_md	Melee defence: %+n for Marauder Spearmen units	false
+effects_description_hkrul_haraldur_ror_unyielding_assault	Attribute: Unyielding Assault for Haraldur's Huscarls	false
+units_custom_battle_mounts_localised_description_hkrul_haraldurhkrul_haraldur_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_haraldurhkrul_haraldur_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_haraldur_chariot	Jarl Haraldur	true
+character_skills_localised_name_hkrul_haraldur_chariot	Marauder Chariot	true
+character_skills_localised_description_hkrul_haraldur_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	true
+ancillaries_colour_text_hkrul_haraldur_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_haraldur_chariot	Marauder Chariot	false

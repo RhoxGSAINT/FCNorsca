@@ -149,10 +149,7 @@ ancillaries_onscreen_name_hkrul_norsca_ship_9	Brine Reaper	true
 ancillaries_colour_text_hkrul_norsca_ship_9	No wind stirs its sail, no chant lifts its oars — yet the Brine Reaper glides onward. It moves only when blood is spilled upon its barnacled deck, soaking into the rotting wood. Those who step aboard feel the deck pulse beneath their feet, as if the ship were feeding. To sail it is to serve — to bleed, to offer, to drown in Mermedus’ favour.	true
 ancillaries_onscreen_name_hkrul_norsca_ship_10	Gildwake 	true
 ancillaries_colour_text_hkrul_norsca_ship_10	Said to leave a trail of glittering coin upon the waves, Gildwake’s hull gleams with hammered gold filigree, its oars tipped in polished brass. Built in secret beneath the fjords of Varnhalv, every plank is bound with silver nails — minted, not forged. The ship is not merely a symbol of wealth, but a weapon of influence: port masters kneel as it approaches, and pirate fleets vanish mysteriously when it takes to sea. Eyri claims it can “smell gold on the tide,” and many swear it sails fastest when treasure is near. 	true
-effects_description_hkrul_kho_warriors_snaegr_md	Melee defence: %+n for Khorne warrior units[[col:red]][[i]]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
 effects_description_hkrul_grydal_siege_ma	Melee attack: %+n when laying siege or encircling	false
-effects_description_hkrul_kho_warriors_snaegr_ma	Melee attack: %+n for Khorne warrior units[[col:red]][[i]]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
-effects_description_hkrul_kho_warriors_snaegr_armour	Armour: %+n for Khorne warrior units\\n\\n[[col:red]][[i]]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
 ancillaries_onscreen_name_hkrul_norsca_fish_33	Stoneclad Flounder	false
 ancillaries_onscreen_name_hkrul_norsca_fish_34	Hookjaw Cod	false
 ancillaries_onscreen_name_hkrul_norsca_fish_35	Scalding Sea Bass	false

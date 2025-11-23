@@ -30,4 +30,3 @@ rhox_drenok_ice_unit_incident	false	messenger	false	Event		false		0.0000	false
 rhox_varg_chaos_spawn_incident	false	faction	false	Event		false		0.0000	false
 rhox_fc_norsca_swyrd_available	false	messenger	false	Event		true		0.0000	false
 rhox_sayl_chaos_spawn_incident	false	faction	false	Event		false		0.0000	false
-rhox_beorg_bear_unit_incident	false	messenger	false	Event		false		0.0000	false

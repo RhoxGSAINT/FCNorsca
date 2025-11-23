@@ -141,7 +141,7 @@ local rhox_faction_list={
             unit_list="wh_main_nor_inf_chaos_marauders_0,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_dlc24_tze_mon_cockatrice,wh3_main_monster_feral_ice_bears,hkrul_norsca_ymir_ror",
             forename ="names_name_5670700356",
             familiyname ="names_name_5670700355",
-        },	
+        },
         how_they_play="rhox_fc_norsca_baersonling_how_they_play",
         pic=800,
         faction_trait="hkrul_einar_faction_trait",
@@ -162,6 +162,10 @@ local rhox_faction_list={
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
+        agent = {    
+        type = "spy",
+        subtype = "hkrul_skald_horn"
+        },          
         how_they_play="rhox_fc_norsca_bjornling_how_they_play",
         pic=800,
         faction_trait="hkrul_ulfric_faction_trait",
@@ -254,7 +258,7 @@ local rhox_faction_list={
     cr_nor_brennuns ={
         leader={
             subtype="hkrul_yngve",
-            unit_list="wh_dlc08_nor_feral_manticore,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_mon_norscan_giant_0,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_inf_marauder_hunters_1",
+            unit_list="wh_dlc08_nor_feral_manticore,wh_main_nor_inf_chaos_marauders_1,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_mon_norscan_giant_0,wh_dlc08_nor_mon_norscan_giant_0,wh_main_nor_inf_chaos_marauders_1,wh_dlc08_nor_inf_marauder_hunters_1",
             forename ="names_name_5670700633",
             familiyname ="names_name_5670700632",
         },	
@@ -270,6 +274,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
+		    cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_haftagg", true) 		    
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -393,7 +398,7 @@ local rhox_faction_list={
     mixer_nor_geimdall_huscarls = {
     leader = {
         subtype = "hkrul_geimdall",
-        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,rhox_bjornling_maneater,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
         forename = "names_name_7610711834",
         familiyname = "names_name_7610711833",  -- Fixed typo
     },
@@ -413,7 +418,7 @@ local rhox_faction_list={
     additional = function(faction, faction_key)
         cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1", faction_key, "norsca_monster_hunt_ror_unlock")
         cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
-        cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_hildr", true)
+        cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_haraldur", true)        
         cm:force_declare_war("mixer_nor_geimdall_huscarls", "cr_teb_order_of_the_blazing_sun", false, false)
 
         if faction:is_human() then
@@ -468,7 +473,7 @@ local rhox_faction_list={
 
     agent = {    
         type = "spy",
-        subtype = "hkrul_skald_drum"
+        subtype = "hkrul_skald_horn"
     },
 
     how_they_play = "rhox_fc_norsca_eyri_how_they_play",
@@ -478,7 +483,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
-		    cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_haftagg", true) 
+            cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_hildr", true)		    
 		    cm:force_declare_war("mixer_nor_eyristaad", "wh_dlc08_nor_vanaheimlings", false, false)
         end,
         first_tick = function(faction, faction_key) 

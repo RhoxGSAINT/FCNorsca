@@ -316,3 +316,8 @@ effect_bundles_localised_title_bjornling_bundle_fish_1	Saltsilver Surge	false
 effect_bundles_localised_description_bjornling_bundle_fish_3	Fed and full of vigour, the rowing drums beat faster — no sail nor wind outpaces you now.	false
 effect_bundles_localised_title_bjornling_bundle_fish_3	Bounty at Oar	false
 effects_description_hkrul_ws_sea	Weapon strength: %+n% when fighting at sea	false
+effects_description_hkrul_norscan_ogres_xp_gain	Unit experience gain: %+n% for Norse Ogre units	false
+effects_description_hkrul_norscan_ogres_melee_defence	Melee defence: %+n for Norse Ogre units	false
+effects_description_hkrul_norscan_ogres_speed	Speed: %+n% for Norse Ogre units	false
+effects_description_hkrul_norscan_ogres_armour	Armour: %+n for Norse Ogre units	false
+effects_description_hkrul_norscan_ogres_melee_attack	Melee attack: %+n for Norse Ogre units	false

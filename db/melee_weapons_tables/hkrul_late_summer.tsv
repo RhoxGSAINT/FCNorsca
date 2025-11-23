@@ -8,3 +8,5 @@ hkrul_urf	0	20	200	400	3.0000	axe	axe	large	8	1.0000	1.2500	0.0000	true		0	10	4.
 hkrul_shark_2	0	0	115	225	10.0000	axe	Leviathan_Claw	large	9	1.0000	1.2500	0.0000	false		0	10	3.0000		false
 hkrul_shark_3	0	35	125	235	10.0000	axe	Leviathan_Claw	large	9	1.0000	1.2500	0.0000	false		0	10	3.0000		false
 hkrul_grydal_warshrine	0	0	300	175	6.0000	axe	creatures_claws	very_large	4	1.6000	1.0000	1.0000	false	wh2_dlc12_unit_contact_flammable	0	10	4.0000		false
+hkrul_haraldur	25	0	120	280	3.0000	spear	halberd	medium	6	1.0000	1.0000	0.0000	false		0	10	4.5000		false
+hkrul_sibat	0	10	300	415	6.0000	axe	creatures_claws	large	7	2.0000	1.2500	0.0000	true		0	10	4.0000		false

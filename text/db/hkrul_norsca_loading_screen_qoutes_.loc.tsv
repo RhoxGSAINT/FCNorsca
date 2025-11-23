@@ -7,7 +7,7 @@ loading_screen_quotes_title_hkrul_ulfric	High King Ulfric Grondal	false
 loading_screen_quotes_description_hkrul_ulfric	"Form a shield wall. If we are to die, let us go to the Gods with honour, standing on a pile of bones and broken skulls. Unfurl the banner and sound the Warcry; we are Norsemen and will not be taken easily."\\n\\n~ High King Ulfric Grondal of the Bjornling tribe	false
 loading_screen_quotes_bulletpoints_hkrul_ulfric	Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
 loading_screen_quotes_title_hkrul_geimdall	High Jarl Geimdall	false
-loading_screen_quotes_description_hkrul_geimdall	High Jarl Geimdall joined Ulfric Grondal on his expedition to raid and plunder the southlands, during their voyage they were stranged on a deserted Island. Soon after, hordes of undead surrounded the Norse. It was only through Geimdall's valor the Bjornling Huscarls made it back to cold shores of Skjold.	false
+loading_screen_quotes_description_hkrul_geimdall	High Jarl Geimdall joined Ulfric Grondal on his expedition to raid and plunder the southlands, during their voyage they stranded on a deserted Island. Soon after, hordes of undead surrounded the Norse. It was only through Geimdall's valor the Bjornling Huscarls made it back to the cold shores of Skjold.	false
 loading_screen_quotes_bulletpoints_hkrul_geimdall	Hornblower||Shield Wall	false
 loading_screen_quotes_title_hkrul_oda	Oda Winterclaw	false
 loading_screen_quotes_description_hkrul_oda	Oda Winterclaw is a Jarl of Bjornling Tribe, a rarity - being the only female amongst Grondal's retinue. Yet no man dares to challenge her position, let alone her combat prowess.	false
@@ -40,7 +40,7 @@ loading_screen_quotes_title_hkrul_harald	Harald Whyrlas	false
 loading_screen_quotes_description_hkrul_harald	The warlord of the Graeling, Harald Whyrlas has an ambition to unite all the tribes of Norsca into one nation, using intimidation and the promise of stability.	false
 loading_screen_quotes_bulletpoints_hkrul_harald	Formidable||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
 loading_screen_quotes_title_hkrul_swyrd	The Ravenswyrd	false
-loading_screen_quotes_description_hkrul_swyrd	The Ravenswyrd is a mysterious Norse Berserker who appears at his people's time of need. It is said he was chosen by the gods to protect the Norse until the End of all things. He is accompanied by a Raven that accompanies him and protects him from almost all harm.	false
+loading_screen_quotes_description_hkrul_swyrd	The Ravenswyrd is a mysterious Norse Berserker who appears at his people's time of need. It is said he was chosen by the gods to protect the Norse until the End of all things. He is accompanied by a Raven that guards him from almost all harm.	false
 loading_screen_quotes_bulletpoints_hkrul_swyrd	Protected by the Raven||[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry	false
 loading_screen_quotes_title_hkrul_akkorak	Akkorak the Crow	false
 loading_screen_quotes_description_hkrul_akkorak	Akkorak the Crow, also known as the "Butcher of Teska" and the "Reaver of the Nine Wastes," is a Chaos Lord and member of the Kurgan Kul tribe. He was named Chieftain of the tribe through a violent spree of duels with other contenders.	false

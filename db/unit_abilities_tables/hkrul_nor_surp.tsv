@@ -3,7 +3,7 @@ key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is
 hkrul_olg_helm	true	hkrul_olg_mask		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_olg_axe	true	hkrul_olg_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_tuula_rally	true	hkrul_tuula_rally		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	active		false
-hkrul_tuula_bound	true	hkrul_tuula_bound		wh_type_area_of_ward_save		wh_main_anc_group_unique	true	false	passive		false
+hkrul_tuula_bound	true	hkrul_tuula_mark		wh_type_area_of_ward_save		wh_main_anc_group_unique	true	false	passive		false
 hkrul_tuula_axe	true	hkrul_tuula_axe		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_haftagg_shield	true	hkrul_haftagg_shield		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_haftagg_roar	true	hkrul_haftagg_roar		wh_type_hex		wh_main_anc_group_uncommon	true	false	active		false
@@ -11,7 +11,7 @@ hkrul_olaf_rally	true	hkrul_olaf_hex		wh_type_hex		wh_main_anc_group_rare	true	f
 hkrul_olaf_retinue	true	hkrul_tuula_axes		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	passive		false
 hkrul_olaf_helm	true	hkrul_olaf_helm		wh_type_augment		wh_main_anc_group_unique	true	false	passive		false
 hkrul_olaf_axe	true	hkrul_olaf_axe		wh_type_breath		wh_main_anc_group_unique	true	false	active		false
-hkrul_khorne_bomb	true	hkrul_khorne_bomb		wh_type_bombardment		wh_main_anc_group_unique	true	false	active		false
+hkrul_khorne_bomb	true	hkrul_crimson_rain		wh_type_bombardment		wh_main_anc_group_unique	true	false	active		false
 hkrul_olg_spit	true	hkrul_olg_spit		wh_type_magic_missile		wh_main_anc_group_uncommon	true	false	active		false
 hkrul_boartusk_shatter	false	hkrul_boartusk_stomp		wh_type_breath		wh_main_anc_group_unique	true	false	active		false
 hkrul_boartusk_helm	false	hkrul_boartusk_helm		wh_type_regeneration		wh_main_anc_group_rare	true	false	passive		false
@@ -32,3 +32,5 @@ hkrul_hafskael_ship_buff	true	hkrul_hafskael_ship		wh_type_augment		wh_main_anc_
 hkrul_oda_shield2	true	hkrul_oda_shield2		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	passive		false
 hkrul_goftur_children	true	hkrul_goftur_children		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_goftur_avatar	true	hkrul_goftur_avatar		wh_type_regeneration		wh_main_anc_group_rare	true	false	passive		false
+hkrul_festerheart	false	hkrul_festerheart		wh_type_regeneration		wh_main_anc_group_unique	true	false	passive		false
+hkrul_tuula_mark	true	hkrul_tuula_bound		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false

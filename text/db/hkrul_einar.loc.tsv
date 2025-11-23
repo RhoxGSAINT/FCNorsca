@@ -49,7 +49,7 @@ character_skills_localised_name_hkrul_einar_bear	Bregða	false
 effects_description_hkrul_einar_steelfist	Ability: "Steelfist's Wrath"	true
 unit_abilities_tooltip_text_hkrul_einar_steelfist	Einarr wears the magic infused gauntlets of Valbrandr who slayed Ogres with nothing but his iron clad protected hands.	true
 unit_abilities_onscreen_name_hkrul_einar_steelfist	Steelfist's Wrath	true
-effects_description_hkrul_einar_fury	Ability: "Fury of Vinnskor"	true
+effects_description_hkrul_einar_fury	Passive ability: "Fury of Vinnskor"	true
 unit_abilities_tooltip_text_hkrul_einar_fury	Amidst all the lifeless bodies of the village of Vinnskor, Einarr - sole survivor - held the corpse of his son as he detonated in nothing but mindless rage.	true
 unit_abilities_onscreen_name_hkrul_einar_fury	Fury of Vinnskor	true
 effect_bundles_localised_description_rhox_baersonling_high_wom		false
@@ -111,6 +111,7 @@ incidents_button_text_rhox_baersonling_chain_7	Lead the Charge	false
 incidents_localised_description_rhox_baersonling_chain_7	Madness has taken you, and yet your hand is steady. The Palace of Nurgle must fall. The warband marches behind a broken man with fire in his eyes. Skoroth, Lord of the Palace, awaits within. The final door creaks open on hinges of rot and bone. Einarr’s destiny is no longer his own.	false
 incidents_localised_title_rhox_baersonling_chain_7	The Siege of Filth	false
 campaign_payload_ui_details_description_rhox_baersonling_your_journey_continues	Your journey continues	false
+campaign_payload_ui_details_description_rhox_bloodfjord_your_journey_continues	The Spear draws closer..	false
 missions_localised_title_rhox_baersonling_chain_1	Palace of the Plaguelord: The Aesling Raid	false
 missions_localised_description_rhox_baersonling_chain_1	Relive the Aesling onslaught in your dreams. The rage it brings may yet be shaped into purpose.In flame and blood, the seeds of vengeance are sown.	false
 missions_localised_title_rhox_baersonling_chain_2	Palace of the Plaguelord: Whispers of Faith	false
@@ -162,18 +163,35 @@ cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_5FIRST	Warrior	false
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_5SECOND	Cultist	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_5SECOND	Cultist	false
-cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8FIRST	Accept Bargain	false
-cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8FIRST	Accept Bargain	false
-cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8SECOND	Keep the Festerhearth	false
-cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8SECOND	Keep the Festerhearth	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_usta_joins	Usta the Witch joins your army	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_orgrim_joins	Orgrim the Wanderer joins your army	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_berus_joins	Berus of Veigs joins your army	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_kammler_joins	Ernst von Kammler joins your army	false
-campaign_payload_ui_details_description_rhox_baersonling_asta_joins	Asta will return	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_festerheart	Daemons will attack you	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8FIRST	Accept the Bargain	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8FIRST	Accept the Bargain	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8SECOND	Keep the Festerheart	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8SECOND	Keep the Festerheart	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_usta_joins	Usta the Witch joins your companionship	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_orgrim_joins	Orgrim the Wanderer your companionship	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_berus_joins	Berus of Veigs joins your companionship	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_kammler_joins	Ernst von Kammler joins your companionship	false
+campaign_payload_ui_details_description_rhox_baersonling_asta_joins	Asta of Vinnskor will return	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_festerheart	The Daemon will turn on you	false
 missions_localised_title_hkrul_baerson_einar_palace_battle	missions_localised_title_hkrul_baerson_einar_palace_battle	false
 missions_localised_description_hkrul_baerson_einar_palace_battle	missions_localised_description_hkrul_baerson_einar_palace_battle	false
 missions_localised_mission_completed_text_hkrul_baerson_einar_palace_battle		false
-effect_bundles_localised_title_rhox_baersonling_teleport	Access to teleport	false
+effect_bundles_localised_title_rhox_baersonling_teleport	All armies will gain acces to the Teleport Mechanic	false
 effect_bundles_localised_description_rhox_baersonling_teleport	Free Wifu and free Wifi teleport	false
+ancillaries_colour_text_hkrul_festerheart	No one remembers what Festerheart once was — a charm, a relic, a warrior’s token? It no longer matters. Twisted by the Plague God's touch, it now pulses with rotten vitality, each thump a drumbeat of contagion. The bearer feels pain and power in equal measure, as suppurating boils blossom with every heartbeat, spilling foul blessings onto allies… and horrors upon foes. Those nearby swear they can hear it breathing.	true
+ancillaries_onscreen_name_hkrul_festerheart	The Festerheart	true
+unit_abilities_tooltip_text_hkrul_festerheart	A loathsome relic, its diseased pulse spreads both strength and sickness in equal, oozing measure.	true
+unit_abilities_onscreen_name_hkrul_festerheart	The Festerheart	true
+effects_description_hkrul_festerheart	Passive ability: "The Festerheart"	true
+scripted_objectives_localised_text_hkrul_baerson_einar_aesling_hint_boss_ability	This time.. Maybe this time I can save her! ASTA! Baersonlinger, CHARGE! Protect your chieftess!	false
+scripted_objectives_localised_text_hkrul_baerson_einar_aesling_hint_boss_gone	The Bloodbeast has been slain.. But not before it tore Asta of Vinnskor from this world.	false
+scripted_objectives_localised_text_hkrul_baerson_einar_aesling_hint_objective	NO! Not this nightmare.. Again.. ASTA! WAIT! The Aesling.. The Bloodbeast! They are coming!	false
+scripted_objectives_localised_text_hkrul_baerson_einar_aesling_hint_ally_gone	ASTAAAA! NO! NO!!!!	false
+scripted_objectives_localised_text_hkrul_baerson_einar_aesling_victory_message	ASTAAAA! NO! NO!!!!	false
+scripted_objectives_localised_text_hkrul_einarr_nightmare_hint_intro	The snow is red again. The screams echo like before. You know how this ends. You have been here before.	false
+scripted_objectives_localised_text_hkrul_einarr_nightmare_hint_save_her	NO! Not this nightmare… Again… ASTA! WAIT! The Aesling… the Bloodbeast! They are coming!	false
+scripted_objectives_localised_text_hkrul_einarr_nightmare_victory_hint	You drove them off. But it's never enough. The dream always ends the same...Asta.. Fallen to The Bloodbeast.	false
+scripted_objectives_localised_text_ally_hurt	PLACEHOLDER	false
+scripted_objectives_localised_text_enemy_hurt	PLACEHOLDER	false
+scripted_objectives_localised_text_asta_dead_hint	PLACEHOLDER_WIFU_IS_DEAD	false
+scripted_objectives_localised_text_enemy_hurt_hint	PLACEHOLDER_ENEMY	false

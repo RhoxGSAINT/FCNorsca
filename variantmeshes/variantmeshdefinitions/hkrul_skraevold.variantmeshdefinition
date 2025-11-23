@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="body" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu18c\phy_bloodbeast_ror\phy_bloodbeast_ror_01.wsmodel" >
+			<META_DATA>audio_entity_type:wh3_dlc26_kho_cha_scyla_LH</META_DATA>			<META_DATA>audio_armour_type:body</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

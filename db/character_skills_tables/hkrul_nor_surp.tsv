@@ -43,7 +43,7 @@ hkrul_tuula_chariot	mount_chaos_chariot.png			0	false	false	false	0.0000	0
 hkrul_olaf_mammoth	mount_mammoth.png			0	false	false	false	0.0000	0
 hkrul_olaf_chariot	mount_chaos_chariot.png			0	false	false	false	0.0000	0
 hkrul_olaf_special_0_1	hkrul_olaf_special_0_1.png			0	false	false	false	0.0000	0
-hkrul_olaf_special_0_2	hkrul_olaf_special_0_2.png			0	false	false	false	0.0000	0
+hkrul_olaf_special_0_2	hkrul_skill_viggslatra.png			0	false	false	false	0.0000	0
 hkrul_olaf_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_olaf_helm	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_olg_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0
@@ -77,3 +77,4 @@ hkrul_hafskael_special_1_6	hkrul_hafskael_special_1_6.png			0	false	false	false	
 hkrul_hafskael_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_hafskael_charm	mount_barded_warhorse.png			0	false	false	false	0.0000	0
 hkrul_hafskael_axe	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_haraldur_chariot	mount_chaos_chariot.png			0	false	false	false	0.0000	0

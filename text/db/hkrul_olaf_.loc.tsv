@@ -25,7 +25,7 @@ names_name_3610711834	Olaf	false
 names_name_3610711833	Wolfhound	false
 land_units_onscreen_name_hkrul_olaf	Olaf Wolfhound	true
 character_skills_localised_name_hkrul_olaf_special_0_1	Southbound Marauders	true
-character_skills_localised_name_hkrul_olaf_special_0_2	Viggslatra Skaeling	true
+character_skills_localised_name_hkrul_olaf_special_0_2	Bloodfjord Skaeling	true
 character_skills_localised_description_hkrul_olaf_special_0_1	"They breathe salt, chant Khorne’s name, and laugh as fire devours towns."	true
 character_skills_localised_description_hkrul_olaf_special_0_2	The longships of Viggslatra strike like lightning, and retreat only when the enemy is ash.	true
 effects_description_hkrul_olaf_helm	Passive Ability: "Warhide of the Nine Winters"	false
@@ -68,7 +68,6 @@ loading_screen_quotes_title_hkrul_olaf	Jarl Olaf Wolfhound	false
 loading_screen_quotes_bulletpoints_hkrul_olaf	[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry||Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
 effect_bundles_localised_title_hkrul_olaf_faction_trait	The Crimson Call	false
 effect_bundles_localised_description_hkrul_olaf_faction_trait	Across blood-slick shores and frostbitten stone, Olaf and Tuula chased whispers of the daemon-spear. Drawn by dreams and screams, they crossed the Sea of Claws, guided by S’iba’aht’s distant call. Each battle won fed the spear’s stirring hunger; each slain foe a step closer to the relic’s return.	false
-event_feed_strings_text_rhox_fc_norsca_olaf_how_they_play	{{tr:how_they_play_norsca}}	false
 factions_attack_desc_mixer_nor_bloodfjord	You are attacking the Bloodfjord Tribe!	false
 factions_defend_desc_mixer_nor_bloodfjord	You are defending against the Bloodfjord Tribe!	false
 factions_screen_adjective_mixer_nor_bloodfjord		false
@@ -97,22 +96,22 @@ incidents_button_text_hkrul_olaf_turn_five_incident	March to Middenheim!	false
 incidents_localised_description_hkrul_olaf_turn_five_incident	The gods grow louder. In her sleep, Tuula claws at the walls. Olaf has taken to muttering in his fury. The voice of the spear cries out through fire and fog, guiding their march ever southward—toward Middenheim, the Wolf-City. A priest dwells there, cloaked in lies and gold, guarding the truth of Crimson Rain. He will not speak willingly. Let his cathedral burn, let his screams echo through the mountain—let Sigmar’s stronghold become Khorne’s feast.	false
 incidents_localised_title_hkrul_olaf_turn_five_incident	The Priest of Middenheim	false
 missions_localised_mission_completed_text_hkrul_olaf_spear_3	The Search Continues	false
-missions_localised_title_hkrul_olaf_spear_3	Crimon Rain: The Tithe of Flame	false
+missions_localised_title_hkrul_olaf_spear_3	Crimson Rain: The Tithe of Flame	false
 missions_localised_description_hkrul_olaf_spear_3	Crimson Rain is not merely found—it is earned. The spear is a relic of slaughter, a daemon that drinks not just blood, but the smoke of burning cities and the gold stolen from broken hands. It demands a tithe—a path of ruin paid in plunder and desecration. Villages must burn. Coffers must be cracked. Only then will the spear offer its next whisper. To follow the trail, you must leave one behind.	false
 missions_localised_mission_completed_text_hkrul_olaf_spear_2	The Search Continues	false
-missions_localised_title_hkrul_olaf_spear_2	Crimon Rain: Salt and Ash, Blood and Bone	false
+missions_localised_title_hkrul_olaf_spear_2	Crimson Rain: Salt and Ash, Blood and Bone	false
 missions_localised_description_hkrul_olaf_spear_2	The trail leads to Nordland’s coast. The spear’s voice grows louder with each burning village. Its presence must be near. Sacking settlements may reveal those hiding knowledge—or guarding something greater	false
 missions_localised_mission_completed_text_hkrul_olaf_spear_1	The Search Begins	false
-missions_localised_title_hkrul_olaf_spear_1	Crimon Rain: The Call of Crimson Rain	false
+missions_localised_title_hkrul_olaf_spear_1	Crimson Rain: The Call of Crimson Rain	false
 missions_localised_description_hkrul_olaf_spear_1	Tuula hears the spear in her dreams; Olaf feels it in his blood. The daemon-forged weapon known as Crimson Rain is no longer dormant. Its call echoes across the Sea of Claws. The trail begins—somewhere south, in the lands of men.	false
 missions_localised_mission_completed_text_hkrul_olaf_spear_4	The Search Continues	false
-missions_localised_title_hkrul_olaf_spear_4	Crimon Rain: The Priest of Middenheim	false
+missions_localised_title_hkrul_olaf_spear_4	Crimson Rain: The Priest of Middenheim	false
 missions_localised_description_hkrul_olaf_spear_4	A priest in Middenheim is said to know of the spear’s last location. The trail points to the Wolf-City, where faith and steel entwine. He will not speak freely—Middenheim must fall.	false
 missions_localised_mission_completed_text_hkrul_olaf_spear_5	The Spear is revealed	false
-missions_localised_title_hkrul_olaf_spear_5	Crimon Rain: Only One May Bleed for It	false
+missions_localised_title_hkrul_olaf_spear_5	Crimson Rain: Only One May Bleed for It	false
 missions_localised_description_hkrul_olaf_spear_5	The final piece falls into place. Crimson Rain lies hidden in a monastery at Dreizack. But another has heard the call: General Willi Ziege, an Empire champion. The Blood God demands a final trial. Only one may wield the spear.	false
 missions_localised_mission_completed_text_hkrul_olaf_spear_0	The Spear Calls	false
-missions_localised_title_hkrul_olaf_spear_0	Crimon Rain: Trial of Worth	false
+missions_localised_title_hkrul_olaf_spear_0	Crimson Rain: Trial of Worth	false
 missions_localised_description_hkrul_olaf_spear_0	Before the daemon within Crimson Rain will call out in full, Olaf must prove himself a true vessel of slaughter. Khorne does not grant his gifts to the untested. Only through victory and bloodshed will Olaf earn the spear’s attention.	false
 incidents_localised_description_hkrul_olaf_turn_seven_incident	The monastery lies in ruins. The spear, Crimson Rain, now rests in Olaf’s hands—dripping not with blood, but with raw, pulsing power. Within its blade, the daemon S’iba’aht stirs, no longer slumbering, but fully awake and aware. Khorne watches. A choice must be made. To bind the daemon is to master its power—Olaf remains in control, wielding the weapon as a brutal extension of his will. But to release it… is to unchain S’iba’aht's true form. A new warbringer shall rise in Olaf’s place. Flesh will melt, reality will twist—and the spear will walk.	false
 incidents_localised_title_hkrul_olaf_turn_seven_incident	The Bloodbound Choice	false
@@ -124,9 +123,27 @@ incidents_localised_title_hkrul_olaf_turn_six_incident	Only One May Bleed For It
 effects_description_hkrul_olaf_income_raiding	Income from raiding: %+n% for each confederated Norscan tribe	false
 land_units_onscreen_name_scm_fc_norsca_bloodfjord_nor_marauder_spear	Marauder Spearmen	false
 land_units_onscreen_name_scm_fc_norsca_bloodfjord_nor_marauder_javelins	Marauder Hunters (Javelins)	false
-dilemmas_localised_title_hkrul_olaf_turn_seven_incident	dilemmas_localised_title_hkrul_olaf_turn_seven_incident	false
-dilemmas_localised_description_hkrul_olaf_turn_seven_incident	dilemmas_localised_description_hkrul_olaf_turn_seven_incident	false
-cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentFIRST	cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentFIRST	false
-cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentFIRST	cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentFIRST	false
-cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentSECOND	cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentSECOND	false
-cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentSECOND	cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentSECOND	false
+dilemmas_localised_title_hkrul_olaf_turn_seven_incident	The Bloodbound Choice	false
+dilemmas_localised_description_hkrul_olaf_turn_seven_incident	The monastery lies in ruins. The spear, Crimson Rain, now rests in Olaf’s hands—dripping not with blood, but with raw, pulsing power. Within its blade, the daemon S’iba’aht stirs, no longer slumbering, but fully awake and aware. Khorne watches. A choice must be made. To bind the daemon is to master its power—Olaf remains in control, wielding the weapon as a brutal extension of his will. But to release it… is to unchain S’iba’aht's true form. A new warbringer shall rise in Olaf’s place. Flesh will melt, reality will twist—and the spear will walk.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentFIRST	Bind the Daemon	false
+cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentFIRST	The spear is mine to wield.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentSECOND	Release the Daemon	false
+cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentSECOND	Let S’iba’aht rise in blood and wrath.	false
+ancillaries_colour_text_hkrul_crimson_rain_1	Forged beneath blood-lit skies during a moon-time of frenzy, Crimson Rain is no ordinary relic — it is a vessel of Khorne’s wrath. A bone spike bound in rusted iron and soaked in warrior’s lifeblood, it drips eternally, though no wound feeds it. When battle is joined, the relic stirs — and droplets fall like a storm, each one igniting the fury of nearby warriors. To hold it is to feel your pulse beat in rhythm with the Blood God's drum.	true
+ancillaries_onscreen_name_hkrul_crimson_rain_1	The Crimson Rain (Bound)	true
+unit_abilities_tooltip_text_hkrul_crimson_rain_1	A blood-wrought relic that stokes fury with each drop that falls from its ever-weeping tip.	true
+unit_abilities_onscreen_name_hkrul_crimson_rain_1	The Crimson Rain	true
+effects_description_hkrul_crimson_rain_1	Ability: "The Crimson Rain"	true
+ancillaries_colour_text_hkrul_crimson_rain_2	The artefact known as Crimson Rain is no mere cursed relic — it is a prison. Bound within its jagged iron form lies the tormented essence of S’iba’aht, an Exalted Daemon of Khorne, trapped by a forgotten rite of blood-binding. Ever since, the relic weeps droplets of boiling crimson ichor — not blood, but the daemon’s fury made manifest. When carried into battle, it shrieks in voiceless rage, stirring nearby warriors into berserk fervour. To wield it is to channel a sliver of S’iba’aht’s undying wrath… though its bearer risks being claimed by the daemon’s whispered promises.	true
+ancillaries_onscreen_name_hkrul_crimson_rain_2	The Crimson Rain (Unleashed)	true
+unit_abilities_tooltip_text_hkrul_crimson_rain_2	A blood-wrought relic that stokes fury with each drop that falls from its ever-weeping tip.	true
+unit_abilities_onscreen_name_hkrul_crimson_rain_2	Call S’iba’aht	true
+effects_description_hkrul_crimson_rain_2	Ability: "Call S’iba’aht"	true
+land_units_onscreen_name_hkrul_sibat	S’iba’aht	false
+unit_description_short_texts_text_hkrul_sibat	A prison of rage, Crimson Rain drips with the fury of the Daemon S’iba’aht, forever seeking release.	false
+unit_description_historical_texts_text_hkrul_sibat	A prison of rage, Crimson Rain drips with the fury of the Daemon S’iba’aht, forever seeking release.	false
+event_feed_strings_text_rhox_fc_norsca_olaf_how_they_play	[[img:hkrul_olaf_spear]][[/img]][[col:green]]Follow Olaf and Tuula on their quest to claim the [[col:yellow]]Crimson Rain, [[/col]]a powerful Artifact of Khorne hidden within the [[col:yellow]]Empire[[/col]].[[/col]]\\n\\n[[img:bullet_nor_gods]][[/img]][[col:green]]Raze settlements and raise monoliths in their place to gradually pledge[[/col]] [[url:script_link_campaign_gods]][[tooltip:{{tt:tooltip_campaign_gods}}]]Allegiance to the Gods[[/tooltip]][[/url]][[col:green]], who will each grant factionwide gifts in lieu of the others.[[/col]]\\n\\n[[img:bullet_nor_monsters]][[/img]] [[col:green]]Hunt down creatures listed in the[[/col]] [[url:script_link_campaign_monsters]][[tooltip:{{tt:tooltip_campaign_monsters}}]]Monstrous Arcanum[[/tooltip]][[/url]] [[col:green]]and defeat them in battle in return for unique and powerful trophies.[[/col]]\\n\\n[[img:icon_confederation]][[/img]] [[col:green]]Defeat the faction leaders of rival Norscan tribes to be given the option to form tribal[[/col]] [[sl_link:campaign_confederation]]confederations.[[/sl_link]]\\n\\nLearn more about Norsca [[url:script_link_campaign_norsca]]here[[/url]].	false
+ancillaries_explanation_text_hkrul_crimson_rain_1	The Daemon remains bound within the Spear	false
+ancillaries_explanation_text_hkrul_crimson_rain_2	The Daemon is released from within the Spear	false
+names_name_3610733834	S’iba’aht	false
+names_name_3610733833		false

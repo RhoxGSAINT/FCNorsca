@@ -86,4 +86,5 @@ unit_abilities_tooltip_text_hkrul_boartusk_horn	The corrupted eye pulses with un
 unit_abilities_onscreen_name_hkrul_boartusk_horn	Mogwrath's Eye	true
 effects_description_hkrul_boartusk_horn	Ability: "Mogwrath's Eye''	false
 effects_description_hkrul_ulfric_diplo_marienburg	Relationship: %+n to [[img:ui/flags/wh_main_emp_marienburg/mon_24.png]][[/img]] Marienburg	true
+effects_description_hkrul_mawherd_cap	Unit capacity: %+n for The Great Mawherd of Bloodfjord	false
 effects_description_hkrul_goftur_shark_cap	Unit capacity: %+n for Harrowfin Shark units	false

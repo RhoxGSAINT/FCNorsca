@@ -27,4 +27,5 @@ scm_norsca_alfkael	wolftribe_alfkael_nithi	18	true	false
 hkrul_graill	scm_norsca_graill_valdyr	10	true	false
 hkrul_hildr	hkrul_hildr_axe	8	true	false
 hkrul_oda	hkrul_norsca_ship_6	8	true	false
-hkrul_oda	hkrul_oda_shield	14	true	false
+hkrul_oda	hkrul_oda_shield	13	true	false
+hkrul_oda	hkrul_oda_spear	17	true	false

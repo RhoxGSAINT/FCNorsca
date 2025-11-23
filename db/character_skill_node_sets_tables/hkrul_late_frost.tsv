@@ -3,3 +3,4 @@ key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtyp
 skill_node_set_hkrul_mortensen	champion	false	false				hkrul_mortensen
 skill_node_set_hkrul_geimdall	general	false	false				hkrul_geimdall
 skill_node_set_hkrul_yngve	general	false	false				hkrul_yngve
+skill_node_set_hkrul_haraldur	champion	false	false				hkrul_haraldur

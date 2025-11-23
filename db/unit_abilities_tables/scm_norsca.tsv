@@ -88,7 +88,7 @@ hkrul_ulfric_pas_shield	true	hkrul_ulfric_pas_shield		wh_type_area_of_augments		
 hkrul_norsca_kraken_bound	true	wh2_dlc11_spell_deep_krakens_pull		wh_type_vortex		wh_main_anc_group_rare	true	false	bound		false
 hkrul_harald_king	true	hkrul_harald_king		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	passive		false
 hkrul_sarl_hunters	false	hkrul_sarl_hunters		wh_type_augment		wh_main_anc_group_uncommon	false	false	passive		false
-hkrul_hildr_brew	true	hkrul_soren_brew		wh_type_area_of_regeneration		wh_main_anc_group_rare	true	false	active		false
+hkrul_hildr_brew	true	hkrul_hildr_brew		wh_type_area_of_regeneration		wh_main_anc_group_rare	true	false	active		false
 hkrul_hildr_axe	true	hkrul_hildr_axe		wh_type_area_of_hexes		wh_main_anc_group_unique	true	false	passive		false
 scm_norsca_unit_passive_death_shockwave	false	wh2_main_weapon_bound_reaver_bow		wh_type_explosion		wh_main_anc_group_common	false	false	passive		false
 hkrul_ulfric_ymir	false	hkrul_ulfric_ymir		wh_type_hex		wh_main_anc_group_uncommon	false	false	passive		false

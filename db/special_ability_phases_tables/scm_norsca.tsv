@@ -83,7 +83,7 @@ hkrul_ulfric_pas_shield	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.000
 hkrul_harald_king	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_ward_save_all		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_sarl_hunters	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_hildr_hunt	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
-hkrul_hildr_brew	15.0000	positive		false	false	0.0000	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0		wh2_dlc10_item_abilities_star_of_avelorn		false	true	true	0.0000			false	0.0080	0.0000	false	0.0000
+hkrul_hildr_brew	15.0000	positive		false	false	-0.0100	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0		hkrul_hildr_brew		false	true	true	0.0000			false	0.0090	0.0000	false	0.0000
 hkrul_hildr_axe_ally	15.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_hildr_axe_enemy	15.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_debuff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_ulfric_ymir	-1.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_debuff_defence_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
@@ -96,5 +96,5 @@ rhox_skald_guardian_cadence_upgraded	-1.0000	positive		false	false	0.0000	0.0000
 rhox_skald_fury_call_upgraded	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	false	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_skald_horn_passive	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_skald_drum_passive	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
-hkrul_skald_saga	5.0000	positive		false	false	-0.0100	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_morale		false	true	true	0.0000			false	0.0080	0.0000	false	0.0000
+hkrul_skald_saga	6.0000	positive		false	false	-0.0100	0.0000	0.0000	1.0000	0	0	false	0.0000	0.0000	false	0		hkrul_skald_brew		false	true	true	0.0000			false	0.0080	0.0000	false	0.0000
 hkrul_skraevold_fury	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000

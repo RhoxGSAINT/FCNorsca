@@ -21,3 +21,7 @@ id	choice_key	dilemma_key	payload_key	value	target_key
 1156146854	SECOND	bjornling_dilemma_fish_overload	FACTION_POOLED_RESOURCE_TRANSACTION	RESOURCE[rhox_bjornling_fish];FACTOR[rhox_bjornling_fish_sell];AMOUNT[-350];REQUIRED;CONTEXT[absolute]	default
 1156146853	FIRST	bjornling_dilemma_fish_overload	FACTION_POOLED_RESOURCE_TRANSACTION	RESOURCE[rhox_bjornling_fish];FACTOR[rhox_bjornling_fish_sell];AMOUNT[-350];REQUIRED;CONTEXT[absolute]	default
 1156146852	THIRD	bjornling_dilemma_fish_overload	FACTION_POOLED_RESOURCE_TRANSACTION	RESOURCE[rhox_bjornling_fish];FACTOR[rhox_bjornling_fish_sell];AMOUNT[-350];REQUIRED;CONTEXT[absolute]	default
+1156146856	FIRST	hkrul_olaf_turn_seven_incident	ADD_ANCILLARY	ANCILLARY_KEY[hkrul_crimson_rain_1]	default
+1156146857	SECOND	hkrul_olaf_turn_seven_incident	ADD_ANCILLARY	ANCILLARY_KEY[hkrul_crimson_rain_2]	default
+1156146858	FIRST	hkrul_olaf_turn_seven_incident	SPAWN_AGENT	AGENT[wizard];AP_FACTOR[1.0]	default
+1156146859	SECOND	hkrul_olaf_turn_seven_incident	SPAWN_AGENT	AGENT[wizard];AP_FACTOR[1.0]	default

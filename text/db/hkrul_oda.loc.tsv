@@ -53,3 +53,8 @@ unit_abilities_tooltip_hkrul_oda_shield2	“No wall stood that day — but she d
 unit_abilities_onscreen_name_hkrul_oda_shield2	Skjoldrheim's Respite	false
 ancillaries_colour_text_hkrul_oda_shield	Forged in secret during the Long Cold by the shieldmaidens of Skjold, Skjoldrheim is more than a shield — it is a symbol of lineage, sacrifice, and survival. Crafted from lack alderwood soaked in glacier-water, reinforced with riveted storm-steel, and bound with braided horsehair, its surface bears no heraldry. Instead, it is carved with deep runes of defiance and ancestral oathmarks — each notch a battle stood, not fled. Passed down through the matriarchal lines of shieldmaidens, the shield was said to have once held fast against a three-day siege at the Howling Steps	false
 ancillaries_onscreen_name_hkrul_oda_shield	Skjoldrheim	false
+unit_abilities_tooltip_text_hkrul_oda_spear	Sworn to the storm and cast with purpose, it never falters, never veers, and never misses.	false
+unit_abilities_onscreen_name_hkrul_oda_spear	Hrafnsvartr	false
+effects_description_hkrul_oda_spear	Ability: "Hrafnsvartr"	false
+ancillaries_colour_text_hkrul_oda_spear	Forged in the howling winds atop the Cliffs of Skjold, this spear bears ancient runes that bind it to the northern gales and the will of the Valkyries. When hurled by Oda Winterclaw, Hrafnsvartr becomes a streak of silver fury, its oath-bound course unbroken by shield, spell, or stone. It is said the spear listens only to Oda’s hand and the winds that guide it, returning to her grip when her enemies lie pierced and broken. To see it thrown is to glimpse the wrath of the storm made manifest.	false
+ancillaries_onscreen_name_hkrul_oda_spear	Hrafnsvartr	false

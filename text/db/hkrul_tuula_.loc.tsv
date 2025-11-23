@@ -44,3 +44,6 @@ ancillaries_onscreen_name_hkrul_tuula_chariot	Khornate Chariot	false
 loading_screen_quotes_description_hkrul_tuula	Silent in step and savage in strike, Tuula leads not with rage, but with cold, crimson purpose.	false
 loading_screen_quotes_title_hkrul_tuula	Tuula Bloodhair	false
 loading_screen_quotes_bulletpoints_hkrul_tuula	[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry	false
+effects_description_hkrul_tuula_mark	Passive Ability: "Crimson Bride"	false
+unit_abilities_onscreen_name_hkrul_tuula_mark	Crimson Bride	true
+unit_abilities_tooltip_text_hkrul_tuula_mark	Bound by blood and fury, Tuula fights with savage grace when her beloved Olaf is near.	true
