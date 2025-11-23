@@ -1,0 +1,8 @@
+key	mission_type	localised_title	localised_description	ui_image	ui_icon	generate	prioritised	event_category	set_piece_battle	location_x	location_y	quest_mission	quest_mission_final	trigger_radius	quest_character	sticky_by_default	localised_mission_completed_text	can_be_manually_cancelled
+#missions_tables;0;db/missions_tables/hkrul_norsca_olaf																		
+hkrul_olaf_spear_0	ACHIEVE_CHARACTER_RANK			nor/generic	rom_event_mission.png	false	false	Quest		0	0	true	false	0.0000		true		false
+hkrul_olaf_spear_1	MOVE_TO_REGION			nor/generic	rom_event_mission.png	false	false	Quest		0	0	true	false	0.0000		true		false
+hkrul_olaf_spear_2	SCRIPTED			nor/generic	rom_event_mission.png	false	false	Quest		0	0	true	false	0.0000		true		false
+hkrul_olaf_spear_3	SCRIPTED			nor/generic	rom_event_mission.png	false	false	Quest		0	0	true	false	0.0000		true		false
+hkrul_olaf_spear_4	SCRIPTED			nor/generic	rom_event_mission.png	false	false	Quest		0	0	true	false	0.0000		true		false
+hkrul_olaf_spear_5	SCRIPTED			nor/generic	rom_event_mission.png	false	false	Quest		0	0	true	false	0.0000		true		false

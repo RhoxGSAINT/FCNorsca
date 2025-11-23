@@ -1,0 +1,14 @@
+id	mission_key	payload_key	status_key	value	target_key
+#cdir_events_mission_payloads_tables;2;db/cdir_events_mission_payloads_tables/hkrul_norsca_olaf					
+817572124	hkrul_olaf_spear_0	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+817572125	hkrul_olaf_spear_0	TREASURY	SUCCESS	AMOUNT[1000]	default
+817572126	hkrul_olaf_spear_1	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+817572127	hkrul_olaf_spear_1	TREASURY	SUCCESS	AMOUNT[1000]	default
+817572128	hkrul_olaf_spear_2	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+817572129	hkrul_olaf_spear_2	TREASURY	SUCCESS	AMOUNT[1000]	default
+817572130	hkrul_olaf_spear_3	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+817572131	hkrul_olaf_spear_3	TREASURY	SUCCESS	AMOUNT[1000]	default
+817572132	hkrul_olaf_spear_4	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+817572133	hkrul_olaf_spear_4	TREASURY	SUCCESS	AMOUNT[1000]	default
+817572134	hkrul_olaf_spear_5	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+817572135	hkrul_olaf_spear_5	TREASURY	SUCCESS	AMOUNT[1000]	default

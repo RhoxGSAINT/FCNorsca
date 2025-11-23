@@ -1,6 +1,5 @@
 effect	icon	priority	icon_negative	category	is_positive_value_good
 #effects_tables;0;db/effects_tables/hkrul_nor_surp					
-hkrul_enable_immortality		0		campaign	true
 hkrul_olg_time	turns.png	130	turns.png	campaign	false
 hkrul_olg_helm	item_ability.png	300	item_ability.png	battle	true
 hkrul_olg_axe	item_ability.png	300	item_ability.png	battle	true
@@ -20,9 +19,30 @@ hkrul_heroes_def	defence.png	432	defence.png	battle	true
 hkrul_olaf_mammoth	mount.png	50	mount.png	both	true
 hkrul_olaf_spear_dummy	hkrul_effect_bundle_olaf.png	1	hkrul_effect_bundle_olaf.png	campaign	true
 hkrul_olaf_income_raiding	income.png	101	income.png	campaign	true
+hkrul_norsca_economy_buff	income.png	101	income.png	campaign	true
 hkrul_berus_spit	item_ability.png	300	item_ability.png	battle	true
+hkrul_kammler_time	item_ability.png	300	item_ability.png	battle	true
+hkrul_kammler_hand	item_ability.png	300	item_ability.png	battle	true
 hkrul_berus_helm	item_ability.png	300	item_ability.png	battle	true
 hkrul_usta_spit	item_ability.png	300	item_ability.png	battle	true
+hkrul_orgrim_axe	item_ability.png	300	item_ability.png	battle	true
 hkrul_usta_helm	item_ability.png	300	item_ability.png	battle	true
+hkrul_hafskael_charm	item_ability.png	300	item_ability.png	battle	true
 hkrul_usta_time	turns.png	130	turns.png	campaign	false
 hkrul_berus_time	turns.png	130	turns.png	campaign	false
+hkrul_olg_ror	melee.png	154	melee.png	battle	true
+hkrul_hafskael_time	turns.png	130	turns.png	campaign	false
+hkrul_hafskael_shield	item_ability.png	300	item_ability.png	battle	true
+hkrul_hafskael_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_yngve_eye	item_ability.png	300	item_ability.png	battle	true
+hkrul_orgrim_morale_khorne	morale.png	79	morale.png	battle	false
+hkrul_berus_eye	item_ability.png	300	item_ability.png	battle	true
+hkrul_berus_axe	item_ability.png	300	item_ability.png	battle	true
+hkrul_hafskael_longship_ws	ranged_damage.png	300	ranged_damage.png	battle	true
+hkrul_hafskael_longship_mass	mass.png	300	mass.png	battle	true
+hkrul_upkeep_heroes_campaign_test	military_spending.png	99	military_spending.png	campaign	false
+hkrul_hafskael_longship_upkeep	military_spending.png	99	military_spending.png	campaign	false
+hkrul_skald_global_upkeep	military_spending.png	99	military_spending.png	campaign	false
+hkrul_hafskael_longship_time	turns.png	130	turns.png	campaign	false
+hkrul_hafskael_longship_time_local	turns.png	130	turns.png	campaign	false
+hkrul_hafskael_dummy	hkrul_effect_bundle_hafskael.png	300	hkrul_effect_bundle_hafskael.png	campaign	true

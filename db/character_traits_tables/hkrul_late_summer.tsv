@@ -1,0 +1,5 @@
+key	no_going_back_level	hidden	precedence	icon	ui_priority	pre_battle_speech_parameter	remove_on_skill_reset
+#character_traits_tables;3;db/character_traits_tables/hkrul_late_summer							
+hkrul_defeated_trait_goftur	1	false	1	hkrul_goftur	1		false
+hkrul_defeated_trait_grydal	1	false	1	hkrul_grydal	1		false
+hkrul_defeated_trait_skoroth	1	false	1	hkrul_skoroth	1		false

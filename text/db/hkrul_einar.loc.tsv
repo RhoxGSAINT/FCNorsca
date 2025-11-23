@@ -117,11 +117,12 @@ missions_localised_title_rhox_baersonling_chain_2	Palace of the Plaguelord: Whis
 missions_localised_description_rhox_baersonling_chain_2	Reach rank 5 to begin forging the strength needed to shape your fate and challenge the will of the gods. A leader’s worth is not born but carved in the fires of battle.	false
 missions_localised_title_rhox_baersonling_chain_3	Palace of the Plaguelord: Ashes of Vinnskor	false
 missions_localised_description_rhox_baersonling_chain_3	Take back the remains of Vinnskor and restore a foothold for your scattered people. Begin rebuilding the future from ash and memory. From shattered stones, the Baerson legacy will rise anew	false
-missions_localised_title_rhox_baersonling_chain_4	Palace of the Plaguelord: The Witch or The Wolf	false
+missions_localised_title_rhox_baersonling_chain_4	Palace of the Plaguelord: The Witch	false
+missions_localised_title_rhox_baersonling_chain_4b	Palace of the Plaguelord: The Wolf	false
 missions_localised_description_rhox_baersonling_chain_4b	The wild path calls. Recruit two Werekin heroes to lead your fury across the blighted North. Let tooth and claw be your guide through the dark woods ahead.	false
 missions_localised_description_rhox_baersonling_chain_4	Winds of sorcery stir. Recruit two Shaman Sorcerers to guide you through Tzeentch’s twisting schemes. The skein of fate is tangled—only the witches may know how to pull the right thread.	false
 missions_localised_title_rhox_baersonling_chain_5	Palace of the Plaguelord: The Icy Crossing	false
-missions_localised_description_rhox_baersonling_chain_5	Raid the Monolith of Bubonicus, defiling Nurgle’s claim and staking your place in the Wastes.Let your warband's banner be planted in blight, not bowed before it.	false
+missions_localised_description_rhox_baersonling_chain_5	Raid the Monolith of Bubonicus, defiling Nurgle’s claim and staking your place in the Wastes. Let your warband's banner be planted in blight, not bowed before it.	false
 missions_localised_title_rhox_baersonling_chain_6	Palace of the Plaguelord: The Rotborn Gatekeeper	false
 missions_localised_description_rhox_baersonling_chain_6	Defeat Bubos the Plague-Dragon who guards the Lake of Rot. The path to the Plaguelord’s Palace lies beyond. One winged beast blocks your path—tear it from the sky.	false
 missions_localised_title_rhox_baersonling_chain_7	Palace of the Plaguelord: The Final Push	false
@@ -147,3 +148,32 @@ incidents_localised_description_rhox_baersonling_chain_0	You have fled with your
 incidents_localised_title_rhox_baersonling_chain_0	The Dream of Vinnskor	false
 ancillaries_colour_text_hkrul_bubos_eye	This sickly, jaundiced orb was hacked from the skull of Bubos, the Dragon of the Lakes of Rot. Though long dead, the eye still weeps pus and stares unblinking into realms unseen. Those who bear it feel a slow pulse of festering power, as if the eye is ever searching, ever watching — draining the life of nearby foes with its lingering, necrotic glare.	false
 ancillaries_onscreen_name_hkrul_bubos_eye	Eye of Bubos	false
+dilemmas_localised_title_rhox_baersonling_chain_3	Pact at the Grave	false
+dilemmas_localised_description_rhox_baersonling_chain_3	Einarr kneels where Asta died, the ruins silent around him. The raven returns—and this time, it reveals its true form. It is no mere bird, but the Raven God himself: Tzeentch. He offers a pact: reclaim an artifact stolen by Nurgle, and time itself shall be turned back. Asta, Vinnskor, all may be restored. But no path is free of cost. To reach the Palace of Nurgle, Einarr must gather strength. He must choose his allies—will it be the witch or the wolf?	false
+dilemmas_localised_title_rhox_baersonling_chain_5	The Two Hosts	false
+dilemmas_localised_description_rhox_baersonling_chain_5	Two armies clash in the mist: one a host of shimmering sorcery, the other of iron and rage. Scouts whisper that both armies seek to slay Bubos, the dragon that guards the gate to the Palace of Nurgle. Surely, should Einarr aid one, they would reveal its location. Tzeentch urges a decision. There is no neutrality in the Wastes. Will you side with the cultist or the warrior?	false
+dilemmas_localised_title_rhox_baersonling_chain_8	Choose Your Fate	false
+dilemmas_localised_description_rhox_baersonling_chain_8	Skoroth is dead. The raven speaks again—but now in a voice like cracking ice. It is no longer Tzeentch, but Yth’nitzzilik, daemon of deceit. You were never dealing with a god. The pact was a lie, the promise a poison. But the Festerheart lies in your hands, pulsing. Asta... could yet return. You feel betrayed, tricked—and yet, what choice remains?	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_3FIRST	Champion	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_3FIRST	Champion	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_3SECOND	Wizard	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_3SECOND	Wizard	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_5FIRST	Warrior	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_5FIRST	Warrior	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_5SECOND	Cultist	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_5SECOND	Cultist	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8FIRST	Accept Bargain	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8FIRST	Accept Bargain	false
+cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8SECOND	Keep the Festerhearth	false
+cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8SECOND	Keep the Festerhearth	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_usta_joins	Usta the Witch joins your army	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_orgrim_joins	Orgrim the Wanderer joins your army	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_berus_joins	Berus of Veigs joins your army	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_kammler_joins	Ernst von Kammler joins your army	false
+campaign_payload_ui_details_description_rhox_baersonling_asta_joins	Asta will return	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_festerheart	Daemons will attack you	false
+missions_localised_title_hkrul_baerson_einar_palace_battle	missions_localised_title_hkrul_baerson_einar_palace_battle	false
+missions_localised_description_hkrul_baerson_einar_palace_battle	missions_localised_description_hkrul_baerson_einar_palace_battle	false
+missions_localised_mission_completed_text_hkrul_baerson_einar_palace_battle		false
+effect_bundles_localised_title_rhox_baersonling_teleport	Access to teleport	false
+effect_bundles_localised_description_rhox_baersonling_teleport	Free Wifu and free Wifi teleport	false

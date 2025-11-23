@@ -1,0 +1,103 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_goftur_.loc		
+character_skills_localised_name_innate_hkrul_goftur	Tide-Turner	true
+character_skills_localised_description_innate_hkrul_goftur	“Mermedus feeds — and we must keep him full.”	true
+character_skills_localised_name_hkrul_goftur_special_1_0	Salt-Father’s Tithe	true
+character_skills_localised_name_hkrul_goftur_special_1_1	Shark-Bitten Blessing	true
+character_skills_localised_name_hkrul_goftur_special_1_2	Waveborne Savagery	true
+character_skills_localised_name_hkrul_goftur_special_1_3	Bone and Brine	true
+character_skills_localised_name_hkrul_goftur_special_1_4	Harbour Infestation	true
+character_skills_localised_name_hkrul_goftur_special_1_5	Barnacled Hide	true
+character_skills_localised_name_hkrul_goftur_special_1_6	Salt-Scourge Legacy	true
+character_skills_localised_description_hkrul_goftur_special_1_0	Gröftur is the mouthpiece of Mermedus, and his sermons are delivered in drowned tongues, with offerings of flesh, rope, and black salt.	true
+character_skills_localised_description_hkrul_goftur_special_1_1	Fiskauga — “Fish-Eye” — is both a name and a curse. Gröftur’s gaze sees into the soul, into guilt and weakness. 	true
+character_skills_localised_description_hkrul_goftur_special_1_2	Fishermen whisper that he can command sharks to hunt ships. Soldiers fear the tide when he walks the beach. And nobles… they simply go missing.	true
+character_skills_localised_description_hkrul_goftur_special_1_3	Teeth like iron, eyes like oil — it does not eat. It punishes.	true
+character_skills_localised_description_hkrul_goftur_special_1_4	The cult of seaborne madmen, deep-mutants, and druidic drown-priests who infest coasts and deltas with salt, rot, and ruin.	true
+character_skills_localised_description_hkrul_goftur_special_1_5	Scaled and sodden, he reeks of salt and old blood. He wears sea-rags and driftbones.	true
+character_skills_localised_description_hkrul_goftur_special_1_6	There is no mercy in Mermedus, and less still in Gröftur. His faith is absolute.	true
+agent_subtypes_description_text_override_hkrul_goftur	“Drown your doubt. Only salt remains.”	false
+agent_subtypes_onscreen_name_override_hkrul_goftur	Legendary Lord	false
+unit_abilities_onscreen_name_hkrul_goftur_shield_pas	Shields Raised!	true
+unit_description_short_texts_text_hkrul_goftur	Eyes like fish, skin like kelp — and a voice that summons the drowned.	false
+names_name_7610711234	Gröftur	false
+names_name_7610711233	Fiskauga	false
+land_units_onscreen_name_hkrul_goftur	Gröftur Fiskauga	true
+character_skills_localised_name_hkrul_goftur_special_0_1	Seafarers' Shrine	true
+character_skills_localised_name_hkrul_goftur_special_0_2	Servants of Mermedus	true
+character_skills_localised_description_hkrul_goftur_special_0_1	"Pray the tide takes your ship. The cult takes far worse."	true
+character_skills_localised_description_hkrul_goftur_special_0_2	Beneath the waves, they chant to the Deep God — a hunger older than Chaos, demanding offerings of blood, bone, and drowned breath. His servants walk the shore in salt-crusted rags, bearing hooks, kelp, and madness.	true
+effects_description_hkrul_goftur_helm	Passive Ability: "Oseberg's Bulwark"	false
+effects_description_hkrul_goftur_shield	Ability: "PLACEHOLDER"	false
+effects_description_hkrul_goftur_rally	Ability: "The Drakkenguard"	false
+effects_description_hkrul_goftur_sword	Passive Ability: "Brinefangs of Mermedus"	false
+unit_abilities_tooltip_text_hkrul_goftur_shield_pas	Having commanded the most staunch of shieldwalls, Geimdall knows timing is everything when it comes to raising those shields.	true
+unit_abilities_onscreen_name_hkrul_goftur_sword	Brinefangs of Mermedus	true
+unit_abilities_tooltip_text_hkrul_goftur_sword	Sharks kill to eat. The Fang-blades kill to please.	true
+unit_abilities_tooltip_text_hkrul_goftur_rally	A vessel of legend, Drakkenguard was built from the ribs of a leviathan felled by Bjornling warriors and bound with iron said to be blessed by the gods. It does not sail—it hunts.	true
+unit_abilities_onscreen_name_hkrul_goftur_rally	The Drakkenguard	true
+unit_abilities_onscreen_name_hkrul_goftur_helm	Oseberg's Bulwark	true
+unit_abilities_tooltip_text_hkrul_goftur_helm	The finest Huscarl from the legendary settlement of Oseberg rallies at the thought of timeless battle, hardening his resolve at every blow delt and recieved.	true
+unit_abilities_onscreen_name_hkrul_goftur_shield	PLACEHOLDER	true
+effects_description_hkrul_goftur_shield_pas	Passive Ability: "Shields Raised!"	false
+unit_abilities_tooltip_text_hkrul_goftur_shield	PLACEHOLDER	true
+ancillaries_onscreen_name_hkrul_goftur_sword	Brinefangs of Mermedus	false
+ancillaries_colour_text_hkrul_goftur_sword	Foul with salt-crust and still damp with offerings, the Brinefangs are sacred relics of the cult — twin shark-tooth sabres pulled from the rotting jaws of the Sea-Father’s first Leviathan. Bound in skin-twine and teeth, each blade was tempered not by flame, but by submersion in sacrificial blood under a new moon. Brinefangs are not forged for balance, nor elegance. They are ritual implements, designed to rip, tear, and poison.	false
+unit_description_historical_texts_text_hkrul_goftur	Gröftur Fiskauga was not always a prophet. Once, he was merely a deep-sea scavenger — a fisher of wrecks, half-mad and soaked with brine. But after vanishing beneath the waves for thirteen days during a storm, he returned changed. His eyes — bulbous, pale, and unblinking — see truths others cannot. He claims to have stood before Mermedus, the Shark-God, and received a mission: to drown the false world above and raise a new one, barnacled and blessed. Now, he leads the Servants of Mermedus: a cult of seaborne madmen, deep-mutants, and druidic drown-priests who infest coasts and deltas with salt, rot, and ruin.	false
+character_trait_levels_onscreen_name_hkrul_defeated_trait_goftur	Barnacle-Breaker	true
+character_trait_levels_colour_text_hkrul_defeated_trait_goftur	"Scraped his slime off the hull, didn't we?"	true
+character_trait_levels_explanation_text_hkrul_defeated_trait_goftur	Defeated Gröftur Fiskauga	true
+land_units_onscreen_name_hkrul_shark_1	Dregmaw Shark	true
+unit_description_short_texts_text_hkrul_shark_1	Risen from shipwrecked depths, it hunts where corpses drift.	false
+unit_abilities_onscreen_name_hkrul_shark_augment	Mermedus’ Hunter	false
+unit_abilities_tooltip_text_hkrul_shark_augment	A white belly breaching from below — then blood.	false
+agent_subtypes_onscreen_name_override_hkrul_mermedus	Legendary Lord	false
+agent_subtypes_description_text_override_hkrul_mermedus	Twice the size, thrice the rage — Gröftur now wears the shape of his god: hulking, finned, and soaked in salt-blood.	false
+unit_description_short_texts_text_hkrul_mermedus	Twice the size, thrice the rage — Gröftur now wears the shape of his god: hulking, finned, and soaked in salt-blood.	false
+unit_description_historical_texts_text_hkrul_mermedus	Once a sodden prophet muttering gospels to the tide, Gröftur Fiskauga now is the tide. His body has twisted under the unholy eye of Mermedus, swollen with seawater, layered with slick hide, and crowned with jagged fins. His head has taken the shape of a monstrous shark — all teeth, hate, and hunger — and his voice no longer carries riddles, but thunder. Gone is the slouching preacher; in his place stands a creature of the deep: scaled, gilled, and cloaked in seawrack. He walks with the weight of the ocean behind him, smashing through formations like a living tempest. Each swing of his coral-laced weapon leaves trails of blood and salt. He no longer spreads faith with words — he spreads it through devastation.	false
+names_name_7610711236	Gröftur	false
+names_name_7610711235	Fiskauga	false
+land_units_onscreen_name_hkrul_mermedus	Gröftur Fiskauga	true
+units_custom_battle_types_localised_description_hkrul_gofturhkrul_mermedustype_mark	The Brine-Ascension	false
+units_custom_battle_types_type_name_hkrul_gofturhkrul_mermedustype_mark	Avatar of Mermedus	false
+unit_abilities_onscreen_name_hkrul_goftur_shark_summon	Summon Dregmaw Shark	true
+unit_abilities_tooltip_text_hkrul_goftur_shark_summon	Risen from shipwrecked depths, Dregmaw hunts where corpses drift.	true
+effects_description_hkrul_goftur_shark_summon	Ability: "Summon Dregmaw"	false
+unit_abilities_onscreen_name_hkrul_goftur_bite	Tenth Tooth's Claim	true
+unit_abilities_tooltip_text_hkrul_goftur_bite	A spectral jaw closes, dragging the marked soul toward the deep.	true
+effects_description_hkrul_goftur_bite	Ability: "Tenth Tooth's Claim"	false
+ancillaries_onscreen_name_hkrul_goftur_token	Teeth of the Tenth Tide	false
+ancillaries_colour_text_hkrul_goftur_token	This necklace bears ten ancient shark teeth, each yellowed, jagged, and inscribed with glyphs only the drowned can read. The Tenth Tide refers to a ritual massacre in the age before maps, where ten longships full of thralls were dragged beneath the waves as an offering to Mermedus. None returned. But the next morning, the tide delivered these teeth to shore — perfectly arranged in the shape of a maw. Woven into sinew cord and soaked in sacred brine, the Teeth of the Tenth Tide pulse with the rhythm of the sea. When worn, the air grows wet and heavy, and whispers are heard through conch and foam. The relic is a mark of divine favour — and a warning. To wear it is to be seen by Mermedus.	false
+effects_description_hkrul_goftur_vigor_sea	Vigour loss reduction: %+n% when fighting at sea	false
+effects_description_hkrul_goftur_vanguard_sea	Attribute: Vanguard Deployment when fighting at sea	false
+effects_description_hkrul_goftur_ror_dummy	Maulkern the Ravager is unlocked as a Regiment of Renown	false
+unit_abilities_onscreen_name_hkrul_goftur_children	Saltfather’s Favour	true
+unit_abilities_tooltip_text_hkrul_goftur_children	The sea stirs in their blood, and every strike lands with crashing fury.	true
+effects_description_hkrul_goftur_children	Ability: "Saltfather’s Favour"	false
+unit_abilities_onscreen_name_hkrul_goftur_wave	Saltwave Collapse	false
+effects_description_hkrul_goftur_wave	Ability: "Saltwave Collapse"	false
+unit_abilities_tooltip_text_hkrul_goftur_wave	An unstoppable surge of brine and bone that leaves nothing standing in its wake.	false
+unit_abilities_onscreen_name_hkrul_shark_augment_2	Reefbound Hide	false
+effects_description_hkrul_shark_augment_2	Ability: "Reefbound Hide" for Harrowfin	false
+unit_abilities_tooltip_text_hkrul_shark_augment_2	With every strike, the skin toughens — barnacles blooming in defence.	false
+land_units_onscreen_name_hkrul_shark_2	Harrowfin	true
+unit_description_short_texts_text_hkrul_shark_2	Blessed by the Sea-Father to endure, to crush, and to drag down.	false
+unit_description_historical_texts_text_hkrul_shark_2	Harrowfin is no ordinary sea-beast. It is said to have been born not of reef or womb, but of prayer — a living monument to the durability and cruelty of the deep. With a skull shaped like a wave-worn anvil and hide like blackened reef-stone, Harrowfin swims through battle with eerie calm. Blades glance off its barnacled skin. Harpoons snap. Even fire struggles to leave a mark.	false
+effects_description_hkrul_goftur_avatar	Ability: "Gift of Mermedus" after being bestowed Mermedus' Blessing	false
+unit_abilities_tooltip_text_hkrul_goftur_avatar	Wounds vanish beneath ridged growth, thick as sunken hulls and sharp as broken oars.	false
+unit_abilities_onscreen_name_hkrul_goftur_avatar	Gift of Mermedus	false
+land_units_onscreen_name_hkrul_shark_3	Maulkern the Ravager	true
+unit_description_short_texts_text_hkrul_shark_3	Named after the whirlpool it once emerged from. Its bulk turns tides. Its hunger empties coasts.	false
+unit_description_historical_texts_text_hkrul_shark_3	Maulkern is no mere sea-beast. It is a nightmare dredged from the crushing dark beneath the western ice trenches, where not even daemons dare swim. First sighted when it rose from a seething whirlpool — the Maulkern Pit — and swallowed an entire Bjornling longship whole, it has since become the whispered terror of sailors and prophets alike.	false
+effect_bundles_localised_description_hkrul_goftur_faction_trait	From salt-stung cliffs and kelp-choked halls, they rise bearing the Sea-Father’s creed. Their blades drip brine and sacrifice; their prayers drown louder than storm or surf. They do not trade. They do not build. They drag the world back to the deep. Mermedus calls — and the tide answers in blood.	false
+effect_bundles_localised_title_hkrul_goftur_faction_trait	Cult of Mermedus	false
+effects_description_hkrul_goftur_cry	Ability: "Tidemaw Embrace"	false
+unit_abilities_tooltip_text_hkrul_goftur_cry	From the shallows, his limbs rise — wet, coiling, inescapable.	false
+unit_abilities_onscreen_name_hkrul_goftur_cry	Tidemaw Embrace	false
+unit_abilities_tooltip_text_hkrul_goftur_augment	Salt awakens something ancient — rage shaped by tide, sharpened by hunger.	false
+unit_abilities_onscreen_name_hkrul_goftur_augment	Abyss-Frenzy	false
+frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_nor_cult_of_mermedus	The Galleon’s Graveyard is no place for the living. Shattered hulls lie twisted like bones beneath the waves, the wreckage of Elven skycutters, Bretonnian warships, and black-flagged pirates alike — all claimed by the Sea-Father’s hunger. Here, in this salt-choked tomb of empires, Gröftur Fiskauga begins his sacred hunt. From the decks of his kelp-bound fleet, he watches as rival sea-lords arrive, daring to plunder Mermedus’ domain. But the sharks stir. The tide thickens. And blood is promised. Gröftur does not conquer — he drags the world down, one vessel at a time. The Deepgod waits. Feed him.	false
+incidents_button_text_hkrul_goftur_turn_two_incident	Begin the Drowning	false
+incidents_localised_description_hkrul_goftur_turn_two_incident	The tide is thick with salt and portent. Fish beach themselves. Waves crash against the rocks in unnatural rhythms. Mermedus watches — not as a god content with prayer, but as a predator awaiting tribute. Your fleet is ready. Your sharks are hungry. Now is the time to begin the rites of offering. Sink the unworthy. Drown the landborn. Spread his shadow like an oil slick across the sea. Earn his favour — or vanish beneath it.	false
+incidents_localised_title_hkrul_goftur_turn_two_incident	Mermedus Stirs	false
+frontend_faction_leaders_loading_screen_text_mixer_nor_cult_of_mermedus	The Galleon’s Graveyard is no place for the living. Shattered hulls lie twisted like bones beneath the waves, the wreckage of Elven skycutters, Bretonnian warships, and black-flagged pirates alike — all claimed by the Sea-Father’s hunger. Here, in this salt-choked tomb of empires, Gröftur Fiskauga begins his sacred hunt. From the decks of his kelp-bound fleet, he watches as rival sea-lords arrive, daring to plunder Mermedus’ domain. But the sharks stir. The tide thickens. And blood is promised. Gröftur does not conquer — he drags the world down, one vessel at a time. The Deepgod waits. Feed him.	false

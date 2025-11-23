@@ -1,11 +1,12 @@
 character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
 #battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/hkrul_nor_surp												
-hkrul_olg	1	2147343937		100	2147343940	hkrul_olg	champion	hkrul_olg	ui/portraits/portholes/wh_main_emp_empire/hkrul_olg.png	266555936		true
+hkrul_olg	1	2147343937		100	2147343940	hkrul_olg	champion	hkrul_olg	ui/portraits/portholes/no_culture/hkrul_olg.png	266555936		true
 hkrul_tuula	1	2147343937		100	2147343940	hkrul_tuula	champion	hkrul_tuula	ui/portraits/portholes/no_culture/hkrul_tuula.png	266555937		true
 hkrul_haftagg	1	2147343937		100	2147343940	hkrul_haftagg	champion	hkrul_haftagg	ui/portraits/portholes/no_culture/hkrul_haftagg.png	266555938		true
 hkrul_olaf	1	2147343937		100	2147343940	hkrul_olaf	general	hkrul_olaf	ui/portraits/portholes/no_culture/hkrul_olaf.png	266555939		true
 hkrul_orgrim	1	2147343937		100	2147343940	hkrul_orgrim	champion	hkrul_orgrim	ui/portraits/portholes/no_culture/hkrul_orgrim.png	266555940		true
-hkrul_berus	1	2147343937		100	2147343940	hkrul_berus	champion	hkrul_berus	ui/portraits/portholes/wh_main_emp_empire/hkrul_olg.png	266555941		true
+hkrul_berus	1	2147343937		100	2147343940	hkrul_berus	champion	hkrul_berus	ui/portraits/portholes/no_culture/hkrul_berus.png	266555941		true
 hkrul_usta	1	2147343937		100	2147343940	hkrul_usta	wizard	hkrul_usta	ui/portraits/portholes/no_culture/hkrul_usta.png	266555942		true
 hkrul_kammler	1	2147343937		100	2147343940	hkrul_kammler	wizard	hkrul_kammler	ui/portraits/portholes/no_culture/hkrul_kammler.png	266555943		true
 hkrul_eyri	1	2147343937		100	2147343940	hkrul_eyri	general	hkrul_eyri	ui/portraits/portholes/no_culture/hkrul_eyri.png	266555947		true
+hkrul_hafskael	1	2147343937		100	2147343940	hkrul_hafskael	champion	hkrul_hafskael	ui/portraits/portholes/no_culture/hkrul_hafskael.png	266555948		true

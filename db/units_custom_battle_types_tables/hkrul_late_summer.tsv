@@ -1,0 +1,4 @@
+alternate_unit	base_unit	type_category	type_icon	show_base_in_unit_list	id	colour	sort_order
+#units_custom_battle_types_tables;3;db/units_custom_battle_types_tables/hkrul_late_summer							
+hkrul_urf	hkrul_grydal	type_mark	ui/skins/default/icon_wh_main_lore_khorne.png	false	2045845485	AA0000	0
+hkrul_mermedus	hkrul_goftur	type_mark	ui/skins/default/icon_wh_main_lore_khorne.png	false	2045845486	5500FF	0

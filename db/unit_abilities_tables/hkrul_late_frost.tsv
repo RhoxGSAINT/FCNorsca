@@ -2,7 +2,7 @@ key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is
 #unit_abilities_tables;17;db/unit_abilities_tables/hkrul_late_frost											
 hkrul_mortensen_shield	true	hkrul_mortensen_prayer2		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_mortensen_axe	true	hkrul_mortensen_axe		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
-hkrul_geimdall_rally	true	hkrul_geimdall_rally		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	active		false
+hkrul_geimdall_rally	true	hkrul_hildr_cry		wh_type_area_of_augments		wh_main_anc_group_uncommon	true	false	active		false
 hkrul_geimdall_shield_pas	true	hkrul_geimdall_raise		wh_type_area_of_augments		wh_main_anc_group_unique	true	false	passive		false
 hkrul_geimdall_helm	true	hkrul_geimdall_helm		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
 hkrul_geimdall_sword	true	hkrul_geimdall_sword2		wh_type_breath		wh_main_anc_group_rare	true	false	active		false
@@ -22,3 +22,4 @@ hkrul_bubos_breath	false	hkrul_bubos_breath		wh_type_magic_missiles		wh_main_anc
 hkrul_bubos_eye	false	hkrul_bubos_eye		wh_type_area_of_direct_damage		wh_main_anc_group_unique	false	false	passive		false
 hkrul_bubos_eye_weak	true	hkrul_bubos_eye		wh_type_area_of_direct_damage		wh_main_anc_group_rare	false	false	passive		false
 hkrul_skraevold_fury	false	hkrul_skraevold_pas		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_godi_club	false	hkrul_godi_club		wh_type_augment		wh_main_anc_group_uncommon	true	false	active		false

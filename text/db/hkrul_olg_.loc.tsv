@@ -25,6 +25,7 @@ land_units_onscreen_name_hkrul_olg	Olg Blódsalt	true
 effects_description_hkrul_olg_helm	Passive Ability: "The Saltmask"	false
 unit_abilities_tooltip_text_hkrul_olg_helm	A Skaeling relic long thought lost, the mask fuses to its wearer and feeds them visions of drowned empires.	true
 unit_abilities_onscreen_name_hkrul_olg_helm	The Saltmask	true
+effects_description_hkrul_olg_ror	Melee attack: %+n for the Brutes of the Hound	false
 effects_description_hkrul_olg_axe	Ability: "Brinehewer"	false
 unit_abilities_tooltip_text_hkrul_olg_axe	Pitted and bloated with oxidized salt, this axe leaves a trail of hissing corrosion across the wounds it inflicts.	true
 unit_abilities_onscreen_name_hkrul_olg_axe	Brinehewer	true
@@ -44,3 +45,6 @@ character_skills_localised_name_hkrul_olg_chariot	Marauder Chariot	true
 character_skills_localised_description_hkrul_olg_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	true
 ancillaries_colour_text_hkrul_olg_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
 ancillaries_onscreen_name_hkrul_olg_chariot	Marauder Chariot	false
+effects_description_hkrul_olg_summon	Passive Ability: "Offering of Ironrot"	false
+unit_abilities_tooltip_text_hkrul_olg_summon	Cast into the sea, the rusted relic wakes ancient things best left chained.	false
+unit_abilities_onscreen_name_hkrul_olg_summon	Offering of Ironrot	false

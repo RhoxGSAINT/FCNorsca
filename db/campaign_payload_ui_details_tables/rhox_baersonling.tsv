@@ -1,0 +1,9 @@
+component	icon	state	sort_order
+#campaign_payload_ui_details_tables;2;db/campaign_payload_ui_details_tables/rhox_baersonling			
+rhox_baersonling_your_journey_continues	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_baersonling_hkrul_usta_joins	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_baersonling_hkrul_orgrim_joins	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_baersonling_hkrul_berus_joins	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_baersonling_hkrul_kammler_joins	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_baersonling_asta_joins	ui/campaign ui/effect_bundles/agent.png	positive	0
+rhox_baersonling_hkrul_festerheart	ui/campaign ui/effect_bundles/agent.png	negative	0

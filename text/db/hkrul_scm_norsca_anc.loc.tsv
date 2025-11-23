@@ -140,3 +140,62 @@ unit_abilities_tooltip_text_hkrul_norsca_shield_3	A cursed shield, taken from th
 unit_abilities_onscreen_name_hkrul_norsca_shield_3	Havoc’s Embrace	true
 ancillaries_onscreen_name_hkrul_norsca_follower_2	Yrsa Bloodsong	true
 ancillaries_colour_text_hkrul_norsca_follower_2	A skald-warrior whose songs of conquest stir the hearts of the next generation of raiders. She sings of old glories and future triumphs, her voice carrying over the din of battle, instilling courage in warriors who march to war under her verses.	true
+effects_description_hkrul_norsca_post_battle_sea_dummy	Income from post-battle loot: %+n% when fighting at sea for each confederated Norscan tribe	false
+ancillaries_onscreen_name_hkrul_norsca_ship_7	Huld’s Lantern	true
+ancillaries_colour_text_hkrul_norsca_ship_7	Its figurehead holds aloft a strange lantern — a relic gifted by the sea-witch Huld. The flame never extinguishes, even beneath crashing waves or moonless storms. It wards off leviathans and sirens, but demands payment in gold — or blood. Sometimes, the light turns blue… and the ship disappears for days.	true
+ancillaries_onscreen_name_hkrul_norsca_ship_8	Thrym's Curse	true
+ancillaries_colour_text_hkrul_norsca_ship_8	Named for a slain sea-giant, whose bones were used in the ship’s keel and frame. When blood spills aboard, the mast creaks and booms with a voice not wholly mortal. Its crew claim to hear giant-song in the rigging — a dirge of vengeance and wrath. To fight aboard Thrym’s Curse is to fight under the eye of a very old hate.	true
+ancillaries_onscreen_name_hkrul_norsca_ship_9	Brine Reaper	true
+ancillaries_colour_text_hkrul_norsca_ship_9	No wind stirs its sail, no chant lifts its oars — yet the Brine Reaper glides onward. It moves only when blood is spilled upon its barnacled deck, soaking into the rotting wood. Those who step aboard feel the deck pulse beneath their feet, as if the ship were feeding. To sail it is to serve — to bleed, to offer, to drown in Mermedus’ favour.	true
+ancillaries_onscreen_name_hkrul_norsca_ship_10	Gildwake 	true
+ancillaries_colour_text_hkrul_norsca_ship_10	Said to leave a trail of glittering coin upon the waves, Gildwake’s hull gleams with hammered gold filigree, its oars tipped in polished brass. Built in secret beneath the fjords of Varnhalv, every plank is bound with silver nails — minted, not forged. The ship is not merely a symbol of wealth, but a weapon of influence: port masters kneel as it approaches, and pirate fleets vanish mysteriously when it takes to sea. Eyri claims it can “smell gold on the tide,” and many swear it sails fastest when treasure is near. 	true
+effects_description_hkrul_kho_warriors_snaegr_md	Melee defence: %+n for Khorne warrior units[[col:red]][[i]]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
+effects_description_hkrul_grydal_siege_ma	Melee attack: %+n when laying siege or encircling	false
+effects_description_hkrul_kho_warriors_snaegr_ma	Melee attack: %+n for Khorne warrior units[[col:red]][[i]]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
+effects_description_hkrul_kho_warriors_snaegr_armour	Armour: %+n for Khorne warrior units\\n\\n[[col:red]][[i]]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
+ancillaries_onscreen_name_hkrul_norsca_fish_33	Stoneclad Flounder	false
+ancillaries_onscreen_name_hkrul_norsca_fish_34	Hookjaw Cod	false
+ancillaries_onscreen_name_hkrul_norsca_fish_35	Scalding Sea Bass	false
+ancillaries_onscreen_name_hkrul_norsca_fish_36	Green-belly Tuna	false
+ancillaries_onscreen_name_hkrul_norsca_fish_37	Ghostscale Puffer Fish	false
+ancillaries_onscreen_name_hkrul_norsca_fish_38	Wingless Valkyrie	false
+ancillaries_onscreen_name_hkrul_norsca_fish_39	Fat-bellied Octopus	false
+ancillaries_onscreen_name_hkrul_norsca_fish_40	Gold-scaled Swordfish	false
+ancillaries_onscreen_name_hkrul_norsca_fish_41	Barnacled Shrimp 	false
+ancillaries_onscreen_name_hkrul_norsca_fish_42	Duskwater Haddock	false
+ancillaries_onscreen_name_hkrul_norsca_fish_43	Boilback Flounder	false
+ancillaries_onscreen_name_hkrul_norsca_fish_44	Crimson Octopus	false
+ancillaries_onscreen_name_hkrul_norsca_fish_46	Scarred Mackerel	false
+ancillaries_onscreen_name_hkrul_norsca_fish_45	Silt-draped Salmon	false
+ancillaries_onscreen_name_hkrul_norsca_fish_47	Halgrun the Half-Giant	false
+ancillaries_onscreen_name_hkrul_norsca_fish_48	The Bottomless Chest	false
+ancillaries_onscreen_name_hkrul_norsca_fish_49	Short-eyed Anchovy	false
+ancillaries_onscreen_name_hkrul_norsca_fish_50	Compass of the Drowned North	false
+ancillaries_onscreen_name_hkrul_norsca_fish_51	Lute of Galdur-Wail	false
+ancillaries_onscreen_name_hkrul_norsca_fish_52	Thorny Shrimp	false
+ancillaries_onscreen_name_hkrul_norsca_fish_53	Gravel-tongued Swordfish	false
+ancillaries_onscreen_name_hkrul_norsca_fish_54	Spotted Tuna	false
+ancillaries_onscreen_name_hkrul_norsca_fish_55	Bearded Sea Horse	false
+ancillaries_colour_text_hkrul_norsca_fish_33	Nearly invisible on seabeds, prized for its patience and meatiness.	false
+ancillaries_colour_text_hkrul_norsca_fish_34	Its teeth curve like scimitars, and it is said to fight until its last gill.	false
+ancillaries_colour_text_hkrul_norsca_fish_35	Flesh steams when exposed to air, and thuis it is never eaten raw.	false
+ancillaries_colour_text_hkrul_norsca_fish_36	Flashy and thick with fat, reserved for jarl feasts and storm offerings.	false
+ancillaries_colour_text_hkrul_norsca_fish_37	Almost invisible in water, yet deadly when touched - itis known to make sailors think they’re hallucinating.	false
+ancillaries_colour_text_hkrul_norsca_fish_38	Once a proud sky-hunter, now grounded — yet her wrath burns fiercer than her clipped wings ever soared.	false
+ancillaries_colour_text_hkrul_norsca_fish_39	Caught in reef crevices, this gluttonous creature is rumored to strangle crabs before devouring them whole.	false
+ancillaries_colour_text_hkrul_norsca_fish_40	Said to mumble curses in a drowned tongue when boiled down, which sailors often attempt hoping their scales would melt to pure gold.	false
+ancillaries_colour_text_hkrul_norsca_fish_41	Traded by pirates for squid ink tattoos, its flesh turns a brilliant red when cooked.	false
+ancillaries_colour_text_hkrul_norsca_fish_42	Only rises during overcast days, prized for its shadowy shimmer.	false
+ancillaries_colour_text_hkrul_norsca_fish_43	A delight for cats, sailors, and jesters.	false
+ancillaries_colour_text_hkrul_norsca_fish_44	Said to whistle when cooked over an open flame, a delicacy at blood feasts.	false
+ancillaries_colour_text_hkrul_norsca_fish_46	Feared by younger anglers due to its battle-worn hide, said to have survived a shark's maw.	false
+ancillaries_colour_text_hkrul_norsca_fish_45	 Lives under graveyard wrecks, and glows faintly where curses were spoken.	false
+ancillaries_colour_text_hkrul_norsca_fish_47	Twice the size of a man, with tusks and bulk alike, he guards your command with chilling obedience.	false
+ancillaries_colour_text_hkrul_norsca_fish_48	No matter how often it is emptied, this damp chest always rattles with coin and salt-soaked spoils.	false
+ancillaries_colour_text_hkrul_norsca_fish_49	Packs tight in barrels and stinks to the heavens, but keeps raiders fed for weeks.	false
+ancillaries_colour_text_hkrul_norsca_fish_50	This rusted brass compass never points north — only to where blood was last spilled upon the sea.	false
+ancillaries_colour_text_hkrul_norsca_fish_51	Carved from driftwood and whale bone, its chords stir warriors to memory, grief, and the longing for home.	false
+ancillaries_colour_text_hkrul_norsca_fish_52	Often found clinging to coral roots, this crustacean snaps loudly before boiling into a delicacy.	false
+ancillaries_colour_text_hkrul_norsca_fish_53	Scrapes its snout across the ocean floor, leaving trails near sunken treasure.	false
+ancillaries_colour_text_hkrul_norsca_fish_54	This fast-swimming beast is a prize catch, often traded to Marienburgers for pickled lemons and dry wine	false
+ancillaries_colour_text_hkrul_norsca_fish_55	A fuzzy oddity revered by children and fools.	false

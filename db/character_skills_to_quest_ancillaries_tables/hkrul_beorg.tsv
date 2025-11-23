@@ -2,3 +2,4 @@ ancillary	skill	use_quest_for_prefix
 #character_skills_to_quest_ancillaries_tables;1;db/character_skills_to_quest_ancillaries_tables/hkrul_beorg		
 hkrul_beorg_banner	hkrul_beorg_banner	true
 hkrul_beorg_sword	hkrul_beorg_sword	true
+hkrul_norsca_ship_12	hkrul_norsca_ship_12	true

@@ -11,8 +11,9 @@ blood_inf_marauder_spear		blood_inf_marauder_spear		1.0000	0.9500	0.0500
 blood_inf_marauder_hunters_0		blood_inf_marauder_hunters_0		1.0000	0.9500	0.0500	
 blood_inf_marauder_hunters_1		blood_inf_marauder_hunters_1		1.0000	0.9500	0.0500	
 mkho_marauder_horsemen_jav		mkho_marauder_horsemen_jav		1.0000	0.9500	0.0500	
-hkrul_orgrim		nor_cha_skin_wolf_werekin		1.0000	1.1600	0.0000	
-hkrul_berus		dae_kho_exalted_hero		1.0000	1.1600	0.0000	
-hkrul_usta		ksl_hag_witch		1.0000	1.1600	0.0000	
-hkrul_kammler		dae_tze_chaos_sorcerer		1.0000	1.1600	0.0000	
-hkrul_eyri		hkrul_eyri		1.0000	1.1600	0.0000	
+hkrul_orgrim		hkrul_orgrim		1.0000	1.1600	0.0500	
+hkrul_berus		hkrul_berus		1.0000	0.8400	0.0500	
+hkrul_usta		hkrul_usta		1.0000	1.1600	0.0500	
+hkrul_kammler		hkrul_kammler		1.0000	1.0000	0.0500	
+hkrul_eyri		hkrul_eyri		1.0000	1.1600	0.0500	
+hkrul_hafskael		hkrul_hafskael		1.0000	1.1600	0.0500	

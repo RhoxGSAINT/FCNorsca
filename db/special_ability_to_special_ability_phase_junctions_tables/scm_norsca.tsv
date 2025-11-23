@@ -85,7 +85,6 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_hildr_axe	false	false	true	hkrul_hildr_axe_enemy
 1	hkrul_ulfric_ymir	false	false	true	hkrul_ulfric_ymir
 1	hkrul_ulfric_ymir_ror	false	false	true	hkrul_ulfric_ymir_ror
-1	hkrul_norsca_shield_2	true	false	false	hkrul_norsca_shield_2
 1	rhox_skald_battle_chant	true	true	false	rhox_skald_battle_chant
 1	rhox_skald_guardian_cadence	true	true	false	rhox_skald_guardian_cadence
 1	rhox_skald_fury_call	true	true	false	rhox_skald_fury_call

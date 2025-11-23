@@ -22,3 +22,4 @@ rhox_varg_confederation_effect	weapon_damage.png	55	weapon_damage.png	battle	tru
 rhox_wolf_confederation_effect	weapon_damage.png	55	weapon_damage.png	battle	true
 rhox_geimdall_confederation_effect	armour.png	450	armour.png	battle	true
 rhox_trade_confederation_effect	trade_agreement.png	450	trade_agreement.png	campaign	true
+rhox_port_confederation_effect	income.png	162	income.png	campaign	true

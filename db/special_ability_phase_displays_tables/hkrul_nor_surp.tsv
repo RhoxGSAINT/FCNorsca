@@ -4,3 +4,5 @@ hkrul_khorne_buff		wh_main_generic_banner_buff	hkrul_khorne_buff	top	true
 hkrul_boartusk_helm_entity			hkrul_boartusk_helm_entity	top	true
 hkrul_boartusk_horn		wh_main_generic_banner_debuff	hkrul_boartusk_horn_entity_debuff	top	true
 hkrul_bubos_eye		wh_main_generic_banner_buff	hkrul_bubos_eye_entity_debuff	top	true
+hkrul_mermedus_damage		wh_main_generic_banner_buff	hkrul_mermedus_damage	top	true
+hkrul_mermedus_helm_entity			hkrul_mermedus_helm_entity	top	true

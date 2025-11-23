@@ -1,0 +1,6 @@
+id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_uniform	land_animation	sea_animation	navy_animation	land_animation_vfx_filter	sea_animation_vfx_filter	navy_animation_vfx_filter
+#campaign_character_arts_tables;0;db/campaign_character_arts_tables/hkrul_late_summer																
+266765980	hkrul_grydal	0	0		none	hkrul_grydal			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hero_hu13_wh3_ogre_firebelly	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+266765981	hkrul_goftur	0	0		none	hkrul_goftur			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu1c_wh3_kislev_dual_axe	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+266765982	hkrul_mermedus	0	0		none	hkrul_mermedus			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu12_dlc17_doombull	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+266765983	hkrul_urf	0	0		none	hkrul_urf			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_lord_hu10e_wh3_daemon_prince_sword	cam_transport_ship_05	cam_transport_ship_05	0	0	0

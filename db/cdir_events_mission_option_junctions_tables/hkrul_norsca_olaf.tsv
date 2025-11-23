@@ -1,0 +1,12 @@
+id	mission_key	option_key	value	target
+#cdir_events_mission_option_junctions_tables;2;db/cdir_events_mission_option_junctions_tables/hkrul_norsca_olaf				
+1497734430	hkrul_olaf_spear_0	VAR_OBJECTIVE_AMOUNT_INT	5	default
+1497734431	hkrul_olaf_spear_0	GEN_TARGET_CHARACTER		default
+1497734432	hkrul_olaf_spear_0	GEN_CND_AGENT_SUBTYPE	hkrul_olaf	default
+1497734433	hkrul_olaf_spear_0	VAR_CHANCE	100	default
+1497734434	hkrul_olaf_spear_0	VAR_MISSION_LENGTH_INFINITE		default
+1497734435	hkrul_olaf_spear_1	GEN_CND_REGION	wh3_main_combi_region_dietershafen	default
+1497734436	hkrul_olaf_spear_1	GEN_TARGET_REGION		default
+1497734437	hkrul_olaf_spear_1	VAR_MISSION_LENGTH_INFINITE		default
+1497734438	hkrul_olaf_spear_1	VAR_CHANCE	100	default
+1497734439	hkrul_olaf_spear_1	GEN_CND_ALLOW_REBELS		default

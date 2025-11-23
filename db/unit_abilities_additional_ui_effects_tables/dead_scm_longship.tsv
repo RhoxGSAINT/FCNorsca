@@ -2,3 +2,4 @@ key	sort_order	effect_state
 #unit_abilities_additional_ui_effects_tables;3;db/unit_abilities_additional_ui_effects_tables/dead_scm_longship		
 hkrul_longship_spawn	101	positive
 hkrul_longship_spawn2	101	positive
+hkrul_shark_summon_1	101	positive

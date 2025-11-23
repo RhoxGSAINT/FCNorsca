@@ -69,12 +69,13 @@ loading_screen_quotes_bulletpoints_hkrul_olaf	[[img:ui/skins/default/modifier_ic
 effect_bundles_localised_title_hkrul_olaf_faction_trait	The Crimson Call	false
 effect_bundles_localised_description_hkrul_olaf_faction_trait	Across blood-slick shores and frostbitten stone, Olaf and Tuula chased whispers of the daemon-spear. Drawn by dreams and screams, they crossed the Sea of Claws, guided by S’iba’aht’s distant call. Each battle won fed the spear’s stirring hunger; each slain foe a step closer to the relic’s return.	false
 event_feed_strings_text_rhox_fc_norsca_olaf_how_they_play	{{tr:how_they_play_norsca}}	false
-factions_attack_desc_mixer_nor_snaegr	You are attacking the Bloodfjord Tribe!	false
-factions_defend_desc_mixer_nor_snaegr	You are defending against the Bloodfjord Tribe!	false
-factions_screen_adjective_mixer_nor_snaegr		false
-factions_screen_name_mixer_nor_snaegr	Bloodfjord Tribe	false
-factions_screen_name_when_rebels_mixer_nor_snaegr	Rebel Bloodfjord Tribe	false
-frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_nor_snaegr	In the howling dark of Norsca’s coasts, where the wind flays skin and gods demand blood, Olaf Wolfhound marches to war—not alone, but bound in sacred slaughter to his crimson-haired bride, Tuula Bloodhair. Their union is no simple love—it is a pact forged in fury, battle, and the worship of Khorne. Together, they chase the maddening whispers of a daemon-forged spear, long thought lost, its name buried in slaughtered tongues. S’iba’aht calls to them in dreams and rage, and neither Olaf nor Tuula will rest until its thirst is quenched in oceans of gore. Let the world tremble—for where Olaf goes, so too goes Tuula, and where they walk, war follows.	false
+factions_attack_desc_mixer_nor_bloodfjord	You are attacking the Bloodfjord Tribe!	false
+factions_defend_desc_mixer_nor_bloodfjord	You are defending against the Bloodfjord Tribe!	false
+factions_screen_adjective_mixer_nor_bloodfjord		false
+factions_screen_name_mixer_nor_bloodfjord	Bloodfjord Tribe	false
+factions_screen_name_when_rebels_mixer_nor_bloodfjord	Rebel Bloodfjord Tribe	false
+frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_nor_bloodfjord	In the howling dark of Norsca’s coasts, where the wind flays skin and gods demand blood, Olaf Wolfhound marches to war—not alone, but bound in sacred slaughter to his crimson-haired bride, Tuula Bloodhair. Their union is no simple love—it is a pact forged in fury, battle, and the worship of Khorne. Together, they chase the maddening whispers of a daemon-forged spear, long thought lost, its name buried in slaughtered tongues. S’iba’aht calls to them in dreams and rage, and neither Olaf nor Tuula will rest until its thirst is quenched in oceans of gore. Let the world tremble—for where Olaf goes, so too goes Tuula, and where they walk, war follows.	false
+frontend_faction_leaders_loading_screen_text_mixer_nor_bloodfjord	In the howling dark of Norsca’s coasts, where the wind flays skin and gods demand blood, Olaf Wolfhound marches to war—not alone, but bound in sacred slaughter to his crimson-haired bride, Tuula Bloodhair. Their union is no simple love—it is a pact forged in fury, battle, and the worship of Khorne. Together, they chase the maddening whispers of a daemon-forged spear, long thought lost, its name buried in slaughtered tongues. S’iba’aht calls to them in dreams and rage, and neither Olaf nor Tuula will rest until its thirst is quenched in oceans of gore. Let the world tremble—for where Olaf goes, so too goes Tuula, and where they walk, war follows.	false
 incidents_button_text_hkrul_olaf_turn_two_incident	Continue the bloodshed!	false
 incidents_localised_description_hkrul_olaf_turn_two_incident	In the restless hours after battle, Olaf dreams of a spear bathed in blood-red mist. Tuula wakes from visions of black iron piercing the heart of a dying god. The images fade with the morning frost, dismissed as tricks of fatigue and battle-lust. Yet somewhere—beyond smoke and ruin—a greater power watches, weighing their worth. The raiding continues. For now.	false
 incidents_localised_title_hkrul_olaf_turn_two_incident	The First Flash	false
@@ -123,3 +124,9 @@ incidents_localised_title_hkrul_olaf_turn_six_incident	Only One May Bleed For It
 effects_description_hkrul_olaf_income_raiding	Income from raiding: %+n% for each confederated Norscan tribe	false
 land_units_onscreen_name_scm_fc_norsca_bloodfjord_nor_marauder_spear	Marauder Spearmen	false
 land_units_onscreen_name_scm_fc_norsca_bloodfjord_nor_marauder_javelins	Marauder Hunters (Javelins)	false
+dilemmas_localised_title_hkrul_olaf_turn_seven_incident	dilemmas_localised_title_hkrul_olaf_turn_seven_incident	false
+dilemmas_localised_description_hkrul_olaf_turn_seven_incident	dilemmas_localised_description_hkrul_olaf_turn_seven_incident	false
+cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentFIRST	cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentFIRST	false
+cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentFIRST	cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentFIRST	false
+cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentSECOND	cdir_events_dilemma_choice_details_localised_choice_label_hkrul_olaf_turn_seven_incidentSECOND	false
+cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentSECOND	cdir_events_dilemma_choice_details_localised_choice_title_hkrul_olaf_turn_seven_incidentSECOND	false

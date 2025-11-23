@@ -9,3 +9,8 @@ rhox_fc_norsca_ruins_of_vinnskor	rhox_fc_norsca_ruins_of_vinnskor	0	3	4500	0		fa
 rhox_fc_norsca_sargath_tent	rhox_fc_norsca_sargath_tent	0	3	4500	0		false	false			true	rhox_fc_norsca_sargath_tent	false	0.0000	0	true	3		true	0	0		0
 rhox_fc_norsca_chaos_iceberg	rhox_fc_norsca_chaos_iceberg	0	2	3000	0		false	false			true	rhox_fc_norsca_chaos_iceberg	false	0.0000	0	true	2		true	0	0		0
 rhox_fc_norsca_corrupted_khemri	rhox_fc_norsca_corrupted_khemri	0	3	4500	0		false	false			true	rhox_fc_norsca_corrupted_khemri	false	0.0000	0	true	3		true	0	0		0
+hkrul_norsca_duel_circle	hkrul_norsca_duel_circle	0	3	3250	0		false	false			true	hkrul_norsca_duel_circle	false	0.0000	0	true	2		true	0	0		0
+hkrul_norsca_snaegr_hall	hkrul_norsca_snaegr_hall	0	3	4150	0		false	false			true	hkrul_norsca_snaegr_hall	false	0.0000	0	true	3		true	0	0		0
+hkrul_norsca_mermedus_temple	hkrul_norsca_mermedus_temple	0	3	4750	0		false	false			true	hkrul_norsca_mermedus_temple	false	0.0000	0	true	3		true	0	0		0
+hkrul_norsca_erik_tomb	hkrul_norsca_erik_tomb	0	3	5215	0		false	false			true	hkrul_norsca_snaegr_hall	false	0.0000	0	true	3		true	0	0		0
+hkrul_norsca_barrows	hkrul_norsca_barrows	0	3	4750	0		false	false			true	hkrul_norsca_mermedus_temple	false	0.0000	0	true	3		true	0	0		0

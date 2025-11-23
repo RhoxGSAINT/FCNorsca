@@ -38,11 +38,13 @@ core:add_listener(
         trade_candidate=cm:random_sort(trade_candidate)
         
         --out("Rhox Fjordling: Trade candidate Number: ".. #trade_candidate)
-
+		local uses = cm:get_saved_value("rhox_bjornling_fish_sale_uses") or 0
+		local money = math.floor((1600+cm:random_number(900,0)) * ((0.05*uses)+1))
+		
         local dilemma_builder = cm:create_dilemma_builder("rhox_bjornling_fish_sale");
 		local payload_builder = cm:create_payload();
 		payload_builder:faction_pooled_resource_transaction("wh3_main_ksl_followers", "events", 10, false)
-        payload_builder:treasury_adjustment(1600+cm:random_number(900,0));
+        payload_builder:treasury_adjustment(money);
         dilemma_builder:add_choice_payload("FIRST", payload_builder);
         payload_builder:clear();
         local candidate_num =#trade_candidate
@@ -50,12 +52,15 @@ core:add_listener(
             candidate_num =3
         end
         for i=1,candidate_num do
-            payload_builder:treasury_adjustment(2250+cm:random_number(1400,0));
+			money = math.floor((2250+cm:random_number(1400,0)) * ((0.05*uses)+1))
+            payload_builder:treasury_adjustment(money);
             payload_builder:diplomatic_attitude_adjustment(trade_candidate[i], cm:random_number(3,1))
             dilemma_builder:add_choice_payload(choice_string[i+1], payload_builder);--1 is local
             payload_builder:clear();
         end
         
+        uses = uses + 1
+        cm:set_saved_value("rhox_bjornling_fish_sale_uses", uses)
         
 		cm:launch_custom_dilemma_from_builder(dilemma_builder, faction);
     end,
@@ -130,6 +135,41 @@ local fish_ancillaries={
     "hkrul_norsca_fish_18",
     "hkrul_norsca_fish_19",
     "hkrul_norsca_fish_20",
+    "hkrul_norsca_fish_21",
+    "hkrul_norsca_fish_22",
+    "hkrul_norsca_fish_23",
+    "hkrul_norsca_fish_24",
+    "hkrul_norsca_fish_25",
+    "hkrul_norsca_fish_26",
+    "hkrul_norsca_fish_27",
+    "hkrul_norsca_fish_28",
+    "hkrul_norsca_fish_29",
+    "hkrul_norsca_fish_30",
+    "hkrul_norsca_fish_31",
+    "hkrul_norsca_fish_32", 
+    "hkrul_norsca_fish_33",
+    "hkrul_norsca_fish_34",
+    "hkrul_norsca_fish_35",
+    "hkrul_norsca_fish_36",
+    "hkrul_norsca_fish_37",
+    "hkrul_norsca_fish_38",
+    "hkrul_norsca_fish_39",
+    "hkrul_norsca_fish_40",
+    "hkrul_norsca_fish_41",
+    "hkrul_norsca_fish_42",
+    "hkrul_norsca_fish_43",
+    "hkrul_norsca_fish_44",
+    "hkrul_norsca_fish_45",
+    "hkrul_norsca_fish_46",
+    "hkrul_norsca_fish_47",
+    "hkrul_norsca_fish_48",
+    "hkrul_norsca_fish_49",
+    "hkrul_norsca_fish_50",
+    "hkrul_norsca_fish_51",
+    "hkrul_norsca_fish_52",
+    "hkrul_norsca_fish_53",
+    "hkrul_norsca_fish_54",
+    "hkrul_norsca_fish_55", 
 }
 
 
@@ -143,7 +183,7 @@ core:add_listener(
             return false
         end
         local military_force = character:military_force()
-        local base_chance = 11
+        local base_chance = 15
         return faction:name() == bjornling_faction and military_force:active_stance() == "MILITARY_FORCE_ACTIVE_STANCE_TYPE_DOUBLE_TIME" and cm:random_number(100,1) <= base_chance
     end,
     function(context)
@@ -178,3 +218,27 @@ core:add_listener(
     true
 )
 
+core:add_listener(
+	"rhox_bjornling_extra_dilemma_choice",
+	"DilemmaChoiceMadeEvent",
+	function(context)
+		return context:dilemma() == "rhox_bjornling_fish_sale" and context:faction():name() == bjornling_faction
+	end,
+	function(context)
+		local faction = context:faction()
+		local prm = faction:pooled_resource_manager():resource("rhox_bjornling_fish")
+		if prm:is_null_interface() then return end
+		local prm_value = prm:value()
+		
+		if prm_value >= 300 then
+			cm:trigger_dilemma(bjornling_faction, "bjornling_dilemma_fish_overload")
+		end
+    end,
+    true
+)	
+
+
+
+
+		
+					

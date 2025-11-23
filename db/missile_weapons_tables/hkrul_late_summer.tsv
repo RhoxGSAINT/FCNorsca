@@ -1,0 +1,5 @@
+key	precursor	default_projectile	audio_type	use_secondary_ammo_pool
+#missile_weapons_tables;11;db/missile_weapons_tables/hkrul_late_summer				
+hkrul_mermedus	false	hkrul_mermedus	javelin	false
+eyri_jag_killshot	false	eyri_jag_killshot	bow_large	false
+eyri_jag	true	eyri_jag	javelin	false

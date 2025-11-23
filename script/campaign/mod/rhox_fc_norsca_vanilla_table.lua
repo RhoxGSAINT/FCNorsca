@@ -42,39 +42,20 @@ table.insert(character_unlocking.character_data["scyla"]["override_allowed_facti
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_dlc08_nor_naglfarlings")
 
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_fjordlings")
+table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_bloodfjord")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_snaegr")
 
+initiative_cultures.wh_dlc08_nor_norsca = true
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-initiative_cultures["wh_dlc08_nor_norsca"]=true
-
---Baersonling upgrade
-table.insert(initiative_templates,
-    {
+local totn_initiative_templates = {
+	{--Baersonling upgrade
         ["initiative_key"] = "rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain",
         ["event"] = {"CharacterRankUp", "CharacterRecruited"},
 		["condition"] =
 			function(context)
 				return context:character():rank() >= 15
 			end
-	}
-)
-table.insert(initiative_templates,
+	},
     {
         ["initiative_key"] = "rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch",
         ["event"] = {"CharacterRankUp", "CharacterRecruited"},
@@ -82,11 +63,215 @@ table.insert(initiative_templates,
 			function(context)
 				return context:character():rank() >= 30
 			end
-	}
-)
+	},
+	{
+        ["initiative_key"] = "hkrul_goftur_initiative_05",
+        ["event"] = {"CharacterCompletedBattle", "CharacterParticipatedAsSecondaryGeneralInBattle"},
+		["condition"] =
+			function(context)
+				if context:character():won_battle() and context:character():is_at_sea() then
+					local count = cm:get_saved_value("hkrul_goftur_initiative_05") or 0
+					
+					count = count + 1
+					cm:set_saved_value("hkrul_goftur_initiative_05", count)
+					
+					if count >= 6 then
+						return true
+					end
+				end
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_goftur_initiative_02",
+        ["event"] = {"CharacterRankUp", "CharacterRecruited"},
+		["condition"] =
+			function(context)
+				return context:character():rank() >= 30
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_goftur_initiative_03",
+        ["event"] = {"CharacterCompletedBattle", "CharacterParticipatedAsSecondaryGeneralInBattle"},
+		["condition"] =
+			function(context)
+				local pirate_factions = {
+					wh2_dlc11_cst_rogue_bleak_coast_buccaneers = true,
+					wh2_dlc11_cst_rogue_boyz_of_the_forbidden_coast = true,
+					wh2_dlc11_cst_rogue_freebooters_of_port_royale = true,
+					wh2_dlc11_cst_rogue_grey_point_scuttlers = true,
+					wh2_dlc11_cst_rogue_terrors_of_the_dark_straights = true,
+					wh2_dlc11_cst_rogue_the_churning_gulf_raiders = true,
+					wh2_dlc11_cst_rogue_tyrants_of_the_black_ocean = true,
+					wh2_dlc11_cst_shanty_dragon_spine_privateers = true,
+					wh2_dlc11_cst_shanty_middle_sea_brigands = true,
+					wh2_dlc11_cst_shanty_shark_straight_seadogs = true
+				}
+				if context:character():won_battle() then
+					local defender_char_cqi, defender_mf_cqi, defender_faction_name = cm:pending_battle_cache_get_defender(1)
+					local attacker_char_cqi, attacker_mf_cqi, attacker_faction_name = cm:pending_battle_cache_get_attacker(1)
+					local character_faction_name = context:character():faction():name()
+					local is_attacker = attacker_faction_name == character_faction_name
+					local is_defender = defender_faction_name == character_faction_name
+					local count = cm:get_saved_value("hkrul_goftur_initiative_03") or 0
+					
+					if (is_attacker and pirate_factions[defender_faction_name]) or (is_defender and pirate_factions[attacker_faction_name]) then
+						count = count + 1
+					end
+					
+					cm:set_saved_value("hkrul_goftur_initiative_03", count)
+					
+					if count >= 2 then
+						return true
+					end
+				end
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_goftur_initiative_04",
+        ["event"] = {"CharacterTurnStart", "CharacterCapturedSettlementUnopposed", "CharacterPerformsSettlementOccupationDecision"},
+		["condition"] =
+			function(context)
+				local building_keys = {
+					"wh_main_nor_port_1",
+					"wh_main_nor_port_2",
+					"wh_main_nor_port_3",
+					"wh2_main_special_lothern_port_norsca_1",
+					"wh_dlc08_special_bordeleaux_port_norsca_1",
+					"wh_dlc08_special_erengrad_port_norsca_1",
+					"wh_dlc08_special_marienburg_port_norsca_1"
+				}
+				local faction = context:character():faction()
+				local region_list = faction:region_list();
+				local count = 0
+				for i = 0, region_list:num_items() - 1 do
+					local region = region_list:item_at(i)
+					for j=1, #building_keys do
+						if region:building_exists(building_keys[j]) then
+							count = count + 1
+						
+							if count >= 10 then
+								return true
+							end
+						end
+					end
+				end
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_goftur_ascend",
+        ["event"] = {"CharacterInitiativeActivationChangedEvent"},
+		["condition"] =
+			function(context)
+				if context:initiative():record_key():starts_with("hkrul_goftur_initiative_0") then
+					local count = cm:get_saved_value("hkrul_goftur_ascend") or 0
+					
+					count = count + 1
+					cm:set_saved_value("hkrul_goftur_ascend", count)
+					
+					if count >= 4 then
+						return true
+					end
+				end
+			end
+	},
+	{
+        ["initiative_key"] = "hkrul_grydal_initiative_01",
+		["event"] = {"CharacterCompletedBattle"},
+        ["condition"] =
+			function(context)
+				if cm:character_won_battle_against_culture(context:character(), {"wh_main_emp_empire"}) then
+					local count = cm:get_saved_value("hkrul_grydal_initiative_01") or 0
+					
+					count = count + 1
+					cm:set_saved_value("hkrul_grydal_initiative_01", count)
+					
+					if count >= 10 then
+						return true
+					end
+				end
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_grydal_initiative_02",
+        ["event"] = {"CharacterRankUp", "CharacterRecruited"},
+		["condition"] =
+			function(context)
+				return context:character():rank() >= 30
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_grydal_initiative_03",
+        ["event"] = {"CharacterTurnEnd"},
+		["condition"] =
+			function(context)
+				local character = context:character()
+				if character:has_military_force() then
+					local military_force = character:military_force()
+					if military_force:active_stance() == "MILITARY_FORCE_ACTIVE_STANCE_TYPE_LAND_RAID"  then
+						local count = cm:get_saved_value("hkrul_grydal_initiative_03") or 0
+						
+						count = count + 1
+						cm:set_saved_value("hkrul_grydal_initiative_03", count)
+						
+						if count >= 35 then
+							return true
+						end
+					end				
+				end
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_grydal_initiative_04",
+        ["event"] = {"CharacterTurnStart", "CharacterRecruited"},
+		["condition"] =
+			function(context)
+				local faction = context:character():faction()
+				local character_list = faction:character_list()
+				local count = 0
+				
+				for _, character in model_pairs(character_list) do
+					if character:character_subtype("wh_dlc08_nor_skin_wolf_werekin") then
+						count = count + 1
+						
+						if count >= 5 then
+							return true
+						end
+					end
+				end
+			end,
+		["grant_immediately"] = true
+	},
+	{
+        ["initiative_key"] = "hkrul_grydal_ascend",
+        ["event"] = {"CharacterInitiativeActivationChangedEvent"},
+		["condition"] =
+			function(context)
+				if context:initiative():record_key():starts_with("hkrul_grydal_initiative_0") then
+					local count = cm:get_saved_value("hkrul_grydal_ascend") or 0
+					
+					count = count + 1
+					cm:set_saved_value("hkrul_grydal_ascend", count)
+					
+					if count >= 4 then
+						return true
+					end
+				end
+			end
+	},
+}
 
+for i=1, #totn_initiative_templates do
+	table.insert(initiative_templates, totn_initiative_templates[i])
+end
 
-
+--Rhox
 CUS.initiative_to_agent_junctions["rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain"] = 
 {
     type ="general",
@@ -138,7 +323,9 @@ cm:add_first_tick_callback(
         campaign_traits.legendary_lord_defeated_traits["hkrul_yngve"] ="hkrul_defeated_trait_yngve"
         campaign_traits.legendary_lord_defeated_traits["hkrul_geimdall"] ="hkrul_defeated_trait_geimdall"
         campaign_traits.legendary_lord_defeated_traits["hkrul_olaf"] ="hkrul_defeated_trait_olaf"
-        
+        campaign_traits.legendary_lord_defeated_traits["hkrul_eyri"] ="hkrul_defeated_trait_eyri"        
+        campaign_traits.legendary_lord_defeated_traits["hkrul_grydal"] ="hkrul_defeated_trait_grydal"
+        campaign_traits.legendary_lord_defeated_traits["hkrul_goftur"] ="hkrul_defeated_trait_goftur"        
         campaign_traits.legendary_lord_defeated_traits["hkrul_ziege"] ="hkrul_defeated_trait_ziege"
         campaign_traits.legendary_lord_defeated_traits["hkrul_bjornling_ogg"] ="hkrul_defeated_trait_ogg" 
         campaign_traits.legendary_lord_defeated_traits["hkrul_bubos_boss"] ="hkrul_defeated_trait_bubos"

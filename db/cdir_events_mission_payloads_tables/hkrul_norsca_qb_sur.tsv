@@ -14,3 +14,10 @@ id	mission_key	payload_key	status_key	value	target_key
 34445030023	hkrul_sarl_birna_bogtusk_mission_4	TREASURY	SUCCESS	AMOUNT[1500]	default
 34445030024	hkrul_baerson_einar_bubos_battle	ADD_ANCILLARY	SUCCESS	ANCILLARY_KEY[hkrul_bubos_eye]	default
 34445030025	hkrul_baerson_einar_aesling_battle	TREASURY	SUCCESS	AMOUNT[4000]	default
+34445030026	hkrul_grydal_snaegr_hall	EFFECT_BUNDLE	SUCCESS	KEY[hkrul_grydal_momentum];DURATION[6]	default
+34445030027	hkrul_grydal_snaegr_hall	TREASURY	SUCCESS	AMOUNT[1250]	default
+34445030028	hkrul_ulfric_skjold	EFFECT_BUNDLE	SUCCESS	KEY[hkrul_bjornling_momentum];DURATION[6]	default
+34445030029	hkrul_ulfric_skjold	TREASURY	SUCCESS	AMOUNT[1250]	default
+34445030030	hkrul_grydal_snaegr_hall_ime	EFFECT_BUNDLE	SUCCESS	KEY[hkrul_grydal_momentum];DURATION[10]	default
+34445030031	hkrul_grydal_snaegr_hall_ime	TREASURY	SUCCESS	AMOUNT[8250]	default
+34445030032	hkrul_baerson_einar_palace_battle	TREASURY	SUCCESS	AMOUNT[4000]	default

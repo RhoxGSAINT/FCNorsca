@@ -38,4 +38,7 @@ hkrul_boartusk_horn	scalar_speed	0.7000	mult
 hkrul_bubos_eye	stat_melee_defence	-8.0000	add
 hkrul_bubos_eye_weak	stat_melee_defence	-5.0000	add
 hkrul_skraevold_fury	stat_damage_reflection	15.0000	add
-hkrul_skraevold_fury	stat_morale	20.0000	add
+hkrul_skraevold_fury	stat_resistance_all	15.0000	add
+hkrul_godi_club	stat_bonus_vs_infantry	25.0000	add
+hkrul_skoroth_pas	stat_resistance_physical	1.3500	mult
+hkrul_skoroth_pas	stat_resistance_missile	1.3500	mult

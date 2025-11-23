@@ -1,9 +1,10 @@
 key	mission_type	localised_title	localised_description	ui_image	ui_icon	generate	prioritised	event_category	set_piece_battle	location_x	location_y	quest_mission	quest_mission_final	trigger_radius	quest_character	sticky_by_default	localised_mission_completed_text	can_be_manually_cancelled
 #missions_tables;0;db/missions_tables/rhox_baersonling																		
-rhox_baersonling_chain_1	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
-rhox_baersonling_chain_2	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_baersonling_chain_2	ACHIEVE_CHARACTER_RANK			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_3	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
-rhox_baersonling_chain_4	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_baersonling_chain_4	RECRUIT_AGENT			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_baersonling_chain_4b	RECRUIT_AGENT			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
+rhox_baersonling_chain_b	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_5	RAID_REGION			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_6	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false
 rhox_baersonling_chain_7	SCRIPTED			emp/generic	rom_event_mission.png	false	false	Military		0	0	false	false	0.0000		false	Success! You have achieved one of your goals.	false

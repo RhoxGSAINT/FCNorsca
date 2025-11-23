@@ -10,7 +10,7 @@ armour_piercing	hkrul_tuula
 anti_infantry	hkrul_tuula
 melee_expert	hkrul_tuula
 melee_expert	hkrul_haftagg
-anti_large	hkrul_haftagg
+anti_infantry	hkrul_haftagg
 anti_infantry	hkrul_olaf_chariot
 armour_piercing	hkrul_olaf_chariot
 melee_expert	hkrul_olaf_chariot
@@ -42,7 +42,13 @@ anti_large	hkrul_orgrim
 melee_expert	hkrul_berus
 armour_piercing	hkrul_berus
 spellcaster	hkrul_usta
-decent_melee	hkrul_kammler
+armoured	hkrul_kammler
+armour_piercing	hkrul_kammler
 spellcaster	hkrul_kammler
 armour_piercing	hkrul_eyri
 melee_expert	hkrul_eyri
+support	hkrul_hafskael
+anti_infantry	hkrul_hafskael
+damage_dealer	hkrul_hafskael
+anti_infantry	hkrul_hafskael_chariot
+armour_piercing	hkrul_hafskael_chariot

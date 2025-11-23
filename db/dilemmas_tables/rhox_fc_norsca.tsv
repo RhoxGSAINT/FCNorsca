@@ -5,3 +5,6 @@ daemon_hunter_0	false	A greater daemon was slain in our most recent hunt, and ou
 daemon_hunter_1	false	We have earned the attention of the Four, but we may only receive a boon from one. Whose gift shall we receive?	A Boon from the Four	chaos_invasion	false	Event				false
 daemon_hunter_2	false	Following the wolf cry, we find ourselves in a frigid mountain valley. Before us stands an enormous white wolf, its eyes gleaming with intelligence. Hail to the Wolf God.	The Savage Hunter	god_khorne_rage	false	Event				false
 rhox_bjornling_fish_sale	false			celebration	false	Event				false
+bjornling_dilemma_1	true			scm_dilemma_lars	true	Event				false
+bjornling_dilemma_fish_overload	false			bjornling_fish_overload	true	Event				false
+hkrul_olaf_turn_seven_incident	false			einar_journey_8	false	Event				false

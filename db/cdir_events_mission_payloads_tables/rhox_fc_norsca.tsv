@@ -15,3 +15,17 @@ id	mission_key	payload_key	status_key	value	target_key
 814659541	rhox_fc_norsca_asta	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_fc_norsca_asta]	default
 814659542	rhox_baersonling_chain_5	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
 814659543	rhox_baersonling_chain_5	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659546	rhox_baersonling_chain_4	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659547	rhox_baersonling_chain_4	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659548	rhox_baersonling_chain_4b	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659549	rhox_baersonling_chain_4b	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659550	rhox_baersonling_chain_3	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659551	rhox_baersonling_chain_3	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659552	rhox_baersonling_chain_2	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659553	rhox_baersonling_chain_2	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659554	rhox_baersonling_chain_6	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659555	rhox_baersonling_chain_6	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659556	rhox_baersonling_chain_7	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659557	rhox_baersonling_chain_7	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659558	rhox_baersonling_chain_8	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
+814659559	rhox_baersonling_chain_8	TREASURY	SUCCESS	AMOUNT[1000]	default

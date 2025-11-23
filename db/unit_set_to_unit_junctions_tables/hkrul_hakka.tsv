@@ -1,7 +1,5 @@
 unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 #unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_hakka					
-			hkrul_hakka	all_non_chs	true
-			hkrul_hakka	nor_all	false
 			wh_dlc08_nor_cav_marauder_horsemasters_0	hkrul_akkorak_horse	false
 			wh_main_nor_cav_marauder_horsemen_0	hkrul_akkorak_horse	false
 			wh_main_nor_cav_marauder_horsemen_1	hkrul_akkorak_horse	false

@@ -1,13 +1,3 @@
-2025/SEP/23 SCM
-- HKrul has the working pack, so it's a temp update. Might be changed in the future
-- wh_dlc08_skill_node_set_nor_skin_wolf_werekin_innate_01 is removed from Drum and Horn since CA removed them from the vanilla also
-
-2025/JUN/17 SCM
-
-- Geimdall faction has been added. Enjoy!
-- Excluded Aesling faction from NotFavouredCorruptionKhorne so that it ignores Khorne book
-
-
 2025/APR/SCM
 - Fixed an issue where Hakka the Aesling had the wrong mount mentioned
 - Increased size of Hakka the Aesling on the campaign map when mounted
@@ -27,8 +17,8 @@
 - Slight buff to Birna HP and MA
 - Moved campaign specific heroes to the campaign exlusive section of custom battle to follow the norscan heroes gained as campaign rewards format
 - Created unique VFX and a CSC for Einarr's Steelfist ability
-
-
+- Birna's river troll retinue now has a unique unit card
+- Reduced wind up time for some abilities
 
 
 - 2025/Mar/30 SCM 

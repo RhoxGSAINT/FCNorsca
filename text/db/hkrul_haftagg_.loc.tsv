@@ -1,12 +1,12 @@
 key	text	tooltip
 #Loc;1;text/db/hkrul_haftagg_.loc		
-character_skills_localised_name_innate_hkrul_haftagg	King’s Fang	true
-character_skills_localised_description_innate_hkrul_haftagg	Ulfric calls, and I hunt—for his enemies are meat undeserving breath	true
+character_skills_localised_name_innate_hkrul_haftagg	Shadow Hound	true
+character_skills_localised_description_innate_hkrul_haftagg	''Ulfric calls, and I hunt—for his enemies are meat undeserving breath''.	true
 character_skills_localised_name_hkrul_haftagg_special_1_0	Howl of the Old Hunt	true
 character_skills_localised_name_hkrul_haftagg_special_1_1	Gnarlclaw Rend	true
 character_skills_localised_name_hkrul_haftagg_special_1_2	Bloodfur Rampage	true
 character_skills_localised_name_hkrul_haftagg_special_1_3	Wyrdwood Pathwalker	true
-character_skills_localised_name_hkrul_haftagg_special_1_4	Thrallbreaker	true
+character_skills_localised_name_hkrul_haftagg_special_1_4	Bloodscent Tracker	true
 character_skills_localised_name_hkrul_haftagg_special_1_5	Bone-Marrow Hunger	true
 character_skills_localised_name_hkrul_haftagg_special_1_6	Fang of the High King	true
 character_skills_localised_description_hkrul_haftagg_special_1_0	An ancient, guttural cry that sends fear through enemy ranks and fire into his allies.	true
@@ -15,17 +15,18 @@ character_skills_localised_description_hkrul_haftagg_special_1_2	The redder his 
 character_skills_localised_description_hkrul_haftagg_special_1_3	Where others bleed, he heals—cursed flesh reshaping around bone and will.	true
 character_skills_localised_description_hkrul_haftagg_special_1_4	Those under the yoke of Chaos tremble—Haftagg knows how to unchain them violently.	true
 character_skills_localised_description_hkrul_haftagg_special_1_5	He remembers every traitor—and his claws never forget.	true
-character_skills_localised_description_hkrul_haftagg_special_1_6	Ulfric’s champion commands respect—and fear—wherever the Bjornling banners fly.	true
+character_skills_localised_description_hkrul_haftagg_special_1_6	“The more they bleed, the faster he comes.”	true
 agent_subtypes_onscreen_name_override_hkrul_haftagg	Legendary Hero	false
-agent_subtypes_description_text_override_hkrul_haftagg	haftagg's devotion to Olric is as fiery as his Norse heritage driven lust for plunder and battle.	false
-unit_description_short_texts_text_hkrul_haftagg	When Haftagg howls, even hardened warriors feel the thrill—and fear—of the hunt.	false
+agent_subtypes_description_text_override_hkrul_haftagg		false
+unit_description_short_texts_text_hkrul_haftagg	The Bjornlings' bloodhound — stalking on all fours, he never loses the scent	false
+unit_description_historical_texts_text_hkrul_haftagg	Haftagg has long ceased to resemble the man he once was. Twisted by the curse of the werekin many years past, his transformation is complete — not into a howling monster, but into something far worse: a calculating predator. His body has grown lean, his limbs adapted for movement on all fours, and his senses sharpened to uncanny acuity. While other skinwolves roar in blind rage, Haftagg watches. Waits. Stalks. Kept by the Bjornlings like one might keep a prized warhound, Haftagg is loosed when enemies must vanish, when prey must be found no matter the terrain, or when whispers in the dark are answered with tearing flesh. None escape his nose. None survive once marked.	false
 names_name_2610711831	Haftagg	false
-names_name_2610711830	of Fjirgard	false
+names_name_2610711830		false
 land_units_onscreen_name_hkrul_haftagg	Haftagg	true
-effects_description_hkrul_haftagg_shield	Passive Ability: "Claws of Loyalty"	false
-unit_abilities_tooltip_text_hkrul_haftagg_shield	Haftagg fights with maddened strength near his High King, entering a bloodlust state rarely witnessed.	true
-unit_abilities_onscreen_name_hkrul_haftagg_shield	Claws of Loyalty	true
+effects_description_hkrul_haftagg_shield	Passive Ability: "Grael's Scent"	false
+unit_abilities_tooltip_text_hkrul_haftagg_shield	“A blur in the brush, a growl in your spine… then pain.”	true
+unit_abilities_onscreen_name_hkrul_haftagg_shield	Grael's Scent	true
 effects_description_hkrul_haftagg_roar	Ability: "Wyrdfang Roar"	false
-unit_abilities_tooltip_text_hkrul_haftagg_roar	A soul-piercing Skinwolf cry that causes Terror and lowers enemy leadership for a time.	true
+unit_abilities_tooltip_text_hkrul_haftagg_roar	When prey is near, Haftagg’s limbs twitch with bloodlust - his eyes filled with crimson red rage.	true
 unit_abilities_onscreen_name_hkrul_haftagg_roar	Wyrdfang Roar	true
-effects_description_hkrul_haftagg_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
+effects_description_hkrul_haftagg_time	Global Recruitment duration: %+n turn for all Skin wolves units	false

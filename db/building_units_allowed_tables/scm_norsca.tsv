@@ -48,3 +48,8 @@ key	building	unit	XP	conditions	faction	enabled
 655190392	wh_main_nor_military_3	wh3_dlc26_kho_inf_skullreapers	0	0	wh_main_nor_aesling	true
 655190393	wh_main_nor_military_3	wh3_dlc26_kho_inf_wrathmongers	0	0	wh_main_nor_aesling	true
 655190394	wh_main_nor_smith_3	rhox_bjornling_huscarl	0	0	mixer_nor_geimdall_huscarls	true
+655190395	wh_main_nor_port_3	hkrul_shark_1	0	0	cr_nor_servants_of_mermedus	true
+655190396	wh_main_nor_port_3	hkrul_shark_1	0	0	mixer_nor_cult_of_mermedus	true
+655190397	hkrul_norsca_snaegr_hall	wh3_main_kho_inf_chaos_warriors_0	0	0	mixer_nor_snaegr	true
+655190398	hkrul_norsca_snaegr_hall	wh3_main_kho_inf_chaos_warriors_1	0	0	mixer_nor_snaegr	true
+655190399	hkrul_norsca_snaegr_hall	wh3_main_kho_inf_chaos_warriors_2	0	0	mixer_nor_snaegr	true

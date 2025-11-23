@@ -1,3 +1,0 @@
-key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade	use_revealing_text
-#incidents_tables;7;db/incidents_tables/rhox_beorg									
-rhox_beorg_bear_unit_incident	false	messenger	false	Event		false		0.0000	false

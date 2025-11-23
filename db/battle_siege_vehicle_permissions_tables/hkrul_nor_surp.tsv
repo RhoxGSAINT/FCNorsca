@@ -1,4 +1,10 @@
 faction	vehicle
 #battle_siege_vehicle_permissions_tables;0;db/battle_siege_vehicle_permissions_tables/hkrul_nor_surp	
+mixer_nor_bloodfjord	nor_battering_ram
+mixer_nor_bloodfjord	nor_siege_tower_15m
 mixer_nor_snaegr	nor_battering_ram
 mixer_nor_snaegr	nor_siege_tower_15m
+mixer_nor_cult_of_mermedus	nor_battering_ram
+mixer_nor_cult_of_mermedus	nor_siege_tower_15m
+mixer_nor_eyristaad	nor_battering_ram
+mixer_nor_eyristaad	nor_siege_tower_15m
