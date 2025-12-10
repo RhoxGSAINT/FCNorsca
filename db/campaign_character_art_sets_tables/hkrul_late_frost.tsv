@@ -1,5 +1,5 @@
-art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
-#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/hkrul_late_frost								
-hkrul_mortensen	champion				false	true	hkrul_mortensen	1.1100
-hkrul_geimdall	general				false	true	hkrul_geimdall	1.1100
-hkrul_boartusk_boss	general				false	true	hkrul_boartusk_boss	0.5000
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale	prebattle_separation_offset
+#campaign_character_art_sets_tables;7;db/campaign_character_art_sets_tables/hkrul_late_frost									
+hkrul_mortensen	champion				false	true	hkrul_mortensen	1.1100	0.0000
+hkrul_geimdall	general				false	true	hkrul_geimdall	1.1100	0.0000
+hkrul_boartusk_boss	general				false	true	hkrul_boartusk_boss	0.5000	0.0000

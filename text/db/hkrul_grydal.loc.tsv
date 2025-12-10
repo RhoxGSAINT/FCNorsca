@@ -101,9 +101,15 @@ frontend_faction_leaders_loading_screen_text_mixer_nor_snaegr	The shame of defea
 ancillaries_colour_text_hkrul_hakka_banner	Torn, scorched, and eternally blood-stained, this banner once led the warhosts of Valmir Aesling — the feared Chaos Lord who sought to finish what Asavar Kul could not. Hoisted high as Dwarf halls burned and rune-walls crumbled, it bears the sigils of conquest and the screams of the fallen. Among the Aeslings, to carry this banner is not merely to honour a forefather… it is to invoke his fury. In battle, its presence fans the flame of annihilation, compelling Hakka’s warband to strike with relentless, ancestral malice.	true
 ancillaries_onscreen_name_hkrul_hakka_banner	Banner of Valmir Aesling	true
 effect_bundles_localised_title_hkrul_hakka_banner	Banner of Valmir Aesling	false
-effects_description_hkrul_snaegr_mark	Passive ability: Red Oath Unbound for Khorne warrior units {{tr:rank7}}[[col:red]][[i]] Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
+effects_description_hkrul_snaegr_mark	Passive ability: "Red Oath Unbound" for Khorne warrior units {{tr:rank7}}[[col:red]][[i]] Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
 unit_abilities_tooltip_text_hkrul_snaegr_mark	They gave their word in blood and now crave more to keep it.	false
 unit_abilities_onscreen_name_hkrul_snaegr_mark	Red Oath Unbound	false
 effects_description_hkrul_kho_warriors_snaegr_md	Melee defence: %+n for Khorne warrior units[[col:red]][[i]] Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
 effects_description_hkrul_kho_warriors_snaegr_ma	Melee attack: %+n for Khorne warrior units[[col:red]][[i] ]Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
 effects_description_hkrul_kho_warriors_snaegr_armour	Armour: %+n for Khorne warrior units\\n\\n[[col:red]][[i]] Note: Requires the Snaegr Hall landmark to be built.[[/i]][[/col]]	false
+unit_description_short_texts_text_hkrul_norsca_harpoon_ror	Their massive harpoon-launchers still bear the crests of their original longships, now blackened and scarred. They reel in flesh now, not fish.	false
+unit_description_historical_texts_text_hkrul_norsca_harpoon_ror	These terrifying harpoon throwers repurpose rusted winches and warped ship timbers into deadly siege engines. Once dragged leviathans from the depths; now they drag ogres from their feet.	false
+land_units_onscreen_name_hkrul_norsca_harpoon_ror	Hooks of Hjolda (Bolt Throwers)	true
+effects_description_hkrul_eyrdal_thorn	Passive ability: "Eyrdral’s Thorn"	false
+unit_abilities_tooltip_text_hkrul_eyrdal_thorn	Once wielded by the famous huntress of the northern iceflows — still coated in leviathan bile.	false
+unit_abilities_onscreen_name_hkrul_eyrdal_thorn	Eyrdral’s Thorn	false

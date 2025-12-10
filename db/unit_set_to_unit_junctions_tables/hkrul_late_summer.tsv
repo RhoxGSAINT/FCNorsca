@@ -34,7 +34,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh_dlc08_nor_cha_skin_wolf_werekin_0	hkrul_werekin_champion	false
 			wh3_main_kho_inf_chaos_warriors_0	hkrul_kho_warriors_snaegr	false
 			wh3_main_kho_inf_chaos_warriors_1	hkrul_kho_warriors_snaegr	false
-			wh3_main_kho_inf_chaos_warriors_2	hkrul_kho_warriors_snaegr	false
+			wh3_dlc27_kho_inf_chaos_warriors_2	hkrul_kho_warriors_snaegr	false
 			wh_dlc08_nor_inf_marauder_spearman_0	hkrul_marauder_spearmen	false
 			nor_shield_spear	hkrul_marauder_spearmen	false
 			hkrul_haraldur_chariot	mp_cap_group_heroes	false
@@ -44,3 +44,10 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_bjornling_huscarl_ror	rhox_bjornling_huscarl_ror	false
 			hkrul_sibat	nor_all	false
 			hkrul_sibat	all_non_chs	true
+			wh3_dlc27_nor_cav_chaos_chariot_ror	hkrul_norsca_ror_tze	false
+			wh3_dlc27_nor_cav_marauder_horsemen_ror	hkrul_norsca_ror_sla	false
+			wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror	hkrul_norsca_ror_nur	false
+			wh_pro04_nor_inf_marauder_berserkers_ror_0	hkrul_norsca_ror_kho	false
+			wh3_dlc27_nor_cav_kurgan_horsemen_dualweapons	hkrul_kurgan_horsemasters	false
+			wh3_dlc27_nor_cav_kurgan_horsemen_greatweapons	hkrul_kurgan_horsemasters	false
+			hkrul_norsca_harpoon_ror	dlc08_nor_marauders_hunters	false

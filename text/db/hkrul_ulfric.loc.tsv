@@ -316,8 +316,13 @@ effect_bundles_localised_title_bjornling_bundle_fish_1	Saltsilver Surge	false
 effect_bundles_localised_description_bjornling_bundle_fish_3	Fed and full of vigour, the rowing drums beat faster — no sail nor wind outpaces you now.	false
 effect_bundles_localised_title_bjornling_bundle_fish_3	Bounty at Oar	false
 effects_description_hkrul_ws_sea	Weapon strength: %+n% when fighting at sea	false
+effects_description_hkrul_cursd_ettin_xp_gain_rate	Unit experience gain: %+n% for Curs'd Ettin units	false
 effects_description_hkrul_norscan_ogres_xp_gain	Unit experience gain: %+n% for Norse Ogre units	false
 effects_description_hkrul_norscan_ogres_melee_defence	Melee defence: %+n for Norse Ogre units	false
+effects_description_hkrul_cursd_ettin_speed	Speed: %+n% for Curs'd Ettin units	false
 effects_description_hkrul_norscan_ogres_speed	Speed: %+n% for Norse Ogre units	false
+effects_description_hkrul_kurgan_horsemasters_armour	Armour: %+n for Kurgan Horsemen units	false
 effects_description_hkrul_norscan_ogres_armour	Armour: %+n for Norse Ogre units	false
 effects_description_hkrul_norscan_ogres_melee_attack	Melee attack: %+n for Norse Ogre units	false
+effects_description_hkrul_norsca_ror_tze_melee_defence	Melee defence: %+n for Followers of the Great Eagle (Marauder Chariots)	false
+effects_description_hkrul_norsca_edict_builders	wh3_main_ie_edict_nor_construction.png	true

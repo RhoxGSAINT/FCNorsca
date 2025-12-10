@@ -62,7 +62,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_norsca_ymir	mp_cap_unit_nor_mon_skin_wolves	false
 			hkrul_norsca_ymir	nor_all	false
 			hkrul_norsca_ymir	wh2_dlc11_nor_skin_wolves_trolls	false
-			hkrul_norsca_ymir	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots	false
+			hkrul_norsca_ymir	wh2_dlc11_nor_vets_warhounds_ice_wolves_manticore_skin_wolves_chariots_kurgan	false
 			hkrul_norsca_ymir	wh2_dlc17_throgg_focus_units_excluding_fimir	false
 			hkrul_norsca_ymir	wh2_dlc17_throgg_focus_units	false
 			hkrul_norsca_ymir	wh_dlc08_all_mammoths_skin_wolves_ice_wolves_hounds	false

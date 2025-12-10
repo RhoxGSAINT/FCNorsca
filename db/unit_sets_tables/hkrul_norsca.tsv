@@ -13,7 +13,7 @@ scm_norsca_huern_wolf	false	-1	-1
 ice_wolves	false	-1	-1	
 norscan_marauders	false	-1	-1	
 hkrul_surtha_chariots	false	-1	-1	
-rhox_fc_norsca_regional_elite	false	-1	-1	blessed_spawning
+rhox_fc_norsca_regional_elite	false	-1	-1	
 hkrul_wolf_moon	false	-1	-1	
 hkrul_bjornling_bragnir	false	-1	-1	
 rhox_adella_lzd_mon_carnosaur_kho	false	-1	-1	
@@ -49,3 +49,11 @@ hkrul_marauder_spearmen	false	-1	-1
 hkrul_norsca_giants	false	-1	-1	
 rhox_bjornling_huscarl_ror	false	-1	-1	
 hkrul_norscan_ogres	false	-1	-1	
+hkrul_shieldmaiden	false	-1	-1	
+hkrul_norsca_harpoon_ror	false	-1	-1	
+hkrul_norsca_ror_tze	false	-1	-1	
+hkrul_norsca_ror_sla	false	-1	-1	
+hkrul_norsca_ror_nur	false	-1	-1	
+hkrul_norsca_ror_kho	false	-1	-1	
+hkrul_yusak_horse_non_ror	false	-1	-1	
+hkrul_kurgan_horsemasters	false	-1	-1	

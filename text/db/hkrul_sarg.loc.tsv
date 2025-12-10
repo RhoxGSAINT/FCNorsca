@@ -104,7 +104,9 @@ ancillaries_onscreen_name_hkrul_sarg_exalted_seeker_chariot	Exalted Seeker Chari
 effects_description_rhox_yusak_slaanesh_dedicated_dummy	Dedicated to Slaanesh: May only devote himself to Slaanesh	false
 effects_description_hkrul_yusak_horse_speed	Speed: %+n% for Marauder Horsemen units	false
 effects_description_hkrul_yusak_horse_rank	Recruit rank: %+n for Marauder Horsemen units	false
+effects_description_hkrul_norsca_harpoon_ror_missile	Missile strength: %+n% for Hooks of Hjolda	false
 effects_description_hkrul_yusak_horse_missile	Missile strength: %+n% for Marauder Horsemen units	false
+effects_description_hkrul_bearmen_missile_resist	Missile resistance: %n% for Marauder Bearmen units	false
 effects_description_hkrul_yusak_horse_missile_resistance	Missile resistance: %n% for Marauder Horsemen units	false
 effects_description_hkrul_yusak_horse_range	Range: %+n% for Marauder Horsemen units	false
 effects_description_hkrul_yusak_horse_melee_attack	Melee attack: %+n for Marauder Horsemen units	false
@@ -117,3 +119,4 @@ effects_description_hkrul_sarg_marauder	Ability: "Sargath's Finest'' for Slaanes
 unit_abilities_tooltip_text_hkrul_sarg_marauder	Even though he is mere a Kurgan, Sargath revels in excess like any Slaaneshi Daemon Prince, a feat that draws many spawns of the God of Excellence.	true
 unit_abilities_onscreen_name_hkrul_sarg_marauder	Sargath's Finest	true
 effects_description_rhox_sarg_monster_direct_dummy	Master Temptator: Sargath may directly face monsters within the arcanum	false
+effects_description_hkrul_norsca_harpoon_ror_range	Range: %+n% for Hooks of Hjolda	false

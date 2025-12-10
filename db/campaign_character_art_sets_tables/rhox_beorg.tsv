@@ -1,5 +1,5 @@
-art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
-#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/rhox_beorg								
-hkrul_oerl	champion				false	true	hkrul_oerl	1.0900
-hkrul_beorg	general				false	true	hkrul_beorg	1.1700
-hkrul_beorg_bear	general				false	true	hkrul_beorg_bear	1.1300
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale	prebattle_separation_offset
+#campaign_character_art_sets_tables;7;db/campaign_character_art_sets_tables/rhox_beorg									
+hkrul_oerl	champion				false	true	hkrul_oerl	1.0900	0.0000
+hkrul_beorg	general				false	true	hkrul_beorg	1.1700	0.0000
+hkrul_beorg_bear	general				false	true	hkrul_beorg_bear	1.1300	0.0000

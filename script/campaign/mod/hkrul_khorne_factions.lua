@@ -34,30 +34,6 @@ cm:add_first_tick_callback(
     function()
     
         if khorne_factions[cm:get_local_faction_name(true)] then
-            core:add_listener(
-                "rhox_bloodfjord_disable_vanilla_occupation_options",
-                "PanelOpenedCampaign",
-                function(context)
-                    return context.string == "settlement_captured"
-                end,
-                function(context)
-                    local panel = find_uicomponent(core:get_ui_root(), "settlement_captured")
-                    local kill = find_uicomponent(panel, "1292694896")
-                    local maim = find_uicomponent(panel, "1369123792")
-                    local burn = find_uicomponent(panel, "1824195232")
-                            
-                    if kill then 
-                        kill:SetVisible(false)
-                    end
-                    if maim then
-                        maim:SetVisible(false)
-                    end
-                    if burn then
-                        burn:SetVisible(false)
-                    end  
-                end,
-                true
-            )
             rhox_bloodfjord_god_bar_ui()
         end
         

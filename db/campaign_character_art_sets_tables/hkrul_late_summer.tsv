@@ -1,8 +1,8 @@
-art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
-#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/hkrul_late_summer								
-hkrul_grydal	general				false	true	hkrul_grydal	0.8500
-hkrul_goftur	general				false	true	hkrul_goftur	1.1100
-hkrul_mermedus	general				false	true	hkrul_mermedus	0.8000
-hkrul_urf	general				false	true	hkrul_urf	1.1100
-hkrul_haraldur	champion				false	true	hkrul_haraldur	1.2000
-hkrul_sibat	general				false	true	hkrul_sibat	1.1100
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale	prebattle_separation_offset
+#campaign_character_art_sets_tables;7;db/campaign_character_art_sets_tables/hkrul_late_summer									
+hkrul_grydal	general				false	true	hkrul_grydal	0.8500	0.0000
+hkrul_goftur	general				false	true	hkrul_goftur	1.1100	0.0000
+hkrul_mermedus	general				false	true	hkrul_mermedus	0.8000	0.0000
+hkrul_urf	general				false	true	hkrul_urf	1.1100	0.0000
+hkrul_haraldur	champion				false	true	hkrul_haraldur	1.2000	0.0000
+hkrul_sibat	general				false	true	hkrul_sibat	1.1100	0.0000

@@ -33,7 +33,11 @@ hkrul_boartusk_horn	item_ability.png	300	item_ability.png	battle	true
 hkrul_bubos_eye_weak	item_ability.png	300	item_ability.png	battle	true
 hkrul_marauder_xp_gain	experience.png	298	experience.png	campaign	true
 hkrul_norscan_ogres_xp_gain	experience.png	298	experience.png	campaign	true
+hkrul_cursd_ettin_xp_gain_rate	experience.png	298	experience.png	campaign	true
 hkrul_norscan_ogres_melee_defence	defence.png	300	defence.png	battle	true
+hkrul_cursd_ettin_speed	battle_movement.png	301	battle_movement.png	battle	true
 hkrul_norscan_ogres_speed	battle_movement.png	301	battle_movement.png	battle	true
 hkrul_norscan_ogres_armour	armour.png	154	armour.png	battle	true
+hkrul_kurgan_horsemasters_armour	armour.png	154	armour.png	battle	true
 hkrul_norscan_ogres_melee_attack	melee.png	155	melee.png	battle	true
+hkrul_norsca_ror_tze_melee_defence	defence.png	300	defence.png	battle	true

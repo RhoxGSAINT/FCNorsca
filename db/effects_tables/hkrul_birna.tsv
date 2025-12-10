@@ -14,3 +14,7 @@ hkrul_birna_hunters_snipe	snipe.png	1	snipe.png	battle	true
 hkrul_birna_hunters_vanguard	attribute_guerrilla_deploy.png	1	attribute_guerrilla_deploy.png	battle	true
 hkrul_birna_feature_hunt	hkrul_effect_bundle_hunt_dummy.png	1	hkrul_effect_bundle_hunt_dummy.png	campaign	true
 hkrul_ulfric_diplo_marienburg	diplomacy.png	800	diplomacy.png	campaign	true
+hkrul_norsca_ror_sla_cap	unit_capacity.png	1	unit_capacity.png	campaign	true
+hkrul_norsca_ror_tze_cap	unit_capacity.png	1	unit_capacity.png	campaign	true
+hkrul_norsca_harpoon_ror_cap	unit_capacity.png	1	unit_capacity.png	campaign	true
+hkrul_eyrdal_thorn	item_ability.png	300	item_ability.png	battle	true

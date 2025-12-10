@@ -31,3 +31,4 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_skald_rally	true	true	false	hkrul_skald_rally
 1	hkrul_tuula_mark	true	false	false	hkrul_tuula_mark
 1	hkrul_snaegr_mark	true	false	false	hkrul_snaegr_mark
+1	hkrul_eyrdal_thorn	true	false	false	hkrul_eyrdal_thorn

@@ -18,6 +18,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_bearmen	wh2_dlc17_wulfrik_focus_units	false
 			hkrul_bearmen	wh2_main_ror_units_all	false
 			hkrul_bearmen	rhox_lccp_nor_vets_marauder_hunters_marauder_horsemen_ror	false
+			hkrul_bearmen	wh3_dlc27_nor_marauder_bearmen	false
 			hkrul_beorg_brown_feral	hkrul_oerl_bears	false
 			hkrul_beorg_ice_feral	hkrul_oerl_bears	false
 			wh_dlc08_nor_inf_marauder_hunters_0	hkrul_oerl_hunters	false

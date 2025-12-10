@@ -13,6 +13,7 @@ hkrul_yusak_horse_speed	battle_movement.png	155	battle_movement.png	battle	true
 hkrul_yusak_horse_rank	experience.png	156	experience.png	campaign	true
 hkrul_yusak_horse_missile	ranged_damage.png	157	ranged_damage.png	battle	true
 hkrul_yusak_horse_missile_resistance	resistance_missile.png	158	resistance_missile.png	battle	true
+hkrul_bearmen_missile_resist	resistance_missile.png	158	resistance_missile.png	battle	true
 hkrul_yusak_horse_range	accuracy.png	159	accuracy.png	battle	true
 hkrul_yusak_horse_melee_attack	melee.png	154	melee.png	battle	true
 hkrul_yusak_horse_leadership	morale.png	153	morale.png	battle	true
@@ -24,3 +25,5 @@ rhox_sarg_monster_direct_dummy	effect_bundle_temptation_sarg.png	2	effect_bundle
 hkrul_uzul_pas_drum_duration	magic_character.png	60	magic_character.png	battle	true
 rhox_sarg_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
 rhox_sarg_elite_bvl	bonus_vs_large_character.png	190	bonus_vs_large_character.png	both	true
+hkrul_norsca_harpoon_ror_missile	ranged_damage.png	157	ranged_damage.png	battle	true
+hkrul_norsca_harpoon_ror_range	accuracy.png	159	accuracy.png	battle	true

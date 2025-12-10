@@ -1,14 +1,14 @@
-art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
-#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/hkrul_nor_surp								
-hkrul_olg	champion				false	true	hkrul_olg	1.1100
-hkrul_tuula	champion				false	true	hkrul_tuula	1.1200
-hkrul_haftagg	champion				false	true	hkrul_haftagg	1.1100
-hkrul_olaf	general				false	true	hkrul_olaf	1.1100
-hkrul_bubos_boss	general				false	true	hkrul_bubos_boss	0.8000
-hkrul_orgrim	champion				false	true	hkrul_orgrim	1.1100
-hkrul_berus	champion				false	true	hkrul_berus	1.1100
-hkrul_usta	wizard				false	true	hkrul_usta	1.1200
-hkrul_kammler	wizard				false	true	hkrul_kammler	0.9000
-hkrul_eyri	general				false	true	hkrul_eyri	1.1100
-hkrul_hafskael	champion				false	true	hkrul_hafskael	1.1100
-hkrul_skoroth_boss	general				false	true	hkrul_skoroth_boss	1.0000
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale	prebattle_separation_offset
+#campaign_character_art_sets_tables;7;db/campaign_character_art_sets_tables/hkrul_nor_surp									
+hkrul_olg	champion				false	true	hkrul_olg	1.1100	0.0000
+hkrul_tuula	champion				false	true	hkrul_tuula	1.1200	0.0000
+hkrul_haftagg	champion				false	true	hkrul_haftagg	1.1100	0.0000
+hkrul_olaf	general				false	true	hkrul_olaf	1.1100	0.0000
+hkrul_bubos_boss	general				false	true	hkrul_bubos_boss	0.8000	0.0000
+hkrul_orgrim	champion				false	true	hkrul_orgrim	1.1100	0.0000
+hkrul_berus	champion				false	true	hkrul_berus	1.1100	0.0000
+hkrul_usta	wizard				false	true	hkrul_usta	1.1200	0.0000
+hkrul_kammler	wizard				false	true	hkrul_kammler	0.9000	0.0000
+hkrul_eyri	general				false	true	hkrul_eyri	1.1100	0.0000
+hkrul_hafskael	champion				false	true	hkrul_hafskael	1.1100	0.0000
+hkrul_skoroth_boss	general				false	true	hkrul_skoroth_boss	1.0000	0.0000

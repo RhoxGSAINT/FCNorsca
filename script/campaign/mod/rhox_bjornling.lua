@@ -169,7 +169,8 @@ local fish_ancillaries={
     "hkrul_norsca_fish_52",
     "hkrul_norsca_fish_53",
     "hkrul_norsca_fish_54",
-    "hkrul_norsca_fish_55", 
+    "hkrul_norsca_fish_55",
+    "hkrul_norsca_fish_56",
 }
 
 

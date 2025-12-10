@@ -1,27 +1,27 @@
-level_name	chain	level	create_time	create_cost	upkeep_cost	commodity	only_in_capital	faction_unique	first_in_world_bundle	resource_requirement	can_convert	building_instance_key	should_show_building_level_in_ui_for_technology	health_override	development_point_cost	can_be_damaged	primary_slot_building_building_level_requirement	audio_building_type	visible_in_ui	food_cost	slave_cap_contribution	resource_cost	additional_loot_value
-#building_levels_tables;0;db/building_levels_tables/ab_wolftribe																							
-hunting_camp_main_1	hunting_camp_main	0	1	1200	0		false	false			true	hunting_camp_main	false	0.0000	1	true	0		true	0	0		0
-hunting_camp_main_2	hunting_camp_main	1	1	2500	0		false	false			true	hunting_camp_main	false	0.0000	2	true	0		true	0	0		0
-hunting_camp_main_3	hunting_camp_main	2	1	5000	0		false	false			true	hunting_camp_main	false	0.0000	4	true	0		true	0	0		0
-hunting_camp_main_4	hunting_camp_main	3	1	10000	0		false	false			true	hunting_camp_main	false	0.0000	8	true	0		true	0	0		0
-hunting_camp_beast_packs_1	hunting_camp_beast_packs	0	1	500	0		false	false			true	hunting_camp_beast_packs	false	0.0000	1	true	0		true	0	0		0
-hunting_camp_beast_packs_2	hunting_camp_beast_packs	1	1	2000	0		false	false			true	hunting_camp_beast_packs	false	0.0000	0	true	1		true	0	0		0
-hunting_camp_beast_packs_3	hunting_camp_beast_packs	2	1	3000	0		false	false			true	hunting_camp_beast_packs	false	0.0000	0	true	3		true	0	0		0
-hunting_camp_shrine_1	hunting_camp_shrine	0	1	1000	0		false	false			true	hunting_camp_shrine	false	0.0000	1	true	0		true	0	0		0
-hunting_camp_shrine_2	hunting_camp_shrine	1	1	2500	0		false	false			true	hunting_camp_shrine	false	0.0000	0	true	1		true	0	0		0
-hunting_camp_shrine_3	hunting_camp_shrine	2	1	5000	0		false	false			true	hunting_camp_shrine	false	0.0000	0	true	2		true	0	0		0
-hunting_camp_shrine_4	hunting_camp_shrine	3	1	8000	0		false	false			true	hunting_camp_shrine	false	0.0000	0	true	3		true	0	0		0
-hunting_camp_defence_1	hunting_camp_defence	0	1	1000	0		false	false			true	hunting_camp_defence	false	0.0000	1	true	0		true	0	0		0
-hunting_camp_defence_2	hunting_camp_defence	1	1	2000	0		false	false			true	hunting_camp_defence	false	0.0000	0	true	1		true	0	0		0
-hunting_camp_defence_3	hunting_camp_defence	2	1	4000	0		false	false			true	hunting_camp_defence	false	0.0000	0	true	2		true	0	0		0
-hunting_camp_defence_4	hunting_camp_defence	3	1	6000	0		false	false			true	hunting_camp_defence	false	0.0000	0	true	3		true	0	0		0
-hunting_camp_hunting_parties_1	hunting_camp_hunting_parties	0	1	1500	0		false	false			true	hunting_camp_hunting_parties	false	0.0000	1	true	0		true	0	0		0
-hunting_camp_hunting_parties_2	hunting_camp_hunting_parties	1	1	2000	0		false	false			true	hunting_camp_hunting_parties	false	0.0000	0	true	1		true	0	0		0
-hunting_camp_hunting_parties_3	hunting_camp_hunting_parties	2	1	2500	0		false	false			true	hunting_camp_hunting_parties	false	0.0000	0	true	2		true	0	0		0
-hunting_camp_thrill_1	hunting_camp_thrill	0	1	1500	0		false	false			true	hunting_camp_thrill	false	0.0000	1	true	0		true	0	0		0
-hunting_camp_thrill_2	hunting_camp_thrill	1	1	2000	0		false	false			true	hunting_camp_thrill	false	0.0000	0	true	1		true	0	0		0
-hunting_camp_thrill_3	hunting_camp_thrill	2	1	2500	0		false	false			true	hunting_camp_thrill	false	0.0000	0	true	2		true	0	0		0
-wolftribe_greathall_0	wolftribe_greathall	0	2	2000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	1		true	0	0		0
-wolftribe_greathall_1	wolftribe_greathall	1	2	3000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	2		true	0	0		0
-wolftribe_greathall_2	wolftribe_greathall	2	3	4000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	3		true	0	0		0
-wolftribe_humbled_hall	wolftribe_humbled_hall	0	2	2550	0		false	false			true	wolftribe_humbled_hall	false	0.0000	0	true	2		true	0	0		0
+level_name	chain	level	create_time	create_cost	upkeep_cost	commodity	only_in_capital	faction_unique	first_in_world_bundle	resource_requirement	can_convert	building_instance_key	should_show_building_level_in_ui_for_technology	health_override	development_point_cost	can_be_damaged	primary_slot_building_building_level_requirement	audio_building_type	visible_in_ui	food_cost	slave_cap_contribution	resource_cost	additional_loot_value	resource_transaction_on_complete	split_chain_sort_order
+#building_levels_tables;2;db/building_levels_tables/ab_wolftribe																									
+hunting_camp_main_1	hunting_camp_main	0	1	1200	0		false	false			true	hunting_camp_main	false	0.0000	1	true	0		true	0	0		0		-1
+hunting_camp_main_2	hunting_camp_main	1	1	2500	0		false	false			true	hunting_camp_main	false	0.0000	2	true	0		true	0	0		0		-1
+hunting_camp_main_3	hunting_camp_main	2	1	5000	0		false	false			true	hunting_camp_main	false	0.0000	4	true	0		true	0	0		0		-1
+hunting_camp_main_4	hunting_camp_main	3	1	10000	0		false	false			true	hunting_camp_main	false	0.0000	8	true	0		true	0	0		0		-1
+hunting_camp_beast_packs_1	hunting_camp_beast_packs	0	1	500	0		false	false			true	hunting_camp_beast_packs	false	0.0000	1	true	0		true	0	0		0		-1
+hunting_camp_beast_packs_2	hunting_camp_beast_packs	1	1	2000	0		false	false			true	hunting_camp_beast_packs	false	0.0000	0	true	1		true	0	0		0		-1
+hunting_camp_beast_packs_3	hunting_camp_beast_packs	2	1	3000	0		false	false			true	hunting_camp_beast_packs	false	0.0000	0	true	3		true	0	0		0		-1
+hunting_camp_shrine_1	hunting_camp_shrine	0	1	1000	0		false	false			true	hunting_camp_shrine	false	0.0000	1	true	0		true	0	0		0		-1
+hunting_camp_shrine_2	hunting_camp_shrine	1	1	2500	0		false	false			true	hunting_camp_shrine	false	0.0000	0	true	1		true	0	0		0		-1
+hunting_camp_shrine_3	hunting_camp_shrine	2	1	5000	0		false	false			true	hunting_camp_shrine	false	0.0000	0	true	2		true	0	0		0		-1
+hunting_camp_shrine_4	hunting_camp_shrine	3	1	8000	0		false	false			true	hunting_camp_shrine	false	0.0000	0	true	3		true	0	0		0		-1
+hunting_camp_defence_1	hunting_camp_defence	0	1	1000	0		false	false			true	hunting_camp_defence	false	0.0000	1	true	0		true	0	0		0		-1
+hunting_camp_defence_2	hunting_camp_defence	1	1	2000	0		false	false			true	hunting_camp_defence	false	0.0000	0	true	1		true	0	0		0		-1
+hunting_camp_defence_3	hunting_camp_defence	2	1	4000	0		false	false			true	hunting_camp_defence	false	0.0000	0	true	2		true	0	0		0		-1
+hunting_camp_defence_4	hunting_camp_defence	3	1	6000	0		false	false			true	hunting_camp_defence	false	0.0000	0	true	3		true	0	0		0		-1
+hunting_camp_hunting_parties_1	hunting_camp_hunting_parties	0	1	1500	0		false	false			true	hunting_camp_hunting_parties	false	0.0000	1	true	0		true	0	0		0		-1
+hunting_camp_hunting_parties_2	hunting_camp_hunting_parties	1	1	2000	0		false	false			true	hunting_camp_hunting_parties	false	0.0000	0	true	1		true	0	0		0		-1
+hunting_camp_hunting_parties_3	hunting_camp_hunting_parties	2	1	2500	0		false	false			true	hunting_camp_hunting_parties	false	0.0000	0	true	2		true	0	0		0		-1
+hunting_camp_thrill_1	hunting_camp_thrill	0	1	1500	0		false	false			true	hunting_camp_thrill	false	0.0000	1	true	0		true	0	0		0		-1
+hunting_camp_thrill_2	hunting_camp_thrill	1	1	2000	0		false	false			true	hunting_camp_thrill	false	0.0000	0	true	1		true	0	0		0		-1
+hunting_camp_thrill_3	hunting_camp_thrill	2	1	2500	0		false	false			true	hunting_camp_thrill	false	0.0000	0	true	2		true	0	0		0		-1
+wolftribe_greathall_0	wolftribe_greathall	0	2	2000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	1		true	0	0		0		-1
+wolftribe_greathall_1	wolftribe_greathall	1	2	3000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	2		true	0	0		0		-1
+wolftribe_greathall_2	wolftribe_greathall	2	3	4000	0		false	false			true	wolftribe_greathall	false	0.0000	0	true	3		true	0	0		0		-1
+wolftribe_humbled_hall	wolftribe_humbled_hall	0	2	2550	0		false	false			true	wolftribe_humbled_hall	false	0.0000	0	true	2		true	0	0		0		-1

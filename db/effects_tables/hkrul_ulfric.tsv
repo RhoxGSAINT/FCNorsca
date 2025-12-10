@@ -37,3 +37,5 @@ hkrul_geimdall_diplo_bjornling	diplomacy.png	300	diplomacy.png	campaign	true
 hkrul_ulfric_diplo_geimdall	diplomacy.png	300	diplomacy.png	campaign	true
 hkrul_ulfric_diplo_eyri	diplomacy.png	301	diplomacy.png	campaign	true
 hkrul_bjornling_fish_dummy	hkrul_bjornling_fish.png	252	hkrul_bjornling_fish.png	campaign	true
+hkrul_shieldmaiden_effect_agent_enable_recruitment_spy	scm_fc_norsca_spy_skald.png	203	scm_fc_norsca_spy_skald.png	campaign	true
+hkrul_effect_agent_cap_increase_spy_shieldmaiden	scm_fc_norsca_spy_skald.png	302	scm_fc_norsca_spy_skald.png	campaign	true

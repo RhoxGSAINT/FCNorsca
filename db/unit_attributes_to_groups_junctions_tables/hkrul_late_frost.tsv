@@ -35,3 +35,6 @@ causes_fear	hkrul_skoroth_boss
 mark_nurgle	hkrul_skoroth_boss
 hide_forest	hkrul_haraldur
 encourages	hkrul_haraldur
+hide_forest	hkrul_shieldmaiden
+charge_defense	hkrul_shieldmaiden
+encourages	hkrul_shieldmaiden

@@ -20,6 +20,11 @@ local rhox_fc_norsca_unlockable_ror_list={
         init_faction="wh_main_nor_bjornling",
         agent_subtype="hkrul_ulfric",
     },
+    hkrul_norsca_harpoon_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="wh_main_nor_bjornling",
+        agent_subtype="hkrul_ulfric",        
+    },
     rhox_skeggi_dodvakt={
         culture="wh_dlc08_nor_norsca",
         init_faction="wh2_main_nor_skeggi",

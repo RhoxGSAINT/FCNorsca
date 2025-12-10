@@ -44,3 +44,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_skeggi_giant_ror	hkrul_norsca_giants	false
 			wh_dlc08_nor_mon_norscan_giant_0	hkrul_norsca_giants	false
 			wh_dlc08_nor_mon_war_mammoth_ror_1	hkrul_mawherd_bloodfjord	false
+			hkrul_shieldmaiden	mp_cap_group_heroes	false
+			hkrul_shieldmaiden	nor_all	false
+			hkrul_shieldmaiden	all_non_chs	false
+			hkrul_shieldmaiden	hkrul_shieldmaiden	false

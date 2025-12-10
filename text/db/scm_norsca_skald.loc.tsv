@@ -71,3 +71,12 @@ character_skills_localised_description_rhox_skald_skill_node_unique_06	They cry 
 unit_abilities_onscreen_name_hkrul_skald_rally	Chant of Shieldsplitters	false
 unit_abilities_tooltip_text_hkrul_skald_rally	They cry out the names of wolf-born heroes — Bjarki, Svanhild, Hrothgar — and the blood remembers.	false
 effects_description_hkrul_skald_rally	Ability: "Chant of Shieldsplitters"	false
+effects_description_hkrul_shieldmaiden_effect_agent_enable_recruitment_spy	Enables [[img:icon_hero]][[/img]]Hero recruitment: Shieldmaiden	false
+agent_culture_details_description_text_9880129	Among the Bjornling and Vanaheim tribes, the Shieldmaidens are revered as warriors of tradition — protectors of homestead, hall, and honour. While many Norsemen seek blood and glory far from their shores, these women carry the fire of their people within.	false
+agent_culture_details_onscreen_name_9880129	Shieldmaiden	false
+agent_subtypes_description_text_override_hkrul_shieldmaiden		false
+agent_subtypes_onscreen_name_override_hkrul_shieldmaiden	Shieldmaiden	false
+land_units_onscreen_name_hkrul_shieldmaiden	Shieldmaiden	false
+unit_description_short_texts_text_hkrul_shieldmaiden	To fight is the shieldmaiden's birthright, to die without honour their only fear.	false
+unit_description_historical_texts_text_hkrul_shieldmaiden	The Shieldmaidens of the north are more than myth — they are war-wrought daughters of iron, shield-sworn and spear-trained from youth. Forged by the unrelenting trials of Norscan life, they stand equal among warriors, their discipline and fury a match for any marauder or berserker. These women are not mere consorts of war, but champions of it — guardians of clan hearths, slayers of beasts, and defenders of the longships. Whether facing the horrors of the Chaos Wastes or rival tribes, a Shieldmaiden does not break — she plants her shield and makes her stand.	false
+effects_description_hkrul_effect_agent_cap_increase_spy_shieldmaiden	Hero capacity: %+n for Shieldmaidens	false

@@ -1,3 +1,9 @@
+2025/DEC/SCM
+- Removed the old hunt script as it is no longer needed
+- Removed the old occupation hiding script as it is no longer needed
+- Removed Birna's redoing monster hunt thing since all Norscas can do that
+
+
 2025/APR/SCM
 - Fixed an issue where Hakka the Aesling had the wrong mount mentioned
 - Increased size of Hakka the Aesling on the campaign map when mounted

@@ -6,3 +6,5 @@ key	filename	range	animated
 4049	warmachines/engines/nor_mobile_siege_tower/nor_varg_siege_tower_v3_dest.wsmodel	0.0000	nor_mobile_siege_tower_destruction
 2024	warmachines/chariot/nor_war_wagon/nor_war_wagon_02.wsmodel	0.0000	nor_war_wagon_plain
 2025	warmachines/chariot/nor_war_wagon/nor_war_wagon_01_destroyed.wsmodel	0.0000	nor_war_wagon_plain_destruction
+2146659998	warmachines/engines/phy_harpoon_thrower/phy_harpoon_thrower_03.rigid_model_v2	0.0000	phy_harpoon_thrower_03
+2146659999	warmachines/engines/phy_harpoon_thrower/phy_harpoon_thrower_03_destroyed.rigid_model_v2	0.0000	phy_harpoon_thrower_03_destruct

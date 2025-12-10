@@ -641,7 +641,7 @@ local rhox_faction_list={
             }
             
             rhox_add_faction_akkorak_pool_units(faction, rhox_akkorak_units)
-
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_lokjar", faction:faction_leader():command_queue_index(), true) 
         end,
         first_tick = function(faction, faction_key) 
         end

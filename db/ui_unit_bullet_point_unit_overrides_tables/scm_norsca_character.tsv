@@ -146,3 +146,8 @@ hkrul_hornblower	hkrul_skald_horn
 hkrul_norsca_drum	hkrul_skald_drum
 armour_piercing	hkrul_skald_drum
 armour_piercing	hkrul_skald_horn
+anti_large	scm_norsca_asta_QB
+armour_piercing	scm_norsca_asta_QB
+hybrid	scm_norsca_asta_QB
+shielded	hkrul_shieldmaiden
+support	hkrul_shieldmaiden

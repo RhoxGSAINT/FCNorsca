@@ -1,5 +1,5 @@
 key	active_initiative_limit	activation_cooldown	category	points_limit	allows_multiple_activation	base_cost	use_force_pooled_resources
-#initiative_sets_tables;6;db/initiative_sets_tables/hkrul_late_summer							
+#initiative_sets_tables;7;db/initiative_sets_tables/hkrul_late_summer							
 hkrul_grydal_initiative_set	-1	0	PATH_TO_GLORY_BOON	0	false		false
 hkrul_grydal_ascend	1	10	PATH_TO_GLORY_MARK	0	false		false
 hkrul_goftur_initiative_set	-1	0	PATH_TO_GLORY_BOON	0	false		false

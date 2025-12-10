@@ -10,3 +10,6 @@ causes_fear	hkrul_beorg_bear_sem
 strider	hkrul_beorg_bear_sem
 guerrilla_deploy	hkrul_beorg_bear_sem
 ignore_trees	hkrul_beorg_bear_sem
+hide_forest	hkrul_norsca_harpoon_ror
+guerrilla_deploy	hkrul_norsca_harpoon_ror
+cant_run	hkrul_norsca_harpoon_ror

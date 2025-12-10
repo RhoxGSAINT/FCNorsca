@@ -3,3 +3,4 @@ key	precursor	default_projectile	audio_type	use_secondary_ammo_pool
 hkrul_mermedus	false	hkrul_mermedus	javelin	false
 eyri_jag_killshot	false	eyri_jag_killshot	bow_large	false
 eyri_jag	true	eyri_jag	javelin	false
+hkrul_norsca_harpoon_ror	false	hkrul_norsca_harpoon_ror	bolt_large	false

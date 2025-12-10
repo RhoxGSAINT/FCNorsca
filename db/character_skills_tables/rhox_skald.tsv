@@ -12,3 +12,11 @@ rhox_skald_skill_node_unique_04_horn	hkrul_skald_horn_skill.png			0	false	false	
 rhox_skald_skill_node_unique_04_drum	hkrul_skald_drum_skill.png			0	false	false	false	0.0000	0
 hkrul_skill_node_unique_saga	hkrul_drum_pas_1.png			0	false	false	false	0.0000	0
 rhox_skald_skill_node_unique_06	hkrul_skald_drum_skill.png			0	false	false	false	0.0000	0
+hkrul_shieldmaiden_campaign_agent_actions_dummy	battle_attack.png		Actions [HIDDEN]	0	false	false	false	0.0000	0
+hkrul_shieldmaiden_campaign_sharpen	battle_damage.png	wh2_main_skill_all_hero_assist_army_training		5	false	false	false	0.0000	0
+hkrul_shieldmaiden_skill_node_unique_01	campaign_replenishment.png			0	false	false	false	0.0000	0
+hkrul_shieldmaiden_skill_node_unique_02	character_general_ability.png			0	false	false	false	0.0000	0
+hkrul_shieldmaiden_skill_node_unique_03	character_general_ability.png			0	false	false	false	0.0000	0
+hkrul_shieldmaiden_skill_node_unique_04	hkrul_skald_horn_skill.png			0	false	false	false	0.0000	0
+hkrul_hkrul_shieldmaiden_node_unique_saga	hkrul_drum_pas_1.png			0	false	false	false	0.0000	0
+hkrul_shieldmaiden_skill_node_unique_06	hkrul_skald_drum_skill.png			0	false	false	false	0.0000	0

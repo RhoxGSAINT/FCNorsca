@@ -1,4 +1,5 @@
-key	agent_key	for_army	for_navy	faction_key	campaign_key	subculture	agent_subtype_key
+key	agent_key	for_army	faction_key	for_navy	campaign_key	subculture	agent_subtype_key
 #character_skill_node_sets_tables;0;db/character_skill_node_sets_tables/rhox_beorg							
-skill_node_set_hkrul_beorg	general	false	false				hkrul_beorg
-skill_node_set_hkrul_oerl	champion	false	false				hkrul_oerl
+skill_node_set_hkrul_beorg	general	false		false			hkrul_beorg
+skill_node_set_hkrul_oerl	champion	false		false			hkrul_oerl
+skill_node_set_hkrul_shieldmaiden	runesmith	false		false			hkrul_shieldmaiden

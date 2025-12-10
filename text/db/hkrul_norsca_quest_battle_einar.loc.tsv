@@ -4,14 +4,14 @@ scripted_objectives_localised_text_hkrul_baerson_einar_bubos_cygors	"Steel your 
 scripted_objectives_localised_text_hkrul_baerson_einar_bubos_main_objective	Defeat Bubos to reveal the location of Nurgle's Palace.	false
 scripted_objectives_localised_text_hkrul_baerson_einar_bubos_start_battle	Bring down Bubos the Vile!	false
 battle_set_pieces_localised_description_hkrul_baerson_einar_bubos	At the edge of the Lake of Rot, Einarr Sigdansson faces his greatest trial. Bubos, Nurgle’s ancient wyrm, rises from the tainted waters to block the path to the Palace of Plagues. Its breath rots steel, its wings spread corruption, and its bloated body bears the weight of a thousand dying worlds. To reach the heart of Nurgle’s domain and claim the artifact promised by Tzeentch, Einarr must bring down the foul beast. Victory or death—there is no other fate upon these poisoned shores.	false
-battle_set_pieces_localised_name_hkrul_baerson_einar_bubos	The Lake of Rot	false
+battle_set_pieces_localised_name_hkrul_baerson_einar_bubos	Palace of the Plaguelord: The Lake of Rot	false
 battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_bubos_enemy_beastmen_main	Bubos the Vile	false
 battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_bubos_enemy_beastmen_reserve	Nurgle Swarm	false
 battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_bubos_player	Baersonling Tribe	false
 loading_screen_quotes_description_hkrul_baerson_einar_bubos_player	Through blood, ice, and madness, Einarr Sigdansson has carved a path deep into the Wastes, his people hardened by horrors beyond mortal reckoning. Now, before the rotted gates of Nurgle’s Palace, a final guardian rises — Bubos, the festering wyrm of the Lake of Rot. It is no mortal beast that blocks the way, but a creature bloated on plague and blasphemy, ancient and monstrous. Its wings drip with corruption; its breath withers flesh and steel alike. There can be no retreat, no second chance. Slay the dragon, or perish in the filth of a false god’s domain. The Palace lies beyond... but so does the final test of will, faith, and vengeance.	false
 loading_screen_quotes_title_hkrul_baerson_einar_bubos_player	The Lake of Rot	false
 missions_localised_description_hkrul_baerson_einar_bubos_battle	At the threshold of Nurgle’s Palace, Einarr faces Bubos, the Lake of Rot’s foul guardian. To reach the artifact and fulfill his bargain, he must slay the beast born of filth and corruption.	false
-missions_localised_title_hkrul_baerson_einar_bubos_battle	The Lake of Rot	false
+missions_localised_title_hkrul_baerson_einar_bubos_battle	Palace of the Plaguelord: The Lake of Rot	false
 missions_localised_mission_completed_text_hkrul_baerson_einar_bubos_battle		false
 scripted_objectives_localised_description_hkrul_baerson_einar_bubos_cygors		false
 scripted_objectives_localised_description_hkrul_baerson_einar_bubos_main_objective		false
@@ -50,10 +50,10 @@ battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_enemy	Aes
 battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_ally	Asta of Vinnskor	false
 battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_aesling_player	Baersonling Tribe	false
 missions_localised_description_hkrul_baerson_einar_aesling_battle	The raven’s call has unlocked something within Einarr — a memory buried in blood. In restless sleep, he is dragged back to Vinnskor, forced to watch his kin fall and his wife slain by the monstrous Aesling bloodbeast. Only by facing this nightmare can Einarr begin the path toward vengeance and reclaim what was lost.	false
-missions_localised_title_hkrul_baerson_einar_aesling_battle	Dreams of Ruin	false
+missions_localised_title_hkrul_baerson_einar_aesling_battle	Palace of the Plaguelord: Dreams of Ruin	false
 missions_localised_mission_completed_text_hkrul_baerson_einar_aesling_battle		false
 loading_screen_quotes_description_hkrul_baerson_einar_aesling_player	It begins in stillness — the snow, the smoke, the stench of blood not yet spilled. Vinnskor lives again in dream, but death walks its alleys once more. In the hush before slaughter, Einarr sees himself powerless, his blade heavy, his cries drowned in silence. This is no simple memory — it is prophecy inverted, a lesson etched in blood and regret. He ran to her side — too slow, too late — and the beast was already feeding.	false
-loading_screen_quotes_title_hkrul_baerson_einar_aesling_player	Dreams of Ruin	false
+loading_screen_quotes_title_hkrul_baerson_einar_aesling_player	Palace of the Plaguelord: Dreams of Ruin	false
 land_units_onscreen_name_hkrul_skraevold	Bloodbeast of Skraevold	false
 unit_description_short_texts_text_hkrul_skraevold	Born of snow and slaughter, the Bloodbeast of Skraevold howls only for ruin.	false
 unit_description_historical_texts_text_hkrul_skraevold	The Bloodbeast of Skraevold is no mere monster, but a spawn of Chaos gifted to the Aeslings during one of their bloodiest raids. Towering over men, with sinew taut as steel and fur matted with the gore of a hundred feasts, it tore through the village of Vinnskor like an avatar of Khorne. There, it slew Einarr’s wife before his eyes, the memory of her lifeless body forever seared into his soul. Since that day, the beast has haunted his dreams, and perhaps — in some cursed corner of reality — still walks.	false
@@ -70,3 +70,20 @@ character_trait_levels_colour_text_hkrul_defeated_trait_skoroth	"No plague can s
 character_trait_levels_explanation_text_hkrul_defeated_trait_skoroth	Defeated Skoroth the Plaguelord	true
 unit_abilities_onscreen_name_hkrul_skoroth_pas	Blightfeast Ascendant	false
 unit_abilities_tooltip_text_hkrul_skoroth_pas	With every corpse, his strength swells. The rot is not decay — it is fuel.	false
+scripted_objectives_localised_text_hkrul_skoroth_hint_01	There it stands... The Palace.. a boil upon the world — and I am the knife.	false
+scripted_objectives_localised_text_hkrul_skoroth_hint_02	Skoroth! Your filth rots the roots of my world — and I’ve come to burn it clean!	false
+scripted_objectives_localised_text_hkrul_skoroth_objective_01	Defeat the Plaguelord's Worshippers	false
+scripted_objectives_localised_text_hkrul_skoroth_objective_02	Defeat Nurgle's Forces	false
+scripted_objectives_localised_text_hkrul_skoroth_objective_03	Defeat Skoroth the Plaguelord	false
+scripted_objectives_localised_description_hkrul_skoroth_objective_03	Defeating the Plaguelord will stop the Nurgle reinforcements	false
+battle_set_piece_armies_army_onscreen_name_hkrul_skoroth_nor	Mortal Worshippers	false
+battle_set_piece_armies_army_onscreen_name_hkrul_skoroth_nur	Daemons of Nurgle	false
+battle_set_piece_armies_army_onscreen_name_hkrul_skoroth_skoroth	Skoroth the Plaguelord	false
+battle_set_piece_armies_army_onscreen_name_whkrul_skoroth_nur2	Daemons of Nurgle	false
+battle_set_pieces_localised_description_hkrul_baerson_einar_skoroth	At the edge of the rot-choked wastes lies the festering citadel of Skoroth the Plaguelord, where filth runs thicker than blood and the air itself is a curse. Einarr has come not for conquest, but reckoning — to destroy the daemon who defiled his lands and dreams. The gate will not open to steel alone. Madness waits within.	false
+battle_set_pieces_localised_name_hkrul_baerson_einar_skoroth	Palace of the Plaguelord	false
+missions_localised_title_hkrul_baerson_einar_palace_battle	Palace of the Plaguelord	false
+missions_localised_description_hkrul_baerson_einar_palace_battle	There is no glory left in him. No war-song to howl, no kin to hear it. Only red snow, running bile, and the clawing truth that this was never vengeance — only inevitability. Einarr marches not toward triumph, but to the end of his line, his legacy, and himself. At the edge of the Plaguelord’s domain, the knife begins to turn.	false
+loading_screen_quotes_description_hkrul_baerson_einar_skoroth_player	The air congeals like spoiled milk, thick with pestilent vapors and the stench of unmaking. Einarr knows what waits — not just death, but the truth. Before the gates of the Plaguelord's palace, he must carve through waves of the wretched, the bloated, and the damned. Only then will Skoroth emerge, drawn by blood and fury, to end what fate began.	false
+loading_screen_quotes_title_hkrul_baerson_einar_skoroth_player	Palace of the Plaguelord	false
+battle_set_piece_armies_army_onscreen_name_hkrul_baerson_einar_skoroth_player	Baersonling Tribe	false

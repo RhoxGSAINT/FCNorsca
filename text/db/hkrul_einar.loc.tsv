@@ -72,7 +72,7 @@ initiatives_localised_description_rhox_baersonling_chaos_lord_tzeentch_from_mara
 initiatives_localised_name_rhox_baersonling_chaos_lord_tzeentch_from_marauder_chieftain	Devote to Tzeentch	false
 character_skill_node_sets_enc_title_rhox_baersonling_daemon_prince_tzeentch		false
 ui_text_replacements_localised_text_corruption_effect_prefix_tzeentch_rhox_baersonling	[[col:green]]	false
-effect_bundles_localised_description_hkrul_einar_faction_trait	Einarr Sigdansson	false
+effect_bundles_localised_description_hkrul_einar_faction_trait	Plagued by visions and driven by vengeance, Einarr marches toward the festering palace of Skoroth the Plaguelord — a doomed path through madness, memory, and monsters.	false
 effect_bundles_localised_title_hkrul_einar_faction_trait	Einarr Sigdansson	false
 initiatives_localised_description_rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	Character must reach rank 30	false
 initiatives_localised_name_rhox_baersonling_daemon_prince_tzeentch_from_chaos_lord_tzeentch	Ascend to Daemonhood (Tzeentch)	false
@@ -120,8 +120,8 @@ missions_localised_title_rhox_baersonling_chain_3	Palace of the Plaguelord: Ashe
 missions_localised_description_rhox_baersonling_chain_3	Take back the remains of Vinnskor and restore a foothold for your scattered people. Begin rebuilding the future from ash and memory. From shattered stones, the Baerson legacy will rise anew	false
 missions_localised_title_rhox_baersonling_chain_4	Palace of the Plaguelord: The Witch	false
 missions_localised_title_rhox_baersonling_chain_4b	Palace of the Plaguelord: The Wolf	false
-missions_localised_description_rhox_baersonling_chain_4b	The wild path calls. Recruit two Werekin heroes to lead your fury across the blighted North. Let tooth and claw be your guide through the dark woods ahead.	false
-missions_localised_description_rhox_baersonling_chain_4	Winds of sorcery stir. Recruit two Shaman Sorcerers to guide you through Tzeentch’s twisting schemes. The skein of fate is tangled—only the witches may know how to pull the right thread.	false
+missions_localised_description_rhox_baersonling_chain_4b	Winds of sorcery stir. Recruit two Shaman Sorcerers to guide you through Tzeentch’s twisting schemes. The skein of fate is tangled—only the witches may know how to pull the right thread.	false
+missions_localised_description_rhox_baersonling_chain_4	The wild path calls. Recruit two Werekin heroes to lead your fury across the blighted North. Let tooth and claw be your guide through the dark woods ahead.	false
 missions_localised_title_rhox_baersonling_chain_5	Palace of the Plaguelord: The Icy Crossing	false
 missions_localised_description_rhox_baersonling_chain_5	Raid the Monolith of Bubonicus, defiling Nurgle’s claim and staking your place in the Wastes. Let your warband's banner be planted in blight, not bowed before it.	false
 missions_localised_title_rhox_baersonling_chain_6	Palace of the Plaguelord: The Rotborn Gatekeeper	false
@@ -137,6 +137,7 @@ unit_description_short_texts_text_hkrul_norsca_ymir_ror	Deemed ''The Grandfather
 unit_abilities_onscreen_name_hkrul_ulfric_ymir_ror	Stalker of Naglfari	false
 unit_abilities_tooltip_text_hkrul_ulfric_ymir_ror	Unlike most Ymir, this gigantic beast bears the clear taint of chaos. During a snowstorm it once killed over fifty Aesling whilst remaining unseen	false
 effects_description_hkrul_einar_feature_dummy	Follow Einarr on his narrative driven journey as Tzeentch sends him to the gates of Nurgle's palace	false
+effects_description_hkrul_baersonling_teleport	Armies may use the Teleport Stance	false
 incidents_button_text_rhox_baersonling_chain_2	Begin the journey north!	false
 incidents_localised_description_rhox_baersonling_chain_2	Far from the shattered halls of Vinnskor, Einarr Sigdansson dreams of a black-winged messenger. The raven speaks of oaths unbroken and bloodlines yet unextinguished - "Return to Vinnskor," it cries, "for what was lost may yet be taken back."-  Driven by vision and vengeance, Einarr knows his destiny lies not in wandering foreign shores, but in leading the Baersonlings home—to reclaim their honour and their land by axe and fire.	false
 incidents_localised_title_rhox_baersonling_chain_2	The Raven’s Dream	false
@@ -168,16 +169,14 @@ cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain
 cdir_events_dilemma_choice_details_localised_choice_label_rhox_baersonling_chain_8SECOND	Keep the Festerheart	false
 cdir_events_dilemma_choice_details_localised_choice_title_rhox_baersonling_chain_8SECOND	Keep the Festerheart	false
 campaign_payload_ui_details_description_rhox_baersonling_hkrul_usta_joins	Usta the Witch joins your companionship	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_orgrim_joins	Orgrim the Wanderer your companionship	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_orgrim_joins	Orgrim the Wanderer joins your companionship	false
 campaign_payload_ui_details_description_rhox_baersonling_hkrul_berus_joins	Berus of Veigs joins your companionship	false
 campaign_payload_ui_details_description_rhox_baersonling_hkrul_kammler_joins	Ernst von Kammler joins your companionship	false
 campaign_payload_ui_details_description_rhox_baersonling_asta_joins	Asta of Vinnskor will return	false
-campaign_payload_ui_details_description_rhox_baersonling_hkrul_festerheart	The Daemon will turn on you	false
-missions_localised_title_hkrul_baerson_einar_palace_battle	missions_localised_title_hkrul_baerson_einar_palace_battle	false
-missions_localised_description_hkrul_baerson_einar_palace_battle	missions_localised_description_hkrul_baerson_einar_palace_battle	false
+campaign_payload_ui_details_description_rhox_baersonling_hkrul_festerheart	Yth’nitzzilik the Changer vows revenge against the Baersonling	false
 missions_localised_mission_completed_text_hkrul_baerson_einar_palace_battle		false
 effect_bundles_localised_title_rhox_baersonling_teleport	All armies will gain acces to the Teleport Mechanic	false
-effect_bundles_localised_description_rhox_baersonling_teleport	Free Wifu and free Wifi teleport	false
+effect_bundles_localised_description_rhox_baersonling_teleport	All armies will gain acces to the Teleport Mechanic	false
 ancillaries_colour_text_hkrul_festerheart	No one remembers what Festerheart once was — a charm, a relic, a warrior’s token? It no longer matters. Twisted by the Plague God's touch, it now pulses with rotten vitality, each thump a drumbeat of contagion. The bearer feels pain and power in equal measure, as suppurating boils blossom with every heartbeat, spilling foul blessings onto allies… and horrors upon foes. Those nearby swear they can hear it breathing.	true
 ancillaries_onscreen_name_hkrul_festerheart	The Festerheart	true
 unit_abilities_tooltip_text_hkrul_festerheart	A loathsome relic, its diseased pulse spreads both strength and sickness in equal, oozing measure.	true
@@ -193,5 +192,6 @@ scripted_objectives_localised_text_hkrul_einarr_nightmare_hint_save_her	NO! Not 
 scripted_objectives_localised_text_hkrul_einarr_nightmare_victory_hint	You drove them off. But it's never enough. The dream always ends the same...Asta.. Fallen to The Bloodbeast.	false
 scripted_objectives_localised_text_ally_hurt	PLACEHOLDER	false
 scripted_objectives_localised_text_enemy_hurt	PLACEHOLDER	false
-scripted_objectives_localised_text_asta_dead_hint	PLACEHOLDER_WIFU_IS_DEAD	false
+scripted_objectives_localised_text_asta_dead_hint	NO!! ASTA!! I WILL HAVE MY REVENGE!	false
 scripted_objectives_localised_text_enemy_hurt_hint	PLACEHOLDER_ENEMY	false
+names_name_7170700356	Yth’nitzzilik	false

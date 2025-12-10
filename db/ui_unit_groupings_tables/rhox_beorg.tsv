@@ -2,3 +2,4 @@ key	icon	parent_group
 #ui_unit_groupings_tables;1;db/ui_unit_groupings_tables/rhox_beorg		
 hkrul_beorg	wh_dlc06_dwf_throwing_axe	commander
 hkrul_hornblower	infantry_hornblower	heroes_agents
+hkrul_shieldmaiden	infantry_hornblower	heroes_agents

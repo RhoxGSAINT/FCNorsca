@@ -1,47 +1,51 @@
-art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale
-#campaign_character_art_sets_tables;6;db/campaign_character_art_sets_tables/scm_norsca								
-hkrul_adella	general				false	true	hkrul_adella	1.1800
-hkrul_soren	wizard				false	true	hkrul_soren	1.1300
-hkrul_akkorak	general				false	true	hkrul_akkorak	1.1200
-hkrul_birna	general				false	true	hkrul_birna	1.1400
-hkrul_drenok	general				false	true	hkrul_drenok	1.0800
-hkrul_einar	general				false	true	hkrul_einar	1.1400
-hkrul_harald	general				false	true	hkrul_harald	0.9000
-hkrul_sayl	general				false	true	hkrul_sayl	1.1600
-hkrul_ulfric	general				false	true	hkrul_ulfric	1.1000
-hkrul_verdandi	champion				false	true	hkrul_verdandi	1.1100
-hkrul_kolsveinn	champion				false	true	hkrul_kolsveinn	1.1000
-hkrul_swyrd	champion				false	true	hkrul_swyrd	1.0700
-hkrul_lokjar	champion				false	true	hkrul_lokjar	1.0400
-hkrul_bjornling_ogg	general				false	true	hkrul_bjornling_ogg	1.1100
-hkrul_ziege	general				false	true	hkrul_ziege	1.1100
-hkrul_hakka	general				false	true	hkrul_hakka	1.1600
-hkrul_oda	champion				false	true	hkrul_oda	1.1900
-hkrul_rafn	champion				false	true	hkrul_rafn	0.9700
-hkrul_hrothgar	general				false	true	hkrul_hrothgar	1.1500
-rhox_baersonling_daemon_prince_tzeentch_1	general				false	true	rhox_baersonling_daemon_prince_tzeentch	0.5000
-rhox_baersonling_daemon_prince_tzeentch_2	general				false	true	rhox_baersonling_daemon_prince_tzeentch	0.5000
-rhox_baersonling_daemon_prince_tzeentch_3	general				false	true	rhox_baersonling_daemon_prince_tzeentch	0.5000
-rhox_baersonling_chs_lord_mtze_01	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000
-rhox_baersonling_chs_lord_mtze_02	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000
-rhox_baersonling_chs_lord_mtze_03	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000
-rhox_baersonling_chs_lord_mtze_04	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000
-hkrul_uzul	champion				false	true	hkrul_uzul	1.1100
-hkrul_sarg	general				false	true	hkrul_sarg	1.0000
-hkrul_surtha_ek	general				false	true	hkrul_surtha_ek	1.0000
-scm_norsca_huern	general	wh_dlc08_nor_norsca			false	true	scm_norsca_huern	1.0000
-nor_skin_wolf_lord	general				false	true	nor_skin_wolf_lord	1.0000
-nor_skin_wolf_lord_02	general				false	true	nor_skin_wolf_lord	1.0000
-nor_skin_wolf_lord_03	general				false	true	nor_skin_wolf_lord	1.0000
-scm_norsca_ulsdau	champion				false	true	scm_norsca_ulsdau	0.7600
-scm_norsca_asta	general				false	true	scm_norsca_asta	1.0000
-scm_norsca_alfkael	wizard				false	true	scm_norsca_alfkael	1.0000
-hkrul_graill	champion				false	true	hkrul_graill	0.7600
-hkrul_hildr	champion				false	true	hkrul_hildr	1.1100
-hkrul_skald_horn_1	spy				false	true	hkrul_skald_horn	1.0000
-hkrul_skald_horn_2	spy				false	true	hkrul_skald_horn	1.0000
-hkrul_skald_horn_3	spy				false	true	hkrul_skald_horn	1.0000
-hkrul_skald_drum_1	spy				false	true	hkrul_skald_drum	1.0000
-hkrul_skald_drum_2	spy				false	true	hkrul_skald_drum	1.0000
-hkrul_skald_drum_3	spy				false	true	hkrul_skald_drum	1.0000
-hkrul_yngve	general				false	true	hkrul_yngve	1.1600
+art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype	campaign_map_scale	prebattle_separation_offset
+#campaign_character_art_sets_tables;7;db/campaign_character_art_sets_tables/scm_norsca									
+hkrul_adella	general				false	true	hkrul_adella	1.1800	0.0000
+hkrul_soren	wizard				false	true	hkrul_soren	1.1300	0.0000
+hkrul_akkorak	general				false	true	hkrul_akkorak	1.1200	0.0000
+hkrul_birna	general				false	true	hkrul_birna	1.1400	0.0000
+hkrul_drenok	general				false	true	hkrul_drenok	1.0800	0.0000
+hkrul_einar	general				false	true	hkrul_einar	1.1400	0.0000
+hkrul_harald	general				false	true	hkrul_harald	0.9000	0.0000
+hkrul_sayl	general				false	true	hkrul_sayl	1.1600	0.0000
+hkrul_ulfric	general				false	true	hkrul_ulfric	1.1000	0.0000
+hkrul_verdandi	champion				false	true	hkrul_verdandi	1.1100	0.0000
+hkrul_kolsveinn	champion				false	true	hkrul_kolsveinn	1.1000	0.0000
+hkrul_swyrd	champion				false	true	hkrul_swyrd	1.0700	0.0000
+hkrul_lokjar	champion				false	true	hkrul_lokjar	1.0400	0.0000
+hkrul_bjornling_ogg	general				false	true	hkrul_bjornling_ogg	1.1100	0.0000
+hkrul_ziege	general				false	true	hkrul_ziege	1.1100	0.0000
+hkrul_hakka	general				false	true	hkrul_hakka	1.1600	0.0000
+hkrul_oda	champion				false	true	hkrul_oda	1.1900	0.0000
+hkrul_rafn	champion				false	true	hkrul_rafn	0.9700	0.0000
+hkrul_hrothgar	general				false	true	hkrul_hrothgar	1.1500	0.0000
+rhox_baersonling_daemon_prince_tzeentch_1	general				false	true	rhox_baersonling_daemon_prince_tzeentch	0.5000	0.0000
+rhox_baersonling_daemon_prince_tzeentch_2	general				false	true	rhox_baersonling_daemon_prince_tzeentch	0.5000	0.0000
+rhox_baersonling_daemon_prince_tzeentch_3	general				false	true	rhox_baersonling_daemon_prince_tzeentch	0.5000	0.0000
+rhox_baersonling_chs_lord_mtze_01	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000	0.0000
+rhox_baersonling_chs_lord_mtze_02	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000	0.0000
+rhox_baersonling_chs_lord_mtze_03	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000	0.0000
+rhox_baersonling_chs_lord_mtze_04	general				false	true	rhox_baersonling_chs_lord_mtze	1.0000	0.0000
+hkrul_uzul	champion				false	true	hkrul_uzul	1.1100	0.0000
+hkrul_sarg	general				false	true	hkrul_sarg	1.0000	0.0000
+hkrul_surtha_ek	general				false	true	hkrul_surtha_ek	1.0000	0.0000
+scm_norsca_huern	general	wh_dlc08_nor_norsca			false	true	scm_norsca_huern	1.0000	0.0000
+nor_skin_wolf_lord	general				false	true	nor_skin_wolf_lord	1.0000	0.0000
+nor_skin_wolf_lord_02	general				false	true	nor_skin_wolf_lord	1.0000	0.0000
+nor_skin_wolf_lord_03	general				false	true	nor_skin_wolf_lord	1.0000	0.0000
+scm_norsca_ulsdau	champion				false	true	scm_norsca_ulsdau	0.7600	0.0000
+scm_norsca_asta	champion				false	true	scm_norsca_asta	1.0000	0.0000
+scm_norsca_alfkael	wizard				false	true	scm_norsca_alfkael	1.0000	0.0000
+hkrul_graill	champion				false	true	hkrul_graill	0.7600	0.0000
+hkrul_hildr	champion				false	true	hkrul_hildr	1.1100	0.0000
+hkrul_skald_horn_1	spy				false	true	hkrul_skald_horn	1.0000	0.0000
+hkrul_skald_horn_2	spy				false	true	hkrul_skald_horn	1.0000	0.0000
+hkrul_skald_horn_3	spy				false	true	hkrul_skald_horn	1.0000	0.0000
+hkrul_skald_drum_1	spy				false	true	hkrul_skald_drum	1.0000	0.0000
+hkrul_skald_drum_2	spy				false	true	hkrul_skald_drum	1.0000	0.0000
+hkrul_skald_drum_3	spy				false	true	hkrul_skald_drum	1.0000	0.0000
+hkrul_yngve	general				false	true	hkrul_yngve	1.1600	0.0000
+scm_norsca_asta_QB	general				false	true	scm_norsca_asta_QB	1.0000	0.0000
+hkrul_shieldmaiden_1	runesmith				false	true	hkrul_shieldmaiden	1.0000	0.0000
+hkrul_shieldmaiden_2	runesmith				false	true	hkrul_shieldmaiden	1.0000	0.0000
+hkrul_shieldmaiden_3	runesmith				false	true	hkrul_shieldmaiden	1.0000	0.0000

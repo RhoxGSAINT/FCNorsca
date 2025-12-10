@@ -88,3 +88,6 @@ effects_description_hkrul_boartusk_horn	Ability: "Mogwrath's Eye''	false
 effects_description_hkrul_ulfric_diplo_marienburg	Relationship: %+n to [[img:ui/flags/wh_main_emp_marienburg/mon_24.png]][[/img]] Marienburg	true
 effects_description_hkrul_mawherd_cap	Unit capacity: %+n for The Great Mawherd of Bloodfjord	false
 effects_description_hkrul_goftur_shark_cap	Unit capacity: %+n for Harrowfin Shark units	false
+effects_description_hkrul_norsca_ror_sla_cap	Unit capacity: %+n for Riders of the Mighty Serpent (Marauder Horsemen)	false
+effects_description_hkrul_norsca_ror_tze_cap	Unit capacity: %+n for Followers of the Great Eagle (Marauder Chariots)	false
+effects_description_hkrul_norsca_harpoon_ror_cap	Unit capacity: %+n for Hooks of Hjolda	false

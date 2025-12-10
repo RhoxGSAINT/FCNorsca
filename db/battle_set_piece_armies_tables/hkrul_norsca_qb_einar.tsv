@@ -4,6 +4,11 @@ hkrul_baerson_einar_bubos_enemy_beastmen_main		0	test_emblem_army_01	266555944	0
 hkrul_baerson_einar_bubos_enemy_beastmen_reserve		0	test_emblem_army_01	527584524	1	wh3_main_nur_nurgle_qb2	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000	ui\flags\wh3_main_nur_septic_claw	false
 hkrul_baerson_einar_bubos_player		0	test_emblem_army_01	203871725	0	wh_main_nor_baersonling	false	false	true	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
 ga_player_ally		0	test_emblem_army_01	5448	1	wh_main_nor_norsca_qb1	true	false	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000		false
-ga_ai_01		0	test_emblem_army_01	203871730	0	wh_main_nor_norsca_qb1	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000	ui\flags\wh_main_nor_aesling	false
+ga_ai_01		0	test_emblem_army_01	203871730	0	wh_main_nor_norsca_qb1	false	false	false	true	false	false	false	true	550000	141411	FF0000	true	550000	141411	FF0000	ui\flags\wh_main_nor_aesling	false
 hkrul_baerson_einar_aesling_reinforcement		270	test_emblem_army_01	3509	0	wh_main_nor_norsca_qb2	false	true	false	true	true	false	false	false	000000	000000	000000	false	000000	000000	000000	ui\flags\wh_main_nor_aesling	false
 hkrul_baerson_einar_aesling_player		0	test_emblem_army_01	203871725	0	wh_main_nor_baersonling	false	false	true	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
+hkrul_skoroth_nor		0	test_emblem_army_01	3509	1	wh_main_nor_norsca_qb1	false	false	false	true	false	false	false	true	AAAA7F	00AA00	000000	true	55AA00	AAAA7F	000000	ui\flags\wh3_dlc20_nor_dolgan	false
+hkrul_skoroth_nur		0	test_emblem_army_01	266555949	0	wh3_main_nur_nurgle_qb1	false	true	false	true	true	false	false	true	477B1C	C2BB3A	000000	true	477B1C	C2BB3A	000000	ui\flags\wh3_main_nur_poxmakers_of_nurgle	false
+hkrul_skoroth_skoroth		0	test_emblem_army_01	266555949	0	wh3_main_nur_nurgle_qb1	false	true	false	true	true	false	false	true	477B1C	C2BB3A	000000	true	477B1C	C2BB3A	000000	ui\flags\wh3_main_nur_poxmakers_of_nurgle	false
+hkrul_skoroth_nur2		0	test_emblem_army_01	1103861816	0	wh3_main_nur_nurgle_qb2	false	false	false	true	false	false	false	true	005528	55AAFF	000000	true	005528	55AAFF	000000	ui\flags\wh3_main_nur_septic_claw	false
+hkrul_baerson_einar_skoroth_player		0	test_emblem_army_01	203871725	0	wh_main_nor_baersonling	false	false	true	true	false	false	false	true	665B39	665B39	FFFFFF	true	665B39	F3F3F3	665B39	ui\flags\wh_main_nor_baersonling	true

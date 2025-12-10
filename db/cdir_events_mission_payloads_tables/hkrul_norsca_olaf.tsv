@@ -13,4 +13,4 @@ id	mission_key	payload_key	status_key	value	target_key
 817572134	hkrul_olaf_spear_5	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_bloodfjord_your_journey_continues]	default
 817572135	hkrul_olaf_spear_5	TREASURY	SUCCESS	AMOUNT[1000]	default
 817572136	hkrul_olaf_spear_1	ADD_MERCENARY_TO_FACTION_POOL	SUCCESS	AMOUNT[1];UNIT[wh3_dlc20_chs_mon_warshrine_mkho]	default
-817572137	hkrul_olaf_spear_0	ADD_MERCENARY_TO_FACTION_POOL	SUCCESS	AMOUNT[2];UNIT[wh3_main_kho_mon_spawn_of_khorne_0]	default
+817572137	hkrul_olaf_spear_0	ADD_MERCENARY_TO_FACTION_POOL	SUCCESS	AMOUNT[2];UNIT[wh3_dlc27_kho_mon_spawn_of_khorne_0]	default

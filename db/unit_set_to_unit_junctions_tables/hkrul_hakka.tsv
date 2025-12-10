@@ -14,3 +14,6 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh3_dlc20_chs_cav_chaos_knights_mtze_lances	hkrul_akkorak_horse	false
 			wh3_main_tze_cav_chaos_knights_0	hkrul_akkorak_horse	false
 			hkrul_akkorak	hkrul_akkorak_horse	false
+			wh3_dlc27_nor_cav_kurgan_horsemen_dualweapons	hkrul_akkorak_horse	false
+			wh3_dlc27_nor_cav_kurgan_horsemen_greatweapons	hkrul_akkorak_horse	false
+			wh3_dlc27_nor_cav_marauder_horsemen_ror	hkrul_akkorak_horse	false

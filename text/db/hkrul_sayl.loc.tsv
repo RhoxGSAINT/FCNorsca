@@ -152,12 +152,14 @@ effects_description_hkrul_sayl_mammoth_infantry	Bonus vs Infantry: %+n for Mammo
 effects_description_hkrul_sayl_shaman_upkeep	Upkeep: %+n% for Shaman Sorcerers	false
 effects_description_hkrul_shaman_speed	Speed: %+n% for Shaman Sorcerers	false
 effects_description_hkrul_shaman_leadership	Leadership: %+n for Shaman Sorcerers	false
+effects_description_hkrul_cursd_ettin_morale	Leadership: %+n for Curs'd Ettin units	false
 effects_description_hkrul_shaman_melee_defence	Melee defence: %+n for Shaman Sorcerers	false
+effects_description_hkrul_norsca_ror_sla_melee_defence	Melee defence: %+n for Riders of the Mighty Serpent (Marauder Horsemen)	false
+effects_description_hkrul_kurgan_horsemasters_melee_defence	Melee defence: %+n for Kurgan Horsemen units	false
 effects_description_hkrul_sayl_mammoth_charge	Charge bonus: %+n% for Mammoth units	false
 effects_description_hkrul_sayl_shaman_mastery	Attribute: Mastery of the Elemental Winds for embedded Shaman Sorcerer [[img:icon_hero]][[/img]]Heroes	false
 effects_description_hkrul_sayl_mastery	Attribute: Mastery of the Elemental Winds	false
 effects_description_hkrul_sharks_melee	Melee attack: %+n for Shark units	false
-effects_description_hkrul_sharks_melee_defence	Melee defence: %+n for Shark units	false
 effects_description_hkrul_sayl_nightmaw_melee	Melee attack: %+n for Nightmaw	false
 effects_description_hkrul_sayl_warp	Ability: "The Vile's Skull"	false
 unit_abilities_tooltip_text_hkrul_sayl_warp	The skull of Schalkain the Vile still oozes with the dark magic used in the daemonic ritual Sayl enacted on him, warping pure magic from his empty eye sockets.	true

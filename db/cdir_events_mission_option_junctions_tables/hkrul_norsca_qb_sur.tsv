@@ -12,3 +12,6 @@ id	mission_key	option_key	value	target
 27545030022	hkrul_baerson_einar_aesling_battle	VAR_MISSION_LENGTH_INFINITE		default
 27545030023	hkrul_baerson_einar_aesling_battle	VAR_CHANCE	100	default
 27545030024	hkrul_baerson_einar_aesling_battle	GEN_TARGET_CHARACTER		default
+27545030025	hkrul_baerson_einar_palace_battle	VAR_MISSION_LENGTH_INFINITE		default
+27545030026	hkrul_baerson_einar_palace_battle	VAR_CHANCE	100	default
+27545030027	hkrul_baerson_einar_palace_battle	GEN_TARGET_CHARACTER		default

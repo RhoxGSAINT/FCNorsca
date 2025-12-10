@@ -11,3 +11,4 @@ hkrul_grydal_mark	0.0000	200.0000	nearby_enemy_deaths	linear_multiplier	-1.0000	
 hkrul_skoroth_pas	0.0000	200.0000	nearby_enemy_deaths	linear_multiplier	-1.0000	0.0000	true
 hkrul_haraldur_tankard	0.0000	100.0000	time_in_melee	linear_multiplier	-1.0000	0.0000	false
 hkrul_snaegr_mark	0.0000	100.0000	time_in_melee	linear_multiplier	-1.0000	0.0000	false
+hkrul_eyrdal_thorn	0.0000	100.0000	time_in_melee	linear_multiplier	-1.0000	0.0000	false

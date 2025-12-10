@@ -142,7 +142,7 @@ cm:add_first_tick_callback(
             );
         end
         
-        
+        --[[
         local baersonling_faction = cm:get_faction("wh_main_nor_baersonling")
         if baersonling_faction and baersonling_faction:is_human() and cm:model():turn_number() < 5 then
             core:add_listener(
@@ -164,7 +164,7 @@ cm:add_first_tick_callback(
                 end,
                 false
             );
-        end
+        end--]]
         
         local geimdall_faction = cm:get_faction("mixer_nor_geimdall_huscarls")
         if geimdall_faction and geimdall_faction:is_human() then

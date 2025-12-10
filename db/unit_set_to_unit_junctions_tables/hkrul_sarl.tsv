@@ -30,3 +30,8 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			hkrul_sarl_hunters	hkrul_birna_sarl_hunters	false
 			hkrul_sarl_hunters	hkrul_birna_sarl_hunters_with_ror	false
 			hkrul_sarl_hunters_ror	hkrul_birna_sarl_hunters_with_ror	false
+			wh3_dlc27_nor_cav_marauder_horsemen_ror	hkrul_yusak_horse	false
+			wh3_dlc20_chs_cav_marauder_horsemen_msla_javelins	hkrul_yusak_horse_non_ror	false
+			wh_dlc08_nor_cav_marauder_horsemasters_0	hkrul_yusak_horse_non_ror	false
+			wh_main_nor_cav_marauder_horsemen_0	hkrul_yusak_horse_non_ror	false
+			wh_main_nor_cav_marauder_horsemen_1	hkrul_yusak_horse_non_ror	false

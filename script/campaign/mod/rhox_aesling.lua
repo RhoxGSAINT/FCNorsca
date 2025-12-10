@@ -66,32 +66,7 @@ end
 cm:add_first_tick_callback(
     function()
     
-        if cm:get_local_faction_name(true) == aesling_faction then
-            core:add_listener(
-                "rhox_aesling_disable_vanilla_occupation_options",
-                "PanelOpenedCampaign",
-                function(context)
-                    return context.string == "settlement_captured"
-                end,
-                function(context)
-                    local panel = find_uicomponent(core:get_ui_root(), "settlement_captured")
-                    local kill = find_uicomponent(panel, "1292694896")
-                    local maim = find_uicomponent(panel, "1369123792")
-                    local burn = find_uicomponent(panel, "1824195232")
-                            
-                    if kill then 
-                        kill:SetVisible(false)
-                    end
-                    if maim then
-                        maim:SetVisible(false)
-                    end
-                    if burn then
-                        burn:SetVisible(false)
-                    end  
-                end,
-                true
-            )
-            
+        if cm:get_local_faction_name(true) == aesling_faction then           
 
             local parent_ui = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar");
             

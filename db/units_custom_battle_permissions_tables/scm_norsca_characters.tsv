@@ -52,3 +52,4 @@ wh_dlc08_nor_naglfarlings	false	hkrul_graill	true	true	ui/portraits/portholes/no
 wh_dlc08_nor_norsca	false	hkrul_hildr	true	true	ui/portraits/portholes/no_culture/hkrul_hildr.png	hkrul_hildr	hkrul_hildr	true		false
 wh_main_nor_bjornling	false	hkrul_skald_horn	true	true	ui/portraits/portholes/no_culture/hkrul_skald_1.png	hkrul_skald_horn_1		false		false
 wh_main_nor_bjornling	false	hkrul_skald_drum	true	true	ui/portraits/portholes/no_culture/hkrul_skald_2.png	hkrul_skald_drum_2		false		false
+wh_main_nor_bjornling	false	hkrul_shieldmaiden	true	true	ui/portraits/portholes/no_culture/hkrul_skald_1.png	hkrul_shieldmaiden_1		false		false

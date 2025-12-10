@@ -33,3 +33,4 @@ hkrul_norsca_ship_9	hkrul_norsca_ship_9	.	true	false	false	1	0	9999			false	fals
 hkrul_norsca_ship_10	hkrul_norsca_ship_10	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_ship_11	hkrul_norsca_ship_11	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
 hkrul_norsca_ship_12	hkrul_norsca_ship_12	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	0	follower	false	false	true	all
+hkrul_norsca_fish_56	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all

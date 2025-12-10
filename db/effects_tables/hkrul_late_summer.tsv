@@ -64,3 +64,4 @@ hkrul_spearmen_bvl	bonus_vs_large.png	299	bonus_vs_large.png	battle	true
 hkrul_spearmen_md	defence.png	300	defence.png	battle	true
 hkrul_haraldur_ror_unyielding_assault	attribute_unyielding_assault.png	620	attribute_unyielding_assault.png	battle	true
 hkrul_haraldur_killshot	item_ability.png	300	item_ability.png	battle	true
+hkrul_baersonling_teleport	magic_character.png	300	magic_character.png	campaign	true

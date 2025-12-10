@@ -22,7 +22,8 @@ hkrul_uzul	1	2147343937		100	2147343940	hkrul_uzul	champion	hkrul_uzul	ui/portra
 hkrul_surtha_ek	1	2147343937		100	2147343940	hkrul_surtha_ek	general	hkrul_surtha_ek	ui/portraits/portholes/no_culture/hkrul_surtha_ek.png	201735986		true
 scm_norsca_huern	1	240922		1	240923	scm_norsca_huern	general	scm_norsca_huern		19101991		true
 scm_norsca_ulsdau	1	240931		1		scm_norsca_ulsdau	champion	scm_norsca_ulsdau		7122022		true
-scm_norsca_asta	1	240929		100	240929	scm_norsca_asta	general	scm_norsca_asta	ui/portraits/portholes/no_culture/scm_norsca_asta.png	23112022		false
+scm_norsca_asta	1	240929		100	240929	scm_norsca_asta	champion	scm_norsca_asta	ui/portraits/portholes/no_culture/scm_norsca_asta.png	23112022		true
 scm_norsca_alfkael	1	240926	wh_dlc03_lore_beasts	1		scm_norsca_alfkael	wizard	scm_norsca_alfkael		17112022		true
 hkrul_graill	1	2147343937		100	2147343940	hkrul_graill	champion	hkrul_graill	ui/portraits/portholes/no_culture/hkrul_graill.png	201735988		true
 hkrul_hildr	1	2147343937		100	2147343940	hkrul_hildr	champion	hkrul_hildr	ui/portraits/portholes/no_culture/hkrul_hildr.png	201735989		true
+scm_norsca_asta_QB	1	240929		100	240929	scm_norsca_asta_QB	champion	scm_norsca_asta_QB	ui/portraits/portholes/no_culture/scm_norsca_asta.png	23117511		true

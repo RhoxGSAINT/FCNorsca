@@ -140,7 +140,31 @@ local mission_to_next={
                 elseif choice==1 then
                     local x, y = cm:find_valid_spawn_location_for_character_from_settlement("wh_dlc08_chs_chaos_challenger_tzeentch", "wh3_main_combi_region_fort_jakova", false, true)
                     local unit_list = WH_Random_Army_Generator:generate_random_army("rhox_baersonling_tzeentch_invasion", "wh3_main_sc_tze_tzeentch", 20, 2, true)
-                    local rhox_baersonling_tzeentch_invasion = invasion_manager:new_invasion("rhox_baersonling_tzeentch_invasion","wh_dlc08_chs_chaos_challenger_tzeentch", unit_list, {x, y})
+                    
+                    local spawned_force
+
+                    cm:create_force_with_general(
+                    -- faction_key, unit_list, region_key, x, y, agent_type, agent_subtype, forename, clan_name, family_name, other_name, id, make_faction_leader, success_callback
+                    "wh_dlc08_chs_chaos_challenger_tzeentch",
+                    unit_list,
+                    "wh3_main_combi_region_fort_jakova",
+                    x,
+                    y,
+                    "general",
+                    "wh3_main_tze_exalted_lord_of_change_tzeentch",
+                    "",
+                    "",
+                    "",
+                    "",
+                    false,
+                    function(cqi)
+                        local forename = common:get_localised_string("names_name_7170700356")
+                        cm:change_character_custom_name(cm:get_character_by_cqi(cqi), forename, "","","")
+                        spawned_force=cm:get_character_by_cqi(cqi):military_force();
+                    end);
+                    
+                    
+                    rhox_baersonling_tzeentch_invasion = invasion_manager:new_invasion_from_existing_force("rhox_baersonling_tzeentch_invasion",spawned_force)
                     rhox_baersonling_tzeentch_invasion:apply_effect("wh_main_bundle_military_upkeep_free_force", -1)
                     rhox_baersonling_tzeentch_invasion:start_invasion(true)
                     cm:force_declare_war("wh_dlc08_chs_chaos_challenger_tzeentch", baersonling_faction_key, false, false)

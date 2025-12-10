@@ -1,16 +1,16 @@
-level_name	chain	level	create_time	create_cost	upkeep_cost	commodity	only_in_capital	faction_unique	first_in_world_bundle	resource_requirement	can_convert	building_instance_key	should_show_building_level_in_ui_for_technology	health_override	development_point_cost	can_be_damaged	primary_slot_building_building_level_requirement	audio_building_type	visible_in_ui	food_cost	slave_cap_contribution	resource_cost	additional_loot_value
-#building_levels_tables;0;db/building_levels_tables/scm_norsca																							
-rhox_fc_norsca_hafskael_yard	rhox_fc_norsca_hafskael_yard	0	3	4500	0		false	false			true	rhox_fc_norsca_hafskael_yard	false	0.0000	0	true	3		true	0	0		0
-rhox_fc_norsca_harald_throne	rhox_fc_norsca_harald_throne	0	2	3000	0		false	false			true	rhox_fc_norsca_harald_throne	false	0.0000	0	true	2		true	0	0		0
-rhox_fc_norsca_kai_delta_swamp	rhox_fc_norsca_kai_delta_swamp	0	3	4500	0		false	false			true	rhox_fc_norsca_kai_delta_swamp	false	0.0000	0	true	3		true	0	0		0
-rhox_fc_norsca_valmir_aesling	rhox_fc_norsca_valmir_aesling	0	3	4500	0		false	false			true	rhox_fc_norsca_valmir_aesling	false	0.0000	0	true	3		true	0	0		0
-rhox_fc_norsca_great_gathering	rhox_fc_norsca_great_gathering	0	4	6000	0		false	false			true	rhox_fc_norsca_great_gathering	false	0.0000	0	true	4		true	0	0		0
-rhox_fc_norsca_ruins_of_vinnskor	rhox_fc_norsca_ruins_of_vinnskor	0	3	4500	0		false	false			true	rhox_fc_norsca_ruins_of_vinnskor	false	0.0000	0	true	3		true	0	0		0
-rhox_fc_norsca_sargath_tent	rhox_fc_norsca_sargath_tent	0	3	4500	0		false	false			true	rhox_fc_norsca_sargath_tent	false	0.0000	0	true	3		true	0	0		0
-rhox_fc_norsca_chaos_iceberg	rhox_fc_norsca_chaos_iceberg	0	2	3000	0		false	false			true	rhox_fc_norsca_chaos_iceberg	false	0.0000	0	true	2		true	0	0		0
-rhox_fc_norsca_corrupted_khemri	rhox_fc_norsca_corrupted_khemri	0	3	4500	0		false	false			true	rhox_fc_norsca_corrupted_khemri	false	0.0000	0	true	3		true	0	0		0
-hkrul_norsca_duel_circle	hkrul_norsca_duel_circle	0	3	3250	0		false	false			true	hkrul_norsca_duel_circle	false	0.0000	0	true	2		true	0	0		0
-hkrul_norsca_snaegr_hall	hkrul_norsca_snaegr_hall	0	3	4150	0		false	false			true	hkrul_norsca_snaegr_hall	false	0.0000	0	true	3		true	0	0		0
-hkrul_norsca_mermedus_temple	hkrul_norsca_mermedus_temple	0	3	4750	0		false	false			true	hkrul_norsca_mermedus_temple	false	0.0000	0	true	3		true	0	0		0
-hkrul_norsca_erik_tomb	hkrul_norsca_erik_tomb	0	3	5215	0		false	false			true	hkrul_norsca_snaegr_hall	false	0.0000	0	true	3		true	0	0		0
-hkrul_norsca_barrows	hkrul_norsca_barrows	0	3	4750	0		false	false			true	hkrul_norsca_mermedus_temple	false	0.0000	0	true	3		true	0	0		0
+level_name	chain	level	create_time	create_cost	upkeep_cost	commodity	only_in_capital	faction_unique	first_in_world_bundle	resource_requirement	can_convert	building_instance_key	should_show_building_level_in_ui_for_technology	health_override	development_point_cost	can_be_damaged	primary_slot_building_building_level_requirement	audio_building_type	visible_in_ui	food_cost	slave_cap_contribution	resource_cost	additional_loot_value	resource_transaction_on_complete	split_chain_sort_order
+#building_levels_tables;2;db/building_levels_tables/scm_norsca																									
+rhox_fc_norsca_hafskael_yard	rhox_fc_norsca_hafskael_yard	0	3	4500	0		false	false			true	rhox_fc_norsca_hafskael_yard	false	0.0000	0	true	3		true	0	0		0		-1
+rhox_fc_norsca_harald_throne	rhox_fc_norsca_harald_throne	0	2	3000	0		false	false			true	rhox_fc_norsca_harald_throne	false	0.0000	0	true	2		true	0	0		0		-1
+rhox_fc_norsca_kai_delta_swamp	rhox_fc_norsca_kai_delta_swamp	0	3	4500	0		false	false			true	rhox_fc_norsca_kai_delta_swamp	false	0.0000	0	true	3		true	0	0		0		-1
+rhox_fc_norsca_valmir_aesling	rhox_fc_norsca_valmir_aesling	0	3	4500	0		false	false			true	rhox_fc_norsca_valmir_aesling	false	0.0000	0	true	3		true	0	0		0		-1
+rhox_fc_norsca_great_gathering	rhox_fc_norsca_great_gathering	0	4	6000	0		false	false			true	rhox_fc_norsca_great_gathering	false	0.0000	0	true	4		true	0	0		0		-1
+rhox_fc_norsca_ruins_of_vinnskor	rhox_fc_norsca_ruins_of_vinnskor	0	3	4500	0		false	false			true	rhox_fc_norsca_ruins_of_vinnskor	false	0.0000	0	true	3		true	0	0		0		-1
+rhox_fc_norsca_sargath_tent	rhox_fc_norsca_sargath_tent	0	3	4500	0		false	false			true	rhox_fc_norsca_sargath_tent	false	0.0000	0	true	3		true	0	0		0		-1
+rhox_fc_norsca_chaos_iceberg	rhox_fc_norsca_chaos_iceberg	0	2	3000	0		false	false			true	rhox_fc_norsca_chaos_iceberg	false	0.0000	0	true	2		true	0	0		0		-1
+rhox_fc_norsca_corrupted_khemri	rhox_fc_norsca_corrupted_khemri	0	3	4500	0		false	false			true	rhox_fc_norsca_corrupted_khemri	false	0.0000	0	true	3		true	0	0		0		-1
+hkrul_norsca_duel_circle	hkrul_norsca_duel_circle	0	3	3250	0		false	false			true	hkrul_norsca_duel_circle	false	0.0000	0	true	2		true	0	0		0		-1
+hkrul_norsca_snaegr_hall	hkrul_norsca_snaegr_hall	0	3	4150	0		false	false			true	hkrul_norsca_snaegr_hall	false	0.0000	0	true	3		true	0	0		0		-1
+hkrul_norsca_mermedus_temple	hkrul_norsca_mermedus_temple	0	3	4750	0		false	false			true	hkrul_norsca_mermedus_temple	false	0.0000	0	true	3		true	0	0		0		-1
+hkrul_norsca_erik_tomb	hkrul_norsca_erik_tomb	0	3	5215	0		false	false			true	hkrul_norsca_snaegr_hall	false	0.0000	0	true	3		true	0	0		0		-1
+hkrul_norsca_barrows	hkrul_norsca_barrows	0	3	4750	0		false	false			true	hkrul_norsca_mermedus_temple	false	0.0000	0	true	3		true	0	0		0		-1

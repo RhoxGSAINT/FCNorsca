@@ -1,3 +1,3 @@
-key	decal	vfx_central	vfx_ring	spline_animation_speed	spline_tile_count	composite_scene	is_targetting_per_entity	vfx_ring_segment_length	use_model_time	custom_spline	spline_col_hex	spline_oor_col_hex
-#area_of_effect_displays_tables;9;db/area_of_effect_displays_tables/ab_wolftribe												
-terrifying_howl		wh_main_targeting_pre_buff_ui_central	wh_main_generic_ui_segment_buff	50.0000	64	composite_scene\spells_and_abilities\wh2_dlc15_ability_mighty_roar.csc	false	5	false		FFFFFF	FFFFFF
+key	decal	vfx_central	vfx_ring	spline_animation_speed	spline_tile_count	composite_scene	is_targetting_per_entity	vfx_ring_segment_length	use_model_time	custom_spline	spawn_no_proxy	spline_col_hex	spline_oor_col_hex
+#area_of_effect_displays_tables;10;db/area_of_effect_displays_tables/ab_wolftribe													
+terrifying_howl		wh_main_targeting_pre_buff_ui_central	wh_main_generic_ui_segment_buff	50.0000	64	composite_scene\spells_and_abilities\wh2_dlc15_ability_mighty_roar.csc	false	5	false		false	FFFFFF	FFFFFF

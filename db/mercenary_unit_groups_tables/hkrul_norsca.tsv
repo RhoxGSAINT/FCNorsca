@@ -27,11 +27,11 @@ dead_drenok_ice_golem	0.0000	0	dead_drenok_ice_golem	true	0.0000
 dead_drenok_ice_bears	0.0000	0	dead_drenok_ice_bears	true	0.0000
 dead_drenok_greater_ice_golem	0.0000	0	dead_drenok_greater_ice_golem	true	0.0000
 rhox_bjornling_huscarl_ror	100.0000	1	rhox_bjornling_huscarl_ror	true	0.1000
-rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_main_kho_mon_spawn_of_khorne_0	false	0.0000
-rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	0.0000	0	wh3_main_nur_mon_spawn_of_nurgle_0	false	0.0000
-rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	0.0000	0	wh3_main_sla_mon_spawn_of_slaanesh_0	false	0.0000
-rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	0.0000	0	wh3_main_tze_mon_spawn_of_tzeentch_0	false	0.0000
-rhox_varg_wh_main_chs_mon_chaos_spawn	0.0000	0	wh_main_chs_mon_chaos_spawn	false	0.0000
+rhox_varg_wh3_main_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_dlc27_kho_mon_spawn_of_khorne_0	false	0.0000
+rhox_varg_wh3_main_nur_mon_spawn_of_nurgle_0	0.0000	0	wh3_dlc27_nur_mon_spawn_of_nurgle_0	false	0.0000
+rhox_varg_wh3_main_sla_mon_spawn_of_slaanesh_0	0.0000	0	wh3_dlc27_sla_mon_spawn_of_slaanesh_0	false	0.0000
+rhox_varg_wh3_main_tze_mon_spawn_of_tzeentch_0	0.0000	0	wh3_dlc27_tze_mon_spawn_of_tzeentch_0	false	0.0000
+rhox_varg_wh_main_chs_mon_chaos_spawn	0.0000	0	wh3_dlc27_chs_mon_chaos_spawn	false	0.0000
 rhox_skeggi_dodvakt	100.0000	1	rhox_skeggi_dodvakt	true	0.1000
 wh_mod_nor_veh_mammoth_siege_tower_0	100.0000	1	wh_mod_nor_veh_mammoth_siege_tower_0	true	0.1000
 hkrul_norsca_ymir_ror	100.0000	1	hkrul_norsca_ymir_ror	true	0.1000
@@ -41,7 +41,7 @@ hkrul_skraevold	100.0000	1	hkrul_skraevold	true	0.1000
 hkrul_godi	100.0000	1	hkrul_godi	true	0.1000
 hkrul_shark_2	100.0000	1	hkrul_shark_2	true	0.1000
 hkrul_shark_3	100.0000	1	hkrul_shark_3	true	0.1000
-wh3_main_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_main_kho_mon_spawn_of_khorne_0	true	0.0000
+wh3_dlc27_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_dlc27_kho_mon_spawn_of_khorne_0	true	0.0000
 wh3_dlc20_chs_inf_chosen_mkho	0.0000	0	wh3_dlc20_chs_inf_chosen_mkho	true	0.0000
 wh3_dlc20_chs_mon_warshrine_mkho	0.0000	0	wh3_dlc20_chs_mon_warshrine_mkho	true	0.0000
 wh3_main_kho_inf_chaos_warriors_1	0.0000	0	wh3_main_kho_inf_chaos_warriors_1	true	0.0000

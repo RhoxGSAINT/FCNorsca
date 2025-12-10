@@ -3,3 +3,4 @@ effect	bonus_value_id	agent
 rhox_skald_effect_agent_cap_increase_spy_skald	cap	spy
 rhox_skald_effect_agent_enable_recruitment_spy	availability	spy
 hkrul_geimdall_skald_recruit	recruitment_level	spy
+hkrul_effect_agent_cap_increase_spy_shieldmaiden	cap	runesmith

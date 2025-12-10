@@ -1,28 +1,28 @@
-building	culture	subculture	faction	description	icon	disables	short_description	display_tooltip
-#building_culture_variants_tables;4;db/building_culture_variants_tables/ab_wolftribe								
-hunting_camp_main_1				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_1	true
-hunting_camp_main_2				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_2	true
-hunting_camp_main_3				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_3	true
-hunting_camp_main_4				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_4	true
-hunting_camp_beast_packs_1				wh_main_PLACEHOLDER	nor_beast_packs	false	hunting_camp_beast_packs_1	true
-hunting_camp_beast_packs_2				wh_main_PLACEHOLDER	nor_beast_packs	false	hunting_camp_beast_packs_2	true
-hunting_camp_beast_packs_3				wh_main_PLACEHOLDER	nor_beast_packs	false	hunting_camp_beast_packs_3	true
-hunting_camp_shrine_1				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_1	true
-hunting_camp_shrine_2				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_2	true
-hunting_camp_shrine_3				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_3	true
-hunting_camp_shrine_4				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_4	true
-hunting_camp_defence_1				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_1	true
-hunting_camp_defence_2				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_2	true
-hunting_camp_defence_3				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_3	true
-hunting_camp_defence_4				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_4	true
-hunting_camp_hunting_parties_1				wh_main_PLACEHOLDER	nor_outpost	false	hunting_camp_hunting_parties_1	true
-hunting_camp_hunting_parties_2				wh_main_PLACEHOLDER	nor_outpost	false	hunting_camp_hunting_parties_2	true
-hunting_camp_hunting_parties_3				wh_main_PLACEHOLDER	nor_outpost	false	hunting_camp_hunting_parties_3	true
-hunting_camp_thrill_1				wh_main_PLACEHOLDER	ogre_larder	false	hunting_camp_thrill_1	true
-hunting_camp_thrill_2				wh_main_PLACEHOLDER	ogre_larder	false	hunting_camp_thrill_2	true
-hunting_camp_thrill_3				wh_main_PLACEHOLDER	ogre_larder	false	hunting_camp_thrill_3	true
-wolftribe_greathall_0			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_greathall_0	true
-wolftribe_greathall_1			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_greathall_1	true
-wolftribe_greathall_2			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_greathall_2	true
-wolftribe_humbled_hall			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	true	wolftribe_humbled_hall	true
-wolftribe_humbled_hall				wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_humbled_hall	true
+building	culture	subculture	faction	description	icon	disables	short_description	display_tooltip	building_frame_override
+#building_culture_variants_tables;5;db/building_culture_variants_tables/ab_wolftribe									
+hunting_camp_main_1				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_1	true	
+hunting_camp_main_2				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_2	true	
+hunting_camp_main_3				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_3	true	
+hunting_camp_main_4				wh_main_PLACEHOLDER	ogre_camp_fresh_maw-pit	false	hunting_camp_main_4	true	
+hunting_camp_beast_packs_1				wh_main_PLACEHOLDER	nor_beast_packs	false	hunting_camp_beast_packs_1	true	
+hunting_camp_beast_packs_2				wh_main_PLACEHOLDER	nor_beast_packs	false	hunting_camp_beast_packs_2	true	
+hunting_camp_beast_packs_3				wh_main_PLACEHOLDER	nor_beast_packs	false	hunting_camp_beast_packs_3	true	
+hunting_camp_shrine_1				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_1	true	
+hunting_camp_shrine_2				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_2	true	
+hunting_camp_shrine_3				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_3	true	
+hunting_camp_shrine_4				wh_main_PLACEHOLDER	nor_ruin_hound	false	hunting_camp_shrine_4	true	
+hunting_camp_defence_1				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_1	true	
+hunting_camp_defence_2				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_2	true	
+hunting_camp_defence_3				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_3	true	
+hunting_camp_defence_4				wh_main_PLACEHOLDER	nor_defence	false	hunting_camp_defence_4	true	
+hunting_camp_hunting_parties_1				wh_main_PLACEHOLDER	nor_outpost	false	hunting_camp_hunting_parties_1	true	
+hunting_camp_hunting_parties_2				wh_main_PLACEHOLDER	nor_outpost	false	hunting_camp_hunting_parties_2	true	
+hunting_camp_hunting_parties_3				wh_main_PLACEHOLDER	nor_outpost	false	hunting_camp_hunting_parties_3	true	
+hunting_camp_thrill_1				wh_main_PLACEHOLDER	ogre_larder	false	hunting_camp_thrill_1	true	
+hunting_camp_thrill_2				wh_main_PLACEHOLDER	ogre_larder	false	hunting_camp_thrill_2	true	
+hunting_camp_thrill_3				wh_main_PLACEHOLDER	ogre_larder	false	hunting_camp_thrill_3	true	
+wolftribe_greathall_0			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_greathall_0	true	
+wolftribe_greathall_1			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_greathall_1	true	
+wolftribe_greathall_2			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_greathall_2	true	
+wolftribe_humbled_hall			wh_dlc08_nor_naglfarlings	wh_main_PLACEHOLDER	norsca_wolves_den	true	wolftribe_humbled_hall	true	
+wolftribe_humbled_hall				wh_main_PLACEHOLDER	norsca_wolves_den	false	wolftribe_humbled_hall	true	
