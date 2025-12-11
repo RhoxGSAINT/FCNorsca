@@ -33,7 +33,6 @@ table.insert(character_unlocking.character_data["skarr"]["required_buildings"], 
 
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_aesling")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh2_main_nor_skeggi")
-table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh3_dlc20_nor_dolgan")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh3_dlc20_nor_kul")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_dlc08_nor_vanaheimlings")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "wh_main_nor_graeling")
@@ -44,6 +43,91 @@ table.insert(character_unlocking.character_data["scyla"]["override_allowed_facti
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_bloodfjord")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_snaegr")
 
+
+local rhox_totn_factions={
+    mixer_nor_beorg=true,
+    cr_nor_servants_of_mermedus=true,
+    mixer_nor_eyristaad=true,
+    mixer_nor_snaegr=true,
+    mixer_nor_bloodfjord=true,
+    mixer_nor_cult_of_mermedus=true,
+    wh2_main_nor_skeggi=true,
+    wh3_dlc20_nor_kul=true,
+    wh_dlc08_nor_vanaheimlings=true,
+    wh_main_nor_aesling=true,
+    wh_main_nor_baersonling=true,
+    wh_main_nor_bjornling=true,
+    wh_main_nor_graeling=true,
+    wh_main_nor_sarl=true,
+    wh_main_nor_varg=true,
+    mixer_nor_fjordlings=true,
+    wh3_dlc20_nor_yusak=true,
+    wh_main_nor_skaeling=true,
+    wh_dlc08_nor_naglfarlings=true,
+    mixer_nor_geimdall_huscarls=true,
+}
+
+local rhox_totn_special_factions={--non-chaos, or god dedicated
+    wh_main_nor_aesling=true, --Khorne
+    wh_main_nor_baersonling=true,--tzeentch
+    wh3_dlc20_nor_yusak=true,--slaanesh
+    mixer_nor_geimdall_huscarls=true,--neutral
+    mixer_nor_bloodfjord=true,--Khorne
+    mixer_nor_eyristaad=true,--neutral
+    mixer_nor_snaegr=true,--Khorne
+    wh_main_nor_bjornling=true,--neutral
+}
+
+------Norsca thing
+for faction_key, _ in pairs(rhox_totn_factions) do
+    table.insert(character_unlocking.character_data["beorg_bearstruck"]["override_allowed_factions"], faction_key)
+    --Mixer adds all the factions to pillage and monster hunts and we don't have to
+    norscan_gods.allegiance_advice_tracker[faction_key]=norscan_gods.allegiance_advice_tracker["wh_dlc08_nor_norsca"]
+    if not rhox_totn_special_factions[faction_key] then
+        norscan_gods.allegiance_factions[faction_key]= norscan_gods.allegiance_factions["wh_dlc08_nor_norsca"]
+    end
+end
+
+norscan_gods.allegiance_factions["wh_main_nor_aesling"]={crow_dilemma_spawned = true, eagle_dilemma_spawned = true, hound_dilemma_spawned = false, serpent_dilemma_spawned = true, champion_spawned = false}
+norscan_gods.allegiance_factions["mixer_nor_bloodfjord"]={crow_dilemma_spawned = true, eagle_dilemma_spawned = true, hound_dilemma_spawned = false, serpent_dilemma_spawned = true, champion_spawned = false}
+norscan_gods.allegiance_factions["mixer_nor_snaegr"]={crow_dilemma_spawned = true, eagle_dilemma_spawned = true, hound_dilemma_spawned = false, serpent_dilemma_spawned = true, champion_spawned = false}
+norscan_gods.allegiance_factions["wh_main_nor_baersonling"]= {crow_dilemma_spawned = true, eagle_dilemma_spawned = false, hound_dilemma_spawned = true, serpent_dilemma_spawned = true, champion_spawned = false}
+norscan_gods.allegiance_factions["wh3_dlc20_nor_yusak"]= {crow_dilemma_spawned = true, eagle_dilemma_spawned = true, hound_dilemma_spawned = true, serpent_dilemma_spawned = false, champion_spawned = false}
+
+
+character_unlocking.character_data["beorg_bearstruck"].priority_ai_faction="mixer_nor_beorg"
+nor_generic_config.altar_raise_occupation_options_display_overrides["957887884"]="wh_main_settlement_norscaruin_tzeentch"
+nor_generic_config.altar_raise_occupation_options_display_overrides["957887885"]="wh_main_settlement_norscaruin_slaanesh"
+nor_generic_config.altar_raise_occupation_options_display_overrides["957887886"]="wh_main_settlement_norscaruin_khorne"
+
+
+table.insert(character_unlocking.character_data["styrkaar"]["override_allowed_factions"], "wh3_dlc20_nor_yusak")
+
+
+
+core:add_listener(
+    "RhoxTotNChampion_DilemmaChoiceMadeEvent",
+    "DilemmaChoiceMadeEvent",
+    function(context)
+        return string.find(context:dilemma(), norscan_gods.dilemma_key_prefix) and rhox_totn_factions[context:faction():name()] and context:choice() == 0
+    end,
+    function(context)
+        local faction_key = context:faction():name()
+        local dilemma= context:dilemma()
+        local choice = context:choice()
+        
+        if dilemma == norscan_gods.dilemma_key_prefix.."eagle" then
+            cm:spawn_character_to_pool(faction_key, "names_name_1270717835", "", "", "", 30, true, "general", "wh_dlc08_nor_arzik", true, "")
+        elseif dilemma == norscan_gods.dilemma_key_prefix.."crow" then
+            cm:spawn_character_to_pool(faction_key, "names_name_1270717836", "names_name_1270717837", "", "", 30, true, "general", "wh3_main_ie_nor_burplesmirk_spewpit", true, "")
+        end
+    end,
+    true
+)
+
+
+
+------------initiatives
 initiative_cultures.wh_dlc08_nor_norsca = true
 
 local totn_initiative_templates = {

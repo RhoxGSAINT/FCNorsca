@@ -6,11 +6,6 @@ id	choice_key	dilemma_key	payload_key	value	target_key
 1156146838	THIRD	daemon_hunter_1	EFFECT_BUNDLE	KEY[packlord_hunter_reward_nur];DURATION[0]	default
 1156146839	FOURTH	daemon_hunter_1	EFFECT_BUNDLE	KEY[packlord_hunter_reward_tzc];DURATION[0]	default
 1156146840	FIRST	daemon_hunter_2	EFFECT_BUNDLE	KEY[packlord_hunter_reward_olr];DURATION[0]	default
-1156146841	FIRST	wh2_dlc08_nor_confederate_generic	EFFECT_BUNDLE	KEY[rhox_fc_norsca_confederate_effect];DURATION[5]	default
-1156146842	FIRST	wh2_dlc08_nor_confederate_generic_no_execution	EFFECT_BUNDLE	KEY[rhox_fc_norsca_confederate_effect];DURATION[5]	default
-1156146843	THIRD	wh2_dlc08_nor_confederate_generic	TEXT_DISPLAY	LOOKUP[rhox_fc_norsca_ancillary_dummy]	default
-1156146844	SECOND	wh2_dlc08_nor_confederate_generic_no_execution	TEXT_DISPLAY	LOOKUP[rhox_fc_norsca_ancillary_dummy]	default
-1156146845	THIRD	wh2_dlc08_nor_confederate_generic	EFFECT_BUNDLE	KEY[rhox_fc_norsca_spared_leader];DURATION[5]	default
 1156146846	FIRST	bjornling_dilemma_1	EFFECT_BUNDLE	KEY[bjornling_bundle_1_1];DURATION[6]	default
 1156146847	FIRST	bjornling_dilemma_1	ADD_ANCILLARY	ANCILLARY_KEY[hkrul_norsca_lars]	default
 1156146848	SECOND	bjornling_dilemma_1	EFFECT_BUNDLE	KEY[bjornling_bundle_1_2];DURATION[6]	default

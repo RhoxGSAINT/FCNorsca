@@ -3,7 +3,6 @@ agent	faction	subtype	mod_disabled
 general	wh_dlc08_nor_norsca	hkrul_ulfric	false
 general	wh2_main_nor_aghol	hkrul_ulfric	false
 general	wh_main_nor_bjornling	hkrul_ulfric	false
-general	wh3_dlc20_nor_dolgan	hkrul_ulfric	false
 general	wh3_dlc20_nor_kuj	hkrul_ulfric	false
 general	wh3_dlc20_nor_kul	hkrul_ulfric	false
 general	wh3_dlc20_nor_tong	hkrul_ulfric	false

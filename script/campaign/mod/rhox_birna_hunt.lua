@@ -3,18 +3,32 @@ local sarl_faction ="wh_main_nor_sarl"
 local rhox_birna_monster_hunter_counts={}
 
 local monster_hunts_index = {
-	"monster_hunt_0",
-	"monster_hunt_1",
-	"monster_hunt_2",
-	"monster_hunt_3",
-	"monster_hunt_4",
-	"monster_hunt_5",
-	"monster_hunt_6",
-	"monster_hunt_7",
-	"monster_hunt_8",
-	"monster_hunt_9",
-	"monster_hunt_10",
-	"monster_hunt_11"
+	"wh2_dlc10_qb_nor_monster_hunt_08",
+	"wh2_dlc10_qb_nor_monster_hunt_09",
+	"wh2_dlc10_qb_nor_monster_hunt_10",
+	"wh2_dlc10_qb_nor_monster_hunt_11",
+	"wh3_dlc27_qb_nor_monster_hunt_12",
+	"wh3_dlc27_qb_nor_monster_hunt_14",
+	"wh3_dlc27_qb_nor_monster_hunt_15",
+	"wh3_dlc27_qb_nor_monster_hunt_16",
+	"wh3_dlc27_qb_nor_monster_hunt_17",
+	"wh3_dlc27_qb_nor_monster_hunt_18",
+	"wh3_dlc27_qb_nor_monster_hunt_19",
+	"wh3_dlc27_qb_nor_monster_hunt_20",
+	"wh3_dlc27_qb_nor_monster_hunt_21",
+	"wh3_dlc27_qb_nor_monster_hunt_22",
+	"wh3_dlc27_qb_nor_monster_hunt_23",
+	"wh3_dlc27_qb_nor_monster_hunt_24",
+	"wh3_dlc27_qb_nor_monster_hunt_25",
+	"wh_dlc08_qb_nor_monster_hunt_00",
+	"wh_dlc08_qb_nor_monster_hunt_01",
+	"wh_dlc08_qb_nor_monster_hunt_02",
+	"wh_dlc08_qb_nor_monster_hunt_03",
+	"wh_dlc08_qb_nor_monster_hunt_04",
+	"wh_dlc08_qb_nor_monster_hunt_05",
+	"wh_dlc08_qb_nor_monster_hunt_06",
+	"wh_dlc08_qb_nor_monster_hunt_07",
+	"hkrul_sarl_birna_bogtusk_final_battle",
 };
 
 local rhox_birna_completed_hunt={}
@@ -74,27 +88,28 @@ core:add_listener(
 		local key = context:mission():mission_record_key();
 		
 		
-		local monster_hunt_data_for_faction = monster_hunts[faction_key]
-		if monster_hunt_data_for_faction == nil then
-			monster_hunt_data_for_faction = monster_hunts["wh_dlc08_nor_norsca"]
-		end	
-		
 		for i = 1, #monster_hunts_index do
-			if key == monster_hunt_data_for_faction[monster_hunts_index[i]]["qb"] then
+			if key == monster_hunts_index[i] then
 				if not rhox_birna_monster_hunter_counts[faction_key] then
 					rhox_birna_monster_hunter_counts[faction_key]=0
 				end
 				
-				if faction_key == sarl_faction then --for her faction feature
-                    rhox_birna_completed_hunt[key]=true
+				if not rhox_birna_completed_hunt[faction_key] then
+                    rhox_birna_completed_hunt[faction_key]={}--make table if it does not exit
 				end
+				
+				if not rhox_birna_completed_hunt[faction_key][key] then
+                    rhox_birna_completed_hunt[faction_key][key]=true
+                    rhox_birna_monster_hunter_counts[faction_key]=rhox_birna_monster_hunter_counts[faction_key]+1 
+				end
+				
 				
 				if faction_key == "wh_main_nor_graeling" and not cm:get_saved_value("rhox_graeling_hunt_mission_completed") then
                     cm:set_saved_value("rhox_graeling_hunt_mission_completed", true)
                     cm:complete_scripted_mission_objective("wh_main_nor_graeling", "rhox_graeling_mission_wh_main_nor_sarl", "rhox_graeling_hunt", true)
 				end
 				
-				rhox_birna_monster_hunter_counts[faction_key]=rhox_birna_monster_hunter_counts[faction_key]+1 
+				
 				local character = get_character_by_subtype("hkrul_birna", faction)
 				if character then
 					rhox_birna_recalculate_ws_effect(character)

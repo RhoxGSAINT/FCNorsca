@@ -1,0 +1,7 @@
+id	choice_key	dilemma_key	payload_key	value	target_key
+#cdir_events_dilemma_payloads_tables;0;db/cdir_events_dilemma_payloads_tables/rhox_fc_norsca_addition_to_vanilla					
+1360709388	FIRST	wh2_dlc08_nor_confederate_generic	EFFECT_BUNDLE	KEY[rhox_fc_norsca_confederate_effect];DURATION[5]	default
+1360709389	FIRST	wh2_dlc08_nor_confederate_generic_no_execution	EFFECT_BUNDLE	KEY[rhox_fc_norsca_confederate_effect];DURATION[5]	default
+1360709390	SECOND	wh2_dlc08_nor_confederate_generic_no_execution	TEXT_DISPLAY	LOOKUP[rhox_fc_norsca_ancillary_dummy]	default
+1360709391	THIRD	wh2_dlc08_nor_confederate_generic	TEXT_DISPLAY	LOOKUP[rhox_fc_norsca_ancillary_dummy]	default
+1360709392	THIRD	wh2_dlc08_nor_confederate_generic	EFFECT_BUNDLE	KEY[rhox_fc_norsca_spared_leader];DURATION[5]	default

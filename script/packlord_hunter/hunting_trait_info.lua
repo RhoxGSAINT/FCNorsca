@@ -185,7 +185,11 @@ packlord_hunting_trait_info = {
 		"wh_dlc01_chs_mon_dragon_ogre_shaggoth",
 		"wh_dlc01_chs_cha_kholek",
 		"mixu_chs_cha_shaggoth_champion",
-		
+		"wh3_dlc27_kho_mon_spawn_of_khorne_0",
+		"wh3_dlc27_nur_mon_spawn_of_nurgle_0",
+		"wh3_dlc27_sla_mon_spawn_of_slaanesh_0",
+		"wh3_dlc27_tze_mon_spawn_of_tzeentch_0",
+		"wh3_dlc27_chs_mon_chaos_spawn",		
 		-- characters
 		"wh2_dlc17_bst_cha_taurox_the_brass_bull_0",
 		"wh2_dlc17_bst_cha_doombull_0",

@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/rhox_fc_norsca_occupation.loc		
+culture_settlement_occupation_options_tooltip_957887884	Raise Altar – Eagle||Pillage and raze this region while erecting an Altar to the Great Eagle.\\n\\nAttaining allegiance to this God will reward you with powerful benefits, potentially allowing access to a mighty Lord of Change, [[img:icon_god_eagle]][[/img]][[col:yellow]]Azrik the Maze Keeper[[/col]], who can be recruited to fight for your faction.\\n\\n{{tr:ui_text_replacements_localised_text_wh3_dlc27_nor_allegiance_altar_landmark_limitation}}	false
+culture_settlement_occupation_options_tooltip_957887885	Raise Altar – Serpent||Pillage and raze this region while erecting an Altar to the Great Serpent.\\n\\nAttaining allegiance to this God will reward you with powerful benefits, potentially allowing access to a specialist Chaos Sorcerer, [[img:icon_god_snake]][[/img]][[col:yellow]]Kihar the Tormentor,[[/col]] who can be recruited to fight for your faction.\\n\\n{{tr:ui_text_replacements_localised_text_wh3_dlc27_nor_allegiance_altar_landmark_limitation}}	false
+culture_settlement_occupation_options_tooltip_957887886	Raise Altar – Hound||Pillage and raze this region while erecting an Altar to the Great Hound.\\n\\nAttaining allegiance to this God will reward you with powerful benefits, potentially allowing access to a powerful Exalted Champion of Khorne, [[img:icon_god_hound]][[/img]][[col:yellow]]Killgore Slaymaim[[/col]], who can be recruited to fight for your faction.\\n\\n{{tr:ui_text_replacements_localised_text_wh3_dlc27_nor_allegiance_altar_landmark_limitation}}	false
+culture_settlement_occupation_options_tooltip_957887887	Colonise||Settle your troops.	false
+culture_settlement_occupation_options_tooltip_957887888	Occupy||{{tr:occupation_decision_occupy}}	false
+culture_settlement_occupation_options_tooltip_957887889	Colonise||Settle your troops.	false
+culture_settlement_occupation_options_tooltip_957887890	Occupy||{{tr:occupation_decision_occupy}}	false
+culture_settlement_occupation_options_tooltip_957887891	Colonise||Settle your troops.	false
+culture_settlement_occupation_options_tooltip_957887892	Occupy||{{tr:occupation_decision_occupy}}	false
+culture_settlement_occupation_options_tooltip_957887893	Colonise||Settle your troops.	false
+culture_settlement_occupation_options_tooltip_957887894	Occupy||{{tr:occupation_decision_occupy}}	false

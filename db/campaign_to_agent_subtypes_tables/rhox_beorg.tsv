@@ -1,7 +1,0 @@
-agent_subtype	campaign_type
-#campaign_to_agent_subtypes_tables;0;db/campaign_to_agent_subtypes_tables/rhox_beorg	
-hkrul_beorg	cr_combi_expanded
-hkrul_oerl	cr_combi_expanded
-hkrul_beorg	wh3_main_combi
-hkrul_oerl	wh3_main_combi
-hkrul_beorg	cr_oldworld

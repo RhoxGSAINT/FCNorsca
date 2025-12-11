@@ -15,7 +15,6 @@ general	wh2_main_nor_aghol	hkrul_grydal	false
 general	wh3_dlc20_nor_yusak	hkrul_grydal	false
 general	wh3_dlc20_nor_kuj	hkrul_grydal	false
 general	wh3_dlc20_nor_kul	hkrul_grydal	false
-general	wh3_dlc20_nor_dolgan	hkrul_grydal	false
 general	wh3_dlc20_nor_tong	hkrul_grydal	false
 general	wh_main_nor_aesling	hkrul_goftur	false
 general	wh_dlc08_nor_norsca	hkrul_goftur	false
@@ -32,7 +31,6 @@ general	wh2_main_nor_aghol	hkrul_goftur	false
 general	wh3_dlc20_nor_yusak	hkrul_goftur	false
 general	wh3_dlc20_nor_kuj	hkrul_goftur	false
 general	wh3_dlc20_nor_kul	hkrul_goftur	false
-general	wh3_dlc20_nor_dolgan	hkrul_goftur	false
 general	wh3_dlc20_nor_tong	hkrul_goftur	false
 general	wh_main_nor_aesling	hkrul_mermedus	false
 general	wh_dlc08_nor_norsca	hkrul_mermedus	false
@@ -49,7 +47,6 @@ general	wh2_main_nor_aghol	hkrul_mermedus	false
 general	wh3_dlc20_nor_yusak	hkrul_mermedus	false
 general	wh3_dlc20_nor_kuj	hkrul_mermedus	false
 general	wh3_dlc20_nor_kul	hkrul_mermedus	false
-general	wh3_dlc20_nor_dolgan	hkrul_mermedus	false
 general	wh3_dlc20_nor_tong	hkrul_mermedus	false
 general	wh_main_nor_aesling	hkrul_urf	false
 general	wh_dlc08_nor_norsca	hkrul_urf	false
@@ -66,7 +63,6 @@ general	wh2_main_nor_aghol	hkrul_urf	false
 general	wh3_dlc20_nor_yusak	hkrul_urf	false
 general	wh3_dlc20_nor_kuj	hkrul_urf	false
 general	wh3_dlc20_nor_kul	hkrul_urf	false
-general	wh3_dlc20_nor_dolgan	hkrul_urf	false
 general	wh3_dlc20_nor_tong	hkrul_urf	false
 champion	wh_main_nor_aesling	hkrul_haraldur	false
 champion	wh_dlc08_nor_norsca	hkrul_haraldur	false
@@ -83,7 +79,6 @@ champion	wh2_main_nor_aghol	hkrul_haraldur	false
 champion	wh3_dlc20_nor_yusak	hkrul_haraldur	false
 champion	wh3_dlc20_nor_kuj	hkrul_haraldur	false
 champion	wh3_dlc20_nor_kul	hkrul_haraldur	false
-champion	wh3_dlc20_nor_dolgan	hkrul_haraldur	false
 champion	wh3_dlc20_nor_tong	hkrul_haraldur	false
 general	wh_dlc08_nor_norsca	hkrul_sibat	false
 general	wh_dlc08_nor_wintertooth	hkrul_sibat	false
@@ -99,5 +94,4 @@ general	wh2_main_nor_aghol	hkrul_sibat	false
 general	wh3_dlc20_nor_yusak	hkrul_sibat	false
 general	wh3_dlc20_nor_kuj	hkrul_sibat	false
 general	wh3_dlc20_nor_kul	hkrul_sibat	false
-general	wh3_dlc20_nor_dolgan	hkrul_sibat	false
 general	wh3_dlc20_nor_tong	hkrul_sibat	false

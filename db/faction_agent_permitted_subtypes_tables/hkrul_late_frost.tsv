@@ -15,7 +15,6 @@ champion	wh2_main_nor_aghol	hkrul_mortensen	false
 champion	wh3_dlc20_nor_yusak	hkrul_mortensen	false
 champion	wh3_dlc20_nor_kuj	hkrul_mortensen	false
 champion	wh3_dlc20_nor_kul	hkrul_mortensen	false
-champion	wh3_dlc20_nor_dolgan	hkrul_mortensen	false
 champion	wh3_dlc20_nor_tong	hkrul_mortensen	false
 general	wh_main_nor_aesling	hkrul_geimdall	false
 general	wh_dlc08_nor_norsca	hkrul_geimdall	false
@@ -32,7 +31,6 @@ general	wh2_main_nor_aghol	hkrul_geimdall	false
 general	wh3_dlc20_nor_yusak	hkrul_geimdall	false
 general	wh3_dlc20_nor_kuj	hkrul_geimdall	false
 general	wh3_dlc20_nor_kul	hkrul_geimdall	false
-general	wh3_dlc20_nor_dolgan	hkrul_geimdall	false
 general	wh3_dlc20_nor_tong	hkrul_geimdall	false
 general	wh_main_nor_aesling	hkrul_yngve	false
 general	wh_dlc08_nor_norsca	hkrul_yngve	false
@@ -49,5 +47,4 @@ general	wh2_main_nor_aghol	hkrul_yngve	false
 general	wh3_dlc20_nor_yusak	hkrul_yngve	false
 general	wh3_dlc20_nor_kuj	hkrul_yngve	false
 general	wh3_dlc20_nor_kul	hkrul_yngve	false
-general	wh3_dlc20_nor_dolgan	hkrul_yngve	false
 general	wh3_dlc20_nor_tong	hkrul_yngve	false

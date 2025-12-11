@@ -10,7 +10,6 @@ id	culture	faction	remove	set	subculture
 1819575197	wh_dlc08_nor_norsca		false	factions_with_vassals	
 1819575198		mixer_nor_beorg	false	mixer_confederate_dilemma_no_execute	
 1819575199		wh2_main_nor_skeggi	false	mixer_confederate_dilemma_no_execute	
-1819575200		wh3_dlc20_nor_dolgan	false	mixer_confederate_dilemma_no_execute	
 1819575201		wh3_dlc20_nor_kul	false	mixer_confederate_dilemma_no_execute	
 1819575202		wh_dlc08_nor_vanaheimlings	false	mixer_confederate_dilemma_no_execute	
 1819575203		wh_main_nor_aesling	false	mixer_confederate_dilemma_no_execute	

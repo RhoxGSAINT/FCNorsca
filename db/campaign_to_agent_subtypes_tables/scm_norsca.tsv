@@ -7,7 +7,6 @@ hkrul_birna	wh3_main_combi
 hkrul_drenok	wh3_main_combi
 hkrul_einar	wh3_main_combi
 hkrul_harald	wh3_main_combi
-hkrul_sayl	wh3_main_combi
 hkrul_ulfric	wh3_main_combi
 hkrul_hakka	wh3_main_combi
 hkrul_swyrd	wh3_main_combi
@@ -26,7 +25,6 @@ hkrul_birna	cr_combi_expanded
 hkrul_drenok	cr_combi_expanded
 hkrul_einar	cr_combi_expanded
 hkrul_harald	cr_combi_expanded
-hkrul_sayl	cr_combi_expanded
 hkrul_ulfric	cr_combi_expanded
 hkrul_hakka	cr_combi_expanded
 hkrul_swyrd	cr_combi_expanded
@@ -42,7 +40,6 @@ hkrul_birna	cr_oldworld
 hkrul_drenok	cr_oldworld
 hkrul_einar	cr_oldworld
 hkrul_harald	cr_oldworld
-hkrul_sayl	cr_oldworld
 hkrul_ulfric	cr_oldworld
 hkrul_hakka	cr_oldworld
 hkrul_swyrd	cr_oldworld
@@ -66,3 +63,8 @@ hkrul_mortensen	cr_oldworld
 hkrul_yngve	wh3_main_combi
 hkrul_yngve	cr_combi_expanded
 hkrul_yngve	cr_oldworld
+hkrul_beorg	cr_combi_expanded
+hkrul_oerl	cr_combi_expanded
+hkrul_beorg	wh3_main_combi
+hkrul_oerl	wh3_main_combi
+hkrul_beorg	cr_oldworld

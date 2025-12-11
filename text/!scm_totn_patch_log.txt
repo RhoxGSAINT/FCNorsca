@@ -1,8 +1,39 @@
-2025/DEC/SCM
-- Removed the old hunt script as it is no longer needed
-- Removed the old occupation hiding script as it is no longer needed
-- Removed Birna's redoing monster hunt thing since all Norscas can do that
+2025/DEC/11 SCM
+- DB
+-- Added ALLEGIANCE_TO_THE_GODS UI feature for all but mixer_nor_eyristaad, mixer_nor_geimdall_huscarls and wh_main_nor_bjornling
+-- Changed Varg to use new wh3_dlc27 version of Chaos Spawn
+-- Changed Birna's effect to cooltime reduction from culture specific reset
+-- Removed other god altar option from god dedicated ones
+-- Removed god altar occupation option from neutral ones
+-- Added new settlement types to Wolftribe foreign building
+-- Added idolatry marauding options for all non-neutral Norsca factions
+-- Added wh3_dlc27 agents to the Mixer ones. (But neutral ones don't get access to Fimir Noble)
+-- Added wh3_dlc27_norsca_core_settlement as the settlement type for the landmarks Norscas can build
 
+- SCRIPT
+-- changed Graeling confedeate target to wh3_dlc27_nor_sayl from Dolgan
+-- Fixed the issue of Varg's chaos spawn mercenary function not working and lowered the base chance to 20% after battle from 100% after the battle when in the high corruption area
+-- Added Norscan god allegiance thing for all Norscans but 3 factions
+-- Added access to Beorg to all Norsca factions
+-- beorg_bearstruck's priority_ai_faction is his father rather than Sayl (we'll note this in the board)
+-- Added access to styrkaar for wh3_dlc20_nor_yusak
+-- Removed God specific RoRs from dedicated Norscas
+-- Fixed the Birna hunt script (weapon strenth calculating and confed for the Graeling)
+-- Changed Hrothgar mission condition so that it can be finished with the reworked system
+
+- DEPRECIATED REMOVAL
+-- Removed TotN Sayl related things from the script. Goodbye
+-- Removed the old hunt script as it is no longer needed
+-- Removed the old occupation hiding script as it is no longer needed
+-- Removed Birna's redoing monster hunt thing since all Norscas can do that
+-- Removed Adella's champion spawning location override
+-- Removed Adella&Sargath's directly face monster reminder
+-- Removed vanilla RoR adding script for Beorg father
+-- Removed the normal raze option for Bjornling and Geimdal as they don't need it anymore
+
+2025/DEC/8 HKrul
+- Added new contents.
+- 7.0 compatibility check
 
 2025/APR/SCM
 - Fixed an issue where Hakka the Aesling had the wrong mount mentioned
@@ -25,6 +56,8 @@
 - Created unique VFX and a CSC for Einarr's Steelfist ability
 - Birna's river troll retinue now has a unique unit card
 - Reduced wind up time for some abilities
+
+
 
 
 - 2025/Mar/30 SCM 

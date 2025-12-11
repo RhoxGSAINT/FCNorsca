@@ -1,7 +1,6 @@
 campaign_potential	base_value	random_roll_lower_bound	random_roll_median	random_roll_upper_bound
 #faction_potential_categories_tables;0;db/faction_potential_categories_tables/rhox_fc_norsca				
 wh2_main_nor_skeggi_ie	125	0	25	50
-wh3_dlc20_nor_dolgan_ie	125	0	25	50
 wh3_dlc20_nor_kul_ie	125	0	25	50
 wh_dlc08_nor_vanaheimlings_ie	125	0	25	50
 wh_main_nor_aesling_ie	125	0	25	50

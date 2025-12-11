@@ -12,10 +12,9 @@ local mission_to_next={
     hkrul_sarl_birna_bogtusk_mission_1  = function()
 		local mm = mission_manager:new(sarl_faction, "hkrul_sarl_birna_bogtusk_mission_2")
         mm:add_new_objective("RECRUIT_N_UNITS_FROM")
-        mm:add_condition("unit hkrul_sarl_inf_marauder_hunters_0")
-        mm:add_condition("unit hkrul_sarl_inf_marauder_hunters_1")
+        mm:add_condition("unit hkrul_sarl_hunters")
 		mm:add_condition("exclude_existing true")
-		mm:add_condition("total 5")
+		mm:add_condition("total 2")
 		mm:add_payload("money 3000")
         mm:trigger()
 	end,

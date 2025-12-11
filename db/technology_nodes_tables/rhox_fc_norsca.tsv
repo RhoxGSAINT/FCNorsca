@@ -1,26 +1,14 @@
 key	campaign_key	faction_key	indent	technology_key	technology_node_set	tier	research_points_required	cost_per_round	food_cost	optional_ui_group	resource_cost	required_parents	pixel_offset_x	pixel_offset_y
 #technology_nodes_tables;0;db/technology_nodes_tables/rhox_fc_norsca														
-rhox_bjornling_ritual_1		mixer_nor_geimdall_huscarls	9	rhox_bjornling_ritual_1	nor_mil	0	800	0	0			0	0	0
-rhox_bjornling_ritual_2		mixer_nor_geimdall_huscarls	9	rhox_bjornling_ritual_2	nor_mil	1	800	0	0			0	0	0
-rhox_bjornling_ritual_3		mixer_nor_geimdall_huscarls	9	rhox_bjornling_ritual_3	nor_mil	2	800	0	0			0	0	0
-rhox_bjornling_ritual_4		mixer_nor_geimdall_huscarls	9	rhox_bjornling_ritual_4	nor_mil	3	800	0	0			0	0	0
-rhox_sayl_kho_1		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_1	nor_mil	0	1	0	0		rhox_sayl_kho	0	0	-50
-rhox_sayl_kho_2		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_2	nor_mil	1	1	0	0		rhox_sayl_kho	0	0	-50
-rhox_sayl_kho_3		wh3_dlc20_nor_dolgan	0	rhox_sayl_kho_3	nor_mil	2	1	0	0		rhox_sayl_kho	0	0	-50
-rhox_sayl_nur_1		wh3_dlc20_nor_dolgan	0	rhox_sayl_nur_1	nor_mil	3	1	0	0		rhox_sayl_nur	0	0	-50
-rhox_sayl_nur_2		wh3_dlc20_nor_dolgan	0	rhox_sayl_nur_2	nor_mil	4	1	0	0		rhox_sayl_nur	0	0	-50
-rhox_sayl_nur_3		wh3_dlc20_nor_dolgan	0	rhox_sayl_nur_3	nor_mil	5	1	0	0		rhox_sayl_nur	0	0	-50
-rhox_sayl_sla_1		wh3_dlc20_nor_dolgan	9	rhox_sayl_sla_1	nor_mil	0	1	0	0		rhox_sayl_sla	0	0	0
-rhox_sayl_sla_2		wh3_dlc20_nor_dolgan	9	rhox_sayl_sla_2	nor_mil	1	1	0	0		rhox_sayl_sla	0	0	0
-rhox_sayl_sla_3		wh3_dlc20_nor_dolgan	9	rhox_sayl_sla_3	nor_mil	2	1	0	0		rhox_sayl_sla	0	0	0
-rhox_sayl_tze_1		wh3_dlc20_nor_dolgan	9	rhox_sayl_tze_1	nor_mil	3	1	0	0		rhox_sayl_tze	0	0	0
-rhox_sayl_tze_2		wh3_dlc20_nor_dolgan	9	rhox_sayl_tze_2	nor_mil	4	1	0	0		rhox_sayl_tze	0	0	0
-rhox_sayl_tze_3		wh3_dlc20_nor_dolgan	9	rhox_sayl_tze_3	nor_mil	5	1	0	0		rhox_sayl_tze	0	0	0
-rhox_sarg_sla_1		wh3_dlc20_nor_yusak	5	wh3_dlc20_chs_sla_azazel_gift_slot_1	nor_mil	3	800	0	0			0	0	20
-rhox_sarg_sla_2		wh3_dlc20_nor_yusak	6	wh3_dlc20_chs_sla_azazel_gift_slot_2	nor_mil	3	800	0	0			0	0	20
-rhox_sarg_sla_3		wh3_dlc20_nor_yusak	7	rhox_sarg_sla_3	nor_mil	3	800	0	0			0	0	20
-rhox_sarg_normal_1		wh3_dlc20_nor_yusak	1	rhox_sarg_normal_1	nor_mil	3	800	0	0			0	0	-20
-rhox_sarg_normal_2		wh3_dlc20_nor_yusak	2	rhox_sarg_normal_2	nor_mil	3	800	0	0			0	0	-20
-rhox_sarg_normal_3		wh3_dlc20_nor_yusak	3	wh3_main_tech_sla_1_2	nor_mil	3	500	0	0			0	0	-20
-rhox_akkorak_knight_node_1		wh3_dlc20_nor_kul	9	wh3_dlc20_chs_und_shared_knights	nor_mil	0	800	0	0			0	0	0
-rhox_akkorak_knight_node_2		wh3_dlc20_nor_kul	9	wh_main_tech_chs_branch_5_4	nor_mil	1	800	0	0			0	0	0
+rhox_bjornling_ritual_1		mixer_nor_geimdall_huscarls	10	rhox_bjornling_ritual_1	nor_mil	1	800	0	0			0	0	20
+rhox_bjornling_ritual_2		mixer_nor_geimdall_huscarls	10	rhox_bjornling_ritual_2	nor_mil	2	800	0	0			0	0	20
+rhox_bjornling_ritual_3		mixer_nor_geimdall_huscarls	10	rhox_bjornling_ritual_3	nor_mil	3	800	0	0			0	0	20
+rhox_bjornling_ritual_4		mixer_nor_geimdall_huscarls	10	rhox_bjornling_ritual_4	nor_mil	4	800	0	0			0	0	20
+rhox_sarg_sla_1		wh3_dlc20_nor_yusak	10	wh3_dlc20_chs_sla_azazel_gift_slot_1	nor_mil	1	800	0	0			0	0	20
+rhox_sarg_sla_2		wh3_dlc20_nor_yusak	10	wh3_dlc20_chs_sla_azazel_gift_slot_2	nor_mil	2	800	0	0			0	0	20
+rhox_sarg_sla_3		wh3_dlc20_nor_yusak	10	rhox_sarg_sla_3	nor_mil	3	800	0	0			0	0	20
+rhox_sarg_normal_1		wh3_dlc20_nor_yusak	10	rhox_sarg_normal_1	nor_mil	4	800	0	0			0	0	20
+rhox_sarg_normal_2		wh3_dlc20_nor_yusak	10	rhox_sarg_normal_2	nor_mil	5	800	0	0			0	0	20
+rhox_sarg_normal_3		wh3_dlc20_nor_yusak	10	wh3_main_tech_sla_1_2	nor_mil	6	500	0	0			0	0	20
+rhox_akkorak_knight_node_1		wh3_dlc20_nor_kul	10	wh3_dlc20_chs_und_shared_knights	nor_mil	1	800	0	0			0	0	0
+rhox_akkorak_knight_node_2		wh3_dlc20_nor_kul	10	wh_main_tech_chs_branch_5_4	nor_mil	2	800	0	0			0	0	0

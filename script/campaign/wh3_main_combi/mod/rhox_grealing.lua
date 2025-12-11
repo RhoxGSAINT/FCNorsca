@@ -5,7 +5,7 @@ local graeling_mission_key = "rhox_graeling_mission_"
 local confederation_target_factions={
     wh_dlc08_nor_norsca={objective="SCRIPTED",custom_function=function(mm) cm:set_saved_value("rhox_graeling_ll", 0) end, condition={"script_key rhox_graeling_ll","override_text mission_text_text_rhox_graeling_ll_0"}},
     wh_dlc08_nor_wintertooth={db_type=true},
-    wh3_dlc20_nor_dolgan={objective="ENGAGE_FORCE",custom_function=function(mm) mm:add_condition("cqi "..cm:get_faction("wh_main_chs_chaos"):faction_leader():military_force():command_queue_index()) end,condition={"requires_victory"}},
+    wh3_dlc27_nor_sayl={objective="ENGAGE_FORCE",custom_function=function(mm) mm:add_condition("cqi "..cm:get_faction("wh_main_chs_chaos"):faction_leader():military_force():command_queue_index()) end,condition={"requires_victory"}},
     wh3_dlc20_nor_kul={objective="DEFEAT_N_ARMIES_OF_FACTION",condition={"subculture wh_main_sc_chs_chaos","total 10"}},
     wh_dlc08_nor_vanaheimlings={db_type=true},
     wh_main_nor_aesling={objective="DESTROY_FACTION",condition={"faction wh3_main_kho_exiles_of_khorne"}},

@@ -4,7 +4,7 @@ core:add_listener(
     "rhox_varg_hrothgar_unlock",
     "PooledResourceChanged",
     function(context)
-        return context:resource():key() == "nor_progress_hound" and context:resource():value() >= 60 and context:faction():name() == varg_faction_key and cm:get_saved_value("rhox_varg_mission_complete") ~=true and context:faction():is_human()
+        return context:resource():key() == "nor_progress_hound" and context:resource():value() >= 10 and context:faction():name() == varg_faction_key and cm:get_saved_value("rhox_varg_mission_complete") ~=true and context:faction():is_human()
     end,
     function(context)
         local faction = context:faction()
@@ -43,12 +43,13 @@ core:add_listener(
 
 
 local corruption_to_unit={
-    wh3_main_corruption_chaos="wh_main_chs_mon_chaos_spawn",
-    wh3_main_corruption_khorne="wh3_main_kho_mon_spawn_of_khorne_0",
-    wh3_main_corruption_nurgle="wh3_main_nur_mon_spawn_of_nurgle_0",
-    wh3_main_corruption_slaanesh="wh3_main_sla_mon_spawn_of_slaanesh_0",
-    wh3_main_corruption_tzeentch="wh3_main_tze_mon_spawn_of_tzeentch_0",
+    wh3_main_corruption_chaos="wh3_dlc27_chs_mon_chaos_spawn",
+    wh3_main_corruption_khorne="wh3_dlc27_kho_mon_spawn_of_khorne_0",
+    wh3_main_corruption_nurgle="wh3_dlc27_nur_mon_spawn_of_nurgle_0",
+    wh3_main_corruption_slaanesh="wh3_dlc27_sla_mon_spawn_of_slaanesh_0",
+    wh3_main_corruption_tzeentch="wh3_dlc27_tze_mon_spawn_of_tzeentch_0",
 }
+
 
 
 core:add_listener(
@@ -58,7 +59,7 @@ core:add_listener(
         local character = context:character()
         local faction = character:faction()
         local pb = context:pending_battle();
-        local base_chance = 100
+        local base_chance = 20
         local bonus_chance = character:bonus_values():scripted_value("rhox_varg_bonus_chance", "value")
 
         if character:is_at_sea() or not character:region() or character:region():is_null_interface() then
