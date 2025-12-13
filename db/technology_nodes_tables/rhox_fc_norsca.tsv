@@ -12,3 +12,7 @@ rhox_sarg_normal_2		wh3_dlc20_nor_yusak	10	rhox_sarg_normal_2	nor_mil	5	800	0	0	
 rhox_sarg_normal_3		wh3_dlc20_nor_yusak	10	wh3_main_tech_sla_1_2	nor_mil	6	500	0	0			0	0	20
 rhox_akkorak_knight_node_1		wh3_dlc20_nor_kul	10	wh3_dlc20_chs_und_shared_knights	nor_mil	1	800	0	0			0	0	0
 rhox_akkorak_knight_node_2		wh3_dlc20_nor_kul	10	wh_main_tech_chs_branch_5_4	nor_mil	2	800	0	0			0	0	0
+hkrul_bjornling_tech_unique_1		wh_main_nor_bjornling	0	hkrul_bjornling_tech_unique_1	nor_mil	16	100	0	0		wh3_dlc27_nor_spoils_technology_200	0	0	0
+hkrul_bjornling_tech_unique_2		wh_main_nor_bjornling	8	hkrul_bjornling_tech_unique_2	nor_mil	16	100	0	0		wh3_dlc27_nor_spoils_technology_200	0	0	0
+hkrul_bjornling_tech_unique_3		wh_main_nor_bjornling	4	hkrul_bjornling_tech_unique_3	nor_mil	7	600	0	0			0	0	-23
+hkrul_bjornling_tech_unique_4		wh_main_nor_bjornling	5	hkrul_bjornling_tech_unique_4	nor_mil	3	500	0	0			0	0	20

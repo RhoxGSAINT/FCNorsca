@@ -16,3 +16,5 @@ rhox_sarg_feature	wh3_main_ritual_sla_pleasure_arena		0	true
 rhox_sarg_feature	wh3_main_ritual_sla_pleasure_hunt		0	true
 rhox_sarg_feature	wh3_main_ritual_sla_pleasure_party		0	true
 rhox_bjornling_feature_group	rhox_bjornling_fish_sale		0	true
+wh_dlc08_feature_norsca_without_sayl	wh3_dlc27_ritual_nor_marauding_tribute		0	true
+hkrul_bjornling_feature_group	hkrul_norsca_marauding_bjornling		0	true

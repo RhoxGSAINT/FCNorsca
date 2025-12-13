@@ -36,6 +36,10 @@ cm:add_first_tick_callback(
             local result4 = core:get_or_create_component("rhox_bjornling_resource_holder", "ui/campaign ui/rhox_bjornling_fish_resource_holder.twui.xml", parent_ui)
             rhox_fc_norsca_find_and_turn_on_raid_icon()
             
+			--[[local norsca_gods_frame = find_uicomponent(core:get_ui_root(), "hud_campaign", "resources_bar_holder", "resources_bar", "norsca_favour")
+            if norsca_gods_frame then
+                norsca_gods_frame:SetVisible(false)
+            end--]]
             
             --[[
             core:remove_listener("rhox_bjornling_fish_listener")

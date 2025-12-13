@@ -47,3 +47,4 @@ hkrul_skald_global_upkeep	military_spending.png	99	military_spending.png	campaig
 hkrul_hafskael_longship_time	turns.png	130	turns.png	campaign	false
 hkrul_hafskael_longship_time_local	turns.png	130	turns.png	campaign	false
 hkrul_hafskael_dummy	hkrul_effect_bundle_hafskael.png	300	hkrul_effect_bundle_hafskael.png	campaign	true
+hkrul_upkeep_heroes_campaign_test_2	military_spending.png	99	military_spending.png	campaign	false

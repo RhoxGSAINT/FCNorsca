@@ -19,3 +19,7 @@ rhox_bjornling_ritual_4	wh_main_chs_port_ruin	1	wh3_main_tech_ksl_4_01	false	fal
 rhox_sarg_sla_3	wh_main_chs_port_ruin	1	wh3_main_tech_sla_5_6	false	false	"placeholder.tga"	1630467598	false	false	true	false
 rhox_sarg_normal_1	wh_main_chs_port_ruin	1	wh_main_chs_rituals_of_corruption	false	false	"placeholder.tga"	1630467599	false	false	true	false
 rhox_sarg_normal_2	wh_main_chs_port_ruin	1	wh_main_chs_ensorcelled_weapons	false	false	"placeholder.tga"	1630467600	false	false	true	false
+hkrul_bjornling_tech_unique_1	wh_main_chs_port_ruin	1	hkrul_tech_norsca_ship	false	false	"placeholder.tga"	1630467601	false	false	true	false
+hkrul_bjornling_tech_unique_2	wh_main_chs_port_ruin	1	hkrul_tech_norsa_chest	false	false	"placeholder.tga"	1630467602	false	false	true	false
+hkrul_bjornling_tech_unique_3	wh_main_chs_port_ruin	1	hkrul_tech_shieldmaiden	false	false	"placeholder.tga"	1630467603	false	false	true	false
+hkrul_bjornling_tech_unique_4	wh_main_chs_port_ruin	1	hkrul_tech_ymir	false	false	"placeholder.tga"	1630467604	false	false	true	false

@@ -3,3 +3,4 @@ key	cast_time	completion_payload	cooldown_time	category	slave_cost	global_cooldo
 rhox_sayl_ritual	0	rhox_sayl_ritual	10	rhox_sayl_ritual	0	0			0		rhox_sayl_ritual				0	0				default		0.0000	0	0
 rhox_bjornling_fish_sale	0	empty	5	rhox_sayl_ritual	0	0			0		rhox_bjornling_fish_sale				0	0				default		0.0500	0	0
 rhox_aesling_ritual_kho_the_skull_throne	0	wh3_main_ritual_kho_the_skull_throne	10	SKULLS_RITUAL	0	0			0		rhox_aesling_ritual_kho_the_skull_throne				0	0				default		0.0000	0	0
+hkrul_norsca_marauding_bjornling	0	hkrul_norsca_marauding_bjornling	5	MARAUDING_RITUAL	0	0		ui/skins/wh_dlc08_nor_norsca/hkrul_marauding_bjornling.png	0		wh3_dlc27_ritual_nor_marauding_tribute	ritual_target_region_own			0	0				default		0.0000	0	0

@@ -1,3 +1,33 @@
+2025/DEC/13 SCM -2
+- Fixed the MIXER_SPECIAL_DEDICATED_NORSCA usage in my script because I haven't been used it as a hash table
+
+2025/DEC/13 SCM
+- Removed some bits of scripts that Mixer has added. (champion LL spawning, allegance to the god) Don't forget to update the Mixer. You'll need resubscribe
+- Removed the captive option in the mod since Mixer supports it now
+
+
+2025/DEC/12 SCM
+- Changed Bjornling UI removal method to twad from script. Because it's more stable and I wanted to use that feature at least once.
+- Gave the missing captive option to the Norscas
+- Fixed the issue of mixer_nor_bloodfjord not getting access to monster hunts and pillaging
+
+HKRUL DEC/12/2025 
+
+Fixed missing frontend locs for Olaf Wolfhound
+removed the idolatry marauding option for the Bjornling
+Added unique technologies for Bjornling - [b]WIP![/b]
+Added a new unique marauding option for Bjornling
+Sayl now has Kurgan Marauder unit variants
+Bjornling will no longer have the chaos god meters on the UI
+fixed an issue where factions had instant access to the Bloodshiek Chimeara
+Bjornling now has acces to their original monsters
+Fixed an issue where Adella could no longer built her monolith's
+added lock string for Hooks of Hjolda RoR in locs
+added Hooks of Hjolda to the mercenary group and character level restrictions
+removed duplicate wolftribe key for altars_und
+nerfed the withering hand ability for Ernst von Kammler
+
+
 2025/DEC/11 SCM
 - DB
 -- Added ALLEGIANCE_TO_THE_GODS UI feature for all but mixer_nor_eyristaad, mixer_nor_geimdall_huscarls and wh_main_nor_bjornling

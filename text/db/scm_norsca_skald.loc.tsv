@@ -78,5 +78,40 @@ agent_subtypes_description_text_override_hkrul_shieldmaiden		false
 agent_subtypes_onscreen_name_override_hkrul_shieldmaiden	Shieldmaiden	false
 land_units_onscreen_name_hkrul_shieldmaiden	Shieldmaiden	false
 unit_description_short_texts_text_hkrul_shieldmaiden	To fight is the shieldmaiden's birthright, to die without honour their only fear.	false
-unit_description_historical_texts_text_hkrul_shieldmaiden	The Shieldmaidens of the north are more than myth — they are war-wrought daughters of iron, shield-sworn and spear-trained from youth. Forged by the unrelenting trials of Norscan life, they stand equal among warriors, their discipline and fury a match for any marauder or berserker. These women are not mere consorts of war, but champions of it — guardians of clan hearths, slayers of beasts, and defenders of the longships. Whether facing the horrors of the Chaos Wastes or rival tribes, a Shieldmaiden does not break — she plants her shield and makes her stand.	false
+unit_description_historical_texts_text_hkrul_shieldmaiden	The Shieldmaidens of the north are more than myth, they are war-wrought daughters of iron, shield-sworn and spear-trained from youth. Forged by the unrelenting trials of Norscan life, they stand equal among warriors, their discipline and fury a match for any marauder or berserker. These women are not mere consorts of war, but champions of it: Guardians of clan hearths, slayers of beasts, and defenders of the longships. Whether facing the horrors of the Chaos Wastes or rival tribes, a Shieldmaiden does not break — she plants her shield and makes her stand.	false
 effects_description_hkrul_effect_agent_cap_increase_spy_shieldmaiden	Hero capacity: %+n for Shieldmaidens	false
+names_name_3610733833	Eirhild	false
+names_name_3650711236	Sigruna	false
+names_name_3650711237	Brynhja	false
+names_name_3650711238	Keldra	false
+names_name_3650711239	Thjolda	false
+names_name_3650711240	Skada	false
+names_name_3650711241	Freyjaen	false
+names_name_3650711242	Astryd	false
+names_name_3650711243	Valdra	false
+names_name_3650711244	Myrhild	false
+names_name_3650711245	Gudviga	false
+names_name_3650711246	Raghnild	false
+names_name_650711236	of the Broken Hall	false
+names_name_650711237	Whale-Splitter	false
+names_name_650711238	Ironfang	false
+names_name_650711239	Wyrd-Touched	false
+names_name_650711240	Wolf-Hewer	false
+names_name_650711241	Bear-Ward	false
+names_name_650711242	of Skjoldspire	false
+names_name_650711243	Long-Howl	false
+names_name_650711244	Blodskarn	false
+names_name_650711245	the Oathbound	false
+names_name_650711246	Sea-Widow	false
+character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_01	Saga of the Storm-Born	false
+character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_02	Shield-Wall Instinct	false
+character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_03	Cold-Blooded Discipline	false
+character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_04	Warden of the Watchfires	false
+character_skills_localised_name_hkrul_hkrul_shieldmaiden_node_unique_saga	Voice of the Valkyrie	false
+character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_06	Blood Runs North	false
+character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_01	They say she was born amidst crashing waves and war cries, and never once wept.	false
+character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_02	Her eyes scan the night for foes — few slip past her watch and live to boast.	false
+character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_03	Hard as permafrost and twice as unyielding, she leads without doubt or fear.	false
+character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_04	The maiden swears a binding oath, her loyalty etched deeper than steel or stone.	false
+character_skills_localised_description_hkrul_hkrul_shieldmaiden_node_unique_saga	When she speaks, warriors listen. When she cries war, they charge.	false
+character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_06	Beneath her banner, the tide holds. Even the sea cannot break her command.	false

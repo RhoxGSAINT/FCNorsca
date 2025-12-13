@@ -43,7 +43,6 @@ table.insert(character_unlocking.character_data["scyla"]["override_allowed_facti
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_bloodfjord")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_snaegr")
 
-
 local rhox_totn_factions={
     mixer_nor_beorg=true,
     cr_nor_servants_of_mermedus=true,
@@ -81,10 +80,10 @@ local rhox_totn_special_factions={--non-chaos, or god dedicated
 ------Norsca thing
 for faction_key, _ in pairs(rhox_totn_factions) do
     table.insert(character_unlocking.character_data["beorg_bearstruck"]["override_allowed_factions"], faction_key)
-    --Mixer adds all the factions to pillage and monster hunts and we don't have to
-    norscan_gods.allegiance_advice_tracker[faction_key]=norscan_gods.allegiance_advice_tracker["wh_dlc08_nor_norsca"]
-    if not rhox_totn_special_factions[faction_key] then
-        norscan_gods.allegiance_factions[faction_key]= norscan_gods.allegiance_factions["wh_dlc08_nor_norsca"]
+    
+    
+    if rhox_totn_special_factions[faction_key] and MIXER_SPECIAL_DEDICATED_NORSCA then
+        MIXER_SPECIAL_DEDICATED_NORSCA[faction_key]=true
     end
 end
 
@@ -105,25 +104,7 @@ table.insert(character_unlocking.character_data["styrkaar"]["override_allowed_fa
 
 
 
-core:add_listener(
-    "RhoxTotNChampion_DilemmaChoiceMadeEvent",
-    "DilemmaChoiceMadeEvent",
-    function(context)
-        return string.find(context:dilemma(), norscan_gods.dilemma_key_prefix) and rhox_totn_factions[context:faction():name()] and context:choice() == 0
-    end,
-    function(context)
-        local faction_key = context:faction():name()
-        local dilemma= context:dilemma()
-        local choice = context:choice()
-        
-        if dilemma == norscan_gods.dilemma_key_prefix.."eagle" then
-            cm:spawn_character_to_pool(faction_key, "names_name_1270717835", "", "", "", 30, true, "general", "wh_dlc08_nor_arzik", true, "")
-        elseif dilemma == norscan_gods.dilemma_key_prefix.."crow" then
-            cm:spawn_character_to_pool(faction_key, "names_name_1270717836", "names_name_1270717837", "", "", 30, true, "general", "wh3_main_ie_nor_burplesmirk_spewpit", true, "")
-        end
-    end,
-    true
-)
+
 
 
 

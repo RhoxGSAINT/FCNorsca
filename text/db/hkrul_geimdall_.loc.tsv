@@ -88,3 +88,4 @@ effect_bundles_localised_title_rhox_geimdall_bundle_ksl_followers_5	Loyalist Sup
 effect_bundles_localised_description_hkrul_geimdall_faction_trait	Geimdall, the right hand of High King Ulfric Grondal, is both warlord and spiritual guide to the Bjornling huscarls. His loyalty to Ulfric is unshakable, his axe ever at the king’s command. A veteran of countless raids, he dreams not of mere plunder but conquest—his eyes set upon Bretonnia, where he vows to bring low the chivalric lords and raise the Bjornling banners over their stone keeps.	false
 effect_bundles_localised_title_hkrul_geimdall_faction_trait	The King's Huscarl	false
 effects_description_hkrul_marauder_xp_gain	Unit experience gain: %+n% for Marauder units	false
+effects_description_hkrul_norsca_shield_maiden_recruit	Hero recruit rank: %+n for Shieldmaidens	false

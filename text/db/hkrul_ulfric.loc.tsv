@@ -101,6 +101,7 @@ land_units_onscreen_name_rhox_bjornling_huscarl_ror	Haraldur’s Huscarls (Husca
 unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors Eldagrimm has to offer.	false
 unit_description_short_texts_text_hkrul_huscarl_ror	Veterans of feast and fury, bonded in blood and shieldwall alike. When they march, old war-songs rise with them.	false
 campaign_localised_strings_string_rhox_bjornling_huscarl_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Geimdall's Huscarls or have High Jarl Geimdall in your faction[[/col]]	false
+campaign_localised_strings_string_hkrul_norsca_harpoon_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling or have Ulfric Grondall in your faction[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_tooltip_text_rhox_huscarl_shield_wall	Shield Wall	false
 unit_abilities_onscreen_name_hkrul_ulfric_axe_formation	Axes of Horvenghaast	false
@@ -326,3 +327,16 @@ effects_description_hkrul_norscan_ogres_armour	Armour: %+n for Norse Ogre units	
 effects_description_hkrul_norscan_ogres_melee_attack	Melee attack: %+n for Norse Ogre units	false
 effects_description_hkrul_norsca_ror_tze_melee_defence	Melee defence: %+n for Followers of the Great Eagle (Marauder Chariots)	false
 effects_description_hkrul_norsca_edict_builders	wh3_main_ie_edict_nor_construction.png	true
+campaign_localised_strings_string_hkrul_norsca_harpoonl_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling or have Ulfric Grondal in your faction[[/col]]	false
+rituals_display_name_hkrul_norsca_marauding_bjornling	Wharfraiding	false
+rituals_description_hkrul_norsca_marauding_bjornling	“Gold flows where longships moor. Control the docks, and you control the world.” – Bjornling trader	false
+technologies_onscreen_name_hkrul_bjornling_tech_unique_1	Salt-Kissed Sails	false
+technologies_short_description_hkrul_bjornling_tech_unique_1	Centuries at sea have honed Bjornling craft to near-perfection. With rigging strengthened by whale sinew and sails cut to ride the salted winds, their longships now hunt not just prey and plunder, but fish in greater numbers: Deeper, faster, and further than before.	false
+technologies_onscreen_name_hkrul_bjornling_tech_unique_2	Grain and Amber Accord	false
+technologies_short_description_hkrul_bjornling_tech_unique_2	Some grudges are sheathed when coin flows freely. Through gritted teeth and sealed ledgers, the Bjornling have established controlled trade with select Empire ports. Furs, whale oil, and bonecraft go south. In return comes fragile peace.	false
+technologies_onscreen_name_hkrul_bjornling_tech_unique_3	Song of Steel and Sisters	false
+technologies_short_description_hkrul_bjornling_tech_unique_3	Their sagas are not sung in halls, but written in wounds and warcry. Shieldmaidens train together, bleed together, and die for one another. With new rites of shield-discipline and javelin drills taught from Skjold to the icy isles, their loyalty and lethality harden like glacier-forged steel.	false
+technologies_onscreen_name_hkrul_bjornling_tech_unique_4	Blood of the Deep Frost	false
+technologies_short_description_hkrul_bjornling_tech_unique_4	The Ymirs are no mere creatures, they are living testaments to the North’s cruel strength. With ancient rites awoken in old runestones, these frostbound titans are now tempered with enchanted bone-powders, glacial runes, and tales of their ancestry that stir the beast within.	false
+effect_bundles_localised_description_hkrul_norsca_marauding_bjornling	“Gold flows where longships moor. Control the docks, and you control the world.” – Bjornling trader	false
+effect_bundles_localised_title_hkrul_norsca_marauding_bjornling	Wharfraiding	false
