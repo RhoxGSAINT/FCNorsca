@@ -78,7 +78,7 @@ RHOX_TOTN_SPECIAL_FACTIONS={--non-chaos, or god dedicated
 }
 ------Norsca thing
 for faction_key, _ in pairs(RHOX_TOTN_SPECIAL_FACTIONS) do
-    if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] and RHOX_TOTN_SPECIAL_FACTIONS[faction_key] ~= "neutral" then
+    if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] ~= "neutral" then
       table.insert(character_unlocking.character_data["beorg_bearstruck"]["override_allowed_factions"], faction_key)
     end
 
