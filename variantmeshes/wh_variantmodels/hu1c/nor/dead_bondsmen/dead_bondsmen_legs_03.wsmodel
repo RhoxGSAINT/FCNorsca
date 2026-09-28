@@ -1,0 +1,57 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\dead_bondsmen_legs_03.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\dae_bloodspeaker_body_01_submesh_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\ksl_kislevite_warrior_body_01_su_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="2">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="3">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\dae_bloodspeaker_body_01_submesh_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="7">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="8">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="1" part_index="11">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\ksl_kislevite_warrior_body_01_su_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="2">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="3">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\dae_bloodspeaker_body_01_submesh_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="7">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="8">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="2" part_index="11">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\ksl_kislevite_warrior_body_01_su_weighted4_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="2">variantmeshes\wh_variantmodels\hu1c\nor\nor_marauder_bearmen\materials\nor_marauder_bearmen_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="3">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\dae_bloodspeaker_body_01_submesh_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="4">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="5">variantmeshes\wh_variantmodels\hu1c\dae\dae_skullcrusher\materials\dae_skullcrusher_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="6">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_berserkers\materials\chs_marauder_berserkers_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="7">variantmeshes\wh_variantmodels\hu1c\dae\dae_cultist_of_khorne\materials\dae_cultist_of_khorne_body_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="8">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="9">variantmeshes\wh_variantmodels\hu1c\chs\chs_marauder_chieftain\materials\chs_marauder_chieftain_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="10">variantmeshes\wh_variantmodels\hu1c\dae\dae_harald_hammerstorm\materials\dae_harald_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="3" part_index="11">variantmeshes\wh_variantmodels\hu1c\nor\dead_bondsmen\materials\ksl_kislevite_warrior_body_01_su_weighted4_alpha_off.xml.material</material>
+
+	</materials>
+</model>

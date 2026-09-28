@@ -340,3 +340,106 @@ technologies_onscreen_name_hkrul_bjornling_tech_unique_4	Blood of the Deep Frost
 technologies_short_description_hkrul_bjornling_tech_unique_4	The Ymirs are no mere creatures, they are living testaments to the North’s cruel strength. With ancient rites awoken in old runestones, these frostbound titans are now tempered with enchanted bone-powders, glacial runes, and tales of their ancestry that stir the beast within.	false
 effect_bundles_localised_description_hkrul_norsca_marauding_bjornling	“Gold flows where longships moor. Control the docks, and you control the world.” – Bjornling trader	false
 effect_bundles_localised_title_hkrul_norsca_marauding_bjornling	Wharfraiding	false
+effects_description_hkrul_ymir_speed	Speed: %+n% for Ymir units	false
+effects_description_hkrul_ymir_xp_gain	Unit experience gain: %+n% for Ymir units	false
+effects_description_hkrul_ymir_melee_defence	Melee defence: %+n for Ymir units	false
+technologies_onscreen_name_hkrul_geimdall_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_geimdall_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_geimdall_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_geimdall_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_eyri_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_eyri_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_eyri_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_eyri_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_drenok_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_drenok_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_drenok_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_drenok_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_harald_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_harald_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_harald_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_harald_tech_unique_2	PLACEHOLDER	false
+land_units_onscreen_name_hkrul_norsca_whalers	Norscan Whalers	false
+unit_description_short_texts_text_hkrul_norsca_whalers	Norscan harpooners hardened by the Sea of Claws, expert in felling beasts and bringing down monsters with barbed precision.	false
+unit_description_historical_texts_text_hkrul_norsca_whalers	The Whalers of Norsca are not mere sailors, but veteran beast-slayers raised on blood and brine. With harpoons fashioned from bone, iron, and spite, these ruthless men have long hunted the leviathans of the Sea of Claws — and now they turn those same barbed weapons upon the battlefield. Their strength lies not in tight formation, but in piercing throws and brutal follow-ups, capable of dragging down monstrous foes with practiced ease. Clad in furs and whalehide, stinking of blubber and smoke, these whalers march to war with the same grim purpose they once reserved for the deep.	false
+unit_abilities_onscreen_name_hkrul_norsca_whaler_slow	Scrimshaw Talisman	false
+unit_abilities_tooltip_text_hkrul_norsca_whaler_slow	When mighty Sea creatures hurl towards the fishermen, they grip their bone-carved talismen and pray to their deity for protection. 	false
+effects_description_hkrul_norsca_shieldmaiden_deco_xp	Recruit rank: %+n for Shield Maidens\\n\\n[[col:red]][[i]]Note: Requires the Expanded Roster: Norsca mod to be activated.[[/i]][[/col]]	false
+effects_description_hkrul_norsca_shieldmaiden_deco_melee_defence	Melee defence: %+n for Shield Maidens\\n\\n[[col:red]][[i]]Note: Requires the Expanded Roster: Norsca mod to be activated.[[/i]][[/col]]	false
+unit_abilities_onscreen_name_hkrul_shieldmaiden_command	Worthy End	false
+unit_abilities_tooltip_text_hkrul_shieldmaiden_command	With a grim nod and the gleam of steel, she dares her sisters to rise up and die well.	false
+unit_abilities_onscreen_name_hkrul_shieldmaiden_pas	Battle-Temper	false
+unit_abilities_tooltip_text_hkrul_shieldmaiden_pas	As combat endures, the shieldmaiden's skill and fury grow, each heartbeat another lesson for her sisters.	false
+unit_abilities_onscreen_name_hkrul_shieldmaiden_shield	Wall-Bound Will	false
+unit_abilities_tooltip_text_hkrul_shieldmaiden_shield	Drawing on years of disciplined training, the shieldmaiden tightens her guard and dares the foe to try her.	false
+effects_description_hkrul_shieldmaiden_command	Ability: "Worthy End"	false
+effects_description_hkrul_shieldmaiden_pas	Passive ability: "Battle-Temper"	false
+effects_description_hkrul_shieldmaiden_shield	Ability: "Wall-Bound Will"	false
+effects_description_hkrul_norsca_shieldmaiden_deco_melee_attack	Melee attack: %+n for Shield Maidens\\n\\n[[col:red]][[i]]Note: Requires the Expanded Roster: Norsca mod to be activated.[[/i]][[/col]]	false
+effects_description_hkrul_norsca_shieldmaiden_deco_armour	Armour: %+n for Shield Maidens\\n\\n[[col:red]][[i]]Note: Requires the Expanded Roster: Norsca mod to be activated.[[/i]][[/col]]	false
+effects_description_hkrul_norsca_shieldmaiden_deco_upkeep	Upkeep: %+n% for Shield Maidens\\n\\n[[col:red]][[i]]Note: Requires the Expanded Roster: Norsca mod to be activated.[[/i]][[/col]]	false
+units_custom_battle_mounts_localised_description_hkrul_hafskaelhkrul_hafskael_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_hafskaelhkrul_hafskael_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_hafskaelhkrul_hafskael_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_hafskaelhkrul_hafskael_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_hafskael_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+character_skills_localised_name_hkrul_hafskael_horse	Norscan Warhorse	false
+character_skills_localised_description_hkrul_hafskael_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_hafskael_chariot	Marauder Chariot	false
+ancillaries_colour_text_hkrul_hafskael_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+ancillaries_onscreen_name_hkrul_hafskael_horse	Norscan Warhorse	false
+ancillaries_colour_text_hkrul_hafskael_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+ancillaries_onscreen_name_hkrul_hafskael_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_hafskael_horse	Jarl Hafskael	false
+land_units_onscreen_name_hkrul_hafskael_chariot	Jarl Hafskael	false
+technologies_onscreen_name_hkrul_birna_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_birna_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_surtha_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_surtha_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_surtha_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_surtha_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_birna_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_birna_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_einarr_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_einarr_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_einarr_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_einarr_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_akorak_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_akorak_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_akorak_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_akorak_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_beorg_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_beorg_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_beorg_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_beorg_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_olaf_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_olaf_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_olaf_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_olaf_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_huern_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_huern_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_huern_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_huern_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_hakka_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_hakka_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_hakka_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_hakka_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_sargath_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_sargath_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_sargath_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_sargath_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_goftur_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_goftur_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_goftur_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_goftur_tech_unique_2	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_grydal_tech_unique_1	PLACEHOLDER	false
+technologies_onscreen_name_hkrul_grydal_tech_unique_2	PLACEHOLDER	false
+technologies_short_description_hkrul_grydal_tech_unique_1	PLACEHOLDER	false
+technologies_short_description_hkrul_grydal_tech_unique_2	PLACEHOLDER	false
+unit_description_short_texts_text_hkrul_nor_marauder_bondsmen	Loyalty is everything to a bondsman, because it is only through his loyalty that he can advance.	false
+unit_description_short_texts_text_hkrul_nor_marauder_bondsmen_greatweapons	Bondsmen are interested in their jarl's success, because it directly increases their prosperity.	false
+unit_description_historical_texts_text_hkrul_nor_marauder_bondsmen	The Norscan bondsman is a Chaos Marauder in service to a particular Norscan tribal clan's ruling jarl. He is expected to live in the jarl's hall, share the jarl's food, and be steadfastly loyal. In exchange for the bondsman's pledge of loyalty, the jarl rewards service with gifts, such as weapons and armour, and to the very best warriors in his service, land and title.	false
+land_units_onscreen_name_hkrul_nor_marauder_bondsmen	Marauder Bondsmen	false
+land_units_concealed_name_hkrul_nor_marauder_bondsmen		false
+land_units_onscreen_name_hkrul_nor_marauder_bondsmen_greatweapons	Marauder Bondsmen (Great Weapons)	false
+land_units_concealed_name_hkrul_nor_marauder_bondsmen_greatweapons		false

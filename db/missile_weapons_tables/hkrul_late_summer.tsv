@@ -1,6 +1,7 @@
-key	precursor	default_projectile	audio_type	use_secondary_ammo_pool
-#missile_weapons_tables;11;db/missile_weapons_tables/hkrul_late_summer				
-hkrul_mermedus	false	hkrul_mermedus	javelin	false
-eyri_jag_killshot	false	eyri_jag_killshot	bow_large	false
-eyri_jag	true	eyri_jag	javelin	false
-hkrul_norsca_harpoon_ror	false	hkrul_norsca_harpoon_ror	bolt_large	false
+key	precursor	default_projectile	audio_type	use_secondary_ammo_pool	hide_secondary_range_ammo_statistics_ui
+#missile_weapons_tables;12;db/missile_weapons_tables/hkrul_late_summer					
+hkrul_mermedus	false	hkrul_mermedus	javelin	false	false
+eyri_jag_killshot	false	eyri_jag_killshot	bow_large	false	false
+eyri_jag	true	eyri_jag	javelin	false	false
+hkrul_norsca_harpoon_ror	false	hkrul_norsca_harpoon_ror	bolt_large	false	false
+hkrul_norsca_whalers	false	hkrul_norsca_whalers	javelin	false	false

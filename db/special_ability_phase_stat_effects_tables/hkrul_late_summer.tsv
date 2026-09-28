@@ -53,3 +53,5 @@ hkrul_snaegr_mark	stat_resistance_physical	1.1500	mult
 hkrul_snaegr_mark	stat_melee_damage_base	1.1500	mult
 hkrul_eyrdal_thorn	stat_melee_damage_base	1.2000	mult
 hkrul_eyrdal_thorn	stat_bonus_vs_large	15.0000	add
+hkrul_dalla_rally	stat_melee_defence	8.0000	add
+hkrul_shieldmaiden_command	stat_morale	100.0000	add

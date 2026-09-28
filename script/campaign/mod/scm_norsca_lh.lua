@@ -1,12 +1,12 @@
 local rhox_fc_norsca_lh={
-    scm_norsca_asta={--asta
+--[[scm_norsca_asta={--asta
         faction_key="wh_main_nor_baersonling",
         mission_key="rhox_fc_norsca_asta",
         mission_type="DB",
         ai_turn =5,
         building_key="rhox_fc_norsca_ruins_of_vinnskor",
         no_tow=true,
-    },
+    },--]]
     scm_norsca_alfkael={
         faction_key="wh_main_nor_aesling",
         mission_key="rhox_fc_norsca_bloodfather",

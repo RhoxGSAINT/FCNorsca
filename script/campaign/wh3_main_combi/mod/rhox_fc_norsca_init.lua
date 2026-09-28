@@ -1,20 +1,35 @@
-local function rhox_remove_ror (faction_obj, unit_group)
-	for i, v in pairs(unit_group) do
-		cm:add_unit_to_faction_mercenary_pool(
-			faction_obj,
-			v[1], -- key
-			v[2], -- recruitment source
-			0, -- count
-			0, --replen chance
-			0, -- max units
-			0, -- max per turn
-			"",	--faction restriction
-			"",	--subculture restriction
-			"",	--tech restriction
-			false, --partial
-			v[1]
-		);
-	end	
+local rhox_ror_to_remove = {
+    ---unit_key, recruitment_source_key, god (removed if it's not the faction's god. nil means only removed for neutral)
+    {"wh_pro04_nor_inf_marauder_berserkers_ror_0", "wh3_main_regiments_of_renown_pool", "khorne"},
+    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", "wh3_main_regiments_of_renown_pool", "nurgle"},
+    {"wh3_dlc27_nor_cav_chaos_chariot_ror", "wh3_main_regiments_of_renown_pool", "tzeentch"},
+    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", "wh3_main_regiments_of_renown_pool", "slaanesh"},
+    {"wh_pro04_nor_mon_fimir_ror_0", "wh3_main_regiments_of_renown_pool", nil},--Fimir
+}
+
+local function rhox_remove_ror(faction_obj, faction_key)
+    if type(RHOX_TOTN_SPECIAL_FACTIONS) ~= "table" or not RHOX_TOTN_SPECIAL_FACTIONS[faction_key] then
+        return
+    end
+    local god = RHOX_TOTN_SPECIAL_FACTIONS[faction_key]
+    for i, v in pairs(rhox_ror_to_remove) do
+        if god == "neutral" or (v[3] and v[3] ~= god) then
+            cm:add_unit_to_faction_mercenary_pool(
+                faction_obj,
+                v[1], -- key
+                v[2], -- recruitment source
+                0, -- count
+                0, --replen chance
+                0, -- max units
+                0, -- max per turn
+                "",	--faction restriction
+                "",	--subculture restriction
+                "",	--tech restriction
+                false, --partial
+                v[1]
+            );
+        end
+    end
 end
 
 
@@ -291,9 +306,9 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","renown",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -324,14 +339,6 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_rafn", faction:faction_leader():command_queue_index(), true)
-            local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    {"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    --{"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
             if faction:is_human() then
                 rhox_transfer_region("wh3_main_combi_region_fort_jakova", "wh3_main_ogr_rock_skulls")
                 rhox_transfer_region("wh3_main_combi_region_vitevo", "wh3_main_ksl_the_ice_court")
@@ -386,7 +393,7 @@ local rhox_faction_list={
         human_only_enemy={
             key="wh_main_nor_skaeling",
             subtype="wh_main_nor_marauder_chieftain",
-            unit_list="wh3_main_kho_inf_chaos_warriors_0,wh_dlc08_nor_inf_marauder_hunters_0,wh3_main_kho_inf_chaos_warriors_0,wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh3_main_kho_inf_chaos_warhounds_0",
+            unit_list="wh3_main_kho_inf_chaos_warriors_0,hkrul_norsca_whalers,wh3_main_kho_inf_chaos_warriors_0,wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons,wh3_main_kho_inf_chaos_warhounds_0",
             x=406,
             y=757
         },
@@ -398,15 +405,6 @@ local rhox_faction_list={
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_oda", faction:faction_leader():command_queue_index(), true)
             cm:make_diplomacy_available(faction_key, "wh_main_emp_nordland")
             cm:force_make_trade_agreement(faction_key, "wh_main_emp_nordland")
-            local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    {"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    {"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-                    {"wh_pro04_nor_mon_fimir_ror_0", ""},--Fimir
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
             
             if faction:is_human() then
                 cm:disable_event_feed_events(true, "wh_event_category_diplomacy", "", "")
@@ -442,7 +440,7 @@ local rhox_faction_list={
     mixer_nor_geimdall_huscarls ={
         leader={
             subtype="hkrul_geimdall",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,hkrul_norsca_whalers,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
             x=390,
             y=695,
             forename ="names_name_7610711834",
@@ -471,22 +469,17 @@ local rhox_faction_list={
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_haraldur", faction:faction_leader():command_queue_index(), true)		    
             cm:make_diplomacy_available(faction_key, "wh_main_nor_bjornling")
             cm:force_make_trade_agreement(faction_key, "wh_main_nor_bjornling")
-            local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    {"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    {"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-                    {"wh_pro04_nor_mon_fimir_ror_0", ""},--Fimir
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
             if faction:is_human() then
                 --this is because they don't get allegiance
                 cm:set_saved_value("norscan_favour_lvl_3_reached_" .. faction_key, true) --this will also block hunting rewards
                 cm:complete_scripted_mission_objective(faction_key, "wh_main_short_victory", "attain_chaos_god_favour_lvl_2", true)
                 cm:complete_scripted_mission_objective(faction_key, "wh_main_long_victory", "attain_chaos_god_favour", true)
-
-            end
+			else
+	                            
+	            if cm:model():campaign_name_key() == "cr_combi_expanded" and vfs.exists("script/campaign/mod/mixu_mousillon_campaign.lua") then
+		            custom_starts:region_change("cr_combi_region_hendaye", "mixer_nor_geimdall_huscarls")
+	            end
+	        end
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -517,19 +510,11 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_tuula", faction:faction_leader():command_queue_index(), true)		
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_inf_chosen_mkho","renown",0,100,20,0,"","","",true,"wh3_dlc20_chs_inf_chosen_mkho")
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_mon_warshrine_mkho","renown",0,100,20,0,"","","",true,"wh3_dlc20_chs_mon_warshrine_mkho")
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_inf_chaos_warriors_1","renown",0,100,20,0,"","","",true,"wh3_main_kho_inf_chaos_warriors_1")             
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_mon_spawn_of_khorne_0","renown",0,100,20,0,"","","",true,"wh3_main_kho_mon_spawn_of_khorne_0")            
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_inf_chosen_mkho","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_dlc20_chs_inf_chosen_mkho")
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_mon_warshrine_mkho","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_dlc20_chs_mon_warshrine_mkho")
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_inf_chaos_warriors_1","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_main_kho_inf_chaos_warriors_1")             
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc27_kho_mon_spawn_of_khorne_0","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_dlc27_kho_mon_spawn_of_khorne_0")            
             cm:make_diplomacy_available(faction_key, "wh_main_nor_aesling")
-            local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    --{"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    {"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
         end,
         first_tick = function(faction, faction_key) 
         end        
@@ -589,14 +574,6 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    --{"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    {"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
         end,
         first_tick = function(faction, faction_key) 
         end        
@@ -627,6 +604,14 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_verdandi", faction:faction_leader():command_queue_index(), true)
+	         if not faction:is_human() and cm:model():campaign_name_key() == "cr_combi_expanded" then
+	            custom_starts:region_change("wh3_main_combi_region_monolith_of_borkill_the_bloody_handed", "wh_main_nor_graeling")
+	         end
+	         if vfs.exists("script/campaign/mod/ovn_lost_world.lua") then
+		         cm:callback(function()
+		            custom_starts:region_change("wh3_main_combi_region_graeling_moot", "wh_main_nor_graeling")
+		         end, 2)
+	         end
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -690,16 +675,8 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc26_kho_inf_wrathmongers_ror", "renown", 1, 20, 1, 0.1, "", "", "", true,"wh3_dlc26_kho_inf_wrathmongers_ror")
+		    cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc26_kho_inf_wrathmongers_ror", "wh3_main_regiments_of_renown_pool", 1, 20, 1, 0.1, "", "", "", true,"wh3_dlc26_kho_inf_wrathmongers_ror")
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_kolsveinn", faction:faction_leader():command_queue_index(), true)
-		    local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    --{"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    {"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    {"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
 		    if faction:is_human() then                
                 cm:transfer_region_to_faction("wh3_main_combi_region_altar_of_spawns","wh_dlc08_nor_wintertooth")
                 local transferred_region = cm:get_region("wh3_main_combi_region_altar_of_spawns")
@@ -739,7 +716,7 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    cm:add_unit_to_faction_mercenary_pool(faction, "wh_mod_nor_veh_mammoth_siege_tower_0", "renown", 1, 20, 1, 0.1, "", "", "", true, "wh_mod_nor_veh_mammoth_siege_tower_0")
+		    cm:add_unit_to_faction_mercenary_pool(faction, "wh_mod_nor_veh_mammoth_siege_tower_0", "wh3_main_regiments_of_renown_pool", 1, 20, 1, 0.1, "", "", "", true, "wh_mod_nor_veh_mammoth_siege_tower_0")
 		    cm:add_event_restricted_unit_record_for_faction("wh_mod_nor_veh_mammoth_siege_tower_0", faction_key, "wh_mod_nor_veh_mammoth_siege_tower_0_lock")
             if faction:is_human() then
                 local mm = mission_manager:new(faction_key, "rhox_varg_hrothgar_mission")
@@ -811,14 +788,6 @@ local rhox_faction_list={
                 rhox_transfer_region("cr_combi_region_nine_graves", "cr_nor_avags")
                 rhox_transfer_region("wh3_main_combi_region_foundry_of_bones", "wh3_main_cth_imperial_wardens")
             end
-            local rhox_ror_to_remove = {
-                ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
-                    {"wh_pro04_nor_inf_marauder_berserkers_ror_0", ""},--Khorne
-                    {"wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror", ""},--Nurgle
-                    {"wh3_dlc27_nor_cav_chaos_chariot_ror", ""},--Tzeentch
-                    --{"wh3_dlc27_nor_cav_marauder_horsemen_ror", ""},--Slaanesh
-            }
-            rhox_remove_ror(cm:get_faction(faction_key), rhox_ror_to_remove);
             local rhox_sarg_gift_units = {
                 ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool
                     {"wh3_main_sla_inf_daemonette_0", "daemonic_summoning", 1, 0, 4},
@@ -835,7 +804,7 @@ local rhox_faction_list={
             }
             rhox_add_warriors_units(cm:get_faction(faction_key), rhox_sarg_gift_units);
             rhox_add_faction_pool_units(cm:get_faction(faction_key), rhox_sarg_faction_units);
-            cm:add_unit_to_faction_mercenary_pool(faction, "wh3_twa10_sla_inf_marauders_spears_ror", "renown", 1, 20, 1, 0.1, "", "", "", true, "wh3_twa10_sla_inf_marauders_spears_ror")
+            cm:add_unit_to_faction_mercenary_pool(faction, "wh3_twa10_sla_inf_marauders_spears_ror", "wh3_main_regiments_of_renown_pool", 1, 20, 1, 0.1, "", "", "", true, "wh3_twa10_sla_inf_marauders_spears_ror")
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -899,9 +868,9 @@ local rhox_faction_list={
             y=789
         },
         additional = function(faction, faction_key)
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
             
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
@@ -1110,6 +1079,7 @@ cm:add_first_tick_callback_new(
                 end,
                 1
             )
+            rhox_remove_ror(faction, faction_key)
             faction_info.additional(faction, faction_key)
 		end
     end

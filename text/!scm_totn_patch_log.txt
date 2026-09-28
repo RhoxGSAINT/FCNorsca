@@ -1,9 +1,85 @@
-2025/DEC/13 SCM -2
-- Fixed the MIXER_SPECIAL_DEDICATED_NORSCA usage in my script because I haven't been used it as a hash table
+2026/SEPT/28 SCM
+- Changed "wh3_main_regiments_of_renown_pool" into "wh3_main_regiments_of_renown_pool" to make it count towards the renown cap in the army
+-- Which would also fix God aligned RoR unlocking
+- blocked neutral and non-Nurgle dedicated Norsca from getting the Gutrot
+-- If player is that faction, script in our code will give Gutrot to the other AI 
 
-2025/DEC/13 SCM
-- Removed some bits of scripts that Mixer has added. (champion LL spawning, allegance to the god) Don't forget to update the Mixer. You'll need resubscribe
-- Removed the captive option in the mod since Mixer supports it now
+
+2026/SEPT/26
+- Added new RoR nodes to all legendary and generic lords
+- Updated Anim Tables
+- Fixed culture_occupied_settlement_options_tables
+- Removed deleted vanilla DB entries (rotthing leviathan battle set piece unit was changed in vanilla)
+- Removed flayerkin from neutral tribes as recruitable units
+- Removed Kurgan from neutral tribes as recruitable units
+- Added two new units thanks to Dead Baron, the Bondsmen which replaces the bearmen for several factions
+
+2026/SEPT/09
+-Added new quest battle for Geimdall
+-Added 1 effect for Geimdall's final ancillary
+-Fixed a bug where skill nodes were overriding disrupting Harald to recieve his quest item
+-Buffed Harald's Frostrend Cleaver ancillary
+-Added a new quest battle for Harald Whyrlas
+-Buffed Harald Whyrlas his base melee attack by 3
+-Changed the effects for the Wyrmrunner ancillary
+
+
+2026/MAY/22 SCM
+- military force campaign group for the tiger lady
+- Table Schema update
+
+2026/MAR/29 SCM
+-Added missing unit set chs_warhound_manticore_chimera_rank_4 to hkrul_drenok_wolf
+2026/MAR/21 SCM
+- Added landmarks to Sayl and Throgg also
+
+2025 DEC/26 HKrul
+Fixed a skill node issue with Hafskael
+Slight increase to base damage from the Hooks of Hjolda RoR
+
+2025 DEC/22 HKrul
+
+removed beorg bearstruck from Oseberg Shieldclan, Eyristaad and Bjornling
+increased banner height offset for some chariot characters
+fixed a bug where baersonling still had old mission / effects 
+added a new generic agent type called the shieldmaiden - available for Bjornling and the Oseberg Shieldclan 
+Changed Gorehook ability icon
+Changed Prayer to Olric ability icon
+T5 creature building now increases the unit cap for Norse Ogre Units
+Changed ownership of the monolith of bjorkil to Graeling to fix compatibility issues with OVN Lost World
+
+
+
+
+2025 DEC/17 HKRUL
+
+- Added Shieldmaiden as a generic runesmith for neutral norse faction (WIP)
+- Added Dalla Ulfarsdottir as a replacement for Hildr the Reaver, who will subsequently replace Beorg Bearstruck as LH obtainable for neutral factions (WIP) 
+
+hkrul hafskael now has rage
+increased splash attack modifer for hafskael ability ''dock iron oath''
+slight stat buff for Oda Winterclaw
+slight stat buff for Hildr the Reaver
+increased duration of ''Maiden's Kiss ability'' for Hildr
+slight stat buff for Lokjar Bjoergir
+slight stat buff for Sargath the Vein
+slight stat buff for Drenok Johansen
+slight buff for Hakka the Aesling
+slight stat buff for the Ravenswyrd
+gave Lokjar Bjoergir a custom melee_weapon
+removed bonus vs large for Verdandi the Sea-Maiden's melee weapon
+added missing shield value to surtha ek on chariot
+added missing shield value to oda winterclaw on horse and manticore
+increased Soren the Hoarder's mass
+increased Jarl Haraldur's mass
+decreased Grydal's mass
+increased recruitment cost and upkeep for Hooks of Hjolda
+fixed income from ports on two landmarks effect not being applied correctly
+changed tech effect ''salt kissed sails'' for bjornling from campaign movement range all armies to campaign movement range whilst at sea
+gave goftur the campaign movement range at sea buff in his unique skill line
+Ymir's now have regenerate
+Ymir's have a slight upkeep increase
+Made a new ability icon for Yngve Aarseth's prophecy ability (again)
 
 
 2025/DEC/12 SCM

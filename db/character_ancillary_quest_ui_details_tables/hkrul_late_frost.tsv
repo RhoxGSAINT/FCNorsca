@@ -3,4 +3,4 @@ agent_subtype	ancillary	rank	instant	is_quest_battle
 hkrul_geimdall	hkrul_geimdall_sword	9	true	false
 hkrul_geimdall	hkrul_geimdall_horn	13	true	false
 hkrul_yngve	hkrul_yngve_banner	11	true	false
-hkrul_geimdall	hkrul_geimdall_ship	18	true	false
+hkrul_geimdall	hkrul_geimdall_ship	18	false	true

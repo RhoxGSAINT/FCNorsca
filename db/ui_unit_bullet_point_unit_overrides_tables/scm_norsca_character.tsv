@@ -151,3 +151,11 @@ armour_piercing	scm_norsca_asta_QB
 hybrid	scm_norsca_asta_QB
 shielded	hkrul_shieldmaiden
 support	hkrul_shieldmaiden
+melee_expert	hkrul_dalla_horse
+shielded	hkrul_dalla_horse
+shielded	hkrul_shieldmaiden_horse
+support	hkrul_shieldmaiden_horse
+melee_expert	hkrul_shieldmaiden_chariot
+anti_infantry	hkrul_shieldmaiden_chariot
+armour_piercing	hkrul_hafskael_horse
+melee_expert	hkrul_hafskael_horse

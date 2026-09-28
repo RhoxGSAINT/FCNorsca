@@ -145,7 +145,7 @@ cm:add_first_tick_callback_new(
             for i = 0, all_factions:num_items()-1 do
                 local faction = all_factions:item_at(i);
                 if faction:culture() == info.culture then
-                    cm:add_unit_to_faction_mercenary_pool(faction, unit_key, "renown", 1, 20, 1, 0.1, "", "", "", true, unit_key)
+                    cm:add_unit_to_faction_mercenary_pool(faction, unit_key, "wh3_main_regiments_of_renown_pool", 1, 20, 1, 0.1, "", "", "", true, unit_key)
                     if faction:name() ~= info.init_faction or info.special_condition_for_init then
                         cm:add_event_restricted_unit_record_for_faction(unit_key, faction:name(), unit_key.."_lock")
                     end

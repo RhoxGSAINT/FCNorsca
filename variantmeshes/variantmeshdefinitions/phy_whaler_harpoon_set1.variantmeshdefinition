@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="javelin" >
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\phy_whalers\props\harpoon\phy_whaler_harpoon_01.wsmodel" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\phy_whalers\props\harpoon\phy_whaler_harpoon_01.wsmodel" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\phy_whalers\props\harpoon\phy_whaler_harpoon_01.wsmodel" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+		<VARIANT_MESH model="variantmeshes\wh_variantmodels\hu1c\phy_whalers\props\harpoon\phy_whaler_harpoon_01.wsmodel" >
+			<META_DATA>equipment</META_DATA>			<META_DATA>audio_melee_weapon_type:spear</META_DATA></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -4,3 +4,7 @@ hkrul_adella_qb_1_army_player	FALSE	0	test_emblem_army_01	203871720	0	wh2_main_n
 hkrul_adella_qb_1_army_player_reinforcement		60	test_emblem_army_01	203871729	0	wh_main_nor_norsca_qb1	true	false	false	false	false	true	true	false	000000	000000	000000	false	000000	000000	000000		false
 hkrul_adella_qb_1_army_enemy		0	test_emblem_army_01	1976504333	0	wh2_main_lzd_lizardmen_qb1	false	false	false	false	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
 hkrul_adella_qb_1_army_enemy_reinforcement		90	test_emblem_army_01	975266983	0	wh2_main_lzd_lizardmen_qb2	false	true	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
+hkrul_adella_qb_0001_player	FALSE	0	test_emblem_army_01	203871726	0	wh_main_nor_graeling	true	false	true	false	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
+hkrul_adella_qb_0001_initial_skeggi_host		0	test_emblem_army_01	3509	0	wh2_main_nor_skeggi	false	false	false	true	false	false	false	false	000000	000000	000000	false	000000	000000	000000		false
+hkrul_adella_qb_0003_second_skeggi_host		180	test_emblem_army_01	3509	0	wh_main_nor_norsca_qb1	false	true	false	true	true	false	false	true	CCA500	254975	CCA500	true	CCA500	254975	CCA500	ui\flags\wh2_main_nor_skeggi	false
+hkrul_adella_qb_0005_adella_host		260	test_emblem_army_01	203871720	0	wh_main_nor_norsca_qb2	false	true	false	true	true	false	false	true	CCA500	254975	CCA500	true	CCA500	254975	CCA500	ui\flags\wh2_main_nor_skeggi	false

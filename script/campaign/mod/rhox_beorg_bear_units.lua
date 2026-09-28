@@ -48,9 +48,9 @@ core:add_listener(
         
         if not rhox_beorg_faction_list[context:confederation()] then
             rhox_beorg_faction_list[context:confederation()]= true
-            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"hkrul_beorg_brown_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
-            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"hkrul_beorg_brown_feral_marked","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
-            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"hkrul_beorg_ice_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
+            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
+            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
         end
     end,
     true
@@ -67,9 +67,9 @@ core:add_listener(
     function(context) 
         local character=context:character()--he might have passed to other faction via two confederations
         rhox_beorg_faction_list[character:faction():name()] = true
-        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"hkrul_beorg_brown_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
-        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"hkrul_beorg_brown_feral_marked","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
-        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"hkrul_beorg_ice_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
+        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
+        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
     end,
     true
 )
@@ -120,7 +120,7 @@ cm:add_first_tick_callback_new(
             local faction = all_factions:item_at(i);
             if faction:culture() == "wh_dlc08_nor_norsca" then
                 for unit_key, _ in pairs(rhox_beorg_ror_list) do
-                    cm:add_unit_to_faction_mercenary_pool(faction, unit_key, "renown", 1, 20, 1, 0.1, "", "", "", true, unit_key)
+                    cm:add_unit_to_faction_mercenary_pool(faction, unit_key, "wh3_main_regiments_of_renown_pool", 1, 20, 1, 0.1, "", "", "", true, unit_key)
                     if faction:name() ~= "mixer_nor_beorg" then
                         cm:add_event_restricted_unit_record_for_faction(unit_key, faction:name(), unit_key.."_lock")
                     end

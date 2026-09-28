@@ -26,3 +26,9 @@ rhox_adella_corruption_higher_units_khorne_dummy	effect_bundle_skeggi2.png	1	eff
 rhox_adella_corruption_higher_units_nurgle_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
 rhox_adella_corruption_higher_units_slaanesh_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
 rhox_adella_corruption_higher_units_tzeentch_dummy	effect_bundle_skeggi2.png	1	effect_bundle_skeggi2.png	campaign	true
+hkrul_dalla_rally	general_ability.png	705	general_ability.png	battle	true
+hkrul_dalla_tankard	general_ability.png	705	general_ability.png	battle	true
+hkrul_dalla_sword	general_ability.png	705	general_ability.png	battle	true
+hkrul_dalla_shield	general_ability.png	705	general_ability.png	battle	true
+hkrul_shieldmaidens_hero_charge	charge.png	120	charge.png	battle	true
+hkrul_norse_ogre_cap	unit_capacity.png	1	unit_capacity.png	campaign	true

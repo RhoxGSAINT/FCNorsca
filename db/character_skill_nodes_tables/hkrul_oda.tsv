@@ -33,3 +33,4 @@ hkrul_oda_manticore		hkrul_oda_manticore		0	1		0	0	true
 hkrul_oda_ship		hkrul_norsca_ship_6		6	24		0	0	true
 hkrul_oda_shield		hkrul_oda_shield		6	25		0	0	true
 hkrul_oda_spear		hkrul_oda_spear		6	27		0	0	true
+skill_node_innate_hkrul_dalla_1		innate_hkrul_dalla_1		6	0		1	0	false

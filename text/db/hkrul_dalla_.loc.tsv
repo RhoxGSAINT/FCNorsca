@@ -1,0 +1,54 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_dalla_.loc		
+character_skills_localised_name_innate_hkrul_dalla_1	Daughter of Ulfar	true
+character_skills_localised_description_innate_hkrul_dalla_1	“She fights like a wolf and plans like a godar.”	true
+character_skills_localised_name_hkrul_dalla_special_1_0	Scars and Steel	true
+character_skills_localised_name_hkrul_dalla_special_1_1	Shield-Breaker's Pride	true
+character_skills_localised_name_hkrul_dalla_special_1_2	Ritual of Iron and Roar	true
+character_skills_localised_name_hkrul_dalla_special_1_3	Fangs of the She-Wolf	true
+character_skills_localised_name_hkrul_dalla_special_1_4	Tideborn Raider	true
+character_skills_localised_name_hkrul_dalla_special_1_5	Witchfire Memories	true
+character_skills_localised_name_hkrul_dalla_special_1_6	Chieftain-Slayer	true
+character_skills_localised_description_hkrul_dalla_special_1_0	Every wound is a lesson. Every scar a map to victory.	true
+character_skills_localised_description_hkrul_dalla_special_1_1	Before battle, she chants the old names, her voice shaking warriors to their core.	true
+character_skills_localised_description_hkrul_dalla_special_1_2	She learned to fight on frostbitten hills and in torchlit snow.	true
+character_skills_localised_description_hkrul_dalla_special_1_3	Rage fuels her arms, but never clouds her judgement.	true
+character_skills_localised_description_hkrul_dalla_special_1_4	She knows how to strike from the sea with brutal efficiency.	true
+character_skills_localised_description_hkrul_dalla_special_1_5	Raised among whispers and omens, she sees the cracks in fate.	true
+character_skills_localised_description_hkrul_dalla_special_1_6	Men twice her size have fallen. That tale never grows old.	true
+agent_subtypes_description_text_override_hkrul_dalla	She turns axes with her shield and breaks men with her blade.	false
+agent_subtypes_onscreen_name_override_hkrul_dalla	Legendary Shieldmaiden	false
+unit_description_short_texts_text_hkrul_dalla	A fierce shieldmaiden and warrior-leader, famed for her cunning, rage, and iron devotion to her tribe.	false
+unit_description_historical_texts_text_hkrul_dalla	Dalla Ulfarsdottir is a shieldmaiden of rare renown, born amidst snow and saga. Towering and scarred, she walks with the confidence of one who has never known defeat without vengeance. Daughter of Ulfar, a seer feared even among his own, Dalla learned the blade before she learned to braid her hair. She is remembered for filing her teeth to shark-points in her youth, a symbol of defiance and hunger for battle. Though she fights with the fury of a berserker, she remains cold-eyed and calculating, choosing her kills as a wolf might choose the weakest deer. Chieftains have fallen before her shield, and their names are etched into her memory as warnings. To follow Dalla is to follow fire across a frozen sea, and to face her is to know the bite of the North.	false
+character_skills_localised_name_hkrul_dalla_special_0_1	Feast of the Unliving	true
+character_skills_localised_description_hkrul_dalla_special_0_1	She never yields, not even when outnumbered or outmatched.	true
+effects_description_hkrul_dalla_tankard	Passive Ability: "Whisperskein"	false
+effects_description_hkrul_dalla_shield	Ability: "Wall-Heart"	false
+effects_description_hkrul_dalla_rally	Ability: "Cry of the Fjordborn"	false
+effects_description_hkrul_dalla_sword	Ability: "Draughjart"	false
+unit_abilities_onscreen_name_hkrul_dalla_sword	Draughjart	true
+unit_abilities_tooltip_text_hkrul_dalla_sword	“The dead have no pulse, yet this blade still finds their hearts.”	true
+unit_abilities_tooltip_text_hkrul_dalla_rally	“Let our names be sung! Stand, and make them remember!”	true
+unit_abilities_onscreen_name_hkrul_dalla_rally	Cry of the Fjordborn	true
+unit_abilities_onscreen_name_hkrul_dalla_tankard	Whisperskein	true
+unit_abilities_tooltip_text_hkrul_dalla_tankard	“It is not your voice I miss, father. It’s the silence when you do not answer.”	true
+unit_abilities_onscreen_name_hkrul_dalla_shield	Wall-Heart	true
+unit_abilities_tooltip_text_hkrul_dalla_shield	“Hold fast. If the wall breaks, we all die.”	true
+ancillaries_onscreen_name_hkrul_dalla_sword	Draughjart	false
+ancillaries_colour_text_hkrul_dalla_sword	Forged beneath a storm-black sky and quenched in the blood of a fallen draugr, Draughjart — "Ghost-Heart" — is a blade both feared and whispered of in the North. Its edge is cold to the touch, even in the fiercest flame, and its surface bears faint etchings that shift like mist when drawn. Some say the blade thirsts for the unliving; others claim it was made to slay a wight-king who once haunted Ulfar's hall. Whatever the truth, it has become Dalla’s chosen weapon against the unnatural.	false
+ancillaries_explanation_text_hkrul_dalla_sword		false
+ancillaries_onscreen_name_hkrul_dalla_shield	Wall-Heart	false
+ancillaries_colour_text_hkrul_dalla_shield	Wall-Heart is more than a shield, iit is a vow. Originally shaped from the broken hafts of three spears that failed to pierce it, the shield was reforged with the iron taken from the mouths of the dead. Dalla carries it not as a trophy, but as a bulwark of memory and duty. When she plants it into the ground, her warriors rally, and her enemies falter. The shield grows colder in the presence of fear, and heavier in the hand of any who would retreat. No force has broken it, though many have tried.	false
+ancillaries_explanation_text_hkrul_dalla_shield		false
+ancillaries_onscreen_name_hkrul_dalla_tankard	Whisperskein	false
+ancillaries_colour_text_hkrul_dalla_tankard	A thread-thin chain of tarnished silver and storm-gold, Whisperskein was gifted by Ulfar to his daughter in silence. It hums when sorcery stirs and tightens against the throat when danger draws near. At times, Dalla swears she hears her father’s voice murmuring warnings only she can hear — soft as breath, sharp as prophecy. Whether the words are his or the echo of something darker, she does not care. She listens. And she survives.	false
+ancillaries_explanation_text_hkrul_dalla_tankard		false
+names_name_161077185	Dalla	false
+names_name_161077184	Ulfarsdottir	false
+land_units_onscreen_name_hkrul_dalla	Dalla Ulfarsdottir	false
+land_units_onscreen_name_hkrul_dalla_horse	Dalla Ulfarsdottir	false
+land_units_onscreen_name_hkrul_dalla_chariot	Dalla Ulfarsdottir	false
+land_units_onscreen_name_hkrul_shieldmaiden_horse	Shieldmaiden	false
+land_units_onscreen_name_hkrul_shieldmaiden_chariot	Shieldmaiden	false
+land_units_onscreen_name_hhkrul_shieldmaiden_1	Shieldmaiden	false
+land_units_onscreen_name_hkrul_shieldmaiden_2	Shieldmaiden	false

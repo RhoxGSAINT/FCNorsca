@@ -42,3 +42,10 @@ hkrul_skraevold_fury	stat_resistance_all	15.0000	add
 hkrul_godi_club	stat_bonus_vs_infantry	25.0000	add
 hkrul_skoroth_pas	stat_resistance_physical	1.3500	mult
 hkrul_skoroth_pas	stat_resistance_missile	1.3500	mult
+hkrul_shieldmaiden_shield	stat_armour	15.0000	add
+hkrul_shieldmaiden_shield	stat_melee_defence	20.0000	add
+hkrul_shieldmaiden_support	stat_melee_defence	-40.0000	add
+hkrul_shieldmaiden_support_area	stat_resistance_physical	15.0000	add
+hkrul_dalla_support	stat_melee_defence	-40.0000	add
+hkrul_dalla_support_area	stat_melee_defence	10.0000	add
+hkrul_dalla_support_area	stat_mass	1.4000	mult

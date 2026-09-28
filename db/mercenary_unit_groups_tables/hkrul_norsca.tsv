@@ -1,48 +1,48 @@
-key	chance_to_replenish	max_count	unit_record	use_partial_replenishment	max_replenish_per_turn
-#mercenary_unit_groups_tables;2;db/mercenary_unit_groups_tables/hkrul_norsca					
-hkrul_skeggi_giant_ror	100.0000	1	hkrul_skeggi_giant_ror	true	0.1000
-hkrul_sarl_hunters_ror	100.0000	1	hkrul_sarl_hunters_ror	true	0.1000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho	0.0000	20	wh3_dlc20_chs_inf_chosen_mkho	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho_dualweapons	0.0000	20	wh3_dlc20_chs_inf_chosen_mkho_dualweapons	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze	0.0000	20	wh3_dlc20_chs_inf_chosen_mtze	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze_halberds	0.0000	20	wh3_dlc20_chs_inf_chosen_mtze_halberds	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur	0.0000	20	wh3_dlc20_chs_inf_chosen_mnur	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	0.0000	20	wh3_dlc20_chs_inf_chosen_mnur_greatweapons	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	0.0000	20	wh3_dlc20_chs_inf_chosen_msla	false	0.0000
-rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	0.0000	20	wh3_dlc20_chs_inf_chosen_msla_hellscourges	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mkho	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mkho_lances	false	0.0000
-rhox_akkorak_wh3_main_tze_cav_chaos_knights_0	0.0000	20	wh3_main_tze_cav_chaos_knights_0	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mtze_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mtze_lances	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mnur	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mnur_lances	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_msla	false	0.0000
-rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_msla_lances	false	0.0000
-rhox_akkorak_wh_main_chs_cav_chaos_knights_0	0.0000	20	wh_main_chs_cav_chaos_knights_0	false	0.0000
-rhox_akkorak_wh_main_chs_cav_chaos_knights_1	0.0000	20	wh_main_chs_cav_chaos_knights_1	false	0.0000
-rhox_graeling_werekin_of_fijgard	100.0000	1	rhox_graeling_werekin_of_fijgard	true	0.1000
-wolftribe_nor_inf_wolf_champions_ror_0	100.0000	1	wolftribe_nor_inf_wolf_champions_ror_0	true	0.1000
-rhox_bjornling_huscarl	100.0000	1	rhox_bjornling_huscarl	true	0.1000
-dead_drenok_ice_golem	0.0000	0	dead_drenok_ice_golem	true	0.0000
-dead_drenok_ice_bears	0.0000	0	dead_drenok_ice_bears	true	0.0000
-dead_drenok_greater_ice_golem	0.0000	0	dead_drenok_greater_ice_golem	true	0.0000
-rhox_bjornling_huscarl_ror	100.0000	1	rhox_bjornling_huscarl_ror	true	0.1000
-rhox_varg_wh3_dlc27_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_dlc27_kho_mon_spawn_of_khorne_0	false	0.0000
-rhox_varg_wh3_dlc27_nur_mon_spawn_of_nurgle_0	0.0000	0	wh3_dlc27_nur_mon_spawn_of_nurgle_0	false	0.0000
-rhox_varg_wh3_dlc27_sla_mon_spawn_of_slaanesh_0	0.0000	0	wh3_dlc27_sla_mon_spawn_of_slaanesh_0	false	0.0000
-rhox_varg_wh3_dlc27_tze_mon_spawn_of_tzeentch_0	0.0000	0	wh3_dlc27_tze_mon_spawn_of_tzeentch_0	false	0.0000
-rhox_varg_wh3_dlc27_chs_mon_chaos_spawn	0.0000	0	wh3_dlc27_chs_mon_chaos_spawn	false	0.0000
-rhox_skeggi_dodvakt	100.0000	1	rhox_skeggi_dodvakt	true	0.1000
-wh_mod_nor_veh_mammoth_siege_tower_0	100.0000	1	wh_mod_nor_veh_mammoth_siege_tower_0	true	0.1000
-hkrul_norsca_ymir_ror	100.0000	1	hkrul_norsca_ymir_ror	true	0.1000
-nor_longship_ror	100.0000	1	nor_longship_ror	true	0.1000
-hkrul_boartusk_mammoth_ror	100.0000	1	hkrul_boartusk_mammoth_ror	true	0.1000
-hkrul_skraevold	100.0000	1	hkrul_skraevold	true	0.1000
-hkrul_godi	100.0000	1	hkrul_godi	true	0.1000
-hkrul_shark_2	100.0000	1	hkrul_shark_2	true	0.1000
-hkrul_shark_3	100.0000	1	hkrul_shark_3	true	0.1000
-wh3_dlc27_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_dlc27_kho_mon_spawn_of_khorne_0	true	0.0000
-wh3_dlc20_chs_inf_chosen_mkho	0.0000	0	wh3_dlc20_chs_inf_chosen_mkho	true	0.0000
-wh3_dlc20_chs_mon_warshrine_mkho	0.0000	0	wh3_dlc20_chs_mon_warshrine_mkho	true	0.0000
-wh3_main_kho_inf_chaos_warriors_1	0.0000	0	wh3_main_kho_inf_chaos_warriors_1	true	0.0000
-hkrul_norsca_harpoon_ror	0.0000	0	hkrul_norsca_harpoon_ror	true	0.0000
+key	chance_to_replenish	max_count	unit_record	use_partial_replenishment	max_replenish_per_turn	ui_order
+#mercenary_unit_groups_tables;3;db/mercenary_unit_groups_tables/hkrul_norsca						
+hkrul_skeggi_giant_ror	100.0000	1	hkrul_skeggi_giant_ror	true	0.1000	0
+hkrul_sarl_hunters_ror	100.0000	1	hkrul_sarl_hunters_ror	true	0.1000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho	0.0000	20	wh3_dlc20_chs_inf_chosen_mkho	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho_dualweapons	0.0000	20	wh3_dlc20_chs_inf_chosen_mkho_dualweapons	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze	0.0000	20	wh3_dlc20_chs_inf_chosen_mtze	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze_halberds	0.0000	20	wh3_dlc20_chs_inf_chosen_mtze_halberds	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur	0.0000	20	wh3_dlc20_chs_inf_chosen_mnur	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_mnur_greatweapons	0.0000	20	wh3_dlc20_chs_inf_chosen_mnur_greatweapons	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_msla	0.0000	20	wh3_dlc20_chs_inf_chosen_msla	false	0.0000	0
+rhox_sayl_wh3_dlc20_chs_inf_chosen_msla_hellscourges	0.0000	20	wh3_dlc20_chs_inf_chosen_msla_hellscourges	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mkho	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mkho_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mkho_lances	false	0.0000	0
+rhox_akkorak_wh3_main_tze_cav_chaos_knights_0	0.0000	20	wh3_main_tze_cav_chaos_knights_0	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mtze_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mtze_lances	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mnur	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_mnur_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_mnur_lances	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_msla	false	0.0000	0
+rhox_akkorak_wh3_dlc20_chs_cav_chaos_knights_msla_lances	0.0000	20	wh3_dlc20_chs_cav_chaos_knights_msla_lances	false	0.0000	0
+rhox_akkorak_wh_main_chs_cav_chaos_knights_0	0.0000	20	wh_main_chs_cav_chaos_knights_0	false	0.0000	0
+rhox_akkorak_wh_main_chs_cav_chaos_knights_1	0.0000	20	wh_main_chs_cav_chaos_knights_1	false	0.0000	0
+rhox_graeling_werekin_of_fijgard	100.0000	1	rhox_graeling_werekin_of_fijgard	true	0.1000	0
+wolftribe_nor_inf_wolf_champions_ror_0	100.0000	1	wolftribe_nor_inf_wolf_champions_ror_0	true	0.1000	0
+rhox_bjornling_huscarl	100.0000	1	rhox_bjornling_huscarl	true	0.1000	0
+dead_drenok_ice_golem	0.0000	0	dead_drenok_ice_golem	true	0.0000	0
+dead_drenok_ice_bears	0.0000	0	dead_drenok_ice_bears	true	0.0000	0
+dead_drenok_greater_ice_golem	0.0000	0	dead_drenok_greater_ice_golem	true	0.0000	0
+rhox_bjornling_huscarl_ror	100.0000	1	rhox_bjornling_huscarl_ror	true	0.1000	0
+rhox_varg_wh3_dlc27_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_dlc27_kho_mon_spawn_of_khorne_0	false	0.0000	0
+rhox_varg_wh3_dlc27_nur_mon_spawn_of_nurgle_0	0.0000	0	wh3_dlc27_nur_mon_spawn_of_nurgle_0	false	0.0000	0
+rhox_varg_wh3_dlc27_sla_mon_spawn_of_slaanesh_0	0.0000	0	wh3_dlc27_sla_mon_spawn_of_slaanesh_0	false	0.0000	0
+rhox_varg_wh3_dlc27_tze_mon_spawn_of_tzeentch_0	0.0000	0	wh3_dlc27_tze_mon_spawn_of_tzeentch_0	false	0.0000	0
+rhox_varg_wh3_dlc27_chs_mon_chaos_spawn	0.0000	0	wh3_dlc27_chs_mon_chaos_spawn	false	0.0000	0
+rhox_skeggi_dodvakt	100.0000	1	rhox_skeggi_dodvakt	true	0.1000	0
+wh_mod_nor_veh_mammoth_siege_tower_0	100.0000	1	wh_mod_nor_veh_mammoth_siege_tower_0	true	0.1000	0
+hkrul_norsca_ymir_ror	100.0000	1	hkrul_norsca_ymir_ror	true	0.1000	0
+nor_longship_ror	100.0000	1	nor_longship_ror	true	0.1000	0
+hkrul_boartusk_mammoth_ror	100.0000	1	hkrul_boartusk_mammoth_ror	true	0.1000	0
+hkrul_skraevold	100.0000	1	hkrul_skraevold	true	0.1000	0
+hkrul_godi	100.0000	1	hkrul_godi	true	0.1000	0
+hkrul_shark_2	100.0000	1	hkrul_shark_2	true	0.1000	0
+hkrul_shark_3	100.0000	1	hkrul_shark_3	true	0.1000	0
+wh3_dlc27_kho_mon_spawn_of_khorne_0	0.0000	0	wh3_dlc27_kho_mon_spawn_of_khorne_0	true	0.0000	0
+wh3_dlc20_chs_inf_chosen_mkho	0.0000	0	wh3_dlc20_chs_inf_chosen_mkho	true	0.0000	0
+wh3_dlc20_chs_mon_warshrine_mkho	0.0000	0	wh3_dlc20_chs_mon_warshrine_mkho	true	0.0000	0
+wh3_main_kho_inf_chaos_warriors_1	0.0000	0	wh3_main_kho_inf_chaos_warriors_1	true	0.0000	0
+hkrul_norsca_harpoon_ror	0.0000	0	hkrul_norsca_harpoon_ror	true	0.0000	0

@@ -13,3 +13,6 @@ causes_fear	hkrul_haraldur_rally_enemy	negative
 causes_fear	hkrul_haraldur_rally	positive
 immune_to_psychology	hkrul_haraldur_rally_enemy	negative
 unyielding_assault	hkrul_tuula_mark	positive
+unbreakable	hkrul_dalla_rally	positive
+cannot_die	hkrul_dalla_shield	positive
+unbreakable	hkrul_dalla_shield	positive

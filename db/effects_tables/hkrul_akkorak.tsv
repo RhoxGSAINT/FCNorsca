@@ -14,3 +14,4 @@ hkrul_akkorak_skinwolves_mis_res	resistance_missile.png	300	resistance_missile.p
 rhox_akkorak_elite_upkeep	military_spending.png	99	military_spending.png	campaign	false
 rhox_akkorak_elite_speed	battle_movement.png	421	battle_movement.png	battle	true
 rhox_akkorak_elite_weapon_strength	weapon_damage.png	461	weapon_damage.png	battle	true
+hkrul_norsca_shieldmaiden_deco_melee_attack	melee.png	298	melee.png	battle	true

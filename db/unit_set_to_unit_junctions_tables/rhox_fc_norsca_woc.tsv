@@ -137,3 +137,4 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			wh3_dlc26_kho_inf_wrathmongers_ror	wh2_dlc11_nor_marauders_spearmen_berserkers_champions	false
 			wh3_dlc26_kho_inf_wrathmongers_ror	wh2_dlc11_nor_vets_marauders_spearmen_berserkers_champions_ror	false
 			wh3_dlc26_kho_inf_wrathmongers_ror	nor_all	false
+			hkrul_drenok_wolf	chs_warhound_manticore_chimera_rank_4	false

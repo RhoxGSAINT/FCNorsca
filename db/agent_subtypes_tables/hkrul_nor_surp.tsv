@@ -10,3 +10,4 @@ hkrul_usta	false	true	ui/campaign ui/agents/wh_main_wizard.png	hkrul_usta	wh3_dl
 hkrul_kammler	false	true	ui/campaign ui/agents/wh3_main_lore_tzeentch.png	hkrul_kammler	wh3_dlc20_vo_actor_Tzeentch_Sorcerer_of_Tzeentch	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100			false
 hkrul_eyri	false	false		hkrul_eyri	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	false	legendary_lords			false	true	cannot_be_loaded_in_campaign		false	true	1100			false
 hkrul_hafskael	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_hafskael	wh_dlc08_vo_actor_Norsca_Marauder_Chieftan	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100			false
+hkrul_dalla	false	false	ui/campaign ui/agents/wh_main_chs_champion.png	hkrul_dalla	wh2_main_vo_actor_Dark_Elves_Death_Hag	true	-1	false	true	false	true				false	true	cannot_be_loaded_in_campaign		false	true	1100			false

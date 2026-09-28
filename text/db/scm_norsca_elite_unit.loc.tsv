@@ -1,6 +1,7 @@
 key	text	tooltip
 #Loc;1;text/db/scm_norsca_elite_unit.loc		
 land_units_onscreen_name_rhox_graeling_champion	Graeling Marauder Champions	false
+land_units_onscreen_name_rhox_graeling_champion_1	Graeling Marauder Champions (Great Weapons)	false
 land_units_onscreen_name_rhox_baersonling_champion	Baersonling Marauder Champion (Great Weapons)	false
 land_units_onscreen_name_rhox_kurgan_champion	Kurgan Marauder Champions	false
 land_units_onscreen_name_rhox_kurgan_spearman	Kurgan Marauder Spearmen	false

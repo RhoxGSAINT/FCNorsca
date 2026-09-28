@@ -28,3 +28,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_goftur_children	true	false	false	hkrul_goftur_children
 0	hkrul_goftur_avatar	true	false	false	hkrul_goftur_avatar
 1	hkrul_festerheart	true	false	false	hkrul_festerheart
+1	hkrul_dalla_shield	true	false	false	hkrul_dalla_shield
+1	hkrul_dalla_tankard	false	false	true	hkrul_dalla_tankard
+1	hkrul_shieldmaiden_pas	true	true	false	hkrul_shieldmaiden_pas
+1	hkrul_shieldmaiden_shield	true	false	false	hkrul_shieldmaiden_shield

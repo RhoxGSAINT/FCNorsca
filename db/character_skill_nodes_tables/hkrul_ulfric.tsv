@@ -58,3 +58,5 @@ skill_node_hkrul_ulfric_self_3_2		wh_dlc03_skill_bst_lord_unnatural_thirst		2	7	
 skill_node_hkrul_ulfric_self_3_3		wh_main_skill_all_all_self_indomitable		2	8		0	0	true
 skill_node_hkrul_ulfric_self_3_4		wh_dlc08_skill_nor_lords_self_quicksilver		2	9		0	0	true
 skill_node_hkrul_ulfric_self_4		wh_main_skill_all_all_self_deadly_onslaught		2	10		0	4	true
+hkrul_hafskael_horse		hkrul_hafskael_horse		0	0		0	0	true
+hkrul_hafskael_chariot		hkrul_hafskael_chariot		0	1		0	0	true

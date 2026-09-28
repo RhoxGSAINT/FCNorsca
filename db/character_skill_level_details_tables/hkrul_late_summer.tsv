@@ -25,3 +25,13 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	hkrul_haraldur_shield		x	13
 		1	hkrul_haraldur_tankard		x	17
 		1	hkrul_hakka_banner		x	15
+		1	hkrul_dalla_special_1_0		x	9
+		1	hkrul_dalla_special_0_1		x	6
+		1	hkrul_dalla_sword		x	8
+		1	hkrul_dalla_shield		x	13
+		1	hkrul_dalla_tankard		x	17
+		1	hkrul_shieldmaiden_skill_node_unique_01		x	5
+		1	hkrul_shieldmaiden_skill_node_unique_02		x	9
+		1	hkrul_shieldmaiden_skill_node_unique_03		x	12
+		1	hkrul_shieldmaiden_skill_node_unique_04		x	15
+		1	hkrul_hkrul_shieldmaiden_node_unique_saga		x	19

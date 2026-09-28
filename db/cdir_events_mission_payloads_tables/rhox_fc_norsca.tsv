@@ -29,3 +29,5 @@ id	mission_key	payload_key	status_key	value	target_key
 814659557	rhox_baersonling_chain_7	TREASURY	SUCCESS	AMOUNT[1000]	default
 814659558	rhox_baersonling_chain_8	TEXT_DISPLAY	SUCCESS	LOOKUP[rhox_baersonling_your_journey_continues]	default
 814659559	rhox_baersonling_chain_8	TREASURY	SUCCESS	AMOUNT[1000]	default
+814659560	hkrul_norsca_hildr_1	TEXT_DISPLAY	SUCCESS	LOOKUP[hkrul_norsca_hildr_1]	default
+814659561	hkrul_norsca_hildr_1	TREASURY	SUCCESS	AMOUNT[1000]	default

@@ -42,3 +42,7 @@ hkrul_kurgan_horsemasters_armour	armour.png	154	armour.png	battle	true
 hkrul_norscan_ogres_melee_attack	melee.png	155	melee.png	battle	true
 hkrul_norsca_ror_tze_melee_defence	defence.png	300	defence.png	battle	true
 hkrul_norsca_shield_maiden_recruit	exalted_hero.png	104	exalted_hero.png	campaign	true
+hkrul_ymir_speed	battle_movement.png	301	battle_movement.png	battle	true
+hkrul_norsca_shieldmaiden_deco_armour	armour.png	154	armour.png	battle	true
+hkrul_dalla_support	item_ability.png	300	item_ability.png	battle	true
+hkrul_shieldmaiden_support	item_ability.png	300	item_ability.png	battle	true

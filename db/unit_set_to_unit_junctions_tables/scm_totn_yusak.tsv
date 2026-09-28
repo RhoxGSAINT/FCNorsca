@@ -47,6 +47,7 @@ unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
 			rhox_bjornling_huscarl	sla_marauders_marauder_cavalry	false
 			rhox_bjornling_huscarl_ror	sla_marauders_marauder_cavalry	false
 			hkrul_bearmen	sla_marauders_marauder_cavalry	false
+			rhox_graeling_champion_1	sla_marauders_marauder_cavalry	false
 			rhox_graeling_champion	sla_marauders_marauder_cavalry	false
 			rhox_kurgan_champion	sla_marauders_marauder_cavalry	false
 			rhox_baersonling_champion	sla_marauders_marauder_cavalry	false

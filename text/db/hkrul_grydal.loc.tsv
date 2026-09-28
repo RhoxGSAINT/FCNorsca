@@ -113,3 +113,5 @@ land_units_onscreen_name_hkrul_norsca_harpoon_ror	Hooks of Hjolda (Bolt Throwers
 effects_description_hkrul_eyrdal_thorn	Passive ability: "Eyrdral’s Thorn"	false
 unit_abilities_tooltip_text_hkrul_eyrdal_thorn	Once wielded by the famous huntress of the northern iceflows — still coated in leviathan bile.	false
 unit_abilities_onscreen_name_hkrul_eyrdal_thorn	Eyrdral’s Thorn	false
+effects_description_hkrul_shieldmaidens_melee_attack	Melee attack: %+n for Shieldmaidens	false
+effects_description_hkrul_shieldmaidens_armour	Armour: %+n for Shieldmaidens	false

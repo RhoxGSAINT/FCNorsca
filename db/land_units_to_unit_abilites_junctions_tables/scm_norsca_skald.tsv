@@ -1,12 +1,12 @@
-ability	land_unit
-#land_units_to_unit_abilites_junctions_tables;0;db/land_units_to_unit_abilites_junctions_tables/scm_norsca_skald	
-rhox_skald_battle_chant	hkrul_skald_horn
-rhox_skald_fury_call	hkrul_skald_horn
-rhox_skald_battle_chant	hkrul_skald_drum
-rhox_skald_guardian_cadence	hkrul_skald_drum
-hkrul_skald_horn_passive	hkrul_skald_horn
-hkrul_skald_drum_passive	hkrul_skald_drum
-hkrul_skald_saga	hkrul_skald_horn
-hkrul_skald_saga	hkrul_skald_drum
-hkrul_skald_rally	hkrul_skald_horn
-hkrul_skald_rally	hkrul_skald_drum
+ability	land_unit	culture
+#land_units_to_unit_abilites_junctions_tables;1;db/land_units_to_unit_abilites_junctions_tables/scm_norsca_skald		
+rhox_skald_battle_chant	hkrul_skald_horn	*
+rhox_skald_fury_call	hkrul_skald_horn	*
+rhox_skald_battle_chant	hkrul_skald_drum	*
+rhox_skald_guardian_cadence	hkrul_skald_drum	*
+hkrul_skald_horn_passive	hkrul_skald_horn	*
+hkrul_skald_drum_passive	hkrul_skald_drum	*
+hkrul_skald_saga	hkrul_skald_horn	*
+hkrul_skald_saga	hkrul_skald_drum	*
+hkrul_skald_rally	hkrul_skald_horn	*
+hkrul_skald_rally	hkrul_skald_drum	*

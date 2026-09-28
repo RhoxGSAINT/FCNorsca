@@ -22,6 +22,14 @@ local agent_subtype_to_level_and_mission={
         level= 7,
         mission= "hkrul_skeggi_adella_sword_final"
      },
+    hkrul_geimdall={
+        level= 18,
+        mission= "hkrul_geimdall_lost_island"
+     },
+         hkrul_harald={
+        level= 13,
+        mission= "hkrul_adella_qb_0001_broken_leg_gully_test"
+     },
     hkrul_birna={
         level= 14,
         mission= "hkrul_sarl_birna_bogtusk_final_battle"       

@@ -59,3 +59,9 @@ id	mission_key	option_key	value	target
 615371819	hkrul_sarl_birna_bogtusk_mission_3	GEN_TARGET_REGION		default
 615371820	hkrul_sarl_birna_bogtusk_mission_3	VAR_CHANCE	100	default
 615371821	hkrul_sarl_birna_bogtusk_mission_3	GEN_CND_REGION	wh3_main_combi_region_fort_jakova	default
+615371827	hkrul_norsca_hildr_1	GEN_TARGET_NONE		default
+615371822	hkrul_norsca_hildr_1	VAR_OBJECTIVE_AMOUNT_INT	3750	default
+615371823	hkrul_norsca_hildr_1	VAR_FOLLOWUP_CHANCE	100	default
+615371824	hkrul_norsca_hildr_1	VAR_MISSION_LENGTH_INFINITE		default
+615371825	hkrul_norsca_hildr_1	VAR_CHANCE	100	default
+615371826	hkrul_norsca_hildr_1	CND_UNIQUE		default

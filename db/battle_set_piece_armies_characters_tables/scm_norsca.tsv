@@ -4,7 +4,7 @@ hkrul_akkorak	1	2147343937		100	2147343940	hkrul_akkorak	general	hkrul_akkorak	u
 hkrul_birna	1	2147343937		100	2147343940	hkrul_birna	general	hkrul_birna	ui/portraits/portholes/no_culture/hkrul_birna.png	203871723		true
 hkrul_drenok	1	2147343937		100	2147343940	hkrul_drenok	general	hkrul_drenok	ui/portraits/portholes/no_culture/hkrul_drenok.png	203871724		true
 hkrul_einar	1	2147343937		100	2147343940	hkrul_einar	general	hkrul_einar	ui/portraits/portholes/no_culture/hkrul_einar.png	203871725		true
-hkrul_harald	1	2147343937		100	2147343940	hkrul_harald	general	hkrul_harald	ui/portraits/portholes/no_culture/hkrul_harald.png	203871726		true
+hkrul_harald	1	5670700351		100	5670700350	hkrul_harald	general	hkrul_harald	ui/portraits/portholes/no_culture/hkrul_harald.png	203871726		true
 hkrul_sayl	1	2147343937		100	2147343940	hkrul_sayl	general	hkrul_sayl	ui/portraits/portholes/no_culture/hkrul_sayl.png	203871727		true
 hkrul_verdandi	1	2147343937		100	2147343940	hkrul_verdandi	champion	hkrul_verdandi	ui/portraits/portholes/no_culture/hkrul_verdandi.png	203871729		true
 hkrul_kolsveinn	1	2147343937		100	2147343937	hkrul_kolsveinn	champion	hkrul_kolsveinn	ui/portraits/portholes/no_culture/hkrul_kolsveinn.png	203871730		true
@@ -27,3 +27,4 @@ scm_norsca_alfkael	1	240926	wh_dlc03_lore_beasts	1		scm_norsca_alfkael	wizard	sc
 hkrul_graill	1	2147343937		100	2147343940	hkrul_graill	champion	hkrul_graill	ui/portraits/portholes/no_culture/hkrul_graill.png	201735988		true
 hkrul_hildr	1	2147343937		100	2147343940	hkrul_hildr	champion	hkrul_hildr	ui/portraits/portholes/no_culture/hkrul_hildr.png	201735989		true
 scm_norsca_asta_QB	1	240929		100	240929	scm_norsca_asta_QB	champion	scm_norsca_asta_QB	ui/portraits/portholes/no_culture/scm_norsca_asta.png	23117511		true
+hkrul_oda_cb	20	7410711831		100	7410711830	hkrul_oda_manticore	champion	hkrul_oda	ui/portraits/portholes/no_culture/hkrul_oda.png	201735974		true

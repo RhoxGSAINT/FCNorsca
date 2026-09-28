@@ -47,3 +47,19 @@ units_custom_battle_mounts_mount_name_hkrul_lokjarhkrul_lokjar_chariot	Marauder 
 effects_description_hkrul_lokjar_skull	Ability: "Skull Gorger"	false
 unit_abilities_onscreen_name_hkrul_lokjar_skull	Skull Gorger	false
 unit_abilities_tooltip_text_hkrul_lokjar_skull	The magical weapon was crafted out of the skull of a White Dragon, who was known for preferring killing his victims with one mighty bite of his enormous jaws.	false
+character_skills_localised_description_hkrul_dalla_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+character_skills_localised_name_hkrul_dalla_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_dallahkrul_dalla_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_dallahkrul_dalla_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_dallahkrul_dalla_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_dallahkrul_dalla_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_dalla_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_dalla_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_shieldmaiden_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+character_skills_localised_name_hkrul_shieldmaiden_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_shieldmaidenhkrul_shieldmaiden_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_shieldmaidenhkrul_shieldmaiden_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_shieldmaidenhkrul_shieldmaiden_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_shieldmaidenhkrul_shieldmaiden_chariot	Marauder Chariot	false
+character_skills_localised_description_hkrul_shieldmaiden_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+character_skills_localised_name_hkrul_shieldmaiden_chariot	Marauder Chariot	false

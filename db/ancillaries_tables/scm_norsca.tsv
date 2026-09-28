@@ -52,3 +52,5 @@ hkrul_mortensen_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			
 hkrul_mortensen_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_mortensen_chariot		1	0		false	false	true	all
 hkrul_geimdall_horn	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	true	all
 hkrul_oda_spear	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
+hkrul_hafskael_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hafskael_horse		1	0		false	false	true	all
+hkrul_hafskael_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hafskael_chariot		1	0		false	false	true	all

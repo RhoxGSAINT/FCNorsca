@@ -16,3 +16,7 @@ hkrul_bjornling_tech_unique_1		wh_main_nor_bjornling	0	hkrul_bjornling_tech_uniq
 hkrul_bjornling_tech_unique_2		wh_main_nor_bjornling	8	hkrul_bjornling_tech_unique_2	nor_mil	16	100	0	0		wh3_dlc27_nor_spoils_technology_200	0	0	0
 hkrul_bjornling_tech_unique_3		wh_main_nor_bjornling	4	hkrul_bjornling_tech_unique_3	nor_mil	7	600	0	0			0	0	-23
 hkrul_bjornling_tech_unique_4		wh_main_nor_bjornling	5	hkrul_bjornling_tech_unique_4	nor_mil	3	500	0	0			0	0	20
+hkrul_geimdall_tech_unique_3		mixer_nor_geimdall_huscarls	4	hkrul_bjornling_tech_unique_3	nor_mil	7	600	0	0			0	0	-23
+hkrul_geimdall_tech_unique_4		mixer_nor_geimdall_huscarls	5	hkrul_bjornling_tech_unique_4	nor_mil	3	500	0	0			0	0	20
+hkrul_eyril_tech_unique_3		mixer_nor_eyristaad	4	hkrul_bjornling_tech_unique_3	nor_mil	7	600	0	0			0	0	-23
+hkrul_eyril_tech_unique_4		mixer_nor_eyristaad	5	hkrul_bjornling_tech_unique_4	nor_mil	3	500	0	0			0	0	20

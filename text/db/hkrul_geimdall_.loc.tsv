@@ -89,3 +89,24 @@ effect_bundles_localised_description_hkrul_geimdall_faction_trait	Geimdall, the 
 effect_bundles_localised_title_hkrul_geimdall_faction_trait	The King's Huscarl	false
 effects_description_hkrul_marauder_xp_gain	Unit experience gain: %+n% for Marauder units	false
 effects_description_hkrul_norsca_shield_maiden_recruit	Hero recruit rank: %+n for Shieldmaidens	false
+battle_set_pieces_localised_name_hkrul_geimdall_lost_island	The Island of Morr	false
+battle_set_pieces_localised_description_hkrul_geimdall_lost_island	King Ulfric sailed for these shores with a host of Bjornling warriors. Few ever saw Norsca again. Ulfric himself returned half-dead, bearing wounds he would speak little of and leaving many good warriors behind. Years have passed, but Geimdall has not forgotten. Now the High Jarl sails for that forsaken island to discover what broke Ulfric's host and settle an old blood-debt. Whatever waits upon those shores will find the Bjornlings better prepared this time.	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_objective_1	Break the monastery's undead guardians	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_objective_2	Geimdall must survive	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_objective_3	Hold until King Ulfric's Huscarls land	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_hint_1	The dead do not tire, but they can be broken. Press the attack before their numbers grow.	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_hint_2	King Ulfric's longships are inbound. Hold the shore a while longer.	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_hint_3	More of the monastery's dead stir with every passing moment.	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_hint_4	The guardian that anchored this cursed ground falls silent. Only its scattered dead remain – break them, and the island's curse ends with them.	false
+scripted_objectives_localised_text_hkrul_geimdall_lost_island_hint_5	King Ulfric's Huscarls have landed! His longships have broken the shore, and his warriors join the fight.	false
+scripted_subtitles_localised_text_hkrul_geimdall_lost_island_shot_2	These sands swallowed High King Ulfric's finest, and gave nothing back.	false
+scripted_subtitles_localised_text_hkrul_geimdall_lost_island_shot_3	I have come to answer for what was left unfinished here.	false
+scripted_subtitles_localised_text_hkrul_geimdall_lost_island_shot_4	Let the dead remember why the living are still feared.	false
+scripted_subtitles_localised_text_hkrul_geimdall_lost_island_shot_5	I have buried better men than these. I do not fear them.	false
+scripted_subtitles_localised_text_hkrul_geimdall_lost_island_shot_6	Bjornling! Break them a second time!	false
+missions_localised_title_hkrul_geimdall_lost_island	The Island of Morr	false
+missions_localised_description_hkrul_geimdall_lost_island	High King Ulfric means to finish what he began years ago: the sacking of a forsaken island monastery dedicated to Morr. He calls upon Geimdall and his Huscarls to join the raid once more, though the monks who dwell there did not die easily the first time, and are unlikely to have grown any less restless in the years since.	false
+missions_localised_mission_completed_text_hkrul_geimdall_lost_island	The undead have been broken, and the island's dead may finally rest.	false
+missions_localised_title_hkrul_adella_qb_0001_broken_leg_gully_test	The Thousand-Mouthed Betrayal	false
+missions_localised_description_hkrul_adella_qb_0001_broken_leg_gully_test	Adella of the Thousand Mouths has agreed to recognise Harald Whyrlas as the greater ruler, bringing her Skeggi host north to formally submit. March to the appointed meeting and compel the King of Skeggi to bend the knee.	false
+missions_localised_mission_completed_text_hkrul_adella_qb_0001_broken_leg_gully_test	Adella's thousand mouths are silenced, and Skeggi has learned what submission to Harald Whyrlas truly means.	false

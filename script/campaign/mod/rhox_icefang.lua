@@ -40,9 +40,9 @@ core:add_listener(
     function(context)
         if not rhox_drenok_faction_list[context:confederation()] then
             rhox_drenok_faction_list[context:confederation()]= true
-            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"dead_drenok_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
-            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"dead_drenok_ice_bears","renown",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
-            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"dead_drenok_greater_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
+            cm:add_unit_to_faction_mercenary_pool(context:confederation(),"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
         end
     end,
     true
@@ -59,9 +59,9 @@ core:add_listener(
     function(context) 
         local character=context:character()--he might have passed to other faction via two confederations
         rhox_drenok_faction_list[character:faction():name()] = true
-        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"dead_drenok_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
-        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"dead_drenok_ice_bears","renown",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
-        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"dead_drenok_greater_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
+        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
+        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
+        cm:add_unit_to_faction_mercenary_pool(character:faction():name(),"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
     end,
     true
 )

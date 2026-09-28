@@ -132,6 +132,7 @@ land_units_onscreen_name_r1kko_adella_kho_carnosaur	Corrupted Carnosaur (Khorne)
 land_units_onscreen_name_r1kko_adella_nur_stegadon	Corrupted Stegadon (Nurgle)	false
 land_units_onscreen_name_r1kko_adella_sla_troglodon	Corrupted Troglodon (Slaanesh)	false
 land_units_onscreen_name_r1kko_adella_tze_coatl	Corrupted Coatl (Tzeentch)	false
+effects_description_hkrul_norse_ogre_cap	Unit capacity: %+n for Norse Ogre units	false
 effects_description_rhox_adella_lzd_mon_carnosaur_kho	Unit capacity: %+n for Khorne Corrupted Feral Carnosaur units	false
 effects_description_rhox_adella_lzd_mon_stegadon_nur	Unit capacity: %+n for Nurgle Corrupted Feral Stegadon units	false
 effects_description_rhox_adella_lzd_mon_troglodon_sla	Unit capacity: %+n for Slaanesh Corrupted Feral Troglodon units	false
@@ -193,3 +194,4 @@ effects_description_rhox_adella_corruption_higher_units_khorne_dummy	[[col:yello
 effects_description_rhox_adella_corruption_higher_units_nurgle_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Nurgle corruption in your province higher than 50%.[[/col]]	false
 effects_description_rhox_adella_corruption_higher_units_slaanesh_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Slaanesh corruption in your province higher than 50%.[[/col]]	false
 effects_description_rhox_adella_corruption_higher_units_tzeentch_dummy	[[col:yellow]]The cap for high-tier corrupted monsters will increase with Tzeentch corruption in your province higher than 50%.[[/col]]	false
+effects_description_hkrul_shieldmaidens_hero_charge	Charge bonus: %+n for Shieldmaidens	true

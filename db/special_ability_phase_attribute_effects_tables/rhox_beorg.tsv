@@ -1,3 +1,5 @@
 attribute	phase	attribute_type
 #special_ability_phase_attribute_effects_tables;1;db/special_ability_phase_attribute_effects_tables/rhox_beorg		
 causes_fear	hkrul_oerl_axe	positive
+silenced	hkrul_dalla_tankard	positive
+force_rally	hkrul_shieldmaiden_command	positive

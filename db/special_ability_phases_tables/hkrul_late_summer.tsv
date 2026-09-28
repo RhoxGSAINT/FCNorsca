@@ -32,3 +32,5 @@ hkrul_skald_rally	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	
 hkrul_tuula_mark	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack_passive		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_snaegr_mark	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_eyrdal_thorn	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_attack		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_dalla_rally	20.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_ward_save_all		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_shieldmaiden_command	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh3_dlc27_character_abilities_iron_hand_captain	wh_ability_positive_aoe	false	true	false	0.0000			false	0.0000	0.0000	false	0.0000

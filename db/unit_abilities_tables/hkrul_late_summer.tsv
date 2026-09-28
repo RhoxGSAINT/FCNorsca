@@ -40,3 +40,6 @@ hkrul_crimson_rain_2	true	hkrul_crimson_rain_2		wh_type_summon_unit		wh_main_anc
 hkrul_haraldur_killshot	true	hkrul_haraldur_spear		wh_type_magic_missiles		wh_main_anc_group_unique	true	false	active		false
 hkrul_snaegr_mark	true	hkrul_mark_grydal_2		wh_type_augment		wh_main_anc_group_uncommon	true	false	passive		false
 hkrul_eyrdal_thorn	true	hkrul_eyrdal_thorn		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_dalla_rally	true	hkrul_dalla_rally		wh_type_area_of_ward_save		wh_main_anc_group_rare	true	false	passive		false
+hkrul_shieldmaiden_pas	true	hkrul_shieldmaiden_pas		wh_type_area_of_augments		wh_main_anc_group_rare	true	false	passive		false
+hkrul_shieldmaiden_command	true	hkrul_shieldmaiden_command		wh_type_augment		wh_main_anc_group_rare	true	false	active		false

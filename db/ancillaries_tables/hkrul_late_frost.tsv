@@ -14,3 +14,7 @@ hkrul_goftur_token	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			fals
 hkrul_haraldur_sword	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 hkrul_haraldur_shield	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	false	all
 hkrul_haraldur_tankard	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			200	0		false	false	false	all
+hkrul_dalla_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_dalla_horse		1	0		false	false	false	all
+hkrul_dalla_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_dalla_chariot		1	0		false	false	false	all
+hkrul_shieldmaiden_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_shieldmaiden_horse		1	0		false	false	false	all
+hkrul_shieldmaiden_chariot	wh_main_anc_mount_chaos_chariot	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_shieldmaiden_chariot		1	0		false	false	false	all

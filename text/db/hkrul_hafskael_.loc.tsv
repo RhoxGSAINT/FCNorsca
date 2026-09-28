@@ -32,11 +32,8 @@ unit_abilities_onscreen_name_hkrul_hafskael_axe	Dockiron's Oath	true
 effects_description_hkrul_hafskael_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
 units_custom_battle_mounts_localised_description_hkrul_hafskaelhkrul_mortensen_chariot	The prow is sharpened like a ram, its wheels reinforced with anchor-flukes — built to split ranks like reefs split hulls.	false
 units_custom_battle_mounts_mount_name_hkrul_hafskaelhkrul_mortensen_chariot	Breaker’s Keel	false
-land_units_onscreen_name_hkrul_hafskael_chariot	Jarl Hafskael	true
 ancillaries_onscreen_name_hkrul_hafskael_axe	Dockiron's Oath	false
 ancillaries_colour_text_hkrul_hafskael_axe	Simple in make, brutal in purpose. Dockiron bears no ornate sigils or runes — only the scars of years spent raising piers and collapsing skulls. Once a tool for driving mooring stakes into hard stone, its dense weight and unforgiving face now serve Hafskael on the battlefield. Blood cakes the haft where pitch once clung, and every impact rings with the sound of breaking boards... or bones.	false
-ancillaries_colour_text_hkrul_hafskael_chariot	The prow is sharpened like a ram, its wheels reinforced with anchor-flukes — built to split ranks like reefs split hulls.	false
-ancillaries_onscreen_name_hkrul_hafskael_chariot	Breaker’s Keel	false
 effects_description_hkrul_hafskael_chariot	Mount: "Breaker’s Keel"	false
 ancillaries_onscreen_name_hkrul_hafskael_charm	Figurehead of Hrimross	false
 ancillaries_colour_text_hkrul_hafskael_charm	This humble, sea-worn figurehead of a galloping steed was once mounted beneath the prow of the Sternwolf, a legendary longship. Now worn as a talisman by Hafskael, it carries the blessing of the sea gods and the ancestral strength of the Bjornling fleet. It still smells faintly of salt, pitch, and a battle long past.	false

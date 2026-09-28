@@ -107,11 +107,18 @@ character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_01	Saga of 
 character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_02	Shield-Wall Instinct	false
 character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_03	Cold-Blooded Discipline	false
 character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_04	Warden of the Watchfires	false
-character_skills_localised_name_hkrul_hkrul_shieldmaiden_node_unique_saga	Voice of the Valkyrie	false
-character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_06	Blood Runs North	false
+character_skills_localised_name_hkrul_hkrul_shieldmaiden_node_unique_saga	Wall-Bound Will	false
+character_skills_localised_name_hkrul_shieldmaiden_skill_node_unique_06	Worthy End	false
 character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_01	They say she was born amidst crashing waves and war cries, and never once wept.	false
 character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_02	Her eyes scan the night for foes — few slip past her watch and live to boast.	false
 character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_03	Hard as permafrost and twice as unyielding, she leads without doubt or fear.	false
 character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_04	The maiden swears a binding oath, her loyalty etched deeper than steel or stone.	false
 character_skills_localised_description_hkrul_hkrul_shieldmaiden_node_unique_saga	When she speaks, warriors listen. When she cries war, they charge.	false
 character_skills_localised_description_hkrul_shieldmaiden_skill_node_unique_06	Beneath her banner, the tide holds. Even the sea cannot break her command.	false
+effects_description_hkrul_effect_agent_enable_recruitment_runesmith	Enables [[img:icon_hero]][[/img]]Hero recruitment: Shieldmaiden	false
+effects_description_hkrul_shieldmaiden_support	Ability: "Cold-Blooded Discipline"	false
+unit_abilities_tooltip_text_hkrul_shieldmaiden_support	When she speaks, warriors listen. When she cries war, they charge.	false
+unit_abilities_onscreen_name_hkrul_shieldmaiden_support	Cold-Blooded Discipline	false
+effects_description_hkrul_dalla_support	Ability: "Frost-Sister’s Roar"	false
+unit_abilities_tooltip_text_hkrul_dalla_support	Her voice cuts through the storm and steel like a warhorn of the old gods. With her on the line, fear dies first.	false
+unit_abilities_onscreen_name_hkrul_dalla_support	Frost-Sister’s Roar	false

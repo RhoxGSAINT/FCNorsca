@@ -9,3 +9,7 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_geimdall_command	true	false	false	hkrul_geimdall_command
 1	hkrul_geimdall_command	false	true	false	hkrul_geimdall_command_area
 1	hkrul_tyeddi	true	false	false	hkrul_tyeddi
+1	hkrul_shieldmaiden_support	true	false	false	hkrul_shieldmaiden_support
+1	hkrul_shieldmaiden_support	false	true	false	hkrul_shieldmaiden_support_area
+1	hkrul_dalla_support	true	false	false	hkrul_dalla_support
+1	hkrul_dalla_support	false	true	false	hkrul_dalla_support_area

@@ -83,9 +83,9 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
             cm:force_declare_war("wh_dlc08_nor_vanaheimlings", "cr_emp_cult_of_ulric", false, false)
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","renown",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","renown",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -120,7 +120,7 @@ local rhox_faction_list={
     wh_main_nor_bjornling ={
         leader={
             subtype="hkrul_ulfric",
-             unit_list="rhox_bjornling_huscarl,hkrul_norsca_ymir,wh_dlc08_nor_inf_marauder_hunters_1,nor_longship_ror,wh_dlc08_nor_mon_norscan_giant_0",
+             unit_list="rhox_bjornling_huscarl,hkrul_norsca_ymir,hkrul_norsca_whalers,nor_longship_ror,wh_dlc08_nor_mon_norscan_giant_0",
             forename ="names_name_5270700351",
             familiyname ="names_name_5270700350",
         },	
@@ -136,7 +136,7 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    cm:add_unit_to_faction_mercenary_pool(faction,"wh_pro04_nor_mon_fimir_ror_0","renown",0,0,0,0,"","","",true,"wh_pro04_nor_mon_fimir_ror_0")
+		    cm:add_unit_to_faction_mercenary_pool(faction,"wh_pro04_nor_mon_fimir_ror_0","wh3_main_regiments_of_renown_pool",0,0,0,0,"","","",true,"wh_pro04_nor_mon_fimir_ror_0")
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_oda", faction:faction_leader():command_queue_index(), true)           
             cm:make_diplomacy_available(faction_key, "wh_main_emp_nordland")
             cm:force_make_trade_agreement(faction_key, "wh_main_emp_nordland")
@@ -201,8 +201,6 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_mortensen", faction:faction_leader():command_queue_index(), true)
-
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -256,7 +254,8 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_haftagg", true) 		    
+		    cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_haftagg", true)
+		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_mortensen", faction:faction_leader():command_queue_index(), true)		    
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -280,7 +279,7 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-		    cm:add_unit_to_faction_mercenary_pool(faction, "wh_mod_nor_veh_mammoth_siege_tower_0", "renown", 1, 20, 1, 0.1, "", "", "", true, "wh_mod_nor_veh_mammoth_siege_tower_0")
+		    cm:add_unit_to_faction_mercenary_pool(faction, "wh_mod_nor_veh_mammoth_siege_tower_0", "wh3_main_regiments_of_renown_pool", 1, 20, 1, 0.1, "", "", "", true, "wh_mod_nor_veh_mammoth_siege_tower_0")
 		    cm:add_event_restricted_unit_record_for_faction("wh_mod_nor_veh_mammoth_siege_tower_0", faction_key, "wh_mod_nor_veh_mammoth_siege_tower_0_lock")
             if faction:is_human() then
                 local mm = mission_manager:new(faction_key, "rhox_varg_hrothgar_mission")
@@ -359,9 +358,9 @@ local rhox_faction_list={
         pic=800,
         faction_trait="rhox_beorg_faction_trait",
         additional = function(faction, faction_key) 
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","renown",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","renown",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
             
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -378,7 +377,7 @@ local rhox_faction_list={
     mixer_nor_geimdall_huscarls = {
     leader = {
         subtype = "hkrul_geimdall",
-        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,rhox_bjornling_maneater,wh_dlc08_nor_inf_marauder_hunters_1,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,rhox_bjornling_maneater,hkrul_norsca_whalers,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
         forename = "names_name_7610711834",
         familiyname = "names_name_7610711833",  -- Fixed typo
     },
@@ -481,7 +480,7 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
-            cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_hildr", true)		    
+            cm:spawn_unique_agent(faction:command_queue_index(), "hkrul_dalla", true)		    
 		    cm:force_declare_war("mixer_nor_eyristaad", "wh_dlc08_nor_vanaheimlings", false, false)
 		    local rhox_ror_to_remove = {
                 ---unit_key, recruitment_source_key,  starting amount, replen chance, max in pool

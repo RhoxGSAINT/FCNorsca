@@ -66,23 +66,28 @@ local rhox_totn_factions={
     mixer_nor_geimdall_huscarls=true,
 }
 
-local rhox_totn_special_factions={--non-chaos, or god dedicated
-    wh_main_nor_aesling=true, --Khorne
-    wh_main_nor_baersonling=true,--tzeentch
-    wh3_dlc20_nor_yusak=true,--slaanesh
-    mixer_nor_geimdall_huscarls=true,--neutral
-    mixer_nor_bloodfjord=true,--Khorne
-    mixer_nor_eyristaad=true,--neutral
-    mixer_nor_snaegr=true,--Khorne
-    wh_main_nor_bjornling=true,--neutral
+RHOX_TOTN_SPECIAL_FACTIONS={--non-chaos, or god dedicated
+    wh_main_nor_aesling="khorne",
+    wh_main_nor_baersonling="tzeentch",
+    wh3_dlc20_nor_yusak="slaanesh",
+    mixer_nor_geimdall_huscarls="neutral",
+    mixer_nor_bloodfjord="khorne",
+    mixer_nor_eyristaad="neutral",
+    mixer_nor_snaegr="khorne",
+    wh_main_nor_bjornling="neutral",
 }
-
 ------Norsca thing
-for faction_key, _ in pairs(rhox_totn_factions) do
-    table.insert(character_unlocking.character_data["beorg_bearstruck"]["override_allowed_factions"], faction_key)
+for faction_key, _ in pairs(RHOX_TOTN_SPECIAL_FACTIONS) do
+    if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] and RHOX_TOTN_SPECIAL_FACTIONS[faction_key] ~= "neutral" then
+      table.insert(character_unlocking.character_data["beorg_bearstruck"]["override_allowed_factions"], faction_key)
+    end
+
+    if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] and RHOX_TOTN_SPECIAL_FACTIONS[faction_key] ~="nurgle" then
+      character_unlocking.character_data["gutrot_spume"].factions_involved[faction_key] = true
+    end
     
     
-    if rhox_totn_special_factions[faction_key] and MIXER_SPECIAL_DEDICATED_NORSCA then
+    if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] and MIXER_SPECIAL_DEDICATED_NORSCA then
         MIXER_SPECIAL_DEDICATED_NORSCA[faction_key]=true
     end
 end

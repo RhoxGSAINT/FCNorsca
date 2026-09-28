@@ -28,3 +28,5 @@ fatigue_immune	hkrul_geimdall_horn	positive
 silenced	hkrul_geimdall_horn_enemy	positive
 strider	hkrul_sarl_hunters	positive
 causes_terror	hkrul_goftur_augment	positive
+melee_disabled	hkrul_shieldmaiden_support	positive
+melee_disabled	hkrul_dalla_support	positive

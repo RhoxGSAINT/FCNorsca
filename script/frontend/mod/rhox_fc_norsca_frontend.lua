@@ -24,7 +24,7 @@ core:add_ui_created_callback(
 			
 			mixer_change_lord_name("106797993", "hkrul_ulfric")
 			mixer_change_lord_name("681891162", "hkrul_ulfric")--TOW
-			mixer_add_starting_unit_list_for_faction("wh_main_nor_bjornling", {"hkrul_norsca_ymir","rhox_bjornling_huscarl","nor_longship_ror","hkrul_bjornling_inf_marauder_hunters_0","wh_dlc08_nor_mon_norscan_giant_0"})
+			mixer_add_starting_unit_list_for_faction("wh_main_nor_bjornling", {"hkrul_norsca_ymir","rhox_bjornling_huscarl","nor_longship_ror","hkrul_norsca_whalers","wh_dlc08_nor_mon_norscan_giant_0"})
 			mixer_add_faction_to_major_faction_list("wh_main_nor_bjornling")
 			
 			mixer_change_lord_name("835161619", "hkrul_harald")
@@ -70,7 +70,7 @@ core:add_ui_created_callback(
         
             mixer_change_lord_name("1929903855", "hkrul_geimdall")
             mixer_enable_custom_faction("1929903855")
-            mixer_add_starting_unit_list_for_faction("mixer_nor_geimdall_huscarls", {"hkrul_bjornling_inf_chaos_marauders_0","rhox_bjornling_huscarl_ror","wh_main_nor_mon_chaos_warhounds_0","hkrul_bjornling_inf_marauder_hunters_0"})
+            mixer_add_starting_unit_list_for_faction("mixer_nor_geimdall_huscarls", {"hkrul_bjornling_inf_chaos_marauders_0","rhox_bjornling_huscarl_ror","wh_main_nor_mon_chaos_warhounds_0","hkrul_norsca_whalers"})
             mixer_add_faction_to_major_faction_list("mixer_nor_geimdall_huscarls")
             mixer_change_lord_name("1319642446", "hkrul_geimdall")
             mixer_enable_custom_faction("1319642446")
