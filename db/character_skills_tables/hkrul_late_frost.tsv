@@ -21,7 +21,7 @@ hkrul_geimdall_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0
 hkrul_geimdall_special_0_1	hkrul_geimdall_special_0_1.png			0	false	false	false	0.0000	0
 hkrul_geimdall_special_0_2	hkrul_geimdall_special_0_2.png			0	false	false	false	0.0000	0
 hkrul_geimdall_sword	mount_barded_warhorse.png			0	false	false	false	0.0000	0
-hkrul_mortensen_horse	mount_warhorse.png	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	Norscan Warhorse	3	false	false	false	0.0000	0
+hkrul_mortensen_horse	mount_warhorse.png	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	Huscarl Warhorse	3	false	false	false	0.0000	0
 hkrul_mortensen_chariot	mount_chaos_chariot.png	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	Marauder Chariot	9	false	false	false	0.0000	0
 hkrul_geimdall_health	character_health.png			0	false	false	false	0.0000	0
 hkrul_geimdall_horn	mount_barded_warhorse.png			0	false	false	false	0.0000	0

@@ -1,0 +1,23 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\hjordis\hjordis.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\hjordis/materials/cth_tiger_stalker_head_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\character\hjordis/materials/dae_marauder_tzeentch_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="2">variantmeshes\wh_variantmodels\character\shieldmaiden\sub1\materials\dae_exalted_hero_khorne_cape_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="3">variantmeshes\wh_variantmodels\character\hjordis/materials/chs_marauder_shaman_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="4">variantmeshes\wh_variantmodels\character\hskald\materials\chd_wolf_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="5">variantmeshes\wh_variantmodels\character\hildr\materials\dae_khornataur_body_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="6">variantmeshes\wh_variantmodels\character\hravenswyrd\materials\ksl_bear_armour_light_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="7">variantmeshes\wh_variantmodels\character\geimdall\materials\daga_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="8">variantmeshes\wh_variantmodels\character\hildr\materials\emp_grey_wizard_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="9">variantmeshes\wh_variantmodels\character\hjordis/materials/chs_marauder_berserkers_torso_0_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="10">variantmeshes\wh_variantmodels\character\hjordis/materials/torsik_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="11">variantmeshes\wh_variantmodels\character\hjordis/materials/hjordis_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="12">variantmeshes\wh_variantmodels\character\broendulf\materials\brt_respanse_head_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="13">variantmeshes\wh_variantmodels\character\yngve\materials\ksl_kossar_body_01_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="14">variantmeshes\wh_variantmodels\character\eyri\materials\ksl_kossar_body_02_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="15">variantmeshes\wh_variantmodels\character\yngve\materials\dae_marauder_tzeentch_legs_01_weighted4_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="16">variantmeshes\wh_variantmodels\character\broendulf\materials\vmp_wight_king_cloak_weighted4_alpha_on.xml.material</material>
+			<material lod_index="0" part_index="17">variantmeshes\wh_variantmodels\character\eyri\materials\male warrior.030_weighted4_alpha_on.xml.material</material>
+	</materials>
+</model>

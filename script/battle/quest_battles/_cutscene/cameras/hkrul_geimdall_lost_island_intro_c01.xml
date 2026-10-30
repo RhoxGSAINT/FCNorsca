@@ -1,0 +1,75 @@
+<WARSCAPE_PROPERTIES_FILE version="27" supported_warscape_properties="16" id="{c8444769-0762-45cd-9448-c054f8e3a0ec}" hidden="false">
+ <NODE name="Camera" id="{17cf9dbb-e182-4415-9ab0-bc273f99ca43}" hidden="false">
+  <VECTOR name="position" id="{1dad44fc-0042-42b3-9ac1-ee14cdc04aca}" unique_id="{1dad44fc-0042-42b3-9ac1-ee14cdc04aca}" link_id="0" is_linked="0" surface_mode="Freeform" hidden="false">
+   <DOUBLE animated="1" default="23.0927" name="X" single_keyframe_only="0" id="{7a33dd22-32c6-4fa5-8f57-d5b27902d0d7}" order="0" hidden="false">
+    <KEYFRAME data="23.0927" time="0"/>
+    <KEYFRAME data="41.9647" time="6.5"/>
+    <KEYFRAME data="55.692" time="13"/>
+    <KEYFRAME data="55.692" time="13.5"/>
+   </DOUBLE>
+   <DOUBLE animated="1" default="594.843" name="Y" single_keyframe_only="0" id="{eb0ec7f9-7bd3-4ad6-baf1-10136420f19f}" order="1" hidden="false">
+    <KEYFRAME data="594.843" time="0"/>
+    <KEYFRAME data="564.843" time="6.5"/>
+    <KEYFRAME data="538.843" time="13"/>
+    <KEYFRAME data="538.843" time="13.5"/>
+   </DOUBLE>
+   <DOUBLE animated="1" default="130.7388" name="Z" single_keyframe_only="0" id="{d0e65e7b-f970-40e8-8991-dd608a961f44}" order="2" hidden="false">
+    <KEYFRAME data="130.7388" time="0"/>
+    <KEYFRAME data="178.8309" time="6.5"/>
+    <KEYFRAME data="223.2444" time="13"/>
+    <KEYFRAME data="223.2444" time="13.5"/>
+   </DOUBLE>
+  </VECTOR>
+  <VECTOR name="target" id="{de209bfc-2bbb-41d0-a586-3abf05933a6c}" unique_id="{de209bfc-2bbb-41d0-a586-3abf05933a6c}" link_id="0" is_linked="0" surface_mode="Freeform" hidden="false">
+   <DOUBLE animated="1" default="47.6777" name="X" single_keyframe_only="0" id="{4f4c5b04-e05e-431d-a295-d7210dace45e}" order="0" hidden="false">
+    <KEYFRAME data="47.6777" time="0"/>
+    <KEYFRAME data="54.7312" time="6.5"/>
+    <KEYFRAME data="59.4334" time="13"/>
+    <KEYFRAME data="59.4334" time="13.5"/>
+   </DOUBLE>
+   <DOUBLE animated="1" default="534.843" name="Y" single_keyframe_only="0" id="{e6173b7b-a53a-47da-86f5-834b32daaae8}" order="1" hidden="false">
+    <KEYFRAME data="534.843" time="0"/>
+    <KEYFRAME data="536.343" time="6.5"/>
+    <KEYFRAME data="536.643" time="13"/>
+    <KEYFRAME data="536.643" time="13.5"/>
+   </DOUBLE>
+   <DOUBLE animated="1" default="224.1228" name="Z" single_keyframe_only="0" id="{56160c50-d0ee-49ce-8715-b74ec5f09ea6}" order="2" hidden="false">
+    <KEYFRAME data="224.1228" time="0"/>
+    <KEYFRAME data="233.831" time="6.5"/>
+    <KEYFRAME data="240.3032" time="13"/>
+    <KEYFRAME data="240.3032" time="13.5"/>
+   </DOUBLE>
+  </VECTOR>
+  <NODE name="rotation" id="{e18f1db3-1853-4686-812f-c1cad57a9adf}" hidden="false">
+   <RADIAN animated="0" default="0" name="yaw" single_keyframe_only="1" id="{b44241d8-7db7-4843-ae0c-238257dde985}" order="3" user_friendy_name="Yaw" hidden="false"/>
+   <RADIAN animated="0" default="0" name="pitch" single_keyframe_only="1" id="{40b122d2-d81d-4b79-a06c-7529336a9ff0}" order="4" user_friendy_name="Pitch" hidden="false"/>
+   <RADIAN animated="0" default="0" name="roll" single_keyframe_only="1" id="{29eef161-9a8d-452a-adea-0df010f4ff51}" order="5" user_friendy_name="Roll" hidden="false"/>
+  </NODE>
+  <RADIAN animated="1" default="1.134464025497437" name="vertical_fov" single_keyframe_only="0" id="{9bd2ba00-81fb-400c-a481-40a7d3e5a721}" order="6" user_friendy_name="Field of View" hidden="false">
+   <KEYFRAME data="1.1344640137963142" time="0"/>
+   <KEYFRAME data="1.0471975511965976" time="6.5"/>
+   <KEYFRAME data="0.9599310885968813" time="13"/>
+   <KEYFRAME data="0.9599310885968813" time="13.5"/>
+  </RADIAN>
+  <DOUBLE animated="0" default="1" name="near_distance" single_keyframe_only="1" id="{7ae6f109-8f55-4bbd-8411-95d3315d7055}" order="9" user_friendy_name="Near Distance" hidden="false"/>
+  <DOUBLE animated="0" default="13000" name="far_distance" single_keyframe_only="1" id="{7ade9c10-c5d4-4ce0-96c2-2ab4526f219c}" order="10" user_friendy_name="Far Distance" hidden="false"/>
+  <NODE name="DOF" id="{1cb5f460-c905-4844-bd75-7f6f93fa8f4d}" hidden="false">
+   <DOUBLE animated="0" default="0" name="Focal Depth" single_keyframe_only="1" id="{e1b3cc8a-b19e-46d7-b33e-5768cf7ccde3}" order="12" hidden="false"/>
+   <DOUBLE animated="0" default="3.402823466385289e+38" name="Focal Width" single_keyframe_only="1" id="{da6c1c14-6d80-4494-9445-27f16cf194b0}" order="13" hidden="false"/>
+   <DOUBLE animated="0" default="1" name="Focal Falloff Near" single_keyframe_only="1" id="{e879ce3a-8e5e-41ed-a61a-09eedf75bb21}" order="14" hidden="false"/>
+   <DOUBLE animated="0" default="1" name="Focal Falloff Far" single_keyframe_only="1" id="{5847a4b3-478a-4cac-bd17-28da8b00b5c6}" order="15" hidden="false"/>
+   <DOUBLE animated="0" default="10" name="Blur Kernel Radius - Background" single_keyframe_only="1" id="{397e9e73-2b92-4b74-9e63-5c95c097342b}" order="16" user_friendy_name="Background Blur Radius" hidden="false"/>
+   <DOUBLE animated="0" default="10" name="Blur Kernel Radius - Foreground" single_keyframe_only="1" id="{7023939a-a6ab-4e41-b71a-436cd84bfc38}" order="17" user_friendy_name="Foreground Blur Radius" hidden="false"/>
+   <DOUBLE animated="0" default="20" name="Blur Kernel Radius - Foreground CoC" single_keyframe_only="1" id="{e59c5aec-7a5d-4a71-a40f-ad195c7bcb8a}" order="18" user_friendy_name="Foreground CoC Blur Radius" hidden="false"/>
+   <DOUBLE animated="0" default="10" name="Bokeh Sprite Radius" single_keyframe_only="1" id="{54916969-7cc9-4fe5-a658-0c08a84c623a}" order="19" hidden="false"/>
+   <DOUBLE animated="0" default="100" name="Bokeh Threshold" single_keyframe_only="1" id="{feeffff6-a8a0-420c-b871-3662b6b5f417}" order="20" hidden="false"/>
+   <DOUBLE animated="0" default="5" name="Bokeh Hotspot Kernel Size" single_keyframe_only="1" id="{b7849a68-704b-480d-962c-6ff2431a7fc3}" order="21" hidden="false"/>
+   <DOUBLE animated="0" default="2" name="Bokeh Intensity" single_keyframe_only="1" id="{bcdc4e34-7298-4946-b4a3-3e81c32f9d87}" order="22" hidden="false"/>
+  </NODE>
+  <NODE name="time speed multipliers" id="{27f60de8-92bb-46c8-88de-cd2d14de5e4d}" hidden="false">
+   <DOUBLE animated="0" default="1" name="global" single_keyframe_only="1" id="{d62dd8c4-a05c-4bd0-98ee-ca7b7599ca1e}" order="0" user_friendy_name="Global" hidden="false"/>
+   <DOUBLE animated="0" default="1" name="cinematic" single_keyframe_only="1" id="{b42f8088-06cb-432b-9ace-f6164316d7e4}" order="1" user_friendy_name="Cinematic" hidden="false"/>
+   <DOUBLE animated="0" default="1" name="game logic" single_keyframe_only="1" id="{5dd9fdee-5f52-455f-a704-4cfd2a7e69e1}" order="2" user_friendy_name="Game Logic" hidden="false"/>
+  </NODE>
+ </NODE>
+</WARSCAPE_PROPERTIES_FILE>

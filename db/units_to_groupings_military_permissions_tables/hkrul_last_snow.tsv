@@ -1,0 +1,8 @@
+unit	military_group
+#units_to_groupings_military_permissions_tables;0;db/units_to_groupings_military_permissions_tables/hkrul_last_snow	
+hkrul_hjordis	wh_main_group_norsca
+hkrul_hjordis_horse	wh_main_group_norsca
+hkrul_hjordis_chariot	wh_main_group_norsca
+hkrul_boendalf	wh_main_group_norsca
+hkrul_boendalf_horse	wh_main_group_norsca
+hkrul_boendalf_chariot	wh_main_group_norsca

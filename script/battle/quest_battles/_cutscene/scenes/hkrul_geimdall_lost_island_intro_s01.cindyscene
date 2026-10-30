@@ -1,0 +1,20 @@
+<SCENE_FILE version="27" perspective_camera="23.0927,594.843,130.7388:47.6777,534.843,224.1228" id="{8cfcf5e3-cebc-4fcf-a4ae-fb89e89973b3}" start_record_time="0" hidden="false" end_record_time="1000">
+ <ENVIRONMENT name="Environment" order="0" data="" id="{d0e38f3b-542c-4631-bdb2-fe3b074daf2b}" hidden="false"/>
+ <VECTOR name="position" unique_id="{988667b1-7a5e-4b4d-bda7-f3851075fffa}" link_id="0" surface_mode="Freeform" is_linked="0" id="{988667b1-7a5e-4b4d-bda7-f3851075fffa}" hidden="false">
+  <DOUBLE name="X" single_keyframe_only="1" order="0" animated="1" default="0" id="{32e5baa3-4485-4d57-a108-bb68936c8f26}" hidden="false"/>
+  <DOUBLE name="Y" single_keyframe_only="1" order="1" animated="1" default="0" id="{8601ffb1-f3fd-44c9-be18-1b0a15ba4131}" hidden="false"/>
+  <DOUBLE name="Z" single_keyframe_only="1" order="2" animated="1" default="0" id="{64e16a1a-b365-4eb9-8d30-a36b14008363}" hidden="false"/>
+ </VECTOR>
+ <ROTATION_AXES name="rotation" id="{4d52a416-f54d-4859-af2d-8b86800200d5}" hidden="false">
+  <RADIAN name="X" single_keyframe_only="1" order="0" animated="1" default="0" id="{c5b06490-f7ff-4d54-983d-9ebd303f03a7}" hidden="false"/>
+  <RADIAN name="Y" single_keyframe_only="1" order="1" animated="1" default="0" id="{ccbc292d-f10b-4a30-b8cf-2bd16917de7b}" hidden="false"/>
+  <RADIAN name="Z" single_keyframe_only="1" order="2" animated="1" default="0" id="{17a09d2e-aaa7-4dfb-a4fa-d5c538411b9e}" hidden="false"/>
+ </ROTATION_AXES>
+ <NODE name="Links" id="{bc1d682b-5481-4517-a2d1-b6d3352b3bf9}" hidden="false"/>
+ <NODE name="Warscape Properties" id="{d9a33df1-4a1c-4a8d-851d-95663cf51e85}" hidden="false">
+  <WARSCAPE_PROPERTIES name="hkrul_geimdall_lost_island_intro_c01.xml" warscape_properties_file="../cameras/hkrul_geimdall_lost_island_intro_c01.xml" id="{c0558860-a8c9-43ad-9b82-c86985c5866b}" hidden="false"/>
+ </NODE>
+ <NODE name="Triggers" id="{71984c0b-dd10-4a74-aa0d-09854a59aa2b}" hidden="false">
+  <TRIGGER name="hkrul_geimdall_lost_island_intro_t01.ktr" id="{6666e44c-1071-44ff-b618-b774f401b7b4}" hidden="false" trigger_file="../triggers/hkrul_geimdall_lost_island_intro_t01.ktr"/>
+ </NODE>
+</SCENE_FILE>

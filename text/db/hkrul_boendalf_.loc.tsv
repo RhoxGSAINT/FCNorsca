@@ -1,0 +1,69 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_boendalf_.loc		
+character_skills_localised_name_innate_hkrul_boendalf	Household Huscarl	true
+character_skills_localised_description_innate_hkrul_boendalf	Sharp of wit and mighty of arm, Broendulf guards the honour of the Sarls with axe, shield and cutting tongue.	true
+character_skills_localised_name_hkrul_boendalf_special_1_0	Sharp-Witted	true
+character_skills_localised_name_hkrul_boendalf_special_1_1	Household Blades	true
+character_skills_localised_name_hkrul_boendalf_special_1_2	Sarl-Blooded	true
+character_skills_localised_name_hkrul_boendalf_special_1_3	Fair-Handed Killer	true
+character_skills_localised_name_hkrul_boendalf_special_1_4	Viglundr's Right Hand	true
+character_skills_localised_name_hkrul_boendalf_special_1_5	The Fair	true
+character_skills_localised_name_hkrul_boendalf_special_1_6	Honour-Bound	true
+character_skills_localised_description_hkrul_boendalf_special_1_0	A fine face is no protection against steel, though it makes the resulting scars more memorable.	true
+character_skills_localised_description_hkrul_boendalf_special_1_1	The sea, the cold and endless war have bred little softness into the Sarls.	true
+character_skills_localised_description_hkrul_boendalf_special_1_2	"I stand where my lord commands, and no enemy shall move me."	true
+character_skills_localised_description_hkrul_boendalf_special_1_3	When lesser warriors look for courage, they find Broendulf already advancing.	true
+character_skills_localised_description_hkrul_boendalf_special_1_4	The Jarl's right hand is also his shield. Any blade meant for Viglundr must first find its way past Broendulf.	true
+character_skills_localised_description_hkrul_boendalf_special_1_5	There is nothing graceful about killing, but Broendulf makes a respectable attempt.	true
+character_skills_localised_description_hkrul_boendalf_special_1_6	Where the Jarl's authority is questioned, his captain provides an eloquent answer.	true
+agent_subtypes_description_text_override_hkrul_boendalf	The Jarl sleeps soundly because Broendulf and his Huscarls do not.	false
+agent_subtypes_onscreen_name_override_hkrul_boendalf	Legendary Hero	false
+unit_abilities_onscreen_name_hkrul_boendalf_shield_pas	Shields Raised!	true
+unit_description_short_texts_text_hkrul_boendalf	Sharp of wit and mighty of arm, Broendulf guards the honour of the Sarls with axe, shield and cutting tongue.	false
+names_name_2610711834	Broendulf	false
+names_name_2610711833	the Fair	false
+land_units_onscreen_name_hkrul_boendalf	Broendulf the Fair	true
+character_skills_localised_name_hkrul_boendalf_special_0_1	Pride Tempered by Shame	true
+character_skills_localised_name_hkrul_boendalf_special_0_2	Fair and Fierce	true
+character_skills_localised_description_hkrul_boendalf_special_0_1	Pride drove Broendulf to his greatest deeds, and shame taught him his hardest lessons. Both have left their mark.	true
+character_skills_localised_description_hkrul_boendalf_special_0_2	"Look as long as you like. You will remember the face when the axe falls."	true
+effects_description_hkrul_boendalf_helm	Passive Ability: "Oseberg's Bulwark"	false
+effects_description_hkrul_boendalf_shield	Passive Ability: "Skjaldborg"	false
+effects_description_hkrul_boendulf_horn	Ability: "Sarl War-Horn"	false
+effects_description_hkrul_boendalf_sword	Ability: "Havthrymr"	false
+unit_abilities_tooltip_text_hkrul_boendalf_shield_pas	Having commanded the most staunch of shieldwalls, Geimdall knows timing is everything when it comes to raising those shields.	true
+unit_abilities_onscreen_name_hkrul_boendalf_sword	Viglundr's Oathblade	true
+unit_abilities_tooltip_text_hkrul_boendalf_sword	Carried in defence of Viglundr's hall, this broad Sarl blade has answered countless challenges to its master's honour.	true
+unit_abilities_tooltip_text_hkrul_boendulf_horn	The mournful blast of Broendulf's war-horn carries far across the battlefield, warning the foe that the sons and daughters of the Sarl are upon them.	true
+unit_abilities_onscreen_name_hkrul_boendulf_horn	Sarl War-Horn	true
+unit_abilities_onscreen_name_hkrul_boendalf_helm	Oseberg's Bulwark	true
+unit_abilities_tooltip_text_hkrul_boendalf_helm	The finest Huscarl from the legendary settlement of Oseberg rallies at the thought of timeless battle, hardening his resolve at every blow delt and recieved.	true
+unit_abilities_onscreen_name_hkrul_boendulf_shield	Skjaldborg	true
+effects_description_hkrul_boendalf_shield_pas	Passive Ability: "Shields Raised!"	false
+unit_abilities_tooltip_text_hkrul_boendulf_shield	Many have tested Broendulf's guard. Their weapons bear the scars of those encounters; his shield bears considerably fewer.	true
+ancillaries_onscreen_name_hkrul_boendalf_sword	Viglundr's Oathblade	false
+ancillaries_colour_text_hkrul_boendalf_sword	Upon this blade Broendulf swore himself to Viglundr's service, binding his honour, blood and steel to the fortunes of his Jarl. So long as Broendulf draws breath, the oath endures, and the blade shall answer any who threaten his lord.	false
+ancillaries_explanation_text_hkrul_boendalf_sword		false
+unit_description_historical_texts_text_hkrul_boendalf	Tall and fair-haired even by the standards of his people, Broendulf earned his place amongst Viglundr's household warriors through deeds rather than appearance. The captain of the Jarl's guard must be more than a killer, for upon him rests the safety of his lord, his household and the honour of the hall itself. Broendulf proved equal to that burden. Though capable of meeting the fiercest warrior blade-to-blade, his greatest weapon may be the quick intelligence lurking behind his warrior's temper. His tongue is notoriously sharp, his pride easily stirred and his courage unquestioned. In the sagas of the Sarl, these are qualities from which both heroes and tragedies are fashioned.	false
+land_units_onscreen_name_hkrul_boendalf_horse	Broendulf the Fair	true
+ancillaries_onscreen_name_hkrul_boendulf_shield	Skjaldborg	false
+ancillaries_colour_text_hkrul_boendalf_shield	A broad shield of ancient Sarl make, Skjaldborg is fashioned from thick northern timber, bound in iron and marked by the blows of countless foes. It has served Broendulf through long years of war, from bloody raids upon foreign shores to the bitter feuds of Norsca. More than once its timbers have been split by axe or shattered by monstrous strength, only for Broendulf to have them bound anew rather than surrender a shield that has never failed him. Among the Sarls, Skjaldborg has become synonymous with the Huscarl himself; when its battered face takes its place in the shieldwall, warriors know that Broendulf intends for that wall to hold.	false
+ancillaries_explanation_text_hkrul_boendalf_shield		false
+character_skills_localised_name_hkrul_boendalf_mount_norscan_warhorse	Huscarl Warhorse	true
+character_skills_localised_description_hkrul_boendalf_mount_norscan_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_boendalf_norscan_warhorse	Norscan Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_boendalf_norscan_warhorse	Bred on the windswept plains of the north, the warhorses of Norsca are as ill-tempered and hardy as the warriors who ride them.	true
+ancillaries_explanation_text_hkrul_anc_mount_boendalf_norscan_warhorse		true
+character_skills_localised_name_hkrul_boendalf_mount_marauder_chariot	Marauder Chariot	true
+character_skills_localised_description_hkrul_boendalf_mount_marauder_chariot	A crude war-chariot of timber, iron and bone, drawn by a pair of half-wild Norscan horses that care little for what lies beneath their hooves.	true
+ancillaries_onscreen_name_hkrul_anc_mount_boendalf_marauder_chariot	Marauder Chariot	true
+ancillaries_colour_text_hkrul_anc_mount_boendalf_marauder_chariot	A crude war-chariot of timber, iron and bone, drawn by a pair of half-wild Norscan horses that care little for what lies beneath their hooves.	true
+ancillaries_explanation_text_hkrul_anc_mount_boendalf_marauder_chariot		true
+effects_description_hkrul_effect_force_stat_melee_defence_boendalf_shieldwall	Melee defence: %+n for Marauder Bondsmen and Marauder Spearmen units	true
+effects_description_hkrul_effect_force_stat_leadership_boendalf_shieldwall	Leadership: %+n for Marauder Bondsmen and Marauder Spearmen units	true
+effects_description_hkrul_effect_force_stat_armour_boendalf_shieldwall	Armour: %+n for Marauder Bondsmen and Marauder Spearmen units	true
+effects_description_hkrul_effect_force_stat_vigour_loss_reduction_boendalf_shieldwall	Vigour loss reduction: %+n% for Marauder Bondsmen and Marauder Spearmen units	true
+effects_description_hkrul_effect_attribute_enable_charge_defence_boendalf_shieldwall	Attribute: Charge Defence vs Large for Marauder Bondsmen and Marauder Spearmen units	true
+ancillaries_colour_text_hkrul_boendulf_shield	A broad shield of ancient Sarl make, Skjaldborg is fashioned from thick northern timber, bound in iron and marked by the blows of countless foes. It has served Broendulf through long years of war, from bloody raids upon foreign shores to the bitter feuds of Norsca. More than once its timbers have been split by axe or shattered by monstrous strength, only for Broendulf to have them bound anew rather than surrender a shield that has never failed him. Among the Sarls, Skjaldborg has become synonymous with the Huscarl himself; when its battered face takes its place in the shieldwall, warriors know that Broendulf intends for that wall to hold.	true
+ancillaries_explanation_text_hkrul_boendulf_shield		true
+effects_description_hkrul_boendulf_shield	Passive Ability: "Skjaldborg"	true

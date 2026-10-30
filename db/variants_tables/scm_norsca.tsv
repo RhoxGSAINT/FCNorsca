@@ -22,3 +22,9 @@ hkrul_godi		hkrul_godi		1.0000	0.8200	0.0500
 hkrul_norsca_artillerymen		hkrul_norsca_artillerymen		1.0000	1.0000	0.0000	
 hkrul_nor_marauder_bondsmen		nor_bondsmen		1.0000	0.9500	0.0500	
 hkrul_nor_marauder_bondsmen_greatweapons		nor_bondsmen_2haxe		1.0000	0.9500	0.0500	
+hkrul_huscarl_horseriders_swords		hkrul_huscarl_horseriders_swords		1.0000	1.0000	0.0500	
+hkrul_huscarl_horseriders_spears		hkrul_huscarl_horseriders_spears		1.0000	1.0000	0.0500	
+hkrul_huscarl_horseriders_ror		hkrul_huscarl_horseriders_ror		1.0000	1.0000	0.0500	
+hkrul_huscarl_horse	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	hkrul_huscarl_horse		1.0850	1.0850	0.0500	
+hkrul_huscarl_horse_lord	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	hkrul_huscarl_horse		1.1500	1.1500	0.0500	
+hkrul_huscarl_horse_campaign	VariantMeshes\wh_variantmodels\hr1\emp\emp_warbeast_horse\tech	hkrul_huscarl_horse		1.0000	1.0000	0.0000	

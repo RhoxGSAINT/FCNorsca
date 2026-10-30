@@ -15,6 +15,11 @@ local rhox_fc_norsca_unlockable_ror_list={
         init_faction="mixer_nor_geimdall_huscarls",
         agent_subtype="hkrul_geimdall",
     },
+    hkrul_nor_cav_huscarl_horseriders_ror={
+        culture="wh_dlc08_nor_norsca",
+        init_faction="mixer_nor_geimdall_huscarls",
+        agent_subtype="hkrul_geimdall",        
+    },
     nor_longship_ror={
         culture="wh_dlc08_nor_norsca",
         init_faction="wh_main_nor_bjornling",

@@ -73,8 +73,8 @@ units_custom_battle_mounts_localised_description_hkrul_ulfrichkrul_ulfric_horse	
 units_custom_battle_mounts_mount_name_hkrul_ulfrichkrul_ulfric_horse	Norscan Warhorse	false
 units_custom_battle_mounts_localised_description_hkrul_ulfrichkrul_ulfric_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
 units_custom_battle_mounts_mount_name_hkrul_ulfrichkrul_ulfric_chariot	Marauder Chariot	false
-character_skills_localised_description_hkrul_ulfric_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
-character_skills_localised_name_hkrul_ulfric_horse	Norscan Warhorse	false
+character_skills_localised_description_hkrul_ulfric_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	false
+character_skills_localised_name_hkrul_ulfric_horse	Huscarl Warhorse	false
 character_skills_localised_description_hkrul_ulfric_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
 character_skills_localised_name_hkrul_ulfric_chariot	Marauder Chariot	false
 ancillaries_colour_text_hkrul_ulfric_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
@@ -100,6 +100,7 @@ land_units_onscreen_name_rhox_bjornling_huscarl	Bjornling Huscarls	false
 land_units_onscreen_name_rhox_bjornling_huscarl_ror	Haraldur’s Huscarls (Huscarls)	false
 unit_description_short_texts_text_hkrul_huscarl	The elite household troops of the Norscan Jarls and High Kings. Their ranks are comprised of the finest warriors Eldagrimm has to offer.	false
 unit_description_short_texts_text_hkrul_huscarl_ror	Veterans of feast and fury, bonded in blood and shieldwall alike. When they march, old war-songs rise with them.	false
+campaign_localised_strings_string_hkrul_nor_cav_huscarl_horseriders_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Geimdall's Huscarls or have High Jarl Geimdall in your faction[[/col]]	false
 campaign_localised_strings_string_rhox_bjornling_huscarl_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Geimdall's Huscarls or have High Jarl Geimdall in your faction[[/col]]	false
 campaign_localised_strings_string_hkrul_norsca_harpoon_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling or have Ulfric Grondall in your faction[[/col]]	false
 unit_abilities_onscreen_name_rhox_huscarl_shield_wall	Shield Wall	false

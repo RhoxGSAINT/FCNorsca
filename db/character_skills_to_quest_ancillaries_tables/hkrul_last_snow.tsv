@@ -1,0 +1,5 @@
+ancillary	skill	use_quest_for_prefix
+#character_skills_to_quest_ancillaries_tables;1;db/character_skills_to_quest_ancillaries_tables/hkrul_last_snow		
+hkrul_boendalf_sword	hkrul_boendalf_sword	true
+hkrul_hjordis_spear	hkrul_hjordis_spear	true
+hkrul_boendulf_shield	hkrul_boendalf_shield	true

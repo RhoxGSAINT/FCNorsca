@@ -1,0 +1,4 @@
+character_name	character_level	forename	magic_lore	num_men	surname	unit_type	agent_type	agent_subtype	portrait	character_model	skillset	male
+#battle_set_piece_armies_characters_tables;8;db/battle_set_piece_armies_characters_tables/hkrul_last_snow												
+hkrul_hjordis	1	2610711451		100	2610711450	hkrul_hjordis	champion	hkrul_hjordis	ui/portraits/portholes/no_culture/hkrul_hjordis.png	166775936		true
+hkrul_boendalf	1	2610711834		100	2610711833	hkrul_boendalf	champion	hkrul_boendalf	ui/portraits/portholes/no_culture/hkrul_broendulf.png	166775937		true

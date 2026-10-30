@@ -1,0 +1,6 @@
+key	max_indent	min_indent	order	agent_subtype_override	col_hex
+#character_skill_categories_tables;2;db/character_skill_categories_tables/hkrul_last_snow					
+hkrul_hjordis_line1	0	0	1	hkrul_hjordis	00557F
+hkrul_hjordis_line2	1	1	1	hkrul_hjordis	AAAA7F
+hkrul_boendalf_line1	0	0	1	hkrul_boendalf	00007F
+hkrul_boendalf_line2	1	1	1	hkrul_boendalf	AAAA7F

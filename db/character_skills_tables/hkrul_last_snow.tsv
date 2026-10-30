@@ -1,0 +1,29 @@
+key	image_path	localised_description	localised_name	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting	influence_cost
+#character_skills_tables;5;db/character_skills_tables/hkrul_last_snow									
+innate_hkrul_hjordis	innate_hkrul_birna.png			0	true	false	false	100.0000	0
+hkrul_hjordis_special_1_0	hkrul_hjordis_special_1_0.png			0	false	false	false	0.0000	0
+hkrul_hjordis_special_1_1	battle_ammo.png			0	false	false	false	0.0000	0
+hkrul_hjordis_special_1_2	battle_ranged_damage.png			0	false	false	false	0.0000	0
+hkrul_hjordis_special_1_3	character_attack.png			0	false	false	false	0.0000	0
+hkrul_hjordis_special_1_4	character_morale.png			0	false	false	false	0.0000	0
+hkrul_hjordis_special_1_5	character_bonus_vs_large.png			0	false	false	false	0.0000	0
+hkrul_hjordis_special_1_6	immune_to_psychology.png			0	false	false	false	0.0000	0
+hkrul_hjordis_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+innate_hkrul_boendalf	innate_hkrul_birna.png			0	true	false	false	100.0000	0
+hkrul_boendalf_special_1_0	hkrul_boendalf_special_1_0.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_1_1	battle_defence.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_1_2	character_defence.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_1_3	battle_morale.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_1_4	character_general_ability.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_1_5	character_attack.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_1_6	character_ward_save.png			0	false	false	false	0.0000	0
+hkrul_boendalf_agent_actions	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_0_1	character_health.png			0	false	false	false	0.0000	0
+hkrul_boendalf_special_0_2	character_armour.png			0	false	false	false	0.0000	0
+hkrul_boendalf_sword	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_hjordis_spear	mount_barded_warhorse.png			0	false	false	false	0.0000	0
+hkrul_hjordis_mount_norscan_warhorse	mount_warhorse.png	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	Huscarl Warhorse	4	false	false	false	0.0000	0
+hkrul_hjordis_mount_marauder_chariot	mount_chaos_chariot.png	A crude war-chariot of timber, iron and bone, drawn by a pair of half-wild Norscan horses that care little for what lies beneath their hooves.	Marauder Chariot	9	false	false	false	0.0000	0
+hkrul_boendalf_mount_norscan_warhorse	mount_warhorse.png	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	Huscarl Warhorse	4	false	false	false	0.0000	0
+hkrul_boendalf_mount_marauder_chariot	mount_chaos_chariot.png	A crude war-chariot of timber, iron and bone, drawn by a pair of half-wild Norscan horses that care little for what lies beneath their hooves.	Marauder Chariot	9	false	false	false	0.0000	0
+hkrul_boendalf_shield	mount_barded_warhorse.png			0	false	false	false	0.0000	0

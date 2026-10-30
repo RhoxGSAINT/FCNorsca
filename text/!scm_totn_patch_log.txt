@@ -1,9 +1,39 @@
-2026/SEPT/28 SCM
-- Changed "wh3_main_regiments_of_renown_pool" into "wh3_main_regiments_of_renown_pool" to make it count towards the renown cap in the army
--- Which would also fix God aligned RoR unlocking
-- blocked neutral and non-Nurgle dedicated Norsca from getting the Gutrot
--- If player is that faction, script in our code will give Gutrot to the other AI 
+2026/OCT/30
+- Finished 3 additional huscarl horse who replace Kurgan units for certain factions
+- Nerfed Einarr's barrier hitpoints
+- Fixed an issue with Einarr's bear campaign animation
+- Added several norsca lords to the chaos invasion end game scenario
 
+2026/OCT/20 SCM
+- Added new campaign animations for Einarr to prevent the Aekold VFX from showing
+- Added three new units for neutral factions - Huskarl horsebackriders with 2 variants and 1 RoR
+- Added a new battle entity to prevent the vanilla bug that gives vfx to hu1c horseriders from happening
+
+2026/OCT/11 SCM
+- Fixed the issue of non-dedicated Norscan human players from this mod not getting Beorg
+- Removed the neutral guys (Bjornling, Huscarl) from Archaon crisis's confederation member, now they will stand against Chaos in this crisis.
+- Now all Norscan guys get access to the Styrkaar except for non-Slaanesh mono gods and neutral factions. (Yusak already had access to it btw)
+- Now confederation buffs are capped to 10 confederation since Archaon comes with confederating 150 of the factions (You need to pass a turn to take effect)
+
+2026/OCT/1 HKrul
+- Added two heroes (will be used for quest battle later)
+- Added 3 new units (Hidden for now, not finished)
+- Buffed Haraldur's armour by 10
+- Buffed Geimdall WS and MA
+- Rebalanced several faction leader MA and MD stats
+
+2026/SEP/29 SCM
+- fixed the issue of Bear and ice golem, bloodfjord Khorne guys not showing up in the panel due to 9.0 update
+
+2026/SEPT/28 SCM-2
+- Fixed the Beorg part in the script as I made a mistake
+
+2026/SEPT/28 SCM
+- Changed "renown" into "wh3_main_regiments_of_renown_pool" to make it count towards the renown cap in the army
+-- Fixed the issue of RoR removing for neutral and god dedicated not working
+- blocked neutral and non-Nurgle dedicated Norsca from getting the Gutrot
+-- If all players are that faction, script in our code will give Gutrot to the other applicable AI 
+- Added Boris Fervor point to Wolftribe camp
 
 2026/SEPT/26
 - Added new RoR nodes to all legendary and generic lords

@@ -16,3 +16,7 @@ unyielding_assault	hkrul_tuula_mark	positive
 unbreakable	hkrul_dalla_rally	positive
 cannot_die	hkrul_dalla_shield	positive
 unbreakable	hkrul_dalla_shield	positive
+charge_defense	hkrul_boendulf_horn	negative
+charge_reflection	hkrul_boendulf_horn	negative
+charge_defense_vs_large	hkrul_boendulf_horn	negative
+charge_reflection	hkrul_boendulf_shield	positive

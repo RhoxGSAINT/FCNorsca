@@ -1,0 +1,6 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_last_snow					
+hkrul_hjordis_time		0		campaign	true
+hkrul_boendulf_horn	item_ability.png	300	item_ability.png	battle	true
+hkrul_hjordis_aura	item_ability.png	300	item_ability.png	battle	true
+hkrul_boendulf_shield	item_ability.png	300	item_ability.png	battle	true

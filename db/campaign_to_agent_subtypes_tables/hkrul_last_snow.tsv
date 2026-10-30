@@ -1,0 +1,8 @@
+agent_subtype	campaign_type
+#campaign_to_agent_subtypes_tables;0;db/campaign_to_agent_subtypes_tables/hkrul_last_snow	
+hkrul_hjordis	wh3_main_combi
+hkrul_hjordis	cr_combi_expanded
+hkrul_hjordis	cr_oldworld
+hkrul_boendalf	wh3_main_combi
+hkrul_boendalf	cr_combi_expanded
+hkrul_boendalf	cr_oldworld

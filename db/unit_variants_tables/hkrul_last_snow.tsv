@@ -1,0 +1,8 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/hkrul_last_snow				
+	hkrul_hjordis	hkrul_hjordis	hkrul_hjordis	hkrul_hjordis
+	hkrul_hjordis_chariot	hkrul_hjordis	hkrul_hjordis	hkrul_hjordis
+	hkrul_hjordis_horse	hkrul_hjordis	hkrul_hjordis	hkrul_hjordis
+	hkrul_boendalf	hkrul_boendalf	hkrul_boendalf	hkrul_broendulf
+	hkrul_boendalf_horse	hkrul_boendalf	hkrul_boendalf	hkrul_broendulf
+	hkrul_boendalf_chariot	hkrul_boendalf	hkrul_boendalf	hkrul_broendulf

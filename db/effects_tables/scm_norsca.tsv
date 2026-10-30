@@ -17,3 +17,13 @@ hkrul_norsca_helmet_3	item_ability.png	300	item_ability.png	battle	true
 hkrul_norsca_shield_3	item_ability.png	300	item_ability.png	battle	true
 hkrul_norsca_axe_4	item_ability.png	300	item_ability.png	battle	true
 hkrul_norsca_axe_5	item_ability.png	300	item_ability.png	battle	true
+hkrul_huscarl_horseriders_unit_passive_oathbound_riders	item_ability.png	23	item_ability.png	battle	true
+hkrul_effect_unit_cap_huscarl_horseriders	unit_capacity.png	1	unit_capacity.png	campaign	true
+hkrul_effect_upkeep_reduction_huscarl_horseriders	military_spending.png	105	military_spending.png	campaign	false
+hkrul_effect_force_stat_charge_bonus_huscarl_horseriders	charge.png	501	charge.png	battle	true
+hkrul_effect_force_stat_speed_huscarl_horseriders	battle_movement.png	421	battle_movement.png	battle	true
+hkrul_effect_force_stat_mass_huscarl_horseriders	mass.png	430	mass.png	battle	true
+hkrul_effect_force_stat_melee_defence_huscarl_horseriders	defence.png	451	defence.png	battle	true
+hkrul_effect_force_stat_bonus_vs_large_huscarl_horseriders_spears	bonus_vs_large.png	461	bonus_vs_large.png	battle	true
+hkrul_effect_force_stat_bonus_vs_infantry_huscarl_horseriders_swords_rank7	bonus_vs_small.png	482	bonus_vs_small.png	battle	true
+hkrul_effect_enable_mount_huscarl_warhorse	mount.png	50	mount.png	both	true

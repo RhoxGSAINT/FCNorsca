@@ -1,0 +1,7 @@
+unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
+#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_hjordis					
+			wh_dlc08_nor_inf_marauder_hunters_1	hkrul_hjordis_hunters	false
+			rhox_kurgan_javelin	hkrul_hjordis_hunters	false
+			hkrul_norsca_whalers	hkrul_hjordis_hunters	false
+			hkrul_sarl_hunters	hkrul_hjordis_hunters	false
+			hkrul_sarl_hunters_ror	hkrul_hjordis_hunters	false

@@ -1,0 +1,6 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\broendulf\sword1bleak.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\broendulf/materials/swordie_rigid_alpha_on.xml.material</material>
+	</materials>
+</model>

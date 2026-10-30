@@ -97,3 +97,4 @@ hkrul_summon_bear	true	hkrul_summon_bearfang		wh_type_augment		wh_main_anc_group
 hkrul_summon_bear_dummy	true	hkrul_summon_bearfang		wh_type_augment		wh_main_anc_group_rare	false	true	unit		true
 hkrul_summon_ymir	true	hkrul_ymir_spawn		wh_type_augment		wh_main_anc_group_rare	true	false	unit		false
 hkrul_summon_ymir_dummy	true	hkrul_ymir_spawn		wh_type_augment		wh_main_anc_group_rare	false	true	unit		true
+hkrul_huscarl_horseriders_unit_passive_oathbound_riders	false	hkrul_huskarl_oathbound		wh_type_augment		wh_main_anc_group_rare	false	false	passive		false

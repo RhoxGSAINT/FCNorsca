@@ -83,9 +83,9 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
             cm:force_declare_war("wh_dlc08_nor_vanaheimlings", "cr_emp_cult_of_ulric", false, false)
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"dead_drenok_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"dead_drenok_ice_bears")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"dead_drenok_greater_ice_golem")
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -200,7 +200,9 @@ local rhox_faction_list={
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
-		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
+		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)            
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_hjordis", faction:faction_leader():command_queue_index(), true)
+            cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_boendalf", faction:faction_leader():command_queue_index(), true)
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -358,9 +360,9 @@ local rhox_faction_list={
         pic=800,
         faction_trait="rhox_beorg_faction_trait",
         additional = function(faction, faction_key) 
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_brown_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_brown_feral_marked")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_ice_feral")
             
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock") 
@@ -377,7 +379,7 @@ local rhox_faction_list={
     mixer_nor_geimdall_huscarls = {
     leader = {
         subtype = "hkrul_geimdall",
-        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,rhox_bjornling_maneater,hkrul_norsca_whalers,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+        unit_list = "wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,rhox_bjornling_maneater,hkrul_norsca_whalers,hkrul_nor_cav_huscarl_horseriders_ror,wh_dlc08_nor_mon_warwolves_0",
         forename = "names_name_7610711834",
         familiyname = "names_name_7610711833",  -- Fixed typo
     },

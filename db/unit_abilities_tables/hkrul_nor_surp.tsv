@@ -37,3 +37,5 @@ hkrul_tuula_mark	true	hkrul_tuula_bound		wh_type_augment		wh_main_anc_group_rare
 hkrul_dalla_shield	true	hkrul_dalla_shield		wh_type_augment		wh_main_anc_group_unique	true	false	active		false
 hkrul_shieldmaiden_shield	true	hkrul_shieldmaiden_shield		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_dalla_sword	true	hkrul_dalla_sword		wh_type_breath		wh_main_anc_group_unique	true	false	active		false
+hkrul_hjordis_aura	true	hkrul_hjordis_aura		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false
+hkrul_boendulf_shield	true	hkrul_boendulf_shield		wh_type_augment		wh_main_anc_group_rare	true	false	passive		false

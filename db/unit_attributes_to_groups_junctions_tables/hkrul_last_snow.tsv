@@ -1,0 +1,6 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/hkrul_last_snow	
+hide_forest	hkrul_hjordis
+charge_defense	hkrul_hjordis
+hide_forest	hkrul_boendalf
+charge_defense	hkrul_boendalf

@@ -67,3 +67,4 @@ hkrul_haraldur_killshot	item_ability.png	300	item_ability.png	battle	true
 hkrul_baersonling_teleport	magic_character.png	300	magic_character.png	campaign	true
 hkrul_shieldmaidens_armour	armour.png	154	armour.png	battle	true
 hkrul_shieldmaidens_melee_attack	melee.png	155	melee.png	battle	true
+hkrul_hjordis_spear	item_ability.png	300	item_ability.png	battle	true

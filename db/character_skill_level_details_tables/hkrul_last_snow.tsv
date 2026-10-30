@@ -1,0 +1,10 @@
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;1;db/character_skill_level_details_tables/hkrul_last_snow						
+		1	hkrul_hjordis_special_1_0		x	9
+		1	hkrul_boendalf_special_1_0		x	9
+		1	hkrul_boendalf_special_0_1		x	6
+		1	hkrul_boendalf_special_0_2		x	15
+		1	hkrul_hjordis_mount_norscan_warhorse		x	4
+		1	hkrul_hjordis_mount_marauder_chariot		x	9
+		1	hkrul_boendalf_mount_norscan_warhorse		x	4
+		1	hkrul_boendalf_mount_marauder_chariot		x	9

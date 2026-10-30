@@ -1,0 +1,5 @@
+agent_subtype	ancillary	rank	instant	is_quest_battle
+#character_ancillary_quest_ui_details_tables;2;db/character_ancillary_quest_ui_details_tables/hkrul_last_snow				
+hkrul_boendalf	hkrul_boendalf_sword	9	true	false
+hkrul_hjordis	hkrul_hjordis_spear	11	true	false
+hkrul_boendalf	hkrul_boendulf_shield	13	true	false

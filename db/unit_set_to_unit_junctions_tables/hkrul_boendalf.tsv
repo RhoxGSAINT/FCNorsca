@@ -1,0 +1,6 @@
+unit_caste	unit_category	unit_class	unit_record	unit_set	exclude
+#unit_set_to_unit_junctions_tables;1;db/unit_set_to_unit_junctions_tables/hkrul_boendalf					
+			hkrul_nor_marauder_bondsmen	hkrul_boendalf_shieldwall	false
+			hkrul_nor_marauder_bondsmen_greatweapons	hkrul_boendalf_shieldwall	false
+			wh_dlc08_nor_inf_marauder_spearman_0	hkrul_boendalf_shieldwall	false
+			rhox_kurgan_spearman	hkrul_boendalf_shieldwall	false

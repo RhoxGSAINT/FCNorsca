@@ -1,0 +1,15 @@
+<TRIGGER_FILE hidden="false" id="{ce7a802b-3443-4f87-8d5e-eb6de9e20c02}" version="27">
+ <STRING hidden="false" order="0" name="Timeline" id="{7f113707-44eb-415c-997f-44d9529aee78}">
+  <KEYFRAME time="2" data="hkrul_geimdall_intro_line_01"/>
+  <KEYFRAME time="7.5" data="hkrul_geimdall_intro_line_01_hide"/>
+  <KEYFRAME time="8" data="hkrul_geimdall_intro_line_02"/>
+  <KEYFRAME time="12.5" data="hkrul_geimdall_intro_line_02_hide"/>
+  <KEYFRAME time="13.75" data="hkrul_geimdall_intro_line_03"/>
+  <KEYFRAME time="18.75" data="hkrul_geimdall_intro_line_03_hide"/>
+  <KEYFRAME time="19.5" data="hkrul_geimdall_intro_line_04"/>
+  <KEYFRAME time="23.5" data="hkrul_geimdall_intro_line_04_hide"/>
+  <KEYFRAME time="25.5" data="hkrul_geimdall_intro_line_05"/>
+  <KEYFRAME time="31" data="hkrul_geimdall_intro_line_05_hide"/>
+  <KEYFRAME time="32.5" data="end_cinematic"/>
+ </STRING>
+</TRIGGER_FILE>

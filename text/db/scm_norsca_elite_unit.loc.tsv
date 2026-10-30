@@ -53,3 +53,64 @@ character_skills_localised_name_rhox_adella_elite	Loyal to the Wanderer	false
 land_units_onscreen_name_hkrul_boartusk_mammoth_ror	Tuskling of Mogwrath (Feral Mammoth)	false
 unit_description_short_texts_text_hkrul_boartusk_mammoth_ror	The last of a cursed litter, raised on the flesh of drowned warhounds.	false
 unit_description_historical_texts_text_hkrul_boartusk_mammoth_ror	The last of a cursed litter, raised on the flesh of drowned warhounds.	false
+land_units_onscreen_name_hkrul_nor_cav_huscarl_horseriders_0	Huscarl Horseriders (Swords & Shields)	true
+land_units_concealed_name_hkrul_nor_cav_huscarl_horseriders_0		true
+land_units_onscreen_name_hkrul_nor_cav_huscarl_horseriders_1	Huscarl Horseriders (Spears & Shields)	true
+land_units_concealed_name_hkrul_nor_cav_huscarl_horseriders_1		true
+land_units_onscreen_name_hkrul_nor_cav_huscarl_horseriders_ror	The Ring-Sworn (Huscarl Horseriders)	true
+land_units_concealed_name_hkrul_nor_cav_huscarl_horseriders_ror		true
+effects_description_hkrul_huscarl_horseriders_unit_passive_oathbound_riders	Ability: ''Oathbound Riders''	true
+unit_abilities_onscreen_name_hkrul_huscarl_horseriders_unit_passive_oathbound_riders	Oathbound Riders	true
+unit_abilities_tooltip_text_hkrul_huscarl_horseriders_unit_passive_oathbound_riders	An oath sworn upon the ring is not broken by fear or wounds. Once the Ring-Sworn are locked in combat, they hold their ground beside their Jarl.	true
+special_ability_phases_onscreen_name_hkrul_huscarl_horseriders_unit_passive_oathbound_riders	Oathbound Riders	true
+unit_description_short_texts_text_hkrul_nor_cav_huscarl_horseriders_0	Mounted Huscarls of a Norscan jarl's household, armoured in mail and bearing the broad shields of the longhall.	true
+unit_description_historical_texts_text_hkrul_nor_cav_huscarl_horseriders_0	When a jarl rides to war, the best of his Huscarls ride beside him. Chosen from the hardest fighters of the hall and bound to their lord by oath and gold, they do not harry and skirmish like the Marauder Horsemen of the tribes. They strike as one, crash into the enemy flank behind a wall of shields and stay there, cutting down the foot soldiers who break before them.	true
+unit_description_short_texts_text_hkrul_nor_cav_huscarl_horseriders_1	Mounted Huscarls armed with heavy spears, the household riders a jarl sends against beasts, monsters and enemy cavalry.	true
+unit_description_historical_texts_text_hkrul_nor_cav_huscarl_horseriders_1	Norsca breeds monsters as readily as men, and a jarl who cannot face both does not rule for long. His spear-armed Huscarls are trained to meet the charge of trolls, giants and armoured knights, setting their spears and their shields together so that the largest foe impales itself upon them. Well armoured and fiercely loyal, they are as much a bodyguard as a weapon.	true
+unit_description_short_texts_text_hkrul_nor_cav_huscarl_horseriders_ror	Huscarls sworn upon their jarl's oath-ring, who will not leave the field while he still stands.	true
+unit_description_historical_texts_text_hkrul_nor_cav_huscarl_horseriders_ror	Among the northern tribes an oath sworn upon the temple ring binds a warrior until death and, the skalds say, beyond it. The Ring-Sworn are Huscarls who have given that oath to their jarl in front of the gods and the hall. They ride with spears and shields like their kin, yet they fight with the stubbornness of men who have already promised their lives, and in the press of melee they grow harder to break with every blow they trade.	true
+effects_description_hkrul_effect_unit_cap_huscarl_horseriders	Unit capacity: %+n\\nHuscarl Horseriders (Swords & Shields)\\nHuscarl Horseriders (Spears & Shields)	false
+effects_description_hkrul_effect_upkeep_reduction_huscarl_horseriders	Upkeep: %+n% for Huscarl Horseriders and The Ring-Sworn units	false
+effects_description_hkrul_effect_force_stat_charge_bonus_huscarl_horseriders	Charge bonus: %+n for Huscarl Horseriders and The Ring-Sworn units	false
+effects_description_hkrul_effect_force_stat_speed_huscarl_horseriders	Speed: %+n% for Huscarl Horseriders and The Ring-Sworn units	false
+effects_description_hkrul_effect_force_stat_mass_huscarl_horseriders	Unit mass: %+n% for Huscarl Horseriders and The Ring-Sworn units	false
+effects_description_hkrul_effect_force_stat_melee_defence_huscarl_horseriders	Melee defence: %+n for Huscarl Horseriders and The Ring-Sworn units	false
+effects_description_hkrul_effect_force_stat_bonus_vs_large_huscarl_horseriders_spears	Bonus vs Large: %+n for Huscarl Horseriders (Spears & Shields) and The Ring-Sworn units	false
+effects_description_hkrul_effect_force_stat_bonus_vs_infantry_huscarl_horseriders_swords_rank7	Bonus vs Infantry: %+n for Huscarl Horseriders (Swords & Shields) units {{tr:rank7}}	false
+effects_description_hkrul_effect_enable_mount_huscarl_warhorse	Mount: Huscarl Warhorse	false
+ancillaries_onscreen_name_hkrul_anc_mount_hjordis_huscarl_warhorse	Huscarl Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_hjordis_huscarl_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_explanation_text_hkrul_anc_mount_hjordis_huscarl_warhorse		true
+land_units_onscreen_name_hkrul_hjordis_huscarl_horse	Hjordis the Sarl	true
+units_custom_battle_mounts_mount_name_hkrul_hjordishkrul_hjordis_huscarl_horse	Huscarl Warhorse	true
+units_custom_battle_mounts_localised_description_hkrul_hjordishkrul_hjordis_huscarl_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_boendalf_huscarl_warhorse	Huscarl Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_boendalf_huscarl_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_explanation_text_hkrul_anc_mount_boendalf_huscarl_warhorse		true
+land_units_onscreen_name_hkrul_boendalf_huscarl_horse	Broendulf the Fair	true
+units_custom_battle_mounts_mount_name_hkrul_boendalfhkrul_boendalf_huscarl_horse	Huscarl Warhorse	true
+units_custom_battle_mounts_localised_description_hkrul_boendalfhkrul_boendalf_huscarl_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_mortensen_huscarl_warhorse	Huscarl Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_mortensen_huscarl_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_explanation_text_hkrul_anc_mount_mortensen_huscarl_warhorse		true
+land_units_onscreen_name_hkrul_mortensen_huscarl_horse	Lars Mortensen	true
+land_units_concealed_name_hkrul_mortensen_huscarl_horse		true
+units_custom_battle_mounts_mount_name_hkrul_mortensenhkrul_mortensen_huscarl_horse	Huscarl Warhorse	true
+units_custom_battle_mounts_localised_description_hkrul_mortensenhkrul_mortensen_huscarl_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_shieldmaiden_huscarl_warhorse	Huscarl Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_shieldmaiden_huscarl_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+land_units_onscreen_name_hkrul_shieldmaiden_huscarl_horse	Shieldmaiden	true
+units_custom_battle_mounts_mount_name_hkrul_shieldmaidenhkrul_shieldmaiden_huscarl_horse	Huscarl Warhorse	true
+units_custom_battle_mounts_localised_description_hkrul_shieldmaidenhkrul_shieldmaiden_huscarl_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_ulfric_huscarl_warhorse	Huscarl Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_ulfric_huscarl_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_explanation_text_hkrul_anc_mount_ulfric_huscarl_warhorse		true
+land_units_onscreen_name_hkrul_ulfric_huscarl_horse	Ulfric Grondal	true
+land_units_concealed_name_hkrul_ulfric_huscarl_horse		true
+units_custom_battle_mounts_mount_name_hkrul_ulfrichkrul_ulfric_huscarl_horse	Huscarl Warhorse	true
+units_custom_battle_mounts_localised_description_hkrul_ulfrichkrul_ulfric_huscarl_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_dalla_huscarl_warhorse	Huscarl Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_dalla_huscarl_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+land_units_onscreen_name_hkrul_dalla_huscarl_horse	Dalla Ulfarsdottir	true
+units_custom_battle_mounts_mount_name_hkrul_dallahkrul_dalla_huscarl_horse	Huscarl Warhorse	true
+units_custom_battle_mounts_localised_description_hkrul_dallahkrul_dalla_huscarl_horse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true

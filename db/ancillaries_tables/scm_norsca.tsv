@@ -54,3 +54,9 @@ hkrul_geimdall_horn	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			fa
 hkrul_oda_spear	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	true	all
 hkrul_hafskael_horse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hafskael_horse		1	0		false	false	true	all
 hkrul_hafskael_chariot	wh_main_anc_mount_chaos_chariot		false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hafskael_chariot		1	0		false	false	true	all
+hkrul_anc_mount_hjordis_huscarl_warhorse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_hjordis_huscarl_horse		35	0		false	false	false	all
+hkrul_anc_mount_boendalf_huscarl_warhorse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_boendalf_huscarl_horse		35	0		false	false	false	all
+hkrul_anc_mount_mortensen_huscarl_warhorse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_mortensen_huscarl_horse		1	0		false	false	true	all
+hkrul_anc_mount_shieldmaiden_huscarl_warhorse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_shieldmaiden_huscarl_horse		1	0		false	false	false	all
+hkrul_anc_mount_ulfric_huscarl_warhorse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_ulfric_huscarl_horse		1	0		false	false	true	all
+hkrul_anc_mount_dalla_huscarl_warhorse	wh_main_anc_mount_warhorse	.	false	false	false	1	0	9999			false	false	false	mount	16	30	30	50	true	hkrul_dalla_huscarl_horse		1	0		false	false	false	all

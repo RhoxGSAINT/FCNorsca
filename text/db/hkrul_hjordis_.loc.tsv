@@ -1,0 +1,66 @@
+key	text	tooltip
+#Loc;1;text/db/hkrul_hjordis_.loc		
+character_skills_localised_name_innate_hkrul_hjordis	Golden Daughter of Sarl	true
+character_skills_localised_description_innate_hkrul_hjordis	Golden-haired and steady of gaze, Hjordis carries the pride of the Sarl into every hall and every hunt.	true
+character_skills_localised_name_hkrul_hjordis_special_1_0	Lithe as the She-Wolf	true
+character_skills_localised_name_hkrul_hjordis_special_1_1	Azure-Eyed	true
+character_skills_localised_name_hkrul_hjordis_special_1_2	Voice of the Hall	true
+character_skills_localised_name_hkrul_hjordis_special_1_3	Daughter of the North	true
+character_skills_localised_name_hkrul_hjordis_special_1_4	No Maiden's Fear	true
+character_skills_localised_name_hkrul_hjordis_special_1_5	She Who Does Not Look Away	true
+character_skills_localised_name_hkrul_hjordis_special_1_6	Heart Unbowed	true
+character_skills_localised_description_hkrul_hjordis_special_1_0	Armour stops the blow. Grace ensures it never lands.	true
+character_skills_localised_description_hkrul_hjordis_special_1_1	Winter teaches endurance to every child fortunate enough to survive it.	true
+character_skills_localised_description_hkrul_hjordis_special_1_2	Warriors fight harder when those awaiting their return expect nothing less.	true
+character_skills_localised_description_hkrul_hjordis_special_1_3	A moment's hesitation is all the opening a practised warrior requires.	true
+character_skills_localised_description_hkrul_hjordis_special_1_4	Survival teaches lessons that no skald can put into verse.	true
+character_skills_localised_description_hkrul_hjordis_special_1_5	Let monsters roar and champions rage. Hjordis shall meet them eye to eye.	true
+character_skills_localised_description_hkrul_hjordis_special_1_6	Rage loses much of its power when the intended victim simply refuses to flinch.	true
+agent_subtypes_onscreen_name_override_hkrul_hjordis	Legendary Hero	false
+agent_subtypes_description_text_override_hkrul_hjordis	Few can hold the gaze of a raging Norscan champion. Hjordis has never been inclined to look away.	false
+unit_description_short_texts_text_hkrul_hjordis	Golden-haired and wolf-clad, Hjordis meets the fury of the north with grace, courage and an unwavering gaze.	false
+names_name_2610711451	Hjordis	false
+names_name_2610711450	the Sarl	false
+land_units_onscreen_name_hkrul_hjordis	Hjordis the Sarl	true
+effects_description_hkrul_hjordis_shield	Passive Ability: "Prayer of the Ursash"	false
+unit_abilities_tooltip_text_hkrul_hjordis_shield	In battle, Lars Mortensen is known to mutter the prayer of the Ursash. A common prayer amongst Olric worshippers, used to ask their deity God to protect Norse farmsteads.	true
+unit_abilities_onscreen_name_hkrul_hjordis_shield	Prayer of the Ursash	true
+effects_description_hkrul_hjordis_time	Local Recruitment duration: %+n turn for all Marauder Champion and Huscarl units	false
+units_custom_battle_mounts_localised_description_hkrul_hjordishkrul_hjordis_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_hjordishkrul_hjordis_horse	Norscan Warhorse	false
+units_custom_battle_mounts_localised_description_hkrul_hjordishkrul_hjordis_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_hjordishkrul_hjordis_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_hjordis_horse	Hjordis the Sarl	true
+land_units_onscreen_name_hkrul_hjordis_chariot	Hjordis the Sarl	true
+unit_description_historical_texts_text_hkrul_hjordis	Among the women of the Sarl, Hjordis was difficult to overlook. Tall and lithe, with golden hair falling in long coils and bright azure eyes, she possessed the beauty celebrated by skalds in countless northern sagas. Yet appearances tell only half a tale in Norsca. Hjordis was no timid hall-maiden content to avert her eyes before warriors and kings. Even when confronted by the fury of Wulfrik himself, she remained steadfast enough to meet his gaze. Such courage is not easily forgotten amongst a people who prize strength above comfort. Beneath the wolfskin and golden hair lies the same stubborn spirit that has carried generations of Sarl warriors across the Sea of Claws.	false
+effects_description_hkrul_hjordis_spear	Ability: "Wolfkiss"	false
+unit_abilities_onscreen_name_hkrul_hjordis_spear	Wolfkiss	true
+unit_abilities_tooltip_text_hkrul_hjordis_spear	The spearhead bears the likeness of a running wolf, its silvered point having delivered the beast's kiss to countless enemies	true
+ancillaries_onscreen_name_hkrul_hjordis_spear	Wolfkiss	false
+ancillaries_colour_text_hkrul_hjordis_spear	The spearhead bears the likeness of a running wolf, its silvered point gleaming between jaws wrought into the socket. Light and perfectly balanced in Hjordis's hands, Wolfkiss strikes with the sudden savagery of its namesake, leaving only blood in the snow before the prey knows the hunt has begun.	false
+ancillaries_explanation_text_hkrul_hjordis_spear		false
+units_custom_battle_mounts_localised_description_hkrul_boendalfhkrul_boendalf_horse	The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.	false
+units_custom_battle_mounts_mount_name_hkrul_boendalfhkrul_boendalf_horse	Norscan Warhorse	false
+effects_description_hkrul_hjordis_aura	Passive Ability: "Cry of the Huntress"	false
+unit_abilities_onscreen_name_hkrul_hjordis_aura	Cry of the Huntress	true
+unit_abilities_tooltip_text_hkrul_hjordis_aura	With a cry that carries above the clash of shields, Hjordis calls her warriors to bring down even the mightiest prey	true
+units_custom_battle_mounts_localised_description_hkrul_boendalfhkrul_boendalf_chariot	Marauder mobs are awarded even greater mobility when riding their crude chariots of bone and wood, lashed together with the guts and sinew of the vanquished.	false
+units_custom_battle_mounts_mount_name_hkrul_boendalfhkrul_boendalf_chariot	Marauder Chariot	false
+land_units_onscreen_name_hkrul_boendalf_chariot	Broendulf the Fair	true
+character_skills_localised_name_hkrul_hjordis_mount_norscan_warhorse	Huscarl Warhorse	true
+character_skills_localised_description_hkrul_hjordis_mount_norscan_warhorse	Raised in the stables of a Jarl's hall and barded in felt, mail and horn, the Huscarl Warhorse gives up a little of the Norscan Warhorse's speed for the protection a sworn champion needs in the press of battle.	true
+ancillaries_onscreen_name_hkrul_anc_mount_hjordis_norscan_warhorse	Norscan Warhorse	true
+ancillaries_colour_text_hkrul_anc_mount_hjordis_norscan_warhorse	Bred on the windswept plains of the north, the warhorses of Norsca are as ill-tempered and hardy as the warriors who ride them.	true
+ancillaries_explanation_text_hkrul_anc_mount_hjordis_norscan_warhorse		true
+character_skills_localised_name_hkrul_hjordis_mount_marauder_chariot	Marauder Chariot	true
+character_skills_localised_description_hkrul_hjordis_mount_marauder_chariot	A crude war-chariot of timber, iron and bone, drawn by a pair of half-wild Norscan horses that care little for what lies beneath their hooves.	true
+ancillaries_onscreen_name_hkrul_anc_mount_hjordis_marauder_chariot	Marauder Chariot	true
+ancillaries_colour_text_hkrul_anc_mount_hjordis_marauder_chariot	A crude war-chariot of timber, iron and bone, drawn by a pair of half-wild Norscan horses that care little for what lies beneath their hooves.	true
+ancillaries_explanation_text_hkrul_anc_mount_hjordis_marauder_chariot		true
+effects_description_hkrul_effect_force_stat_ammunition_hjordis_hunters	Ammunition: %+n% for Marauder Hunters (Javelins), Norscan Whaler and Sarl Hunter units	true
+effects_description_hkrul_effect_force_stat_reload_time_reduction_hjordis_hunters	Reload time reduction: %+n% for Marauder Hunters (Javelins), Norscan Whaler and Sarl Hunter units	true
+effects_description_hkrul_effect_force_stat_missile_damage_hjordis_hunters	Missile strength: %+n% for Marauder Hunters (Javelins), Norscan Whaler and Sarl Hunter units	true
+effects_description_hkrul_effect_force_stat_speed_hjordis_hunters	Speed: %+n% for Marauder Hunters (Javelins), Norscan Whaler and Sarl Hunter units	true
+effects_description_hkrul_effect_force_stat_bonus_vs_large_hjordis_hunters	Bonus vs Large: %+n for Marauder Hunters (Javelins), Norscan Whaler and Sarl Hunter units	true
+effects_description_hkrul_effect_force_stat_ap_missile_damage_hjordis_sarl_hunters	Armour-piercing missile damage: %+n% for Sarl Hunter units	true
+effects_description_hkrul_effect_force_stat_bonus_vs_large_hjordis_sarl_hunters	Bonus vs Large: %+n for Sarl Hunter units	true

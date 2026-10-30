@@ -32,3 +32,5 @@ order	special_ability	target_self	target_friends	target_enemies	phase
 1	hkrul_dalla_tankard	false	false	true	hkrul_dalla_tankard
 1	hkrul_shieldmaiden_pas	true	true	false	hkrul_shieldmaiden_pas
 1	hkrul_shieldmaiden_shield	true	false	false	hkrul_shieldmaiden_shield
+1	hkrul_hjordis_aura	true	false	false	hkrul_hjordis_aura
+1	hkrul_boendulf_shield	true	false	false	hkrul_boendulf_shield

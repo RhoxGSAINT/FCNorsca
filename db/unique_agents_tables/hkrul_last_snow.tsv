@@ -1,0 +1,4 @@
+agent_subtype	clan_name	forename	other_name	surname	agent_type	spawn_behaviour	spawn_via_ui
+#unique_agents_tables;3;db/unique_agents_tables/hkrul_last_snow							
+hkrul_hjordis	2147358913	2610711451	2147358913	2610711450	champion	FACTION_LEADER	false
+hkrul_boendalf	2147358913	2610711834	2147358913	2610711833	champion	FACTION_LEADER	false

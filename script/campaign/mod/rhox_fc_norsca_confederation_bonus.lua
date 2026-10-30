@@ -146,7 +146,9 @@ local function rhox_fc_norsca_recalculate_confederation_bonus(character)
 	
 	local confederation_effect_bundle = cm:create_new_custom_effect_bundle(confederation_effect_bundle_key)
 
-	confederation_effect_bundle:add_effect(conf_effect.effect, conf_effect.scope, rhox_fc_norsca_confederation_count[faction_key]*conf_effect.value)
+    local value_to_apply = math.min(rhox_fc_norsca_confederation_count[faction_key], 10)
+
+	confederation_effect_bundle:add_effect(conf_effect.effect, conf_effect.scope, value_to_apply*conf_effect.value)
 	confederation_effect_bundle:set_duration(0)
 
 	

@@ -6,7 +6,7 @@ gb = generated_battle:new(
 	false,                                      		-- screen starts black (0.010: false - see NOTE above)
 	false,                                      		-- prevent deployment for player
 	true,                                      			-- prevent deployment for ai
-	function() gb:start_generated_cutscene(gc) end,          	-- intro cutscene function
+	function() end_deployment_phase() end,          	-- intro cutscene function
 	false                                      			-- debug mode
 )
 
@@ -23,26 +23,96 @@ ga_ai_undead_main = gb:get_army(gb:get_non_player_alliance_num(), "undead_main")
 ga_ai_undead_reinforcement_1 = gb:get_army(gb:get_non_player_alliance_num(), "undead_reinforcement_1")
 ga_ai_undead_reinforcement_2 = gb:get_army(gb:get_non_player_alliance_num(), "undead_reinforcement_2")
 
+-------------------------------------------------------------------------------------------------
+------------------------------------------- CUTSCENE --------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+-- Intro: a camera-only CindyScene composed around Geimdall where he stands in the deployed army
 
 
-gc = generated_cutscene:new(true, true)	-- is_debug=true, disable_outro_camera=true (unchanged since 0.010 - our final camera IS the intended end framing, so no extra CA outro camera should cut in after it)
+-- .ktr trigger id -> scripted_subtitles key
+local intro_speech = {
+	{"hkrul_geimdall_intro_line_01", "hkrul_geimdall_lost_island_cindy_01"},	-- Look upon them, Huscarls! Dead men dragged from the sea to bar our path.
+	{"hkrul_geimdall_intro_line_02", "hkrul_geimdall_lost_island_cindy_02"},	-- They think this island theirs because they died upon it.
+	{"hkrul_geimdall_intro_line_03", "hkrul_geimdall_lost_island_cindy_03"},	-- Let the dead remember what living men can do.
+	{"hkrul_geimdall_intro_line_04", "hkrul_geimdall_lost_island_cindy_04"},	-- Lock shields. Ready your axes.
+	{"hkrul_geimdall_intro_line_05", "hkrul_geimdall_lost_island_cindy_05"}	-- Today, we take this island - or heap it high with their bones!
+}
 
+function end_deployment_phase()
+	bm:out("\tend_deployment_phase() called")
 
-gc:add_element(nil, nil, "gc_orbit_90_medium_ground_offset_north_west_extreme_high_02", 4500, false, false, false)
+	local cam = bm:camera()
+	cam:fade(true, 0)
 
-gc:add_element(nil, "hkrul_geimdall_lost_island_shot_2", "gc_slow_enemy_army_pan_front_left_to_front_right_far_high_01", 4500, false, false, false)
+	local cutscene_intro = cutscene:new_from_cindyscene(
+		"cutscene_intro",													-- unique string name for cutscene
+		ga_player.sunits,													-- unitcontroller over player's army
+		function() intro_cutscene_end() end,								-- what to call when cutscene is finished
+		"script/battle/quest_battles/_cutscene/managers/hkrul_geimdall_lost_island_intro.CindySceneManager",	-- path to cindyscene
+		0,																	-- blend in time (s)
+		0																	-- blend out time (s)
+	)
 
+	local player_units_hidden = false;
 
-gc:add_element(nil, "hkrul_geimdall_lost_island_shot_3", "gc_slow_army_pan_front_left_to_front_right_far_high_01", 4500, false, false, false)
+	local subtitles = cutscene_intro:subtitles()
+	subtitles:set_alignment("bottom_centre")
+	subtitles:clear()
 
+	cutscene_intro:set_skippable(
+		true,
+		function()
+			local cam = bm:camera()
+			cam:fade(true, 0)
+			bm:stop_cindy_playback(true)
 
-gc:add_element(nil, "hkrul_geimdall_lost_island_shot_4", "gc_medium_commander_front_medium_medium_to_close_low_01", 4000, false, false, false)
+			if player_units_hidden then
+				ga_player:set_enabled(true)
+			end;
 
+			bm:callback(function() cam:fade(false, 0.5) end, 500)
+			bm:hide_subtitles()
+		end
+	)
 
-gc:add_element(nil, "hkrul_geimdall_lost_island_shot_5", "gc_orbit_90_medium_commander_front_close_low_01", 3500, false, false, false)
+	cutscene_intro:action(function() cam:fade(false, 1) end, 1000)
 
+	cutscene_intro:action(
+		function()
+			player_units_hidden = false;
+			ga_player:set_enabled(true)
+		end,
+		200
+	)
 
-gc:add_element(nil, "hkrul_geimdall_lost_island_shot_6", "qb_final_position_short", 3500, false, true, false)
+	-- Geimdall's speech: "<trigger id>" shows the line, "<trigger id>_hide" clears it
+	for i = 1, #intro_speech do
+		local trigger_id = intro_speech[i][1]
+		local subtitle_key = intro_speech[i][2]
+
+		cutscene_intro:add_cinematic_trigger_listener(
+			trigger_id,
+			function()
+				bm:show_subtitle(subtitle_key, false, true)
+			end
+		)
+
+		cutscene_intro:add_cinematic_trigger_listener(
+			trigger_id .. "_hide",
+			function()
+				bm:hide_subtitles()
+			end
+		)
+	end
+
+	cutscene_intro:start()
+end
+
+function intro_cutscene_end()
+	bm:hide_subtitles()
+	ga_player:set_enabled(true)
+end
 
 -------------------------------------------------------------------------------------------------
 ---------------------------------------- REINFORCEMENTS -----------------------------------------

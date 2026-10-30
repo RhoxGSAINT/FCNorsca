@@ -70,7 +70,7 @@ core:add_ui_created_callback(
         
             mixer_change_lord_name("1929903855", "hkrul_geimdall")
             mixer_enable_custom_faction("1929903855")
-            mixer_add_starting_unit_list_for_faction("mixer_nor_geimdall_huscarls", {"hkrul_bjornling_inf_chaos_marauders_0","rhox_bjornling_huscarl_ror","wh_main_nor_mon_chaos_warhounds_0","hkrul_norsca_whalers"})
+            mixer_add_starting_unit_list_for_faction("mixer_nor_geimdall_huscarls", {"hkrul_bjornling_inf_chaos_marauders_0","rhox_bjornling_huscarl_ror","hkrul_nor_cav_huscarl_horseriders_ror","hkrul_norsca_whalers"})
             mixer_add_faction_to_major_faction_list("mixer_nor_geimdall_huscarls")
             mixer_change_lord_name("1319642446", "hkrul_geimdall")
             mixer_enable_custom_faction("1319642446")

@@ -1,0 +1,9 @@
+character_skill	character_level	upgrade_to_skill_level
+#character_skills_to_level_reached_criterias_tables;0;db/character_skills_to_level_reached_criterias_tables/hkrul_last_snow		
+hkrul_boendalf_sword	9	1
+hkrul_hjordis_spear	11	1
+hkrul_hjordis_mount_norscan_warhorse	4	1
+hkrul_hjordis_mount_marauder_chariot	9	1
+hkrul_boendalf_mount_norscan_warhorse	4	1
+hkrul_boendalf_mount_marauder_chariot	9	1
+hkrul_boendalf_shield	13	1

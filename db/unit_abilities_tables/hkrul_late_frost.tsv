@@ -26,3 +26,4 @@ hkrul_godi_club	false	hkrul_godi_club		wh_type_augment		wh_main_anc_group_uncomm
 hkrul_dalla_tankard	true	hkrul_dalla_tankard		wh_type_area_of_hexes		wh_main_anc_group_unique	true	false	passive		false
 hkrul_shieldmaiden_support	true	hkrul_shieldmaiden_support		wh_type_augment		wh_main_anc_group_rare	true	false	active		false
 hkrul_dalla_support	true	hkrul_dalla_support		wh_type_augment		wh_main_anc_group_unique	true	false	active		false
+hkrul_boendulf_horn	true	hkrul_boendulf_horn		wh_type_area_of_hexes		wh_main_anc_group_rare	true	false	active		false

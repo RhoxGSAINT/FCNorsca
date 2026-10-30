@@ -1,0 +1,7 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\character\broendulf\shield.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\character\broendulf/materials/chs_marauder_shield_02_lod1_rigid_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\character\broendulf/materials/shildie_rigid_alpha_on.xml.material</material>
+	</materials>
+</model>

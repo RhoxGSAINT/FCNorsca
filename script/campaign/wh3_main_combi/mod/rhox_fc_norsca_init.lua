@@ -306,9 +306,9 @@ local rhox_faction_list={
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_golem")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_ice_bears")
-            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"dead_drenok_greater_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"dead_drenok_ice_golem")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_ice_bears","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"dead_drenok_ice_bears")
+            cm:add_unit_to_faction_mercenary_pool(faction,"dead_drenok_greater_ice_golem","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"dead_drenok_greater_ice_golem")
         end,
         first_tick = function(faction, faction_key) 
         end
@@ -440,7 +440,7 @@ local rhox_faction_list={
     mixer_nor_geimdall_huscarls ={
         leader={
             subtype="hkrul_geimdall",
-            unit_list="wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,hkrul_norsca_whalers,wh_dlc08_nor_mon_skinwolves_1,wh_dlc08_nor_mon_warwolves_0",
+            unit_list="wh_main_nor_inf_chaos_marauders_0,rhox_bjornling_huscarl_ror,wh_main_nor_mon_chaos_trolls,hkrul_norsca_whalers,wh_dlc08_nor_mon_skinwolves_1,hkrul_nor_cav_huscarl_horseriders_ror",
             x=390,
             y=695,
             forename ="names_name_7610711834",
@@ -510,10 +510,10 @@ local rhox_faction_list={
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh3_dlc27_nor_mon_chimera_ror", faction_key)
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_tuula", faction:faction_leader():command_queue_index(), true)		
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_inf_chosen_mkho","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_dlc20_chs_inf_chosen_mkho")
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_mon_warshrine_mkho","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_dlc20_chs_mon_warshrine_mkho")
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_inf_chaos_warriors_1","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_main_kho_inf_chaos_warriors_1")             
-            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc27_kho_mon_spawn_of_khorne_0","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"wh3_dlc27_kho_mon_spawn_of_khorne_0")            
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_inf_chosen_mkho","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"wh3_dlc20_chs_inf_chosen_mkho")
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc20_chs_mon_warshrine_mkho","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"wh3_dlc20_chs_mon_warshrine_mkho")
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_main_kho_inf_chaos_warriors_1","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"wh3_main_kho_inf_chaos_warriors_1")             
+            cm:add_unit_to_faction_mercenary_pool(faction,"wh3_dlc27_kho_mon_spawn_of_khorne_0","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"wh3_dlc27_kho_mon_spawn_of_khorne_0")            
             cm:make_diplomacy_available(faction_key, "wh_main_nor_aesling")
         end,
         first_tick = function(faction, faction_key) 
@@ -868,9 +868,9 @@ local rhox_faction_list={
             y=789
         },
         additional = function(faction, faction_key)
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_brown_feral_marked")
-            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",true,"hkrul_beorg_ice_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_brown_feral")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_brown_feral_marked")
+            cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_ice_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_ice_feral")
             
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
 		    cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_frost_wyrm_ror_0", faction_key, "norsca_monster_hunt_ror_unlock")

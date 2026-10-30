@@ -42,3 +42,4 @@ hkrul_goftur_children	stat_melee_attack	15.0000	add
 hkrul_goftur_children	stat_charge_bonus	15.0000	add
 hkrul_goftur_augment	stat_melee_attack	15.0000	add
 hkrul_goftur_augment	stat_charge_bonus	15.0000	add
+hkrul_boendulf_horn	stat_melee_defence	-15.0000	add

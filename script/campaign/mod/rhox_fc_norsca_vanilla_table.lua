@@ -43,6 +43,15 @@ table.insert(character_unlocking.character_data["scyla"]["override_allowed_facti
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_bloodfjord")
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_snaegr")
 
+-- Chaos invasion
+episode_chaos_invasion.chaos_legendary_lords["hkrul_surtha_ek"] = {status = "unkown", forename = "1440700351", surname = "1440700350", army = "norsca", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_hakka"] = {status = "unkown", forename = "2570700351", surname = "2570700350", army = "khorne", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_sarg"] = {status = "unkown", forename = "1770700351", surname = "1770700350", army = "slaanesh", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_einar"] = {status = "unkown", forename = "5670700356", surname = "5670700355", army = "tzeentch", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_olaf"] = {status = "unkown", forename = "3610711834", surname = "3610711833", army = "khorne", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_urf"] = {status = "unkown", forename = "7610711130", surname = "", army = "khorne", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_akkorak"] = {status = "unkown", forename = "3670700351", surname = "3670700350", army = "chaos", spawn_position_override = "norsca"}
+
 local rhox_totn_factions={
     mixer_nor_beorg=true,
     cr_nor_servants_of_mermedus=true,
@@ -77,7 +86,7 @@ RHOX_TOTN_SPECIAL_FACTIONS={--non-chaos, or god dedicated
     wh_main_nor_bjornling="neutral",
 }
 ------Norsca thing
-for faction_key, _ in pairs(RHOX_TOTN_SPECIAL_FACTIONS) do
+for faction_key, _ in pairs(rhox_totn_factions) do
     if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] ~= "neutral" then
       table.insert(character_unlocking.character_data["beorg_bearstruck"]["override_allowed_factions"], faction_key)
     end
@@ -89,6 +98,11 @@ for faction_key, _ in pairs(RHOX_TOTN_SPECIAL_FACTIONS) do
     
     if RHOX_TOTN_SPECIAL_FACTIONS[faction_key] and MIXER_SPECIAL_DEDICATED_NORSCA then
         MIXER_SPECIAL_DEDICATED_NORSCA[faction_key]=true
+    end
+
+    if not RHOX_TOTN_SPECIAL_FACTIONS[faction_key] or RHOX_TOTN_SPECIAL_FACTIONS[faction_key]=="slaanesh" then
+        table.insert(character_unlocking.character_data["styrkaar"]["override_allowed_factions"], faction_key)
+        character_unlocking.character_data["styrkaar"]["starting_mission_keys"][faction_key] ="wh3_dlc29_ie_nor_styrkaar_stage_1"
     end
 end
 
@@ -103,10 +117,6 @@ character_unlocking.character_data["beorg_bearstruck"].priority_ai_faction="mixe
 nor_generic_config.altar_raise_occupation_options_display_overrides["957887884"]="wh_main_settlement_norscaruin_tzeentch"
 nor_generic_config.altar_raise_occupation_options_display_overrides["957887885"]="wh_main_settlement_norscaruin_slaanesh"
 nor_generic_config.altar_raise_occupation_options_display_overrides["957887886"]="wh_main_settlement_norscaruin_khorne"
-
-
-table.insert(character_unlocking.character_data["styrkaar"]["override_allowed_factions"], "wh3_dlc20_nor_yusak")
-
 
 
 

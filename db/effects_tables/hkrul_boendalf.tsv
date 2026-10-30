@@ -1,0 +1,7 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/hkrul_boendalf					
+hkrul_effect_force_stat_melee_defence_boendalf_shieldwall	defence.png	451	defence.png	battle	true
+hkrul_effect_force_stat_leadership_boendalf_shieldwall	morale.png	411	morale.png	battle	true
+hkrul_effect_force_stat_armour_boendalf_shieldwall	armour.png	401	armour.png	battle	true
+hkrul_effect_force_stat_vigour_loss_reduction_boendalf_shieldwall	vigour.png	15	vigour.png	battle	false
+hkrul_effect_attribute_enable_charge_defence_boendalf_shieldwall	charge_reflector.png	620	charge_reflector.png	battle	true

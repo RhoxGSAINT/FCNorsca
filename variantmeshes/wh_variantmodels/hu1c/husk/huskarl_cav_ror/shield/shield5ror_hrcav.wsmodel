@@ -1,0 +1,17 @@
+<model version="1">
+	<geometry>variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\shield\shield5ror_hrcav.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\chs_marauder_shield_01_hrcav_alpha_off.xml.material</material>
+			<material lod_index="0" part_index="1">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\model_0_shield_hrcav_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="1" part_index="0">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\chs_marauder_shield_01_hrcav_alpha_off.xml.material</material>
+			<material lod_index="1" part_index="1">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\model_0_shield_hrcav_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="2" part_index="0">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\chs_marauder_shield_01_hrcav_alpha_off.xml.material</material>
+			<material lod_index="2" part_index="1">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\model_0_shield_hrcav_rigid_alpha_off.xml.material</material>
+
+			<material lod_index="3" part_index="0">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\chs_marauder_shield_01_hrcav_alpha_off.xml.material</material>
+			<material lod_index="3" part_index="1">variantmeshes\wh_variantmodels\hu1c\husk\huskarl_cav_ror\materials\model_0_shield_hrcav_rigid_alpha_off.xml.material</material>
+
+	</materials>
+</model>

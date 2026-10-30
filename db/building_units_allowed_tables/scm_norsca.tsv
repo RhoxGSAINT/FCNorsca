@@ -63,3 +63,7 @@ key	building	unit	XP	conditions	faction	enabled
 655190408	rhox_bjornling_creatures_3	wh3_dlc27_nor_mon_chimera	0	0	mixer_nor_geimdall_huscarls	true
 655190410	rhox_bjornling_creatures_3	wh3_dlc27_nor_mon_chimera	0	0	mixer_nor_eyristaad	true
 655190411	rhox_fc_norsca_harald_throne	rhox_graeling_champion_1	0	0		false
+655190412	wh_main_nor_stables_3	hkrul_nor_cav_huscarl_horseriders_0	0	0	wh_main_nor_bjornling	true
+655190413	wh_main_nor_stables_3	hkrul_nor_cav_huscarl_horseriders_1	0	0	wh_main_nor_bjornling	true
+655190414	wh_main_nor_stables_3	hkrul_nor_cav_huscarl_horseriders_0	0	0	mixer_nor_geimdall_huscarls	true
+655190415	wh_main_nor_stables_3	hkrul_nor_cav_huscarl_horseriders_1	0	0	mixer_nor_geimdall_huscarls	true

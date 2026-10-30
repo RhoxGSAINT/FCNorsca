@@ -1,0 +1,4 @@
+id	art_set_id	level	age	portrait	season	uniform	card	info	sea_uniform	navy_uniform	land_animation	sea_animation	navy_animation	land_animation_vfx_filter	sea_animation_vfx_filter	navy_animation_vfx_filter
+#campaign_character_arts_tables;0;db/campaign_character_arts_tables/hkrul_last_snow																
+166775936	hkrul_hjordis	0	0		none	hkrul_hjordis			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_chaos_axe_and_shield	cam_transport_ship_05	cam_transport_ship_05	0	0	0
+166775937	hkrul_boendalf	0	0		none	hkrul_boendalf			wh_dlc08_campaign_nor_ship_transport	wh_dlc08_campaign_nor_ship_transport	cam_hu1c_chaos_axe_and_shield	cam_transport_ship_05	cam_transport_ship_05	0	0	0

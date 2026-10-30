@@ -1,0 +1,11 @@
+<SCENE_MANAGER_FILE hidden="false" perspective_camera="23.0927,594.843,130.7388:47.6777,534.843,224.1228" start_record_time="0" end_record_time="34.5" id="{98421fee-5cb3-4eb5-a2bb-63e2f3632429}" version="27">
+ <START_SCENE real_time="0" scene="hkrul_geimdall_lost_island_intro_s01.CindyScene"/>
+ <SCENE_SWITCH switch_scene="hkrul_geimdall_lost_island_intro_s02.CindyScene" time="13" real_time="0"/>
+ <SCENE_SWITCH switch_scene="hkrul_geimdall_lost_island_intro_s03.CindyScene" time="25" real_time="0"/>
+ <NODE hidden="false" name="Links" id="{a8c33acc-a2b3-488d-a15a-5836a7155cab}"/>
+ <NODE hidden="false" name="Scenes" id="{6b5dc840-f87c-40ed-b0b7-3e3ab37d1479}">
+  <SCENE hidden="false" scene_file="../scenes/hkrul_geimdall_lost_island_intro_s01.CindyScene" name="hkrul_geimdall_lost_island_intro_s01.CindyScene" id="{3e9abe9e-74e5-4587-953e-435b6f994653}"/>
+  <SCENE hidden="false" scene_file="../scenes/hkrul_geimdall_lost_island_intro_s02.CindyScene" name="hkrul_geimdall_lost_island_intro_s02.CindyScene" id="{eba069b3-cf73-4d4a-8daa-afd582fb7ab0}"/>
+  <SCENE hidden="false" scene_file="../scenes/hkrul_geimdall_lost_island_intro_s03.CindyScene" name="hkrul_geimdall_lost_island_intro_s03.CindyScene" id="{bcc24314-725c-43d4-b9b8-e3dfb6458e0d}"/>
+ </NODE>
+</SCENE_MANAGER_FILE>

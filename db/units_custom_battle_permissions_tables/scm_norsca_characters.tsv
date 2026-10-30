@@ -17,7 +17,7 @@ wh3_dlc20_nor_dolgan	true	hkrul_sayl	true	true	ui/portraits/portholes/no_culture
 wh3_dlc20_nor_dolgan	true	hkrul_sayl_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_sayl.png	hkrul_sayl	hkrul_sayl	false		false
 wh3_dlc20_nor_dolgan	true	hkrul_sayl_mammoth	true	true	ui/portraits/portholes/no_culture/hkrul_sayl.png	hkrul_sayl	hkrul_sayl	false		false
 wh_main_nor_bjornling	true	hkrul_ulfric	true	true	ui/portraits/portholes/no_culture/hkrul_ulfric.png	hkrul_ulfric	hkrul_ulfric	false		false
-wh_main_nor_bjornling	true	hkrul_ulfric_horse	true	true	ui/portraits/portholes/no_culture/hkrul_ulfric.png	hkrul_ulfric	hkrul_ulfric	false		false
+wh_main_nor_bjornling	true	hkrul_ulfric_huscarl_horse	true	true	ui/portraits/portholes/no_culture/hkrul_ulfric.png	hkrul_ulfric	hkrul_ulfric	false		false
 wh_main_nor_bjornling	true	hkrul_ulfric_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_ulfric.png	hkrul_ulfric	hkrul_ulfric	false		false
 wh_main_nor_bjornling	true	hkrul_ulfric_mammoth	true	true	ui/portraits/portholes/no_culture/hkrul_ulfric.png	hkrul_ulfric	hkrul_ulfric	false		false
 wh_dlc08_nor_norsca	false	hkrul_verdandi	true	true	ui/portraits/portholes/no_culture/hkrul_verdandi.png	hkrul_verdandi	hkrul_verdandi	false		false
@@ -54,6 +54,6 @@ wh_main_nor_bjornling	false	hkrul_skald_horn	true	true	ui/portraits/portholes/no
 wh_main_nor_bjornling	false	hkrul_skald_drum	true	true	ui/portraits/portholes/no_culture/hkrul_skald_2.png	hkrul_skald_drum_2		false		false
 wh_main_nor_bjornling	false	hkrul_shieldmaiden	true	true	ui/portraits/portholes/no_culture/hkrul_shieldmaiden_1.png	hkrul_shieldmaiden_1		false		false
 wh_main_nor_bjornling	false	hkrul_shieldmaiden_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_shieldmaiden_1.png	hkrul_shieldmaiden_1		false		false
-wh_main_nor_bjornling	false	hkrul_shieldmaiden_horse	true	true	ui/portraits/portholes/no_culture/hkrul_shieldmaiden_1.png	hkrul_shieldmaiden_1		false		false
+wh_main_nor_bjornling	false	hkrul_shieldmaiden_huscarl_horse	true	true	ui/portraits/portholes/no_culture/hkrul_shieldmaiden_1.png	hkrul_shieldmaiden_1		false		false
 wh_main_nor_bjornling	false	hkrul_hafskael_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_hafskael.png	hkrul_hafskael		false		false
 wh_main_nor_bjornling	false	hkrul_hafskael_horse	true	true	ui/portraits/portholes/no_culture/hkrul_hafskael.png	hkrul_hafskael		false		false

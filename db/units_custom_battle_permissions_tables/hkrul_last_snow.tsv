@@ -1,0 +1,8 @@
+faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
+#units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/hkrul_last_snow										
+wh_dlc08_nor_norsca	false	hkrul_hjordis	true	true	ui/portraits/portholes/no_culture/hkrul_hjordis.png	hkrul_hjordis	hkrul_hjordis	true		false
+wh_dlc08_nor_norsca	false	hkrul_hjordis_huscarl_horse	true	true	ui/portraits/portholes/no_culture/hkrul_hjordis.png	hkrul_hjordis	hkrul_hjordis	true		false
+wh_dlc08_nor_norsca	false	hkrul_hjordis_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_hjordis.png	hkrul_hjordis	hkrul_hjordis	true		false
+wh_dlc08_nor_norsca	false	hkrul_boendalf	true	true	ui/portraits/portholes/no_culture/hkrul_broendulf.png	hkrul_boendalf	hkrul_boendalf	true		false
+wh_dlc08_nor_norsca	false	hkrul_boendalf_huscarl_horse	true	true	ui/portraits/portholes/no_culture/hkrul_broendulf.png	hkrul_boendalf	hkrul_boendalf	true		false
+wh_dlc08_nor_norsca	false	hkrul_boendalf_chariot	true	true	ui/portraits/portholes/no_culture/hkrul_broendulf.png	hkrul_boendalf	hkrul_boendalf	true		false

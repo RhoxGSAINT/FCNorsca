@@ -31,3 +31,5 @@ hkrul_dalla_shield	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0
 hkrul_dalla_tankard	-1.0000	negative		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_debuff_attack_passive		false	false	true	0.0000			false	0.0000	0.0000	true	0.0000
 hkrul_shieldmaiden_pas	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	-1	false	0.0000	0.0000	false	0				false	true	false	0.0000			false	0.0000	0.0000	false	0.0000
 hkrul_shieldmaiden_shield	30.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_hjordis_aura	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0	wh_dlc06_unit_contact_sundered_armour	wh_main_generic_buff_defence		false	false	false	0.0000			false	0.0000	0.0000	false	0.0000
+hkrul_boendulf_shield	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh_main_generic_buff_defence		false	false	false	0.0000			false	0.0000	0.0000	false	0.0000

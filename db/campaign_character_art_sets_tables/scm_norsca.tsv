@@ -3,7 +3,7 @@ art_set_id	agent_type	culture	subculture	faction	is_custom	is_male	agent_subtype
 hkrul_adella	general				false	true	hkrul_adella	1.1800	0.0000
 hkrul_soren	wizard				false	true	hkrul_soren	1.1300	0.0000
 hkrul_akkorak	general				false	true	hkrul_akkorak	1.1200	0.0000
-hkrul_birna	general				false	true	hkrul_birna	1.1400	0.0000
+hkrul_birna	general				false	true	hkrul_birna	1.1800	0.0000
 hkrul_drenok	general				false	true	hkrul_drenok	1.0800	0.0000
 hkrul_einar	general				false	true	hkrul_einar	1.1400	0.0000
 hkrul_harald	general				false	true	hkrul_harald	0.9000	0.0000
