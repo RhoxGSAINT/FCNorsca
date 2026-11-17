@@ -52,6 +52,17 @@ episode_chaos_invasion.chaos_legendary_lords["hkrul_olaf"] = {status = "unkown",
 episode_chaos_invasion.chaos_legendary_lords["hkrul_urf"] = {status = "unkown", forename = "7610711130", surname = "", army = "khorne", spawn_position_override = "norsca"}
 episode_chaos_invasion.chaos_legendary_lords["hkrul_akkorak"] = {status = "unkown", forename = "3670700351", surname = "3670700350", army = "chaos", spawn_position_override = "norsca"}
 
+
+-- Duplicate vanilla Norsca spawn points (5 -> 10) so added LLs don't exhaust the list\
+--It's okay to have same cooridnates, it will find out
+table.insert(episode_chaos_invasion.invasion_spawn_positions["norsca"].position_groups, {
+    positions = {
+        {457, 803}, {499, 825}, {566, 845}, {635, 855}, {682, 841},
+        {457, 803}, {499, 825}, {566, 845}, {635, 855}, {682, 841},
+    },
+    weight = 1
+})
+
 local rhox_totn_factions={
     mixer_nor_beorg=true,
     cr_nor_servants_of_mermedus=true,

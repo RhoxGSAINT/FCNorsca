@@ -879,7 +879,7 @@ core:add_listener(
     "TOTNIHATECDIRFactionTurnStart",
     "FactionTurnStart",
     function(context)
-        return context:faction():name() == "wh_main_nor_bjornling" and cm:turn_number() == 2
+        return context:faction():name() == "wh_main_nor_bjornling" and cm:turn_number() == 2 and context:faction():is_human()
     end,
     function(context) 
         local faction = context:faction()
@@ -893,7 +893,7 @@ core:add_listener(
     "TOTNIHATECDIRFactionTurnStart",
     "FactionTurnStart",
     function(context)
-        return context:faction():name() == "mixer_nor_snaegr" and cm:turn_number() == 2
+        return context:faction():name() == "mixer_nor_snaegr" and cm:turn_number() == 2 and context:faction():is_human()
     end,
     function(context) 
         local faction = context:faction()
