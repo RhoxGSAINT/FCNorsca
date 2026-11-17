@@ -1,3 +1,9 @@
+2026/NOV/17 SCM
+- Added 10 more coordinates for the Norsca region for the Chaos invasion so they wouldn't run out of coordinates
+- Added human checks to the mission triggering
+- Added faction banned purchasable effects to cr_chs_tsavags, cr_chs_iron_wolves, cr_chs_death_eaters, rhox_chs_the_deathswords, mixer_chs_fell_legion, mixer_chs_damned_host, mixer_chs_horde_conqueror
+- Added Chaos name groups so that they don't come up blank when Chaos Invasion happens
+
 2026/OCT/30
 - Finished 3 additional huscarl horse who replace Kurgan units for certain factions
 - Nerfed Einarr's barrier hitpoints

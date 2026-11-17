@@ -44,13 +44,13 @@ table.insert(character_unlocking.character_data["scyla"]["override_allowed_facti
 table.insert(character_unlocking.character_data["scyla"]["override_allowed_factions"], "mixer_nor_snaegr")
 
 -- Chaos invasion
-episode_chaos_invasion.chaos_legendary_lords["hkrul_surtha_ek"] = {status = "unkown", forename = "1440700351", surname = "1440700350", army = "norsca", spawn_position_override = "norsca"}
-episode_chaos_invasion.chaos_legendary_lords["hkrul_hakka"] = {status = "unkown", forename = "2570700351", surname = "2570700350", army = "khorne", spawn_position_override = "norsca"}
-episode_chaos_invasion.chaos_legendary_lords["hkrul_sarg"] = {status = "unkown", forename = "1770700351", surname = "1770700350", army = "slaanesh", spawn_position_override = "norsca"}
-episode_chaos_invasion.chaos_legendary_lords["hkrul_einar"] = {status = "unkown", forename = "5670700356", surname = "5670700355", army = "tzeentch", spawn_position_override = "norsca"}
-episode_chaos_invasion.chaos_legendary_lords["hkrul_olaf"] = {status = "unkown", forename = "3610711834", surname = "3610711833", army = "khorne", spawn_position_override = "norsca"}
-episode_chaos_invasion.chaos_legendary_lords["hkrul_urf"] = {status = "unkown", forename = "7610711130", surname = "", army = "khorne", spawn_position_override = "norsca"}
-episode_chaos_invasion.chaos_legendary_lords["hkrul_akkorak"] = {status = "unkown", forename = "3670700351", surname = "3670700350", army = "chaos", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_surtha_ek"] = {status = "unkown", forename = "1557520159", surname = "1557520160", army = "norsca", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_hakka"] = {status = "unkown", forename = "1557520161", surname = "1557520162", army = "khorne", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_sarg"] = {status = "unkown", forename = "1557520163", surname = "1557520164", army = "slaanesh", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_einar"] = {status = "unkown", forename = "1557520165", surname = "1557520166", army = "tzeentch", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_olaf"] = {status = "unkown", forename = "1557520167", surname = "1557520168", army = "khorne", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_urf"] = {status = "unkown", forename = "1557520169", surname = "", army = "khorne", spawn_position_override = "norsca"}
+episode_chaos_invasion.chaos_legendary_lords["hkrul_akkorak"] = {status = "unkown", forename = "1557520170", surname = "1557520171", army = "chaos", spawn_position_override = "norsca"}
 
 
 -- Duplicate vanilla Norsca spawn points (5 -> 10) so added LLs don't exhaust the list\
