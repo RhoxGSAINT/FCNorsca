@@ -53,15 +53,32 @@ episode_chaos_invasion.chaos_legendary_lords["hkrul_urf"] = {status = "unkown", 
 episode_chaos_invasion.chaos_legendary_lords["hkrul_akkorak"] = {status = "unkown", forename = "1557520170", surname = "1557520171", army = "chaos", spawn_position_override = "norsca"}
 
 
--- Duplicate vanilla Norsca spawn points (5 -> 10) so added LLs don't exhaust the list\
---It's okay to have same cooridnates, it will find out
-table.insert(episode_chaos_invasion.invasion_spawn_positions["norsca"].position_groups, {
-    positions = {
+-- Extra Norsca spawn points per campaign so added LLs don't exhaust the list
+-- Same coordinates are fine, a valid spawn location is searched around each point
+local rhox_fc_norsca_extra_spawn_positions = {
+    main_warhammer = {
         {457, 803}, {499, 825}, {566, 845}, {635, 855}, {682, 841},
         {457, 803}, {499, 825}, {566, 845}, {635, 855}, {682, 841},
     },
-    weight = 1
-})
+    cr_oldworld = {
+        {807, 1675}, {990, 1639}, {1191, 1596}, {1361, 1484},
+        {382, 1524}, {563, 1471}, {583, 1623}, {784, 1523},
+        {97, 1311}, {183, 1378},
+    },
+}
+
+cm:add_first_tick_callback(
+    function()
+        local positions = rhox_fc_norsca_extra_spawn_positions[cm:get_campaign_name()]
+        if not positions or not episode_chaos_invasion or not episode_chaos_invasion.invasion_spawn_positions or not episode_chaos_invasion.invasion_spawn_positions["norsca"] then
+            return
+        end
+        table.insert(episode_chaos_invasion.invasion_spawn_positions["norsca"].position_groups, {
+            positions = positions,
+            weight = 1
+        })
+    end
+)
 
 local rhox_totn_factions={
     mixer_nor_beorg=true,
