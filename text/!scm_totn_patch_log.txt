@@ -1,3 +1,7 @@
+2026/NOV/20 SCM
+- Made current faction bundle to invisible, and added new one with the lord_trait so that it shows up in the upper right.
+-- current effect bundle will be deleted after the save-breaking patch
+
 2026/NOV/17 SCM
 - Added 10 more coordinates for the Norsca region for the Chaos invasion so they wouldn't run out of coordinates
 - Added human checks to the mission triggering
