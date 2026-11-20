@@ -33,8 +33,8 @@ unit_description_short_texts_text_hkrul_akkorak	Arguably the most ruthless tribe
 unit_abilities_tooltip_text_hkrul_akkorak_spear	The Reaver of the Wastes has soaked the blood of warriors hailing from all Northern tribes.	true
 unit_abilities_onscreen_name_hkrul_akkorak_spear	Reaver of the Wastes	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_akkorak		false
-effect_bundles_localised_description_hkrul_akkorak_faction_trait	Akkorak the Crow, feared and respected across the frigid expanse of the northern wastes, embodies the savagery and relentless ambition of the Chaos tribes. From the blood-soaked steppes of the Kurgan lands, he emerged as a paragon of martial might, his name whispered in awe and dread by friend and foe alike. Mounted atop his dread steed, he cuts a striking figure on the battlefield, his black armor gleaming in the pale light of Morrslieb.	false
-effect_bundles_localised_title_hkrul_akkorak_faction_trait	Reaver of the Wastes	false
+effect_bundles_localised_description_hkrul_akkorak_lord_trait	Akkorak the Crow, feared and respected across the frigid expanse of the northern wastes, embodies the savagery and relentless ambition of the Chaos tribes. From the blood-soaked steppes of the Kurgan lands, he emerged as a paragon of martial might, his name whispered in awe and dread by friend and foe alike. Mounted atop his dread steed, he cuts a striking figure on the battlefield, his black armor gleaming in the pale light of Morrslieb.	false
+effect_bundles_localised_title_hkrul_akkorak_lord_trait	Reaver of the Wastes	false
 effects_description_hkrul_akkorak_horse	Ability: "Riders of the Kul'' for Horseback units	true
 unit_abilities_tooltip_text_hkrul_akkorak_horse	The chaos riders of the Kul are considered the scourge of the nine wastes, they're devilish horses in a constant chaotic infused frenzy.	true
 unit_abilities_onscreen_name_hkrul_akkorak_horse	Riders of the Kul	true

@@ -66,8 +66,8 @@ effects_description_hkrul_beorg_mark	Ability: "Mark of the Bear''	false
 effects_description_rhox_beorg_bear_join_chance	Chance of ursine creatures joining Bran after a battle victory: %+n%	false
 effects_description_rhox_beorg_dummy_1	Bearstrikken: Ursine creatures are drawn to the primal essence of Urslo and may be corrupted	false
 effects_description_rhox_beorg_dummy_2	Placeholder	false
-effect_bundles_localised_description_rhox_beorg_faction_trait	At the edge of the frozen Fjord's of Urs towers the Halls of Urslo, home of ravaging marauding Bearstrikken norsemen.	false
-effect_bundles_localised_title_rhox_beorg_faction_trait	The Ursfjordings	false
+effect_bundles_localised_description_rhox_beorg_lord_trait	At the edge of the frozen Fjord's of Urs towers the Halls of Urslo, home of ravaging marauding Bearstrikken norsemen.	false
+effect_bundles_localised_title_rhox_beorg_lord_trait	The Ursfjordings	false
 ancillaries_colour_text_hkrul_beorg_banner	Bran Bearheart's battle-standard is borne by the hardy warrior, Oerl the Young -- a entire bearskin whose grizzly head leers out from the top. The skin is touched by the power of Chaos, and the blessings of the gods is such that the banner radiates an aura of rage that drives the already fierce Ursfjordings into a terrible battle-fury that is impossible to contain.	true
 ancillaries_onscreen_name_hkrul_beorg_banner	The Bear Banner	true
 effect_bundles_localised_title_hkrul_eyri_banner	Banner of Salt and Coin	false

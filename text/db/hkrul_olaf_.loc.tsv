@@ -66,8 +66,8 @@ character_trait_levels_explanation_text_hkrul_defeated_trait_olaf	Defeated Jarl 
 loading_screen_quotes_description_hkrul_olaf	Wreathed in bearskin and fury, Olaf bellows Khorne’s wrath and charges headlong into blood-soaked glory.	false
 loading_screen_quotes_title_hkrul_olaf	Jarl Olaf Wolfhound	false
 loading_screen_quotes_bulletpoints_hkrul_olaf	[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry||Melee Expert||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing	false
-effect_bundles_localised_title_hkrul_olaf_faction_trait	The Crimson Call	false
-effect_bundles_localised_description_hkrul_olaf_faction_trait	Across blood-slick shores and frostbitten stone, Olaf and Tuula chased whispers of the daemon-spear. Drawn by dreams and screams, they crossed the Sea of Claws, guided by S’iba’aht’s distant call. Each battle won fed the spear’s stirring hunger; each slain foe a step closer to the relic’s return.	false
+effect_bundles_localised_title_hkrul_olaf_lord_trait	The Crimson Call	false
+effect_bundles_localised_description_hkrul_olaf_lord_trait	Across blood-slick shores and frostbitten stone, Olaf and Tuula chased whispers of the daemon-spear. Drawn by dreams and screams, they crossed the Sea of Claws, guided by S’iba’aht’s distant call. Each battle won fed the spear’s stirring hunger; each slain foe a step closer to the relic’s return.	false
 factions_attack_desc_mixer_nor_bloodfjord	You are attacking the Bloodfjord Tribe!	false
 factions_defend_desc_mixer_nor_bloodfjord	You are defending against the Bloodfjord Tribe!	false
 factions_screen_adjective_mixer_nor_bloodfjord		false

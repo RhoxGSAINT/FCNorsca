@@ -38,8 +38,8 @@ effects_description_hkrul_harald_fear_vs_norsca	Attribute: Causes Terror when fi
 effects_description_hkrul_sarg_fear_vs_cathay	Attribute: Causes Fear when fighting against Cathayan Factions	true
 effects_description_hkrul_harald_skin_wolves_bonus_vs_large	Bonus vs Large: %+n for Skin Wolf units	true
 effects_description_hkrul_harald_berserker_melee_damage	Weapon strength: %+n% for Marauder Berserker units	true
-effect_bundles_localised_description_hkrul_harald_faction_trait	He who seeks to unite all Norscan tribes is either foolish or brave, or perhaps both.	false
-effect_bundles_localised_title_hkrul_harald_faction_trait	The Great Unifier	false
+effect_bundles_localised_description_hkrul_harald_lord_trait	He who seeks to unite all Norscan tribes is either foolish or brave, or perhaps both.	false
+effect_bundles_localised_title_hkrul_harald_lord_trait	The Great Unifier	false
 campaign_localised_strings_string_rhox_graeling_panel_open_button	Unite the Norsca||Show your prowess and unite the Norscan tribes	false
 campaign_localised_strings_string_rhox_graeling_piece_tab	Unite the Norsca	false
 mission_text_text_rhox_graeling_ll_0	Defeat 5 Legendary Lords with Harlad\\n\\n0 Legendary Lords defeated	false

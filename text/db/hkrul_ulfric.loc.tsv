@@ -42,8 +42,8 @@ land_units_onscreen_name_hkrul_bjornling_inf_marauder_spearman_0	Bjornling Spear
 land_units_onscreen_name_hkrul_bjornling_inf_chaos_marauders_0	Bjornling Marauders	false
 land_units_onscreen_name_hkrul_bjornling_inf_chaos_marauders_1	Bjornling Marauders (Great Weapons)	false
 character_skill_node_sets_enc_title_skill_node_set_hkrul_ulfric		false
-effect_bundles_localised_description_hkrul_ulfric_faction_trait	High King Ulfric Grondal stands as the formidable ruler of the Bjornling tribe, a figure both feared and respected among his people. Unlike many Norscan chieftains, Ulfric embodies the essence of a traditional monarch, commanding authority from his seat in the mighty Skjold. Towering above his warriors, Ulfric is a mighty warrior himself, his presence commanding respect and obedience	false
-effect_bundles_localised_title_hkrul_ulfric_faction_trait	High King Ulfric	false
+effect_bundles_localised_description_hkrul_ulfric_lord_trait	High King Ulfric Grondal stands as the formidable ruler of the Bjornling tribe, a figure both feared and respected among his people. Unlike many Norscan chieftains, Ulfric embodies the essence of a traditional monarch, commanding authority from his seat in the mighty Skjold. Towering above his warriors, Ulfric is a mighty warrior himself, his presence commanding respect and obedience	false
+effect_bundles_localised_title_hkrul_ulfric_lord_trait	High King Ulfric	false
 character_skills_localised_description_hkrul_ulfric_mammoth	A mammoth so large it hardly fits through Skjold's gates, a true sight to be hold and devastating on the battlefield.	false
 character_skills_localised_name_hkrul_ulfric_mammoth	Eyristaad's Might	false
 land_units_onscreen_name_hkrul_ulfric_mammoth	Ulfric Grondal	false
@@ -129,8 +129,8 @@ pooled_resources_display_name_rhox_bjornling_fish	Fish	false
 pooled_resources_negative_factors_display_name_rhox_bjornling_fish	Sold	false
 pooled_resources_positive_factors_display_name_rhox_bjornling_fish	Caught	false
 effects_description_rhox_bjornling_fish_catching	Fish: %+n per turn	false
-effect_bundles_localised_description_hkrul_vandred_faction_trait		false
-effect_bundles_localised_title_hkrul_vandred_faction_trait		false
+effect_bundles_localised_description_hkrul_vandred_lord_trait		false
+effect_bundles_localised_title_hkrul_vandred_lord_trait		false
 effects_description_rhox_bjornling_fish_feature_dummy	[[col:yellow]]Fishing stance replaces Full Speed stance whilst at sea, captured fish can be bartered in trades[[/col]]	false
 effects_description_rhox_bjornling_no_raze_feature_dummy	Bjornlings worship both the gods of men and Chaos, and thus can't pledge full allegiance to a Chaos god.	false
 effects_description_rhox_ulfric_item_chance_dummy	Chance to find ancillaries in hauled up fishing nets: %+n%	false
@@ -252,8 +252,8 @@ ancillaries_colour_text_hkrul_norsca_fish_17	A writhing, yellow-skinned monstros
 ancillaries_colour_text_hkrul_norsca_fish_18	This massive, barnacle-encrusted horn, eerily shaped like the fossilized remains of some ancient sea beast, was dredged up from the depths. When blown, it unleashes a deep, reverberating war cry that stirs the blood of warriors and sends shivers through those who hear it.	false
 ancillaries_colour_text_hkrul_norsca_fish_19	A deep-sea fish that radiates an eerie blue glow in the dark waters. Sailors claim it lures ships into treacherous reefs with its ghostly light.	false
 ancillaries_colour_text_hkrul_norsca_fish_20	A monstrous fish with a wide, blunted head like a warhammer, used to batter prey and even small boats. Legends claim it was once the war-beast of a fallen sea god, doomed to wander the depths in eternal rage.	false
-effect_bundles_localised_description_hkrul_yngve_faction_trait	Yngve Aarseth is a deranged and powerful seer. He is greatly respected – and feared – throughout Norsca. His eyes were torn out long ago when he was held captive by a malicious band of Goblin raiders, Aarseth claims that his physical blindness allows him to "see all truth". The wizened old seer refuses to serve any of the jarls, even when they threaten him with torture or imprisonment. He knows that the jarls are too frightened of his powers to carry out their threats	false
-effect_bundles_localised_title_hkrul_yngve_faction_trait	The Sightless Seer	false
+effect_bundles_localised_description_hkrul_yngve_lord_trait	Yngve Aarseth is a deranged and powerful seer. He is greatly respected – and feared – throughout Norsca. His eyes were torn out long ago when he was held captive by a malicious band of Goblin raiders, Aarseth claims that his physical blindness allows him to "see all truth". The wizened old seer refuses to serve any of the jarls, even when they threaten him with torture or imprisonment. He knows that the jarls are too frightened of his powers to carry out their threats	false
+effect_bundles_localised_title_hkrul_yngve_lord_trait	The Sightless Seer	false
 culture_settlement_occupation_options_tooltip_957887883	Raze||All buildings are destroyed and the settlement is torched. The previous owners will like you a lot less.	false
 campaign_localised_strings_string_nor_longship_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate the Bjornling Tribe or have Ulfric Grondal in your faction[[/col]]	false
 effects_description_hkrul_ulfric_port_income	Income from Ports: %+n% for each confederated Norscan tribe	false

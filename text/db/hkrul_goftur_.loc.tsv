@@ -89,8 +89,8 @@ unit_abilities_onscreen_name_hkrul_goftur_avatar	Gift of Mermedus	false
 land_units_onscreen_name_hkrul_shark_3	Maulkern the Ravager	true
 unit_description_short_texts_text_hkrul_shark_3	Named after the whirlpool it once emerged from. Its bulk turns tides. Its hunger empties coasts.	false
 unit_description_historical_texts_text_hkrul_shark_3	Maulkern is no mere sea-beast. It is a nightmare dredged from the crushing dark beneath the western ice trenches, where not even daemons dare swim. First sighted when it rose from a seething whirlpool — the Maulkern Pit — and swallowed an entire Bjornling longship whole, it has since become the whispered terror of sailors and prophets alike.	false
-effect_bundles_localised_description_hkrul_goftur_faction_trait	From salt-stung cliffs and kelp-choked halls, they rise bearing the Sea-Father’s creed. Their blades drip brine and sacrifice; their prayers drown louder than storm or surf. They do not trade. They do not build. They drag the world back to the deep. Mermedus calls — and the tide answers in blood.	false
-effect_bundles_localised_title_hkrul_goftur_faction_trait	Cult of Mermedus	false
+effect_bundles_localised_description_hkrul_goftur_lord_trait	From salt-stung cliffs and kelp-choked halls, they rise bearing the Sea-Father’s creed. Their blades drip brine and sacrifice; their prayers drown louder than storm or surf. They do not trade. They do not build. They drag the world back to the deep. Mermedus calls — and the tide answers in blood.	false
+effect_bundles_localised_title_hkrul_goftur_lord_trait	Cult of Mermedus	false
 effects_description_hkrul_goftur_cry	Ability: "Tidemaw Embrace"	false
 unit_abilities_tooltip_text_hkrul_goftur_cry	From the shallows, his limbs rise — wet, coiling, inescapable.	false
 unit_abilities_onscreen_name_hkrul_goftur_cry	Tidemaw Embrace	false

@@ -57,8 +57,8 @@ ancillary_sets_name_hkrul_birna_set	Mutant Champion of the Kalti Delta	false
 ancillary_sets_description_hkrul_birna_set	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - their ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
 effect_bundles_localised_description_rhox_birna_ws_hunt	Birna's harnasses more power with each succesful Monster Hunt	false
 effect_bundles_localised_title_rhox_birna_ws_hunt	Mutant Huntress	false
-effect_bundles_localised_description_hkrul_birna_faction_trait	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - their ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
-effect_bundles_localised_title_hkrul_birna_faction_trait	Mutants of the Sarl	false
+effect_bundles_localised_description_hkrul_birna_lord_trait	Champions of the Sarl are stalkers of the vast salt marshes that make up for the majority of the Sarl territory - their ability to traverse these treacherous grounds whilst remaining unfased by looming threats make them a force to be reckoned with.	false
+effect_bundles_localised_title_hkrul_birna_lord_trait	Mutants of the Sarl	false
 effects_description_rhox_birna_hunting_bonus	Has a chance to retrigger completed monster hunts upon Birna's victories over specific cultures: %+n%	false
 effects_description_rhox_birna_wood_bonus_dummy	Timber resource buildings provide additional global bonuses	false
 campaign_localised_strings_string_hkrul_sarl_hunters_ror_lock	[[col:red]]This Regiment of Renown will unlock only if you ally or Confederate Sarl faction or have Birna in your faction[[/col]]	false

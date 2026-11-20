@@ -61,8 +61,8 @@ effects_description_hkrul_goftur_chaos_dummy	Finish Gröftur's quests and allow 
 effects_description_hkrul_goftur_sacrifice_dummy	[[col:red]]Warning: In case of ascension all embedded forces in Gröftur's army will be lost[[/col]]	false
 effects_description_hkrul_grydal_ascend_dummy	Urlfdaemonkin: Finish Grydal's quests and allow him to ascend into Daemonhood	false
 effects_description_hkrul_goftur_ascend_dummy	The Brine-Ascension: Finish Gröftur's quests and allow him to receive Mermedus' Gift	false
-effect_bundles_localised_description_hkrul_grydal_faction_trait	Born of blood and black ice, the Snaegr heed no jarl but the Blood God. They feast on flesh, wear bone as prayer, and butcher southward with each Moon-time. Skulls line their path, tongues fuel their fires, and mercy is a word long lost. Their ancestor ascended — now they slaughter to earn his gaze.	false
-effect_bundles_localised_title_hkrul_grydal_faction_trait	The Snaegr	false
+effect_bundles_localised_description_hkrul_grydal_lord_trait	Born of blood and black ice, the Snaegr heed no jarl but the Blood God. They feast on flesh, wear bone as prayer, and butcher southward with each Moon-time. Skulls line their path, tongues fuel their fires, and mercy is a word long lost. Their ancestor ascended — now they slaughter to earn his gaze.	false
+effect_bundles_localised_title_hkrul_grydal_lord_trait	The Snaegr	false
 units_custom_battle_types_localised_description_hkrul_grydalhkrul_urftype_mark	Moon-Time of Urlf	false
 units_custom_battle_types_type_name_hkrul_grydalhkrul_urftype_mark	Urlfdaemonkin	false
 agent_subtypes_description_text_override_hkrul_urf	The Scourge ascends. The North remembers. And skulls will follow in his wake.	false

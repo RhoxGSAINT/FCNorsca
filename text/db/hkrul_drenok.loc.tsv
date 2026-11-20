@@ -67,8 +67,8 @@ unit_abilities_onscreen_name_hkrul_drenok_frostwyrm	Frozen Fury	false
 unit_abilities_tooltip_text_hkrul_drenok_frostwyrm	Creatures infused with chaotic corrupted black ice unravel in a bloodthirsty frenzy when close to the Greataxe of the Icefang.	false
 effects_description_hkrul_drenok_frostwyrm	Ability: "Frozen Fury" for Chaos Frost Dragon untis	false
 effects_description_hkrul_drenok_xp	Recruit rank: %+n for Chaos Frost Dragon units	false
-effect_bundles_localised_description_hkrul_drenok_faction_trait	Drenok's journey is fraught with peril, for he seeks his father, Johan, once chieftain of the Icefangs, now possessed by a Daemon of Khorne. Their confrontation, a clash of mortal and Daemon, will shape the fate of Norsca and the New World.	false
-effect_bundles_localised_title_hkrul_drenok_faction_trait	Followers of the Great Axe	false
+effect_bundles_localised_description_hkrul_drenok_lord_trait	Drenok's journey is fraught with peril, for he seeks his father, Johan, once chieftain of the Icefangs, now possessed by a Daemon of Khorne. Their confrontation, a clash of mortal and Daemon, will shape the fate of Norsca and the New World.	false
+effect_bundles_localised_title_hkrul_drenok_lord_trait	Followers of the Great Axe	false
 effects_description_rhox_drenok_winter_dummy	Ice Storms: Chaos infused hailstorms will be created upon capturing settlements with a Frozen or Chaotic Wasteland climate	false
 effect_bundles_localised_description_rhox_icefang_region_winter_storm	Harsh Winter	false
 effect_bundles_localised_title_rhox_icefang_region_winter_storm	Harsh Winter	false

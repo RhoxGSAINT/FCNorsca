@@ -34,8 +34,8 @@ unit_description_historical_texts_text_hkrul_eyri	Eyri Goldfinger, self-styled L
 unit_abilities_tooltip_text_hkrul_eyri_axe	Each swing seals a pact, each kill a debt repaid in red.	true
 unit_abilities_onscreen_name_hkrul_eyri_axe	Coincleavers	true
 character_skill_node_sets_enc_title_skill_node_set_hkrul_eyri		false
-effect_bundles_localised_description_hkrul_eyri_faction_trait	In Eyristaad, loyalty is bought, sold, and often bartered for salted fish. Goldfinger’s wealth has kept the trolls fed, the ships floating, and the blades sharpened. Some claim he’s struck secret pacts with foreign lords, or even daemons. Eyri denies it all — while sipping Bretonnian brandy and calculating interest on war.	false
-effect_bundles_localised_title_hkrul_eyri_faction_trait	Salt and Coin	false
+effect_bundles_localised_description_hkrul_eyri_lord_trait	In Eyristaad, loyalty is bought, sold, and often bartered for salted fish. Goldfinger’s wealth has kept the trolls fed, the ships floating, and the blades sharpened. Some claim he’s struck secret pacts with foreign lords, or even daemons. Eyri denies it all — while sipping Bretonnian brandy and calculating interest on war.	false
+effect_bundles_localised_title_hkrul_eyri_lord_trait	Salt and Coin	false
 character_skills_localised_description_hkrul_eyri_mammoth	From the icy caves beneath Mount Kronfjall, this mammoth was captured after ten men died luring it from its lair.	false
 character_skills_localised_name_hkrul_eyri_mammoth	Kronfjall Thunderhoof	false
 land_units_onscreen_name_hkrul_eyri_mammoth	Eyri Goldfinger	false

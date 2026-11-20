@@ -3,8 +3,8 @@ key	text	tooltip
 character_trait_levels_colour_text_hkrul_defeated_trait_ek	The wheels on the chariot go round and round..	false
 character_trait_levels_explanation_text_hkrul_defeated_trait_ek	Defeated Surtha Ek	false
 character_trait_levels_onscreen_name_hkrul_defeated_trait_ek	The Everchariot	false
-effect_bundles_localised_description_hkrul_ek_faction_trait	Surtha Ek's natural talent for commanding chariots quickly earned him recognition among his people, and he soon became known as the most feared chariot master in all of Norsca.	false
-effect_bundles_localised_title_hkrul_ek_faction_trait	The Everchariot	false
+effect_bundles_localised_description_hkrul_ek_lord_trait	Surtha Ek's natural talent for commanding chariots quickly earned him recognition among his people, and he soon became known as the most feared chariot master in all of Norsca.	false
+effect_bundles_localised_title_hkrul_ek_lord_trait	The Everchariot	false
 character_skills_localised_name_innate_hkrul_surtha_ek	Chariot-Lord of the Varg	true
 character_skills_localised_description_innate_hkrul_surtha_ek	Surtha Ek, the "Everchariot," looms over the battlefield astride his chariot, a relentless force of destruction and chaos.	true
 character_skills_localised_description_hkrul_surtha_ek_special_0_1	Surtha Ek bestows his blessings upon his followers, granting them increased strength, speed, and resilience in battle	true

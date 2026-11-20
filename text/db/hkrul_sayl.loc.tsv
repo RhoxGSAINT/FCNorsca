@@ -60,8 +60,8 @@ ancillaries_colour_text_hkrul_sayl_mammoth	Tainted and savage they may be, but t
 ancillaries_onscreen_name_hkrul_sayl_mammoth	War Mammoth	false
 land_units_onscreen_name_hkrul_sayl_chariot	Sayl the Faithless	false
 land_units_onscreen_name_hkrul_sayl_mammoth	Sayl the Faithless	false
-effect_bundles_localised_description_hkrul_sayl_faction_trait	The master of betrayal, guile and treachery leads his Dolgan Tribe in to realms unknown.	false
-effect_bundles_localised_title_hkrul_sayl_faction_trait	Twisted Seer of the Wastes	false
+effect_bundles_localised_description_hkrul_sayl_lord_trait	The master of betrayal, guile and treachery leads his Dolgan Tribe in to realms unknown.	false
+effect_bundles_localised_title_hkrul_sayl_lord_trait	Twisted Seer of the Wastes	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mkho_dualweapons	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false
 mercenary_unit_groups_replenishment_reason_rhox_sayl_wh3_dlc20_chs_inf_chosen_mtze	[[col:red]]This unit will be granted by tricking the Chaos God when spending favour, it will lower your standing with said God[[/col]]	false

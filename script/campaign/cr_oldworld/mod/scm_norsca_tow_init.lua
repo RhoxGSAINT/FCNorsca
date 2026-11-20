@@ -76,7 +76,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_icefang_how_they_play",
         pic=800,
-        faction_trait="hkrul_drenok_faction_trait",
+        faction_trait="hkrul_drenok_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -99,7 +99,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_baersonling_how_they_play",
         pic=800,
-        faction_trait="hkrul_einar_faction_trait",
+        faction_trait="hkrul_einar_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_rafn", faction:faction_leader():command_queue_index(), true)
@@ -130,7 +130,7 @@ local rhox_faction_list={
         },          
         how_they_play="rhox_fc_norsca_bjornling_how_they_play",
         pic=800,
-        faction_trait="hkrul_ulfric_faction_trait",
+        faction_trait="hkrul_ulfric_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -171,7 +171,7 @@ local rhox_faction_list={
         },	
         how_they_play="rhox_fc_norsca_graeling_how_they_play",
         pic=800,
-        faction_trait="hkrul_harald_faction_trait",
+        faction_trait="hkrul_harald_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -195,7 +195,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_wh_main_nor_sarl_how_they_play",
         pic=800,
-        faction_trait="hkrul_birna_faction_trait",
+        faction_trait="hkrul_birna_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -216,7 +216,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_wh_main_nor_aesling_how_they_play",
         pic=800,
-        faction_trait="hkrul_hakka_faction_trait",
+        faction_trait="hkrul_hakka_lord_trait",
         kill_previous_leader="human_only",--they're first target of Throgg, so needs to be careful
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -250,7 +250,7 @@ local rhox_faction_list={
         region="cr_oldworld_region_crow_brethren_roost",
         how_they_play="rhox_fc_norsca_brennuns_how_they_play",
         pic=800,
-        faction_trait="hkrul_yngve_faction_trait",
+        faction_trait="hkrul_yngve_lord_trait",
         kill_previous_leader="human_only",--they're first target of Azazel, so needs to be careful
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -275,7 +275,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_varg_how_they_play",
         pic=800,
-        faction_trait="hkrul_ek_faction_trait",
+        faction_trait="hkrul_ek_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -358,7 +358,7 @@ local rhox_faction_list={
         region="cr_oldworld_region_hall_of_urslo",
         how_they_play="rhox_iee_lccp_how_they_play_beorg",
         pic=800,
-        faction_trait="rhox_beorg_faction_trait",
+        faction_trait="rhox_beorg_lord_trait",
         additional = function(faction, faction_key) 
             cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_brown_feral")
             cm:add_unit_to_faction_mercenary_pool(faction,"hkrul_beorg_brown_feral_marked","wh3_main_regiments_of_renown_pool",0,100,20,0,"","","",false,"hkrul_beorg_brown_feral_marked")
@@ -393,7 +393,7 @@ local rhox_faction_list={
 
     how_they_play = "rhox_fc_norsca_geimdall_how_they_play",
     pic = 800,
-    faction_trait = "hkrul_geimdall_faction_trait",
+    faction_trait = "hkrul_geimdall_lord_trait",
     kill_previous_leader = true,
 
     additional = function(faction, faction_key)
@@ -440,7 +440,7 @@ local rhox_faction_list={
 
     how_they_play = "rhox_fc_norsca_olaf_how_they_play",
     pic = 800,
-    faction_trait = "hkrul_olaf_faction_trait",
+    faction_trait = "hkrul_olaf_lord_trait",
     kill_previous_leader = true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -477,7 +477,7 @@ local rhox_faction_list={
 
     how_they_play = "rhox_fc_norsca_eyri_how_they_play",
     pic = 800,
-    faction_trait = "hkrul_eyri_faction_trait",
+    faction_trait = "hkrul_eyri_lord_trait",
     kill_previous_leader = true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -513,7 +513,7 @@ local rhox_faction_list={
 
         how_they_play = "rhox_fc_norsca_grydal_how_they_play",
         pic = 800,
-        faction_trait = "hkrul_grydal_faction_trait",
+        faction_trait = "hkrul_grydal_lord_trait",
         kill_previous_leader = true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -549,7 +549,7 @@ local rhox_faction_list={
 
 		how_they_play = "rhox_fc_norsca_goftur_how_they_play",
 		pic = 800,
-		faction_trait = "hkrul_goftur_faction_trait",
+		faction_trait = "hkrul_goftur_lord_trait",
 		kill_previous_leader = true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
@@ -580,7 +580,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_wh_main_nor_yusak_how_they_play",
         pic=800,
-        faction_trait="hkrul_sarg_faction_trait",
+        faction_trait="hkrul_sarg_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
 		    cm:spawn_unique_agent_at_character(faction:command_queue_index(), "hkrul_uzul", faction:faction_leader():command_queue_index(), true)
@@ -627,7 +627,7 @@ local rhox_faction_list={
         },
         how_they_play="rhox_fc_norsca_kul_how_they_play",
         pic=800,
-        faction_trait="hkrul_akkorak_faction_trait",
+        faction_trait="hkrul_akkorak_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             local function rhox_add_faction_akkorak_pool_units (faction_obj, unit_group)
@@ -681,7 +681,7 @@ local rhox_faction_list={
         },	
         how_they_play="rhox_fc_norsca_mixer_nor_fjordlings_how_they_play",
         pic=800,
-        faction_trait="hkrul_vandred_faction_trait",
+        faction_trait="hkrul_vandred_lord_trait",
         kill_previous_leader=true,
         additional = function(faction, faction_key)
             cm:add_event_restricted_unit_record_for_faction("wh_dlc08_nor_mon_war_mammoth_ror_1",faction_key, "norsca_monster_hunt_ror_unlock")
