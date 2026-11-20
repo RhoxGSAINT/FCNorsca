@@ -1,16 +1,16 @@
 key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
 #effect_bundles_tables;4;db/effect_bundles_tables/hkrul_fc_norsca_faction_leader_effect								
-hkrul_adella_lord_trait			faction	1	effect_bundle_skeggi.png	true	false	true
-hkrul_sayl_lord_trait			faction	1	effect_bundle_dolgan.png	true	false	true
-hkrul_birna_lord_trait			faction	1	effect_bundle_sarl.png	true	false	true
-hkrul_akkorak_lord_trait			faction	1	effect_bundle_kul.png	true	false	true
-hkrul_harald_lord_trait			faction	1	effect_bundle_graeling.png	true	false	true
-hkrul_einar_lord_trait			faction	1	effect_bundle_baersonling.png	true	false	true
-hkrul_drenok_lord_trait			faction	1	effect_bundle_icefang.png	true	false	true
-hkrul_ulfric_lord_trait			faction	1	effect_bundle_bjornling.png	true	false	true
-hkrul_hakka_lord_trait			faction	1	effect_bundle_aesling.png	true	false	true
-hkrul_ek_lord_trait			faction	1	effect_bundle_varg.png	true	false	true
-hkrul_sarg_lord_trait			faction	1	effect_bundle_yusak.png	true	false	true
-hkrul_vandred_lord_trait			faction	1		true	false	true
-hkrul_geimdall_lord_trait			faction	1	effect_bundle_geimdall.png	true	false	true
-hkrul_yngve_lord_trait			faction	1	effect_bundle_yngve.png	true	false	true
+hkrul_adella_lord_trait			faction	1	effect_bundle_skeggi.png	false	false	true
+hkrul_sayl_lord_trait			faction	1	effect_bundle_dolgan.png	false	false	true
+hkrul_birna_lord_trait			faction	1	effect_bundle_sarl.png	false	false	true
+hkrul_akkorak_lord_trait			faction	1	effect_bundle_kul.png	false	false	true
+hkrul_harald_lord_trait			faction	1	effect_bundle_graeling.png	false	false	true
+hkrul_einar_lord_trait			faction	1	effect_bundle_baersonling.png	false	false	true
+hkrul_drenok_lord_trait			faction	1	effect_bundle_icefang.png	false	false	true
+hkrul_ulfric_lord_trait			faction	1	effect_bundle_bjornling.png	false	false	true
+hkrul_hakka_lord_trait			faction	1	effect_bundle_aesling.png	false	false	true
+hkrul_ek_lord_trait			faction	1	effect_bundle_varg.png	false	false	true
+hkrul_sarg_lord_trait			faction	1	effect_bundle_yusak.png	false	false	true
+hkrul_vandred_lord_trait			faction	1		false	false	true
+hkrul_geimdall_lord_trait			faction	1	effect_bundle_geimdall.png	false	false	true
+hkrul_yngve_lord_trait			faction	1	effect_bundle_yngve.png	false	false	true
